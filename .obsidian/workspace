@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "86f847dec4650f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "852611acad89be4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/Aumann's Agreement Theorem.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32110417eab63e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "3decef8485dcbd0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f54bf64a7ce361e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aedfa17cd40aecf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "708a64bbf6effb96",
+    "type": "split",
+    "children": [
+      {
+        "id": "a765c781f83a5c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b465989217138611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Aumann's Agreement Theorem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "852611acad89be4d",
+  "lastOpenFiles": [
+    "Concepts/Aumann's Agreement Theorem.md",
+    "Concepts/Artificial intelligence.md",
+    "Concepts/Anticipated Experiences.md",
+    "Concepts/Rationality.md",
+    "Concepts/World modeling.md",
+    "Concepts/World optimization.md",
+    "Concepts.md",
+    "Concepts/Practical.md",
+    "Jargon/Jargon.md",
+    "Jargon/ADBOC.md"
+  ]
+}
