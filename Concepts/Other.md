@@ -3,6 +3,11 @@ tags: ['LessWrong', 'Portal', 'Category']
 src: https://www.lesswrong.com/tag/other
 ---
 
+# Other
+
+
+---
+
 ### Content-Type
 - [[Art]]
 - [[Checklists]]
@@ -16,6 +21,8 @@ src: https://www.lesswrong.com/tag/other
 - [[Poetry]]
 - [[Postmortems & Retrospectives]]
 - [[Summaries]]
+
+
 ### Format
 - [[Book Reviews]]
 - [[Interviews]]
@@ -25,13 +32,19 @@ src: https://www.lesswrong.com/tag/other
 - [[Q&A (format)]]
 - [[Surveys]]
 - [[Transcripts]]
+
+
 ### Cross-Category
 - [[Cooking]]
 - [[Education]]
 - [[Narratives (stories)]]
 - [[Religion]]
 - [[Writing]]
+
+
 ### Miscellaneous
 - [[Fiction (topic)]]
 - [[Gaming (videogames & tabletop)]]
 - [[HPMOR (discussion & meta)]]
+
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Aumann's Agreement Theorem.md",
+            "file": "Concepts/Courage.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Aumann's Agreement Theorem.md",
+                "file": "Concepts/Courage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "852611acad89be4d",
   "lastOpenFiles": [
-    "Concepts/Aumann's Agreement Theorem.md",
-    "Concepts/Artificial intelligence.md",
-    "Concepts/Anticipated Experiences.md",
-    "Concepts/Rationality.md",
-    "Concepts/World modeling.md",
-    "Concepts/World optimization.md",
-    "Concepts.md",
-    "Concepts/Practical.md",
-    "Jargon/Jargon.md",
-    "Jargon/ADBOC.md"
+    "Concepts/Courage.md",
+    "Concepts/Sunk-Cost Fallacy.md",
+    "Concepts/Taking Ideas Seriously.md",
+    "Concepts/Techniques.md",
+    "Concepts/Betting.md",
+    "Concepts/Bucket Errors.md",
+    "Concepts/Common Knowledge.md",
+    "Concepts/Community.md",
+    "Concepts/Compartmentalization.md",
+    "Concepts/Infra-Bayesianism.md"
   ]
 }

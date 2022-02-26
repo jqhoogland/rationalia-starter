@@ -143,7 +143,11 @@ def write_category_portal(category, data, out_path):
 
         # For each concept, copy the standard description from LessWrong as a placeholder.
         f.write(md.title(category))
-        f.write(get_tag_description(category))
+        try:
+            f.write(get_tag_description(category))
+        except TypeError:
+            pass
+
         f.write(f"\n{md.hl}\n")
 
         for (subcategory, subdata) in data.items():
@@ -168,10 +172,19 @@ def write_category_portal(category, data, out_path):
 
     # Create a note for each tag
     for (tag, href) in tags:
-        with open(os.path.join(out_path, tag + ".md"), "w") as f:
-            f.write(md.frontmatter(tags=["LessWrong", "Concept"], src=href))
-            f.write(md.title(tag))
-            f.write(get_tag_description(tag))
+        tag = md.clean_link(tag)
+
+        full_out_path = os.path.join(out_path, tag + ".md")
+
+        if not os.path.isfile(full_out_path):
+            with open(full_out_path, "w") as f:
+                f.write(md.frontmatter(tags=["LessWrong", "Concept"], src=href))
+                f.write(md.title(tag))
+                try:
+                    desc = get_tag_description(tag)
+                    f.write(desc)
+                except TypeError:
+                    pass
 
 
 
