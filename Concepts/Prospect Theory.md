@@ -3,12 +3,12 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/prospect-theory
 ---
 
-Prospect Theory is an attempt by [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky) and [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) to construct a [decision theory](https://www.lesswrong.com/tag/decision-theory) that describes the actual behavior of humans, rather than idealized [rational](https://www.lesswrong.com/tag/rationality) decision-making.
+Prospect Theory is an attempt by [[Decision Theory|Amos Tversky]] that describes the actual behavior of humans, rather than idealized [[Rationality|rational]] decision-making.
 
 An agent, in prospect theory:
 
 - is 
-- [loss-averse](https://www.lesswrong.com/tag/loss-aversion)
+- [[Loss Aversion|loss-averse]]
 - , and so weighs losses (relative to some reference point) more strongly than gains
 - is 
 - [risk-averse](https://wiki.lesswrong.com/wiki/risk_aversion)
@@ -16,7 +16,7 @@ An agent, in prospect theory:
 - uses probability 
 - weighting:
 -  small probabilities count more and larger probabilities count less than they would under 
-- [expected utility](https://www.lesswrong.com/tag/expected-utility)
+- [[Expected Utility|expected utility]]
 - .
 
 ## Blog posts
@@ -28,10 +28,10 @@ An agent, in prospect theory:
 -  at Psychology Wiki
 
 ## See also
-- [Heuristics and biases](https://www.lesswrong.com/tag/heuristics-and-biases)
-- [Loss aversion](https://www.lesswrong.com/tag/loss-aversion)
-- [Decision theory](https://www.lesswrong.com/tag/decision-theory)
-- [Expected utility](https://www.lesswrong.com/tag/expected-utility)
+- [[Heuristics & Biases|Heuristics and biases]]
+- [[Loss Aversion|Loss aversion]]
+- [[Decision Theory|Decision theory]]
+- [[Expected Utility|Expected utility]]
 
 
 

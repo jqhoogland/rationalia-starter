@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/making-beliefs-pay-rent
 ---
 
-Any [belief](https://www.lesswrong.com/tag/belief) should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now?
+Any [[Belief|belief]] should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now?
 
 ## Blog posts
 - [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
@@ -14,12 +14,12 @@ Any [belief](https://www.lesswrong.com/tag/belief) should restrict which experie
 - [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## See also
-- [Belief](https://www.lesswrong.com/tag/belief)
+- [[Belief]]
 - , 
-- [Alief](https://www.lesswrong.com/tag/alief)
-- [Technical explanation](https://www.lesswrong.com/tag/technical-explanation)
-- [Beliefs require observations](https://www.lesswrong.com/tag/beliefs-require-observations)
-- [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)
+- [[Alief]]
+- [[Technical Explanation|Technical explanation]]
+- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Free-Floating Belief|Free-floating belief]]
 - [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
 
 

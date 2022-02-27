@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/surprise
 ---
 
-Recognizing a fact that disagrees with your [intuition](https://www.lesswrong.com/tag/intuition) as surprising is an important step in [updating](https://wiki.lesswrong.com/wiki/updating) your worldview.
+Recognizing a fact that disagrees with your [[Intuition|intuition]] as surprising is an important step in [updating](https://wiki.lesswrong.com/wiki/updating) your worldview.
 
 ## Blog posts
 - [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
@@ -11,10 +11,10 @@ Recognizing a fact that disagrees with your [intuition](https://www.lesswrong.co
 - [Your Strength as a Rationalist](http://lesswrong.com/lw/if/your_strength_as_a_rationalist/)
 
 ## See also
-- [Curiosity](https://www.lesswrong.com/tag/curiosity)
-- [Bite the bullet](https://www.lesswrong.com/tag/bite-the-bullet)
+- [[Curiosity]]
+- [[Bite The Bullet|Bite the bullet]]
 - [Beliefs pay rent](https://wiki.lesswrong.com/wiki/Beliefs_pay_rent)
-- [Incredulity](https://www.lesswrong.com/tag/incredulity)
+- [[Incredulity]]
 
 
 

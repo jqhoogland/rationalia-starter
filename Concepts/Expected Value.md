@@ -9,7 +9,7 @@ The expected value or expectation is the (weighted) average of all the possible 
 
 ## See also
 - [Probability](https://wiki.lesswrong.com/wiki/Probability)
-- [Expected utility](https://www.lesswrong.com/tag/expected-utility)
+- [[Expected Utility|Expected utility]]
 
 ## External links
 - [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)

@@ -7,7 +7,7 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) on the incredibly difficu
 
 This is sometimes referred to as "thinking outside the box" by people who, for your convenience, will go on to helpfully point out exactly where "outside the box" is located. The Less Wrong version is called "thinking outside the 'Outside the Box' box". Isn't it funny how nonconformists all dress the same...
 
-Subsequence of [How To Actually Change Your Mind](https://www.lesswrong.com/tag/how-to-actually-change-your-mind).
+Subsequence of [[How To Actually Change Your Mind]].
 
 ## Blog posts
 - [Anchoring and Adjustment](http://lesswrong.com/lw/j7/anchoring_and_adjustment/)
