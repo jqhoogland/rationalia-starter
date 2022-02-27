@@ -9,7 +9,7 @@ In Yudkowsky's work on [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI
 
 "What?" you cry indignantly. "That's not what I meant! That's not true happiness!"
 
-And if you try to unpack the concept of "true" happiness - that is, happiness which qualifies for being valuable - then you end up with a highly complicated [Fun Theory](https://www.lesswrong.com/tag/fun-theory). So the word "happiness" actually turned out to have a [complicated border](https://www.lesswrong.com/tag/superexponential-conceptspace); you would have to draw a squiggly surface in the space of possibilities, to capture everything you meant by "happiness" and exclude everything you didn't mean.
+And if you try to unpack the concept of "true" happiness - that is, happiness which qualifies for being valuable - then you end up with a highly complicated [[Fun Theory]]. So the word "happiness" actually turned out to have a [Superexponential Conceptspace|complicated border](https://www.lesswrong.com/tag/superexponential-conceptspace); you would have to draw a squiggly surface in the space of possibilities, to capture everything you meant by "happiness" and exclude everything you didn't mean.
 
 Or suppose that your mother's house was on fire, and so you wished to a literal-minded genie to "get my mother out of the house". The genie said: "What do you mean by that? Can you specify it mathematically?" And you replied: "Increase the distance between the following contiguous physical entity, designated 'Mom', and the center of the following house." So the genie takes your mother and throws her out of the Solar System.
 
@@ -22,15 +22,15 @@ Physical brains are not powerful enough to search all possibilities; we have to 
 - [Magical Categories](http://lesswrong.com/lw/td/magical_categories/)
 
 ## See also
-- [Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
-- [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
+- [Complexity of Value|Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
+- [Fake Simplicity|Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
 - , 
-- [Detached lever fallacy](https://www.lesswrong.com/tag/detached-lever-fallacy)
-- [Mind design space](https://www.lesswrong.com/tag/mind-design-space)
+- [Detached Lever Fallacy|Detached lever fallacy](https://www.lesswrong.com/tag/detached-lever-fallacy)
+- [Mind Design Space|Mind design space](https://www.lesswrong.com/tag/mind-design-space)
 - , 
-- [Paperclip maximizer](https://www.lesswrong.com/tag/paperclip-maximizer)
-- [Friendly artificial intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)
-- [Magic](https://www.lesswrong.com/tag/magic)
+- [Paperclip Maximizer|Paperclip maximizer](https://www.lesswrong.com/tag/paperclip-maximizer)
+- [Friendly Artificial Intelligence|Friendly artificial intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)
+- [[Magic]]
 
 
 

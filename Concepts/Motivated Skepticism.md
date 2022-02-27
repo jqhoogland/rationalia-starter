@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/motivated-skepticism
 ---
 
-Motivated skepticism is the mistake of applying more skepticism to claims that you don't like (or intuitively disbelieve), than to claims that you do like. Because [emotional](https://www.lesswrong.com/tag/emotions) disposition towards a claim isn't generally [evidence](https://www.lesswrong.com/tag/evidence) about its [truth](https://www.lesswrong.com/tag/truth-semantics-and-meaning), including it in the process of arriving at a [belief](https://www.lesswrong.com/tag/belief) means holding the belief partly for [reasons other than because it's true](https://www.lesswrong.com/tag/improper-belief).
+Motivated skepticism is the mistake of applying more skepticism to claims that you don't like (or intuitively disbelieve), than to claims that you do like. Because [Emotions|emotional](https://www.lesswrong.com/tag/emotions) disposition towards a claim isn't generally [Evidence|evidence](https://www.lesswrong.com/tag/evidence) about its [Truth, Semantics, & Meaning|truth](https://www.lesswrong.com/tag/truth-semantics-and-meaning), including it in the process of arriving at a [Belief|belief](https://www.lesswrong.com/tag/belief) means holding the belief partly for [reasons other than because it's true](https://www.lesswrong.com/tag/improper-belief).
 
 ## Blog posts
 - [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
@@ -19,17 +19,17 @@ Motivated skepticism is the mistake of applying more skepticism to claims that y
 - [lukeprog](http://lukeprog.com/)
 
 ## See also
-- [Motivated cognition](https://www.lesswrong.com/tag/motivated-reasoning)
-- [Least convenient possible world](https://www.lesswrong.com/tag/least-convenient-possible-world)
-- [Filtered evidence](https://www.lesswrong.com/tag/filtered-evidence)
+- [Motivated Reasoning|Motivated cognition](https://www.lesswrong.com/tag/motivated-reasoning)
+- [Least Convenient Possible World|Least convenient possible world](https://www.lesswrong.com/tag/least-convenient-possible-world)
+- [Filtered Evidence|Filtered evidence](https://www.lesswrong.com/tag/filtered-evidence)
 - , 
-- [Conservation of expected evidence](https://www.lesswrong.com/tag/conservation-of-expected-evidence)
-- [Color politics](https://www.lesswrong.com/tag/blues-and-greens-metaphor)
-- [Positive bias](https://www.lesswrong.com/tag/confirmation-bias)
-- [Rationalization](https://www.lesswrong.com/tag/rationalization)
+- [Conservation of Expected|Conservation of expected evidence](https://www.lesswrong.com/tag/conservation-of-expected-evidence)
+- [Blues & Greens (metaphor)|Color politics](https://www.lesswrong.com/tag/blues-and-greens-metaphor)
+- [Confirmation Bias|Positive bias](https://www.lesswrong.com/tag/confirmation-bias)
+- [[Rationalization]]
 - , 
-- [Oops](https://www.lesswrong.com/tag/oops)
-- [Dangerous knowledge](https://www.lesswrong.com/tag/dangerous-knowledge)
+- [[Oops]]
+- [Dangerous Knowledge|Dangerous knowledge](https://www.lesswrong.com/tag/dangerous-knowledge)
 
  
 

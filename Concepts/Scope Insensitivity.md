@@ -12,16 +12,16 @@ The human brain can't *emotionally* represent large quantities; an environmental
 - [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/)
 
 ## See also
-- [Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply)
-- [Expected utility](https://www.lesswrong.com/tag/expected-utility)
+- [Shut Up and Multiply|Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply)
+- [Expected Utility|Expected utility](https://www.lesswrong.com/tag/expected-utility)
 - , 
-- [Utilitarianism](https://www.lesswrong.com/tag/utilitarianism)
-- [Evolutionary psychology](https://www.lesswrong.com/tag/evolutionary-psychology)
-- [Emotion](https://www.lesswrong.com/tag/emotions)
+- [[Utilitarianism]]
+- [Evolutionary Psychology|Evolutionary psychology](https://www.lesswrong.com/tag/evolutionary-psychology)
+- [Emotions|Emotion](https://www.lesswrong.com/tag/emotions)
 - , 
-- [alief](https://www.lesswrong.com/tag/alief)
+- [Alief|alief](https://www.lesswrong.com/tag/alief)
 - [Pascal's mugging](https://www.lesswrong.com/tag/pascal-s-mugging)
-- [Existential risk](https://www.lesswrong.com/tag/existential-risk)
+- [Existential Risk|Existential risk](https://www.lesswrong.com/tag/existential-risk)
 
 
 

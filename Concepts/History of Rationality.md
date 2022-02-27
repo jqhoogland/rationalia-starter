@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/history-of-rationality
 ---
 
-A post is relevant to the history of rationality if it discusses past events pertaining to [the LW community](https://www.lesswrong.com/tag/community) or another topic related to [rationality](https://www.lesswrong.com/tag/rationality), or the post is of strong historical interest.
+A post is relevant to the history of rationality if it discusses past events pertaining to [Community|the LW community](https://www.lesswrong.com/tag/community) or another topic related to [Rationality|rationality](https://www.lesswrong.com/tag/rationality), or the post is of strong historical interest.
 
 You can see a list of all LW posts, from oldest to newest, [here](https://wiki.lesswrong.com/wiki/Less_Wrong/All_articles).
 

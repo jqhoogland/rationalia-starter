@@ -7,7 +7,7 @@ If dragons were common, and you could look at one in the zoo - but zebras were a
 
 Which is rather setting ourselves up for eternal disappointment, eh? If we cannot take joy in the merely real, our lives shall be empty indeed.
 
-A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [ Reductionism](https://www.lesswrong.com/tag/reductionism-sequence).
+A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [Reductionism (Sequence)| Reductionism](https://www.lesswrong.com/tag/reductionism-sequence).
 
 ## Blog Posts
 - [Joy in the Merely Real](http://lesswrong.com/lw/or/joy_in_the_merely_real/)
@@ -28,11 +28,11 @@ A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [ Reductionism](htt
 -  (and 
 - [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/)
 - )
-- [Reality is normal](https://www.lesswrong.com/tag/reality-is-normal)
+- [Reality Is Normal|Reality is normal](https://www.lesswrong.com/tag/reality-is-normal)
 - ,
 -  
 - [Egan's Law](https://wiki.lesswrong.com/wiki/Egan's_Law)
-- [Joy in discovery](https://www.lesswrong.com/tag/joy-in-discovery)
+- [Joy In Discovery|Joy in discovery](https://www.lesswrong.com/tag/joy-in-discovery)
 
  
 

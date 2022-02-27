@@ -12,9 +12,9 @@ src: https://www.lesswrong.com/tag/representativeness-heuristic
 -  at Psychology Wiki
 
 ## See also
-- [Conjunction fallacy](https://www.lesswrong.com/tag/conjunction-fallacy)
-- [Availability heuristic](https://www.lesswrong.com/tag/availability-heuristic)
-- [Narrative fallacy](https://www.lesswrong.com/tag/narrative-fallacy)
+- [Conjunction Fallacy|Conjunction fallacy](https://www.lesswrong.com/tag/conjunction-fallacy)
+- [Availability Heuristic|Availability heuristic](https://www.lesswrong.com/tag/availability-heuristic)
+- [Narrative Fallacy|Narrative fallacy](https://www.lesswrong.com/tag/narrative-fallacy)
 
 
 

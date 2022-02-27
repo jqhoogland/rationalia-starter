@@ -1,6 +1,6 @@
 ---
 tags: ['LessWrong', 'Portal', 'Concept']
-src: https://www.lesswrong.com/tag/epistemic-modesty
+src: https://www.lesswrong.com/tag/humility
 ---
 
 Outside of LessWrong, "humility" usually [refers to](https://www.google.com/search?q=humility) "a modest or low view of one's own importance". In common parlance, to be [humble](https://ahdictionary.com/word/search.html?q=%20HUMBLE) is to be meek, deferential, submissive, or unpretentious, "not arrogant or prideful". Thus, in ordinary English "humility" and "[modesty](https://www.lesswrong.com/tag/modesty)" have pretty similar connotations.

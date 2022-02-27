@@ -13,7 +13,7 @@ There are narrow conceptions of alignment, where you’re trying to get it to do
 
 But both the narrow and the ambitious alignment have in common that you’re trying to have the AI do that thing rather than making a lot of paperclips.
 
-See also [General Intelligence](https://www.lesswrong.com/tag/general-intelligence).
+See also [[General Intelligence]].
 
 
 

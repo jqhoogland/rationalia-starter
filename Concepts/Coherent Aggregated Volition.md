@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://lesswrong.com/tag/coherent-aggregated-volition
 ---
 
-Coherent Aggregated Volition is one of [Ben Goertzel](https://www.lesswrong.com/tag/ben-goertzel)'s responses to [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)'s [Coherent Extrapolated Volition](https://www.lesswrong.com/tag/coherent-extrapolated-volition), the other being [Coherent Blended Volition](https://www.lesswrong.com/tag/coherent-blended-volition). CAV would be a combination of the goals and beliefs of humanity at the present time.
+Coherent Aggregated Volition is one of [[Ben Goertzel]]'s responses to [[Eliezer Yudkowsky]]'s [[Coherent Extrapolated Volition]], the other being [[Coherent Blended Volition]]. CAV would be a combination of the goals and beliefs of humanity at the present time.
 
 The author considers the "extrapolation" aspect of CEV as distorting the concept of volition and to be highly uncertain. He considers that if the person whose volition is being extrapolated has some inconsistent aspects (which is typically human), then there could be a great variety of possible extrapolations. The problem would then be which version of this extrapolated human to choose, or how to aggregate them, which would be very difficult to achieve.
 
@@ -25,7 +25,7 @@ Finally, Goertzel feels that it seems like CEV bypasses an essential aspect of b
 
 ## See also
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-- [Coherent Extrapolated Volition](https://www.lesswrong.com/tag/coherent-extrapolated-volition)
+- [[Coherent Extrapolated Volition]]
 - [Utility Functions](https://www.lesswrong.com/tag/utility-functions?showPostCount=true&useTagName=true)
 
 ## References

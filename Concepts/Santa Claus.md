@@ -16,7 +16,7 @@ It is a vexed question as to whether teaching your children about Santa is a goo
 - [Santa: Naughty Or Nice?](http://www.overcomingbias.com/2009/12/santa-naughty-or-nice.html)
 -  
 - by 
-- [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)
+- [[Robin Hanson]]
 - [The Santa deception: how did it affect you?](http://lesswrong.com/lw/3da/the_santa_deception_how_did_it_affect_you/)
 -  
 - by 
@@ -29,8 +29,8 @@ It is a vexed question as to whether teaching your children about Santa is a goo
 - [Penny Arcade](http://www.penny-arcade.com/)
 
 ## See also
-- [Third option](https://www.lesswrong.com/tag/third-option)
-- [Belief in belief](https://www.lesswrong.com/tag/belief-in-belief)
+- [Third Option|Third option](https://www.lesswrong.com/tag/third-option)
+- [Belief In Belief|Belief in belief](https://www.lesswrong.com/tag/belief-in-belief)
 
 
 

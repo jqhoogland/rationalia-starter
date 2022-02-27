@@ -3,10 +3,10 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://lesswrong.com/tag/coherent-blended-volition
 ---
 
-Coherent Blended Volition is a recent concept coined in a 2012 paper by [Ben Goertzel](https://www.lesswrong.com/tag/ben-goertzel) with the aim to clarify his [Coherent Aggregated Volition](https://www.lesswrong.com/tag/coherent-aggregated-volition) idea. This clarifications follows the author's attempt to develop a comprehensive alternative to [Coherent Extrapolated Volition](https://www.lesswrong.com/tag/coherent-extrapolated-volition).
+Coherent Blended Volition is a recent concept coined in a 2012 paper by [[Ben Goertzel]] with the aim to clarify his [[Coherent Aggregated Volition]] idea. This clarifications follows the author's attempt to develop a comprehensive alternative to [[Coherent Extrapolated Volition]].
 
 ## Concept
-When discussing [machine ethics](https://www.lesswrong.com/tag/machine-ethics) and the [extrapolation of human values](https://www.lesswrong.com/tag/value-extrapolation) for use in [AGIs](https://wiki.lesswrong.com/wiki/AGI), CAV appears to the author as being easily misinterpreted, with a confusion emerging between aggregation and averaging. This misinterpretation is then clarified through CBV, which suggests instead a “conceptual blend” between different values and perspectives. The term was borrowed from Fauconnier and Tunner’s works exploring creativity (2002) and is suggested that such process would allow for an harmonious and elegant incorporation of divergent views and goal sets. The major detail here is that each and every single one of the persons whose views are being blended would have to agree that these blend includes enough of their own contributions.
+When discussing [Machine Ethics|machine ethics](https://www.lesswrong.com/tag/machine-ethics) and the [Value Extrapolation|extrapolation of human values](https://www.lesswrong.com/tag/value-extrapolation) for use in [AGIs](https://wiki.lesswrong.com/wiki/AGI), CAV appears to the author as being easily misinterpreted, with a confusion emerging between aggregation and averaging. This misinterpretation is then clarified through CBV, which suggests instead a “conceptual blend” between different values and perspectives. The term was borrowed from Fauconnier and Tunner’s works exploring creativity (2002) and is suggested that such process would allow for an harmonious and elegant incorporation of divergent views and goal sets. The major detail here is that each and every single one of the persons whose views are being blended would have to agree that these blend includes enough of their own contributions.
 
 According to original definition of this conceptual blending, new concepts are formed by combining the most important details of already existing ideas. This process, however, is done carefully, in order to obtain a useful and high-value new concept. As such, the result is similar in a way to the concepts that gave birth to it, but at the same time possessing its own novel integrity. When considering the problem of aggregating volitions for use in AGI, this blending of different people’s goals and views is proposed as a novel, fine-tuned solution with which no human would disagree.
 
@@ -26,7 +26,7 @@ Another major problem with the original CEV definition is that it assumes that h
 
 ## See also
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-- [Coherent Extrapolated Volition](https://www.lesswrong.com/tag/coherent-extrapolated-volition)
+- [[Coherent Extrapolated Volition]]
 
 
 

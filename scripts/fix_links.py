@@ -6,6 +6,8 @@ from scripts.load_concepts import load_concept_from
 def get_slug(url: str):
     return url[url.rindex("/")+ 1:]
 
+url_safe_regex = "[\.\:\/\?\s\w\d\&\-\_]"
+
 def fix_links(path="../Concepts"):
     md = Markdown()
 
@@ -28,7 +30,7 @@ def fix_links(path="../Concepts"):
             #  Read the entire file at a time (these are small .md files)
             data = f.read()
 
-            tag_matches = re.findall("\[(.*?)\]\((http.*?/tag/(.*?))\)", data)
+            tag_matches = re.findall(f"\[({url_safe_regex}*?)\]\((http{url_safe_regex}*?/tag/({url_safe_regex}*?))\)", data)
             for (tag, link, slug) in tag_matches:
                 tag = md.clean_link(tag)
 
@@ -48,14 +50,14 @@ def fix_links(path="../Concepts"):
                     data = data.replace(f"[{tag}]", f"[{og_name}|{tag}]")
 
             # Replace the external md-style links with local wiki-style links
-            data = re.sub("\[(.*?)\]\((http.*?/tag/(.*?))\)", r'[[\1]]', data)
+            data = re.sub(f"\[({url_safe_regex}*?)\]\((http{url_safe_regex}*?/tag/({url_safe_regex}*?))\)", r'[[\1]]', data)
 
             print(filepath, tag_matches, sep=": ")
             print(data)
             print("-" * 120)
 
             # Fix links to posts
-            post_matches = re.findall("\[(.*?)\]\((http.*?/post/(.*?))\)", data)
+            post_matches = re.findall(f"\[({url_safe_regex}*?)\]\((http{url_safe_regex}*?/post/({url_safe_regex}*?))\)", data)
             for (post, link, slug) in post_matches:
                 post = md.clean_link(post)
                 if not os.path.isfile(os.path.join(path, post + ".md")):

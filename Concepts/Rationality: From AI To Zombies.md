@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies
 ---
 
-*Rationality: From AI to Zombies* is a 2015 ebook by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky) on human rationality and irrationality in cognitive science. The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.org](https://intelligence.org/rationality-ai-zombies) or viewed on the website [readthesequences.com](https://www.readthesequences.com/) It is an edited and reorganized version of the [Sequences](https://www.lesswrong.com/tag/sequences), a series of blog posts published to *Less Wrong* and *Overcoming Bias* between 2006 and 2009. *Rationality: From AI to Zombies* serves as a long-form introduction to formative ideas behind *Less Wrong*, the [Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri), the Center for Applied Rationality, and substantial parts of the effective altruism community.
+*Rationality: From AI to Zombies* is a 2015 ebook by [[Eliezer Yudkowsky]] on human rationality and irrationality in cognitive science. The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.org](https://intelligence.org/rationality-ai-zombies) or viewed on the website [readthesequences.com](https://www.readthesequences.com/) It is an edited and reorganized version of the [[Sequences]], a series of blog posts published to *Less Wrong* and *Overcoming Bias* between 2006 and 2009. *Rationality: From AI to Zombies* serves as a long-form introduction to formative ideas behind *Less Wrong*, the [MIRI|Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri), the Center for Applied Rationality, and substantial parts of the effective altruism community.
 
 ## Contents
 The ebook's contents are organized into six books, containing a total of 333 essays from the Sequences. The 333 essays are further divided into twenty-six sequences, lettered A through Z:
@@ -52,8 +52,8 @@ Each book also comes with an introduction by Rob Bensinger, and a supplemental e
 ## Links
 - [Download page](https://intelligence.org/rationality-ai-zombies)
 - .
-- [RAZ Glossary](https://www.lesswrong.com/tag/raz-glossary)
-- [RAZ Errata](https://www.lesswrong.com/tag/raz-errata)
+- [R:A-Z Glossary|RAZ Glossary](https://www.lesswrong.com/tag/raz-glossary)
+- [R:A-Z Errata|RAZ Errata](https://www.lesswrong.com/tag/raz-errata)
 
 
 

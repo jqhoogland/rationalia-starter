@@ -8,5 +8,5 @@ src: https://www.lesswrong.com/tag/predictive-processing
 
 External Links:[Book Review: Surfing Uncertainty](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) - Introduction to predictive processing by Scott Alexander[Predictive Processing And Perceptual Control](https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/) by Scott Alexander
 
-Related Pages: [Perceptual Control Theory](https://www.lesswrong.com/tag/perceptual-control-theory), [Neuroscience](https://www.lesswrong.com/tag/neuroscience)
+Related Pages: [[Perceptual Control Theory]], [[Neuroscience]]
 

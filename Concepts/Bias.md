@@ -3,11 +3,11 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/bias
 ---
 
-Bias or Cognitive Bias is a systematic deviation from [rationality](https://www.lesswrong.com/tag/rationality) committed by our cognition. They are specific, predictable error patterns in the human mind [1](#fn1). The [heuristics and biases](https://www.lesswrong.com/tag/heuristics-and-biases) program in cognitive psychology has documented hundreds of reproducible errors - often big errors. This continues to be a highly active area of investigation in cognitive psychology.
+Bias or Cognitive Bias is a systematic deviation from [Rationality|rationality](https://www.lesswrong.com/tag/rationality) committed by our cognition. They are specific, predictable error patterns in the human mind [1](#fn1). The [Heuristics & Biases|heuristics and biases](https://www.lesswrong.com/tag/heuristics-and-biases) program in cognitive psychology has documented hundreds of reproducible errors - often big errors. This continues to be a highly active area of investigation in cognitive psychology.
 
 In our evolutionary past, in order that a cognitive algorithm turned out into a satisfactory solution to a given problem, it wasn't enough to solve it properly. It was necessary that the solution accounted for a large number of restrictions, such as time and energetic costs. This algorithm didn't need to be perfect, only good enough to guarantee the survival and reproduction of the individual: “What selective pressures impact on decision mechanisms? Foremost is selection for making an appropriate decision in the given domain. This domain-specific pressure does not imply the need to make the best possible decision, but rather one that is good enough (a satisficing choice, as Herbert Simon, 1955, put it) and, on average, better than those of an individual’s competitors, given the costs and benefits involved.” [2](#fn2)
 
-Therefore, the human brain make operations which solve cognitive tasks through ‘shortcuts’, that work well on some cases but fail in others. Since the cognitive modules that make those tasks are universals in the human species, how and where those shortcuts lead to mistakes are also regular. The study of why, how and where such errors arise is the field of cognitive bias. Understanding cognitive biases and trying to defend against their effects has been a basic theme of [Less Wrong](https://www.lesswrong.com/about) since the days it was part of [Overcoming Bias](https://www.lesswrong.com/tag/overcoming-bias).
+Therefore, the human brain make operations which solve cognitive tasks through ‘shortcuts’, that work well on some cases but fail in others. Since the cognitive modules that make those tasks are universals in the human species, how and where those shortcuts lead to mistakes are also regular. The study of why, how and where such errors arise is the field of cognitive bias. Understanding cognitive biases and trying to defend against their effects has been a basic theme of [Less Wrong](https://www.lesswrong.com/about) since the days it was part of [[Overcoming Bias]].
 
 ## 
 - Daniel Kahneman's 
@@ -33,26 +33,26 @@ Therefore, the human brain make operations which solve cognitive tasks through �
 ## Blog posts on the concept of "bias"
 - [What exactly is bias?](http://www.overcomingbias.com/2006/11/what_exactly_is.html)
 -  by 
-- [Nick Bostrom](https://www.lesswrong.com/tag/nick-bostrom)
+- [[Nick Bostrom]]
 - [To the barricades! Against ... what exactly?](http://www.overcomingbias.com/2006/11/to_the_barricad.html)
 -  by 
-- [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)
+- [[Robin Hanson]]
 - [...What's a bias, again?](http://lesswrong.com/lw/gp/whats_a_bias_again/)
 -  by 
-- [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)
+- [[Eliezer Yudkowsky]]
 - [Are The Big Four Econ Errors Biases?](http://www.overcomingbias.com/2006/11/the_big_four_ec.html)
 -  by 
-- [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)
+- [[Robin Hanson]]
 - [In cautious defense of bias](http://www.overcomingbias.com/2006/11/incautious_defe.html)
 -  by 
 - [Paul Gowder](https://wiki.lesswrong.com/wiki/Paul_Gowder)
 - [Seen vs. Unseen Biases](http://www.overcomingbias.com/2006/12/seen_vs_unseen_.html)
 -  by 
-- [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)
+- [[Robin Hanson]]
 - [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
 -  
 - by 
-- [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)
+- [[Eliezer Yudkowsky]]
 -  
 - -
 -  Knowing about common biases doesn't help you obtain truth if you only use this knowledge to attack beliefs you don't like.
@@ -152,17 +152,17 @@ Therefore, the human brain make operations which solve cognitive tasks through �
 
 ## References
 ## See also
-- [Heuristics and biases](https://www.lesswrong.com/tag/heuristics-and-biases)
+- [Heuristics & Biases|Heuristics and biases](https://www.lesswrong.com/tag/heuristics-and-biases)
 - , 
-- [Heuristic](https://www.lesswrong.com/tag/heuristic)
-- [Debiasing](https://www.lesswrong.com/tag/debiasing)
+- [[Heuristic]]
+- [[Debiasing]]
 - , 
-- [Dangerous knowledge](https://www.lesswrong.com/tag/dangerous-knowledge)
-- [No safe defense](https://www.lesswrong.com/tag/no-safe-defense)
+- [Dangerous Knowledge|Dangerous knowledge](https://www.lesswrong.com/tag/dangerous-knowledge)
+- [No Safe Defense|No safe defense](https://www.lesswrong.com/tag/no-safe-defense)
 
 ## 
-- [Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
-- [Inductive bias](https://www.lesswrong.com/tag/inductive-bias)
+- [None|Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
+- [Inductive Bias|Inductive bias](https://www.lesswrong.com/tag/inductive-bias)
 
  
 

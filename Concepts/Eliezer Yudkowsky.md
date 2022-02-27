@@ -3,13 +3,13 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/eliezer-yudkowsky
 ---
 
-Eliezer Yudkowsky is a research fellow of the [Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri), which he co-founded in 2001. He is mainly concerned with the obstacles and importance of developing a [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), such as a reflective decision theory that would lay a foundation for describing fully recursive self modifying agents that retain stable preferences while rewriting their source code. He also co-founded *Less Wrong*, writing the [Sequences](https://www.lesswrong.com/tag/sequences), long sequences of posts dealing with epistemology, [AGI](https://wiki.lesswrong.com/wiki/AGI), [metaethics](https://www.lesswrong.com/tag/metaethics), [rationality](https://www.lesswrong.com/tag/rationality) and so on.
+Eliezer Yudkowsky is a research fellow of the [MIRI|Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri), which he co-founded in 2001. He is mainly concerned with the obstacles and importance of developing a [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), such as a reflective decision theory that would lay a foundation for describing fully recursive self modifying agents that retain stable preferences while rewriting their source code. He also co-founded *Less Wrong*, writing the [[Sequences]], long sequences of posts dealing with epistemology, [AGI](https://wiki.lesswrong.com/wiki/AGI), [Metaethics|metaethics](https://www.lesswrong.com/tag/metaethics), [Rationality|rationality](https://www.lesswrong.com/tag/rationality) and so on.
 
 He has published several articles, including:
 
 - [“Cognitive Biases Potentially Affecting Judgment of Global Risks” (2008)](http://intelligence.org/files/CognitiveBiases.pdf)
 - : A pioneer compilation of 
-- [cognitive biases](https://www.lesswrong.com/tag/bias)
+- [Bias|cognitive biases](https://www.lesswrong.com/tag/bias)
 -  – systematic deviations from rationality – influencing our judgment of 
 - global catastrophic risks.
 -  These are defined as 
@@ -55,7 +55,7 @@ He has published several articles, including:
 - first precise definitions
 -  of 
 - terms such as Friendly AI and 
-- [Seed AI](https://www.lesswrong.com/tag/seed-ai)
+- [[Seed AI]]
 - .
 - ["Levels of Organization in General Intelligence" (2002)](http://intelligence.org/files/LOGI.pdf)
 - : 
@@ -65,7 +65,7 @@ He has published several articles, including:
 -  through its decomposition in five subsystems, successive levels of functional organization: Code, sensory modalities, concepts, thoughts, and deliberation. 
 - Also
 -  discusses some advantages artificial minds would have, such as the possibility of 
-- [Recursive self-improvement](https://www.lesswrong.com/tag/recursive-self-improvement)
+- [Recursive Self-Improvement|Recursive self-improvement](https://www.lesswrong.com/tag/recursive-self-improvement)
 - .
 - ["Coherent Extrapolated Volition"(2004)](http://intelligence.org/files/CEV.html)
 - : Presents the difficulties and possible solutions for incorporating friendliness into an AGI. It 
@@ -83,13 +83,13 @@ He has published several articles, including:
 - .
 - ["Timeless Decision Theory" (2010)](http://intelligence.org/files/TDT.pdf)
 - : Describes 
-- [Timeless decision theory](https://www.lesswrong.com/tag/timeless-decision-theory)
+- [Timeless Decision Theory|Timeless decision theory](https://www.lesswrong.com/tag/timeless-decision-theory)
 - , 
 - *”an extension of causal decision networks that compactly represents uncertainty about correlated computational processes and represents the decision maker as such a process”*
 - . It solves many problems which 
-- [Causal Decision Theory](https://www.lesswrong.com/tag/causal-decision-theory)
+- [[Causal Decision Theory]]
 -  or 
-- [Evidential Decision Theory](https://www.lesswrong.com/tag/evidential-decision-theory)
+- [[Evidential Decision Theory]]
 -  don't have a plausible solution: 
 - [Newcomb's problem](https://www.lesswrong.com/tag/newcomb-s-problem)
 - , 
@@ -99,7 +99,7 @@ He has published several articles, including:
 - .
 - ["Complex Value Systems are Required to Realize Valuable Futures" (2011)](http://intelligence.org/files/ComplexValues.pdf)
 - : Discusses the 
-- [Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
+- [Complexity of Value|Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
 - : we can’t come up with a simple rule or description that sums up all human values. It 
 - analyzes
 -  how this problem makes it difficult to build a valuable future.

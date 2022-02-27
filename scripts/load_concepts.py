@@ -213,7 +213,13 @@ def load_concept_from(url: str, out_path="../Concepts"):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
-    title = md.clean_link(soup.find("h1").string)
+    title = soup.find("h1")
+
+    if title is None:
+        print(f"[Error] Could not retrieve concept from {url}")
+        return None
+
+    title = md.clean_link(title.string)
 
     print(f"[{title}]: Writing file...")
 

@@ -39,7 +39,7 @@ The current set of questions:
 > The exact wording of the email:Subject: Questions regarding possible risks from artificial intelligenceDear Professor/Dr NAME,I am currently trying to learn more about the academic perception of artificial general intelligence and possible risks associated with it. Consequently I am curious about your opinion as a noted expert.I would like to ask you a few questions and your permission to publish your possible answers in order to estimate the academic awareness and perception of risks from AI. I am not a journalist and do not represent any publication, nor do I maintain a formal academic relationship. I am conducting an informal interview for a community blog: lesswrong.comPlease let me know if you have any questions or if you are interested in third-party material that does expand on various aspects of my questions.Here is a list of people that I had a chance to interview so far: NAMESQUESTIONSYours sincerely,NAMEADDRESS
 
 ## See also
-- [Muehlhauser interview series on AGI](https://www.lesswrong.com/tag/muehlhauser-interview-series-on-agi)
+- [Muehlhauser Interview Series On AGI|Muehlhauser interview series on AGI](https://www.lesswrong.com/tag/muehlhauser-interview-series-on-agi)
 - [When Will AI Be Created?](http://intelligence.org/2013/05/15/when-will-ai-be-created/)
 - [AI timeline predictions: are we getting better?](http://lesswrong.com/lw/e36/ai_timeline_predictions_are_we_getting_better/)
 - [Stuart Armstrong: How We’re Predicting AI](http://fora.tv/v/c16838)

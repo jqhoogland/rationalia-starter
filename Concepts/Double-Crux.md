@@ -8,5 +8,5 @@ Double-Crux is a technique for addressing complex disagreements by systematicall
 
 Double-Crux differs from typical debates which are usually adversarial (your opinion vs mine), and instead attempt to be a collaborative attempt to uncover the true structure of the disagreement and what would change the disputants minds.
 
-Related: [Disagreement](https://www.lesswrong.com/tag/disagreement), [Conversation](https://www.lesswrong.com/tag/conversation-topic)...[(Read More)]()
+Related: [[Disagreement]], [[Conversation]]...[(Read More)]()
 

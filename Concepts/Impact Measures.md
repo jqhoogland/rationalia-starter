@@ -12,5 +12,5 @@ For a review of earlier work, see [A Survey of Early Impact Measures](https://ww
 
 Sequences on impact measurement:
 
-Related tags: [Instrumental Convergence](https://www.lesswrong.com/tag/instrumental-convergence), [Corrigibility](https://www.lesswrong.com/tag/corrigibility), [Mild Optimization](https://www.lesswrong.com/tag/mild-optimization).
+Related tags: [[Instrumental Convergence]], [[Corrigibility]], [[Mild Optimization]].
 

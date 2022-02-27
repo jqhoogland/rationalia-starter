@@ -5,7 +5,7 @@ src: https://www.lesswrong.com/tag/preference
 
 Preference is usually conceptualized as a set of attitudes or evaluations made by an agent towards a specific object, and it has been proposed that AI has a robust set of methods to deal with them. These can be divided in several steps:
 
-This sequential chain of thought can be particularly useful when dealing with [Coherent Extrapolated Volition](https://www.lesswrong.com/tag/coherent-extrapolated-volition), as a way of systematically exploring agent’s goals and motivations.
+This sequential chain of thought can be particularly useful when dealing with [[Coherent Extrapolated Volition]], as a way of systematically exploring agent’s goals and motivations.
 
 ## Further Reading & References
 - [Would Your Real Preferences Please Stand Up?](http://lesswrong.com/lw/15c/would_your_real_preferences_please_stand_up)
@@ -21,12 +21,12 @@ This sequential chain of thought can be particularly useful when dealing with [C
 - Luke Muehlhauser
 
 ## See also
-- [Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
-- [Utility function](https://www.lesswrong.com/tag/utility-functions)
-- [Decision theory](https://www.lesswrong.com/tag/decision-theory)
-- [Optimization process](https://www.lesswrong.com/tag/optimization)
-- [Akrasia](https://www.lesswrong.com/tag/akrasia)
-- [Corrupted hardware](https://www.lesswrong.com/tag/corrupted-hardware)
+- [Complexity of Value|Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
+- [Utility Functions|Utility function](https://www.lesswrong.com/tag/utility-functions)
+- [Decision Theory|Decision theory](https://www.lesswrong.com/tag/decision-theory)
+- [Optimization|Optimization process](https://www.lesswrong.com/tag/optimization)
+- [[Akrasia]]
+- [Corrupted Hardware|Corrupted hardware](https://www.lesswrong.com/tag/corrupted-hardware)
 
 
 

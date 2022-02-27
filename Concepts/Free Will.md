@@ -10,7 +10,7 @@ The following posts can be read to set up the problem of "free will" and what co
 
 - [How An Algorithm Feels From Inside](http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/)
 -  (see also the 
-- [wiki page](https://www.lesswrong.com/tag/how-an-algorithm-feels)
+- [How An Algorithm Feels|wiki page](https://www.lesswrong.com/tag/how-an-algorithm-feels)
 - )
 - [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/)
 -  - this is where the "free will" puzzle is explicitly posed, along with criteria for what does and does not constitute a satisfying answer.

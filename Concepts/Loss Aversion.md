@@ -11,9 +11,9 @@ Loss aversion is [risk aversion](https://wiki.lesswrong.com/wiki/risk_aversion)'
 - [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## See also
-- [Prospect theory](https://www.lesswrong.com/tag/prospect-theory)
+- [Prospect Theory|Prospect theory](https://www.lesswrong.com/tag/prospect-theory)
 - [Risk aversion](https://wiki.lesswrong.com/wiki/Risk_aversion)
-- [Sunk cost fallacy](https://www.lesswrong.com/tag/sunk-cost-fallacy)
+- [Sunk-Cost Fallacy|Sunk cost fallacy](https://www.lesswrong.com/tag/sunk-cost-fallacy)
 
 
 

@@ -1,6 +1,6 @@
 ---
 tags: ['LessWrong', 'Portal', 'Concept']
-src: https://www.lesswrong.com/tag/blues-and-greens-metaphor
+src: https://www.lesswrong.com/tag/blues-and-greens
 ---
 
 "Blues and Greens" is a term used to metaphorically refer to opposing political factions.*See also*: [Tribalism](/tag/tribalism), [Mind-killer](https://www.lesswrong.com/tag/mind-killer), [Arguments as soldiers](https://www.lesswrong.com/tag/arguments-as-soldiers), [False dilemma](https://www.lesswrong.com/tag/false-dilemma), [In-group bias](https://www.lesswrong.com/tag/in-group-bias)

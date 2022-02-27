@@ -10,7 +10,7 @@ src: https://www.lesswrong.com/tag/narrative-fallacy
 ## Blog posts
 - [Tell your Anti-Story](http://www.overcomingbias.com/2007/07/tell-your-anti-.html)
 -  by 
-- [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)
+- [[Robin Hanson]]
 - [The Bad Guy Bias](http://www.overcomingbias.com/2008/12/the-bad-guy-bia.html)
 -  by Robin Hanson
 - [Missing the Trees for the Forest](http://lesswrong.com/lw/13k/missing_the_trees_for_the_forest/)
@@ -33,14 +33,14 @@ src: https://www.lesswrong.com/tag/narrative-fallacy
 -  by Sister Y
 
 ## See also
-- [Privileging the hypothesis](https://www.lesswrong.com/tag/privileging-the-hypothesis)
+- [Privileging The Hypothesis|Privileging the hypothesis](https://www.lesswrong.com/tag/privileging-the-hypothesis)
 - , 
-- [Positive bias](https://www.lesswrong.com/tag/confirmation-bias)
-- [Mind-killer](https://www.lesswrong.com/tag/mind-killer)
-- [Near/far thinking](https://www.lesswrong.com/tag/near-far-thinking)
-- [Hindsight bias](https://www.lesswrong.com/tag/hindsight-bias)
-- [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
-- [Black swan](https://www.lesswrong.com/tag/black-swans)
+- [Confirmation Bias|Positive bias](https://www.lesswrong.com/tag/confirmation-bias)
+- [Mind-Killer|Mind-killer](https://www.lesswrong.com/tag/mind-killer)
+- [[Near/far thinking]]
+- [Hindsight Bias|Hindsight bias](https://www.lesswrong.com/tag/hindsight-bias)
+- [Fake Simplicity|Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
+- [Black Swans|Black swan](https://www.lesswrong.com/tag/black-swans)
 
 
 
