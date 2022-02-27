@@ -4,6 +4,7 @@ I could probably have used an existing library (like SnakeMd), but none of these
 fancy MD-extensions that Obsidian has. I suppose I could have written this in JS, but who wants to do that.
 
 """
+import re
 
 class Markdown():
     hl = "\n---\n"
@@ -14,6 +15,10 @@ class Markdown():
     @staticmethod
     def frontmatter(**kwargs):
         return "---\n" + "\n".join(map(lambda item: f"{item[0]}: {item[1]}",  kwargs.items())) + "\n---\n\n"
+
+    @staticmethod
+    def read_frontmatter(text: str):
+        return dict(re.findall("---\n(?:([\w\d]*): (.*)\n*\n)*---", text) or [])
 
     @staticmethod
     def clean_link(text: str):
@@ -38,6 +43,10 @@ class Markdown():
         return f"- {text}"
 
     @classmethod
+    def list(cls, ls: list):
+        return "\n".join([cls.list_item(item) for item in ls]) + "\n\n"
+
+    @classmethod
     def wiki_link(cls, text: str):
         return f"[[{cls.clean_link(text)}]]"
 
@@ -53,3 +62,6 @@ class Markdown():
     def strong(text: str = ""):
         return f"**{text}**"
 
+    @staticmethod
+    def blockquote(text: str = ""):
+        return f"> {text}"

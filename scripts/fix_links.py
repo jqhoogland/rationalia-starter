@@ -1,44 +1,73 @@
-import os, re
+import os, re, json
 
 from scripts.md import Markdown
+from scripts.load_concepts import load_concept_from
+
+def get_slug(url: str):
+    return url[url.rindex("/")+ 1:]
 
 def fix_links(path="../Concepts"):
     md = Markdown()
 
+    # Work with slugs rather than full urls because some pages link to lesserwrong and greaterwrong.
+    slugs_to_names = {}
+
+    # First, we have to build a dictionary of tag links to tag names (links including tags might be aliased)
+    for filepath in os.listdir(path):
+        with open(os.path.join(path, filepath), "r+") as f:
+            data = f.read()
+            frontmatter = md.read_frontmatter(data)
+            src = frontmatter.get("src", None)
+            if src is not None:
+                slugs_to_names[get_slug(src)] = filepath.replace(".md", "")
+            else:
+                print(f"[Error] No frontmatter on {filepath}")
+
     for (i, filepath) in enumerate(os.listdir(path)):
         with open(os.path.join(path, filepath), "r+") as f:
-            #  Read the entire file at a time (these are relatively small text files)
+            #  Read the entire file at a time (these are small .md files)
             data = f.read()
 
-            # Check to make sure all referenced tags exist in our Concepts folder
-            tag_matches = re.findall("\[(.*?)\]\((http.*/tag/(.*?))\)", data)
+            tag_matches = re.findall("\[(.*?)\]\((http.*?/tag/(.*?))\)", data)
             for (tag, link, slug) in tag_matches:
                 tag = md.clean_link(tag)
-                if not os.path.isfile(os.path.join(path, tag + ".md")):
-                    print(f"[Error] {tag}.md not found")
+
+                # Check to make sure all referenced tags exist in our Concepts folder
+                og_name = slugs_to_names.get(slug, None)
+                if og_name is None:
+                    print(f"[Error] No concept found for {link}")
+                    og_name = load_concept_from(link)
+                    slugs_to_names[slug] = og_name
+
+                # If the link contents don't match the name of the concept in our vault,
+                # we treat `tag` as an alias.
+                # E.g. [My alias](.../some-slug) -> [Some File|My alias](.../some-slug) -> [[Some File|My alias]]
+                if og_name != tag:
+                    # Decided against comparing .lower() (Obsidian is case-insensitive)
+                    # because this will make it easier for users to edit file names
+                    data = data.replace(f"[{tag}]", f"[{og_name}|{tag}]")
 
             # Replace the external md-style links with local wiki-style links
-            data = re.sub("\[(.*?)\]\((http.*/tag/(.*?))\)", r'[[\1]]', data)
+            data = re.sub("\[(.*?)\]\((http.*?/tag/(.*?))\)", r'[[\1]]', data)
 
             print(filepath, tag_matches, sep=": ")
             print(data)
             print("-" * 120)
 
             # Fix links to posts
-            post_matches = re.findall("\[(.*?)\]\((http.*/post/(.*?))\)", data)
-            for (post, link, slug) in tag_matches:
+            post_matches = re.findall("\[(.*?)\]\((http.*?/post/(.*?))\)", data)
+            for (post, link, slug) in post_matches:
                 post = md.clean_link(post)
                 if not os.path.isfile(os.path.join(path, post + ".md")):
                     # Make sure the referenced tag exists in our Concepts folder
                     print(f"[Error] {post}.md not found")
-
 
             # Write to the file (overwrite rather than append)
             f.seek(0)
             f.write(data)
             f.truncate()
 
-            if i > 0:
+            if i > 2:
                 return
 
 

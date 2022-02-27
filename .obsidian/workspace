@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Courage.md",
+            "file": "Concepts/Bayes' Theorem.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Courage.md",
+                "file": "Concepts/Bayes' Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "852611acad89be4d",
   "lastOpenFiles": [
-    "Concepts/Courage.md",
-    "Concepts/Sunk-Cost Fallacy.md",
-    "Concepts/Taking Ideas Seriously.md",
-    "Concepts/Techniques.md",
-    "Concepts/Betting.md",
-    "Concepts/Bucket Errors.md",
-    "Concepts/Common Knowledge.md",
-    "Concepts/Community.md",
-    "Concepts/Compartmentalization.md",
-    "Concepts/Infra-Bayesianism.md"
+    "Concepts/Bayes' Theorem.md",
+    "Concepts/Bayes Theorem.md",
+    "Concepts/Infra-Bayesianism.md",
+    "Concepts/Cryptocurrency & Blockchain.md",
+    "Concepts/Covid-19.md",
+    "Concepts/Prioritization.md",
+    "Concepts/Curiosity.md",
+    "Concepts/Replication Crisis.md",
+    "Concepts/Biology.md",
+    "Concepts/Book Reviews.md"
   ]
 }

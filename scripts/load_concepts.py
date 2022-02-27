@@ -90,47 +90,67 @@ def write_concepts_portal(links, src_path, out_path):
         f.write(links)
 
 
-def get_tag_description(name: str):
-    md = Markdown()
-    response = requests.get(f"http://lesswrong.com/tag/{slugify(name)}")
-    soup = BeautifulSoup(response.content, "html.parser")
-    description = soup.find("div", attrs={"class": "TagPage-description"})
+def get_tag_description(name: str, slug=None, soup=None):
+    """
+    TODO: Some descriptions are shortened, and contain a `Read more` button at the end. How to extract the remaining info?
+    FYI: It's contained in the meta description tags (but these lack links)
 
-    if description is None:
-        print(f"[Error] Could not find description for {name}")
+    :param name:
+    :return:
+    """
+    try:
+        md = Markdown()
+
+        if soup is None:
+            slug = slug or slugify(name)
+            response = requests.get(f"http://lesswrong.com/tag/{slug}")
+            soup = BeautifulSoup(response.content, "html.parser")
+
+        description = soup.find("div", attrs={"class": "TagPage-description"})
+
+        if description is None:
+            print(f"[Error] Could not find description for {name}")
+            return ""
+
+        for sp in description.find_all("span"):
+            sp.unwrap()
+
+        for it in description.find_all("i"):
+            it.replace_with(md.it("".join(it.strings)))
+
+        for strong in description.find_all("i"):
+            strong.replace_with(md.strong("".join(strong.strings)))
+
+        for u in description.find_all("u"):
+            u.unwrap()  # Currently no way to handle underlines
+
+        # We'll fix links to other concepts after a first pass of all tags
+        for a in description.find_all("a"):
+            a.replace_with(md.link("".join(a.strings), a.get("href", "")))
+
+        for bq in description.find_all("blockquote"):
+            bq.replace_with(md.blockquote("".join(bq.strings)))
+
+        # If there is a table, remove it. This is already parsed on the Concepts portal home (/tags/all).
+        tables = description.find_all("figure", attrs={"class": "table"})
+        for t in tables:
+            t.extract()
+
+        res = ""
+
+        for c in description.children:
+            if c.name == "p" or c.name is None:
+                res += md.p("".join(c.strings))
+
+            elif (match := re.search(r'h(\d)', c.name)) and (level := int(match.group(1))):
+                res += (md.title(c.string or "", level))
+
+            elif c.name == "ul":
+                res += md.list(c.strings)
+
+        return res
+    except TypeError:
         return ""
-
-    for sp in description.find_all("span"):
-        sp.unwrap()
-
-    for it in description.find_all("i"):
-        it.replace_with(md.it("".join(it.strings)))
-
-    for strong in description.find_all("i"):
-        strong.replace_with(md.strong("".join(strong.strings)))
-
-    for u in description.find_all("u"):
-        u.unwrap()  # Currently no way to handle underlines
-
-    # We'll fix links to other concepts after a first pass of all tags
-    for a in description.find_all("a"):
-        a.replace_with(md.link("".join(a.strings), a.get("href", "")))
-
-    # If there is a table, remove it. This is already parsed on the Concepts portal home (/tags/all).
-    tables = description.find_all("figure", attrs={"class": "table"})
-    for t in tables:
-        t.extract()
-
-    res = ""
-
-    for c in description.children:
-        if c.name == "p":
-            res += md.p("".join(c.strings))
-
-        elif (match := re.search(r'h(\d)', c.name)) and (level := int(match.group(1))):
-            res += (md.title(c.string or "", level))
-
-    return res
 
 
 def write_category_portal(category, data, out_path):
@@ -143,11 +163,7 @@ def write_category_portal(category, data, out_path):
 
         # For each concept, copy the standard description from LessWrong as a placeholder.
         f.write(md.title(category))
-        try:
-            f.write(get_tag_description(category))
-        except TypeError:
-            pass
-
+        f.write(get_tag_description(category))
         f.write(f"\n{md.hl}\n")
 
         for (subcategory, subdata) in data.items():
@@ -186,6 +202,28 @@ def write_category_portal(category, data, out_path):
                 except TypeError:
                     pass
 
+
+def load_concept_from(url: str, out_path="../Concepts"):
+    md = Markdown()
+
+    print(f"[Concept]: Loading from {url}...")
+
+    url = url.replace("lessestwrong", "lesswrong")
+
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, "html.parser")
+
+    title = md.clean_link(soup.find("h1").string)
+
+    print(f"[{title}]: Writing file...")
+
+    with open(os.path.join(out_path, title + ".md"), "w") as f:
+        f.write(md.frontmatter(tags=["LessWrong", "Portal", "Concept"], src=strip_params(url)))
+        f.write(get_tag_description(title, soup=soup))
+        f.write(f"\n{md.hl}\n")
+
+    print(f"[{title}]: Completed.")
+    return title
 
 
 def load_concepts(src_path="https://www.lesswrong.com/tags/all", out_path="../Concepts"):
