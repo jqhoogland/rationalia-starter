@@ -11,7 +11,7 @@ The LessWrong Community is the people who write on LessWrong and who contribute 
 
 This tag applies to any post about:
 
-While the [World Optimization](https://www.lesswrong.com/tag/world-optimization)* *core tag is for posts discussing how to do good in general, the Community tag is for the specific, concrete efforts of our community to execute plans.
+While the [[World optimization|World Optimization]]* *core tag is for posts discussing how to do good in general, the Community tag is for the specific, concrete efforts of our community to execute plans.
 
 
 

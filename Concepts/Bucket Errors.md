@@ -8,5 +8,5 @@ A Bucket Error is when multiple different concepts or variables are incorrectly 
 
 Bucket Errors are similar to the concepts of [equivocation](https://en.wikipedia.org/wiki/Equivocation), identification in Buddhism, or fusion/defusion in modern psychotherapy. See: [Fusion and Equivocation in Korzybski's General Semantics](https://www.lesswrong.com/posts/RQrWd5jPZQtpH8f4v/fusion-and-equivocation-in-korzybski-s-general-semantics).
 
-Related Pages: [Compartmentalization](https://www.lesswrong.com/tag/compartmentalization), [Distinctions](https://www.lesswrong.com/tag/distinctions)
+Related Pages: [[Compartmentalization]], [[Distinctions]]
 

@@ -3,9 +3,9 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/belief-in-belief
 ---
 
-Belief in belief is a situation where a model of the world you claim and believe to have is at odds with a model of the world that [explains](https://www.lesswrong.com/tag/technical-explanation) your actions and drives your [anticipation of experience](https://www.lesswrong.com/tag/making-beliefs-pay-rent). You are always ready to provide an excuse for the next experiment not supporting your stated belief, because you know the outcome of the experiment in advance, but have to [rationalize](https://www.lesswrong.com/tag/rationalization) it in terms of the stated belief. Belief in belief can be seen as a form of [compartmentalization](https://www.lesswrong.com/tag/compartmentalization), which protects your actual model of the world from insane memes that survive as stated beliefs. Were you to [really believe](https://www.lesswrong.com/tag/bite-the-bullet) and not just believe in belief, the consequences of error would be much more severe.
+Belief in belief is a situation where a model of the world you claim and believe to have is at odds with a model of the world that [[Technical Explanation|explains]] your actions and drives your [[Making Beliefs Pay Rent|anticipation of experience]]. You are always ready to provide an excuse for the next experiment not supporting your stated belief, because you know the outcome of the experiment in advance, but have to [[Rationalization|rationalize]] it in terms of the stated belief. Belief in belief can be seen as a form of [[Compartmentalization|compartmentalization]], which protects your actual model of the world from insane memes that survive as stated beliefs. Were you to [[Bite The Bullet|really believe]] and not just believe in belief, the consequences of error would be much more severe.
 
-*Related tags: *[Belief](https://www.lesswrong.com/tag/belief),[ Alief](https://www.lesswrong.com/tag/alief), [Self-deception](https://www.lesswrong.com/tag/self-deception)
+*Related tags: *[[Belief]],[[Alief| Alief]], [[Self-Deception|Self-deception]]
 
 ## Posts
 - [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)
@@ -26,12 +26,12 @@ Belief in belief is a situation where a model of the world you claim and believe
 
 ## See also
 - [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
-- [Bite the bullet](https://www.lesswrong.com/tag/bite-the-bullet)
+- [[Bite The Bullet|Bite the bullet]]
 - , 
 - [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
-- [Making beliefs pay rent](https://www.lesswrong.com/tag/making-beliefs-pay-rent)
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
 - , 
-- [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)
+- [[Free-Floating Belief|Free-floating belief]]
 
 
 

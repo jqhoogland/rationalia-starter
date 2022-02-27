@@ -8,11 +8,11 @@ src: https://www.lesswrong.com/tag/curiosity
 *-- *Eliezer Yudkowsky, [The Twelve Virtues of Rationality](https://yudkowsky.net/rational/virtues/#:~:text=These%20then%20are%20twelve%20virtues,%2C%20scholarship%2C%20and%20the%20void.)
 
 ## See Also
-- [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes)
-- [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign)
-- [Litany of Tarski](https://www.lesswrong.com/tag/litany-of-tarski)
-- [Scholarship](https://www.lesswrong.com/tag/scholarship-and-learning)
-- [Doubt](https://www.lesswrong.com/tag/doubt)
+- [[Seeing With Fresh Eyes (Sequence)|Seeing with Fresh Eyes]]
+- [[Semantic Stopsign|Semantic stopsign]]
+- [[Litany of Tarski]]
+- [[Scholarship & Learning|Scholarship]]
+- [[Doubt]]
 
 ## Notable Posts
 - [A Fable of Science and Politics](https://www.lesswrong.com/lw/gt/a_fable_of_science_and_politics/)

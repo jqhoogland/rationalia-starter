@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Bayes' Theorem.md",
+            "file": "Concepts/AI Governance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Bayes' Theorem.md",
+                "file": "Concepts/AI Governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "852611acad89be4d",
   "lastOpenFiles": [
-    "Concepts/Bayes' Theorem.md",
-    "Concepts/Bayes Theorem.md",
-    "Concepts/Infra-Bayesianism.md",
-    "Concepts/Cryptocurrency & Blockchain.md",
-    "Concepts/Covid-19.md",
-    "Concepts/Prioritization.md",
-    "Concepts/Curiosity.md",
-    "Concepts/Replication Crisis.md",
-    "Concepts/Biology.md",
-    "Concepts/Book Reviews.md"
+    "Concepts/AI Governance.md",
+    "Concepts/Altruism.md",
+    "Concepts/Machine Learning.md",
+    "Concepts/Making Beliefs Pay Rent.md",
+    "Concepts/Reading Group.md",
+    "Concepts/War.md",
+    "Concepts/Wireheading.md",
+    "Concepts/World optimization.md",
+    "Concepts/Academic Papers.md",
+    "Concepts/Abstraction.md"
   ]
 }

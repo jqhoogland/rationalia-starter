@@ -3,7 +3,7 @@ tags: ['LessWrong', 'Portal', 'Concept']
 src: https://www.lesswrong.com/tag/expected-utility
 ---
 
-Expected utility is the [expected value](https://www.lesswrong.com/tag/expected-value) in terms of the [utility](https://www.lesswrong.com/tag/utility) produced by an action. It is the sum of the utility of each of its possible consequences, individually weighted by their respective probability of occurrence.
+Expected utility is the [[Expected Value|expected value]] in terms of the [[Utility|utility]] produced by an action. It is the sum of the utility of each of its possible consequences, individually weighted by their respective probability of occurrence.
 
 A rational decision maker will, when presented with a choice, take the action with the greatest expected utility. Von Neumann and Morgenstern provided [[http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem#The_axioms](http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem#The_axioms)| 4 basic axioms of rationality]. They also proved the [expected utility theorem](http://web.archive.org/web/20070221104329/http://www.econ.hku.hk/~wsuen/uncertainty/eu.pdf), which states a rational agent ought to have preferences that maximize his total utility. Humans often deviate from rationality due to inconsistent preferences or the existence of [cognitive biases](http://wiki.lesswrong.com/wiki/Bias).
 
@@ -16,9 +16,9 @@ A rational decision maker will, when presented with a choice, take the action wi
 
 ## 
 - [Allais paradox](https://wiki.lesswrong.com/wiki/Allais_paradox)
-- [Decision theory](https://www.lesswrong.com/tag/decision-theory)
+- [[Decision Theory|Decision theory]]
 - [Instrumental rationality](https://wiki.lesswrong.com/wiki/Instrumental_rationality)
-- [Prospect theory](https://www.lesswrong.com/tag/prospect-theory)
+- [[Prospect Theory|Prospect theory]]
 
 
 

@@ -6,7 +6,7 @@ src: https://www.lesswrong.com/tag/practical
 # Practical
 Practical posts give direct, actionable advice on how to achieve goals and generally succeed. The art of rationality would be useless if it did not connect to the real world; we must take our ideas and abstractions and collide them with reality. Many places on the internet will give you advice; here, we value survey data, literature reviews, self-blinded trials, quantitative estimates, and theoretical models that aim to explain the phenomena.
 
-Material that is directly about *how to think better* can be found at [Rationality](https://www.lessestwrong.com/tag/rationality).
+Material that is directly about *how to think better* can be found at [[Rationality]].
 
  
 

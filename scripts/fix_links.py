@@ -67,9 +67,6 @@ def fix_links(path="../Concepts"):
             f.write(data)
             f.truncate()
 
-            if i > 2:
-                return
-
 
 if __name__ == "__main__":
     fix_links()

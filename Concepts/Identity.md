@@ -8,5 +8,5 @@ Identity is an individual's conception of themselves (1). We might conceive of t
 
 External resources: [Keep Your Identity Small](http://www.paulgraham.com/identity.html#f2n) by Paul Graham
 
-Related Pages: [Personal Identity](https://www.lesswrong.com/tag/personal-identity), [Self Improvement](https://www.lesswrong.com/tag/self-improvement)
+Related Pages: [[Personal Identity]], [[Self Improvement]]
 

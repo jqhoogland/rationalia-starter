@@ -8,5 +8,5 @@ Solomonoff induction is an inference system defined by [Ray Solomonoff](https://
 
 To summarize it very informally, Solomonoff induction works by:
 
-Weighting hypotheses by simplicity, the system automatically incorporates a form of [Occam's razor](https://www.lesswrong.com/tag/occam-s-razor), which is why it has been playfully referred to as *Solomonoff's lightsaber*....[(Read More)]()
+Weighting hypotheses by simplicity, the system automatically incorporates a form of [[Occam's razor]], which is why it has been playfully referred to as *Solomonoff's lightsaber*....[(Read More)]()
 
