@@ -1,0 +1,654 @@
+[
+  {
+    "_id": "AfSPEKxTrFousyNev",
+    "title": "Further Reading",
+    "subtitle": null,
+    "number": null,
+    "contents": {
+      "markdown": ""
+    },
+    "sequences": [
+      {
+        "title": "Predictably Wrong"
+      },
+      {
+        "title": "Replacing Guilt"
+      },
+      {
+        "title": "CFAR Handbook"
+      }
+    ]
+  },
+  {
+    "_id": "LDsLnAqDSxKWvckvm",
+    "title": null,
+    "subtitle": null,
+    "number": null,
+    "contents": {
+      "markdown": ""
+    },
+    "sequences": [
+      {
+        "title": "Thinking Better on Purpose"
+      },
+      {
+        "title": "Pitfalls of Human Cognition"
+      },
+      {
+        "title": "The Laws Governing Belief"
+      },
+      {
+        "title": "Science Isn't Enough"
+      },
+      {
+        "title": "Connecting Words to Reality"
+      },
+      {
+        "title": "Why We Fight"
+      }
+    ]
+  },
+  {
+    "_id": "EYzj5GCNYjrQi9TWZ",
+    "title": "The Engines of Cognition",
+    "subtitle": "Best of 2019",
+    "number": null,
+    "contents": {
+      "markdown": ""
+    },
+    "sequences": [
+      {
+        "title": "Trust"
+      },
+      {
+        "title": "Modularity"
+      },
+      {
+        "title": "Incentives"
+      },
+      {
+        "title": "Failure"
+      }
+    ]
+  },
+  {
+    "_id": "ZaMjuEd9hLe88ecpA",
+    "title": "A Map That Reflects the Territory",
+    "subtitle": "Best of 2018",
+    "number": null,
+    "contents": {
+      "markdown": ""
+    },
+    "sequences": [
+      {
+        "title": "Epistemology"
+      },
+      {
+        "title": "Agency"
+      },
+      {
+        "title": "Coordination"
+      },
+      {
+        "title": "Curiosity"
+      },
+      {
+        "title": "Alignment"
+      }
+    ]
+  },
+  {
+    "_id": "2tPEd5Gdm3iewB53M",
+    "title": "Epilogue",
+    "subtitle": null,
+    "number": 4,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Parables and Prayers"
+      }
+    ]
+  },
+  {
+    "_id": "kcCvSNNZd8pfQvf9E",
+    "title": "Designing the World",
+    "subtitle": null,
+    "number": 3,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Politics and Pragmatics"
+      },
+      {
+        "title": "Economics and Efficiency"
+      },
+      {
+        "title": "Futurism and Forecasting"
+      },
+      {
+        "title": "Community and Cooperation"
+      }
+    ]
+  },
+  {
+    "_id": "YhQ39PPHNrRCgYXcs",
+    "title": "The Institution of Science",
+    "subtitle": null,
+    "number": 2,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Studies and Statistics"
+      },
+      {
+        "title": "Research and Reviews"
+      },
+      {
+        "title": "Hypotheses and Hunches"
+      }
+    ]
+  },
+  {
+    "_id": "jF58hKP9ZLzgy22Jr",
+    "title": "Good and Bad Reasoning",
+    "subtitle": null,
+    "number": 1,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Argument and Analysis"
+      },
+      {
+        "title": "Categorisation and Concepts"
+      },
+      {
+        "title": "Probability and Predictions"
+      }
+    ]
+  },
+  {
+    "_id": "CgPmxS9FYjRjsvMuJ",
+    "title": null,
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "zBCyqJgJNJcfzgTZZ",
+    "title": null,
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "The Methods of Rationality"
+      },
+      {
+        "title": "2: HJPEV and the Professor's Games"
+      },
+      {
+        "title": "3: HJPEV and the Shadows of Death"
+      },
+      {
+        "title": "4: HJG and the Phoenix's Call"
+      },
+      {
+        "title": "5: HJPEV and the Last Enemy"
+      },
+      {
+        "title": "6: HJPEV and the Philosopher's Stone"
+      }
+    ]
+  },
+  {
+    "_id": "xWz3JEHvhEhk5MyqP",
+    "title": "Designing the World",
+    "subtitle": "Book III",
+    "number": null,
+    "contents": {
+      "markdown": ""
+    },
+    "sequences": [
+      {
+        "title": "Economics and Efficiency"
+      },
+      {
+        "title": "Community and Cooperation"
+      },
+      {
+        "title": "Futurism and Forecasting"
+      },
+      {
+        "title": "Parables and Prayers"
+      }
+    ]
+  },
+  {
+    "_id": "bY6oqSmffuTLJfYvZ",
+    "title": "The Institution of Science",
+    "subtitle": "Book II",
+    "number": null,
+    "contents": {
+      "markdown": "The institution of Science is the greatest producer of knowledge humanity has ever built. But how reliable is this institution, and how powerful are its methods? The second book in The Codex tries to learn what science knows about a variety of important questions, and also tries to understand where science goes wrong, building up a number of general heuristics about reading academic papers along the way."
+    },
+    "sequences": [
+      {
+        "title": "Studies and Statistics"
+      },
+      {
+        "title": "Research and Reviews"
+      }
+    ]
+  },
+  {
+    "_id": "YwBAXRsyCWcYtpcXG",
+    "title": "Good and Bad Reasoning",
+    "subtitle": "Book I",
+    "number": null,
+    "contents": {
+      "markdown": ""
+    },
+    "sequences": [
+      {
+        "title": "Argument and Analysis"
+      },
+      {
+        "title": "Categorisation and Concepts"
+      }
+    ]
+  },
+  {
+    "_id": "e6WsPsivzBifrWHeA",
+    "title": "Becoming Stronger",
+    "subtitle": null,
+    "number": 6,
+    "contents": {
+      "markdown": "How can individuals and communities put all this into practice? These three sequences begin with an autobiographical account of Yudkowsky’s own biggest philosophical blunders, with advice on how he thinks others might do better. The book closes with recommendations for developing evidence-based applied rationality curricula, and for forming groups and institutions to support interested students, educators, researchers, and friends."
+    },
+    "sequences": [
+      {
+        "title": "Yudkowsky's Coming of Age"
+      },
+      {
+        "title": "Challenging the Difficult"
+      },
+      {
+        "title": "The Craft and the Community"
+      }
+    ]
+  },
+  {
+    "_id": "T3CjiQq6bBgFuzvp6",
+    "title": "Mere Goodness",
+    "subtitle": null,
+    "number": 5,
+    "contents": {
+      "markdown": "What makes something valuable—morally, or aesthetically, or prudentially? These three sequences ask how we can justify, revise, and naturalize our values and desires. The aim will be to find a way to understand our goals without compromising our efforts to actually achieve them. Here the biggest challenge is knowing when to trust your messy, complicated case-by-case impulses about what’s right and wrong, and when to replace them with simple exceptionless principles."
+    },
+    "sequences": [
+      {
+        "title": "Fake Preferences"
+      },
+      {
+        "title": "Value Theory"
+      },
+      {
+        "title": "Quantified Humanism"
+      }
+    ]
+  },
+  {
+    "_id": "ah2GqzZSeBpW9QHgb",
+    "title": "Mere Reality",
+    "subtitle": null,
+    "number": 4,
+    "contents": {
+      "markdown": "What kind of world do we live in? What is our place in that world? Building on the previous sequences’ examples of how evolutionary and cognitive models work, these six sequences explore the nature of mind and the character of physical law. In addition to applying and generalizing past lessons on scientific mysteries and parsimony, these essays raise new questions about the role science should play in individual rationality."
+    },
+    "sequences": [
+      {
+        "title": "Lawful Truth"
+      },
+      {
+        "title": "Reductionism 101"
+      },
+      {
+        "title": "Joy in the Merely Real"
+      },
+      {
+        "title": "Physicalism 201"
+      },
+      {
+        "title": "Quantum Physics and Many Worlds"
+      },
+      {
+        "title": "Science and Rationality"
+      }
+    ]
+  },
+  {
+    "_id": "wAXodw6LPScjrdnkR",
+    "title": "The Machine in the Ghost",
+    "subtitle": null,
+    "number": 3,
+    "contents": {
+      "markdown": "Why haven’t we evolved to be more rational? Even taking into account resource constraints, it seems like we could be getting a lot more epistemic bang for our evidential buck. To get a realistic picture of how and why our minds execute their biological functions, we need to crack open the hood and see how evolution works, and how our brains work, with more precision. These three sequences illustrate how even philosophers and scientists can be led astray when they rely on intuitive, non-technical evolutionary or psychological accounts. By locating our minds within a larger space of goal-directed systems, we can identify some of the peculiarities of human reasoning and appreciate how such systems can “lose their purpose”."
+    },
+    "sequences": [
+      {
+        "title": "The Simple Math of Evolution"
+      },
+      {
+        "title": "Fragile Purposes"
+      },
+      {
+        "title": "A Human's Guide to Words"
+      }
+    ]
+  },
+  {
+    "_id": "coGq3LC5Yn4vZiu6k",
+    "title": "How to Actually Change Your Mind",
+    "subtitle": null,
+    "number": 2,
+    "contents": {
+      "markdown": "This truth thing seems pretty handy. Why, then, do we keep jumping to conclusions, digging our heels in, and recapitulating the same mistakes? Why are we so bad at acquiring accurate beliefs, and how can we do better? These seven sequences discuss motivated reasoning and confirmation bias, with a special focus on hard-to-spot species of self-deception and the trap of “using arguments as soldiers”."
+    },
+    "sequences": [
+      {
+        "title": "Overly Convenient Excuses"
+      },
+      {
+        "title": "Politics and Rationality"
+      },
+      {
+        "title": "Against Rationalization"
+      },
+      {
+        "title": "Against Doublethink"
+      },
+      {
+        "title": "Seeing with Fresh Eyes"
+      },
+      {
+        "title": "Death Spirals"
+      },
+      {
+        "title": "Letting Go"
+      }
+    ]
+  },
+  {
+    "_id": "PYQ2izdfDPTe5uJTG",
+    "title": "Map and Territory ",
+    "subtitle": null,
+    "number": 1,
+    "contents": {
+      "markdown": "What is a belief, and what makes some beliefs work better than others? These four sequences explain the Bayesian notions of rationality, belief, and evidence. A running theme: the things we call “explanations” or “theories” may not always function like maps for navigating the world. As a result, we risk mixing up our mental maps with the other objects in our toolbox."
+    },
+    "sequences": [
+      {
+        "title": "Predictably Wrong"
+      },
+      {
+        "title": "Fake Beliefs"
+      },
+      {
+        "title": "Noticing Confusion"
+      },
+      {
+        "title": "Mysterious Answers"
+      }
+    ]
+  },
+  {
+    "_id": "FKqfyLN3K9JbWqcJR",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "3RqWcf6k3obJhR2Gn",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "A9NkrQZDN3rkujSKf",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "TtohJQBWapEhyhce3",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Politics and Pragmatics"
+      }
+    ]
+  },
+  {
+    "_id": "aemgZa7d7vhNj6GvY",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Politics and Pragmatics"
+      }
+    ]
+  },
+  {
+    "_id": "j5MbdQtCspai4ASmw",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Politics and Pragmatics"
+      }
+    ]
+  },
+  {
+    "_id": "gP59pkF4DY6PuTBbw",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "5Zo2ud7THof2Mp7T6",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "ZNDcjbf2YKiCYCEJr",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "Xmb4uNGofwkZK8AHW",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "v6qSg7xJ4yrmZ7JeL",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "KRMRDYPZyuJ7iXypi",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "Db6yctmze5bPEkNod",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "gXNG4q5QmA7c28gjm",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "48bqzCJSZbNuyjxpH",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "Aj9mYd7DP5WyY36eQ",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "ahWKaYXSMztvTcxKT",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "yJAKGfRiL4G3gFez6",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "Qu3T4SEPJPTQSe5sg",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "YFbFiscrXRmkc4MR3",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "Z7ouzgFFo7a7FyfWw",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "3uNPScYM4QRGdSwD5",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "DrNyiLCoJDCyS3uk5",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "85M373Ba5khcc2nhW",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "WduErZaMAQbNJTLcH",
+    "title": "Book III: The Real More Deal",
+    "subtitle": null,
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "Rx4hyKAWtog53QDGr",
+    "title": "Book II: The Real Real Deal",
+    "subtitle": "And another Subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "6Q3mmK9fhmdKaBrY3",
+    "title": "Book I: The Real Deal",
+    "subtitle": "This is another subtitle",
+    "number": null,
+    "contents": null,
+    "sequences": []
+  },
+  {
+    "_id": "627069efc21cca7abd321d83",
+    "title": "The Carving of Reality",
+    "subtitle": "Best of 2020",
+    "number": null,
+    "contents": null,
+    "sequences": [
+      {
+        "title": "Reality & Reason"
+      },
+      {
+        "title": "Coordination & Constraint"
+      },
+      {
+        "title": "Takeoff & Takeover"
+      },
+      {
+        "title": "Alignment & Agency"
+      }
+    ]
+  }
+]

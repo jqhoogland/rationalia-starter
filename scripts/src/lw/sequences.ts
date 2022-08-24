@@ -9,8 +9,15 @@ interface Sequence {
     contents: {
         markdown: string
     }
-    posts: { title: string, tags: TagPreview[] }[]
-    tags: TagPreview[]
+    chapters: {
+        title: string;
+        subtitle: string;
+        number: number;
+        contents: {
+            markdown: string
+        }
+        posts: { title: string, tags: TagPreview[] }[]
+    }
 }
 
 export const loadSequences = async (limit?: number) => {
