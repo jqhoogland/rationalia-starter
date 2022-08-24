@@ -1,36 +1,28 @@
 import fs from 'fs';
 import { gql, request } from 'graphql-request';
+import { TableOfContents, TagPreview } from './types';
 
 type Response<T> = {
     results: T[]
 }
 
-interface TagPreview {
+interface Tag {
     _id: string,
     name: string,
     core: boolean,
     slug: string,
-    tableOfContents: {
-        html: string,
-        sections: {title: string, anchor: string, level: number}[],
-        headingsCount: number
-    };
+    tableOfContents: TableOfContents;
     postCount: number,
-    descriptionVersion: number,
     parentTag?: null | {
         name: string
     }
-    subtags: {name: string}[]
-}
-
-type Tag = TagPreview & {
+    subtags: TagPreview[]
     description: {
         markdown: string
     }
 }
 
-
-const loadTags = async (limit = 5) => {
+export const loadTags = async (limit?: number) => {
     const query = gql`
     {
         tags(input: { 
@@ -58,10 +50,10 @@ const loadTags = async (limit = 5) => {
         }
     }`
 
-    request('https://www.lesswrong.com/graphql', query).then(({ tags }: { tags: Response<TagPreview> }) => {
+    return request('https://www.lesswrong.com/graphql', query).then(({ tags }: { tags: Response<Tag> }) => {
         fs.writeFileSync('./data/tags.json', JSON.stringify(tags.results, null, 2))
-        console.log(JSON.stringify(tags.results));
+        return tags.results;
     })
 }
 
-loadTags(null)
+// (await loadTags().then(tags => console.log(JSON.stringify(tags, null, 2))))

@@ -1,12 +1,16 @@
 {
   "name": "rationalia-scripts",
-  "module": "index.ts",
   "type": "module",
   "devDependencies": {
     "bun-types": "^0.1.0"
   },
   "dependencies": {
     "graphql": "^16.6.0",
-    "graphql-request": "^4.3.0"
+    "graphql-request": "^4.3.0",
+    "mdast": "^3.0.0",
+    "remark-parse": "^10.0.1",
+    "remark-sectionize": "^1.1.1",
+    "remark-stringify": "^10.0.2",
+    "unified": "^10.1.2"
   }
 }

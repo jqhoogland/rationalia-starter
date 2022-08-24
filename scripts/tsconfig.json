@@ -1,9 +1,16 @@
 {
+  "include": [
+    "src/**/*.ts"
+ ],
   "compilerOptions": {
     "lib": ["ESNext"],
     "module": "esnext",
     "target": "esnext",
     "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,    
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
 
     // so that if your project isn't using TypeScript, it still has autocomplete
     "allowJs": true,
