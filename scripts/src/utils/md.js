@@ -1,13 +1,5 @@
-// import remarkParse from "remark-parse"
-// import remarkSectionize from "remark-sectionize"
-import { unified } from "unified";
-
 export const splitSections = async (markdown) => {
-    return markdown
-    return unified()
-    //     .use(remarkParse)
-    //     // .use(remarkSectionize)
-    //     .process(markdown)
-    //     .then(String)
-    //     .then(console.log)
+    // Unfortunately, some posts use `\n\n**Section Heading**\n\n` to mark headings (instead of `#`s)
+    return ("\n\n" + markdown).split("\n\n**").map(section => section.split("**\n\n")).map(([title, body]) => ({title, body}))    
+
 }

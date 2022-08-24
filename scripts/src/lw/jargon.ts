@@ -2,21 +2,21 @@
  * Compiled from the [CFAR Jargon Appendix](https://www.lesswrong.com/posts/fbv9FWss6ScDMJiAx/appendix-jargon-dictionary).
  */
 
-import { request, gql } from "graphql-request";
-import { splitSections } from "../utils/md.js";
-// import type { TableOfContents, TagPreview } from "./types";
+import request, { gql } from "graphql-request";
+import { splitSections } from "../utils/md";
+import type { TableOfContents, TagPreview } from "./types";
 
-// interface Post {
-//     _id: string;
-//     title: string;
-//     slug: string;
-//     url: string;
-//     tags: TagPreview[],
-//     tableOfContents: TableOfContents,
-//     contents: {
-//         markdown: string
-//     }
-// }
+interface Post {
+    _id: string;
+    title: string;
+    slug: string;
+    url: string;
+    tags: TagPreview[],
+    tableOfContents: TableOfContents,
+    contents: {
+        markdown: string
+    }
+}
 
 export const loadJargon = async () => {
     const query = gql`{
@@ -44,8 +44,7 @@ export const loadJargon = async () => {
     }`
 
     return request('https://www.lesswrong.com/graphql', query)
-        // { post: { result: Post } }
-        .then(({ post }) => {
+        .then(({ post }: { post: { result: Post } }) => {
         return splitSections(post.result.contents.markdown);
     })
 }
