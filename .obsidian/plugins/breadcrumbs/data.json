@@ -1,0 +1,95 @@
+{
+  "addDendronNotes": false,
+  "aliasesInIndex": false,
+  "alphaSortAsc": false,
+  "altLinkFields": [],
+  "CSVPaths": "",
+  "debugMode": "WARN",
+  "defaultView": true,
+  "dendronNoteDelimiter": ".",
+  "dendronNoteField": "up",
+  "downViewWrap": false,
+  "dotsColour": "#000000",
+  "dvWaitTime": 5000,
+  "enableAlphaSort": true,
+  "fieldSuggestor": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "limitWriteBCCheckboxes": [
+    "up",
+    "same",
+    "down",
+    "next",
+    "prev"
+  ],
+  "CHECKBOX_STATES_OVERWRITTEN": true,
+  "gridDots": false,
+  "gridHeatmap": false,
+  "heatmapColour": " #7f6df2",
+  "hierarchyNotes": [
+    "3 Notes/Outline of Notes",
+    "Outline"
+  ],
+  "HNUpField": "",
+  "indexNotes": [
+    ""
+  ],
+  "refreshOnNoteChange": false,
+  "useAllMetadata": true,
+  "openMatrixOnLoad": true,
+  "openStatsOnLoad": true,
+  "openDuckOnLoad": false,
+  "openDownOnLoad": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "showNameOrType": true,
+  "showRelationType": true,
+  "rlLeaf": true,
+  "showAllPathsIfNoneToIndexNote": false,
+  "showBCs": true,
+  "showBCsInEditLPMode": false,
+  "showRefreshNotice": true,
+  "showTrail": true,
+  "showGrid": true,
+  "showPrevNext": true,
+  "limitTrailCheckboxes": [
+    "up"
+  ],
+  "limitJumpToFirstFields": [
+    "up",
+    "same",
+    "down",
+    "next",
+    "prev"
+  ],
+  "showAll": false,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "→",
+  "treatCurrNodeAsImpliedSibling": false,
+  "trimDendronNotes": false,
+  "respectReadableLineLength": true,
+  "userHiers": [
+    {
+      "up": [
+        "up"
+      ],
+      "same": [
+        "same"
+      ],
+      "down": [
+        "down"
+      ],
+      "next": [
+        "next"
+      ],
+      "prev": [
+        "prev"
+      ]
+    }
+  ],
+  "writeBCsInline": false,
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true
+}

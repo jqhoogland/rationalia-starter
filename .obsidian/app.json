@@ -1,7 +1,21 @@
 {
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "attachmentFolderPath": "5 Miscellaneous/Media",
+  "foldIndent": true,
+  "newFileFolderPath": " Inbox",
+  "fileSortOrder": "alphabetical",
   "legacyEditor": false,
   "livePreview": true,
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "promptDelete": false
+  "communityPluginSortOrder": "release",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "spellcheck": true,
+  "userIgnoreFilters": [
+    "scripts/"
+  ],
+  "vimMode": true
 }

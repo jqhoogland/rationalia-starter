@@ -1,0 +1,19 @@
+{
+  "targetAttributes": [
+    "category",
+    "status"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [],
+  "presetFields": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "5 Miscellaneous/File Classes"
+}

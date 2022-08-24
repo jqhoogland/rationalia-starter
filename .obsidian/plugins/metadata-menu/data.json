@@ -1,0 +1,30 @@
+{
+  "presetFields": [
+    {
+      "name": "status",
+      "options": {
+        "1": "todo",
+        "2": "in progress",
+        "3": "done"
+      },
+      "id": "1",
+      "valuesListNotePath": "",
+      "type": "Select"
+    },
+    {
+      "name": "href",
+      "options": {},
+      "id": "2",
+      "valuesListNotePath": "",
+      "type": "Input"
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": 2,
+  "firstDayOfWeek": 1
+}

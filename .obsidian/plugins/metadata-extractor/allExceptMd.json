@@ -1,0 +1,2219 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "1 Projects",
+      "relativePath": "1 Projects"
+    },
+    {
+      "name": "2 Areas",
+      "relativePath": "2 Areas"
+    },
+    {
+      "name": "3 Resources",
+      "relativePath": "3 Resources"
+    },
+    {
+      "name": "5 Miscellaneous",
+      "relativePath": "5 Miscellaneous"
+    },
+    {
+      "name": "4 Archives",
+      "relativePath": "4 Archives"
+    },
+    {
+      "name": "Learning",
+      "relativePath": "1 Projects/Learning"
+    },
+    {
+      "name": "Writing",
+      "relativePath": "1 Projects/Writing"
+    },
+    {
+      "name": "1 Professional",
+      "relativePath": "2 Areas/1 Professional"
+    },
+    {
+      "name": "2 Personal",
+      "relativePath": "2 Areas/2 Personal"
+    },
+    {
+      "name": "3 Relationships",
+      "relativePath": "2 Areas/3 Relationships"
+    },
+    {
+      "name": "Career Plan",
+      "relativePath": "1 Projects/Career Plan"
+    },
+    {
+      "name": "Programming",
+      "relativePath": "1 Projects/Programming"
+    },
+    {
+      "name": "4 Health",
+      "relativePath": "2 Areas/4 Health"
+    },
+    {
+      "name": "Areas",
+      "relativePath": "2 Areas/Areas"
+    },
+    {
+      "name": "0 Inbox",
+      "relativePath": "3 Resources/0 Inbox"
+    },
+    {
+      "name": "1 General",
+      "relativePath": "3 Resources/1 General"
+    },
+    {
+      "name": "2 Philosophy",
+      "relativePath": "3 Resources/2 Philosophy"
+    },
+    {
+      "name": "3 Problems",
+      "relativePath": "3 Resources/3 Problems"
+    },
+    {
+      "name": "3 Sciences",
+      "relativePath": "3 Resources/3 Sciences"
+    },
+    {
+      "name": "4 Humanities",
+      "relativePath": "3 Resources/4 Humanities"
+    },
+    {
+      "name": "Big Questions",
+      "relativePath": "3 Resources/Big Questions"
+    },
+    {
+      "name": "Literature Notes",
+      "relativePath": "3 Resources/Literature Notes"
+    },
+    {
+      "name": "Notes",
+      "relativePath": "3 Resources/Notes"
+    },
+    {
+      "name": "People",
+      "relativePath": "3 Resources/People"
+    },
+    {
+      "name": "Principles",
+      "relativePath": "3 Resources/Principles"
+    },
+    {
+      "name": "Excalidraw",
+      "relativePath": "5 Miscellaneous/Excalidraw"
+    },
+    {
+      "name": "File Classes",
+      "relativePath": "5 Miscellaneous/File Classes"
+    },
+    {
+      "name": "Media",
+      "relativePath": "5 Miscellaneous/Media"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "5 Miscellaneous/Templates"
+    },
+    {
+      "name": "scripts",
+      "relativePath": "5 Miscellaneous/scripts"
+    },
+    {
+      "name": "HC",
+      "relativePath": "4 Archives/HC"
+    },
+    {
+      "name": "MSc",
+      "relativePath": "4 Archives/MSc"
+    },
+    {
+      "name": "01 Essays",
+      "relativePath": "1 Projects/Writing/01 Essays"
+    },
+    {
+      "name": "02 Series",
+      "relativePath": "1 Projects/Writing/02 Series"
+    },
+    {
+      "name": "04 Newsletters",
+      "relativePath": "1 Projects/Writing/04 Newsletters"
+    },
+    {
+      "name": "03 Books",
+      "relativePath": "1 Projects/Writing/03 Books"
+    },
+    {
+      "name": "05 Videos",
+      "relativePath": "1 Projects/Writing/05 Videos"
+    },
+    {
+      "name": "06 Reviews",
+      "relativePath": "1 Projects/Writing/06 Reviews"
+    },
+    {
+      "name": "AI",
+      "relativePath": "1 Projects/Learning/AI"
+    },
+    {
+      "name": "Less Wrong",
+      "relativePath": "1 Projects/Learning/Less Wrong"
+    },
+    {
+      "name": "Upgradable",
+      "relativePath": "1 Projects/Learning/Upgradable"
+    },
+    {
+      "name": "1 PKM",
+      "relativePath": "2 Areas/2 Personal/1 PKM"
+    },
+    {
+      "name": "2 SRS",
+      "relativePath": "2 Areas/2 Personal/2 SRS"
+    },
+    {
+      "name": "3 Subjects",
+      "relativePath": "2 Areas/2 Personal/3 Subjects"
+    },
+    {
+      "name": "4 Time",
+      "relativePath": "2 Areas/2 Personal/4 Time"
+    },
+    {
+      "name": "Who am I",
+      "relativePath": "2 Areas/2 Personal/Who am I"
+    },
+    {
+      "name": "People I'd like to meet",
+      "relativePath": "2 Areas/3 Relationships/People I'd like to meet"
+    },
+    {
+      "name": "Professional",
+      "relativePath": "2 Areas/3 Relationships/Professional"
+    },
+    {
+      "name": "Computers",
+      "relativePath": "3 Resources/1 General/Computers"
+    },
+    {
+      "name": "Classification",
+      "relativePath": "3 Resources/1 General/Classification"
+    },
+    {
+      "name": "Knowledge Management",
+      "relativePath": "3 Resources/1 General/Knowledge Management"
+    },
+    {
+      "name": "Concepts",
+      "relativePath": "3 Resources/2 Philosophy/Concepts"
+    },
+    {
+      "name": "Philosophers",
+      "relativePath": "3 Resources/2 Philosophy/Philosophers"
+    },
+    {
+      "name": "Schools",
+      "relativePath": "3 Resources/2 Philosophy/Schools"
+    },
+    {
+      "name": "0 Climate Crisis",
+      "relativePath": "3 Resources/3 Problems/0 Climate Crisis"
+    },
+    {
+      "name": "1 AI Safety",
+      "relativePath": "3 Resources/3 Problems/1 AI Safety"
+    },
+    {
+      "name": "3 Aging",
+      "relativePath": "3 Resources/3 Problems/3 Aging"
+    },
+    {
+      "name": "4 Surveillance Capitalism",
+      "relativePath": "3 Resources/3 Problems/4 Surveillance Capitalism"
+    },
+    {
+      "name": "5 Irrationality",
+      "relativePath": "3 Resources/3 Problems/5 Irrationality"
+    },
+    {
+      "name": "2 Inequality & Poverty",
+      "relativePath": "3 Resources/3 Problems/2 Inequality & Poverty"
+    },
+    {
+      "name": "UI",
+      "relativePath": "3 Resources/0 Inbox/UI"
+    },
+    {
+      "name": "0 Mathematics",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics"
+    },
+    {
+      "name": "00 History of Science",
+      "relativePath": "3 Resources/3 Sciences/00 History of Science"
+    },
+    {
+      "name": "000 Philosophy of Science",
+      "relativePath": "3 Resources/3 Sciences/000 Philosophy of Science"
+    },
+    {
+      "name": "1 Computer Science",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science"
+    },
+    {
+      "name": "10 Education",
+      "relativePath": "3 Resources/3 Sciences/10 Education"
+    },
+    {
+      "name": "11 Society",
+      "relativePath": "3 Resources/3 Sciences/11 Society"
+    },
+    {
+      "name": "2 Physics",
+      "relativePath": "3 Resources/3 Sciences/2 Physics"
+    },
+    {
+      "name": "3 Chemistry",
+      "relativePath": "3 Resources/3 Sciences/3 Chemistry"
+    },
+    {
+      "name": "4 Astronomy",
+      "relativePath": "3 Resources/3 Sciences/4 Astronomy"
+    },
+    {
+      "name": "5 Earth Science",
+      "relativePath": "3 Resources/3 Sciences/5 Earth Science"
+    },
+    {
+      "name": "6 Biological Sciences",
+      "relativePath": "3 Resources/3 Sciences/6 Biological Sciences"
+    },
+    {
+      "name": "7 Health & Medicine",
+      "relativePath": "3 Resources/3 Sciences/7 Health & Medicine"
+    },
+    {
+      "name": "8 Social Sciences",
+      "relativePath": "3 Resources/3 Sciences/8 Social Sciences"
+    },
+    {
+      "name": "9 Psychology & Psychiatry",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry"
+    },
+    {
+      "name": "15 History",
+      "relativePath": "3 Resources/4 Humanities/15 History"
+    },
+    {
+      "name": "16 Geography",
+      "relativePath": "3 Resources/4 Humanities/16 Geography"
+    },
+    {
+      "name": "17 Philology",
+      "relativePath": "3 Resources/4 Humanities/17 Philology"
+    },
+    {
+      "name": "18 Fine Arts",
+      "relativePath": "3 Resources/4 Humanities/18 Fine Arts"
+    },
+    {
+      "name": "19 Religion",
+      "relativePath": "3 Resources/4 Humanities/19 Religion"
+    },
+    {
+      "name": "8 Tools",
+      "relativePath": "3 Resources/Notes/8 Tools"
+    },
+    {
+      "name": "Articles",
+      "relativePath": "3 Resources/Literature Notes/Articles"
+    },
+    {
+      "name": "Books",
+      "relativePath": "3 Resources/Literature Notes/Books"
+    },
+    {
+      "name": "By Author",
+      "relativePath": "3 Resources/Literature Notes/By Author"
+    },
+    {
+      "name": "Essays",
+      "relativePath": "3 Resources/Literature Notes/Essays"
+    },
+    {
+      "name": "Misc",
+      "relativePath": "3 Resources/Literature Notes/Misc"
+    },
+    {
+      "name": "Open Principles",
+      "relativePath": "3 Resources/Literature Notes/Open Principles"
+    },
+    {
+      "name": "Podcasts",
+      "relativePath": "3 Resources/Literature Notes/Podcasts"
+    },
+    {
+      "name": "Seminars & Speeches",
+      "relativePath": "3 Resources/Literature Notes/Seminars & Speeches"
+    },
+    {
+      "name": "Aphorisms & Platitudes",
+      "relativePath": "3 Resources/Principles/Aphorisms & Platitudes"
+    },
+    {
+      "name": "Laws",
+      "relativePath": "3 Resources/Principles/Laws"
+    },
+    {
+      "name": "1 About",
+      "relativePath": "4 Archives/HC/1 About"
+    },
+    {
+      "name": "2 Strategy",
+      "relativePath": "4 Archives/HC/2 Strategy"
+    },
+    {
+      "name": "3 Planning",
+      "relativePath": "4 Archives/HC/3 Planning"
+    },
+    {
+      "name": "4 Organization",
+      "relativePath": "4 Archives/HC/4 Organization"
+    },
+    {
+      "name": "5 Resources",
+      "relativePath": "4 Archives/HC/5 Resources"
+    },
+    {
+      "name": "Product",
+      "relativePath": "4 Archives/HC/Product"
+    },
+    {
+      "name": "Tasks",
+      "relativePath": "4 Archives/HC/Tasks"
+    },
+    {
+      "name": "Msc Thesis",
+      "relativePath": "4 Archives/MSc/Msc Thesis"
+    },
+    {
+      "name": "Science in Perspective",
+      "relativePath": "4 Archives/MSc/Science in Perspective"
+    },
+    {
+      "name": "Atomic Workflows",
+      "relativePath": "1 Projects/Writing/02 Series/Atomic Workflows"
+    },
+    {
+      "name": "General",
+      "relativePath": "1 Projects/Writing/02 Series/General"
+    },
+    {
+      "name": "Laws of Learning",
+      "relativePath": "1 Projects/Writing/02 Series/Laws of Learning"
+    },
+    {
+      "name": "Memorizing",
+      "relativePath": "1 Projects/Writing/02 Series/Memorizing"
+    },
+    {
+      "name": "The 48 Laws of Cooperation",
+      "relativePath": "1 Projects/Writing/02 Series/The 48 Laws of Cooperation"
+    },
+    {
+      "name": "Why NNs Work",
+      "relativePath": "1 Projects/Writing/02 Series/Why NNs Work"
+    },
+    {
+      "name": "03 TAT-37",
+      "relativePath": "1 Projects/Writing/03 Books/03 TAT-37"
+    },
+    {
+      "name": "04 An Ode to Being",
+      "relativePath": "1 Projects/Writing/03 Books/04 An Ode to Being"
+    },
+    {
+      "name": "White Gold",
+      "relativePath": "1 Projects/Writing/03 Books/White Gold"
+    },
+    {
+      "name": "0 Daily Review",
+      "relativePath": "1 Projects/Writing/06 Reviews/0 Daily Review"
+    },
+    {
+      "name": "1 Weekly Review",
+      "relativePath": "1 Projects/Writing/06 Reviews/1 Weekly Review"
+    },
+    {
+      "name": "2 Monthly Review",
+      "relativePath": "1 Projects/Writing/06 Reviews/2 Monthly Review"
+    },
+    {
+      "name": "4 Annual Review",
+      "relativePath": "1 Projects/Writing/06 Reviews/4 Annual Review"
+    },
+    {
+      "name": "5 Age",
+      "relativePath": "1 Projects/Writing/06 Reviews/5 Age"
+    },
+    {
+      "name": "3 Quarterly Review",
+      "relativePath": "1 Projects/Writing/06 Reviews/3 Quarterly Review"
+    },
+    {
+      "name": "Concepts",
+      "relativePath": "1 Projects/Learning/Upgradable/Concepts"
+    },
+    {
+      "name": "Pillars",
+      "relativePath": "1 Projects/Learning/Upgradable/Pillars"
+    },
+    {
+      "name": "Principles",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles"
+    },
+    {
+      "name": "Input",
+      "relativePath": "2 Areas/2 Personal/2 SRS/Input"
+    },
+    {
+      "name": "Mnemonics",
+      "relativePath": "2 Areas/2 Personal/2 SRS/Mnemonics"
+    },
+    {
+      "name": "0 Languages",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages"
+    },
+    {
+      "name": "0 Time Management",
+      "relativePath": "2 Areas/2 Personal/4 Time/0 Time Management"
+    },
+    {
+      "name": "1 Habits",
+      "relativePath": "2 Areas/2 Personal/4 Time/1 Habits"
+    },
+    {
+      "name": "2 Automation",
+      "relativePath": "2 Areas/2 Personal/4 Time/2 Automation"
+    },
+    {
+      "name": "Tools",
+      "relativePath": "2 Areas/2 Personal/4 Time/Tools"
+    },
+    {
+      "name": "Concepts",
+      "relativePath": "1 Projects/Learning/Less Wrong/Concepts"
+    },
+    {
+      "name": "Posts",
+      "relativePath": "1 Projects/Learning/Less Wrong/Posts"
+    },
+    {
+      "name": "Reading Orders",
+      "relativePath": "1 Projects/Learning/Less Wrong/Reading Orders"
+    },
+    {
+      "name": "scripts",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts"
+    },
+    {
+      "name": "Jargon",
+      "relativePath": "1 Projects/Learning/Less Wrong/Jargon"
+    },
+    {
+      "name": "Python",
+      "relativePath": "3 Resources/1 General/Computers/Python"
+    },
+    {
+      "name": "Bibliographic classification",
+      "relativePath": "3 Resources/1 General/Classification/Bibliographic classification"
+    },
+    {
+      "name": "Note classification",
+      "relativePath": "3 Resources/1 General/Classification/Note classification"
+    },
+    {
+      "name": "Examples of Knowledge Management",
+      "relativePath": "3 Resources/1 General/Knowledge Management/Examples of Knowledge Management"
+    },
+    {
+      "name": "Parts of Knowledge Management",
+      "relativePath": "3 Resources/1 General/Knowledge Management/Parts of Knowledge Management"
+    },
+    {
+      "name": "Principles of Knowledge Management",
+      "relativePath": "3 Resources/1 General/Knowledge Management/Principles of Knowledge Management"
+    },
+    {
+      "name": "Peripatetic school",
+      "relativePath": "3 Resources/2 Philosophy/Schools/Peripatetic school"
+    },
+    {
+      "name": "Platonism",
+      "relativePath": "3 Resources/2 Philosophy/Schools/Platonism"
+    },
+    {
+      "name": "Postmodernism",
+      "relativePath": "3 Resources/2 Philosophy/Schools/Postmodernism"
+    },
+    {
+      "name": "Scholasticism",
+      "relativePath": "3 Resources/2 Philosophy/Schools/Scholasticism"
+    },
+    {
+      "name": "Stoicism",
+      "relativePath": "3 Resources/2 Philosophy/Schools/Stoicism"
+    },
+    {
+      "name": "AM3D Axioms, postulates",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM3D Axioms, postulates"
+    },
+    {
+      "name": "AM4AG Complexity",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM4AG Complexity"
+    },
+    {
+      "name": "AO Algebra",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AO Algebra"
+    },
+    {
+      "name": "ARH N Networks",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/ARH N Networks"
+    },
+    {
+      "name": "ATA Algebras, Linear algebras",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/ATA Algebras, Linear algebras"
+    },
+    {
+      "name": "AW Statistics & probability",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AW Statistics & probability"
+    },
+    {
+      "name": "AWEME3CC Chaos theory",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AWEME3CC Chaos theory"
+    },
+    {
+      "name": "AWX Probability",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AWX Probability"
+    },
+    {
+      "name": "AX Systemology, organization theory",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AX Systemology, organization theory"
+    },
+    {
+      "name": "AXAU Risk",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AXAU Risk"
+    },
+    {
+      "name": "AXPX Game Theory",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AXPX Game Theory"
+    },
+    {
+      "name": "Logic",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/Logic"
+    },
+    {
+      "name": "Reasoning",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/Reasoning"
+    },
+    {
+      "name": "AYG9B General systems theory",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science/AYG9B General systems theory"
+    },
+    {
+      "name": "AYPN Information theory",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science/AYPN Information theory"
+    },
+    {
+      "name": "AYQ Cybernetics, control",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science/AYQ Cybernetics, control"
+    },
+    {
+      "name": "AYS AI ",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science/AYS AI "
+    },
+    {
+      "name": "13 Anthropology",
+      "relativePath": "3 Resources/3 Sciences/11 Society/13 Anthropology"
+    },
+    {
+      "name": "4 Sociology",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology"
+    },
+    {
+      "name": "Q Social welfare and criminology",
+      "relativePath": "3 Resources/3 Sciences/11 Society/Q Social welfare and criminology"
+    },
+    {
+      "name": "R Politics and public administration",
+      "relativePath": "3 Resources/3 Sciences/11 Society/R Politics and public administration"
+    },
+    {
+      "name": "S Law",
+      "relativePath": "3 Resources/3 Sciences/11 Society/S Law"
+    },
+    {
+      "name": "T Economics & management of economic enterprises",
+      "relativePath": "3 Resources/3 Sciences/11 Society/T Economics & management of economic enterprises"
+    },
+    {
+      "name": "J3L Education speeches",
+      "relativePath": "3 Resources/3 Sciences/10 Education/J3L Education speeches"
+    },
+    {
+      "name": "Rhetoric",
+      "relativePath": "3 Resources/3 Sciences/10 Education/Rhetoric"
+    },
+    {
+      "name": "DSX 9E Climate Change",
+      "relativePath": "3 Resources/3 Sciences/5 Earth Science/DSX 9E Climate Change"
+    },
+    {
+      "name": "HJ Preventive medicine",
+      "relativePath": "3 Resources/3 Sciences/7 Health & Medicine/HJ Preventive medicine"
+    },
+    {
+      "name": "EIF Locomotion",
+      "relativePath": "3 Resources/3 Sciences/6 Biological Sciences/EIF Locomotion"
+    },
+    {
+      "name": "EJ Anatomy, Physiology, Pathology",
+      "relativePath": "3 Resources/3 Sciences/6 Biological Sciences/EJ Anatomy, Physiology, Pathology"
+    },
+    {
+      "name": "Kinetic Theory",
+      "relativePath": "3 Resources/3 Sciences/00 History of Science/Kinetic Theory"
+    },
+    {
+      "name": "Brownian Motion",
+      "relativePath": "3 Resources/3 Sciences/00 History of Science/Brownian Motion"
+    },
+    {
+      "name": "3 Psychology",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/3 Psychology"
+    },
+    {
+      "name": "GHWX.1 Collective Behavior",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/GHWX.1 Collective Behavior"
+    },
+    {
+      "name": "IFG Emotions",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/IFG Emotions"
+    },
+    {
+      "name": "IMW X Geniuses",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/IMW X Geniuses"
+    },
+    {
+      "name": "Thinking",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/Thinking"
+    },
+    {
+      "name": "BC Thermodynamics, mechanics",
+      "relativePath": "3 Resources/3 Sciences/2 Physics/BC Thermodynamics, mechanics"
+    },
+    {
+      "name": "BM8MFM Renormalization",
+      "relativePath": "3 Resources/3 Sciences/2 Physics/BM8MFM Renormalization"
+    },
+    {
+      "name": "Statistical Physics",
+      "relativePath": "3 Resources/3 Sciences/2 Physics/Statistical Physics"
+    },
+    {
+      "name": "L,O History",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History"
+    },
+    {
+      "name": "XI Literature",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XI Literature"
+    },
+    {
+      "name": "XJ Individual Languages",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XJ Individual Languages"
+    },
+    {
+      "name": "WV,WX Music",
+      "relativePath": "3 Resources/4 Humanities/18 Fine Arts/WV,WX Music"
+    },
+    {
+      "name": "PYN B Social sanction, social control",
+      "relativePath": "3 Resources/4 Humanities/19 Religion/PYN B Social sanction, social control"
+    },
+    {
+      "name": "PYP B Virtue and Vice",
+      "relativePath": "3 Resources/4 Humanities/19 Religion/PYP B Virtue and Vice"
+    },
+    {
+      "name": "1 Zettelkasten",
+      "relativePath": "3 Resources/Notes/8 Tools/1 Zettelkasten"
+    },
+    {
+      "name": "1 Unprocessed",
+      "relativePath": "3 Resources/Literature Notes/Articles/1 Unprocessed"
+    },
+    {
+      "name": "2 Processing",
+      "relativePath": "3 Resources/Literature Notes/Articles/2 Processing"
+    },
+    {
+      "name": "Biographical",
+      "relativePath": "3 Resources/Literature Notes/Books/Biographical"
+    },
+    {
+      "name": "Fiction",
+      "relativePath": "3 Resources/Literature Notes/Books/Fiction"
+    },
+    {
+      "name": "History",
+      "relativePath": "3 Resources/Literature Notes/Books/History"
+    },
+    {
+      "name": "3 Processed",
+      "relativePath": "3 Resources/Literature Notes/Articles/3 Processed"
+    },
+    {
+      "name": "Miscellaneous Nonfiction",
+      "relativePath": "3 Resources/Literature Notes/Books/Miscellaneous Nonfiction"
+    },
+    {
+      "name": "Philosophy",
+      "relativePath": "3 Resources/Literature Notes/Books/Philosophy"
+    },
+    {
+      "name": "Self-improvement",
+      "relativePath": "3 Resources/Literature Notes/Books/Self-improvement"
+    },
+    {
+      "name": "David Foster Wallace",
+      "relativePath": "3 Resources/Literature Notes/By Author/David Foster Wallace"
+    },
+    {
+      "name": "Dostoevsky",
+      "relativePath": "3 Resources/Literature Notes/By Author/Dostoevsky"
+    },
+    {
+      "name": "Eliezer Yudkowsky",
+      "relativePath": "3 Resources/Literature Notes/By Author/Eliezer Yudkowsky"
+    },
+    {
+      "name": "George Orwell",
+      "relativePath": "3 Resources/Literature Notes/By Author/George Orwell"
+    },
+    {
+      "name": "Joseph Heller",
+      "relativePath": "3 Resources/Literature Notes/By Author/Joseph Heller"
+    },
+    {
+      "name": "Kurt Vonnegut",
+      "relativePath": "3 Resources/Literature Notes/By Author/Kurt Vonnegut"
+    },
+    {
+      "name": "Leo Tolstoy",
+      "relativePath": "3 Resources/Literature Notes/By Author/Leo Tolstoy"
+    },
+    {
+      "name": "Mark Twain",
+      "relativePath": "3 Resources/Literature Notes/By Author/Mark Twain"
+    },
+    {
+      "name": "Paul Graham",
+      "relativePath": "3 Resources/Literature Notes/By Author/Paul Graham"
+    },
+    {
+      "name": "Shakespeare",
+      "relativePath": "3 Resources/Literature Notes/By Author/Shakespeare"
+    },
+    {
+      "name": "Thomas Pynchon",
+      "relativePath": "3 Resources/Literature Notes/By Author/Thomas Pynchon"
+    },
+    {
+      "name": "HC6 HR",
+      "relativePath": "4 Archives/HC/4 Organization/HC6 HR"
+    },
+    {
+      "name": "Competition",
+      "relativePath": "4 Archives/HC/5 Resources/Competition"
+    },
+    {
+      "name": "APIs",
+      "relativePath": "4 Archives/HC/Product/APIs"
+    },
+    {
+      "name": "Audience",
+      "relativePath": "4 Archives/HC/Product/Audience"
+    },
+    {
+      "name": "Features",
+      "relativePath": "4 Archives/HC/Product/Features"
+    },
+    {
+      "name": "Chapters",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Chapters"
+    },
+    {
+      "name": "Notes",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Notes"
+    },
+    {
+      "name": "Presentation",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation"
+    },
+    {
+      "name": "Meetings",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Meetings"
+    },
+    {
+      "name": "Workflows",
+      "relativePath": "1 Projects/Writing/02 Series/Laws of Learning/Workflows"
+    },
+    {
+      "name": "1 Growth",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/1 Growth"
+    },
+    {
+      "name": "2 Self",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/2 Self"
+    },
+    {
+      "name": "3 Decision-making",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/3 Decision-making"
+    },
+    {
+      "name": "4 Planning",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/4 Planning"
+    },
+    {
+      "name": "5 Execution",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/5 Execution"
+    },
+    {
+      "name": "6 Learning",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/6 Learning"
+    },
+    {
+      "name": "7 UP",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/7 UP"
+    },
+    {
+      "name": "8 Upgradable",
+      "relativePath": "1 Projects/Learning/Upgradable/Principles/8 Upgradable"
+    },
+    {
+      "name": "English",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages/English"
+    },
+    {
+      "name": "Español",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages/Español"
+    },
+    {
+      "name": "Français",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages/Français"
+    },
+    {
+      "name": "Italiano",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages/Italiano"
+    },
+    {
+      "name": "Nederlands",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages/Nederlands"
+    },
+    {
+      "name": "Deutsch",
+      "relativePath": "2 Areas/2 Personal/3 Subjects/0 Languages/Deutsch"
+    },
+    {
+      "name": "__pycache__",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts/__pycache__"
+    },
+    {
+      "name": "Examples",
+      "relativePath": "3 Resources/1 General/Classification/Bibliographic classification/Examples"
+    },
+    {
+      "name": "Kinds",
+      "relativePath": "3 Resources/1 General/Classification/Bibliographic classification/Kinds"
+    },
+    {
+      "name": "Principles",
+      "relativePath": "3 Resources/1 General/Classification/Bibliographic classification/Principles"
+    },
+    {
+      "name": "Parts",
+      "relativePath": "3 Resources/1 General/Classification/Bibliographic classification/Parts"
+    },
+    {
+      "name": "LYT",
+      "relativePath": "3 Resources/1 General/Knowledge Management/Examples of Knowledge Management/LYT"
+    },
+    {
+      "name": "48 Laws of Power",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM3D Axioms, postulates/48 Laws of Power"
+    },
+    {
+      "name": "33 Strategies of War",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM3D Axioms, postulates/33 Strategies of War"
+    },
+    {
+      "name": "7 Mysteries of Life",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM3D Axioms, postulates/7 Mysteries of Life"
+    },
+    {
+      "name": "How to win friends and influence people",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM3D Axioms, postulates/How to win friends and influence people"
+    },
+    {
+      "name": "The Laws of Human Nature",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/AM3D Axioms, postulates/The Laws of Human Nature"
+    },
+    {
+      "name": "AL3L Models",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/Reasoning/AL3L Models"
+    },
+    {
+      "name": "AM4DL Paradoxes",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/Reasoning/AM4DL Paradoxes"
+    },
+    {
+      "name": "Fallacies",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/Reasoning/Fallacies"
+    },
+    {
+      "name": "Dynamical systems theory",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science/AYG9B General systems theory/Dynamical systems theory"
+    },
+    {
+      "name": "Neural Networks",
+      "relativePath": "3 Resources/3 Sciences/1 Computer Science/AYPN Information theory/Neural Networks"
+    },
+    {
+      "name": "Entrepreneurship",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Entrepreneurship"
+    },
+    {
+      "name": "Ideology",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Ideology"
+    },
+    {
+      "name": "Learning",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/3 Psychology/Learning"
+    },
+    {
+      "name": "Intelligence",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/3 Psychology/Intelligence"
+    },
+    {
+      "name": "Consciousness",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/3 Psychology/Consciousness"
+    },
+    {
+      "name": "Pedagogy",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/3 Psychology/Pedagogy"
+    },
+    {
+      "name": "History of Science",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/History of Science"
+    },
+    {
+      "name": "LA 296 Historical people",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/LA 296 Historical people"
+    },
+    {
+      "name": "MA European history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/MA European history"
+    },
+    {
+      "name": "MB French history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/MB French history"
+    },
+    {
+      "name": "MBZ Iberian history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/MBZ Iberian history"
+    },
+    {
+      "name": "MD Italian history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/MD Italian history"
+    },
+    {
+      "name": "MN Greek history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/MN Greek history"
+    },
+    {
+      "name": "OD US History",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/OD US History"
+    },
+    {
+      "name": "OHA T 20th century world history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/OHA T 20th century world history"
+    },
+    {
+      "name": "OLD Central,Western Asia",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/OLD Central,Western Asia"
+    },
+    {
+      "name": "ON Middle Eastern history",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/ON Middle Eastern history"
+    },
+    {
+      "name": "People",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People"
+    },
+    {
+      "name": "Religion & Spirituality",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/Religion & Spirituality"
+    },
+    {
+      "name": "XIG Art of literature, composition",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XI Literature/XIG Art of literature, composition"
+    },
+    {
+      "name": "XIG F Rhetoric",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XI Literature/XIG F Rhetoric"
+    },
+    {
+      "name": "XIL Literary elements",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XI Literature/XIL Literary elements"
+    },
+    {
+      "name": "XIR C Novel, fiction",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XI Literature/XIR C Novel, fiction"
+    },
+    {
+      "name": "XVY Modern Standard German",
+      "relativePath": "3 Resources/4 Humanities/17 Philology/XJ Individual Languages/XVY Modern Standard German"
+    },
+    {
+      "name": "PYP C Virtues",
+      "relativePath": "3 Resources/4 Humanities/19 Religion/PYP B Virtue and Vice/PYP C Virtues"
+    },
+    {
+      "name": "PYP F Vice",
+      "relativePath": "3 Resources/4 Humanities/19 Religion/PYP B Virtue and Vice/PYP F Vice"
+    },
+    {
+      "name": "Case studies",
+      "relativePath": "4 Archives/HC/5 Resources/Competition/Case studies"
+    },
+    {
+      "name": "Agile",
+      "relativePath": "1 Projects/Writing/02 Series/Laws of Learning/Workflows/Agile"
+    },
+    {
+      "name": "Zettelkasten",
+      "relativePath": "1 Projects/Writing/02 Series/Laws of Learning/Workflows/Zettelkasten"
+    },
+    {
+      "name": "Biases",
+      "relativePath": "3 Resources/3 Sciences/0 Mathematics/Reasoning/Fallacies/Biases"
+    },
+    {
+      "name": "Companies",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Entrepreneurship/Companies"
+    },
+    {
+      "name": "Culture",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Entrepreneurship/Culture"
+    },
+    {
+      "name": "Methodologies",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Entrepreneurship/Methodologies"
+    },
+    {
+      "name": "Notes",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Entrepreneurship/Notes"
+    },
+    {
+      "name": "Organizational Structure",
+      "relativePath": "3 Resources/3 Sciences/11 Society/4 Sociology/Entrepreneurship/Organizational Structure"
+    },
+    {
+      "name": "Authors",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Authors"
+    },
+    {
+      "name": "Historical",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Historical"
+    },
+    {
+      "name": "Musicians",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Musicians"
+    },
+    {
+      "name": "Scientists",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Scientists"
+    },
+    {
+      "name": "Abrahamic Religions",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/Religion & Spirituality/Abrahamic Religions"
+    },
+    {
+      "name": "Other",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Historical/Other"
+    },
+    {
+      "name": "Philosophers",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Historical/Philosophers"
+    },
+    {
+      "name": "Rulers",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Historical/Rulers"
+    },
+    {
+      "name": "Scientists",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/People/Historical/Scientists"
+    },
+    {
+      "name": "Christianity",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/Religion & Spirituality/Abrahamic Religions/Christianity"
+    },
+    {
+      "name": "Catholicism",
+      "relativePath": "3 Resources/4 Humanities/15 History/L,O History/Religion & Spirituality/Abrahamic Religions/Christianity/Catholicism"
+    },
+    {
+      "name": "AM,AX Mathematics",
+      "relativePath": "3 Resources/AM,AX Mathematics"
+    },
+    {
+      "name": "AXPX Game Theory",
+      "relativePath": "3 Resources/AM,AX Mathematics/AXPX Game Theory"
+    },
+    {
+      "name": "AM4D Reasoning",
+      "relativePath": "3 Resources/AM,AX Mathematics/AM4D Reasoning"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "obsidian.css",
+      "basename": "obsidian",
+      "relativePath": "obsidian.css"
+    },
+    {
+      "name": "references.json",
+      "basename": "references",
+      "relativePath": "5 Miscellaneous/references.json"
+    },
+    {
+      "name": "tag-order.yml",
+      "basename": "tag-order",
+      "relativePath": "5 Miscellaneous/tag-order.yml"
+    },
+    {
+      "name": "references.bib",
+      "basename": "references",
+      "relativePath": "5 Miscellaneous/references.bib"
+    },
+    {
+      "name": "Check Ins Overview.excalidraw.md.bak",
+      "basename": "Check Ins Overview.excalidraw.md",
+      "relativePath": "5 Miscellaneous/Excalidraw/Check Ins Overview.excalidraw.md.bak"
+    },
+    {
+      "name": "Cards.js",
+      "basename": "Cards",
+      "relativePath": "5 Miscellaneous/scripts/Cards.js"
+    },
+    {
+      "name": "DateNavigator.js",
+      "basename": "DateNavigator",
+      "relativePath": "5 Miscellaneous/scripts/DateNavigator.js"
+    },
+    {
+      "name": "Decimal.js",
+      "basename": "Decimal",
+      "relativePath": "5 Miscellaneous/scripts/Decimal.js"
+    },
+    {
+      "name": "Renderer.js",
+      "basename": "Renderer",
+      "relativePath": "5 Miscellaneous/scripts/Renderer.js"
+    },
+    {
+      "name": "IMG_2103.heic",
+      "basename": "IMG_2103",
+      "relativePath": "5 Miscellaneous/Media/IMG_2103.heic"
+    },
+    {
+      "name": "Pasted Image 20220203090425_940.png",
+      "basename": "Pasted Image 20220203090425_940",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203090425_940.png"
+    },
+    {
+      "name": "Pasted Image 20220203090505_939.png",
+      "basename": "Pasted Image 20220203090505_939",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203090505_939.png"
+    },
+    {
+      "name": "Pasted Image 20220203090525_938.png",
+      "basename": "Pasted Image 20220203090525_938",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203090525_938.png"
+    },
+    {
+      "name": "Pasted Image 20220203091411_241.png",
+      "basename": "Pasted Image 20220203091411_241",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203091411_241.png"
+    },
+    {
+      "name": "Pasted Image 20220203091431_240.png",
+      "basename": "Pasted Image 20220203091431_240",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203091431_240.png"
+    },
+    {
+      "name": "Pasted Image 20220203091451_240.png",
+      "basename": "Pasted Image 20220203091451_240",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203091451_240.png"
+    },
+    {
+      "name": "Pasted Image 20220203091511_244.png",
+      "basename": "Pasted Image 20220203091511_244",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203091511_244.png"
+    },
+    {
+      "name": "Pasted Image 20220203091631_243.png",
+      "basename": "Pasted Image 20220203091631_243",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203091631_243.png"
+    },
+    {
+      "name": "Pasted Image 20220203091711_243.png",
+      "basename": "Pasted Image 20220203091711_243",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203091711_243.png"
+    },
+    {
+      "name": "Pasted Image 20220203092020_244.png",
+      "basename": "Pasted Image 20220203092020_244",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203092020_244.png"
+    },
+    {
+      "name": "Pasted Image 20220203092220_246.png",
+      "basename": "Pasted Image 20220203092220_246",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203092220_246.png"
+    },
+    {
+      "name": "Pasted Image 20220203092400_253.png",
+      "basename": "Pasted Image 20220203092400_253",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203092400_253.png"
+    },
+    {
+      "name": "Pasted Image 20220203092500_252.png",
+      "basename": "Pasted Image 20220203092500_252",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203092500_252.png"
+    },
+    {
+      "name": "Pasted Image 20220203092756_228.png",
+      "basename": "Pasted Image 20220203092756_228",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203092756_228.png"
+    },
+    {
+      "name": "Pasted Image 20220203092851_726.png",
+      "basename": "Pasted Image 20220203092851_726",
+      "relativePath": "5 Miscellaneous/Media/Pasted Image 20220203092851_726.png"
+    },
+    {
+      "name": "Pasted image 1.png",
+      "basename": "Pasted image 1",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 1.png"
+    },
+    {
+      "name": "Pasted image 20201125102301.png",
+      "basename": "Pasted image 20201125102301",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201125102301.png"
+    },
+    {
+      "name": "Pasted image 20201202130418.png",
+      "basename": "Pasted image 20201202130418",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201202130418.png"
+    },
+    {
+      "name": "Pasted image 20201202130426.png",
+      "basename": "Pasted image 20201202130426",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201202130426.png"
+    },
+    {
+      "name": "Pasted image 20201202132206.png",
+      "basename": "Pasted image 20201202132206",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201202132206.png"
+    },
+    {
+      "name": "Pasted image 20201202134750.png",
+      "basename": "Pasted image 20201202134750",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201202134750.png"
+    },
+    {
+      "name": "Pasted image 20201205110504.png",
+      "basename": "Pasted image 20201205110504",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201205110504.png"
+    },
+    {
+      "name": "Pasted image 20201206103401.png",
+      "basename": "Pasted image 20201206103401",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201206103401.png"
+    },
+    {
+      "name": "Pasted image 20201210082643.png",
+      "basename": "Pasted image 20201210082643",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210082643.png"
+    },
+    {
+      "name": "Pasted image 20201210154109.png",
+      "basename": "Pasted image 20201210154109",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210154109.png"
+    },
+    {
+      "name": "Pasted image 20201210204533.png",
+      "basename": "Pasted image 20201210204533",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210204533.png"
+    },
+    {
+      "name": "Pasted image 20201210204716.png",
+      "basename": "Pasted image 20201210204716",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210204716.png"
+    },
+    {
+      "name": "Pasted image 20201210205022.png",
+      "basename": "Pasted image 20201210205022",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210205022.png"
+    },
+    {
+      "name": "Pasted image 20201210205451.png",
+      "basename": "Pasted image 20201210205451",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210205451.png"
+    },
+    {
+      "name": "Pasted image 20201210210339.png",
+      "basename": "Pasted image 20201210210339",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210210339.png"
+    },
+    {
+      "name": "Pasted image 20201210211648.png",
+      "basename": "Pasted image 20201210211648",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210211648.png"
+    },
+    {
+      "name": "Pasted image 20201210211701.png",
+      "basename": "Pasted image 20201210211701",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210211701.png"
+    },
+    {
+      "name": "Pasted image 20201210211709.png",
+      "basename": "Pasted image 20201210211709",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210211709.png"
+    },
+    {
+      "name": "Pasted image 20201210212016.png",
+      "basename": "Pasted image 20201210212016",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210212016.png"
+    },
+    {
+      "name": "Pasted image 20201210213714.png",
+      "basename": "Pasted image 20201210213714",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210213714.png"
+    },
+    {
+      "name": "Pasted image 20201210213958.png",
+      "basename": "Pasted image 20201210213958",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201210213958.png"
+    },
+    {
+      "name": "Pasted image 20201211194305.png",
+      "basename": "Pasted image 20201211194305",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201211194305.png"
+    },
+    {
+      "name": "Pasted image 20201212092156.png",
+      "basename": "Pasted image 20201212092156",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212092156.png"
+    },
+    {
+      "name": "Pasted image 20201212170011.png",
+      "basename": "Pasted image 20201212170011",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212170011.png"
+    },
+    {
+      "name": "Pasted image 20201212182431.png",
+      "basename": "Pasted image 20201212182431",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212182431.png"
+    },
+    {
+      "name": "Pasted image 20201212184550.png",
+      "basename": "Pasted image 20201212184550",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212184550.png"
+    },
+    {
+      "name": "Pasted image 20201212184634.png",
+      "basename": "Pasted image 20201212184634",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212184634.png"
+    },
+    {
+      "name": "Pasted image 20201212184857.png",
+      "basename": "Pasted image 20201212184857",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212184857.png"
+    },
+    {
+      "name": "Pasted image 20201212185053.png",
+      "basename": "Pasted image 20201212185053",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212185053.png"
+    },
+    {
+      "name": "Pasted image 20201212185155.png",
+      "basename": "Pasted image 20201212185155",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212185155.png"
+    },
+    {
+      "name": "Pasted image 20201212185352.png",
+      "basename": "Pasted image 20201212185352",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212185352.png"
+    },
+    {
+      "name": "Pasted image 20201212192626.png",
+      "basename": "Pasted image 20201212192626",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212192626.png"
+    },
+    {
+      "name": "Pasted image 20201212192730.png",
+      "basename": "Pasted image 20201212192730",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212192730.png"
+    },
+    {
+      "name": "Pasted image 20201212193209.png",
+      "basename": "Pasted image 20201212193209",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212193209.png"
+    },
+    {
+      "name": "Pasted image 20201212193215.png",
+      "basename": "Pasted image 20201212193215",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212193215.png"
+    },
+    {
+      "name": "Pasted image 20201212193430.png",
+      "basename": "Pasted image 20201212193430",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212193430.png"
+    },
+    {
+      "name": "Pasted image 20201212193525.png",
+      "basename": "Pasted image 20201212193525",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212193525.png"
+    },
+    {
+      "name": "Pasted image 20201212193850.png",
+      "basename": "Pasted image 20201212193850",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212193850.png"
+    },
+    {
+      "name": "Pasted image 20201212194141.png",
+      "basename": "Pasted image 20201212194141",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212194141.png"
+    },
+    {
+      "name": "Pasted image 20201212194310.png",
+      "basename": "Pasted image 20201212194310",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212194310.png"
+    },
+    {
+      "name": "Pasted image 20201212194435.png",
+      "basename": "Pasted image 20201212194435",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212194435.png"
+    },
+    {
+      "name": "Pasted image 20201212194554.png",
+      "basename": "Pasted image 20201212194554",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212194554.png"
+    },
+    {
+      "name": "Pasted image 20201212195113.png",
+      "basename": "Pasted image 20201212195113",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212195113.png"
+    },
+    {
+      "name": "Pasted image 20201212195118.png",
+      "basename": "Pasted image 20201212195118",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212195118.png"
+    },
+    {
+      "name": "Pasted image 20201212195220.png",
+      "basename": "Pasted image 20201212195220",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212195220.png"
+    },
+    {
+      "name": "Pasted image 20201212195234.png",
+      "basename": "Pasted image 20201212195234",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201212195234.png"
+    },
+    {
+      "name": "Pasted image 20201214082315.png",
+      "basename": "Pasted image 20201214082315",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201214082315.png"
+    },
+    {
+      "name": "Pasted image 20201214082333.png",
+      "basename": "Pasted image 20201214082333",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201214082333.png"
+    },
+    {
+      "name": "Pasted image 20201214082602.png",
+      "basename": "Pasted image 20201214082602",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201214082602.png"
+    },
+    {
+      "name": "Pasted image 20201214082741.png",
+      "basename": "Pasted image 20201214082741",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201214082741.png"
+    },
+    {
+      "name": "Pasted image 20201214082803.png",
+      "basename": "Pasted image 20201214082803",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201214082803.png"
+    },
+    {
+      "name": "Pasted image 20201216110717.png",
+      "basename": "Pasted image 20201216110717",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201216110717.png"
+    },
+    {
+      "name": "Pasted image 20201214143232.png",
+      "basename": "Pasted image 20201214143232",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201214143232.png"
+    },
+    {
+      "name": "Pasted image 20201216110851.png",
+      "basename": "Pasted image 20201216110851",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201216110851.png"
+    },
+    {
+      "name": "Pasted image 20201216110949.png",
+      "basename": "Pasted image 20201216110949",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201216110949.png"
+    },
+    {
+      "name": "Pasted image 20201216111040.png",
+      "basename": "Pasted image 20201216111040",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201216111040.png"
+    },
+    {
+      "name": "Pasted image 20201220110340.png",
+      "basename": "Pasted image 20201220110340",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201220110340.png"
+    },
+    {
+      "name": "Pasted image 20201231095939.png",
+      "basename": "Pasted image 20201231095939",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20201231095939.png"
+    },
+    {
+      "name": "Pasted image 20210113193045.png",
+      "basename": "Pasted image 20210113193045",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210113193045.png"
+    },
+    {
+      "name": "Pasted image 20210127133943.png",
+      "basename": "Pasted image 20210127133943",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210127133943.png"
+    },
+    {
+      "name": "Pasted image 20210127134743.png",
+      "basename": "Pasted image 20210127134743",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210127134743.png"
+    },
+    {
+      "name": "Pasted image 20210127134804.png",
+      "basename": "Pasted image 20210127134804",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210127134804.png"
+    },
+    {
+      "name": "Pasted image 20210127135850.png",
+      "basename": "Pasted image 20210127135850",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210127135850.png"
+    },
+    {
+      "name": "Pasted image 20210128213610.png",
+      "basename": "Pasted image 20210128213610",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210128213610.png"
+    },
+    {
+      "name": "Pasted image 20210131103344.png",
+      "basename": "Pasted image 20210131103344",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210131103344.png"
+    },
+    {
+      "name": "Pasted image 20210201154852.png",
+      "basename": "Pasted image 20210201154852",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210201154852.png"
+    },
+    {
+      "name": "Pasted image 20210201202734.png",
+      "basename": "Pasted image 20210201202734",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210201202734.png"
+    },
+    {
+      "name": "Pasted image 20210202214835.png",
+      "basename": "Pasted image 20210202214835",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210202214835.png"
+    },
+    {
+      "name": "Pasted image 20210204104800.png",
+      "basename": "Pasted image 20210204104800",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210204104800.png"
+    },
+    {
+      "name": "Pasted image 20210204105047.png",
+      "basename": "Pasted image 20210204105047",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210204105047.png"
+    },
+    {
+      "name": "Pasted image 20210206162031.png",
+      "basename": "Pasted image 20210206162031",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210206162031.png"
+    },
+    {
+      "name": "Pasted image 20210211141257.png",
+      "basename": "Pasted image 20210211141257",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210211141257.png"
+    },
+    {
+      "name": "Pasted image 20210211192109.png",
+      "basename": "Pasted image 20210211192109",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210211192109.png"
+    },
+    {
+      "name": "Pasted image 20210211192819.png",
+      "basename": "Pasted image 20210211192819",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210211192819.png"
+    },
+    {
+      "name": "Pasted image 20210213135406.png",
+      "basename": "Pasted image 20210213135406",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210213135406.png"
+    },
+    {
+      "name": "Pasted image 20210214105355.png",
+      "basename": "Pasted image 20210214105355",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210214105355.png"
+    },
+    {
+      "name": "Pasted image 20210214105521.png",
+      "basename": "Pasted image 20210214105521",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210214105521.png"
+    },
+    {
+      "name": "Pasted image 20210223085711.png",
+      "basename": "Pasted image 20210223085711",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210223085711.png"
+    },
+    {
+      "name": "Pasted image 20210224184817.png",
+      "basename": "Pasted image 20210224184817",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210224184817.png"
+    },
+    {
+      "name": "Pasted image 20210223204634.png",
+      "basename": "Pasted image 20210223204634",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210223204634.png"
+    },
+    {
+      "name": "Pasted image 20210224204424.png",
+      "basename": "Pasted image 20210224204424",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210224204424.png"
+    },
+    {
+      "name": "Pasted image 20210225085053.png",
+      "basename": "Pasted image 20210225085053",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210225085053.png"
+    },
+    {
+      "name": "Pasted image 20210227160716.png",
+      "basename": "Pasted image 20210227160716",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210227160716.png"
+    },
+    {
+      "name": "Pasted image 20210302123035.png",
+      "basename": "Pasted image 20210302123035",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210302123035.png"
+    },
+    {
+      "name": "Pasted image 20210302200133.png",
+      "basename": "Pasted image 20210302200133",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210302200133.png"
+    },
+    {
+      "name": "Pasted image 20210308140524.png",
+      "basename": "Pasted image 20210308140524",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210308140524.png"
+    },
+    {
+      "name": "Pasted image 20210302200234.png",
+      "basename": "Pasted image 20210302200234",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210302200234.png"
+    },
+    {
+      "name": "Pasted image 20210308144407.png",
+      "basename": "Pasted image 20210308144407",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210308144407.png"
+    },
+    {
+      "name": "Pasted image 20210310093700.png",
+      "basename": "Pasted image 20210310093700",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310093700.png"
+    },
+    {
+      "name": "Pasted image 20210308144414.png",
+      "basename": "Pasted image 20210308144414",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210308144414.png"
+    },
+    {
+      "name": "Pasted image 20210310093734.png",
+      "basename": "Pasted image 20210310093734",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310093734.png"
+    },
+    {
+      "name": "Pasted image 20210310095655.png",
+      "basename": "Pasted image 20210310095655",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310095655.png"
+    },
+    {
+      "name": "Pasted image 20210310095748.png",
+      "basename": "Pasted image 20210310095748",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310095748.png"
+    },
+    {
+      "name": "Pasted image 20210310095835.png",
+      "basename": "Pasted image 20210310095835",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310095835.png"
+    },
+    {
+      "name": "Pasted image 20210310102215.png",
+      "basename": "Pasted image 20210310102215",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310102215.png"
+    },
+    {
+      "name": "Pasted image 20210310102939.png",
+      "basename": "Pasted image 20210310102939",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310102939.png"
+    },
+    {
+      "name": "Pasted image 20210310103228.png",
+      "basename": "Pasted image 20210310103228",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310103228.png"
+    },
+    {
+      "name": "Pasted image 20210310103024.png",
+      "basename": "Pasted image 20210310103024",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210310103024.png"
+    },
+    {
+      "name": "Pasted image 20210322171602.png",
+      "basename": "Pasted image 20210322171602",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210322171602.png"
+    },
+    {
+      "name": "Pasted image 20210322174506.png",
+      "basename": "Pasted image 20210322174506",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210322174506.png"
+    },
+    {
+      "name": "Pasted image 20210322174512.png",
+      "basename": "Pasted image 20210322174512",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210322174512.png"
+    },
+    {
+      "name": "Pasted image 20210322174524.png",
+      "basename": "Pasted image 20210322174524",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210322174524.png"
+    },
+    {
+      "name": "Pasted image 20210324143749.png",
+      "basename": "Pasted image 20210324143749",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210324143749.png"
+    },
+    {
+      "name": "Pasted image 20210325110125.png",
+      "basename": "Pasted image 20210325110125",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210325110125.png"
+    },
+    {
+      "name": "Pasted image 20210325110136.png",
+      "basename": "Pasted image 20210325110136",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210325110136.png"
+    },
+    {
+      "name": "Pasted image 20210325110144.png",
+      "basename": "Pasted image 20210325110144",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210325110144.png"
+    },
+    {
+      "name": "Pasted image 20210331152102.png",
+      "basename": "Pasted image 20210331152102",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210331152102.png"
+    },
+    {
+      "name": "Pasted image 20210407154016.png",
+      "basename": "Pasted image 20210407154016",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210407154016.png"
+    },
+    {
+      "name": "Pasted image 20210407155426.png",
+      "basename": "Pasted image 20210407155426",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210407155426.png"
+    },
+    {
+      "name": "Pasted image 20210414155345.png",
+      "basename": "Pasted image 20210414155345",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210414155345.png"
+    },
+    {
+      "name": "Pasted image 20210414155402.png",
+      "basename": "Pasted image 20210414155402",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210414155402.png"
+    },
+    {
+      "name": "Pasted image 20210414155424.png",
+      "basename": "Pasted image 20210414155424",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210414155424.png"
+    },
+    {
+      "name": "Pasted image 20210527082153.png",
+      "basename": "Pasted image 20210527082153",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20210527082153.png"
+    },
+    {
+      "name": "Pasted image 20211007224758.png",
+      "basename": "Pasted image 20211007224758",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211007224758.png"
+    },
+    {
+      "name": "Pasted image 20211009101043.png",
+      "basename": "Pasted image 20211009101043",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211009101043.png"
+    },
+    {
+      "name": "Pasted image 20211016091556.png",
+      "basename": "Pasted image 20211016091556",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211016091556.png"
+    },
+    {
+      "name": "Pasted image 20211216160952.png",
+      "basename": "Pasted image 20211216160952",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211216160952.png"
+    },
+    {
+      "name": "Pasted image 20211218115815.png",
+      "basename": "Pasted image 20211218115815",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211218115815.png"
+    },
+    {
+      "name": "Pasted image 20211222221809.png",
+      "basename": "Pasted image 20211222221809",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211222221809.png"
+    },
+    {
+      "name": "Pasted image 20211218120213.png",
+      "basename": "Pasted image 20211218120213",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211218120213.png"
+    },
+    {
+      "name": "Pasted image 20211222222246.png",
+      "basename": "Pasted image 20211222222246",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211222222246.png"
+    },
+    {
+      "name": "Pasted image 20211223084724.png",
+      "basename": "Pasted image 20211223084724",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211223084724.png"
+    },
+    {
+      "name": "Pasted image 20211224102606.png",
+      "basename": "Pasted image 20211224102606",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211224102606.png"
+    },
+    {
+      "name": "Pasted image 20211224104536.png",
+      "basename": "Pasted image 20211224104536",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20211224104536.png"
+    },
+    {
+      "name": "Pasted image 20220104105502.png",
+      "basename": "Pasted image 20220104105502",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220104105502.png"
+    },
+    {
+      "name": "Pasted image 20220118104159.png",
+      "basename": "Pasted image 20220118104159",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220118104159.png"
+    },
+    {
+      "name": "Pasted image 20220130125502.png",
+      "basename": "Pasted image 20220130125502",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220130125502.png"
+    },
+    {
+      "name": "Pasted image 20220130214416.png",
+      "basename": "Pasted image 20220130214416",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220130214416.png"
+    },
+    {
+      "name": "Pasted image 20220220214540.png",
+      "basename": "Pasted image 20220220214540",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220220214540.png"
+    },
+    {
+      "name": "Pasted image 20220220214622.png",
+      "basename": "Pasted image 20220220214622",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220220214622.png"
+    },
+    {
+      "name": "Pasted image 20220222072649.png",
+      "basename": "Pasted image 20220222072649",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220222072649.png"
+    },
+    {
+      "name": "Pasted image 20220430091200.png",
+      "basename": "Pasted image 20220430091200",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220430091200.png"
+    },
+    {
+      "name": "Pasted image 20220519132803.png",
+      "basename": "Pasted image 20220519132803",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220519132803.png"
+    },
+    {
+      "name": "Pasted image 20220626090848.png",
+      "basename": "Pasted image 20220626090848",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220626090848.png"
+    },
+    {
+      "name": "Pasted image 3.png",
+      "basename": "Pasted image 3",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 3.png"
+    },
+    {
+      "name": "Screen Shot 2021-10-02 at 10.16.14 AM.png",
+      "basename": "Screen Shot 2021-10-02 at 10.16.14 AM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2021-10-02 at 10.16.14 AM.png"
+    },
+    {
+      "name": "Screen Shot 2021-10-02 at 10.19.33 AM.png",
+      "basename": "Screen Shot 2021-10-02 at 10.19.33 AM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2021-10-02 at 10.19.33 AM.png"
+    },
+    {
+      "name": "Screen Shot 2021-10-02 at 10.26.59 AM.png",
+      "basename": "Screen Shot 2021-10-02 at 10.26.59 AM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2021-10-02 at 10.26.59 AM.png"
+    },
+    {
+      "name": "Screen Shot 2021-10-10 at 6.19.48 PM.png",
+      "basename": "Screen Shot 2021-10-10 at 6.19.48 PM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2021-10-10 at 6.19.48 PM.png"
+    },
+    {
+      "name": "Screen Shot 2021-10-10 at 6.20.04 PM.png",
+      "basename": "Screen Shot 2021-10-10 at 6.20.04 PM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2021-10-10 at 6.20.04 PM.png"
+    },
+    {
+      "name": "Screen Shot 2021-10-19 at 7.15.10 PM.png",
+      "basename": "Screen Shot 2021-10-19 at 7.15.10 PM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2021-10-19 at 7.15.10 PM.png"
+    },
+    {
+      "name": "Screen Shot 2022-05-19 at 1.26.37 PM.png",
+      "basename": "Screen Shot 2022-05-19 at 1.26.37 PM",
+      "relativePath": "5 Miscellaneous/Media/Screen Shot 2022-05-19 at 1.26.37 PM.png"
+    },
+    {
+      "name": "ice.gif",
+      "basename": "ice",
+      "relativePath": "5 Miscellaneous/Media/ice.gif"
+    },
+    {
+      "name": "load_concepts.py",
+      "basename": "load_concepts",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts/load_concepts.py"
+    },
+    {
+      "name": "md.py",
+      "basename": "md",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts/md.py"
+    },
+    {
+      "name": "fix_links.py",
+      "basename": "fix_links",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts/fix_links.py"
+    },
+    {
+      "name": "removePermanentNotes.sh",
+      "basename": "removePermanentNotes",
+      "relativePath": "3 Resources/3 Sciences/9 Psychology & Psychiatry/Thinking/removePermanentNotes.sh"
+    },
+    {
+      "name": "cover-network-4.png",
+      "basename": "cover-network-4",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/cover-network-4.png"
+    },
+    {
+      "name": "dl-inhibitory-phase-diagram.png",
+      "basename": "dl-inhibitory-phase-diagram",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/dl-inhibitory-phase-diagram.png"
+    },
+    {
+      "name": "dl-model-overview.png",
+      "basename": "dl-model-overview",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/dl-model-overview.png"
+    },
+    {
+      "name": "dl-phase-diagram.png",
+      "basename": "dl-phase-diagram",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/dl-phase-diagram.png"
+    },
+    {
+      "name": "extensions-with-phases-clear.png",
+      "basename": "extensions-with-phases-clear",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/extensions-with-phases-clear.png"
+    },
+    {
+      "name": "extensions-with-phases.png",
+      "basename": "extensions-with-phases",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/extensions-with-phases.png"
+    },
+    {
+      "name": "extensions.png",
+      "basename": "extensions",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/extensions.png"
+    },
+    {
+      "name": "fse.png",
+      "basename": "fse",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/fse.png"
+    },
+    {
+      "name": "g=09.png",
+      "basename": "g=09",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/g=09.png"
+    },
+    {
+      "name": "g=25.png",
+      "basename": "g=25",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/g=25.png"
+    },
+    {
+      "name": "gating-chaos.png",
+      "basename": "gating-chaos",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/gating-chaos.png"
+    },
+    {
+      "name": "gating-phase-diagram.png",
+      "basename": "gating-phase-diagram",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/gating-phase-diagram.png"
+    },
+    {
+      "name": "gating-spectra.png",
+      "basename": "gating-spectra",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/gating-spectra.png"
+    },
+    {
+      "name": "model-overview.png",
+      "basename": "model-overview",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/model-overview.png"
+    },
+    {
+      "name": "potentials.png",
+      "basename": "potentials",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/potentials.png"
+    },
+    {
+      "name": "presentation-cover.png",
+      "basename": "presentation-cover",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/presentation-cover.png"
+    },
+    {
+      "name": "scaling-of-the-brain.png",
+      "basename": "scaling-of-the-brain",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/scaling-of-the-brain.png"
+    },
+    {
+      "name": "sompolinsky1988.png",
+      "basename": "sompolinsky1988",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/sompolinsky1988.png"
+    },
+    {
+      "name": "sparse-models-overview.png",
+      "basename": "sparse-models-overview",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/sparse-models-overview.png"
+    },
+    {
+      "name": "sparsities.png",
+      "basename": "sparsities",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/sparsities.png"
+    },
+    {
+      "name": "spiking-vs-rate-based.png",
+      "basename": "spiking-vs-rate-based",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/spiking-vs-rate-based.png"
+    },
+    {
+      "name": "toroidal.png",
+      "basename": "toroidal",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/toroidal.png"
+    },
+    {
+      "name": "vanilla-phase-diagram-chaos.png",
+      "basename": "vanilla-phase-diagram-chaos",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/vanilla-phase-diagram-chaos.png"
+    },
+    {
+      "name": "vanilla-phase-diagram-dmft.png",
+      "basename": "vanilla-phase-diagram-dmft",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/vanilla-phase-diagram-dmft.png"
+    },
+    {
+      "name": "vanilla-phase-diagram-fp.png",
+      "basename": "vanilla-phase-diagram-fp",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/vanilla-phase-diagram-fp.png"
+    },
+    {
+      "name": "vanilla-phase-diagram-origin.png",
+      "basename": "vanilla-phase-diagram-origin",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/vanilla-phase-diagram-origin.png"
+    },
+    {
+      "name": "vanilla-phase-diagram.png",
+      "basename": "vanilla-phase-diagram",
+      "relativePath": "4 Archives/MSc/Msc Thesis/Presentation/vanilla-phase-diagram.png"
+    },
+    {
+      "name": "md.cpython-39.pyc",
+      "basename": "md.cpython-39",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts/__pycache__/md.cpython-39.pyc"
+    },
+    {
+      "name": "load_concepts.cpython-39.pyc",
+      "basename": "load_concepts.cpython-39",
+      "relativePath": "1 Projects/Learning/Less Wrong/scripts/__pycache__/load_concepts.cpython-39.pyc"
+    },
+    {
+      "name": "Pasted image 20220822111335.png",
+      "basename": "Pasted image 20220822111335",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220822111335.png"
+    },
+    {
+      "name": "Pasted image 20220822113839.png",
+      "basename": "Pasted image 20220822113839",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220822113839.png"
+    },
+    {
+      "name": "Pasted image 20220822165939.png",
+      "basename": "Pasted image 20220822165939",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220822165939.png"
+    },
+    {
+      "name": "Pasted image 20220822210203.png",
+      "basename": "Pasted image 20220822210203",
+      "relativePath": "5 Miscellaneous/Media/Pasted image 20220822210203.png"
+    }
+  ]
+}

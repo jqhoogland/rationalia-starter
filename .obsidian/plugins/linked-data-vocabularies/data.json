@@ -1,0 +1,16 @@
+{
+  "inputFolder": "5 Miscellaneous/Media/linked-data-vocabularies",
+  "elementLimit": "100",
+  "broaderKey": "broader",
+  "narrowerKey": "narrower",
+  "relatedKey": "related",
+  "headingKey": "heading",
+  "uriKey": "uri",
+  "lccKey": "lcc",
+  "broaderMax": "100",
+  "narrowerMax": "100",
+  "relatedMax": "100",
+  "lcSensitivity": "-10000",
+  "loadLcsh": false,
+  "addLCSH": true
+}

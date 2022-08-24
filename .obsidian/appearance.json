@@ -1,3 +1,12 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "links",
+    "buttons",
+    "flip-card",
+    "supercharged-links-gen"
+  ],
+  "translucency": false
 }

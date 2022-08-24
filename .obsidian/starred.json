@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "About",
+      "path": "0 Indices/0 About.md"
+    },
+    {
+      "type": "file",
+      "title": "BC2 Index",
+      "path": "3 Resources/1 Introduction and auxiliary schedules/BC2 Index.md"
+    },
+    {
+      "type": "file",
+      "title": "1 Introduction and auxiliary schedules",
+      "path": "4 Archives/1 Introduction and auxiliary schedules.md"
+    },
+    {
+      "type": "file",
+      "title": "2,9 Generalia, phenomena, knowledge, information science, & technology",
+      "path": "4 Archives/2,9 Generalia, phenomena, knowledge, information science & technology.md"
+    },
+    {
+      "type": "file",
+      "title": "A,AL Philosophy & logic",
+      "path": "3 Resources/2 Philosophy/A-AL Philosophy & logic.md"
+    },
+    {
+      "type": "file",
+      "title": "AM,AX Mathematics, probability, statistics",
+      "path": "3 Resources/3 Formal Sciences/3 Mathematics/AM,AX Mathematics, probability, statistics..md"
+    },
+    {
+      "type": "file",
+      "title": "AY General science",
+      "path": "3 Resources/3 Formal Sciences/4 Science/AY General science..md"
+    },
+    {
+      "type": "file",
+      "title": "B Physics",
+      "path": "3 Resources/3 Formal Sciences/5 Physics/B Physics..md"
+    },
+    {
+      "type": "file",
+      "title": "C Chemistry",
+      "path": "3 Resources/3 Formal Sciences/6 Chemistry/C Chemistry..md"
+    },
+    {
+      "type": "file",
+      "title": "E,GQ Biological sciences",
+      "path": "3 Resources/3 Formal Sciences/9 Biological Sciences/E,GQ Biological sciences..md"
+    },
+    {
+      "type": "file",
+      "title": "I Psychology & psychiatry",
+      "path": "3 Resources/12 Psychology & Psychiatry/I Psychology & psychiatry..md"
+    },
+    {
+      "type": "file",
+      "title": "Q Social welfare & criminology",
+      "path": "3 Resources/Q Social welfare and criminology/Q Social welfare & criminology..md"
+    },
+    {
+      "type": "file",
+      "title": "S Law",
+      "path": "3 Resources/S Law/S Law,.md"
+    },
+    {
+      "type": "file",
+      "title": "DG,DY Earth sciences",
+      "path": "4 Archives/BC Reference/DG,DY Earth sciences.pdf"
+    },
+    {
+      "type": "file",
+      "title": "G,GY Zoology",
+      "path": "0 Indices/Notes/BC2/Schedules/pdfs/G,GY Zoology.pdf"
+    },
+    {
+      "type": "file",
+      "title": "GRX,GXJ Applied Biology",
+      "path": "4 Archives/BC Reference/GRX,GXJ Applied Biology.pdf"
+    },
+    {
+      "type": "file",
+      "title": "H Physical anthropology",
+      "path": "4 Archives/BC Reference/H Physical anthropology.pdf"
+    },
+    {
+      "type": "file",
+      "title": "L,O History",
+      "path": "4 Archives/BC Reference/L,O History.pdf"
+    },
+    {
+      "type": "file",
+      "title": "LA Archaeology",
+      "path": "4 Archives/BC Reference/LA Archaeology.pdf"
+    },
+    {
+      "type": "file",
+      "title": "P Religion",
+      "path": "4 Archives/BC Reference/P Religion.pdf"
+    },
+    {
+      "type": "file",
+      "title": "J Education",
+      "path": "3 Resources/13 Education/J Education..md"
+    }
+  ]
+}

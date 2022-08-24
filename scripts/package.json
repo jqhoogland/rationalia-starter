@@ -1,0 +1,12 @@
+{
+  "name": "rationalia-scripts",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  },
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-request": "^4.3.0"
+  }
+}
