@@ -2,8 +2,8 @@
  * Compiled from the [CFAR Jargon Appendix](https://www.lesswrong.com/posts/fbv9FWss6ScDMJiAx/appendix-jargon-dictionary).
  */
 
+import fs from "fs";
 import request, { gql } from "graphql-request";
-import { splitSections } from "../utils/md";
 import type { TableOfContents, TagPreview } from "./types";
 
 interface Post {
@@ -45,8 +45,20 @@ export const loadJargon = async () => {
 
     return request('https://www.lesswrong.com/graphql', query)
         .then(({ post }: { post: { result: Post } }) => {
-        return splitSections(post.result.contents.markdown);
-    })
+            return splitSections(post.result.contents.markdown);
+        }).then(sections => {
+            fs.writeFileSync('./data/jargon.json', JSON.stringify(sections, null, 2))
+            return sections;
+        })
+}
+
+export const splitSections = async (markdown: string) => {
+    // Unfortunately, some posts use `\n\n**Section Heading**\n\n` to mark headings (instead of `#`s)
+    return ("\n\n" + markdown).split("\n\n**")
+        .map(section => section.split("**\n\n"))
+        .filter((items) => items.length === 2 && items[0])
+        .map(([title, body]) => ({ title, body }))    
+
 }
 
 (await loadJargon().then(jargon => console.log(JSON.stringify(jargon, null, 2))))
