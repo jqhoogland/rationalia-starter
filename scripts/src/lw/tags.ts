@@ -1,10 +1,7 @@
 import fs from 'fs';
 import { gql, request } from 'graphql-request';
-import { TableOfContents, TagPreview } from './types';
+import { Response, TableOfContents, TagPreview } from './types';
 
-type Response<T> = {
-    results: T[]
-}
 
 interface Tag {
     _id: string,

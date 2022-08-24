@@ -61,4 +61,4 @@ export const splitSections = async (markdown: string) => {
 
 }
 
-(await loadJargon().then(jargon => console.log(JSON.stringify(jargon, null, 2))))
+// (await loadJargon().then(jargon => console.log(JSON.stringify(jargon, null, 2))))
