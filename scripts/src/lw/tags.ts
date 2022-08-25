@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { gql, request } from 'graphql-request';
-import { Response, TableOfContents, TagPreview } from './types';
+import { Response, TagPreview } from './types';
 
 
 interface Tag {
@@ -8,7 +8,6 @@ interface Tag {
     name: string,
     core: boolean,
     slug: string,
-    tableOfContents: TableOfContents;
     postCount: number,
     parentTag?: null | {
         name: string
@@ -32,7 +31,6 @@ export const loadTags = async (limit?: number) => {
             name
             core
             slug
-            tableOfContents
             postCount
             description {
                 markdown

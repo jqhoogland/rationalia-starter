@@ -1,0 +1,256 @@
+[
+    {
+        "title": "Basic Concepts",
+        "description": "What we mean by stuff",
+        "children": [
+            {
+                "name": "Map and territory",
+                "slug": "map-and-territory",
+                "type": "tag"
+            },
+            {
+                "name": "Rationality",
+                "slug": "rationality",
+                "type": "tag"
+            },
+            {
+                "name": "Truth, Semantics, & Meaning",
+                "slug": "truth-semantics-and-meaning",
+                "type": "tag"
+            },
+            {
+                "name": "Improper belief",
+                "slug": "improper-belief",
+                "type": "tag"
+            },
+            {
+                "name": "Evidence",
+                "slug": "evidence",
+                "type": "tag"
+            },
+            {
+                "name": "Bayes' theorem",
+                "slug": "bayes-theorem",
+                "type": "tag"
+            },
+            {
+                "name": "Priors",
+                "slug": "priors",
+                "type": "tag"
+            },
+            {
+                "name": "Belief in belief",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Table of contents of [[How to Actually Change Your Mind]]",
+        "description": "A preview of how ideas actually get applied",
+        "children": []
+    },
+    {
+        "title": "Selected posts from [[Map and Territory (sequence)]]",
+        "description": "",
+        "children": [
+            {
+                "name": "What do we mean by rationality?",
+                "type": "post"
+            },
+            {
+                "name": "Bayes' rule: Guide",
+                "type": "post",
+                "comment": "The original post is deprecated in favor of this explanation.",
+                "href": "https://arbital.com/p/bayes_rule/?l=1zq"
+            },
+            {
+                "name": "What is evidence?",
+                "type": "post"
+            },
+            {
+                "name": "How to convince me that 2+2=3",
+                "type": "post"
+            },
+            {
+                "name": "Occam's Razor",
+                "type": "post"
+            },
+            {
+                "name": "The lens that sees its flaws",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Selected posts from [[Mysterious Answers to Mysterious Questions]]",
+        "description": "",
+        "children": [
+            {
+                "name": "Making Beliefs Pay Rent (in Anticipated Experiences)",
+                "type": "post"
+            },
+            {
+                "name": "The Virtue of Narrowness",
+                "type": "post"
+            },
+            {
+                "name": "Hindsight Bias",
+                "type": "post"
+            },
+            {
+                "name": "Fake Explanations",
+                "type": "post"
+            },
+            {
+                "name": "Guessing the Teacher's Password",
+                "type": "post"
+            },
+            {
+                "name": "Fake Causality",
+                "type": "post"
+            },
+            {
+                "name": "Mysterious Answers to Mysterious Questions",
+                "type": "post"
+            },
+            {
+                "name": "The Futility of Emergence",
+                "type": "post"
+            },
+            {
+                "name": "Explain, Worship, Ignore",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Selected posts from [[A Human's Guide to Words]]",
+        "description": "\"[Academian] strongly recommend[s] looking at the whole sequence\"",
+        "children": [
+            {
+                "name": "How an Algorithm Feels from Inside",
+                "type": "post"
+            },
+            {
+                "name": "Feel the Meaning",
+                "type": "post"
+            },
+            {
+                "name": "Replace the Symbol with the Substance",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Selected readings from [[Reductionism (Sequence)]] (first half)",
+        "description": "",
+        "children": [
+            {
+                "name": "Dissolving the Question",
+                "type": "post"
+            },
+            {
+                "name": "Wrong Questions",
+                "type": "post"
+            },
+            {
+                "name": "Righting a Wrong Question",
+                "type": "post"
+            },
+            {
+                "name": "Probability is in the Mind",
+                "type": "post"
+            },
+            {
+                "name": "Reductionism",
+                "type": "post"
+            },
+            {
+                "name": "Explaining vs. Explaining Away",
+                "type": "post"
+            },
+            {
+                "name": "Fake Reductionism",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Selected posts from [[Joy in the Merely Real]]",
+        "description": "",
+        "children": [
+            {
+                "name": "Joy in the Merely Real",
+                "type": "post"
+            },
+            {
+                "name": "Bind Yourself to Reality",
+                "type": "post"
+            },
+            {
+                "name": "If You Demand Magic, Magic Won't Help",
+                "type": "post"
+            },
+            {
+                "name": "Mundane Magic",
+                "type": "post"
+            },
+            {
+                "name": "The Beauty of Settled Science",
+                "type": "post"
+            },
+            {
+                "name": "To Spread Science, Keep It Secret",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Selected posts from [[Reductionism (Sequence]] (second half)",
+        "description": "",
+        "children": [
+            {
+                "name": "Angry Atoms",
+                "type": "post"
+            },
+            {
+                "name": "Heat vs. Motion",
+                "type": "post"
+            },
+            {
+                "name": "Brain Breakthrough",
+                "type": "post"
+            },
+            {
+                "name": "Reductive Reference",
+                "type": "post"
+            }
+        ]
+    },
+    {
+        "title": "Selected posts from [[Zombies]] & [[Supernaturality]]",
+        "description": "",
+        "children": [
+            {
+                "name": "Zombies! Zombies?",
+                "type": "post"
+            },
+            {
+                "name": "GAZP vs. Giant Look-UP Tables",
+                "type": "post"
+            },
+            {
+                "name": "Belief in the Implied Invisible",
+                "type": "post"
+            },
+            {
+                "name": "Zombies— The Movie",
+                "type": "post"
+            },
+            {
+                "name": "Excluding the Supernatural",
+                "type": "post"
+            }
+        ]
+    }
+]

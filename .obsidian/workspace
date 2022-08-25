@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts (LW).md",
+            "file": "LW/Reading Orders/Academian's Order.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts (LW).md"
+                "file": "LW/Reading Orders/Academian's Order.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts (LW).md",
+                "file": "LW/Reading Orders/Academian's Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +145,17 @@
     "width": 277.1875305175781,
     "collapsed": true
   },
-  "active": "bf7fbb1a1a9a902b",
+  "active": "58aaac02c70808db",
   "lastOpenFiles": [
-    "LW/LessWrong.md",
+    "Zombies— The Movie.md",
+    "LW/Reading Orders/Academian's Order.md",
+    "Zombies! Zombies?.md",
     "LW/Concepts (LW).md",
+    "LW/LessWrong.md",
     "LW/Library (LW).md",
     "LW/How to use.md",
     "LW/Reading Orders/The Sequences.md",
     "README.md",
-    "LW/Reading Orders/Recommended Order.md",
-    "EA/Library (EA).md",
-    "AIAF/The AI Alignment Forum.md",
-    "LW/Concepts/Effective Altruism.md"
+    "LW/Reading Orders/Recommended Order.md"
   ]
 }
