@@ -18,7 +18,7 @@ export interface Sequence {
             markdown: string
         }
         posts: { _id: string, title: string, tags: TagPreview[] }[]
-    }
+    }[]
 }
 
 export const loadSequences = async (limit?: number) => {
