@@ -1,8 +1,8 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import type { Response, TagPreview } from "./types";
+import type { Response, TagPreview } from "./shared";
 
-interface Sequence {
+export interface Sequence {
     _id: string;
     title: string;
     curatedOrder: number;
@@ -10,13 +10,14 @@ interface Sequence {
         markdown: string
     }
     chapters: {
+        _id: string;
         title: string;
         subtitle: string;
         number: number;
         contents: {
             markdown: string
         }
-        posts: { title: string, tags: TagPreview[] }[]
+        posts: { _id: string, title: string, tags: TagPreview[] }[]
     }
 }
 
@@ -36,6 +37,7 @@ export const loadSequences = async (limit?: number) => {
                     markdown
                 }
                 chapters{
+                    _id
                     title 
                     subtitle
                     number
@@ -43,6 +45,7 @@ export const loadSequences = async (limit?: number) => {
                         markdown
                     }
                     posts {
+                        _id
                         title
                         tags {
                             name

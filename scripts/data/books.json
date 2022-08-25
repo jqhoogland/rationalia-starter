@@ -9,12 +9,15 @@
     },
     "sequences": [
       {
+        "_id": "5g5TkQTe9rmPS5vvM",
         "title": "Predictably Wrong"
       },
       {
+        "_id": "pFatcKW3JJhTSxqAF",
         "title": "Replacing Guilt"
       },
       {
+        "_id": "KAv8z6oJCTxjR8vdR",
         "title": "CFAR Handbook"
       }
     ]
@@ -29,21 +32,27 @@
     },
     "sequences": [
       {
+        "_id": "NBDFAKt3GbFwnwzQF",
         "title": "Thinking Better on Purpose"
       },
       {
+        "_id": "gFvira6tHpLXnqCLH",
         "title": "Pitfalls of Human Cognition"
       },
       {
+        "_id": "6xgy8XYEisLk3tCjH",
         "title": "The Laws Governing Belief"
       },
       {
+        "_id": "pwK9RsvCdpPgKmrf6",
         "title": "Science Isn't Enough"
       },
       {
+        "_id": "paoDwasxFpSpzwA2f",
         "title": "Connecting Words to Reality"
       },
       {
+        "_id": "aaTrp2g86Qo3hinXQ",
         "title": "Why We Fight"
       }
     ]
@@ -58,15 +67,19 @@
     },
     "sequences": [
       {
+        "_id": "g72vrjJSJSZnqBrKx",
         "title": "Trust"
       },
       {
+        "_id": "SgomvxZ3cJWy2SBCu",
         "title": "Modularity"
       },
       {
+        "_id": "FoaLfnrZGGGMdcAoF",
         "title": "Incentives"
       },
       {
+        "_id": "dxCZoP3TDaB8Acwjo",
         "title": "Failure"
       }
     ]
@@ -81,18 +94,23 @@
     },
     "sequences": [
       {
+        "_id": "Pavm47mqgjDAF7XYT",
         "title": "Epistemology"
       },
       {
+        "_id": "bjewXnagXTjeGPtHx",
         "title": "Agency"
       },
       {
+        "_id": "JdAfXBx4gS3DjN5s6",
         "title": "Coordination"
       },
       {
+        "_id": "skRvz2mmvhLwhHbaN",
         "title": "Curiosity"
       },
       {
+        "_id": "QyQcBpSur9SFyRuvB",
         "title": "Alignment"
       }
     ]
@@ -105,6 +123,7 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "WnTvZdXz2q9ySfr4o",
         "title": "Parables and Prayers"
       }
     ]
@@ -117,15 +136,19 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "rNuPrZvabXe2MaZv8",
         "title": "Politics and Pragmatics"
       },
       {
+        "_id": "zfXAcwLnGocsCsriG",
         "title": "Economics and Efficiency"
       },
       {
+        "_id": "TKDT2Mt6dDMH8AsZW",
         "title": "Futurism and Forecasting"
       },
       {
+        "_id": "xmDeR64CivZiTAcLx",
         "title": "Community and Cooperation"
       }
     ]
@@ -138,12 +161,15 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "BQBqPowfxjvoee8jw",
         "title": "Studies and Statistics"
       },
       {
+        "_id": "B384FrQNrxSq4hZoS",
         "title": "Research and Reviews"
       },
       {
+        "_id": "k5MPpr72eiGknaS7F",
         "title": "Hypotheses and Hunches"
       }
     ]
@@ -156,12 +182,15 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "XsMTxdQ6fprAQMoKi",
         "title": "Argument and Analysis"
       },
       {
+        "_id": "NHXY86jBahi968uW4",
         "title": "Categorisation and Concepts"
       },
       {
+        "_id": "TQW9brvXJ5Fajorr4",
         "title": "Probability and Predictions"
       }
     ]
@@ -182,21 +211,27 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "PtgH6ALi5CoJnPmGS",
         "title": "The Methods of Rationality"
       },
       {
+        "_id": "EBuZhwCrYuJGp7ax4",
         "title": "2: HJPEV and the Professor's Games"
       },
       {
+        "_id": "fhRcCn2AcDCYW8PHB",
         "title": "3: HJPEV and the Shadows of Death"
       },
       {
+        "_id": "SyvHDEqbCmB3va7HJ",
         "title": "4: HJG and the Phoenix's Call"
       },
       {
+        "_id": "2jyo5h7xkyPiMD3AA",
         "title": "5: HJPEV and the Last Enemy"
       },
       {
+        "_id": "u7ciTcKteyx2hqdBh",
         "title": "6: HJPEV and the Philosopher's Stone"
       }
     ]
@@ -211,15 +246,19 @@
     },
     "sequences": [
       {
+        "_id": "zfXAcwLnGocsCsriG",
         "title": "Economics and Efficiency"
       },
       {
+        "_id": "xmDeR64CivZiTAcLx",
         "title": "Community and Cooperation"
       },
       {
+        "_id": "TKDT2Mt6dDMH8AsZW",
         "title": "Futurism and Forecasting"
       },
       {
+        "_id": "WnTvZdXz2q9ySfr4o",
         "title": "Parables and Prayers"
       }
     ]
@@ -234,9 +273,11 @@
     },
     "sequences": [
       {
+        "_id": "BQBqPowfxjvoee8jw",
         "title": "Studies and Statistics"
       },
       {
+        "_id": "B384FrQNrxSq4hZoS",
         "title": "Research and Reviews"
       }
     ]
@@ -251,9 +292,11 @@
     },
     "sequences": [
       {
+        "_id": "XsMTxdQ6fprAQMoKi",
         "title": "Argument and Analysis"
       },
       {
+        "_id": "NHXY86jBahi968uW4",
         "title": "Categorisation and Concepts"
       }
     ]
@@ -268,12 +311,15 @@
     },
     "sequences": [
       {
+        "_id": "SXurf2mWFw8LX2mkG",
         "title": "Yudkowsky's Coming of Age"
       },
       {
+        "_id": "3szfzHZr7EYGSWt92",
         "title": "Challenging the Difficult"
       },
       {
+        "_id": "pvim9PZJ6qHRTMqD3",
         "title": "The Craft and the Community"
       }
     ]
@@ -288,12 +334,15 @@
     },
     "sequences": [
       {
+        "_id": "fqh9TLuoquxpducDb",
         "title": "Fake Preferences"
       },
       {
+        "_id": "9bvAELWc8y2gYjRav",
         "title": "Value Theory"
       },
       {
+        "_id": "waF2Pomid7YHjfEDt",
         "title": "Quantified Humanism"
       }
     ]
@@ -308,21 +357,27 @@
     },
     "sequences": [
       {
+        "_id": "oFePMp9rKftEeZDDr",
         "title": "Lawful Truth"
       },
       {
+        "_id": "p3TndjYbdYaiWwm9x",
         "title": "Reductionism 101"
       },
       {
+        "_id": "6BFkmEgre7uwhDxDR",
         "title": "Joy in the Merely Real"
       },
       {
+        "_id": "FqgKAHZAiZn9JAjDo",
         "title": "Physicalism 201"
       },
       {
+        "_id": "Kqs6GR7F5xziuSyGZ",
         "title": "Quantum Physics and Many Worlds"
       },
       {
+        "_id": "fxynfGCSHpY4FmBZy",
         "title": "Science and Rationality"
       }
     ]
@@ -337,12 +392,15 @@
     },
     "sequences": [
       {
+        "_id": "MH2b8NfWv22dBtrs8",
         "title": "The Simple Math of Evolution"
       },
       {
+        "_id": "3HyeNiEpvbQQaqeoH",
         "title": "Fragile Purposes"
       },
       {
+        "_id": "SGB7Y5WERh4skwtnb",
         "title": "A Human's Guide to Words"
       }
     ]
@@ -357,24 +415,31 @@
     },
     "sequences": [
       {
+        "_id": "FrqfoG3LJeCZs96Ym",
         "title": "Overly Convenient Excuses"
       },
       {
+        "_id": "3ELrPerFTSo75WnrH",
         "title": "Politics and Rationality"
       },
       {
+        "_id": "GSqFqc646rsRd2oyz",
         "title": "Against Rationalization"
       },
       {
+        "_id": "qqFS6Kw5fmPyzkLby",
         "title": "Against Doublethink"
       },
       {
+        "_id": "pmHZDpak4NeRLLLCw",
         "title": "Seeing with Fresh Eyes"
       },
       {
+        "_id": "M3TJ2fTCzoQq66NBJ",
         "title": "Death Spirals"
       },
       {
+        "_id": "5bZZZJ5psXrrD5BGb",
         "title": "Letting Go"
       }
     ]
@@ -389,15 +454,19 @@
     },
     "sequences": [
       {
+        "_id": "5g5TkQTe9rmPS5vvM",
         "title": "Predictably Wrong"
       },
       {
+        "_id": "7gRSERQZbqTuLX5re",
         "title": "Fake Beliefs"
       },
       {
+        "_id": "zpCiuR4T343j9WkcK",
         "title": "Noticing Confusion"
       },
       {
+        "_id": "5uZQHpecjn7955faL",
         "title": "Mysterious Answers"
       }
     ]
@@ -434,6 +503,7 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "rNuPrZvabXe2MaZv8",
         "title": "Politics and Pragmatics"
       }
     ]
@@ -446,6 +516,7 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "rNuPrZvabXe2MaZv8",
         "title": "Politics and Pragmatics"
       }
     ]
@@ -458,6 +529,7 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "rNuPrZvabXe2MaZv8",
         "title": "Politics and Pragmatics"
       }
     ]
@@ -638,15 +710,19 @@
     "contents": null,
     "sequences": [
       {
+        "_id": "hFom77cBBnnbNLzzm",
         "title": "Reality & Reason"
       },
       {
+        "_id": "cv2aZaRR22MPC5QwE",
         "title": "Coordination & Constraint"
       },
       {
+        "_id": "EcKbpm4f7fBwhxRZs",
         "title": "Takeoff & Takeover"
       },
       {
+        "_id": "PKKsrXtuptWzaKCjr",
         "title": "Alignment & Agency"
       }
     ]

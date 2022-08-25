@@ -1,431 +1,629 @@
 {
-    "author": "jimrandomh",
-    "chapters": [
+  "author": "jimrandomh",
+  "chapters": [
+    {
+      "title": "Top-5",
+      "description": "A good pace is one or two posts per day, so that you have time to digest and internalize them. If you enjoyed the top five, take a moment to bookmark this page before continuing to the rest of the top 25. If you have questions or thoughts on a post, leave a comment; readers who follow the [recent comments](https://www.lesswrong.com/comments) page will see it and may reply.",
+      "children": [
         {
-            "title": "Top-5",
-            "description": "A good pace is one or two posts per day, so that you have time to digest and internalize them. If you enjoyed the top five, take a moment to bookmark this page before continuing to the rest of the top 25. If you have questions or thoughts on a post, leave a comment; readers who follow the [recent comments](https://www.lesswrong.com/comments) page will see it and may reply.",
-            "children": [
-                {
-                    "name": "What Do We Mean By \"Rationality\"",
-                    "type": "post"
-                },
-                {
-                    "name": "Scientific Self-Help: The State of Our Knowledge",
-                    "type": "post"
-                },
-                {
-                    "name": "Cached Selves",
-                    "type": "post"
-                },
-                {
-                    "name": "Efficient Charity: Do Unto Others...",
-                    "type": "post"
-                },
-                {
-                    "name": "Making Beliefs Pay Rent (in Anticipated Experiences)",
-                    "type": "post"
-                }
-            ]
+          "name": "What Do We Mean By \"Rationality\"",
+          "type": "post",
+          "slug": "what-do-we-mean-by-rationality-1",
+          "_id": "RcZCwxFiZzE6X7nsv"
         },
         {
-            "title": "Top-25",
-            "children": [
-                {
-                    "name": "About Less Wrong",
-                    "type": "post"
-                },
-                {
-                    "name": "Hindsight Devalues Science",
-                    "type": "post"
-                },
-                {
-                    "name": "Tsuyoku Naritai! (I Want To Become Stronger)",
-                    "type": "post"
-                },
-                {
-                    "name": "Mysterious Answers to Mysterious Questions",
-                    "type": "post"
-                },
-                {
-                    "name": "Twelve Virtues of Rationality",
-                    "type": "post"
-                },
-                {
-                    "name": "An Intuitive Explanation of Bayes's Theorem",
-                    "type": "post"
-                },
-                {
-                    "name": "Diseased thinking: dissolving questions about disease",
-                    "type": "post"
-                },
-                {
-                    "name": "Humans are not automatically strategic",
-                    "type": "post"
-                },
-                {
-                    "name": "Ugh Fields",
-                    "type": "post"
-                },
-                {
-                    "name": "Probability is in the Mind",
-                    "type": "post"
-                },
-                {
-                    "name": "How An Algorithm Feels From Inside",
-                    "type": "post"
-                },
-                {
-                    "name": "Knowing About Biases Can Hurt People",
-                    "type": "post"
-                },
-                {
-                    "name": "A Fable of Science and Politics",
-                    "type": "post"
-                },
-                {
-                    "name": "Taboo Your Words",
-                    "type": "post"
-                },
-                {
-                    "name": "The Fallacy of Gray",
-                    "type": "post"
-                },
-                {
-                    "name": "Mind Projection Fallacy",
-                    "type": "post"
-                },
-                {
-                    "name": "Reductionism",
-                    "type": "post"
-                },
-                {
-                    "name": "Privileging the Hypothesis",
-                    "type": "post"
-                },
-                {
-                    "name": "Conservation of Expected Evidence",
-                    "type": "post"
-                },
-                {
-                    "name": "The Apologist and the Revolutionary",
-                    "type": "post"
-                }
-            ]
+          "name": "Scientific Self-Help: The State of Our Knowledge",
+          "type": "post",
+          "slug": "scientific-self-help-the-state-of-our-knowledge",
+          "_id": "33KewgYhNSxFpbpXg"
         },
         {
-            "title": "Top-50",
-            "children": [
-                {
-                    "name": "Your Strength as a Rationalist",
-                    "type": "post"
-                },
-                {
-                    "name": "Practical Advice Backed By Deep Theories",
-                    "type": "post"
-                },
-                {
-                    "name": "Scientific Evidence, Legal Evidence, Rational Evidence",
-                    "type": "post"
-                },
-                {
-                    "name": "Guessing the Teacher's Password",
-                    "type": "post"
-                },
-                {
-                    "name": "The Sword of Good",
-                    "type": "post"
-                },
-                {
-                    "name": "Fake Explanations",
-                    "type": "post"
-                },
-                {
-                    "name": "The Proper Use of Humility",
-                    "type": "post"
-                },
-                {
-                    "name": "\"What Is Wrong With Our Thoughts\"",
-                    "type": "post"
-                },
-                {
-                    "name": "Doing your good deed for the day",
-                    "type": "post"
-                },
-                {
-                    "name": "Beware Trivial Inconveniences",
-                    "type": "post"
-                },
-                {
-                    "name": "The Fable of the Dragon-Tyrant",
-                    "type": "post"
-                },
-                {
-                    "name": "The Bias You Didn't Expect",
-                    "type": "post"
-                },
-                {
-                    "name": "Hold Off On Proposing Solutions",
-                    "type": "post"
-                },
-                {
-                    "name": "Hindsight bias",
-                    "type": "post"
-                },
-                {
-                    "name": "The Trouble With \"Good\"",
-                    "type": "post"
-                },
-                {
-                    "name": "How to Not Lose an Argument",
-                    "type": "post"
-                },
-                {
-                    "name": "You're Entitled to Arguments, But Not (That Particular) Proof",
-                    "type": "post"
-                },
-                {
-                    "name": "...What's a Bias, again?",
-                    "type": "post"
-                },
-                {
-                    "name": "Applause Lights",
-                    "type": "post"
-                },
-                {
-                    "name": "Explaining vs. Explaining Away",
-                    "type": "post"
-                },
-                {
-                    "name": "Talking Snakes: A Cautionary Tale",
-                    "type": "post"
-                },
-                {
-                    "name": "Reversed Stupidity Is Not Intelligence",
-                    "type": "post"
-                },
-                {
-                    "name": "Cognitive Biases Potentially Affecting Judgment of Global Risks",
-                    "type": "post"
-                },
-                {
-                    "name": "Politics is the Mind-Killer",
-                    "type": "post"
-                },
-                {
-                    "name": "Newcomb's Problem and Regret of Rationality",
-                    "type": "post"
-                }
-            ]
+          "name": "Cached Selves",
+          "type": "post",
+          "slug": "cached-selves",
+          "_id": "BHYBdijDcAKQ6e45Z"
         },
         {
-            "title": "Top-75",
-            "children": [
-                {
-                    "name": "Semantic Stopsigns",
-                    "type": "post"
-                },
-                {
-                    "name": "Dissolving the Question",
-                    "type": "post"
-                },
-                {
-                    "name": "Learned Blankness",
-                    "type": "post"
-                },
-                {
-                    "name": "Reason as memetic immune disorder",
-                    "type": "post"
-                },
-                {
-                    "name": "Making your explicit reasoning trustworthy",
-                    "type": "post"
-                },
-                {
-                    "name": "Confidence levels inside and outside an argument",
-                    "type": "post"
-                },
-                {
-                    "name": "Truly Part Of You",
-                    "type": "post"
-                },
-                {
-                    "name": "The 5-Second Level",
-                    "type": "post"
-                },
-                {
-                    "name": "Ureshiku Naritai",
-                    "type": "post"
-                },
-                {
-                    "name": "Guilt: Another Gift Nobody Wants",
-                    "type": "post"
-                },
-                {
-                    "name": "How to Beat Procrastination",
-                    "type": "post"
-                },
-                {
-                    "name": "Evaporative Cooling of Group Beliefs",
-                    "type": "post"
-                },
-                {
-                    "name": "Occam's Razor",
-                    "type": "post"
-                },
-                {
-                    "name": "Anchoring and Adjustment",
-                    "type": "post"
-                },
-                {
-                    "name": "The Least Convenient Possible World",
-                    "type": "post"
-                },
-                {
-                    "name": "Scarcity",
-                    "type": "post"
-                },
-                {
-                    "name": "The Neglected Virtue of Scholarship",
-                    "type": "post"
-                },
-                {
-                    "name": "Scholarship: How to Do It Efficiently",
-                    "type": "post"
-                },
-                {
-                    "name": "Excluding the Supernatural",
-                    "type": "post"
-                },
-                {
-                    "name": "Joy in the Merely Real",
-                    "type": "post"
-                },
-                {
-                    "name": "Affective Death Spirals",
-                    "type": "post"
-                },
-                {
-                    "name": "The Lens That Sees Its Flaws",
-                    "type": "post"
-                },
-                {
-                    "name": "The Virtue of Narrowness",
-                    "type": "post"
-                },
-                {
-                    "name": "Generalizing From One Example",
-                    "type": "post"
-                },
-                {
-                    "name": "Belief in Belief",
-                    "type": "post"
-                }
-            ]
+          "name": "Efficient Charity: Do Unto Others...",
+          "type": "post",
+          "slug": "efficient-charity-do-unto-others",
+          "_id": "pC47ZTsPNAkjavkXs"
         },
         {
-            "title": "Top-100",
-            "children": [
-                {
-                    "name": "Beyond the Reach of God",
-                    "type": "post"
-                },
-                {
-                    "name": "Experiential Pica",
-                    "type": "post"
-                },
-                {
-                    "name": "Money: The Unit of Caring",
-                    "type": "post"
-                },
-                {
-                    "name": "The Importance of Goodhart's Law",
-                    "type": "post"
-                },
-                {
-                    "name": "Policy Debates Should Not Appear One-Sided",
-                    "type": "post"
-                },
-                {
-                    "name": "The mathematical universe: the map that is the territory",
-                    "type": "post"
-                },
-                {
-                    "name": "Beware of Other-Optimizing",
-                    "type": "post"
-                },
-                {
-                    "name": "A Much Better Life?",
-                    "type": "post"
-                },
-                {
-                    "name": "Less Wrong Rationality and Mainstream Philosophy",
-                    "type": "post"
-                },
-                {
-                    "name": "Philosophy: A Diseased Discipline",
-                    "type": "post"
-                },
-                {
-                    "name": "Eight Short Studies On Excuses",
-                    "type": "post"
-                },
-                {
-                    "name": "Fake Causality",
-                    "type": "post"
-                },
-                {
-                    "name": "Chaotic Inversion",
-                    "type": "post"
-                },
-                {
-                    "name": "Measuring aversion and habit strength",
-                    "type": "post"
-                },
-                {
-                    "name": "Intellectual Hipsters and Meta-Contrarianism",
-                    "type": "post"
-                },
-                {
-                    "name": "Too busy to think about life",
-                    "type": "post"
-                },
-                {
-                    "name": "37 Ways That Words Can Be Wrong",
-                    "type": "post"
-                },
-                {
-                    "name": "How to Be Happy",
-                    "type": "post"
-                },
-                {
-                    "name": "Righting a Wrong Question",
-                    "type": "post"
-                },
-                {
-                    "name": "Self-fulfilling correlations",
-                    "type": "post"
-                },
-                {
-                    "name": "Why truth? And...",
-                    "type": "post"
-                },
-                {
-                    "name": "You Only Live Twice",
-                    "type": "post"
-                },
-                {
-                    "name": "Less Wrong NYC: Case Study of a Successful Rationalist Chapter",
-                    "type": "post"
-                },
-                {
-                    "name": "Outside the Laboratory",
-                    "type": "post"
-                },
-                {
-                    "name": "Raising the Sanity Waterline",
-                    "type": "post"
-                }
-            ]
+          "name": "Making Beliefs Pay Rent (in Anticipated Experiences)",
+          "type": "post",
+          "slug": "making-beliefs-pay-rent-in-anticipated-experiences",
+          "_id": "a7n8GdKiAZRX86T5A"
         }
-    ]
+      ]
+    },
+    {
+      "title": "Top-25",
+      "children": [
+        {
+          "name": "About Less Wrong",
+          "type": "post",
+          "slug": "about-less-wrong",
+          "_id": "2om7AHEHtbogJmT5s"
+        },
+        {
+          "name": "Hindsight Devalues Science",
+          "type": "post",
+          "slug": "hindsight-devalues-science",
+          "_id": "WnheMGAka4fL99eae"
+        },
+        {
+          "name": "Tsuyoku Naritai! (I Want To Become Stronger)",
+          "type": "post",
+          "slug": "tsuyoku-naritai-i-want-to-become-stronger",
+          "_id": "DoLQN5ryZ9XkZjq5h"
+        },
+        {
+          "name": "Mysterious Answers to Mysterious Questions",
+          "type": "post",
+          "slug": "mysterious-answers-to-mysterious-questions",
+          "_id": "6i3zToomS86oj9bS6"
+        },
+        {
+          "name": "Twelve Virtues of Rationality",
+          "type": "post",
+          "slug": "twelve-virtues-of-rationality",
+          "_id": "7ZqGiPHTpiDMwqMN2"
+        },
+        {
+          "name": "Bayes' rule: Guide",
+          "type": "post",
+          "comment": "The original post is deprecated in favor of this explanation.",
+          "href": "https://arbital.com/p/bayes_rule/?l=1zq"
+        },
+        {
+          "name": "Diseased thinking: dissolving questions about disease",
+          "type": "post",
+          "slug": "diseased-thinking-dissolving-questions-about-disease",
+          "_id": "895quRDaK6gR2rM82"
+        },
+        {
+          "name": "Humans are not automatically strategic",
+          "type": "post",
+          "slug": "humans-are-not-automatically-strategic",
+          "_id": "PBRWb2Em5SNeWYwwB"
+        },
+        {
+          "name": "Ugh Fields",
+          "type": "post",
+          "slug": "ugh-fields",
+          "_id": "EFQ3F6kmt4WHXRqik"
+        },
+        {
+          "name": "Probability is in the Mind",
+          "type": "post",
+          "slug": "probability-is-in-the-mind",
+          "_id": "f6ZLxEWaankRZ2Crv"
+        },
+        {
+          "name": "How An Algorithm Feels From Inside",
+          "type": "post",
+          "slug": "how-an-algorithm-feels-from-inside",
+          "_id": "yA4gF5KrboK2m2Xu7"
+        },
+        {
+          "name": "Knowing About Biases Can Hurt People",
+          "type": "post",
+          "slug": "knowing-about-biases-can-hurt-people",
+          "_id": "AdYdLP2sRqPMoe8fb"
+        },
+        {
+          "name": "A Fable of Science and Politics",
+          "type": "post",
+          "slug": "a-fable-of-science-and-politics",
+          "_id": "6hfGNLf4Hg5DXqJCF"
+        },
+        {
+          "name": "Taboo Your Words",
+          "type": "post",
+          "slug": "taboo-your-words",
+          "_id": "WBdvyyHLdxZSAMmoz"
+        },
+        {
+          "name": "The Fallacy of Gray",
+          "type": "post",
+          "slug": "the-fallacy-of-gray",
+          "_id": "dLJv2CoRCgeC2mPgj"
+        },
+        {
+          "name": "Mind Projection Fallacy",
+          "type": "post",
+          "slug": "mind-projection-fallacy",
+          "_id": "ZTRiSNmeGQK8AkdN2"
+        },
+        {
+          "name": "Reductionism",
+          "type": "post",
+          "slug": "reductionism",
+          "_id": "tPqQdLCuxanjhoaNs"
+        },
+        {
+          "name": "Privileging the Hypothesis",
+          "type": "post",
+          "slug": "privileging-the-hypothesis",
+          "_id": "X2AD2LgtKgkRNPj2a"
+        },
+        {
+          "name": "Conservation of Expected Evidence",
+          "type": "post",
+          "slug": "conservation-of-expected-evidence",
+          "_id": "jiBFC7DcCrZjGmZnJ"
+        },
+        {
+          "name": "The Apologist and the Revolutionary",
+          "type": "post",
+          "slug": "the-apologist-and-the-revolutionary",
+          "_id": "ZiQqsgGX6a42Sfpii"
+        }
+      ]
+    },
+    {
+      "title": "Top-50",
+      "children": [
+        {
+          "name": "Your Strength as a Rationalist",
+          "type": "post",
+          "slug": "your-strength-as-a-rationalist",
+          "_id": "5JDkW4MYXit2CquLs"
+        },
+        {
+          "name": "Practical Advice Backed By Deep Theories",
+          "type": "post",
+          "slug": "practical-advice-backed-by-deep-theories",
+          "_id": "LqjKP255fPRY7aMzw"
+        },
+        {
+          "name": "Scientific Evidence, Legal Evidence, Rational Evidence",
+          "type": "post",
+          "slug": "scientific-evidence-legal-evidence-rational-evidence",
+          "_id": "fhojYBGGiYAFcryHZ"
+        },
+        {
+          "name": "Guessing the Teacher's Password",
+          "type": "post",
+          "slug": "guessing-the-teacher-s-password",
+          "_id": "NMoLJuDJEms7Ku9XS"
+        },
+        {
+          "name": "The Sword of Good",
+          "type": "post",
+          "slug": "the-sword-of-good",
+          "_id": "XuLG6M7sHuenYWbfC"
+        },
+        {
+          "name": "Fake Explanations",
+          "type": "post",
+          "slug": "fake-explanations",
+          "_id": "fysgqk4CjAwhBgNYT"
+        },
+        {
+          "name": "The Proper Use of Humility",
+          "type": "post",
+          "slug": "the-proper-use-of-humility",
+          "_id": "GrDqnMjhqoxiqpQPw"
+        },
+        {
+          "name": "\"What Is Wrong With Our Thoughts\"",
+          "type": "post",
+          "slug": "what-is-wrong-with-our-thoughts",
+          "_id": "EdyDGRLNFScEt5uDz"
+        },
+        {
+          "name": "Doing your good deed for the day",
+          "type": "post",
+          "slug": "doing-your-good-deed-for-the-day",
+          "_id": "r8stxYL29NF9w53am"
+        },
+        {
+          "name": "Beware Trivial Inconveniences",
+          "type": "post",
+          "slug": "beware-trivial-inconveniences",
+          "_id": "reitXJgJXFzKpdKyd"
+        },
+        {
+          "name": "The Fable of the Dragon-Tyrant",
+          "href": "https://nickbostrom.com/fable/dragon",
+          "type": "post"
+        },
+        {
+          "name": "The Bias You Didn't Expect",
+          "type": "post",
+          "slug": "the-bias-you-didn-t-expect",
+          "_id": "L8dB6yoMEWofoeDNt"
+        },
+        {
+          "name": "Hold Off On Proposing Solutions",
+          "type": "post",
+          "slug": "hold-off-on-proposing-solutions",
+          "_id": "uHYYA32CKgKT3FagE"
+        },
+        {
+          "name": "Hindsight bias",
+          "type": "post",
+          "slug": "hindsight-bias",
+          "_id": "fkM9XsNvXdYH6PPAx"
+        },
+        {
+          "name": "The Trouble With \"Good\"",
+          "type": "post",
+          "slug": "the-trouble-with-good",
+          "_id": "M2LWXsJxKS626QNEA"
+        },
+        {
+          "name": "How to Not Lose an Argument",
+          "type": "post",
+          "slug": "how-to-not-lose-an-argument",
+          "_id": "6yTShbTdtATxKonY5"
+        },
+        {
+          "name": "You're Entitled to Arguments, But Not (That Particular) Proof",
+          "type": "post",
+          "slug": "you-re-entitled-to-arguments-but-not-that-particular-proof",
+          "_id": "vqbieD9PHG8RRJddu"
+        },
+        {
+          "name": "What's a Bias?",
+          "type": "post",
+          "slug": "what-s-a-bias",
+          "_id": "jnZbHi873v9vcpGpZ"
+        },
+        {
+          "name": "Applause Lights",
+          "type": "post",
+          "slug": "applause-lights",
+          "_id": "dLbkrPu5STNCBLRjr"
+        },
+        {
+          "name": "Explaining vs. Explaining Away",
+          "type": "post",
+          "slug": "explaining-vs-explaining-away",
+          "_id": "cphoF8naigLhRf3tu"
+        },
+        {
+          "name": "Talking Snakes: A Cautionary Tale",
+          "type": "post",
+          "slug": "talking-snakes-a-cautionary-tale",
+          "_id": "atcJqdhCxTZiJSxo2"
+        },
+        {
+          "name": "Reversed Stupidity Is Not Intelligence",
+          "type": "post",
+          "slug": "reversed-stupidity-is-not-intelligence",
+          "_id": "qNZM3EGoE5ZeMdCRt"
+        },
+        {
+          "name": "Cognitive Biases Potentially Affecting Judgment of Global Risks",
+          "type": "post",
+          "href": "https://intelligence.org/files/CognitiveBiases.pdf"
+        },
+        {
+          "name": "Politics is the Mind-Killer",
+          "type": "post",
+          "slug": "politics-is-the-mind-killer",
+          "_id": "9weLK2AJ9JEt2Tt8f"
+        },
+        {
+          "name": "Newcomb's Problem and Regret of Rationality",
+          "type": "post",
+          "slug": "newcomb-s-problem-and-regret-of-rationality",
+          "_id": "6ddcsdA2c2XpNpE5x"
+        }
+      ]
+    },
+    {
+      "title": "Top-75",
+      "children": [
+        {
+          "name": "Semantic Stopsigns",
+          "type": "post",
+          "slug": "semantic-stopsigns",
+          "_id": "FWMfQKG3RpZx6irjm"
+        },
+        {
+          "name": "Dissolving the Question",
+          "type": "post",
+          "slug": "dissolving-the-question",
+          "_id": "Mc6QcrsbH5NRXbCRX"
+        },
+        {
+          "name": "Learned Blankness",
+          "type": "post",
+          "slug": "learned-blankness",
+          "_id": "puhPJimawPuNZ5wAR"
+        },
+        {
+          "name": "Reason as memetic immune disorder",
+          "type": "post",
+          "slug": "reason-as-memetic-immune-disorder",
+          "_id": "aHaqgTNnFzD7NGLMx"
+        },
+        {
+          "name": "Making your explicit reasoning trustworthy",
+          "type": "post",
+          "slug": "making-your-explicit-reasoning-trustworthy",
+          "_id": "m5AH78nscsGjMbBwv"
+        },
+        {
+          "name": "Confidence levels inside and outside an argument",
+          "type": "post",
+          "slug": "confidence-levels-inside-and-outside-an-argument",
+          "_id": "GrtbTAPfkJa4D6jjH"
+        },
+        {
+          "name": "Truly Part Of You",
+          "type": "post",
+          "slug": "truly-part-of-you",
+          "_id": "fg9fXrHpeaDD6pEPL"
+        },
+        {
+          "name": "The 5-Second Level",
+          "type": "post",
+          "slug": "the-5-second-level",
+          "_id": "JcpzFpPBSmzuksmWM"
+        },
+        {
+          "name": "Ureshiku Naritai",
+          "type": "post",
+          "slug": "ureshiku-naritai",
+          "_id": "xnPFYBuaGhpq869mY"
+        },
+        {
+          "name": "Guilt: Another Gift Nobody Wants",
+          "type": "post",
+          "slug": "guilt-another-gift-nobody-wants",
+          "_id": "CZnBQtvDw33rmWpBD"
+        },
+        {
+          "name": "How to Beat Procrastination",
+          "type": "post",
+          "slug": "how-to-beat-procrastination",
+          "_id": "RWo4LwFzpHNQCTcYt"
+        },
+        {
+          "name": "Evaporative Cooling of Group Beliefs",
+          "type": "post",
+          "slug": "evaporative-cooling-of-group-beliefs",
+          "_id": "ZQG9cwKbct2LtmL3p"
+        },
+        {
+          "name": "Occam's Razor",
+          "type": "post",
+          "slug": "occam-s-razor",
+          "_id": "f4txACqDWithRi7hs"
+        },
+        {
+          "name": "Anchoring and Adjustment",
+          "type": "post",
+          "slug": "anchoring-and-adjustment",
+          "_id": "bMkCEZoBNhgRBtzoj"
+        },
+        {
+          "name": "The Least Convenient Possible World",
+          "type": "post",
+          "slug": "the-least-convenient-possible-world",
+          "_id": "neQ7eXuaXpiYw7SBy"
+        },
+        {
+          "name": "Scarcity",
+          "type": "post",
+          "slug": "scarcity",
+          "_id": "MCYp8g9EMAiTCTawk"
+        },
+        {
+          "name": "The Neglected Virtue of Scholarship",
+          "type": "post",
+          "slug": "the-neglected-virtue-of-scholarship",
+          "_id": "64FdKLwmea8MCLWkE"
+        },
+        {
+          "name": "Scholarship: How to Do It Efficiently",
+          "type": "post",
+          "slug": "scholarship-how-to-do-it-efficiently",
+          "_id": "37sHjeisS9uJufi4u"
+        },
+        {
+          "name": "Excluding the Supernatural",
+          "type": "post",
+          "slug": "excluding-the-supernatural",
+          "_id": "u6JzcFtPGiznFgDxP"
+        },
+        {
+          "name": "Joy in the Merely Real",
+          "type": "post",
+          "slug": "joy-in-the-merely-real",
+          "_id": "x4dG4GhpZH2hgz59x"
+        },
+        {
+          "name": "Affective Death Spirals",
+          "type": "post",
+          "slug": "affective-death-spirals",
+          "_id": "XrzQW69HpidzvBxGr"
+        },
+        {
+          "name": "The Lens That Sees Its Flaws",
+          "type": "post",
+          "slug": "the-lens-that-sees-its-flaws",
+          "_id": "46qnWRSR7L2eyNbMA"
+        },
+        {
+          "name": "The Virtue of Narrowness",
+          "type": "post",
+          "slug": "the-virtue-of-narrowness",
+          "_id": "yDfxTj9TKYsYiWH5o"
+        },
+        {
+          "name": "Generalizing From One Example",
+          "type": "post",
+          "slug": "generalizing-from-one-example",
+          "_id": "baTWMegR42PAsH9qJ"
+        },
+        {
+          "name": "Belief in Belief",
+          "type": "post",
+          "slug": "belief-in-belief",
+          "_id": "CqyJzDZWvGhhFJ7dY"
+        }
+      ]
+    },
+    {
+      "title": "Top-100",
+      "children": [
+        {
+          "name": "Beyond the Reach of God",
+          "type": "post",
+          "slug": "beyond-the-reach-of-god",
+          "_id": "sYgv4eYH82JEsTD34"
+        },
+        {
+          "name": "Experiential Pica",
+          "type": "post",
+          "slug": "experiential-pica",
+          "_id": "9ZodFr54FtpLThHZh"
+        },
+        {
+          "name": "Money: The Unit of Caring",
+          "type": "post",
+          "slug": "money-the-unit-of-caring",
+          "_id": "ZpDnRCeef2CLEFeKM"
+        },
+        {
+          "name": "The Importance of Goodhart's Law",
+          "type": "post",
+          "slug": "the-importance-of-goodhart-s-law",
+          "_id": "YtvZxRpZjcFNwJecS"
+        },
+        {
+          "name": "Policy Debates Should Not Appear One-Sided",
+          "type": "post",
+          "slug": "policy-debates-should-not-appear-one-sided",
+          "_id": "PeSzc9JTBxhaYRp9b"
+        },
+        {
+          "name": "The mathematical universe: the map that is the territory",
+          "type": "post",
+          "slug": "the-mathematical-universe-the-map-that-is-the-territory",
+          "_id": "fZJRxYLtNNzpbWZAA"
+        },
+        {
+          "name": "Beware of Other-Optimizing",
+          "type": "post",
+          "slug": "beware-of-other-optimizing",
+          "_id": "6NvbSwuSAooQxxf7f"
+        },
+        {
+          "name": "A Much Better Life?",
+          "type": "post",
+          "slug": "a-much-better-life",
+          "_id": "5Qvvi23WT2unNCoS9"
+        },
+        {
+          "name": "Less Wrong Rationality and Mainstream Philosophy",
+          "type": "post",
+          "slug": "less-wrong-rationality-and-mainstream-philosophy",
+          "_id": "oTX2LXHqXqYg2u4g6"
+        },
+        {
+          "name": "Philosophy: A Diseased Discipline",
+          "type": "post",
+          "slug": "philosophy-a-diseased-discipline",
+          "_id": "FwiPfF8Woe5JrzqEu"
+        },
+        {
+          "name": "Eight Short Studies On Excuses",
+          "type": "post",
+          "slug": "eight-short-studies-on-excuses",
+          "_id": "gFMH3Cqw4XxwL69iy"
+        },
+        {
+          "name": "Fake Causality",
+          "type": "post",
+          "slug": "fake-causality",
+          "_id": "RgkqLqkg8vLhsYpfh"
+        },
+        {
+          "name": "Chaotic Inversion",
+          "type": "post",
+          "slug": "chaotic-inversion",
+          "_id": "NyFtHycJvkyNjXNsP"
+        },
+        {
+          "name": "Measuring aversion and habit strength",
+          "type": "post",
+          "slug": "measuring-aversion-and-habit-strength",
+          "_id": "Fxv4o3LGEkgR2Qsz7"
+        },
+        {
+          "name": "Intellectual Hipsters and Meta-Contrarianism",
+          "type": "post",
+          "slug": "intellectual-hipsters-and-meta-contrarianism",
+          "_id": "9kcTNWopvXFncXgPy"
+        },
+        {
+          "name": "Too busy to think about life",
+          "type": "post",
+          "slug": "too-busy-to-think-about-life",
+          "_id": "4psQW7vRwt7PE5Pnj"
+        },
+        {
+          "name": "37 Ways That Words Can Be Wrong",
+          "type": "post",
+          "slug": "37-ways-that-words-can-be-wrong",
+          "_id": "FaJaCgqBKphrDzDSj"
+        },
+        {
+          "name": "How to Be Happy",
+          "type": "post",
+          "slug": "how-to-be-happy",
+          "_id": "ZbgCx2ntD5eu8Cno9"
+        },
+        {
+          "name": "Righting a Wrong Question",
+          "type": "post",
+          "slug": "righting-a-wrong-question",
+          "_id": "rQEwySCcLtdKHkrHp"
+        },
+        {
+          "name": "Self-fulfilling correlations",
+          "type": "post",
+          "slug": "self-fulfilling-correlations",
+          "_id": "XuyRMxky6G8gq7a69"
+        },
+        {
+          "name": "Why Truth?",
+          "type": "post",
+          "slug": "why-truth",
+          "_id": "YshRbqZHYFoEMqFAu"
+        },
+        {
+          "name": "You Only Live Twice",
+          "type": "post",
+          "slug": "you-only-live-twice",
+          "_id": "yKXKcyoBzWtECzXrE"
+        },
+        {
+          "name": "Less Wrong NYC: Case Study of a Successful Rationalist Chapter",
+          "type": "post",
+          "slug": "less-wrong-nyc-case-study-of-a-successful-rationalist",
+          "_id": "CsKboswS3z5iaiutC"
+        },
+        {
+          "name": "Outside the Laboratory",
+          "type": "post",
+          "slug": "outside-the-laboratory",
+          "_id": "N2pENnTPB75sfc9kb"
+        },
+        {
+          "name": "Raising the Sanity Waterline",
+          "type": "post",
+          "slug": "raising-the-sanity-waterline",
+          "_id": "XqmjdBKa4ZaXJtNmf"
+        }
+      ]
+    }
+  ]
 }

@@ -1,14 +1,15 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import type { Response } from "./types";
+import type { Response } from "./shared";
 
-interface Collection {
+export interface Collection {
     _id: string;
     title: string;
     contents: {
         markdown: string
     }
     books: {
+        _id: string;
         title: string;
     }
 }
@@ -24,6 +25,7 @@ export const loadCollections = async (limit?: number) => {
                     markdown
                 }
                 books {
+                    _id
                     title
                 }
             }

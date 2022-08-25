@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Reading Orders/XiXiDu's Order.md",
-            "mode": "source",
+            "file": "LW/Concepts (LW).md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Reading Orders/XiXiDu's Order.md"
+                "file": "LW/Concepts (LW).md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Reading Orders/XiXiDu's Order.md",
+                "file": "LW/Concepts (LW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,30 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "ab615bc01b27d20d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "1458b5e7248ba579",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bf9a08c8436ce44",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
             }
           },
           {
@@ -123,14 +147,6 @@
             }
           },
           {
-            "id": "362678dd9413ee25",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "bf7fbb1a1a9a902b",
             "type": "leaf",
             "state": {
@@ -138,24 +154,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 277.1875305175781,
-    "collapsed": true
+    "width": 334.5
   },
   "active": "58aaac02c70808db",
   "lastOpenFiles": [
+    "LW/LessWrong.md",
+    "LW/Concepts (LW).md",
+    "LW/Posts/When Truth Isn't Enough.md",
+    "LW/Reading Orders/Reading Orders.md",
+    "LW/Reading Orders/XiXiDu's Order.md",
     "LW/Reading Orders/Academian's Order.md",
     "Zombies— The Movie.md",
     "Zombies! Zombies?.md",
-    "LW/Concepts (LW).md",
-    "LW/LessWrong.md",
     "LW/Library (LW).md",
-    "LW/How to use.md",
-    "LW/Reading Orders/The Sequences.md",
-    "README.md",
-    "LW/Reading Orders/Recommended Order.md"
+    "LW/How to use.md"
   ]
 }

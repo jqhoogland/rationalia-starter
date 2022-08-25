@@ -7,9 +7,11 @@
     },
     "books": [
       {
+        "_id": "LDsLnAqDSxKWvckvm",
         "title": null
       },
       {
+        "_id": "AfSPEKxTrFousyNev",
         "title": "Further Reading"
       }
     ]
@@ -22,12 +24,15 @@
     },
     "books": [
       {
+        "_id": "ZaMjuEd9hLe88ecpA",
         "title": "A Map That Reflects the Territory"
       },
       {
+        "_id": "EYzj5GCNYjrQi9TWZ",
         "title": "The Engines of Cognition"
       },
       {
+        "_id": "627069efc21cca7abd321d83",
         "title": "The Carving of Reality"
       }
     ]
@@ -46,15 +51,19 @@
     },
     "books": [
       {
+        "_id": "jF58hKP9ZLzgy22Jr",
         "title": "Good and Bad Reasoning"
       },
       {
+        "_id": "YhQ39PPHNrRCgYXcs",
         "title": "The Institution of Science"
       },
       {
+        "_id": "kcCvSNNZd8pfQvf9E",
         "title": "Designing the World"
       },
       {
+        "_id": "2tPEd5Gdm3iewB53M",
         "title": "Epilogue"
       }
     ]
@@ -127,6 +136,7 @@
     },
     "books": [
       {
+        "_id": "zBCyqJgJNJcfzgTZZ",
         "title": null
       }
     ]
@@ -173,12 +183,15 @@
     "contents": null,
     "books": [
       {
+        "_id": "YwBAXRsyCWcYtpcXG",
         "title": "Good and Bad Reasoning"
       },
       {
+        "_id": "xWz3JEHvhEhk5MyqP",
         "title": "Designing the World"
       },
       {
+        "_id": "bY6oqSmffuTLJfYvZ",
         "title": "The Institution of Science"
       }
     ]
@@ -209,21 +222,27 @@
     },
     "books": [
       {
+        "_id": "PYQ2izdfDPTe5uJTG",
         "title": "Map and Territory "
       },
       {
+        "_id": "coGq3LC5Yn4vZiu6k",
         "title": "How to Actually Change Your Mind"
       },
       {
+        "_id": "wAXodw6LPScjrdnkR",
         "title": "The Machine in the Ghost"
       },
       {
+        "_id": "ah2GqzZSeBpW9QHgb",
         "title": "Mere Reality"
       },
       {
+        "_id": "T3CjiQq6bBgFuzvp6",
         "title": "Mere Goodness"
       },
       {
+        "_id": "e6WsPsivzBifrWHeA",
         "title": "Becoming Stronger"
       }
     ]

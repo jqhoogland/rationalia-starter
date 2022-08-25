@@ -5,19 +5,25 @@
       "name": "Introduction",
       "children": [
         {
-          "name": "Twelve Virtues of Rationality"
+          "name": "Twelve Virtues of Rationality",
+          "type": "post",
+          "slug": "twelve-virtues-of-rationality",
+          "_id": "7ZqGiPHTpiDMwqMN2"
         },
         {
           "name": "Interview with Eliezer Yudkowsky (Part 1)",
-          "href": "http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/"
+          "href": "http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/",
+          "type": "post"
         },
         {
           "name": "Interview with Eliezer Yudkowsky (Part 2)",
-          "href": "http://johncarlosbaez.wordpress.com/2011/03/14/this-weeks-finds-week-312/"
+          "href": "http://johncarlosbaez.wordpress.com/2011/03/14/this-weeks-finds-week-312/",
+          "type": "post"
         },
         {
           "name": "Interview with Eliezer Yudkowsky (Part 3)",
-          "href": "http://johncarlosbaez.wordpress.com/2011/03/25/this-weeks-finds-week-313/"
+          "href": "http://johncarlosbaez.wordpress.com/2011/03/25/this-weeks-finds-week-313/",
+          "type": "post"
         }
       ]
     },
@@ -25,36 +31,63 @@
       "name": "Wisdom & Insight",
       "children": [
         {
-          "name": "Diseased thinking: dissolving questions about disease"
+          "name": "Diseased thinking: dissolving questions about disease",
+          "type": "post",
+          "slug": "diseased-thinking-dissolving-questions-about-disease",
+          "_id": "895quRDaK6gR2rM82"
         },
         {
-          "name": "Self-fulfilling correlations"
+          "name": "Self-fulfilling correlations",
+          "type": "post",
+          "slug": "self-fulfilling-correlations",
+          "_id": "XuyRMxky6G8gq7a69"
         },
         {
-          "name": "Probability is in the Mind"
+          "name": "Probability is in the Mind",
+          "type": "post",
+          "slug": "probability-is-in-the-mind",
+          "_id": "f6ZLxEWaankRZ2Crv"
         },
         {
-          "name": "You're Entitled to Arguments, But Not (That Particular) Proof"
+          "name": "You're Entitled to Arguments, But Not (That Particular) Proof",
+          "type": "post",
+          "slug": "you-re-entitled-to-arguments-but-not-that-particular-proof",
+          "_id": "vqbieD9PHG8RRJddu"
         },
         {
-          "name": "Efficient Charity: Do Unto Others..."
+          "name": "Efficient Charity: Do Unto Others...",
+          "type": "post",
+          "slug": "efficient-charity-do-unto-others",
+          "_id": "pC47ZTsPNAkjavkXs"
         },
         {
-          "name": "Newcomb's Problem and Regret of Rationality"
+          "name": "Newcomb's Problem and Regret of Rationality",
+          "type": "post",
+          "slug": "newcomb-s-problem-and-regret-of-rationality",
+          "_id": "6ddcsdA2c2XpNpE5x"
         },
         {
-          "name": "Occam's Razor"
+          "name": "Occam's Razor",
+          "type": "post",
+          "slug": "occam-s-razor",
+          "_id": "f4txACqDWithRi7hs"
         },
         {
-          "name": "Confidence levels inside and outside an argument"
-        },
+          "name": "Confidence levels inside and outside an argument",
+          "type": "post",
+          "slug": "confidence-levels-inside-and-outside-an-argument",
+          "_id": "GrtbTAPfkJa4D6jjH"
+        }
       ]
     },
     {
       "name": "Education",
       "children": [
         {
-          "name": "An Intuitive Explanation of Bayes’ Theorem"
+          "name": "Bayes' rule: Guide",
+          "type": "post",
+          "comment": "The original post is deprecated in favor of this explanation.",
+          "href": "https://arbital.com/p/bayes_rule/?l=1zq"
         }
       ]
     },
@@ -62,19 +95,34 @@
       "name": "Excitement, Novelty, Fun",
       "children": [
         {
-          "name": "The Apologist and the Revolutionary"
+          "name": "The Apologist and the Revolutionary",
+          "type": "post",
+          "slug": "the-apologist-and-the-revolutionary",
+          "_id": "ZiQqsgGX6a42Sfpii"
         },
         {
-          "name": "Beyond the Reach of God"
+          "name": "Beyond the Reach of God",
+          "type": "post",
+          "slug": "beyond-the-reach-of-god",
+          "_id": "sYgv4eYH82JEsTD34"
         },
         {
-          "name": "The mathematical universe: the map that is the territory"
+          "name": "The mathematical universe: the map that is the territory",
+          "type": "post",
+          "slug": "the-mathematical-universe-the-map-that-is-the-territory",
+          "_id": "fZJRxYLtNNzpbWZAA"
         },
         {
-          "name": "That Alien Message"
+          "name": "That Alien Message",
+          "type": "post",
+          "slug": "that-alien-message",
+          "_id": "5wMcKNAwB6X4mp9og"
         },
         {
-          "name": "A Much Better Life?"
+          "name": "A Much Better Life?",
+          "type": "post",
+          "slug": "a-much-better-life",
+          "_id": "5Qvvi23WT2unNCoS9"
         }
       ]
     },
@@ -82,11 +130,14 @@
       "name": "Other",
       "children": [
         {
-          "name": "List of all articles from Less Wrong"
+          "name": "List of all articles from Less Wrong",
+          "type": "post",
+          "href": "https://www.lesswrong.com/allPosts"
         },
         {
           "name": "References & Resources for LessWrong",
-          "href": "https://www.lesswrong.com/posts/TNHQLZK5pHbxdnz4e/references-and-resources-for-lesswrong"
+          "href": "https://www.lesswrong.com/posts/TNHQLZK5pHbxdnz4e/references-and-resources-for-lesswrong",
+          "type": "post"
         }
       ]
     }

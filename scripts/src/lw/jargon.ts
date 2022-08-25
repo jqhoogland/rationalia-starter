@@ -6,18 +6,12 @@
 
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import type { TableOfContents, TagPreview } from "./types";
+import { Post } from "./post";
 
-interface Post {
-    _id: string;
+
+export interface Jargon {
     title: string;
-    slug: string;
-    url: string;
-    tags: TagPreview[],
-    tableOfContents: TableOfContents,
-    contents: {
-        markdown: string
-    }
+    body: string;
 }
 
 const loadCAFRJargon = async () => {

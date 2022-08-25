@@ -1,16 +1,18 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import type { Response } from "./types";
+import type { Response } from "./shared";
 
-interface Book {
+export interface Book {
     _id: string;
     title: string;
     subtitle: string;
+    slug: string;
     number: number;
     contents: {
         markdown: string
     }
     sequences: {
+        _id: string;
         title: string;
     }
     // Include posts as well?
@@ -29,6 +31,7 @@ export const loadBooks = async (limit?: number) => {
                     markdown
                 }
                 sequences {
+                    _id
                     title
                 }
             }
