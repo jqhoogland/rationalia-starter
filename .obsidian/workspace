@@ -7,8 +7,12 @@
         "id": "58aaac02c70808db",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "LW/Reading Orders/XiXiDu's Order.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LW/Reading Orders/XiXiDu's Order.md"
+              }
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LW/Reading Orders/XiXiDu's Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

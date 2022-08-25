@@ -1,0 +1,94 @@
+{
+  "author": "XiXiDu",
+  "chapters": [
+    {
+      "name": "Introduction",
+      "children": [
+        {
+          "name": "Twelve Virtues of Rationality"
+        },
+        {
+          "name": "Interview with Eliezer Yudkowsky (Part 1)",
+          "href": "http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/"
+        },
+        {
+          "name": "Interview with Eliezer Yudkowsky (Part 2)",
+          "href": "http://johncarlosbaez.wordpress.com/2011/03/14/this-weeks-finds-week-312/"
+        },
+        {
+          "name": "Interview with Eliezer Yudkowsky (Part 3)",
+          "href": "http://johncarlosbaez.wordpress.com/2011/03/25/this-weeks-finds-week-313/"
+        }
+      ]
+    },
+    {
+      "name": "Wisdom & Insight",
+      "children": [
+        {
+          "name": "Diseased thinking: dissolving questions about disease"
+        },
+        {
+          "name": "Self-fulfilling correlations"
+        },
+        {
+          "name": "Probability is in the Mind"
+        },
+        {
+          "name": "You're Entitled to Arguments, But Not (That Particular) Proof"
+        },
+        {
+          "name": "Efficient Charity: Do Unto Others..."
+        },
+        {
+          "name": "Newcomb's Problem and Regret of Rationality"
+        },
+        {
+          "name": "Occam's Razor"
+        },
+        {
+          "name": "Confidence levels inside and outside an argument"
+        },
+      ]
+    },
+    {
+      "name": "Education",
+      "children": [
+        {
+          "name": "An Intuitive Explanation of Bayes’ Theorem"
+        }
+      ]
+    },
+    {
+      "name": "Excitement, Novelty, Fun",
+      "children": [
+        {
+          "name": "The Apologist and the Revolutionary"
+        },
+        {
+          "name": "Beyond the Reach of God"
+        },
+        {
+          "name": "The mathematical universe: the map that is the territory"
+        },
+        {
+          "name": "That Alien Message"
+        },
+        {
+          "name": "A Much Better Life?"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "children": [
+        {
+          "name": "List of all articles from Less Wrong"
+        },
+        {
+          "name": "References & Resources for LessWrong",
+          "href": "https://www.lesswrong.com/posts/TNHQLZK5pHbxdnz4e/references-and-resources-for-lesswrong"
+        }
+      ]
+    }
+  ]
+}
