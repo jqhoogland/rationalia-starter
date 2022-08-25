@@ -1,0 +1,20 @@
+---
+title: Distinctions
+href: https://lesswrong.com/tags/distinctions
+type: tag
+tags:
+  - LessWrong
+  - Concept
+  - Tag
+---
+
+A common [[Failure mode|Failure mode]] is failing to notice a **Distinction** between two or more things. on the other hand, noticing distinctions can lead to insight, dissolving confusion, and better results.
+
+> “intelligence is the measure of the number and the quality of the distinctions you have in a given situation” - Tony Robbins
+
+Thus, making and noticing distinctions is a core skill.
+
+**See also:** [Decoupling vs Contextualizing](https://www.lesswrong.com/tag/decoupling-vs-contextualizing), [[Conflict vs Mistake|Conflict vs Mistake]], [Compartmentalization](https://www.lesswrong.com/tag/compartmentalization), [[Bucket Errors|Bucket Errors]], [Map and Territory](https://www.lesswrong.com/tag/map-and-territory), [[Fallacy of Gray|Fallacy of Gray]], [Wanting and liking](https://www.lesswrong.com/tag/wanting-and-liking)
+
+**External Links:**  
+[Use–mention distinction](https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction)

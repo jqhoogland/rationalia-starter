@@ -1,0 +1,25 @@
+---
+title: Emotions
+href: https://lesswrong.com/tags/emotions
+type: tag
+tags:
+  - LessWrong
+  - Concept
+  - Tag
+---
+
+Contrary to the stereotype, [[Rationality|rationality]] doesn't mean denying **emotion**. When emotion is appropriate to the reality of the situation, it should be embraced; only when emotion isn't appropriate should it be suppressed.
+
+External links
+--------------
+
+*   [The Straw Vulcan](http://www.youtube.com/watch?v=tLgNZ9aTEwc), a talk introducing rationality, by [Julia Galef](http://lesswrong.com/user/Julia_Galef/) ([summary](https://www.lesswrong.com/lw/90n/summary_of_the_straw_vulcan/))
+*   [Vulcan Logic](http://www.overcomingbias.com/2006/12/vulcan_logic.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
+
+See also
+--------
+
+*   [[Alief|Alief]]
+*   [Truth](https://www.lesswrong.com/tag/truth-semantics-and-meaning), [[Rationality|Rationality]]
+*   [Litany of Tarski](https://www.lesswrong.com/tag/litany-of-tarski)
+*   [[Hollywood Rationality|Hollywood rationality]]

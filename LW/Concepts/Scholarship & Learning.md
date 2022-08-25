@@ -1,0 +1,40 @@
+---
+title: Scholarship & Learning
+href: https://lesswrong.com/tags/scholarship-and-learning
+type: tag
+tags:
+  - LessWrong
+  - Concept
+  - Tag
+---
+
+**Scholarship & Learning.** Here be posts on how to study, research, and learn.
+
+Topics include, but are not limited to: how to research, how to understand material deeply, note-taking, and useful scholarship resources.
+
+> *The eleventh virtue is scholarship. Study many sciences and absorb their power as your own. Each field that you consume makes you larger. If you swallow enough sciences the gaps between them will diminish and your knowledge will become a unified whole. If you are gluttonous you will become vaster than mountains. –* [[Twelve Virtues of Rationality|*Twelve Virtues of Rationality*]]
+
+See Also
+--------
+
+*   [Spaced Repetition](https://www.lesswrong.com/tag/spaced-repetition) is a technique for long-term retention of learned material.
+*   [Fact Posts](https://www.lesswrong.com/tag/fact-posts?showPostCount=true&useTagName=true) are pieces of writing that attempt to build an understanding of the world, starting bottom up with empirical facts rather than "opinions".
+*   The other [Virtues](https://www.lesswrong.com/tag/virtues?showPostCount=true&useTagName=true) of Rationality.
+
+Top Resources
+-------------
+
+*   [[Scholarship: How to Do It Efficiently|Scholarship: How to Do It Efficiently]] is a guide to quickly researching topics and understanding what is known within a field.
+*   [Literature Review For Academic Outsiders: What, How, and Why](https://www.lesswrong.com/posts/RKz7pc6snBttndxXz/literature-review-for-academic-outsiders-what-how-and-why-1) similar to the first resource, contains many links to further resources.
+*   [\[Question\] How do you assess the quality / reliability of a scientific study?](https://www.lesswrong.com/posts/gxbGKa2AnQsrn3Gni/how-do-you-assess-the-quality-reliability-of-a-scientific) A question post with many highly excellent lengthy responses, several which received bounty payouts.
+*   [[On learning difficult things|On learning difficult things]] covers techniques and methods for studying difficult topics.
+*   [Paper-Reading for Gears](https://www.lesswrong.com/posts/TPjbTXntR54XSZ3F2/paper-reading-for-gears) is a guide studying to actually build up a mechanistic, gears-level understanding of a topic.
+*   [[The 3 Books Technique for Learning a New Skilll|The 3 Books Technique for Learning a New Skilll]] is a short post suggests finding a What, How, and Why book for any skill or topic you wish to learn.
+*   [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) crowd-sourced list where every recommendation requires that the recommender have read three books on the topic and can explain why one textbook is better than others.
+*   [[Forum participation as a research strategy|Forum participation as a research strategy]] argues that participation on discussion forums on a research topic is actually a great way for researchers to make progress.
+*   [Fact Posts: How and Why](https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why) is guide on exploring empirical question by starting with raw facts rather than expert opinion and prior analysis. Compared more typical research, the Fact Post method helps you ground your understanding in facts and see the topic freshly.
+*   [[How to (not) do a literature review|How to (not) do a literature review]] which contains a very concrete list of steps for literature reviews, including mistakes to avoid.
+
+**External Resources**
+
+*   [Internet Search Tips](https://www.gwern.net/Search) by Gwern Branwen is a long, extremely detailed practical guide on how to conduct an online search for references, papers, and books that are difficult to find, including 13 case studies.

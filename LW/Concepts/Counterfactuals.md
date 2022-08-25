@@ -1,0 +1,13 @@
+---
+title: Counterfactuals
+href: https://lesswrong.com/tags/counterfactuals
+type: tag
+tags:
+  - LessWrong
+  - Concept
+  - Tag
+---
+
+Counterfactual reasoning is about looking at choices you *could* *have* made, but didn't.
+
+Counterfactuals are similar to [[Hypotheticals|hypotheticals]] (but tend to focus on choices you could have made, rather than situations you could have been in).

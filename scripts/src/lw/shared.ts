@@ -3,9 +3,9 @@ import { Book } from "./books";
 import { Collection } from "./collections";
 import { Jargon } from "./jargon";
 import { loadOrder } from "./orders";
-import { Post } from "./posts";
+import { fetchPost, readPosts } from "./posts";
 import { Sequence } from "./sequences";
-import { Tag } from "./tags";
+import { fetchTag, readTags } from "./tags";
 
 export type Response<T> = {
     results: T[]
@@ -23,17 +23,27 @@ export interface TagPreview {
 
 export class DB {
     get tags() {
-        return JSON.parse(fs.readFileSync('data/tags.json', 'utf8')) as Tag[]
+        return readTags()
     }
-    tag({ slug, name }: { slug?: string, name?: string }) {
-        return this.tags.find(tag => (slug && tag.slug === slug) || tag.name === name)
+    async tag({ slug, name }: { slug?: string, name?: string }) {
+        const tag = this.tags.find(tag => (slug && tag.slug === slug) || (tag?.oldSlugs ?? []).includes(slug) || tag.name === name)
+        if (!tag && slug) {
+            return fetchTag(slug)
+        }
+        return tag
     }
 
     get posts() {
-        return JSON.parse(fs.readFileSync('data/posts.json', 'utf8')) as Post[]
+        return readPosts()
     }
     post({ _id, slug, title }: { _id?: string, slug?: string, title?: string }) {
-        return this.posts.find(post => (_id && post._id === _id) || (slug && post.slug === slug) || post.title === title)
+        const post = this.posts.find(post => (_id && post._id === _id) || (slug && post.slug === slug) || post.title === title)
+
+        if (!post) {
+            return fetchPost({slug, _id})
+        }
+
+        return post
     }
 
     get books() {
@@ -64,5 +74,61 @@ export class DB {
     get jargon() {
         return JSON.parse(fs.readFileSync('data/jargon.json', 'utf8')) as Jargon[]
     }
-    
+
+}
+
+
+export const db = new DB();
+
+const getTitleFromLink = async (href: string) => {
+    try {
+        if (href.includes("/tag/")) {
+            const slug = href.split("/tag/")[1].split("/")[0]
+            return (await db.tag({ slug })).name
+        } else if (href.includes("/lw/")) {  // E.g.: /lw/nc/newcombs_problem_and_regret_of_rationality/ 
+            const slug = href.split("/lw/")[1].split("/")[1].split("?")[0]
+            return (await db.post({slug})).title
+        } else if (href.includes("/posts/")) {
+            const _id = href.split("/posts/")[1].split("/")[0].split("?")[0]
+            return (await db.post({ _id })).title
+        } else if (href.includes("/book/")) {
+            const _id = href.split("/book/")[1].split("/")[0]
+            return db.book({ _id }).title
+        } else if (href.includes("/s/")) {
+            const _id = href.split("/s/")[1].split("/")[0]
+            return db.sequence({ _id }).title
+        }
+        throw new Error("Unrecognized link")
+    } catch (e) {
+        console.error("---\n\n", e, "\n", href, "\n\n---")
+        return false;
+    }
+}
+
+async function replaceAsync(str: string, regex: RegExp, asyncFn: (match: string, alias: string | null, href: string | null) => Promise<string>): Promise<string> {
+    const promises = (str.match(regex) ?? []).map((match) => asyncFn(...(regex.exec(match) ?? [match, null, null]) as [string, string | null, string | null]));
+    const data = await Promise.all(promises);
+    return str.replace(regex, () => data.shift()!);
+  }
+
+export const fixLinks = async (md: string) => {
+    return replaceAsync(md, /\[([^\]]+)\]\(([^\)]+)\)/g, async (match, alias, href) => {        
+        if (!alias || !href) {
+            return match
+        }
+
+        if (href.includes('lesswrong.com')) {
+            const title = await getTitleFromLink(href); // TODO: check aliases
+
+            if (!title) {
+                if (href[0] === "/") {
+                    href = "https://lesswrong.com" + href;
+                }
+                return `[${alias}](${href})`;
+            }
+
+            return `[[${title}|${alias}]]`
+        } 
+        return match;
+    })  
 }

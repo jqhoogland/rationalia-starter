@@ -1,13 +1,14 @@
 import fs from 'fs';
 import { gql, request } from 'graphql-request';
 import * as yaml from 'js-yaml';
-import { Response, TagPreview } from './shared';
+import { db, fixLinks, Response, TagPreview } from './shared';
 
 export interface Tag {
     _id: string,
     name: string,
     core: boolean,
     slug: string,
+    oldSlugs: string,
     postCount: number,
     parentTag?: null | {
         name: string
@@ -18,7 +19,10 @@ export interface Tag {
     }
 }
 
-export const loadTags = async (limit?: number) => {
+export const readTags = () => JSON.parse(fs.readFileSync('data/tags.json', 'utf8')) as Tag[]
+export const writeTags = (tags: Tag[]) => fs.writeFileSync('./data/tags.json', JSON.stringify(tags, null, 2));
+
+export const fetchTags = async (limit?: number) => {
     const query = gql`
     {
         tags(input: { 
@@ -31,6 +35,7 @@ export const loadTags = async (limit?: number) => {
             name
             core
             slug
+            oldSlugs
             postCount
             description {
                 markdown
@@ -46,15 +51,49 @@ export const loadTags = async (limit?: number) => {
     }`
 
     return request('https://www.lesswrong.com/graphql', query).then(({ tags }: { tags: Response<Tag> }) => {
-        fs.writeFileSync('./data/tags.json', JSON.stringify(tags.results, null, 2))
+        writeTags(tags.results);
         return tags.results;
     })
 }
 
+export const fetchTag = async (slug: string) => {
+    const query = gql`
+    {
+        tag(input: { 
+            selector: {
+                slug: "${slug}"
+            }
+        }) {
+          result {
+            _id
+            name
+            core
+            slug
+            oldSlugs
+            postCount
+            description {
+                markdown
+            }
+            parentTag {
+                name        
+            }
+            subTags {
+                name
+              }
+          }
+        }
+    }`
+
+    return request('https://www.lesswrong.com/graphql', query).then(({ tag }: { tag: { result: Tag } }) => {
+        writeTags([...readTags(), tag.result]);
+        return tag.result
+    })
+}
+
+
 // (await loadTags().then(tags => console.log(JSON.stringify(tags, null, 2))))
     
-export const writeTags = async () => {
-    
+export const tagsToMD = async () => {
     const getFrontmatter = (tag: Tag) => {
         return (
             "---\n"
@@ -75,35 +114,19 @@ export const writeTags = async () => {
         )
     }
 
-    const getTitle = (href: string, alias: string) => {
-        alias = alias.replace(":", "—")
-
-        if (alias?.[0] === "*" && alias?.[alias.length] === "*") {
-            alias = alias.slice(1, alias.length - 1)
-        }
-        
-        return alias
-    }
-
-    const fixLinks = (md: string) => {
-        return md.replace(/\[([^\]]+)\]\(([^\)]+)\)/g, (match, alias, href) => {
-            if (href.includes('lesswrong.com')) {
-                const title = getTitle(href, alias); // TODO: check aliases
-                return `[[${title}|${alias}]]`
-            } 
-            return match;
-        })  
-    }
-
-    for (const tag of tags) {
+    for (const tag of db.tags) {
         let mdFile = ""        
         mdFile += getFrontmatter(tag)
         mdFile += "\n\n"
-        mdFile += fixLinks(tag?.description?.markdown ?? "")
+        mdFile += await fixLinks(tag?.description?.markdown ?? "");
 
         console.log(tag.name)   
         console.log(mdFile)
+
+        const name = tag.name.replaceAll(":", '—').replaceAll("/", ", ");
+
+        fs.writeFileSync(`../LW/Concepts/${name}.md`, mdFile)
     }
 }
 
-(await writeTags())
+ (await tagsToMD())
