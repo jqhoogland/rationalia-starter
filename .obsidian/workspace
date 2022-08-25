@@ -7,12 +7,8 @@
         "id": "58aaac02c70808db",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LW/Reading Orders/Academian's Order.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LW/Reading Orders/Academian's Order.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Reading Orders/Academian's Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +140,8 @@
   },
   "active": "58aaac02c70808db",
   "lastOpenFiles": [
-    "Zombies— The Movie.md",
     "LW/Reading Orders/Academian's Order.md",
+    "Zombies— The Movie.md",
     "Zombies! Zombies?.md",
     "LW/Concepts (LW).md",
     "LW/LessWrong.md",
