@@ -1,7 +1,7 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
 
-interface ChapterOrder {
+export interface ChapterOrder {
     title: string;
     description?: string;
     children: {
@@ -14,13 +14,13 @@ interface ChapterOrder {
     }[]
 }
 
-interface ReadingOrder {
+export interface ReadingOrder {
     author: string;
     description?: string;
     chapters: ChapterOrder[]
 }
 
-const loadOrder = (name: string) =>
+export const loadOrder = (name: string) =>
     JSON.parse(fs.readFileSync(`./data/reading-orders/${name}.json`, 'utf8')) as ReadingOrder;
 
 const writeOrder = (name: string, order: ReadingOrder) =>
@@ -81,10 +81,10 @@ const normalize = async (name: string) => {
 
 export const normalizeOrders = async () => (
     Promise.all([
-        // normalize('academian'),
-        // normalize('jimrandomh'),
+        normalize('academian'),
+        normalize('jimrandomh'),
         normalize('xixidu')
     ])
 );
 
-(async () => await normalizeOrders())()
+// (async () => await normalizeOrders())()

@@ -1,0 +1,757 @@
+[
+  {
+    "title": "Belief in belief",
+    "_id": "CqyJzDZWvGhhFJ7dY",
+    "slug": "belief-in-belief"
+  },
+  {
+    "title": "What do we mean by \"Rationality\"?",
+    "_id": "RcZCwxFiZzE6X7nsv",
+    "slug": "what-do-we-mean-by-rationality-1"
+  },
+  {
+    "title": "What is evidence?",
+    "_id": "6s3xABaXKPdFwA3FS",
+    "slug": "what-is-evidence"
+  },
+  {
+    "title": "How to convince me that 2+2=3",
+    "_id": "6FmqiAgS8h4EJm86s",
+    "slug": "how-to-convince-me-that-2-2-3"
+  },
+  {
+    "title": "Occam's Razor",
+    "_id": "f4txACqDWithRi7hs",
+    "slug": "occam-s-razor"
+  },
+  {
+    "title": "The lens that sees its flaws",
+    "_id": "46qnWRSR7L2eyNbMA",
+    "slug": "the-lens-that-sees-its-flaws"
+  },
+  {
+    "title": "Making Beliefs Pay Rent (in Anticipated Experiences)",
+    "_id": "a7n8GdKiAZRX86T5A",
+    "slug": "making-beliefs-pay-rent-in-anticipated-experiences"
+  },
+  {
+    "title": "The Virtue of Narrowness",
+    "_id": "yDfxTj9TKYsYiWH5o",
+    "slug": "the-virtue-of-narrowness"
+  },
+  {
+    "title": "Hindsight Bias",
+    "_id": "fkM9XsNvXdYH6PPAx",
+    "slug": "hindsight-bias"
+  },
+  {
+    "title": "Fake Explanations",
+    "_id": "fysgqk4CjAwhBgNYT",
+    "slug": "fake-explanations"
+  },
+  {
+    "title": "Guessing the Teacher's Password",
+    "_id": "NMoLJuDJEms7Ku9XS",
+    "slug": "guessing-the-teacher-s-password"
+  },
+  {
+    "title": "Fake Causality",
+    "_id": "RgkqLqkg8vLhsYpfh",
+    "slug": "fake-causality"
+  },
+  {
+    "title": "Mysterious Answers to Mysterious Questions",
+    "_id": "6i3zToomS86oj9bS6",
+    "slug": "mysterious-answers-to-mysterious-questions"
+  },
+  {
+    "title": "The Futility of Emergence",
+    "_id": "8QzZKw9WHRxjR4948",
+    "slug": "the-futility-of-emergence"
+  },
+  {
+    "title": "Explain, Worship, Ignore",
+    "_id": "yxvi9RitzZDpqn6Yh",
+    "slug": "explain-worship-ignore"
+  },
+  {
+    "title": "How an Algorithm Feels from Inside",
+    "_id": "yA4gF5KrboK2m2Xu7",
+    "slug": "how-an-algorithm-feels-from-inside"
+  },
+  {
+    "title": "Feel the Meaning",
+    "_id": "dMCFk2n2ur8n62hqB",
+    "slug": "feel-the-meaning"
+  },
+  {
+    "title": "Replace the Symbol with the Substance",
+    "_id": "GKfPL6LQFgB49FEnv",
+    "slug": "replace-the-symbol-with-the-substance"
+  },
+  {
+    "title": "Dissolving the Question",
+    "_id": "Mc6QcrsbH5NRXbCRX",
+    "slug": "dissolving-the-question"
+  },
+  {
+    "title": "Wrong Questions",
+    "_id": "XzrqkhfwtiSDgKoAF",
+    "slug": "wrong-questions"
+  },
+  {
+    "title": "Righting a Wrong Question",
+    "_id": "rQEwySCcLtdKHkrHp",
+    "slug": "righting-a-wrong-question"
+  },
+  {
+    "title": "Probability is in the Mind",
+    "_id": "f6ZLxEWaankRZ2Crv",
+    "slug": "probability-is-in-the-mind"
+  },
+  {
+    "title": "Reductionism",
+    "_id": "tPqQdLCuxanjhoaNs",
+    "slug": "reductionism"
+  },
+  {
+    "title": "Explaining vs. Explaining Away",
+    "_id": "cphoF8naigLhRf3tu",
+    "slug": "explaining-vs-explaining-away"
+  },
+  {
+    "title": "Fake Reductionism",
+    "_id": "mTf8MkpAigm3HP6x2",
+    "slug": "fake-reductionism"
+  },
+  {
+    "title": "Joy in the Merely Real",
+    "_id": "x4dG4GhpZH2hgz59x",
+    "slug": "joy-in-the-merely-real"
+  },
+  {
+    "title": "Bind Yourself to Reality",
+    "_id": "WjpA4PCjt5EkTGbLF",
+    "slug": "bind-yourself-to-reality"
+  },
+  {
+    "title": "If You Demand Magic, Magic Won't Help",
+    "_id": "iiWiHgtQekWNnmE6Q",
+    "slug": "if-you-demand-magic-magic-won-t-help"
+  },
+  {
+    "title": "Mundane Magic",
+    "_id": "SXK87NgEPszhWkvQm",
+    "slug": "mundane-magic"
+  },
+  {
+    "title": "The Beauty of Settled Science",
+    "_id": "ndGYn7ZFiZyernp9f",
+    "slug": "the-beauty-of-settled-science"
+  },
+  {
+    "title": "To Spread Science, Keep It Secret",
+    "_id": "3diLhMELXxM8rFHJj",
+    "slug": "to-spread-science-keep-it-secret"
+  },
+  {
+    "title": "Angry Atoms",
+    "_id": "ddwk9veF8efn3Nzbu",
+    "slug": "angry-atoms"
+  },
+  {
+    "title": "Heat vs. Motion",
+    "_id": "ne6Ra62FB9ACHGSuh",
+    "slug": "heat-vs-motion"
+  },
+  {
+    "title": "Brain Breakthrough! It's Made of Neurons!",
+    "_id": "nzzNFcrSk7akQ9bwD",
+    "slug": "brain-breakthrough-it-s-made-of-neurons"
+  },
+  {
+    "title": "Reductive Reference",
+    "_id": "gRa5cWWBsZqdFvmqu",
+    "slug": "reductive-reference"
+  },
+  {
+    "title": "Zombies! Zombies?",
+    "_id": "fdEWWr8St59bXLbQr",
+    "slug": "zombies-zombies"
+  },
+  {
+    "title": "GAZP vs. GLUT",
+    "_id": "k6EPphHiBH4WWYFCj",
+    "slug": "gazp-vs-glut"
+  },
+  {
+    "title": "Belief in the Implied Invisible",
+    "_id": "3XMwPNMSbaPm2suGz",
+    "slug": "belief-in-the-implied-invisible"
+  },
+  {
+    "title": "Zombies— The Movie",
+    "_id": "fsDz6HieZJBu54Yes",
+    "slug": "zombies-the-movie"
+  },
+  {
+    "title": "Excluding the Supernatural",
+    "_id": "u6JzcFtPGiznFgDxP",
+    "slug": "excluding-the-supernatural"
+  },
+  {
+    "title": "What Do We Mean By \"Rationality\"",
+    "_id": "RcZCwxFiZzE6X7nsv",
+    "slug": "what-do-we-mean-by-rationality-1"
+  },
+  {
+    "title": "Scientific Self-Help: The State of Our Knowledge",
+    "_id": "33KewgYhNSxFpbpXg",
+    "slug": "scientific-self-help-the-state-of-our-knowledge"
+  },
+  {
+    "title": "Cached Selves",
+    "_id": "BHYBdijDcAKQ6e45Z",
+    "slug": "cached-selves"
+  },
+  {
+    "title": "Efficient Charity: Do Unto Others...",
+    "_id": "pC47ZTsPNAkjavkXs",
+    "slug": "efficient-charity-do-unto-others"
+  },
+  {
+    "title": "Making Beliefs Pay Rent (in Anticipated Experiences)",
+    "_id": "a7n8GdKiAZRX86T5A",
+    "slug": "making-beliefs-pay-rent-in-anticipated-experiences"
+  },
+  {
+    "title": "About Less Wrong",
+    "_id": "2om7AHEHtbogJmT5s",
+    "slug": "about-less-wrong"
+  },
+  {
+    "title": "Hindsight Devalues Science",
+    "_id": "WnheMGAka4fL99eae",
+    "slug": "hindsight-devalues-science"
+  },
+  {
+    "title": "Tsuyoku Naritai! (I Want To Become Stronger)",
+    "_id": "DoLQN5ryZ9XkZjq5h",
+    "slug": "tsuyoku-naritai-i-want-to-become-stronger"
+  },
+  {
+    "title": "Mysterious Answers to Mysterious Questions",
+    "_id": "6i3zToomS86oj9bS6",
+    "slug": "mysterious-answers-to-mysterious-questions"
+  },
+  {
+    "title": "Twelve Virtues of Rationality",
+    "_id": "7ZqGiPHTpiDMwqMN2",
+    "slug": "twelve-virtues-of-rationality"
+  },
+  {
+    "title": "Diseased thinking: dissolving questions about disease",
+    "_id": "895quRDaK6gR2rM82",
+    "slug": "diseased-thinking-dissolving-questions-about-disease"
+  },
+  {
+    "title": "Humans are not automatically strategic",
+    "_id": "PBRWb2Em5SNeWYwwB",
+    "slug": "humans-are-not-automatically-strategic"
+  },
+  {
+    "title": "Ugh Fields",
+    "_id": "EFQ3F6kmt4WHXRqik",
+    "slug": "ugh-fields"
+  },
+  {
+    "title": "Probability is in the Mind",
+    "_id": "f6ZLxEWaankRZ2Crv",
+    "slug": "probability-is-in-the-mind"
+  },
+  {
+    "title": "How An Algorithm Feels From Inside",
+    "_id": "yA4gF5KrboK2m2Xu7",
+    "slug": "how-an-algorithm-feels-from-inside"
+  },
+  {
+    "title": "Knowing About Biases Can Hurt People",
+    "_id": "AdYdLP2sRqPMoe8fb",
+    "slug": "knowing-about-biases-can-hurt-people"
+  },
+  {
+    "title": "A Fable of Science and Politics",
+    "_id": "6hfGNLf4Hg5DXqJCF",
+    "slug": "a-fable-of-science-and-politics"
+  },
+  {
+    "title": "Taboo Your Words",
+    "_id": "WBdvyyHLdxZSAMmoz",
+    "slug": "taboo-your-words"
+  },
+  {
+    "title": "The Fallacy of Gray",
+    "_id": "dLJv2CoRCgeC2mPgj",
+    "slug": "the-fallacy-of-gray"
+  },
+  {
+    "title": "Mind Projection Fallacy",
+    "_id": "ZTRiSNmeGQK8AkdN2",
+    "slug": "mind-projection-fallacy"
+  },
+  {
+    "title": "Reductionism",
+    "_id": "tPqQdLCuxanjhoaNs",
+    "slug": "reductionism"
+  },
+  {
+    "title": "Privileging the Hypothesis",
+    "_id": "X2AD2LgtKgkRNPj2a",
+    "slug": "privileging-the-hypothesis"
+  },
+  {
+    "title": "Conservation of Expected Evidence",
+    "_id": "jiBFC7DcCrZjGmZnJ",
+    "slug": "conservation-of-expected-evidence"
+  },
+  {
+    "title": "The Apologist and the Revolutionary",
+    "_id": "ZiQqsgGX6a42Sfpii",
+    "slug": "the-apologist-and-the-revolutionary"
+  },
+  {
+    "title": "Your Strength as a Rationalist",
+    "_id": "5JDkW4MYXit2CquLs",
+    "slug": "your-strength-as-a-rationalist"
+  },
+  {
+    "title": "Practical Advice Backed By Deep Theories",
+    "_id": "LqjKP255fPRY7aMzw",
+    "slug": "practical-advice-backed-by-deep-theories"
+  },
+  {
+    "title": "Scientific Evidence, Legal Evidence, Rational Evidence",
+    "_id": "fhojYBGGiYAFcryHZ",
+    "slug": "scientific-evidence-legal-evidence-rational-evidence"
+  },
+  {
+    "title": "Guessing the Teacher's Password",
+    "_id": "NMoLJuDJEms7Ku9XS",
+    "slug": "guessing-the-teacher-s-password"
+  },
+  {
+    "title": "The Sword of Good",
+    "_id": "XuLG6M7sHuenYWbfC",
+    "slug": "the-sword-of-good"
+  },
+  {
+    "title": "Fake Explanations",
+    "_id": "fysgqk4CjAwhBgNYT",
+    "slug": "fake-explanations"
+  },
+  {
+    "title": "The Proper Use of Humility",
+    "_id": "GrDqnMjhqoxiqpQPw",
+    "slug": "the-proper-use-of-humility"
+  },
+  {
+    "title": "\"What Is Wrong With Our Thoughts\"",
+    "_id": "EdyDGRLNFScEt5uDz",
+    "slug": "what-is-wrong-with-our-thoughts"
+  },
+  {
+    "title": "Doing your good deed for the day",
+    "_id": "r8stxYL29NF9w53am",
+    "slug": "doing-your-good-deed-for-the-day"
+  },
+  {
+    "title": "Beware Trivial Inconveniences",
+    "_id": "reitXJgJXFzKpdKyd",
+    "slug": "beware-trivial-inconveniences"
+  },
+  {
+    "title": "The Bias You Didn't Expect",
+    "_id": "L8dB6yoMEWofoeDNt",
+    "slug": "the-bias-you-didn-t-expect"
+  },
+  {
+    "title": "Hold Off On Proposing Solutions",
+    "_id": "uHYYA32CKgKT3FagE",
+    "slug": "hold-off-on-proposing-solutions"
+  },
+  {
+    "title": "Hindsight bias",
+    "_id": "fkM9XsNvXdYH6PPAx",
+    "slug": "hindsight-bias"
+  },
+  {
+    "title": "The Trouble With \"Good\"",
+    "_id": "M2LWXsJxKS626QNEA",
+    "slug": "the-trouble-with-good"
+  },
+  {
+    "title": "How to Not Lose an Argument",
+    "_id": "6yTShbTdtATxKonY5",
+    "slug": "how-to-not-lose-an-argument"
+  },
+  {
+    "title": "You're Entitled to Arguments, But Not (That Particular) Proof",
+    "_id": "vqbieD9PHG8RRJddu",
+    "slug": "you-re-entitled-to-arguments-but-not-that-particular-proof"
+  },
+  {
+    "title": "What's a Bias?",
+    "_id": "jnZbHi873v9vcpGpZ",
+    "slug": "what-s-a-bias"
+  },
+  {
+    "title": "Applause Lights",
+    "_id": "dLbkrPu5STNCBLRjr",
+    "slug": "applause-lights"
+  },
+  {
+    "title": "Explaining vs. Explaining Away",
+    "_id": "cphoF8naigLhRf3tu",
+    "slug": "explaining-vs-explaining-away"
+  },
+  {
+    "title": "Talking Snakes: A Cautionary Tale",
+    "_id": "atcJqdhCxTZiJSxo2",
+    "slug": "talking-snakes-a-cautionary-tale"
+  },
+  {
+    "title": "Reversed Stupidity Is Not Intelligence",
+    "_id": "qNZM3EGoE5ZeMdCRt",
+    "slug": "reversed-stupidity-is-not-intelligence"
+  },
+  {
+    "title": "Politics is the Mind-Killer",
+    "_id": "9weLK2AJ9JEt2Tt8f",
+    "slug": "politics-is-the-mind-killer"
+  },
+  {
+    "title": "Newcomb's Problem and Regret of Rationality",
+    "_id": "6ddcsdA2c2XpNpE5x",
+    "slug": "newcomb-s-problem-and-regret-of-rationality"
+  },
+  {
+    "title": "Semantic Stopsigns",
+    "_id": "FWMfQKG3RpZx6irjm",
+    "slug": "semantic-stopsigns"
+  },
+  {
+    "title": "Dissolving the Question",
+    "_id": "Mc6QcrsbH5NRXbCRX",
+    "slug": "dissolving-the-question"
+  },
+  {
+    "title": "Learned Blankness",
+    "_id": "puhPJimawPuNZ5wAR",
+    "slug": "learned-blankness"
+  },
+  {
+    "title": "Reason as memetic immune disorder",
+    "_id": "aHaqgTNnFzD7NGLMx",
+    "slug": "reason-as-memetic-immune-disorder"
+  },
+  {
+    "title": "Making your explicit reasoning trustworthy",
+    "_id": "m5AH78nscsGjMbBwv",
+    "slug": "making-your-explicit-reasoning-trustworthy"
+  },
+  {
+    "title": "Confidence levels inside and outside an argument",
+    "_id": "GrtbTAPfkJa4D6jjH",
+    "slug": "confidence-levels-inside-and-outside-an-argument"
+  },
+  {
+    "title": "Truly Part Of You",
+    "_id": "fg9fXrHpeaDD6pEPL",
+    "slug": "truly-part-of-you"
+  },
+  {
+    "title": "The 5-Second Level",
+    "_id": "JcpzFpPBSmzuksmWM",
+    "slug": "the-5-second-level"
+  },
+  {
+    "title": "Ureshiku Naritai",
+    "_id": "xnPFYBuaGhpq869mY",
+    "slug": "ureshiku-naritai"
+  },
+  {
+    "title": "Guilt: Another Gift Nobody Wants",
+    "_id": "CZnBQtvDw33rmWpBD",
+    "slug": "guilt-another-gift-nobody-wants"
+  },
+  {
+    "title": "How to Beat Procrastination",
+    "_id": "RWo4LwFzpHNQCTcYt",
+    "slug": "how-to-beat-procrastination"
+  },
+  {
+    "title": "Evaporative Cooling of Group Beliefs",
+    "_id": "ZQG9cwKbct2LtmL3p",
+    "slug": "evaporative-cooling-of-group-beliefs"
+  },
+  {
+    "title": "Occam's Razor",
+    "_id": "f4txACqDWithRi7hs",
+    "slug": "occam-s-razor"
+  },
+  {
+    "title": "Anchoring and Adjustment",
+    "_id": "bMkCEZoBNhgRBtzoj",
+    "slug": "anchoring-and-adjustment"
+  },
+  {
+    "title": "The Least Convenient Possible World",
+    "_id": "neQ7eXuaXpiYw7SBy",
+    "slug": "the-least-convenient-possible-world"
+  },
+  {
+    "title": "Scarcity",
+    "_id": "MCYp8g9EMAiTCTawk",
+    "slug": "scarcity"
+  },
+  {
+    "title": "The Neglected Virtue of Scholarship",
+    "_id": "64FdKLwmea8MCLWkE",
+    "slug": "the-neglected-virtue-of-scholarship"
+  },
+  {
+    "title": "Scholarship: How to Do It Efficiently",
+    "_id": "37sHjeisS9uJufi4u",
+    "slug": "scholarship-how-to-do-it-efficiently"
+  },
+  {
+    "title": "Excluding the Supernatural",
+    "_id": "u6JzcFtPGiznFgDxP",
+    "slug": "excluding-the-supernatural"
+  },
+  {
+    "title": "Joy in the Merely Real",
+    "_id": "x4dG4GhpZH2hgz59x",
+    "slug": "joy-in-the-merely-real"
+  },
+  {
+    "title": "Affective Death Spirals",
+    "_id": "XrzQW69HpidzvBxGr",
+    "slug": "affective-death-spirals"
+  },
+  {
+    "title": "The Lens That Sees Its Flaws",
+    "_id": "46qnWRSR7L2eyNbMA",
+    "slug": "the-lens-that-sees-its-flaws"
+  },
+  {
+    "title": "The Virtue of Narrowness",
+    "_id": "yDfxTj9TKYsYiWH5o",
+    "slug": "the-virtue-of-narrowness"
+  },
+  {
+    "title": "Generalizing From One Example",
+    "_id": "baTWMegR42PAsH9qJ",
+    "slug": "generalizing-from-one-example"
+  },
+  {
+    "title": "Belief in Belief",
+    "_id": "CqyJzDZWvGhhFJ7dY",
+    "slug": "belief-in-belief"
+  },
+  {
+    "title": "Beyond the Reach of God",
+    "_id": "sYgv4eYH82JEsTD34",
+    "slug": "beyond-the-reach-of-god"
+  },
+  {
+    "title": "Experiential Pica",
+    "_id": "9ZodFr54FtpLThHZh",
+    "slug": "experiential-pica"
+  },
+  {
+    "title": "Money: The Unit of Caring",
+    "_id": "ZpDnRCeef2CLEFeKM",
+    "slug": "money-the-unit-of-caring"
+  },
+  {
+    "title": "The Importance of Goodhart's Law",
+    "_id": "YtvZxRpZjcFNwJecS",
+    "slug": "the-importance-of-goodhart-s-law"
+  },
+  {
+    "title": "Policy Debates Should Not Appear One-Sided",
+    "_id": "PeSzc9JTBxhaYRp9b",
+    "slug": "policy-debates-should-not-appear-one-sided"
+  },
+  {
+    "title": "The mathematical universe: the map that is the territory",
+    "_id": "fZJRxYLtNNzpbWZAA",
+    "slug": "the-mathematical-universe-the-map-that-is-the-territory"
+  },
+  {
+    "title": "Beware of Other-Optimizing",
+    "_id": "6NvbSwuSAooQxxf7f",
+    "slug": "beware-of-other-optimizing"
+  },
+  {
+    "title": "A Much Better Life?",
+    "_id": "5Qvvi23WT2unNCoS9",
+    "slug": "a-much-better-life"
+  },
+  {
+    "title": "Less Wrong Rationality and Mainstream Philosophy",
+    "_id": "oTX2LXHqXqYg2u4g6",
+    "slug": "less-wrong-rationality-and-mainstream-philosophy"
+  },
+  {
+    "title": "Philosophy: A Diseased Discipline",
+    "_id": "FwiPfF8Woe5JrzqEu",
+    "slug": "philosophy-a-diseased-discipline"
+  },
+  {
+    "title": "Eight Short Studies On Excuses",
+    "_id": "gFMH3Cqw4XxwL69iy",
+    "slug": "eight-short-studies-on-excuses"
+  },
+  {
+    "title": "Fake Causality",
+    "_id": "RgkqLqkg8vLhsYpfh",
+    "slug": "fake-causality"
+  },
+  {
+    "title": "Chaotic Inversion",
+    "_id": "NyFtHycJvkyNjXNsP",
+    "slug": "chaotic-inversion"
+  },
+  {
+    "title": "Measuring aversion and habit strength",
+    "_id": "Fxv4o3LGEkgR2Qsz7",
+    "slug": "measuring-aversion-and-habit-strength"
+  },
+  {
+    "title": "Intellectual Hipsters and Meta-Contrarianism",
+    "_id": "9kcTNWopvXFncXgPy",
+    "slug": "intellectual-hipsters-and-meta-contrarianism"
+  },
+  {
+    "title": "Too busy to think about life",
+    "_id": "4psQW7vRwt7PE5Pnj",
+    "slug": "too-busy-to-think-about-life"
+  },
+  {
+    "title": "37 Ways That Words Can Be Wrong",
+    "_id": "FaJaCgqBKphrDzDSj",
+    "slug": "37-ways-that-words-can-be-wrong"
+  },
+  {
+    "title": "How to Be Happy",
+    "_id": "ZbgCx2ntD5eu8Cno9",
+    "slug": "how-to-be-happy"
+  },
+  {
+    "title": "Righting a Wrong Question",
+    "_id": "rQEwySCcLtdKHkrHp",
+    "slug": "righting-a-wrong-question"
+  },
+  {
+    "title": "Self-fulfilling correlations",
+    "_id": "XuyRMxky6G8gq7a69",
+    "slug": "self-fulfilling-correlations"
+  },
+  {
+    "title": "Why Truth?",
+    "_id": "YshRbqZHYFoEMqFAu",
+    "slug": "why-truth"
+  },
+  {
+    "title": "You Only Live Twice",
+    "_id": "yKXKcyoBzWtECzXrE",
+    "slug": "you-only-live-twice"
+  },
+  {
+    "title": "Less Wrong NYC: Case Study of a Successful Rationalist Chapter",
+    "_id": "CsKboswS3z5iaiutC",
+    "slug": "less-wrong-nyc-case-study-of-a-successful-rationalist"
+  },
+  {
+    "title": "Outside the Laboratory",
+    "_id": "N2pENnTPB75sfc9kb",
+    "slug": "outside-the-laboratory"
+  },
+  {
+    "title": "Raising the Sanity Waterline",
+    "_id": "XqmjdBKa4ZaXJtNmf",
+    "slug": "raising-the-sanity-waterline"
+  },
+  {
+    "title": "Twelve Virtues of Rationality",
+    "_id": "7ZqGiPHTpiDMwqMN2",
+    "slug": "twelve-virtues-of-rationality"
+  },
+  {
+    "title": "Diseased thinking: dissolving questions about disease",
+    "_id": "895quRDaK6gR2rM82",
+    "slug": "diseased-thinking-dissolving-questions-about-disease"
+  },
+  {
+    "title": "Self-fulfilling correlations",
+    "_id": "XuyRMxky6G8gq7a69",
+    "slug": "self-fulfilling-correlations"
+  },
+  {
+    "title": "Probability is in the Mind",
+    "_id": "f6ZLxEWaankRZ2Crv",
+    "slug": "probability-is-in-the-mind"
+  },
+  {
+    "title": "You're Entitled to Arguments, But Not (That Particular) Proof",
+    "_id": "vqbieD9PHG8RRJddu",
+    "slug": "you-re-entitled-to-arguments-but-not-that-particular-proof"
+  },
+  {
+    "title": "Efficient Charity: Do Unto Others...",
+    "_id": "pC47ZTsPNAkjavkXs",
+    "slug": "efficient-charity-do-unto-others"
+  },
+  {
+    "title": "Newcomb's Problem and Regret of Rationality",
+    "_id": "6ddcsdA2c2XpNpE5x",
+    "slug": "newcomb-s-problem-and-regret-of-rationality"
+  },
+  {
+    "title": "Occam's Razor",
+    "_id": "f4txACqDWithRi7hs",
+    "slug": "occam-s-razor"
+  },
+  {
+    "title": "Confidence levels inside and outside an argument",
+    "_id": "GrtbTAPfkJa4D6jjH",
+    "slug": "confidence-levels-inside-and-outside-an-argument"
+  },
+  {
+    "title": "The Apologist and the Revolutionary",
+    "_id": "ZiQqsgGX6a42Sfpii",
+    "slug": "the-apologist-and-the-revolutionary"
+  },
+  {
+    "title": "Beyond the Reach of God",
+    "_id": "sYgv4eYH82JEsTD34",
+    "slug": "beyond-the-reach-of-god"
+  },
+  {
+    "title": "The mathematical universe: the map that is the territory",
+    "_id": "fZJRxYLtNNzpbWZAA",
+    "slug": "the-mathematical-universe-the-map-that-is-the-territory"
+  },
+  {
+    "title": "That Alien Message",
+    "_id": "5wMcKNAwB6X4mp9og",
+    "slug": "that-alien-message"
+  },
+  {
+    "title": "A Much Better Life?",
+    "_id": "5Qvvi23WT2unNCoS9",
+    "slug": "a-much-better-life"
+  }
+]

@@ -2,7 +2,8 @@ import fs from "fs";
 import { Book } from "./books";
 import { Collection } from "./collections";
 import { Jargon } from "./jargon";
-import { Post } from "./post";
+import { loadOrder } from "./orders";
+import { Post } from "./posts";
 import { Sequence } from "./sequences";
 import { Tag } from "./tags";
 
@@ -56,6 +57,10 @@ export class DB {
         return this.collections.find(collection => (_id && collection._id === _id) || collection.title === title)
     }
   
+    order(name: "academian" | "jimrandomh" | "xixidu") {
+        return loadOrder(name);
+    }
+
     get jargon() {
         return JSON.parse(fs.readFileSync('data/jargon.json', 'utf8')) as Jargon[]
     }

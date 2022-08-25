@@ -6,7 +6,7 @@
 
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import { Post } from "./post";
+import { Post } from "./posts";
 
 
 export interface Jargon {
