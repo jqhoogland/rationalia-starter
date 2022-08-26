@@ -1,6 +1,6 @@
 ---
 title: Moore's Law
-href: https://lesswrong.com/tags/moores-law
+href: https://lesswrong.com/tag/moores-law
 type: tag
 tags:
   - LessWrong
@@ -12,7 +12,7 @@ tags:
 
 Though current CMOS technology is predicted to be nonviable below a certain size, many other technologies offer the potential for far greater miniaturization. This may delay Moore's law temporarily while the new technologies enter full-scale production. An end to Moore's law has often been predicted, but has failed to materialize so far.
 
-Moore's law is often cited as a reason to expect the creation of an [AGI](https://wiki.lesswrong.com/wiki/AGI) in the future, and is crucial for the possibility of [whole brain emulation](https://www.lesswrong.com/tag/whole-brain-emulation).
+Moore's law is often cited as a reason to expect the creation of an [AGI](https://wiki.lesswrong.com/wiki/AGI) in the future, and is crucial for the possibility of [[Whole Brain Emulation|whole brain emulation]].
 
 References
 ----------

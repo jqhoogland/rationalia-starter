@@ -1,6 +1,6 @@
 ---
 title: Transformers
-href: https://lesswrong.com/tags/transformers
+href: https://lesswrong.com/tag/transformers
 type: tag
 tags:
   - LessWrong

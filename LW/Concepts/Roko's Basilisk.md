@@ -1,6 +1,6 @@
 ---
 title: Roko's Basilisk
-href: https://lesswrong.com/tags/rokos-basilisk
+href: https://lesswrong.com/tag/rokos-basilisk
 type: tag
 tags:
   - LessWrong

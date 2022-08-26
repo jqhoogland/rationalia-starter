@@ -1,6 +1,6 @@
 ---
 title: Problem of Old Evidence
-href: https://lesswrong.com/tags/problem-of-old-evidence
+href: https://lesswrong.com/tag/problem-of-old-evidence
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Project Announcement
-href: https://lesswrong.com/tags/project-announcement
+href: https://lesswrong.com/tag/project-announcement
 type: tag
 tags:
   - LessWrong

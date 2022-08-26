@@ -1,6 +1,6 @@
 ---
 title: Leverage Research
-href: https://lesswrong.com/tags/leverage-research
+href: https://lesswrong.com/tag/leverage-research
 type: tag
 tags:
   - LessWrong

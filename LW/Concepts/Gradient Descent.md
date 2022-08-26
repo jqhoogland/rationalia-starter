@@ -1,6 +1,6 @@
 ---
 title: Gradient Descent
-href: https://lesswrong.com/tags/gradient-descent
+href: https://lesswrong.com/tag/gradient-descent
 type: tag
 tags:
   - LessWrong

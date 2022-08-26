@@ -1,6 +1,6 @@
 ---
 title: NSFW
-href: https://lesswrong.com/tags/nsfw
+href: https://lesswrong.com/tag/nsfw
 type: tag
 tags:
   - LessWrong

@@ -99,7 +99,7 @@ export const tagsToMD = async () => {
             "---\n"
             + yaml.dump({
                 title: tag.name,
-                href: `https://lesswrong.com/tags/${tag.slug}`,
+                href: `https://lesswrong.com/tag/${tag.slug}`,
                 type: "tag",
                 tags: [
                     "LessWrong",

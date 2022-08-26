@@ -1,6 +1,6 @@
 ---
 title: PaLM
-href: https://lesswrong.com/tags/palm
+href: https://lesswrong.com/tag/palm
 type: tag
 tags:
   - LessWrong

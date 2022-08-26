@@ -1,6 +1,6 @@
 ---
 title: Flashcards
-href: https://lesswrong.com/tags/flashcards
+href: https://lesswrong.com/tag/flashcards
 type: tag
 tags:
   - LessWrong

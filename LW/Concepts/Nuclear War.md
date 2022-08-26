@@ -1,6 +1,6 @@
 ---
 title: Nuclear War
-href: https://lesswrong.com/tags/nuclear-war
+href: https://lesswrong.com/tag/nuclear-war
 type: tag
 tags:
   - LessWrong

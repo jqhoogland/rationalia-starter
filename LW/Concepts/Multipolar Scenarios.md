@@ -1,6 +1,6 @@
 ---
 title: Multipolar Scenarios
-href: https://lesswrong.com/tags/multipolar-scenarios
+href: https://lesswrong.com/tag/multipolar-scenarios
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Prompt Engineering
-href: https://lesswrong.com/tags/prompt-engineering
+href: https://lesswrong.com/tag/prompt-engineering
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Audio
-href: https://lesswrong.com/tags/audio
+href: https://lesswrong.com/tag/audio
 type: tag
 tags:
   - LessWrong
@@ -13,4 +13,4 @@ Posts that you can also listen to.  Authors: please link your audio narration o
 **Sequences:**  
 Ruby's [Wedding Ceremony](https://www.lesswrong.com/s/k2fboiMkdfbCdgFzx)
 
-**Related Pages:** [List of Podcasts](https://www.lesswrong.com/tag/list-of-podcasts)
+**Related Pages:** [[List of Podcasts]]

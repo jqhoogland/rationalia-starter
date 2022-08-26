@@ -1,6 +1,6 @@
 ---
 title: Transformer Circuits
-href: https://lesswrong.com/tags/transformer-circuits
+href: https://lesswrong.com/tag/transformer-circuits
 type: tag
 tags:
   - LessWrong

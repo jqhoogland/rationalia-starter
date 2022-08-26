@@ -1,6 +1,6 @@
 ---
 title: Air Quality
-href: https://lesswrong.com/tags/air-quality
+href: https://lesswrong.com/tag/air-quality
 type: tag
 tags:
   - LessWrong

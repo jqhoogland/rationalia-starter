@@ -1,6 +1,6 @@
 ---
 title: Language Models
-href: https://lesswrong.com/tags/language-models
+href: https://lesswrong.com/tag/language-models
 type: tag
 tags:
   - LessWrong
@@ -12,4 +12,4 @@ tags:
 
 ### See also
 
-*   [GPT](https://www.lesswrong.com/tag/gpt) \- A family of large language models created by [[OpenAI]]
+*   [[GPT]] \- A family of large language models created by [[OpenAI]]

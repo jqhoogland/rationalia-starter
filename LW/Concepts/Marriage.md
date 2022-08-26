@@ -1,6 +1,6 @@
 ---
 title: Marriage
-href: https://lesswrong.com/tags/marriage
+href: https://lesswrong.com/tag/marriage
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: AI Success Models
-href: https://lesswrong.com/tags/ai-success-models
+href: https://lesswrong.com/tag/ai-success-models
 type: tag
 tags:
   - LessWrong

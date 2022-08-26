@@ -1,6 +1,6 @@
 ---
 title: Epistemic Luck
-href: https://lesswrong.com/tags/epistemic-luck
+href: https://lesswrong.com/tag/epistemic-luck
 type: tag
 tags:
   - LessWrong

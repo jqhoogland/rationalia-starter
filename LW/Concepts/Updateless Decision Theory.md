@@ -1,6 +1,6 @@
 ---
 title: Updateless Decision Theory
-href: https://lesswrong.com/tags/updateless-decision-theory
+href: https://lesswrong.com/tag/updateless-decision-theory
 type: tag
 tags:
   - LessWrong
@@ -11,7 +11,7 @@ tags:
 Motivation
 ----------
 
-**Updateless Decision Theory** (UDT) is a decision theory meant to deal with a fundamental problem in the existing decision theories: the need to treat the agent as a part of the world in which it makes its decisions. In contrast, in the most common decision theory today, [[Causal Decision Theory|Causal Decision Theory]] (CDT), the deciding agent is not part of the world model--its decision is the output of the CDT, but the agent's decision in the world context is "magic": in the moment of deciding, no causal links feed into its chosen action. It acts as though its decision was causeless, as in some dualist free-will theories.
+**Updateless Decision Theory** (UDT) is a decision theory meant to deal with a fundamental problem in the existing decision theories: the need to treat the agent as a part of the world in which it makes its decisions. In contrast, in the most common decision theory today, [[Causal Decision Theory]] (CDT), the deciding agent is not part of the world model--its decision is the output of the CDT, but the agent's decision in the world context is "magic": in the moment of deciding, no causal links feed into its chosen action. It acts as though its decision was causeless, as in some dualist free-will theories.
 
 Getting this issue right is critical in building a self-improving artificial general intelligence, as such an AI must analyze its own behavior and that of a next generation that it may build.
 
@@ -20,12 +20,12 @@ Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/u
 See also
 --------
 
-*   [Timeless decision theory](https://www.lesswrong.com/tag/timeless-decision-theory)
+*   [[Timeless Decision Theory|Timeless decision theory]]
 *   [[Ambient Decision Theory|Ambient decision theory]]
-*   [Counterfactual mugging](https://www.lesswrong.com/tag/counterfactual-mugging)
+*   [[Counterfactual Mugging|Counterfactual mugging]]
 *   [[Decision Theory|Decision theory]]
 *   [Functional Decision Theory](https://www.lesswrong.com/posts/AGAGgoWymRhJ5Rqyv/functional-decision-theory-a-new-theory-of-instrumental)
-*   [[Embedded Agency|Embedded Agency]]
+*   [[Embedded Agency]]
 
 Content
 -------
@@ -38,7 +38,7 @@ Evidential Decision Theory is the other leading decision theory today. It says t
 
 One valuable insight from EDT is reflected in "UDT 1.1" (see article by McAllister in references), a variant of UDT in which the agent takes into account that some of its algorithm (mapping from observations to actions) may be prespecified and not entirely in its control, so that it has to gather evidence and draw conclusions about part of its own mental makeup. The difference between UDT 1.0 and 1.1 is that UDT 1.1 iterates over policies, whereas UDT 1.0 iterates over actions. 
 
-Both UDT and [[Timeless Decision Theory|Timeless Decision Theory]] (TDT) make decisions on the basis of what you would have pre-committed to. The difference is that UDT asks what you would have pre-committed to without the benefit of any observations you have made about the universe, while TDT asks what you would have pre-committed to give all information you've observed so far. This means that UDT pays in [Counterfactual Mugging](https://www.lesswrong.com/tag/counterfactual-mugging), while TDT does not.
+Both UDT and [[Timeless Decision Theory]] (TDT) make decisions on the basis of what you would have pre-committed to. The difference is that UDT asks what you would have pre-committed to without the benefit of any observations you have made about the universe, while TDT asks what you would have pre-committed to give all information you've observed so far. This means that UDT pays in [[Counterfactual Mugging]], while TDT does not.
 
 UDT is very similar to Functional Decision Theory (FDT), but there are differences. FDT doesn't include the UDT1.1 fix and Nate Soares [states](https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory?commentId=LzPH8utKGSf97NihW): "Wei Dai doesn't endorse FDT's focus on causal-graph-style counterpossible reasoning; IIRC he's holding out for an approach to counterpossible reasoning that falls out of evidential-style conditioning on a logically uncertain distribution". Rob Bensinger says that he's heard UDT described as "FDT + a theory of anthropics".
 

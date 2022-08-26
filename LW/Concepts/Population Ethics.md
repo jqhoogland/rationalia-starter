@@ -1,6 +1,6 @@
 ---
 title: Population Ethics
-href: https://lesswrong.com/tags/population-ethics
+href: https://lesswrong.com/tag/population-ethics
 type: tag
 tags:
   - LessWrong

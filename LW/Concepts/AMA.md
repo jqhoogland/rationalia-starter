@@ -1,6 +1,6 @@
 ---
 title: AMA
-href: https://lesswrong.com/tags/ama
+href: https://lesswrong.com/tag/ama
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 An **Ask Me Anything (AMA)** post is an invitation to ask the author questions. 
 
-See also: [[Q&A (format)]], [Interviews](https://www.lesswrong.com/tag/interviews)
+See also: [[Q&A (format)]], [[Interviews]]

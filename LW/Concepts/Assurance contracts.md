@@ -1,6 +1,6 @@
 ---
 title: Assurance contracts
-href: https://lesswrong.com/tags/assurance-contracts
+href: https://lesswrong.com/tag/assurance-contracts
 type: tag
 tags:
   - LessWrong
@@ -14,4 +14,4 @@ Assurance Contracts, at least in theory, are useful coordination tools for probl
 
 There's has been much discussion on LessWrong about creating software tools that let people coordinate with assurance contracts. there were already a few similar attempts outside of the community, but it is generally agreed on LW that these tools aren't good enough yet.
 
-**Related pages:** [[Commitment Mechanisms|Commitment Mechanisms]], [Pre-Commitment](https://www.lesswrong.com/tag/pre-commitment), [[Coordination / Cooperation|Coordination / Cooperation]]
+**Related pages:** [[Commitment Mechanisms]], [[Pre-Commitment]], [[Coordination / Cooperation]]

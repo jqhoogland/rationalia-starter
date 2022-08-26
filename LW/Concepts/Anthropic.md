@@ -1,6 +1,6 @@
 ---
 title: Anthropic
-href: https://lesswrong.com/tags/anthropic
+href: https://lesswrong.com/tag/anthropic
 type: tag
 tags:
   - LessWrong

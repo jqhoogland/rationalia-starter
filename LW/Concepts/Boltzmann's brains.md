@@ -1,6 +1,6 @@
 ---
 title: Boltzmann's brains
-href: https://lesswrong.com/tags/boltzmann-s-brains
+href: https://lesswrong.com/tag/boltzmann-s-brains
 type: tag
 tags:
   - LessWrong

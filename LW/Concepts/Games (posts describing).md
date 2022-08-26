@@ -1,6 +1,6 @@
 ---
 title: Games (posts describing)
-href: https://lesswrong.com/tags/games-posts-describing
+href: https://lesswrong.com/tag/games-posts-describing
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 Games for and by lesswrongers.
 
-**Related Pages:** [[Exercises / Problem-Sets|Exercises / Problem-Sets]]
+**Related Pages:** [[Exercises / Problem-Sets]]

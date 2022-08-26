@@ -1,6 +1,6 @@
 ---
 title: Modularity
-href: https://lesswrong.com/tags/modularity
+href: https://lesswrong.com/tag/modularity
 type: tag
 tags:
   - LessWrong

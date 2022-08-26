@@ -1,6 +1,6 @@
 ---
 title: Redwood Research
-href: https://lesswrong.com/tags/redwood-research
+href: https://lesswrong.com/tag/redwood-research
 type: tag
 tags:
   - LessWrong

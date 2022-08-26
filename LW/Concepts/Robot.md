@@ -1,6 +1,6 @@
 ---
 title: Robot
-href: https://lesswrong.com/tags/robot
+href: https://lesswrong.com/tag/robot
 type: tag
 tags:
   - LessWrong
@@ -240,7 +240,7 @@ Features that a debate tool should have
     *   Export as a diagram (automatically layed out, perhaps by graphviz)
     *   Export as a bayes net (in possibly several bayes net formats)
     *   Export as a machine-checkable proof (in possibly several formats)
-*   from [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky):
+*   from [[Eliezer Yudkowsky]]:
     *   prevents online arguments from retracing the same points over and over.
     *   not just graphical with boxes, because that makes poor use of screen real estate.
     *   not have lots of fancy argument types and patterns, because no one really uses that stuff
@@ -259,5 +259,5 @@ See also
 ========
 
 *   [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools)
-*   [Prediction market](https://www.lesswrong.com/tag/prediction-markets)
+*   [[Prediction Markets|Prediction market]]
 *   [[Predictionbook|PredictionBook]]

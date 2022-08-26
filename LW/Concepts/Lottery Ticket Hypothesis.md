@@ -1,6 +1,6 @@
 ---
 title: Lottery Ticket Hypothesis
-href: https://lesswrong.com/tags/lottery-ticket-hypothesis
+href: https://lesswrong.com/tag/lottery-ticket-hypothesis
 type: tag
 tags:
   - LessWrong

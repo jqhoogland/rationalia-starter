@@ -1,6 +1,6 @@
 ---
 title: Naturalism
-href: https://lesswrong.com/tags/naturalism
+href: https://lesswrong.com/tag/naturalism
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Journalism
-href: https://lesswrong.com/tags/journalism
+href: https://lesswrong.com/tag/journalism
 type: tag
 tags:
   - LessWrong

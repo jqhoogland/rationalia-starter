@@ -1,6 +1,6 @@
 ---
 title: Repository
-href: https://lesswrong.com/tags/repository-1
+href: https://lesswrong.com/tag/repository-1
 type: tag
 tags:
   - LessWrong

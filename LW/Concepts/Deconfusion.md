@@ -1,6 +1,6 @@
 ---
 title: Deconfusion
-href: https://lesswrong.com/tags/deconfusion
+href: https://lesswrong.com/tag/deconfusion
 type: tag
 tags:
   - LessWrong

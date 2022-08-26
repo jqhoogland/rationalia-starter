@@ -1,6 +1,6 @@
 ---
 title: Charter Schools
-href: https://lesswrong.com/tags/charter-schools
+href: https://lesswrong.com/tag/charter-schools
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Transformative AI
-href: https://lesswrong.com/tags/transformative-ai
+href: https://lesswrong.com/tag/transformative-ai
 type: tag
 tags:
   - LessWrong
@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-**Transformative AI** is "\[...\] AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution."^[\[1\]](#fnhy8b4kflu8)^ The concept refers to the large effects of AI systems on our well-being, the global economy, state power, international security, etc. and not to specific capabilities that AI might have (unlike the related terms [[Superintelligence|Superintelligent AI]] and [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence)).
+**Transformative AI** is "\[...\] AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution."^[\[1\]](#fnhy8b4kflu8)^ The concept refers to the large effects of AI systems on our well-being, the global economy, state power, international security, etc. and not to specific capabilities that AI might have (unlike the related terms [[Superintelligence|Superintelligent AI]] and [[Artificial General Intelligence]]).
 
 Holden Karnofsky gives a more detailed definition in [another OpenPhil 2016 post](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/):
 

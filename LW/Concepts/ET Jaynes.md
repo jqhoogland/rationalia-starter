@@ -1,6 +1,6 @@
 ---
 title: ET Jaynes
-href: https://lesswrong.com/tags/et-jaynes
+href: https://lesswrong.com/tag/et-jaynes
 type: tag
 tags:
   - LessWrong

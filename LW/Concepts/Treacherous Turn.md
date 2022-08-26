@@ -1,6 +1,6 @@
 ---
 title: Treacherous Turn
-href: https://lesswrong.com/tags/treacherous-turn
+href: https://lesswrong.com/tag/treacherous-turn
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Conceptual Media
-href: https://lesswrong.com/tags/conceptual-media
+href: https://lesswrong.com/tag/conceptual-media
 type: tag
 tags:
   - LessWrong

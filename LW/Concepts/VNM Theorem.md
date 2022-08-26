@@ -1,6 +1,6 @@
 ---
 title: VNM Theorem
-href: https://lesswrong.com/tags/vnm-theorem
+href: https://lesswrong.com/tag/vnm-theorem
 type: tag
 tags:
   - LessWrong
@@ -21,4 +21,4 @@ The four VNM axioms are:
 3.  **Continuity.** If \\(A \\leq{} B \\leq{} C\\), then there exists a probability \\(p \\in{} \[0,1\]\\) such that  \\(pA+(1-p)C \\sim{} B\\). In other words, there is a probability which hits any point between two gambles.
 4.  **Independence.** For any \\(C\\) and \\(p \\in{} \[0,1\]\\), we have \\(A \\leq{} B\\) if and only if \\(pA + (1-p)C \\leq{} pB + (1-p)C\\). In other words, substituting \\(A\\) for \\(B\\) in any gamble can't make that gamble worth less.
 
-In contrast to [[Utility Functions|Utility Functions]], this tag focuses *specifically* on posts which discuss the VNM theorem itself.
+In contrast to [[Utility Functions]], this tag focuses *specifically* on posts which discuss the VNM theorem itself.

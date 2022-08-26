@@ -1,6 +1,6 @@
 ---
 title: AI Alignment Fieldbuilding
-href: https://lesswrong.com/tags/ai-alignment-fieldbuilding
+href: https://lesswrong.com/tag/ai-alignment-fieldbuilding
 type: tag
 tags:
   - LessWrong

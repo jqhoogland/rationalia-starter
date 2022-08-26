@@ -1,6 +1,6 @@
 ---
 title: Symbol Grounding
-href: https://lesswrong.com/tags/symbol-grounding
+href: https://lesswrong.com/tag/symbol-grounding
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 **Symbol Grounding**
 
-**Related Pages:** [[Truth, Semantics, & Meaning]], [Philosophy of Language](https://www.lesswrong.com/tag/philosophy-of-language)
+**Related Pages:** [[Truth, Semantics, & Meaning]], [[Philosophy of Language]]

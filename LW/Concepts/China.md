@@ -1,6 +1,6 @@
 ---
 title: China
-href: https://lesswrong.com/tags/china
+href: https://lesswrong.com/tag/china
 type: tag
 tags:
   - LessWrong

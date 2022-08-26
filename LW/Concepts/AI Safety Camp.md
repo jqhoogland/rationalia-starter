@@ -1,6 +1,6 @@
 ---
 title: AI Safety Camp
-href: https://lesswrong.com/tags/ai-safety-camp
+href: https://lesswrong.com/tag/ai-safety-camp
 type: tag
 tags:
   - LessWrong

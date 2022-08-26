@@ -1,6 +1,6 @@
 ---
 title: Domain Theory
-href: https://lesswrong.com/tags/domain-theory
+href: https://lesswrong.com/tag/domain-theory
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Using AI to solve Alignment
-href: https://lesswrong.com/tags/using-ai-to-solve-alignment
+href: https://lesswrong.com/tag/using-ai-to-solve-alignment
 type: tag
 tags:
   - LessWrong

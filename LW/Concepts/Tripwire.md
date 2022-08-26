@@ -1,6 +1,6 @@
 ---
 title: Tripwire
-href: https://lesswrong.com/tags/tripwire
+href: https://lesswrong.com/tag/tripwire
 type: tag
 tags:
   - LessWrong

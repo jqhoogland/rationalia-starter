@@ -1,6 +1,6 @@
 ---
 title: Spurious Counterfactuals
-href: https://lesswrong.com/tags/spurious-counterfactuals
+href: https://lesswrong.com/tag/spurious-counterfactuals
 type: tag
 tags:
   - LessWrong

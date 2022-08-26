@@ -1,6 +1,6 @@
 ---
 title: Dementia
-href: https://lesswrong.com/tags/dementia
+href: https://lesswrong.com/tag/dementia
 type: tag
 tags:
   - LessWrong

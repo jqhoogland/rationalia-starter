@@ -1,6 +1,6 @@
 ---
 title: AI Persuasion
-href: https://lesswrong.com/tags/ai-persuasion
+href: https://lesswrong.com/tag/ai-persuasion
 type: tag
 tags:
   - LessWrong

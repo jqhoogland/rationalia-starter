@@ -1,6 +1,6 @@
 ---
 title: Illusion of Transparency
-href: https://lesswrong.com/tags/illusion-of-transparency
+href: https://lesswrong.com/tag/illusion-of-transparency
 type: tag
 tags:
   - LessWrong
@@ -14,9 +14,9 @@ Related Pages
 --------------
 
 *   [[Inferential Distance|Inferential distance]]
-*   [Detached lever fallacy](https://www.lesswrong.com/tag/detached-lever-fallacy)
+*   [[Detached Lever Fallacy|Detached lever fallacy]]
 *   [[Absurdity Heuristic|Absurdity heuristic]]
-*   [Mind projection fallacy](https://www.lesswrong.com/tag/mind-projection-fallacy)
+*   [[Mind Projection Fallacy|Mind projection fallacy]]
 
 External Links
 --------------

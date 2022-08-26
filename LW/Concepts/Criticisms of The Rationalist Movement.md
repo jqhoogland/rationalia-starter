@@ -1,6 +1,6 @@
 ---
 title: Criticisms of The Rationalist Movement
-href: https://lesswrong.com/tags/criticisms-of-the-rationalist-movement
+href: https://lesswrong.com/tag/criticisms-of-the-rationalist-movement
 type: tag
 tags:
   - LessWrong
@@ -13,7 +13,7 @@ tags:
 Cult of Rationality
 -------------------
 
-Less Wrong has been referred to as a [[Phyg|~cult~ phyg]] on numerous occasions,[^1^](#fn1)[^2^](#fn2)[^3^](#fn3) with [[Eliezer Yudkowsky|Eliezer Yudkowsky]] as its leader. Eliezer's confidence in his AI safety work outside of mainstream academia and self-professed intelligence renders him highly unpopular with his critics.[^4^](#fn4)
+Less Wrong has been referred to as a [[Phyg|~cult~ phyg]] on numerous occasions,[^1^](#fn1)[^2^](#fn2)[^3^](#fn3) with [[Eliezer Yudkowsky]] as its leader. Eliezer's confidence in his AI safety work outside of mainstream academia and self-professed intelligence renders him highly unpopular with his critics.[^4^](#fn4)
 
 Neoreaction
 -----------
@@ -23,7 +23,7 @@ The Neoreaction movement,[^5^](#fn5) is a notoriously adjacent idea to the commu
 Rationalism
 -----------
 
-The movement has been criticized as overemphasizing [[Induction|inductive reasoning]] over [empiricism](https://www.lesswrong.com/tag/empiricism),[^11^](#fn11) a criticism that has been refuted by [Scott Alexander](https://www.lesswrong.com/tag/scott-alexander).[^12^](#fn12)
+The movement has been criticized as overemphasizing [[Induction|inductive reasoning]] over [[Empiricism|empiricism]],[^11^](#fn11) a criticism that has been refuted by [[Scott Alexander]].[^12^](#fn12)
 
 Roko's basilisk
 ---------------
@@ -33,7 +33,7 @@ The [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk) thought e
 Transhumanism
 -------------
 
-Less Wrong's community was partially founded by soliciting users from the transhumanist [SL4](https://hpluspedia.org/wiki/SL4#cite_note-1) mailing list and [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky) is himself a prominent transhumanist.
+Less Wrong's community was partially founded by soliciting users from the transhumanist [SL4](https://hpluspedia.org/wiki/SL4#cite_note-1) mailing list and [[Eliezer Yudkowsky]] is himself a prominent transhumanist.
 
 As such, the fringe nature of transhumanist ideas such as [[Cryonics|cryonics]], AGI takeover[^15^](#fn15) has met with continued scorn from the skeptics based at [RationalWiki](https://wiki.lesswrong.com/wiki/RationalWiki).[^16^](#fn16)
 

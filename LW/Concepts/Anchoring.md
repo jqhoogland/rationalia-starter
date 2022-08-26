@@ -1,6 +1,6 @@
 ---
 title: Anchoring
-href: https://lesswrong.com/tags/anchoring
+href: https://lesswrong.com/tag/anchoring
 type: tag
 tags:
   - LessWrong

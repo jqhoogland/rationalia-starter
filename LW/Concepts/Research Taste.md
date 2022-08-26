@@ -1,6 +1,6 @@
 ---
 title: Research Taste
-href: https://lesswrong.com/tags/research-taste
+href: https://lesswrong.com/tag/research-taste
 type: tag
 tags:
   - LessWrong

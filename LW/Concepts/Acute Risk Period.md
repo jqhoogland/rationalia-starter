@@ -1,6 +1,6 @@
 ---
 title: Acute Risk Period
-href: https://lesswrong.com/tags/acute-risk-period
+href: https://lesswrong.com/tag/acute-risk-period
 type: tag
 tags:
   - LessWrong

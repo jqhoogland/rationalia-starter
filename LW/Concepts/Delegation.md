@@ -1,6 +1,6 @@
 ---
 title: Delegation
-href: https://lesswrong.com/tags/delegation
+href: https://lesswrong.com/tag/delegation
 type: tag
 tags:
   - LessWrong

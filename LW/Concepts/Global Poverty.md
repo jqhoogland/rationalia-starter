@@ -1,6 +1,6 @@
 ---
 title: Global Poverty
-href: https://lesswrong.com/tags/global-poverty
+href: https://lesswrong.com/tag/global-poverty
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Unbounded Utilities
-href: https://lesswrong.com/tags/unbounded-utilities
+href: https://lesswrong.com/tag/unbounded-utilities
 type: tag
 tags:
   - LessWrong

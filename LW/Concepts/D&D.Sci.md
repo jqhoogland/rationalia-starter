@@ -1,6 +1,6 @@
 ---
 title: D&D.Sci
-href: https://lesswrong.com/tags/d-and-d-sci
+href: https://lesswrong.com/tag/d-and-d-sci
 type: tag
 tags:
   - LessWrong

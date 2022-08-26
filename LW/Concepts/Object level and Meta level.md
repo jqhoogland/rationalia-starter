@@ -1,6 +1,6 @@
 ---
 title: Object level and Meta level
-href: https://lesswrong.com/tags/object-level-and-meta-level
+href: https://lesswrong.com/tag/object-level-and-meta-level
 type: tag
 tags:
   - LessWrong

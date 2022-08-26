@@ -1,6 +1,6 @@
 ---
 title: Astrobiology
-href: https://lesswrong.com/tags/astrobiology
+href: https://lesswrong.com/tag/astrobiology
 type: tag
 tags:
   - LessWrong

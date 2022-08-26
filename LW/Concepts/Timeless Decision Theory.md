@@ -1,6 +1,6 @@
 ---
 title: Timeless Decision Theory
-href: https://lesswrong.com/tags/timeless-decision-theory
+href: https://lesswrong.com/tag/timeless-decision-theory
 type: tag
 tags:
   - LessWrong
@@ -10,7 +10,7 @@ tags:
 
 **Timeless decision theory** (TDT) is a [[Decision Theory|decision theory]], [developed by Eliezer Yudkowsky](http://intelligence.org/files/TDT.pdf) which, in slogan form, says that agents should decide as if they are determining the output of the abstract computation that they implement. This theory was developed in response to the view that rationality should be about winning (that is, about agents achieving their desired ends) rather than about behaving in a manner that we would intuitively label as rational. Prominent existing decision theories (including [[Causal Decision Theory|causal decision theory]], or CDT) fail to choose the winning decision in some scenarios and so there is a need to develop a more successful theory.
 
-Timeless Decision Theory has been replaced by [Functional Decision Theory](https://www.lesswrong.com/tag/functional-decision-theory)
+Timeless Decision Theory has been replaced by [[Functional Decision Theory]]
 ------------------------------------------------------------------------------------------------------------------------------------
 
 <more needed>
@@ -27,7 +27,7 @@ TDT will endorse one-boxing in this scenario and hence endorses the winning deci
 TDT and other decision scenarios
 --------------------------------
 
-TDT also wins in a range of other cases including [medical Newcomb's problems](https://www.lesswrong.com/tag/smoking-lesion), [Parfit's hitchhiker](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/), and [the one-shot prisoners' dilemma](https://www.lesswrong.com/tag/prisoner-s-dilemma). However, there are [other scenarios](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) where TDT does not win, including [counterfactual mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/). This suggests that TDT still requires further development if it is to become a fully adequate decision theory. Given this, there is some motivation to also consider alternative decision theories alongside TDT, like [updateless decision theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) (UDT), which also wins in a range of scenarios but has its own problem cases. It seems likely that both of these theories draw on insights which are crucial to progressing our understanding of decision theory. So while TDT requires further development to be entirely adequate, it nevertheless represents a substantial step toward developing a decision theory that always endorses the winning decision
+TDT also wins in a range of other cases including [[Smoking Lesion|medical Newcomb's problems]], [Parfit's hitchhiker](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/), and [[Prisoner's Dilemma|the one-shot prisoners' dilemma]]. However, there are [other scenarios](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) where TDT does not win, including [counterfactual mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/). This suggests that TDT still requires further development if it is to become a fully adequate decision theory. Given this, there is some motivation to also consider alternative decision theories alongside TDT, like [updateless decision theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) (UDT), which also wins in a range of scenarios but has its own problem cases. It seems likely that both of these theories draw on insights which are crucial to progressing our understanding of decision theory. So while TDT requires further development to be entirely adequate, it nevertheless represents a substantial step toward developing a decision theory that always endorses the winning decision
 
 Formalization of TDT
 --------------------
@@ -46,19 +46,19 @@ Notable Posts
 *   [Ingredients of Timeless Decision Theory](http://lesswrong.com/lw/15z/ingredients_of_timeless_decision_theory/)
 *   [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/)
 *   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular/)
-*   [Decision theory: Why Pearl helps reduce "could" and "would", but still leaves us with at least three alternatives](http://lesswrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/) by [[Anna Salamon|Anna Salamon]]
+*   [Decision theory: Why Pearl helps reduce "could" and "would", but still leaves us with at least three alternatives](http://lesswrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/) by [[Anna Salamon]]
 
 External Links
 --------------
 
-*   [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) (2010) by [[Eliezer Yudkowsky|Eliezer Yudkowsky]]
+*   [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) (2010) by [[Eliezer Yudkowsky]]
 *   [An Introduction to Timeless Decision Theory](http://formalisedthinking.wordpress.com/2010/08/19/an-introduction-to-timeless-decision-theory/) at Formalised Thinking
 
 See Also
 --------
 
 *   [[Decision Theory|Decision theory]]
-*   [Newcomb's problem](https://www.lesswrong.com/tag/newcomb-s-problem)
-*   [[Causality|Causality]]
-*   [Updateless decision theory](https://www.lesswrong.com/tag/updateless-decision-theory)
+*   [[Newcomb's Problem|Newcomb's problem]]
+*   [[Causality]]
+*   [[Updateless Decision Theory|Updateless decision theory]]
 *   [[Rationality Is Systematized Winning|Rationality is systematized winning]]

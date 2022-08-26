@@ -1,6 +1,6 @@
 ---
 title: Biosecurity
-href: https://lesswrong.com/tags/biosecurity
+href: https://lesswrong.com/tag/biosecurity
 type: tag
 tags:
   - LessWrong

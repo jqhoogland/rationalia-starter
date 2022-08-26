@@ -1,6 +1,6 @@
 ---
 title: Air Conditioning
-href: https://lesswrong.com/tags/air-conditioning
+href: https://lesswrong.com/tag/air-conditioning
 type: tag
 tags:
   - LessWrong

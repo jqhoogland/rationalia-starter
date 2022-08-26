@@ -1,6 +1,6 @@
 ---
 title: Data Science
-href: https://lesswrong.com/tags/data-science
+href: https://lesswrong.com/tag/data-science
 type: tag
 tags:
   - LessWrong

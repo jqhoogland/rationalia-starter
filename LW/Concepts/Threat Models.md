@@ -1,6 +1,6 @@
 ---
 title: Threat Models
-href: https://lesswrong.com/tags/threat-models
+href: https://lesswrong.com/tag/threat-models
 type: tag
 tags:
   - LessWrong

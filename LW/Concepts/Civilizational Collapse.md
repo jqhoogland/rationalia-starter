@@ -1,6 +1,6 @@
 ---
 title: Civilizational Collapse
-href: https://lesswrong.com/tags/civilizational-collapse
+href: https://lesswrong.com/tag/civilizational-collapse
 type: tag
 tags:
   - LessWrong

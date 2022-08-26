@@ -1,6 +1,6 @@
 ---
 title: Technological Forecasting
-href: https://lesswrong.com/tags/technological-forecasting
+href: https://lesswrong.com/tag/technological-forecasting
 type: tag
 tags:
   - LessWrong
@@ -14,7 +14,7 @@ One approach is extrapolating from past data. [Moore's Law](http://en.wikipedia.
 
 Another approach is [expert elicitation](http://teaching.p-design.ch/forecasting07/texts/RoweWright2001_Delphi_Technique.pdf), such as in the [survey taken at the Global Catastrophic Risk Conference](http://www.philosophy.ox.ac.uk/__data/assets/pdf_file/0020/3854/global-catastrophic-risks-report.pdf), and [a survey of artificial general intelligence researchers](http://sethbaum.com/ac/2011_AI-Experts.html) on AGI timelines.
 
-One could create probabilistic models more complicated than a simple trend extrapolation. Anders Sandberg has done calculations on timelines for [[Whole Brain Emulation|whole brain emulation]], based on an analysis of [prerequisite technologies](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0019/3853/brain-emulation-roadmap-report.pdf). [The Uncertain Future](http://www.theuncertainfuture.com) is a web application (developed by the [Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri) and currently in beta) that works with probability distributions provided by the user to calculate the probability of a disruption to "business as usual", which could come in the form of either a global disaster or the invention of [[Artificial General Intelligence|artificial general intelligence]].
+One could create probabilistic models more complicated than a simple trend extrapolation. Anders Sandberg has done calculations on timelines for [[Whole Brain Emulation|whole brain emulation]], based on an analysis of [prerequisite technologies](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0019/3853/brain-emulation-roadmap-report.pdf). [The Uncertain Future](http://www.theuncertainfuture.com) is a web application (developed by the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] and currently in beta) that works with probability distributions provided by the user to calculate the probability of a disruption to "business as usual", which could come in the form of either a global disaster or the invention of [[Artificial General Intelligence|artificial general intelligence]].
 
 An important danger in predicting the future is that one might tell complex stories with many details, any of which could fail and invalidate the prediction. Models like that used in The Uncertain Future attempt to avoid this problem by considering outcomes that could come about in multiple ways, and assigning some probability to many different scenarios.
 
@@ -33,4 +33,4 @@ See also
 
 *   [Acceleration thesis](https://wiki.lesswrong.com/wiki/Acceleration_thesis)
 *   [[Good-Story Bias|Good-story bias]]
-*   [Economic consequences of AI and whole brain emulation](https://www.lesswrong.com/tag/economic-consequences-of-ai-and-whole-brain-emulation)
+*   [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]

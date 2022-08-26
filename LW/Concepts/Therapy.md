@@ -1,6 +1,6 @@
 ---
 title: Therapy
-href: https://lesswrong.com/tags/therapy
+href: https://lesswrong.com/tag/therapy
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 **Therapy** is treatment intended to reduce or remove a disorder. Depression, burn wounds, and many other afflictions can be treated with therapy and time. Psychotherapy aims to treat mental disorders, while physical therapy deals with injuries, physical illnesses, and other bodily damage.
 
-**Related Pages:** [[Psychology|Psychology]], [Psychiatry](https://www.lesswrong.com/tag/psychiatry), [[Self Improvement|Self Improvement]], [Meditation](https://www.lesswrong.com/tag/meditation), [[Subagents|subagents]], [Center for Applied Rationality (CFAR)](https://www.lesswrong.com/tag/center-for-applied-rationality-cfar)
+**Related Pages:** [[Psychology]], [[Psychiatry]], [[Self Improvement]], [[Meditation]], [[Subagents|subagents]], [[Center for Applied Rationality (CFAR)]]

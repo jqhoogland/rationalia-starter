@@ -1,6 +1,6 @@
 ---
 title: Music
-href: https://lesswrong.com/tags/music
+href: https://lesswrong.com/tag/music
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: DALL-E
-href: https://lesswrong.com/tags/dall-e
+href: https://lesswrong.com/tag/dall-e
 type: tag
 tags:
   - LessWrong

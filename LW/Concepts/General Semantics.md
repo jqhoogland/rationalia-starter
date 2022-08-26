@@ -1,6 +1,6 @@
 ---
 title: General Semantics
-href: https://lesswrong.com/tags/general-semantics
+href: https://lesswrong.com/tag/general-semantics
 type: tag
 tags:
   - LessWrong

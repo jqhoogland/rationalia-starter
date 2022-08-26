@@ -1,6 +1,6 @@
 ---
 title: Astronomy
-href: https://lesswrong.com/tags/astronomy
+href: https://lesswrong.com/tag/astronomy
 type: tag
 tags:
   - LessWrong
@@ -8,4 +8,4 @@ tags:
   - Tag
 ---
 
-See also [[Physics]], [Astrobiology](https://www.lesswrong.com/tag/astrobiology), [[Great Filter]]
+See also [[Physics]], [[Astrobiology]], [[Great Filter]]

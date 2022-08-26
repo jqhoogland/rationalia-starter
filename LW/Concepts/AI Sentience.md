@@ -1,6 +1,6 @@
 ---
 title: AI Sentience
-href: https://lesswrong.com/tags/ai-sentience
+href: https://lesswrong.com/tag/ai-sentience
 type: tag
 tags:
   - LessWrong

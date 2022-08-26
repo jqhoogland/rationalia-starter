@@ -1,6 +1,6 @@
 ---
 title: Time (value of)
-href: https://lesswrong.com/tags/time-value-of
+href: https://lesswrong.com/tag/time-value-of
 type: tag
 tags:
   - LessWrong

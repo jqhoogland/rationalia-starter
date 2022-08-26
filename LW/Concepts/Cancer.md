@@ -1,6 +1,6 @@
 ---
 title: Cancer
-href: https://lesswrong.com/tags/cancer-1
+href: https://lesswrong.com/tag/cancer-1
 type: tag
 tags:
   - LessWrong

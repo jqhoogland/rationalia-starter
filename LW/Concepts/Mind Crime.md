@@ -1,6 +1,6 @@
 ---
 title: Mind Crime
-href: https://lesswrong.com/tags/mind-crime
+href: https://lesswrong.com/tag/mind-crime
 type: tag
 tags:
   - LessWrong

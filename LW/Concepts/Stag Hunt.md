@@ -1,6 +1,6 @@
 ---
 title: Stag Hunt
-href: https://lesswrong.com/tags/stag-hunt
+href: https://lesswrong.com/tag/stag-hunt
 type: tag
 tags:
   - LessWrong

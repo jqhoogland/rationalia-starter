@@ -1,6 +1,6 @@
 ---
 title: Ivermectin (drug)
-href: https://lesswrong.com/tags/ivermectin-drug
+href: https://lesswrong.com/tag/ivermectin-drug
 type: tag
 tags:
   - LessWrong

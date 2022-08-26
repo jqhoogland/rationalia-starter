@@ -1,6 +1,6 @@
 ---
 title: Quantilization
-href: https://lesswrong.com/tags/quantilization
+href: https://lesswrong.com/tag/quantilization
 type: tag
 tags:
   - LessWrong

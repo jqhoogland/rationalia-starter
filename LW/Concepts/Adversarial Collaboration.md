@@ -1,6 +1,6 @@
 ---
 title: Adversarial Collaboration
-href: https://lesswrong.com/tags/adversarial-collaboration
+href: https://lesswrong.com/tag/adversarial-collaboration
 type: tag
 tags:
   - LessWrong
@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-**Adversarial collaboration** is a protocol developed by Daniel Kahneman for two researchers advocating competing hypotheses to collaborate on a research project with the goal of resolving their differences, designed on the assumption that this will be more effective than each researcher conducting their own experiments individually and publishing replies to each others' papers. Kahneman tested adversarial collaboration with Ralph Hertwig, aiming to resolve their dispute about whether the [[Conjunction Fallacy|conjunction fallacy]] was primarily due to the [representativeness heuristic](https://www.lesswrong.com/tag/representativeness-heuristic) (as advocated by Kahneman), or simply due to subjects interpreting the word "and" as a disjunction where the experimenters intended it to be used as a conjunction (as advocated by Hertwig). Kahneman and Hertwig collaborated on a series of experiments related to the issue, along with Barbara Mellers as an arbiter, and further refined the suggested adversarial collaboration protocol based on their experiences.
+**Adversarial collaboration** is a protocol developed by Daniel Kahneman for two researchers advocating competing hypotheses to collaborate on a research project with the goal of resolving their differences, designed on the assumption that this will be more effective than each researcher conducting their own experiments individually and publishing replies to each others' papers. Kahneman tested adversarial collaboration with Ralph Hertwig, aiming to resolve their dispute about whether the [[Conjunction Fallacy|conjunction fallacy]] was primarily due to the [[Representativeness Heuristic|representativeness heuristic]] (as advocated by Kahneman), or simply due to subjects interpreting the word "and" as a disjunction where the experimenters intended it to be used as a conjunction (as advocated by Hertwig). Kahneman and Hertwig collaborated on a series of experiments related to the issue, along with Barbara Mellers as an arbiter, and further refined the suggested adversarial collaboration protocol based on their experiences.
 
 They suggest that the two disputing researchers should team up, along with a neutral arbiter to settle disputes that arise in the process, and agree on a procedure for an experiment that would distinguish between their hypotheses. The researchers would discuss ahead of time what results each of them expects, and what sorts of results would lead them to change their minds. Since the initial experiment may be inconclusive, each side would be allowed to propose follow-up studies afterwards, which they would continue to collaborate on. After the study is complete, all three researchers involved would collaborate on a paper describing the results, with the arbiter having responsibility for some sections, and each of the two disputing researchers given the chance to describe their own interpretation of the results.
 

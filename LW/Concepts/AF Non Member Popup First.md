@@ -1,6 +1,6 @@
 ---
 title: AF Non Member Popup First
-href: https://lesswrong.com/tags/af-non-member-popup-first
+href: https://lesswrong.com/tag/af-non-member-popup-first
 type: tag
 tags:
   - LessWrong

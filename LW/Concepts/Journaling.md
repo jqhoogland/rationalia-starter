@@ -1,6 +1,6 @@
 ---
 title: Journaling
-href: https://lesswrong.com/tags/journaling
+href: https://lesswrong.com/tag/journaling
 type: tag
 tags:
   - LessWrong
@@ -18,4 +18,4 @@ There are various forms of jounraling:
 *   Prompts / Free-form / Mixed: Prompts can help you focus on specific things you want to journal about, but may also feel cumbersome for some people or at some times.
 *   Digital / Handwritten / Audio: Classically, of course, journaling was solely handwritten. Today it's also possible to write in a digital format. And it's also possible to keep an audio journal by recording yourself instead of writing.
 
-**Related Pages:** [Gratitude](https://www.lesswrong.com/tag/gratitude)
+**Related Pages:** [[Gratitude]]

@@ -1,6 +1,6 @@
 ---
 title: Ukraine/Russia Conflict (2022)
-href: https://lesswrong.com/tags/ukraine-russia-conflict-2022
+href: https://lesswrong.com/tag/ukraine-russia-conflict-2022
 type: tag
 tags:
   - LessWrong
@@ -15,5 +15,5 @@ This is relevant to LessWrong both because it seems to be generally an important
 See Also:
 
 *   [[War]]
-*   [Nuclear War](https://www.lesswrong.com/tag/nuclear-war)
+*   [[Nuclear War]]
 *   [[Existential Risk]]

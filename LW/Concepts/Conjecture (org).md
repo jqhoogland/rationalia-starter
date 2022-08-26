@@ -1,6 +1,6 @@
 ---
 title: Conjecture (org)
-href: https://lesswrong.com/tags/conjecture-org
+href: https://lesswrong.com/tag/conjecture-org
 type: tag
 tags:
   - LessWrong

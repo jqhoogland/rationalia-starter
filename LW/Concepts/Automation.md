@@ -1,6 +1,6 @@
 ---
 title: Automation
-href: https://lesswrong.com/tags/automation
+href: https://lesswrong.com/tag/automation
 type: tag
 tags:
   - LessWrong

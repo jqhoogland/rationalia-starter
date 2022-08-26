@@ -1,6 +1,6 @@
 ---
 title: Conditional Consistency
-href: https://lesswrong.com/tags/conditional-consistency
+href: https://lesswrong.com/tag/conditional-consistency
 type: tag
 tags:
   - LessWrong

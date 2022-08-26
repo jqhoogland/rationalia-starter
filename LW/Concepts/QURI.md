@@ -1,6 +1,6 @@
 ---
 title: QURI
-href: https://lesswrong.com/tags/quri
+href: https://lesswrong.com/tag/quri
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 The **Quantified Uncertainty Research Institute (QURI)** is a nonprofit set up to study forecasting and epistemics. You can see their website [here](https://quantifieduncertainty.org/). 
 
-**Related Pages:** [Prediction Markets](https://www.lesswrong.com/tag/prediction-markets), [[Forecasting & Prediction|Forecasting & Prediction]]
+**Related Pages:** [[Prediction Markets]], [[Forecasting & Prediction]]

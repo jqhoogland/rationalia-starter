@@ -1,6 +1,6 @@
 ---
 title: Crucial Considerations
-href: https://lesswrong.com/tags/crucial-considerations
+href: https://lesswrong.com/tag/crucial-considerations
 type: tag
 tags:
   - LessWrong
@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-**Crucial considerations** are ideas that potentially imply radical changes to our world-view and priorities. The term was coined by [[Nick Bostrom|Nick Bostrom]].
+**Crucial considerations** are ideas that potentially imply radical changes to our world-view and priorities. The term was coined by [[Nick Bostrom]].
 
 External links
 --------------

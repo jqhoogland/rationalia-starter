@@ -1,6 +1,6 @@
 ---
 title: Autonomous Vehicles
-href: https://lesswrong.com/tags/autonomous-vehicles
+href: https://lesswrong.com/tag/autonomous-vehicles
 type: tag
 tags:
   - LessWrong

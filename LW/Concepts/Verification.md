@@ -1,6 +1,6 @@
 ---
 title: Verification
-href: https://lesswrong.com/tags/verification
+href: https://lesswrong.com/tag/verification
 type: tag
 tags:
   - LessWrong

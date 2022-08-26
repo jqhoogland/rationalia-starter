@@ -1,6 +1,6 @@
 ---
 title: Motivational Intro Posts
-href: https://lesswrong.com/tags/motivational-intro-posts
+href: https://lesswrong.com/tag/motivational-intro-posts
 type: tag
 tags:
   - LessWrong

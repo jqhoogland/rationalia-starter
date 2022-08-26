@@ -1,6 +1,6 @@
 ---
 title: Superrationality
-href: https://lesswrong.com/tags/superrationality
+href: https://lesswrong.com/tag/superrationality
 type: tag
 tags:
   - LessWrong

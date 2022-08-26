@@ -1,6 +1,6 @@
 ---
 title: Kelly Criterion
-href: https://lesswrong.com/tags/kelly-criterion
+href: https://lesswrong.com/tag/kelly-criterion
 type: tag
 tags:
   - LessWrong
@@ -12,4 +12,4 @@ the **Kelly criterion** (or **Kelly strategy** or **Kelly bet**), also known as 
 
 **Posts from elsewhere:** [The Kelly Coin-Flipping Game: Exact Solutions](https://www.gwern.net/Coin-flip)
 
-**see also:** [[Betting|Betting]]
+**see also:** [[Betting]]

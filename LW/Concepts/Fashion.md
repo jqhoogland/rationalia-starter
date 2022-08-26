@@ -1,6 +1,6 @@
 ---
 title: Fashion
-href: https://lesswrong.com/tags/fashion
+href: https://lesswrong.com/tag/fashion
 type: tag
 tags:
   - LessWrong

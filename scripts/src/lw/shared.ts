@@ -123,10 +123,16 @@ const getTitleFromLink = async (href: string) => {
     }
 }
 
-async function replaceAsync(str: string, regex: RegExp, asyncFn: (match: string, alias: string | null, href: string | null) => Promise<string>): Promise<string> {
-    const promises = (str.match(regex) ?? []).map((match) => asyncFn(...(regex.exec(match) ?? [match, null, null]) as [string, string | null, string | null]));
-    const data = await Promise.all(promises);
-    return str.replace(regex, () => data.shift()!);
+// TODO: REPLACE ALL not just the first match
+async function replaceAsync(str: string, regex: RegExp, replacer: (match: string, alias: string | null, href: string | null) => Promise<string>) {
+    const fns = []
+    str.replace(regex, (m, ...args) => {
+        fns.push(replacer(m, ...(args as [string, string])))
+        return m
+    })
+    return Promise.all(fns).then(replacements => {
+        return str.replace(regex, () => replacements.shift())
+    })
   }
  
 const manualLinkTransforms = new Map([

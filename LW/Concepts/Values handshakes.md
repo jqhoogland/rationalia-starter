@@ -1,6 +1,6 @@
 ---
 title: Values handshakes
-href: https://lesswrong.com/tags/values-handshakes
+href: https://lesswrong.com/tag/values-handshakes
 type: tag
 tags:
   - LessWrong

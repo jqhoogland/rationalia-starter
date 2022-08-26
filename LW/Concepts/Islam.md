@@ -1,6 +1,6 @@
 ---
 title: Islam
-href: https://lesswrong.com/tags/islam
+href: https://lesswrong.com/tag/islam
 type: tag
 tags:
   - LessWrong

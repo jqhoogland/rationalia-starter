@@ -1,6 +1,6 @@
 ---
 title: Lighting
-href: https://lesswrong.com/tags/lighting
+href: https://lesswrong.com/tag/lighting
 type: tag
 tags:
   - LessWrong

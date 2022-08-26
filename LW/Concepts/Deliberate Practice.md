@@ -1,6 +1,6 @@
 ---
 title: Deliberate Practice
-href: https://lesswrong.com/tags/deliberate-practice
+href: https://lesswrong.com/tag/deliberate-practice
 type: tag
 tags:
   - LessWrong

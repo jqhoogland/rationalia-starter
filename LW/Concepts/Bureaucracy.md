@@ -1,6 +1,6 @@
 ---
 title: Bureaucracy
-href: https://lesswrong.com/tags/bureaucracy-1
+href: https://lesswrong.com/tag/bureaucracy-1
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 **Bureaucracy**
 
-**Related Pages:** [[Moral Mazes]], [Politics](https://www.lesswrong.com/tag/politics), [[Mechanism Design]], [Stagnation](https://www.lesswrong.com/tag/stagnation)
+**Related Pages:** [[Moral Mazes]], [[Politics]], [[Mechanism Design]], [[Stagnation]]

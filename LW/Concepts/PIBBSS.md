@@ -1,6 +1,6 @@
 ---
 title: PIBBSS
-href: https://lesswrong.com/tags/pibbss
+href: https://lesswrong.com/tag/pibbss
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Scaling Laws
-href: https://lesswrong.com/tags/scaling-laws
+href: https://lesswrong.com/tag/scaling-laws
 type: tag
 tags:
   - LessWrong

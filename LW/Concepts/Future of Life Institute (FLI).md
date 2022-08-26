@@ -1,6 +1,6 @@
 ---
 title: Future of Life Institute (FLI)
-href: https://lesswrong.com/tags/future-of-life-institute-fli
+href: https://lesswrong.com/tag/future-of-life-institute-fli
 type: tag
 tags:
   - LessWrong

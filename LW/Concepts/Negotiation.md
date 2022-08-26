@@ -1,6 +1,6 @@
 ---
 title: Negotiation
-href: https://lesswrong.com/tags/negotiation
+href: https://lesswrong.com/tag/negotiation
 type: tag
 tags:
   - LessWrong

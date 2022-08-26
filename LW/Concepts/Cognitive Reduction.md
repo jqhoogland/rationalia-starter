@@ -1,6 +1,6 @@
 ---
 title: Cognitive Reduction
-href: https://lesswrong.com/tags/cognitive-reduction
+href: https://lesswrong.com/tag/cognitive-reduction
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: AXRP
-href: https://lesswrong.com/tags/axrp
+href: https://lesswrong.com/tag/axrp
 type: tag
 tags:
   - LessWrong

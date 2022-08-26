@@ -1,6 +1,6 @@
 ---
 title: Feedback & Criticism (topic)
-href: https://lesswrong.com/tags/feedback-and-criticism-topic
+href: https://lesswrong.com/tag/feedback-and-criticism-topic
 type: tag
 tags:
   - LessWrong

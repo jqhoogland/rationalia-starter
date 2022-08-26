@@ -1,6 +1,6 @@
 ---
 title: AI Robustness
-href: https://lesswrong.com/tags/ai-robustness
+href: https://lesswrong.com/tag/ai-robustness
 type: tag
 tags:
   - LessWrong

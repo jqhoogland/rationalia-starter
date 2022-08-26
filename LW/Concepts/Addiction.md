@@ -1,6 +1,6 @@
 ---
 title: Addiction
-href: https://lesswrong.com/tags/addiction
+href: https://lesswrong.com/tag/addiction
 type: tag
 tags:
   - LessWrong

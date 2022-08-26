@@ -1,6 +1,6 @@
 ---
 title: Road To AI Safety Excellence
-href: https://lesswrong.com/tags/road-to-ai-safety-excellence
+href: https://lesswrong.com/tag/road-to-ai-safety-excellence
 type: tag
 tags:
   - LessWrong

@@ -11640,5 +11640,96 @@
     },
     "parentTag": null,
     "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb34b",
+    "name": "List of Podcasts",
+    "core": null,
+    "slug": "list-of-podcasts",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "List of podcasts from the [diaspora](https://wiki.lesswrong.com/wiki/diaspora) and [rationalist movement](https://www.lesswrong.com/tag/rationalist-movement). These are not recommendations.\n\n[The Nonlinear Library](https://open.spotify.com/show/3EcTioycPRcxwHv00IQEoF?si=9n2X-8uuT3OmowFDvoU8ZA) is a project that uses high-quality text-to-speech software to read out loud posts from LessWrong and the [EA forum](https://forum.effectivealtruism.org/). You can read [their announcement post here](https://www.lesswrong.com/posts/mZy5tEBonDh8LqH73/listen-to-top-lesswrong-posts-with-the-nonlinear-library), or [listen to it here](https://open.spotify.com/episode/3dH2asiymCqLEXiWL94AFC?si=75017afd040f45f3). For posts read by a human, the [LW Curated podcast](https://www.lesswrong.com/posts/kDjKF2yFhFEWe4hgC/announcing-the-lesswrong-curated-podcast) is a recent project - created and recorded by Solenoid Entity, who spent the last five years editing the [SSC podcast](https://linktr.ee/sscpodcast) and the [Metaculus Journal Podcast.](https://www.metaculus.com/questions/11102/introducing-the-metaculus-journal-podcast/)\n\nBy people with Less Wrong profiles\n----------------------------------\n\n*   [Rationally Speaking](http://rationallyspeakingpodcast.org/) Julia Galef\n*   [Future Strategist](https://soundcloud.com/user-519115521) James Miller\n*   [Second Enumerations](http://secondenumerations.blogspot.com/) Grognor\n*   [The untitled and not-properly-indexed occasional podcasts between Robin Hanson and Katja Grace](http://www.overcomingbias.com/2016/07/grace-hanson-podcasts-4.html)\n*   [The Bayesian Conspiracy](http://www.thebayesianconspiracy.com/) Eneasz Brodski, Jess Dickey, Steven Zuber\n*   [Science, Ethics, and the Future](https://player.fm/series/science-ethics-and-the-future-107556) Brian Tomasik\n*   [Conversations from the Pale Blue Dot](http://commonsenseatheism.com/?p=1911) Luke Muehlhauser\n*   [Tsuyoku Naritai!](https://www.youtube.com/watch?v=JmRr7Op6sfQ&feature=youtu.be) [Alex Hedtke](https://www.lesswrong.com/users/senarin)\n*   [The 80,000 Hours Podcast](https://80000hours.org/podcast/) Rob Wiblin\n*   [Affix](https://www.affix.live/) [](www.affix.live) by Brian and Chris\n\nObviously [rationalist-adjacent](https://wiki.lesswrong.com/wiki/rationalist-adjacent)\n--------------------------------------------------------------------------------------\n\n*   [Waking Up With Sam Harris](https://www.samharris.org/podcast)\n*   [You Are Not So Smart](https://youarenotsosmart.com/podcast/)\n*   [Review the Future](http://reviewthefuture.com/) Ted Kupper and Jon Perry\n*   [The GiveWell Podcast](http://blog.givewell.org/2016/05/23/trying-new-format-givewell-podcast/)\n*   [EconTalk](http://www.econtalk.org/)\n\nSee Also\n--------\n\n*   [Grognor's podcast and other audio recommendations](http://grognor.stacky.net/index.php?title=Audio_Content)\n*   [List of Blogs](https://www.lesswrong.com/tag/list-of-blogs)\n*   [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)\n*   [Audio](https://www.lesswrong.com/tag/audio)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb34a",
+    "name": "Scott Alexander",
+    "core": null,
+    "slug": "scott-alexander",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Scott Alexander** is the pseudonymn of the popular [rationalist](https://www.lesswrong.com/tag/rationalist) blogger who writes on [Slate Star Codex](https://www.lesswrong.com/tag/slate-star-codex).\n\nExternal links\n--------------\n\n*   [Less Wrong user page](http://lesswrong.com/user/Yvain/).\n*   [slatestarcodex.com](http://slatestarcodex.com)\n*   [Account on](https://twitter.com/slatestarcodex/) [Twitter](https://www.lesswrong.com/tag/twitter)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2bb",
+    "name": "Cyc",
+    "core": null,
+    "slug": "cyc",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/animations/6551d2cea4338b35e2c81a8a17449cc8101e7a1db32fb3db.gif)\n\nThe official logo of [Cycorp](http://www.cyc.com/), the developer of Cyc.\n\n**Cyc** (from 'encyclopedia') is a large AI project started and run by Douglas Lenat. It consists of a Knowledge Base of hand-coded \"common sense\" facts and an inference engine to deduce further facts.\n\nHistory\n-------\n\nLenat started the Cyc project in 1984 after being frustrated by the difficulty of hand-coding domain-specific knowledge for his previous AI project, [EURISKO](https://www.lesswrong.com/tag/eurisko). Originally a project under the Microelectronics and Computer Technology Corporation, Cyc was split off in 1994 to form [Cycorp, Inc.](http://www.cyc.com/) In 2002, a subset of the Knowledge Base and functionality was released to the public under the [OpenCyc](http://www.opencyc.org/) project. OpenCyc has around 240,000 concepts and 2,000,000 assertions as of 2012. Access to the Cyc database is also available in the form of a research license, released in 2006 under the [ResearchCyc](http://researchcyc.cyc.com/) project. The full Cyc Knowledge Base contains around 500,000 concepts and 5,000,000 assertions as of 2012.\n\nStructure\n---------\n\nCyc uses a declarative language called CycL based on first-order logic. CycL was written in Lisp and has a similar syntactical appearance. The main lexical component is a set of concepts, also called constants, which begin with #$. These constants can be specific objects, collections of objects, or relations between objects. For example,\n\n` (#$isa #$DouglasLenat #$AIResearcher)`\n\nmeans \"Douglas Lenat is an AI researcher.\" This is an example of a fact in the Knowledge Base.\n\nSome sentences contain variables, and are called 'rules'. Variables begin with ?. For example, a rule about the #$isa predicate is\n\n`(#$implies`  \n`   (#$and   `  \n`     (#$isa ?OBJ ?SUBSET)`  \n`     (#$genls ?SUBSET ?SUPERSET))`  \n`   (#$isa ?OBJ ?SUPERSET))`\n\nThe CycL syntax uses prefix notation and nested parentheses, unlike English. An English translation might read, \"If a \\[object\\] is a \\[subset\\], and a \\[subset\\] is a subcollection of a \\[superset\\], then a \\[object\\] is a \\[superset\\].\" Or, more concretely, if we let ?OBJ be \"sandcat\", ?SUBSET be \"feline\", and ?SUPERSET be \"mammal\", then the sentence reads, \"If a sandcat is a feline, and a feline is a subcollection of mammals, then a sandcat is a mammal.\" In first-order logic (with set theory), this would be written as\n\n(*sandcat* ∈ *Feline*) ∧ (*Feline* ⊂ *Mammals*) ⇒ *sandcat* ∈ *Mammals*\n\nThe inference engine would verify the truth of the parenthetical statements, and then the implication. Cyc can also provide a translation of these structures into a natural English sentence.\n\nCriticism\n---------\n\nMany AI researchers criticize the Cyc project for its lack of theoretical foundation. For example, while the inference engine can perform deductive logic on the fact in the database, it cannot perform induction; that is, it cannot take new data and create new concepts or relations. Furthermore it remains 'crystalline' in the sense that statements are not evaluated probabilistically. Lenat has responded to some critiques by pointing out that Cyc is not trying to build a full AGI, and that it may be easily imported into other AI projects.\n\nSee also\n--------\n\n*   [EURISKO](https://www.lesswrong.com/tag/eurisko)\n\nExternal links\n--------------\n\n*   [http://www.cyc.com/](http://www.cyc.com/)\n*   [http://www.opencyc.org/](http://www.opencyc.org/)\n*   [I Heart CYC](http://www.overcomingbias.com/2008/12/i-heart-cyc.html) from Overcoming Bias\n\nReferences\n----------\n\n*   Lenat, Douglas; Guha, R. V. (1990). *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*. Addison-Wesley. ISBN 0-201-51752-3.\n*   Lenat, Douglas; Miller, George; Yokoi, Toshio (November 1995). \"[CYC, WordNet, and EDR: Critiques and Responses](http://www.cs.uga.edu/~xiong/8351/lenat.pdf)\". *Communications of the ACM* **38** (11): 45-48.\n*   Jared Friedman (October 2003). \"[The Sole Contender for AI](http://www.scribd.com/doc/1814/An-Article-about-the-Cyc-Project)\". *Harvard Science Review*."
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2fd",
+    "name": "Brain Emulation Roadmap",
+    "core": null,
+    "slug": "brain-emulation-roadmap",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Whole Brain Emulation: A Roadmap** is a 2008 technical report by [Anders Sandberg](https://wiki.lesswrong.com/wiki/Anders_Sandberg) and [Nick Bostrom](https://www.lesswrong.com/tag/nick-bostrom), published as Technical Report #2008‐3, [Future of Humanity Institute](https://www.lesswrong.com/tag/future-of-humanity-institute-fhi), Oxford University.\n\nIn order to develop ideas about the feasibility of [whole brain emulation](https://www.lesswrong.com/tag/whole-brain-emulation), ground technology foresight and stimulate interdisciplinary exchange, the Future of Humanity Institute hosted a workshop on May 26 and 27, 2007, in Oxford. Invited experts from areas such as computational neuroscience, brain‐scanning technology, computing, nanotechnology, and neurobiology presented their findings and discussed the possibilities, problems and milestones that would have to be reached before WBE becomes feasible. The workshop avoided dealing with socioeconomic ramifications and with philosophical issues such as theory of mind, identity or ethics.\n\nWorkshop participants were: John Fiala, [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson), Kenneth Jeffrey Hayworth, Todd Huffman, Eugene Leitl, Bruce McCormick, Ralph Merkle, Toby Ord, Peter Passaro, Nick Shackel, Randall A. Koene, Robert A. Freitas Jr and Rebecca Roache. Stuart Armstrong also made useful comments.\n\nThe Roadmap combines an earlier whitepaper that was circulated among workshop participants, and additions suggested by those participants before, during and after the workshop. It aims at providing a preliminary roadmap for WBE, sketching out key technologies that would need to be developed or refined, and identifying key problems or uncertainties.\n\nTwo critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#fn2); Sandberg has acknowledged them as worthy of reply but has yet to do so.\n\nExternal links\n--------------\n\n*   [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)\n\nReferences\n----------\n\n1.  [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)\n2.  [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2fd",
+    "name": "Brain Emulation Roadmap",
+    "core": null,
+    "slug": "brain-emulation-roadmap",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Whole Brain Emulation: A Roadmap** is a 2008 technical report by [Anders Sandberg](https://wiki.lesswrong.com/wiki/Anders_Sandberg) and [Nick Bostrom](https://www.lesswrong.com/tag/nick-bostrom), published as Technical Report #2008‐3, [Future of Humanity Institute](https://www.lesswrong.com/tag/future-of-humanity-institute-fhi), Oxford University.\n\nIn order to develop ideas about the feasibility of [whole brain emulation](https://www.lesswrong.com/tag/whole-brain-emulation), ground technology foresight and stimulate interdisciplinary exchange, the Future of Humanity Institute hosted a workshop on May 26 and 27, 2007, in Oxford. Invited experts from areas such as computational neuroscience, brain‐scanning technology, computing, nanotechnology, and neurobiology presented their findings and discussed the possibilities, problems and milestones that would have to be reached before WBE becomes feasible. The workshop avoided dealing with socioeconomic ramifications and with philosophical issues such as theory of mind, identity or ethics.\n\nWorkshop participants were: John Fiala, [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson), Kenneth Jeffrey Hayworth, Todd Huffman, Eugene Leitl, Bruce McCormick, Ralph Merkle, Toby Ord, Peter Passaro, Nick Shackel, Randall A. Koene, Robert A. Freitas Jr and Rebecca Roache. Stuart Armstrong also made useful comments.\n\nThe Roadmap combines an earlier whitepaper that was circulated among workshop participants, and additions suggested by those participants before, during and after the workshop. It aims at providing a preliminary roadmap for WBE, sketching out key technologies that would need to be developed or refined, and identifying key problems or uncertainties.\n\nTwo critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#fn2); Sandberg has acknowledged them as worthy of reply but has yet to do so.\n\nExternal links\n--------------\n\n*   [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)\n\nReferences\n----------\n\n1.  [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)\n2.  [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2fd",
+    "name": "Brain Emulation Roadmap",
+    "core": null,
+    "slug": "brain-emulation-roadmap",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Whole Brain Emulation: A Roadmap** is a 2008 technical report by [Anders Sandberg](https://wiki.lesswrong.com/wiki/Anders_Sandberg) and [Nick Bostrom](https://www.lesswrong.com/tag/nick-bostrom), published as Technical Report #2008‐3, [Future of Humanity Institute](https://www.lesswrong.com/tag/future-of-humanity-institute-fhi), Oxford University.\n\nIn order to develop ideas about the feasibility of [whole brain emulation](https://www.lesswrong.com/tag/whole-brain-emulation), ground technology foresight and stimulate interdisciplinary exchange, the Future of Humanity Institute hosted a workshop on May 26 and 27, 2007, in Oxford. Invited experts from areas such as computational neuroscience, brain‐scanning technology, computing, nanotechnology, and neurobiology presented their findings and discussed the possibilities, problems and milestones that would have to be reached before WBE becomes feasible. The workshop avoided dealing with socioeconomic ramifications and with philosophical issues such as theory of mind, identity or ethics.\n\nWorkshop participants were: John Fiala, [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson), Kenneth Jeffrey Hayworth, Todd Huffman, Eugene Leitl, Bruce McCormick, Ralph Merkle, Toby Ord, Peter Passaro, Nick Shackel, Randall A. Koene, Robert A. Freitas Jr and Rebecca Roache. Stuart Armstrong also made useful comments.\n\nThe Roadmap combines an earlier whitepaper that was circulated among workshop participants, and additions suggested by those participants before, during and after the workshop. It aims at providing a preliminary roadmap for WBE, sketching out key technologies that would need to be developed or refined, and identifying key problems or uncertainties.\n\nTwo critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#fn2); Sandberg has acknowledged them as worthy of reply but has yet to do so.\n\nExternal links\n--------------\n\n*   [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)\n\nReferences\n----------\n\n1.  [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)\n2.  [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1b9",
+    "name": "Free Will (Solution)",
+    "core": null,
+    "slug": "free-will-solution",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Since free will is about as easy as a philosophical problem in reductionism can get, while still appearing \"impossible\" to at least some philosophers, it makes a good exercise for aspiring reductionists, which *they should try on their own* \\- see the main page on [free will](https://www.lesswrong.com/tag/free-will).\n\nThese posts **should not be read** until having made a very serious effort on your own.\n\n*Related Pages:* [*Consciousness*](https://www.lesswrong.com/tag/consciousness?showPostCount=true&useTagName=true)*,* [*Free Will*](https://www.lesswrong.com/tag/free-will)*,* [*Philosophy*](https://www.lesswrong.com/tag/philosophy)*,* [*Reductionism*](https://www.lesswrong.com/tag/reductionism?showPostCount=true&useTagName=true)*, *\n\nBlog posts\n----------\n\n(Items in italics can be skipped if in a rush.)\n\n*   [*How An Algorithm Feels From Inside*](http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/) and [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/) \\- setting up the problem.\n*   [*Hand vs. Fingers*](http://lesswrong.com/lw/p2/hand_vs_fingers/) and [*Explaining vs. Explaining Away*](http://lesswrong.com/lw/oo/explaining_vs_explaining_away/) \\- elementary [reductionism](https://www.lesswrong.com/tag/reductionism).\n*   [Timeless Causality](http://lesswrong.com/lw/qr/timeless_causality/)\n*   [Thou Art Physics](http://lesswrong.com/lw/r0/thou_art_physics/)\n*   [Timeless Control](http://lesswrong.com/lw/r1/timeless_control/)\n*   [Possibility and Could-ness](http://lesswrong.com/lw/rb/possibility_and_couldness/)\n*   [*Causality and Moral Responsibility*](http://lesswrong.com/lw/ra/causality_and_moral_responsibility/)\n*   [The Ultimate Source](http://lesswrong.com/lw/rc/the_ultimate_source/)"
+    },
+    "parentTag": null,
+    "subTags": []
   }
 ]

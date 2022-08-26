@@ -1,6 +1,6 @@
 ---
 title: Asymmetric Weapons
-href: https://lesswrong.com/tags/asymmetric-weapons
+href: https://lesswrong.com/tag/asymmetric-weapons
 type: tag
 tags:
   - LessWrong
@@ -25,4 +25,4 @@ External Links
 
 *   [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/)
 
-**Related Pages:** [[Memetics|Memetics]], [Public Discourse](https://www.lesswrong.com/tag/public-discourse)
+**Related Pages:** [[Memetics]], [[Public Discourse]]

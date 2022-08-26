@@ -1,6 +1,6 @@
 ---
 title: Improving the LessWrong Wiki
-href: https://lesswrong.com/tags/improving-the-lesswrong-wiki
+href: https://lesswrong.com/tag/improving-the-lesswrong-wiki
 type: tag
 tags:
   - LessWrong
@@ -41,5 +41,5 @@ Some pages I have edited to be the style of what I think should be all pages
 *   [[Effective Altruism|https://www.lesswrong.com/tag/effective-altruism]]
     *   It now has a section on funding use, impact and criticims
     *   With a little more work I think it could be the best single page introduction to EA
-*   [https://www.lesswrong.com/tag/forecasting-and-prediction](https://www.lesswrong.com/tag/forecasting-and-prediction)
+*   [[Forecasting & Prediction|https://www.lesswrong.com/tag/forecasting-and-prediction]]
     *   A better overview of the topic

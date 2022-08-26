@@ -1,6 +1,6 @@
 ---
 title: Narrow AI
-href: https://lesswrong.com/tags/narrow-ai
+href: https://lesswrong.com/tag/narrow-ai
 type: tag
 tags:
   - LessWrong

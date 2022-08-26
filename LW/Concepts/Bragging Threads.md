@@ -1,6 +1,6 @@
 ---
 title: Bragging Threads
-href: https://lesswrong.com/tags/bragging-threads
+href: https://lesswrong.com/tag/bragging-threads
 type: tag
 tags:
   - LessWrong

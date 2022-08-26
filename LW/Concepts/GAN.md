@@ -1,6 +1,6 @@
 ---
 title: GAN
-href: https://lesswrong.com/tags/gan
+href: https://lesswrong.com/tag/gan
 type: tag
 tags:
   - LessWrong

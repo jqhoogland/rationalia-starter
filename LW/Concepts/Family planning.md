@@ -1,6 +1,6 @@
 ---
 title: Family planning
-href: https://lesswrong.com/tags/family-planning
+href: https://lesswrong.com/tag/family-planning
 type: tag
 tags:
   - LessWrong

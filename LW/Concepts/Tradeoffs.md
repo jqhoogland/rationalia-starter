@@ -1,6 +1,6 @@
 ---
 title: Tradeoffs
-href: https://lesswrong.com/tags/tradeoffs
+href: https://lesswrong.com/tag/tradeoffs
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Applause Light
-href: https://lesswrong.com/tags/applause-light
+href: https://lesswrong.com/tag/applause-light
 type: tag
 tags:
   - LessWrong
@@ -19,4 +19,4 @@ See also
 
 *   [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password) 
 *   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
-*   [Cached Thoughts](https://www.lesswrong.com/tag/cached-thoughts)
+*   [[Cached Thoughts]]

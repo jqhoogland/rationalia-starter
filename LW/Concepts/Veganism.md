@@ -1,6 +1,6 @@
 ---
 title: Veganism
-href: https://lesswrong.com/tags/veganism
+href: https://lesswrong.com/tag/veganism
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Autonomous Weapons
-href: https://lesswrong.com/tags/autonomous-weapons
+href: https://lesswrong.com/tag/autonomous-weapons
 type: tag
 tags:
   - LessWrong

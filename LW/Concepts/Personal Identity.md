@@ -1,6 +1,6 @@
 ---
 title: Personal Identity
-href: https://lesswrong.com/tags/personal-identity
+href: https://lesswrong.com/tag/personal-identity
 type: tag
 tags:
   - LessWrong
@@ -16,7 +16,7 @@ The problem used to appear fairly straightforward, since no one had even conside
 
 As well as suggesting boundary cases with which to differentiate different theories of personal identity, modern science also gives us some clues as to which theories are correct. For instance, evidence from neuroscience suggests that cognition is entirely physical, which contradicts theories of personal identity that rely on an extra-physical soul. Experiments from quantum mechanics show that particles don't actually have individual identities; that is, if there are two electrons at time 1 and two electrons at time 2, there does not exist any fact of the matter as to which electron at time 1 is the same as which electron at time 2. This rules out theories of personal identity based on being made of the same atoms.
 
-Personal identity may at first sound like just an abstract philosophical issue with no practical consequences, but in fact, there are practical reasons to understand personal identity. For instance, common objections to [[Cryonics|cryonics]] and [brain uploading](https://www.lesswrong.com/tag/whole-brain-emulation) hold that anyone who is woken up from cryonic suspension or whose brain is run on a computer would not be the same person they were before the operation, and that the operations thus fail to continue the person's life. Such objections are generally based on theories of personal identity that can be shown to be false or incoherent by modern science, as explained in the sequence on quantum mechanics and personal identity. It is already possible to sign up for cryonics, and whole brain emulation may be possible in the future, so it is actually possible to act on an understanding of personal identity. Once whole brain emulation is feasible, it would also be possible to easily copy and modify brain emulations, which would offer more challenging questions about personal identity.
+Personal identity may at first sound like just an abstract philosophical issue with no practical consequences, but in fact, there are practical reasons to understand personal identity. For instance, common objections to [[Cryonics|cryonics]] and [[Whole Brain Emulation|brain uploading]] hold that anyone who is woken up from cryonic suspension or whose brain is run on a computer would not be the same person they were before the operation, and that the operations thus fail to continue the person's life. Such objections are generally based on theories of personal identity that can be shown to be false or incoherent by modern science, as explained in the sequence on quantum mechanics and personal identity. It is already possible to sign up for cryonics, and whole brain emulation may be possible in the future, so it is actually possible to act on an understanding of personal identity. Once whole brain emulation is feasible, it would also be possible to easily copy and modify brain emulations, which would offer more challenging questions about personal identity.
 
 Sequences
 ---------
@@ -26,4 +26,4 @@ Sequences
 Related Pages
 -------------
 
-*   [Identity](https://www.lesswrong.com/tag/identity)
+*   [[Identity]]

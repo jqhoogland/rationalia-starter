@@ -1,6 +1,6 @@
 ---
 title: Cognitive Fusion
-href: https://lesswrong.com/tags/cognitive-fusion
+href: https://lesswrong.com/tag/cognitive-fusion
 type: tag
 tags:
   - LessWrong

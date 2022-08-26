@@ -1,6 +1,6 @@
 ---
 title: Something To Protect
-href: https://lesswrong.com/tags/something-to-protect
+href: https://lesswrong.com/tag/something-to-protect
 type: tag
 tags:
   - LessWrong

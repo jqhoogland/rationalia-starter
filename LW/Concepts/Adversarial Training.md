@@ -1,6 +1,6 @@
 ---
 title: Adversarial Training
-href: https://lesswrong.com/tags/adversarial-training
+href: https://lesswrong.com/tag/adversarial-training
 type: tag
 tags:
   - LessWrong

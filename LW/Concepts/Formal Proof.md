@@ -1,6 +1,6 @@
 ---
 title: Formal Proof
-href: https://lesswrong.com/tags/formal-proof
+href: https://lesswrong.com/tag/formal-proof
 type: tag
 tags:
   - LessWrong

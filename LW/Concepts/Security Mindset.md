@@ -1,6 +1,6 @@
 ---
 title: Security Mindset
-href: https://lesswrong.com/tags/security-mindset
+href: https://lesswrong.com/tag/security-mindset
 type: tag
 tags:
   - LessWrong

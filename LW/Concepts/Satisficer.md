@@ -1,6 +1,6 @@
 ---
 title: Satisficer
-href: https://lesswrong.com/tags/satisficer
+href: https://lesswrong.com/tag/satisficer
 type: tag
 tags:
   - LessWrong

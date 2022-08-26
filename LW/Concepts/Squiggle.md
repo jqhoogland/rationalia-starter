@@ -1,6 +1,6 @@
 ---
 title: Squiggle
-href: https://lesswrong.com/tags/squiggle
+href: https://lesswrong.com/tag/squiggle
 type: tag
 tags:
   - LessWrong

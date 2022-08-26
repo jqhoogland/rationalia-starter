@@ -1,6 +1,6 @@
 ---
 title: Homunculus Fallacy
-href: https://lesswrong.com/tags/homunculus-fallacy
+href: https://lesswrong.com/tag/homunculus-fallacy
 type: tag
 tags:
   - LessWrong
@@ -14,7 +14,7 @@ The classic example is an "explanation" of visual processing in which an image i
 
 This position is typically refuted by arguing that this requires an infinite recursion: if we then ask how the homunculus "sees", we would start with how its "eyes" take in data, and feed them into its own little visual cortex, where we are faced with the same problem again.
 
-This is a [[Mysterious Answers to Mysterious Questions|mysterious answer]], but not a [semantic stopsign](https://www.lesswrong.com/s/5uZQHpecjn7955faL/p/FWMfQKG3RpZx6irjm). If someone answers questions of the form "why do humans do X" with "free will", and answers "why does free will do X" with "free will is free; you don't get to ask that!", this is a semantic stopsign type mysterious-answer. Like vitalism, this person is *explicitly* trying to make an explanation mysterious. The homunculus fallacy is more like phlogiston: an attempt at a reductionistic answer which fails. From [[Mysterious Answers to Mysterious Questions]]:
+This is a [[Mysterious Answers to Mysterious Questions|mysterious answer]], but not a [[Semantic Stopsigns|semantic stopsign]]. If someone answers questions of the form "why do humans do X" with "free will", and answers "why does free will do X" with "free will is free; you don't get to ask that!", this is a semantic stopsign type mysterious-answer. Like vitalism, this person is *explicitly* trying to make an explanation mysterious. The homunculus fallacy is more like phlogiston: an attempt at a reductionistic answer which fails. From [[Mysterious Answers to Mysterious Questions]]:
 
 > Vitalism shared with phlogiston the error of *encapsulating the mystery as a substance.* Fire was mysterious, and the phlogiston theory encapsulated the mystery in a mysterious substance called “phlogiston.” Life was a sacred mystery, and vitalism encapsulated the sacred mystery in a mysterious substance called “Élan vital.” Neither answer helped concentrate the model’s probability density—helped make some outcomes easier to explain than others. The “explanation” just wrapped up the question as a small, hard, opaque black ball.
 > 

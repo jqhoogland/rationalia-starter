@@ -1,6 +1,6 @@
 ---
 title: Extraterrestrial Life
-href: https://lesswrong.com/tags/extraterrestrial-life
+href: https://lesswrong.com/tag/extraterrestrial-life
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 **Extraterrestrial Life**
 
-Related Pages: [[Great Filter]], [Space Exploration & Colonization](https://www.lesswrong.com/tag/space-exploration-and-colonization), [[Biology]], [Evolution](https://www.lesswrong.com/tag/evolution)
+Related Pages: [[Great Filter]], [[Space Exploration & Colonization]], [[Biology]], [[Evolution]]

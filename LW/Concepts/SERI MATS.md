@@ -1,6 +1,6 @@
 ---
 title: SERI MATS
-href: https://lesswrong.com/tags/seri-mats
+href: https://lesswrong.com/tag/seri-mats
 type: tag
 tags:
   - LessWrong

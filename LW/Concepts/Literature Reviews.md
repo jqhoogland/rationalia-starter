@@ -1,6 +1,6 @@
 ---
 title: Literature Reviews
-href: https://lesswrong.com/tags/literature-reviews
+href: https://lesswrong.com/tag/literature-reviews
 type: tag
 tags:
   - LessWrong
@@ -14,4 +14,4 @@ Their main purpose is not to present original research, nor serve as teaching ma
 
 Note the three terms are not synonymous but gather well under the same tag.
 
-See also: [[Book Reviews|Book Reviews]], [Epistemic Review](https://www.lesswrong.com/tag/epistemic-review). [[Summaries|Summaries]]
+See also: [[Book Reviews]], [[Epistemic Review]]. [[Summaries]]

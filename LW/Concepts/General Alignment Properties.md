@@ -1,6 +1,6 @@
 ---
 title: General Alignment Properties
-href: https://lesswrong.com/tags/general-alignment-properties
+href: https://lesswrong.com/tag/general-alignment-properties
 type: tag
 tags:
   - LessWrong

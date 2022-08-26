@@ -1,6 +1,6 @@
 ---
 title: Lifelogging
-href: https://lesswrong.com/tags/lifelogging
+href: https://lesswrong.com/tag/lifelogging
 type: tag
 tags:
   - LessWrong

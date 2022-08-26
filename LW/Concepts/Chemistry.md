@@ -1,6 +1,6 @@
 ---
 title: Chemistry
-href: https://lesswrong.com/tags/chemistry
+href: https://lesswrong.com/tag/chemistry
 type: tag
 tags:
   - LessWrong

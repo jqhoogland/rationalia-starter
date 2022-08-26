@@ -1,6 +1,6 @@
 ---
 title: DIY
-href: https://lesswrong.com/tags/diy
+href: https://lesswrong.com/tag/diy
 type: tag
 tags:
   - LessWrong
@@ -10,4 +10,4 @@ tags:
 
 **DIY** means **Do It Yourself**. 
 
-**Related Pages:** [[More Dakka|More Dakka]]
+**Related Pages:** [[More Dakka]]

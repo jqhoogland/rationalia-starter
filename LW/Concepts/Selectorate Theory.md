@@ -1,6 +1,6 @@
 ---
 title: Selectorate Theory
-href: https://lesswrong.com/tags/selectorate-theory
+href: https://lesswrong.com/tag/selectorate-theory
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: External Events
-href: https://lesswrong.com/tags/external-events
+href: https://lesswrong.com/tag/external-events
 type: tag
 tags:
   - LessWrong

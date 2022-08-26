@@ -1,6 +1,6 @@
 ---
 title: Gödelian Logic
-href: https://lesswrong.com/tags/goedelian-logic
+href: https://lesswrong.com/tag/goedelian-logic
 type: tag
 tags:
   - LessWrong

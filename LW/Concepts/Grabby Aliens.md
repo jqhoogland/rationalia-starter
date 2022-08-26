@@ -1,6 +1,6 @@
 ---
 title: Grabby Aliens
-href: https://lesswrong.com/tags/grabby-aliens
+href: https://lesswrong.com/tag/grabby-aliens
 type: tag
 tags:
   - LessWrong
@@ -20,4 +20,4 @@ tags:
 **Related Pages:**
 
 *   [[Great Filter]]
-*   [Anthropics](https://www.lesswrong.com/tag/anthropics)
+*   [[Anthropics]]

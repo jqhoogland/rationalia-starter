@@ -1,6 +1,6 @@
 ---
 title: LessWrong Review
-href: https://lesswrong.com/tags/lesswrong-review
+href: https://lesswrong.com/tag/lesswrong-review
 type: tag
 tags:
   - LessWrong

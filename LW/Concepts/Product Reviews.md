@@ -1,6 +1,6 @@
 ---
 title: Product Reviews
-href: https://lesswrong.com/tags/product-reviews
+href: https://lesswrong.com/tag/product-reviews
 type: tag
 tags:
   - LessWrong

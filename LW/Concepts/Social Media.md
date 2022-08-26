@@ -1,6 +1,6 @@
 ---
 title: Social Media
-href: https://lesswrong.com/tags/social-media
+href: https://lesswrong.com/tag/social-media
 type: tag
 tags:
   - LessWrong

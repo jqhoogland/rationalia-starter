@@ -1,6 +1,6 @@
 ---
 title: Computing Overhang
-href: https://lesswrong.com/tags/computing-overhang
+href: https://lesswrong.com/tag/computing-overhang
 type: tag
 tags:
   - LessWrong
@@ -10,7 +10,7 @@ tags:
 
 **Computing overhang** refers to a situation where new algorithms can exploit existing computing power far more efficiently than before. This can happen if previously used algorithms have been suboptimal.
 
-In the context of [[Artificial General Intelligence|Artificial General Intelligence]], this signifies a situation where it becomes possible to create AGIs that can be run using only a small fraction of the easily available hardware resources. This could lead to an [intelligence explosion](https://www.lesswrong.com/tag/intelligence-explosion), or to a massive increase in the number of AGIs, as they could be easily copied to run on countless computers. This could make AGIs much more powerful than before, and present an [[Existential Risk|existential risk]].
+In the context of [[Artificial General Intelligence]], this signifies a situation where it becomes possible to create AGIs that can be run using only a small fraction of the easily available hardware resources. This could lead to an [[Intelligence Explosion|intelligence explosion]], or to a massive increase in the number of AGIs, as they could be easily copied to run on countless computers. This could make AGIs much more powerful than before, and present an [[Existential Risk|existential risk]].
 
 Examples
 --------
@@ -31,5 +31,5 @@ References
 See also
 --------
 
-*   [Optimization process](https://www.lesswrong.com/tag/optimization)
-*   [[Optimization|Optimization]]
+*   [[Optimization|Optimization process]]
+*   [[Optimization]]

@@ -1,6 +1,6 @@
 ---
 title: Astronomical Waste
-href: https://lesswrong.com/tags/astronomical-waste
+href: https://lesswrong.com/tag/astronomical-waste
 type: tag
 tags:
   - LessWrong
@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-**Astronomical waste** is a term introduced by [[Nick Bostrom|Nick Bostrom]] for the opportunities we're losing out on by not colonizing the universe.
+**Astronomical waste** is a term introduced by [[Nick Bostrom]] for the opportunities we're losing out on by not colonizing the universe.
 
 The universe is vast. There are many galaxies, each containing many stars. In a future with space colonization, each star could support a large population of people leading worthwhile lives. During any given year, we irrecoverably lose an amount of energy that could have powered a civilization like ours for many billions of years.
 
@@ -26,5 +26,5 @@ External links
 See also
 --------
 
-*   [Utilitarianism](https://www.lesswrong.com/tag/utilitarianism)
+*   [[Utilitarianism]]
 *   [[Existential Risk|Existential risk]]

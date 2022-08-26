@@ -1,6 +1,6 @@
 ---
 title: Valley of Bad Rationality
-href: https://lesswrong.com/tags/valley-of-bad-rationality
+href: https://lesswrong.com/tag/valley-of-bad-rationality
 type: tag
 tags:
   - LessWrong
@@ -22,8 +22,8 @@ Non-post example:
 See also
 --------
 
-*   [Value of Rationality](https://www.lesswrong.com/tag/value-of-rationality)
+*   [[Value of Rationality]]
 *   [[Costs of Rationality|Costs of rationality]]
-*   [Dangerous knowledge](https://www.lesswrong.com/tag/dangerous-knowledge)
-*   [[Debiasing|Debiasing]]
-*   [Information Hazards](https://www.lesswrong.com/tag/information-hazards)
+*   [[Dangerous Knowledge|Dangerous knowledge]]
+*   [[Debiasing]]
+*   [[Information Hazards]]

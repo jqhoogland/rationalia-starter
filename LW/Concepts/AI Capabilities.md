@@ -1,6 +1,6 @@
 ---
 title: AI Capabilities
-href: https://lesswrong.com/tags/ai-capabilities
+href: https://lesswrong.com/tag/ai-capabilities
 type: tag
 tags:
   - LessWrong

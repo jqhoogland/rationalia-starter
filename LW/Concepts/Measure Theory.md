@@ -1,6 +1,6 @@
 ---
 title: Measure Theory
-href: https://lesswrong.com/tags/measure-theory
+href: https://lesswrong.com/tag/measure-theory
 type: tag
 tags:
   - LessWrong

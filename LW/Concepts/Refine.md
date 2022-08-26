@@ -1,6 +1,6 @@
 ---
 title: Refine
-href: https://lesswrong.com/tags/refine
+href: https://lesswrong.com/tag/refine
 type: tag
 tags:
   - LessWrong

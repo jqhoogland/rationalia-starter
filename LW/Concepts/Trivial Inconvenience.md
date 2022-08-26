@@ -1,6 +1,6 @@
 ---
 title: Trivial Inconvenience
-href: https://lesswrong.com/tags/trivial-inconvenience
+href: https://lesswrong.com/tag/trivial-inconvenience
 type: tag
 tags:
   - LessWrong
@@ -10,7 +10,7 @@ tags:
 
 **Trivial inconveniences** are inconveniences that take few resources to counteract but have a disproportionate impact on people deciding whether to take a course of action.
 
-*See also*: [[Akrasia|Akrasia]], [Ugh field](https://www.lesswrong.com/tag/aversion-ugh-fields)
+*See also*: [[Akrasia]], [[Aversion|Ugh field]]
 
 Notable Posts
 -------------

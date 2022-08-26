@@ -1,6 +1,6 @@
 ---
 title: Brain-Computer Interfaces
-href: https://lesswrong.com/tags/brain-computer-interfaces
+href: https://lesswrong.com/tag/brain-computer-interfaces
 type: tag
 tags:
   - LessWrong
@@ -53,7 +53,7 @@ Further Reading & References
 See Also
 --------
 
-*   [Biological Cognitive Enhancement](https://www.lesswrong.com/tag/nootropics-and-other-cognitive-enhancement)
+*   [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]]
 *   [[Whole Brain Emulation|Whole brain emulation]]
-*   [Wireheading](https://www.lesswrong.com/tag/wireheading)
-*   [[Neuralink|Neuralink]]
+*   [[Wireheading]]
+*   [[Neuralink]]

@@ -1,6 +1,6 @@
 ---
 title: Perfect Predictor
-href: https://lesswrong.com/tags/perfect-predictor
+href: https://lesswrong.com/tag/perfect-predictor
 type: tag
 tags:
   - LessWrong
@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-A **perfect predictor** is an agent which can predict the behaviour of an agent or the outcome of an event with perfect accuracy. It is often given the name [[Omega|Omega]], but Omega sometimes refers to an almost perfect predictor.
+A **perfect predictor** is an agent which can predict the behaviour of an agent or the outcome of an event with perfect accuracy. It is often given the name [[Omega]], but Omega sometimes refers to an almost perfect predictor.
 
 Possibility and relevance:
 --------------------------
@@ -20,6 +20,6 @@ Some people have [attempted](https://www.lesswrong.com/posts/de3xjFaACCAk6imzv/t
 Inconsistent Counterfactuals:
 -----------------------------
 
-One challenge with perfect predictors is that it might be unclear what Omega is predicting, particularly in situations that are only [[Conditional Consistency|conditionally consistent]]. Take for example [Parfit's Hitchhiker](https://www.lesswrong.com/tag/parfits-hitchhiker). In this problem, you are trapped dying in a desert and a passing driver will only pick you up if you promise to pay them $100 once you are in town. If the driver is a perfect predictor, then someone who always defects will never end up in town, so it is unclear what exactly they are predicting, since the situation is contradictory and the [Principle of Explosion](https://en.wikipedia.org/wiki/Principle_of_explosion) means that you can prove anything.
+One challenge with perfect predictors is that it might be unclear what Omega is predicting, particularly in situations that are only [[Conditional Consistency|conditionally consistent]]. Take for example [[Parfit's Hitchhiker]]. In this problem, you are trapped dying in a desert and a passing driver will only pick you up if you promise to pay them $100 once you are in town. If the driver is a perfect predictor, then someone who always defects will never end up in town, so it is unclear what exactly they are predicting, since the situation is contradictory and the [Principle of Explosion](https://en.wikipedia.org/wiki/Principle_of_explosion) means that you can prove anything.
 
-[Counterfactuals for Perfect Predictors](https://www.lesswrong.com/posts/AKkFh3zKGzcYBiPo7/counterfactuals-for-perfect-predictors) suggests that even if we can't predict what an agent would do in an inconsistent or [[Conditional Consistency|conditionally consistent]] situation, we can predict how it would respond if given input representing an inconsistent situation (we can represent this response as an output). This aligns with [Updateless Decision Theory](https://www.lesswrong.com/tag/updateless-decision-theory) which isn't subject to this issue as it uses input-output maps.
+[Counterfactuals for Perfect Predictors](https://www.lesswrong.com/posts/AKkFh3zKGzcYBiPo7/counterfactuals-for-perfect-predictors) suggests that even if we can't predict what an agent would do in an inconsistent or [[Conditional Consistency|conditionally consistent]] situation, we can predict how it would respond if given input representing an inconsistent situation (we can represent this response as an output). This aligns with [[Updateless Decision Theory]] which isn't subject to this issue as it uses input-output maps.

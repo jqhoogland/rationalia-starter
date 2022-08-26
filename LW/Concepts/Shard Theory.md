@@ -1,6 +1,6 @@
 ---
 title: Shard Theory
-href: https://lesswrong.com/tags/shard-theory
+href: https://lesswrong.com/tag/shard-theory
 type: tag
 tags:
   - LessWrong

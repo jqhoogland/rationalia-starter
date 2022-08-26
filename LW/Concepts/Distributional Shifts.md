@@ -1,6 +1,6 @@
 ---
 title: Distributional Shifts
-href: https://lesswrong.com/tags/distributional-shifts
+href: https://lesswrong.com/tag/distributional-shifts
 type: tag
 tags:
   - LessWrong

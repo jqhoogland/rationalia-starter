@@ -1,6 +1,6 @@
 ---
 title: Appeal to Consequence
-href: https://lesswrong.com/tags/appeal-to-consequence
+href: https://lesswrong.com/tag/appeal-to-consequence
 type: tag
 tags:
   - LessWrong

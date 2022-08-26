@@ -1,6 +1,6 @@
 ---
 title: Copenhagen Interpretation of Ethics
-href: https://lesswrong.com/tags/copenhagen-interpretation-of-ethics
+href: https://lesswrong.com/tag/copenhagen-interpretation-of-ethics
 type: tag
 tags:
   - LessWrong

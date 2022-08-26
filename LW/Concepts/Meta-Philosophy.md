@@ -1,6 +1,6 @@
 ---
 title: Meta-Philosophy
-href: https://lesswrong.com/tags/meta-philosophy
+href: https://lesswrong.com/tag/meta-philosophy
 type: tag
 tags:
   - LessWrong

@@ -1,6 +1,6 @@
 ---
 title: Eliciting Latent Knowledge (ELK)
-href: https://lesswrong.com/tags/eliciting-latent-knowledge-elk
+href: https://lesswrong.com/tag/eliciting-latent-knowledge-elk
 type: tag
 tags:
   - LessWrong

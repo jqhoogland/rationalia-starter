@@ -1,6 +1,6 @@
 ---
 title: Apprenticeship
-href: https://lesswrong.com/tags/apprenticeship
+href: https://lesswrong.com/tag/apprenticeship
 type: tag
 tags:
   - LessWrong

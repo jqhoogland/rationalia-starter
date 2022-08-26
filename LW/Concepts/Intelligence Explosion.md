@@ -1,6 +1,6 @@
 ---
 title: Intelligence Explosion
-href: https://lesswrong.com/tags/intelligence-explosion
+href: https://lesswrong.com/tag/intelligence-explosion
 type: tag
 tags:
   - LessWrong
@@ -45,9 +45,9 @@ See also
 
 *   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
 *   [[Existential Risk|Existential risk]]
-*   [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence)
+*   [[Artificial General Intelligence]]
 *   [[Lawful Intelligence|Lawful intelligence]]
-*   [The Hanson-Yudkowsky AI-Foom Debate](https://www.lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate)
+*   [[The Hanson-Yudkowsky AI-Foom Debate]]
 
 External links
 --------------

@@ -1,6 +1,6 @@
 ---
 title: dath ilan
-href: https://lesswrong.com/tags/dath-ilan
+href: https://lesswrong.com/tag/dath-ilan
 type: tag
 tags:
   - LessWrong
@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-**Dath ilan** is a fictional world and civilization invented by Eliezer Yudkowsky. It is a parallel reality of earth where society is much better at coordination and various good policies have been implemented, though technology is only as advanced as earth's, if not slightly less. It can be thought as a more practical and realistic form of [Economist's Paradise](https://slatestarcodex.com/2014/08/24/the-invisible-nation-reconciling-utilitarianism-and-contractualism/). Eliezer first introduced it in his [April Fool's](https://www.lesswrong.com/tag/april-fool-s) day post '[My April Fools Day Confession](https://yudkowsky.tumblr.com/post/81447230971/my-april-fools-day-confession)', where he claimed that he was an average person from that world and none of his ideas were original.
+**Dath ilan** is a fictional world and civilization invented by Eliezer Yudkowsky. It is a parallel reality of earth where society is much better at coordination and various good policies have been implemented, though technology is only as advanced as earth's, if not slightly less. It can be thought as a more practical and realistic form of [Economist's Paradise](https://slatestarcodex.com/2014/08/24/the-invisible-nation-reconciling-utilitarianism-and-contractualism/). Eliezer first introduced it in his [[April Fool's]] day post '[My April Fools Day Confession](https://yudkowsky.tumblr.com/post/81447230971/my-april-fools-day-confession)', where he claimed that he was an average person from that world and none of his ideas were original.
 
 This world was further fleshed out (and some its backstory changed) in a later April Fool's post:
 

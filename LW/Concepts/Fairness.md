@@ -1,6 +1,6 @@
 ---
 title: Fairness
-href: https://lesswrong.com/tags/fairness
+href: https://lesswrong.com/tag/fairness
 type: tag
 tags:
   - LessWrong
@@ -16,14 +16,14 @@ It also runs it problems of value. How do we measure value? is value objective o
 
 Objective value is considered impossible, so objective fairness is considered impossible too. Which means an arbiter can't be used, and participants have to find a arrangement which is subjectively fair to them.
 
-Which opens up problems of [truthfulness](https://www.lesswrong.com/tag/honesty), strategy and verification.
+Which opens up problems of [[Honesty|truthfulness]], strategy and verification.
 
 Several posts on LessWrong deal with this topic, and it's also a field of research called Fair Division.
 
 **Related pages:**
 
 *   [[Game Theory]]
-*   [Voting Theory](https://www.lesswrong.com/tag/voting-theory)
+*   [[Voting Theory]]
 *   [[Economics]]
 
 **External links:**

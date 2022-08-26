@@ -1,6 +1,6 @@
 ---
 title: Selection vs Control
-href: https://lesswrong.com/tags/selection-vs-control
+href: https://lesswrong.com/tag/selection-vs-control
 type: tag
 tags:
   - LessWrong

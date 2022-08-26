@@ -1,6 +1,6 @@
 ---
 title: Landmark Forum
-href: https://lesswrong.com/tags/landmark-forum
+href: https://lesswrong.com/tag/landmark-forum
 type: tag
 tags:
   - LessWrong

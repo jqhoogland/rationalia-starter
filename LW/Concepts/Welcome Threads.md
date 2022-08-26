@@ -1,6 +1,6 @@
 ---
 title: Welcome Threads
-href: https://lesswrong.com/tags/welcome-threads
+href: https://lesswrong.com/tag/welcome-threads
 type: tag
 tags:
   - LessWrong
