@@ -39,7 +39,7 @@ export const gatherPosts = async () => {
             ...fromOrder(db.order("jimrandomh")),
             ...fromOrder(db.order("xixidu")),
         ]).values()
-    ].filter(p => !!p).map(p => ({...p, forceInclude: true}))
+    ].filter(p => !!p).map(p => ({...p, forceInclude: true})) as Post[]
 }
 
 export const readPosts = () => JSON.parse(fs.readFileSync('data/posts.json', 'utf8')) as Post[];

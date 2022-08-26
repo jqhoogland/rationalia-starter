@@ -10,4 +10,4 @@ tags:
 
 **Bureaucracy**
 
-**Related Pages:** [[Moral Mazes|Moral Mazes]], [Politics](https://www.lesswrong.com/tag/politics), [[Mechanism Design|Mechanism Design]], [Stagnation](https://www.lesswrong.com/tag/stagnation)
+**Related Pages:** [[Moral Mazes]], [Politics](https://www.lesswrong.com/tag/politics), [[Mechanism Design]], [Stagnation](https://www.lesswrong.com/tag/stagnation)

@@ -19,5 +19,5 @@ tags:
 
 **Related Pages:**
 
-*   [[Great Filter|Great Filter]]
+*   [[Great Filter]]
 *   [Anthropics](https://www.lesswrong.com/tag/anthropics)

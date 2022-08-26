@@ -22,9 +22,9 @@ Several posts on LessWrong deal with this topic, and it's also a field of resear
 
 **Related pages:**
 
-*   [[Game Theory|Game Theory]]
+*   [[Game Theory]]
 *   [Voting Theory](https://www.lesswrong.com/tag/voting-theory)
-*   [[Economics|Economics]]
+*   [[Economics]]
 
 **External links:**
 

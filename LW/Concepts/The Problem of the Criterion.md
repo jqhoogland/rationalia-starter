@@ -23,4 +23,4 @@ The implication of the problem of the criterion is that knowledge cannot be well
 **Related Pages:**
 
 *   [epistemology](https://www.lesswrong.com/tag/epistemology)
-*   [[Truth, Semantics, & Meaning|Truth, Semantics, & Meaning]]
+*   [[Truth, Semantics, & Meaning]]

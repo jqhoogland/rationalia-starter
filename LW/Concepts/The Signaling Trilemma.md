@@ -14,4 +14,4 @@ The **belief signaling trilemma** (or *signaling trilemma* for simplicity) point
 2.  We could agree to always report honest beliefs, but this could be very costly for cooperators and again impossible to enforce.
 3.  We could embrace dishonest reporting of beliefs, but this can severely warp the discourse.
 
-**Related tags/pages:** [[Deception|Deception]], [Honesty](https://www.lesswrong.com/tag/honesty), [[Meta-Honesty|Meta-Honesty]], [Signaling](https://www.lesswrong.com/tag/signaling)
+**Related tags/pages:** [[Deception]], [Honesty](https://www.lesswrong.com/tag/honesty), [[Meta-Honesty]], [Signaling](https://www.lesswrong.com/tag/signaling)

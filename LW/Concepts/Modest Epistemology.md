@@ -20,4 +20,4 @@ Historically, Robin Hanson has argued in favor of epistemic modesty and outside-
 
 **Related Sequences:** [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d)
 
-**Related Pages:** [modesty](https://www.lesswrong.com/tag/modesty), [[Humility|Humility]], [Inside/Outside View](https://www.lesswrong.com/tag/inside-outside-view), [[Egalitarianism|Egalitarianism]], [Modesty argument](https://www.lesswrong.com/tag/modesty-argument), [[Disagreement|Disagreement]]
+**Related Pages:** [modesty](https://www.lesswrong.com/tag/modesty), [[Humility]], [Inside/Outside View](https://www.lesswrong.com/tag/inside-outside-view), [[Egalitarianism]], [Modesty argument](https://www.lesswrong.com/tag/modesty-argument), [[Disagreement]]

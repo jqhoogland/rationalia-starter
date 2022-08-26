@@ -10,4 +10,4 @@ tags:
 
 **Extraterrestrial Life**
 
-Related Pages: [[Great Filter|Great Filter]], [Space Exploration & Colonization](https://www.lesswrong.com/tag/space-exploration-and-colonization), [[Biology|Biology]], [Evolution](https://www.lesswrong.com/tag/evolution)
+Related Pages: [[Great Filter]], [Space Exploration & Colonization](https://www.lesswrong.com/tag/space-exploration-and-colonization), [[Biology]], [Evolution](https://www.lesswrong.com/tag/evolution)

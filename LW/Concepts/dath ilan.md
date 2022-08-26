@@ -40,7 +40,7 @@ Some known features of dath ilan:
 
 **Not tagged due to spoilers:**
 
-[[Lies Told To Children|Lies Told To Children]]
+[[Lies Told To Children]]
 
 **External Posts:**
 

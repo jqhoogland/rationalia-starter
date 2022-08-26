@@ -83,7 +83,7 @@ export const db = new DB();
 const getTitleFromLink = async (href: string) => {
     try {
         if (href.includes("/tag/")) {
-            const slug = href.split("/tag/")[1].split("/")[0]
+            const slug = href.split("/tag/")[1].split("/")[0].split("?")[0]
             return (await db.tag({ slug })).name
         } else if (href.includes("/lw/")) {  // E.g.: /lw/nc/newcombs_problem_and_regret_of_rationality/ 
             const slug = href.split("/lw/")[1].split("/")[1].split("?")[0]
@@ -101,7 +101,15 @@ const getTitleFromLink = async (href: string) => {
                 throw new Error("Post doesn't meet threshold")
             }
             return post.title
-        } else if (href.includes("/book/")) {
+        } else if (href.includes("/p/")) {
+            const _id = href.split("/p/")[1].split("/")[0].split("?")[0]
+            const post = (await db.post({ _id }))
+
+            if (!post?.forceInclude && post.voteCount < 200) {
+                throw new Error("Post doesn't meet threshold")
+            }
+            return post.title
+        }else if (href.includes("/book/")) {
             const _id = href.split("/book/")[1].split("/")[0]
             return db.book({ _id }).title
         } else if (href.includes("/s/")) {
@@ -144,6 +152,10 @@ export const fixLinks = async (md: string) => {
                     href = "https://lesswrong.com" + href;
                 }
                 return `[${alias}](${href})`;
+            }
+
+            if (title === alias) {
+                return `[[${title}]]`
             }
 
             return `[[${title}|${alias}]]`

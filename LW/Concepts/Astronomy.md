@@ -8,4 +8,4 @@ tags:
   - Tag
 ---
 
-See also [[Physics|Physics]], [Astrobiology](https://www.lesswrong.com/tag/astrobiology), [[Great Filter|Great Filter]]
+See also [[Physics]], [Astrobiology](https://www.lesswrong.com/tag/astrobiology), [[Great Filter]]

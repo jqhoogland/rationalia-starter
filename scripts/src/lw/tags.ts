@@ -123,7 +123,7 @@ export const tagsToMD = async () => {
         console.log(tag.name)   
         console.log(mdFile)
 
-        const name = tag.name.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",");
+        const name = tag.name.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ");
 
         fs.writeFileSync(`../LW/Concepts/${name}.md`, mdFile)
     }
