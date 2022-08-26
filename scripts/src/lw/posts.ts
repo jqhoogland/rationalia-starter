@@ -1,7 +1,8 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
+import yaml from 'js-yaml';
 import { ReadingOrder } from "./orders";
-import { TableOfContents, TagPreview } from "./shared";
+import { db, TableOfContents, TagPreview } from "./shared";
 
 export interface Post {
     _id: string;
@@ -88,3 +89,49 @@ export const fetchPost = ({ slug, _id }: { slug?: string, _id?: string }) => {
 gatherPosts().then(writePosts)
 
 // console.log(JSON.stringify(gatherPosts(), null, 2))
+
+
+export const postsToMD = async () => {
+    const getFrontmatter = (post: Post) => {
+        const sequence = db.sequences.find(s => s.chapters.flatMap(c => c.posts).find(p => p._id === post._id));
+        const chapter = sequence?.chapters?.find(c => c.posts.find(p => p._id === post._id));
+        // const orders = db.orders.flatMap(o => o.chapters.flatMap(c => c.children.filter(p => p.type === "post" && p.href === post._id)));
+
+        return (
+            "---\n"
+            + yaml.dump({
+                title: post.title,
+                href: `https://lesswrong.com/tag/${post.slug}`,
+                type: "tag",
+                tags: [
+                    "LessWrong",
+                    "Concept",
+                    "Tag"
+                ],
+                ...(sequence ? { sequence: sequence.title } : {}),
+                ...(chapter ? { chapter: chapter.title } : {}),
+                // ...(orders ? { orders } : {}),
+            })
+            + "---"
+        )
+    }
+
+    for (const post of db.posts) {
+        if (post.forceInclude || post.voteCount > 200) {
+
+            let mdFile = ""
+            mdFile += getFrontmatter(post)
+            mdFile += "\n\n"
+            // mdFile += await fixLinks(post?.contents?.markdown ?? "");
+
+            console.log(post.title)
+            console.log(mdFile)
+
+            const name = post.title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ");
+
+            fs.writeFileSync(`../LW/Concepts/${name}.md`, mdFile)
+        }
+    }
+}
+
+await postsToMD();

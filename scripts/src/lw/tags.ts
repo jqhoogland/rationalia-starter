@@ -129,4 +129,4 @@ export const tagsToMD = async () => {
     }
 }
 
- (await tagsToMD())
+ // (await tagsToMD())
