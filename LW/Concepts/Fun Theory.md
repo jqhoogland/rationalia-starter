@@ -10,7 +10,7 @@ tags:
 
 **Fun Theory** is the field of knowledge studying how to design for fun in future society: it deals in questions such as "How much fun is there in the universe?", "Will we ever run out of fun?", "Are we having fun yet?" and "Could we be having more fun?"
 
-From [[The Fun Theory Sequence|The Fun Theory Sequence]]:
+From [The Fun Theory Sequence](https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS/the-fun-theory-sequence):
 
 > Many critics (including [George Orwell](https://www.lesswrong.com/lw/xl/eutopia_is_scary/)) have commented on the inability of authors to imagine Utopias where anyone would actually want to live. If no one can imagine a Future where anyone would want to live, that may drain off motivation to work on the project. The prospect of endless boredom is routinely fielded by conservatives as a knockdown argument against research on lifespan extension, against cryonics, against all transhumanism, and occasionally against the entire Enlightenment ideal of a better future.
 

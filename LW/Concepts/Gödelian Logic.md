@@ -22,7 +22,7 @@ This theorem is less well known than the other two, which came after it, but als
 
 ### Probabilistic Solutions
 
-One way you might think to get around Gödel's Incompleteness, is to leave behind logical certainty, and instead [[Reflection in Probabilistic Logic|assign probabilities to logical statements]]. 
+One way you might think to get around Gödel's Incompleteness, is to leave behind logical certainty, and instead [assign probabilities to logical statements](https://www.lesswrong.com/posts/duAkuSqJhGDcfMaTA/reflection-in-probabilistic-logic). 
 
 ### External Resources:
 

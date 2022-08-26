@@ -26,10 +26,10 @@ LessWrong also has many brothers and sisters like the Berkeley Rationality Commu
 
 This tag applies to any post about:
 
-*   Specific projects, orgs, and prizes \[e.g. [1](http://www.lesswrong.com/posts/xFGQdgJndLcthgWoE), [[AI Safety Research Camp - Project Proposal|2]], [3](http://www.lesswrong.com/posts/auL2gAGTb3MsYhCeN), [[Contest: $1,000 for good questions to ask to an Oracle AI|4]], [5](https://www.lesswrong.com/posts/nDHbgjdddG5EN6ocg)\]
-*   Requests and offers for help \[[Offer of collaboration and/or mentorship|[1]], [2](http://www.lesswrong.com/posts/LuL7LLqcdmM7TTYvW), [[Request for Comments on Online LessWrong/SSC Meetup--Rump Session|3]]\]
-*   Announcements, retrospectives, funding requests, and AMAs from orgs \[[1](http://www.lesswrong.com/posts/XJiNtvxoiLCpBn6FH) [[We run the Center for Applied Rationality, AMA|2]] [3](http://www.lesswrong.com/posts/KgFrtaajjfSnBSZoH), [[Bay Solstice 2019 Retrospective|4]], [5](https://www.lesswrong.com/posts/tCHsm5ZyAca8HfJSG)\]
-*   Discussions of the orgs in the LessWrong, Rationalist cluster \[[At what point should CFAR stop holding workshops due to COVID-19? |[1]], [2](https://www.lesswrong.com/posts/6SGqkCgHuNr7d4yJm/thoughts-on-the-singularity-institute-si)\]
-*   Discussions about the LessWrong, Rationalist, and related communities \[[Rationalists, Post-Rationalists, And Rationalist-Adjacents|[1]], [2](http://www.lesswrong.com/posts/yGycR8tFA3JJbvApp), [[The Berkeley Community & The Rest Of Us: A Response to Zvi & Benquo|3]]\]
+*   Specific projects, orgs, and prizes \[e.g. [1](http://www.lesswrong.com/posts/xFGQdgJndLcthgWoE), [2](http://www.lesswrong.com/posts/KgFrtaajjfSnBSZoH), [3](http://www.lesswrong.com/posts/auL2gAGTb3MsYhCeN), [4](http://www.lesswrong.com/posts/cSzaxcmeYW6z7cgtc), [5](https://www.lesswrong.com/posts/nDHbgjdddG5EN6ocg)\]
+*   Requests and offers for help \[[1](http://www.lesswrong.com/posts/bSWavBThj6ebB62gD), [2](http://www.lesswrong.com/posts/LuL7LLqcdmM7TTYvW), [3](http://www.lesswrong.com/posts/x72ta8C3dKu2QRfPv)\]
+*   Announcements, retrospectives, funding requests, and AMAs from orgs \[[1](http://www.lesswrong.com/posts/XJiNtvxoiLCpBn6FH) [2](https://www.lesswrong.com/posts/96N8BT9tJvybLbn5z/we-run-the-center-for-applied-rationality-ama) [3](http://www.lesswrong.com/posts/KgFrtaajjfSnBSZoH), [4](http://www.lesswrong.com/posts/auL2gAGTb3MsYhCeN), [5](https://www.lesswrong.com/posts/tCHsm5ZyAca8HfJSG)\]
+*   Discussions of the orgs in the LessWrong, Rationalist cluster \[[1](http://www.lesswrong.com/posts/KpnyCT7CZy4Qe6kx6), [2](https://www.lesswrong.com/posts/6SGqkCgHuNr7d4yJm/thoughts-on-the-singularity-institute-si)\]
+*   Discussions about the LessWrong, Rationalist, and related communities \[[1](http://www.lesswrong.com/posts/2Ee5DPBxowTTXZ6zf), [2](http://www.lesswrong.com/posts/yGycR8tFA3JJbvApp), [3](https://www.lesswrong.com/posts/zAqoj79A7QuhJKKvi)\]
 
 While the [World Optimization](https://www.lesswrong.com/tag/world-optimization)  core tag is for posts discussing how to do good in general, the Community tag is for the specific, concrete efforts of our community to execute plans.

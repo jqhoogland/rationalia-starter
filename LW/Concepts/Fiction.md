@@ -12,7 +12,7 @@ tags:
 
 > “Nonfiction conveys *knowledge,* fiction conveys *experience.*” \- Eliezer Yudkowsky 
 
-Eliezer Yudkowsky helped kickstart the genre of [[Rationalist Fiction|*rationalist fiction*]], which is about characters who solve the problems in their world by thinking, in a way where the reader *could figure it out too*. Not where the genius character explains it afterward like Sherlock Holmes or Artemis Fowl, but where the problem is fair and you could’ve figured it out first. Eliezer has written about this in his short online book [The Abridged Guide to Intelligent Characters](https://yudkowsky.tumblr.com/writing).
+Eliezer Yudkowsky helped kickstart the genre of [*rationalist fiction*](https://www.lesswrong.com/posts/q79vYjHAE9KHcAjSs/rationalist-fiction), which is about characters who solve the problems in their world by thinking, in a way where the reader *could figure it out too*. Not where the genius character explains it afterward like Sherlock Holmes or Artemis Fowl, but where the problem is fair and you could’ve figured it out first. Eliezer has written about this in his short online book [The Abridged Guide to Intelligent Characters](https://yudkowsky.tumblr.com/writing).
 
 Other fiction on the site is in the spirit of hard science fiction, and often involves taking the laws of a universe or the rules of a system to their extreme conclusions, and munchkining your way to become god (or something similar). They also share much of the parts of sci-fi that engage with difficult moral quandaries.
 
@@ -27,11 +27,11 @@ Fiction Sequences
 
 *   [HPMOR](https://www.lesswrong.com/hpmor)
 *   [Three Worlds Collide](https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT)
-*   [[The Bayesian Conspiracy|The Bayesian Conspiracy]]
+*   [The Bayesian Conspiracy](https://www.lesswrong.com/s/LAop879LCQWrM5YnE)
 *   [Murphy's Quest](https://www.lesswrong.com/s/4C33PKt2cQdA7oyfJ)
-*   [[Luna Lovegood|Luna Lovegood and the Chamber of Secrets]]
+*   [Luna Lovegood and the Chamber of Secrets](https://www.lesswrong.com/s/TF77XsD5PbucbJsG3)
 *   [Bayeswatch](https://www.lesswrong.com/s/TjdhvTSptCYakw3Lc)
-*   [[Short Stories|Short stories]] by lsusr
+*   [Short stories](https://www.lesswrong.com/s/qMtriMPLdriNkAfSJ) by lsusr
 
 External links
 --------------

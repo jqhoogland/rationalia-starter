@@ -12,6 +12,6 @@ Recollections of personal progress, lessons learned, memorable experiences, comi
 
 **Sequences:** 
 
-*   [[Yudkowsky's Coming of Age|Yudkowsky's Coming of Age]]
+*   [Yudkowsky's Coming of Age](https://www.lesswrong.com/s/SXurf2mWFw8LX2mkG)
 
 **Related Pages:** [Postmortems & Retrospectives](https://www.lesswrong.com/tag/postmortems-and-retrospectives), [[Updated Beliefs (examples of)|Updated Beliefs (examples of)]], [Self Improvement](https://www.lesswrong.com/tag/self-improvement), [[Progress Studies|Progress Studies]] (society level)

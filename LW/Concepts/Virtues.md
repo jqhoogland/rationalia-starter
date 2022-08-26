@@ -28,4 +28,4 @@ On LessWrong the focus is often on epistemic virtues, as in Eliezer Yudowsky's e
 **See Also:** [Courage](https://www.lesswrong.com/tag/courage), [[Trust|Trust]], [Honesty](https://www.lesswrong.com/tag/honesty), [[Agency|Agency]], [Altruism](https://www.lesswrong.com/tag/altruism), [[Ambition|Ambition]], [Stoicism / Letting Go / Making Peace](https://www.lesswrong.com/tag/stoicism-letting-go-making-peace), [[Attention|Attention]], [Gratitude](https://www.lesswrong.com/tag/gratitude)
 
 **Sequences:**  
-[[Notes on Virtues|Notes On Virtues]] by [David_Gross](https://www.lesswrong.com/users/david_gross)
+[Notes On Virtues](https://www.lesswrong.com/s/xqgwpmwDYsn8osoje) by [David_Gross](https://www.lesswrong.com/users/david_gross)

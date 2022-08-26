@@ -12,7 +12,7 @@ tags:
 
 > “Many philosophers—particularly amateur philosophers, and ancient philosophers—share a dangerous instinct: If you give them a question, they try to answer it.” - Eliezer Yudkowsky, [Dissolving the Question](https://www.lesswrong.com/posts/Mc6QcrsbH5NRXbCRX/dissolving-the-question)
 
-Sometimes a question *does* have a strong answer as stated, but also needs to be dissolved. This is ([[Thou Art Physics|arguably]]) the case with [Free Will](https://www.lesswrong.com/tag/free-will), for example:
+Sometimes a question *does* have a strong answer as stated, but also needs to be dissolved. This is ([arguably](https://www.lesswrong.com/posts/NEeW7eSXThPz7o4Ne/thou-art-physics)) the case with [Free Will](https://www.lesswrong.com/tag/free-will), for example:
 
 *   If we do have free will, there's still an additional question of why so many philosophers would conclude otherwise.
 *   If we don't have free will, there's still the question of why so many philosophers think we do.

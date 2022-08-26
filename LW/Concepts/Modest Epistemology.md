@@ -18,6 +18,6 @@ Historically, Robin Hanson has argued in favor of epistemic modesty and outside-
 
 [Immodest Caplan](http://www.overcomingbias.com/2008/09/immodest-caplan.html) by Robin Hanson
 
-**Related Sequences:** [[Inadequate Equilibria|Inadequate Equilibria]]
+**Related Sequences:** [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d)
 
 **Related Pages:** [modesty](https://www.lesswrong.com/tag/modesty), [[Humility|Humility]], [Inside/Outside View](https://www.lesswrong.com/tag/inside-outside-view), [[Egalitarianism|Egalitarianism]], [Modesty argument](https://www.lesswrong.com/tag/modesty-argument), [[Disagreement|Disagreement]]

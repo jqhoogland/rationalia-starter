@@ -16,4 +16,4 @@ tags:
 
 > People sometimes refer to Type 1 reasoning as biased, and to Type 2 reasoning as unbiased. But \[...\] there is nothing that makes one of the two types intrinsically more or less biased than the other. The bias-correction power of Type 2 processing emerges from the fact that _if_ Type 1 operations are known to be erroneous _and_ a rule-based procedure for correcting them exists, a Type 2 operation can be learned which implements that rule.
 
-> \-\- Kaj Sotala, [[System 2 as working-memory augmented System 1 reasoning|Against "System 1" and "System 2"]]
+> \-\- Kaj Sotala, [Against "System 1" and "System 2"](https://www.lesswrong.com/posts/HbXXd2givHBBLxr3d/against-system-1-and-system-2-subagent-sequence)

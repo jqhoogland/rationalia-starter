@@ -12,4 +12,4 @@ tags:
 
 While the name implies some degree of independent agency on part of the subagents, they may also be viewed as being more passive entities. For example, the "parts" in the above example may be considered different sets of beliefs, accessed one at a time by the same system.
 
-The [[Multiagent Models of Mind|Multiagent Models of Mind sequence]] explores the notion of subagents in detail. [Akrasia](https://www.lesswrong.com/tag/akrasia?useTagName=true) (acting against one's better judgment, such as by procrastinating) may involve subagent disagreement. [Internal Double Crux](https://www.lesswrong.com/tag/internal-double-crux?useTagName=true) is one technique for getting subagents to agree with each other.
+The [Multiagent Models of Mind sequence](https://www.lesswrong.com/s/ZbmRyDN8TCpBTZSip) explores the notion of subagents in detail. [Akrasia](https://www.lesswrong.com/tag/akrasia?useTagName=true) (acting against one's better judgment, such as by procrastinating) may involve subagent disagreement. [Internal Double Crux](https://www.lesswrong.com/tag/internal-double-crux?useTagName=true) is one technique for getting subagents to agree with each other.

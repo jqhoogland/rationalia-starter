@@ -14,7 +14,7 @@ Double-Crux differs from typical debates which are usually adversarial (your opi
 
 Related: [[Disagreement|Disagreement]], [Conversation](https://www.lesswrong.com/tag/conversation-topic)
 
-A version of the technique is described in [[Double Crux — A Strategy for Mutual Understanding|Double Crux – A Strategy for Resolving Disagreement]] written by (then) CFAR instructor, Duncan_Sabien. The Center for Applied Rationality (CFAR) originated the technique. Eli Tyre, another CFAR instructor who has spent a lot of time developing the technique, more recently shared [The Basic Double Crux pattern](https://www.lesswrong.com/posts/hNztRARB52Riy36Kz/the-basic-double-crux-pattern).
+A version of the technique is described in [Double Crux – A Strategy for Resolving Disagreement](https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement) written by (then) CFAR instructor, Duncan_Sabien. The Center for Applied Rationality (CFAR) originated the technique. Eli Tyre, another CFAR instructor who has spent a lot of time developing the technique, more recently shared [The Basic Double Crux pattern](https://www.lesswrong.com/posts/hNztRARB52Riy36Kz/the-basic-double-crux-pattern).
 
 See Also
 --------

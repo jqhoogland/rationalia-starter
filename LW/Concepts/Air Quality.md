@@ -14,7 +14,7 @@ Newer Green buildings are infamous among those who care about this topic for bei
 
 ## The Carbon Dioxide Debate
 
-Mostly when people talk about air quality, they're talking about particulates and Volatile Organic Compounds (VOCs). However, some studies have tried to look at [[What is up with carbon dioxide and cognition? An offer|carbon dioxide alone]], and have found large effects on cognition. It is this wiki author's belief that better studies have failed to find anything close to the size of the original effect, if anything.[^2][^4]
+Mostly when people talk about air quality, they're talking about particulates and Volatile Organic Compounds (VOCs). However, some studies have tried to look at [carbon dioxide alone](https://www.lesswrong.com/posts/pPZ27eZdBXtGuLqZC/what-is-up-with-carbon-dioxide-and-cognition-an-offer), and have found large effects on cognition. It is this wiki author's belief that better studies have failed to find anything close to the size of the original effect, if anything.[^2][^4]
 
 ## External Links
 
@@ -24,4 +24,4 @@ Mostly when people talk about air quality, they're talking about particulates an
 [^1]: [Künn et. al](https://www.iza.org/publications/dp/12632/indoor-air-quality-and-cognitive-performance)
 [^2]: [Juginovic et. al](https://www.nature.com/articles/s41598-021-01802-5)
 [^3]: [Alexander Berger on the 80,000 Hours Podcast](https://80000hours.org/podcast/episodes/alexander-berger-improving-global-health-wellbeing-clear-direct-ways/#south-asian-air-quality-021112) (link goes to transcript or audio)
-[^4]: [[Eight Hundred Slightly Poisoned Word Games|Eight Hundred Slight Poisoned Word Games]] by Scott Alexander
+[^4]: [Eight Hundred Slight Poisoned Word Games](https://www.lesswrong.com/posts/kxW6q5YdTGWh5sWby/eight-hundred-slightly-poisoned-word-games) by Scott Alexander

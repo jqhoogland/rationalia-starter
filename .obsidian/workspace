@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts (LW).md",
+            "file": "LW/Concepts/2017-2019 AI Alignment Prize.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts (LW).md"
+                "file": "LW/Concepts/2017-2019 AI Alignment Prize.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts (LW).md",
+                "file": "LW/Concepts/2017-2019 AI Alignment Prize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,15 +163,15 @@
   },
   "active": "58aaac02c70808db",
   "lastOpenFiles": [
-    "LW/LessWrong.md",
+    "LW/Concepts/80,000 Hours.md",
+    "LW/Concepts/Absurdity Heuristic.md",
+    "LW/Concepts/2017-2019 AI Alignment Prize.md",
+    "LW/Concepts/Abstraction.md",
     "LW/Concepts (LW).md",
+    "LW/LessWrong.md",
     "LW/Posts/When Truth Isn't Enough.md",
     "LW/Reading Orders/Reading Orders.md",
     "LW/Reading Orders/XiXiDu's Order.md",
-    "LW/Reading Orders/Academian's Order.md",
-    "Zombies— The Movie.md",
-    "Zombies! Zombies?.md",
-    "LW/Library (LW).md",
-    "LW/How to use.md"
+    "LW/Reading Orders/Academian's Order.md"
   ]
 }

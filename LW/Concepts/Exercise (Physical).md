@@ -10,6 +10,6 @@ tags:
 
 Can one single intervention make you live around 5 minutes longer for every minute invested, change how you look, and allow you to perform physical feats that you would have thought impossible? Yes, and it's high-intensity strength training.
 
-The current most comprehensive overview in this topic is [[Optimal Exercise|here]].
+The current most comprehensive overview in this topic is [here](https://www.lesswrong.com/posts/bZ2w99pEAeAbKnKqo/optimal-exercise).
 
 See also: [Sports](http://lesswrong.com/tag/sports), [[Well-being|Well-being]]

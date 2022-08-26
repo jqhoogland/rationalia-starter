@@ -10,7 +10,7 @@ tags:
 
 **Pascal's mugging** refers to a [thought experiment](https://wiki.lesswrong.com/wiki/thought_experiment) in decision theory, a finite analogue of [Pascal's wager](https://en.wikipedia.org/wiki/Pascal's_wager).
 
-> *Suppose someone comes to me and says, "Give me five dollars, or I'll use my magic powers from outside the Matrix to run a Turing machine that simulates and kills 3^^^^3 people.* – [[Pascal's Mugging: Tiny Probabilities of Vast Utilities|Pascal's Mugging: Tiny Probabilities of Vast Utilities]]
+> *Suppose someone comes to me and says, "Give me five dollars, or I'll use my magic powers from outside the Matrix to run a Turing machine that simulates and kills 3^^^^3 people.* – [Pascal's Mugging: Tiny Probabilities of Vast Utilities](https://www.lesswrong.com/posts/a5JAiTdytou3Jg749/pascal-s-mugging-tiny-probabilities-of-vast-utilities)
 
 *See also*: [Decision theory](https://www.lesswrong.com/tag/decision-theory), [[Counterfactual Mugging|Counterfactual Mugging]], [Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply), [[Expected Utility|Expected Utility]], [Utilitarianism](https://www.lesswrong.com/tag/utilitarianism), [[Scope Insensitivity|Scope Insensitivity]]
 

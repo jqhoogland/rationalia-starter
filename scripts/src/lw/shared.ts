@@ -12,7 +12,7 @@ export type Response<T> = {
 }
 
 export interface TableOfContents {
-    html: string,
+    html?: string,
     sections: {title: string, anchor: string, level: number}[],
     headingsCount: number
 }
@@ -87,10 +87,20 @@ const getTitleFromLink = async (href: string) => {
             return (await db.tag({ slug })).name
         } else if (href.includes("/lw/")) {  // E.g.: /lw/nc/newcombs_problem_and_regret_of_rationality/ 
             const slug = href.split("/lw/")[1].split("/")[1].split("?")[0]
-            return (await db.post({slug})).title
+            const post = (await db.post({ slug }))
+            
+            if (!post?.forceInclude && post.voteCount < 200) {
+                throw new Error("Post doesn't meet threshold")
+            }
+            return post.title
         } else if (href.includes("/posts/")) {
             const _id = href.split("/posts/")[1].split("/")[0].split("?")[0]
-            return (await db.post({ _id })).title
+            const post = (await db.post({ _id }))
+
+            if (!post?.forceInclude && post.voteCount < 200) {
+                throw new Error("Post doesn't meet threshold")
+            }
+            return post.title
         } else if (href.includes("/book/")) {
             const _id = href.split("/book/")[1].split("/")[0]
             return db.book({ _id }).title
@@ -110,13 +120,22 @@ async function replaceAsync(str: string, regex: RegExp, asyncFn: (match: string,
     const data = await Promise.all(promises);
     return str.replace(regex, () => data.shift()!);
   }
+ 
+const manualLinkTransforms = new Map([
+//     ["https://80000hours.org/", "80,000 hours"]
+])
+
 
 export const fixLinks = async (md: string) => {
     return replaceAsync(md, /\[([^\]]+)\]\(([^\)]+)\)/g, async (match, alias, href) => {        
         if (!alias || !href) {
             return match
         }
-
+        
+        if (manualLinkTransforms.has(href)) {
+            return `[[${manualLinkTransforms.get(href)}|${alias}]]`
+        }
+        
         if (href.includes('lesswrong.com')) {
             const title = await getTitleFromLink(href); // TODO: check aliases
 

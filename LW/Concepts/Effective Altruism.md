@@ -129,7 +129,7 @@ Related
 External Resources
 ------------------
 
-*   [80,000 Hours](https://80000hours.org/), who offer advice for how to have a maximally globally impactful career
+*   [[80,000 hours|80,000 Hours]], who offer advice for how to have a maximally globally impactful career
 *   [Effective Altruism,](https://www.effectivealtruism.org/) who offer support for local EA groups, as well as articles and advice surrounding EA
 *   [GiveWell,](https://www.givewell.org/) a charity doing research into the effectiveness of other charities to provide information for donors
 *   [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/?gclid=CjwKCAjwjqT5BRAPEiwAJlBuBXb3m1FKunezyfsYzYkjmgzSCHScRgZpzMH097cbAAGC5lmHUP-J3BoCcnAQAvD_BwE), a free eBook outlining reasons for donating more and more effectively

@@ -11,7 +11,7 @@ tags:
 **Progress Studies** is the study of the causes of civilizational progress, e.g., the combination of economic, technological, scientific, and cultural advancements that have transformed human life and raised standards of living over the past couple of centuries.
 
 > *The bicycle, as we know it today, was not invented until the late 1800s. Yet it was a simple mechanical invention. It would seem to require no brilliant inventive insight, and certainly no scientific background. *  
-> *Why, then, wasn’t it invented much earlier? –* [[Why did we wait so long for the bicycle?|*Why did we wait so long for the bicycle?*]]
+> *Why, then, wasn’t it invented much earlier? –* [*Why did we wait so long for the bicycle?*](https://www.lesswrong.com/posts/TPytnFcWiD2E4cTrm/why-did-we-wait-so-long-for-the-bicycle)
 
 See also:
 ---------

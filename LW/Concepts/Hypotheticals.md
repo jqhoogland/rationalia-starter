@@ -17,7 +17,7 @@ At times there has been significant debate on Less Wrong about the relevance or 
 
 In [Please Don't Fight the Hypothetical](https://www.lesswrong.com/posts/s9hTXtAPn2ZEAWutr/please-don-t-fight-the-hypothetical), TimS suggests that fighting the hypothetical is equivalent to, "I don't find this topic interesting for whatever reason, and wish to talk about something I am interested in." He says that this is fine, but suggests it is important to be aware when you are changing the subject like this.
 
-[[Hypotheticals: The Direct Application Fallacy|Hypotheticals: The Direct Application Fallacy]] suggests that it is a mistake to assume that the only reason for studying a hypothetical situation is to understand what to do in that exact situation. It suggests that practise exercises don't need to be real and in fact insisting on this can make teaching nearly impossible. It further suggests that examining degenerate cases of a theory often provides a useful sanity check and can make the limitations of a heuristic more explicit.
+[Hypotheticals: The Direct Application Fallacy](https://www.lesswrong.com/posts/5y45Kry6GtWCFePjm/hypotheticals-the-direct-application-fallacy) suggests that it is a mistake to assume that the only reason for studying a hypothetical situation is to understand what to do in that exact situation. It suggests that practise exercises don't need to be real and in fact insisting on this can make teaching nearly impossible. It further suggests that examining degenerate cases of a theory often provides a useful sanity check and can make the limitations of a heuristic more explicit.
 
 Related terms:
 --------------

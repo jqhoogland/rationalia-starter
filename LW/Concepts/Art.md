@@ -12,4 +12,4 @@ tags:
 
 Some types of art have their own tag category: [[Poetry|Poetry]], [Fiction](http://lesswrong.com/tag/fiction), [[Fiction (Topic)|Fiction(topic)]], [Games](https://www.lesswrong.com/tag/gaming-videogames-tabletop)
 
-**Related Sequences:** [[Drawing Less Wrong|Drawing Less Wrong]]
+**Related Sequences:** [Drawing Less Wrong](https://www.lesswrong.com/s/WPgA9x5ZvKu9oYvgB)

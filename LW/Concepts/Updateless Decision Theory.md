@@ -15,7 +15,7 @@ Motivation
 
 Getting this issue right is critical in building a self-improving artificial general intelligence, as such an AI must analyze its own behavior and that of a next generation that it may build.
 
-Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/users/wei_dai) and first described in [[Towards a New Decision Theory|Towards a New Decision Theory]].
+Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/users/wei_dai) and first described in [Towards a New Decision Theory](https://www.lesswrong.com/posts/de3xjFaACCAk6imzv/towards-a-new-decision-theory).
 
 See also
 --------
@@ -40,7 +40,7 @@ One valuable insight from EDT is reflected in "UDT 1.1" (see article by McAllist
 
 Both UDT and [[Timeless Decision Theory|Timeless Decision Theory]] (TDT) make decisions on the basis of what you would have pre-committed to. The difference is that UDT asks what you would have pre-committed to without the benefit of any observations you have made about the universe, while TDT asks what you would have pre-committed to give all information you've observed so far. This means that UDT pays in [Counterfactual Mugging](https://www.lesswrong.com/tag/counterfactual-mugging), while TDT does not.
 
-UDT is very similar to Functional Decision Theory (FDT), but there are differences. FDT doesn't include the UDT1.1 fix and Nate Soares [[Let's Discuss Functional Decision Theory|states]]: "Wei Dai doesn't endorse FDT's focus on causal-graph-style counterpossible reasoning; IIRC he's holding out for an approach to counterpossible reasoning that falls out of evidential-style conditioning on a logically uncertain distribution". Rob Bensinger says that he's heard UDT described as "FDT + a theory of anthropics".
+UDT is very similar to Functional Decision Theory (FDT), but there are differences. FDT doesn't include the UDT1.1 fix and Nate Soares [states](https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory?commentId=LzPH8utKGSf97NihW): "Wei Dai doesn't endorse FDT's focus on causal-graph-style counterpossible reasoning; IIRC he's holding out for an approach to counterpossible reasoning that falls out of evidential-style conditioning on a logically uncertain distribution". Rob Bensinger says that he's heard UDT described as "FDT + a theory of anthropics".
 
 Since it is formalised using input-output maps instead of in terms of situations, it allows us to make predictions about what an agent would do given [input representing an inconsistent situation](https://www.lesswrong.com/posts/EXtzy3v4soZcoZjuH/a-short-note-on-udt), which can be important when dealing with perfect predictors.
 
@@ -64,7 +64,7 @@ Blog posts
 *   [List of Problems That Motivated UDT](http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/) by Wei Dai
 *   [Another attempt to explain UDT](http://lesswrong.com/lw/334/another_attempt_to_explain_udt/) by cousin_it
 *   [What is Wei Dai's Updateless Decision Theory?](http://lesswrong.com/lw/294/what_is_wei_dais_updateless_decision_theory/) by AlephNeil
-*   [[Comparison of decision theories (with a focus on logical-counterfactual decision theories)|Comparison of decision theories (with a focus on logical-counterfactual decision theories)]], by riceissa. (Gives a good description of UDT 1.0 vs 1.1)
+*   [Comparison of decision theories (with a focus on logical-counterfactual decision theories)](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical), by riceissa. (Gives a good description of UDT 1.0 vs 1.1)
 *   [All posts tagged "UDT"](http://lesswrong.com/tag/udt/)
 
 Relevant Comments

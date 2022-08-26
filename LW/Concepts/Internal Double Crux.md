@@ -17,6 +17,6 @@ For those who find formal instructions helpful, these are the four instructions 
 3.  Seek double cruxes
 4.  Resonate
 
-The current best writeups are in [[CFAR Participant Handbook now available to all|the CFAR Handbook]] and in Alkjash's [Hammertime sequence](https://www.lesswrong.com/posts/mQmx4kQQtHeBip9ZC/internal-double-crux).
+The current best writeups are in [the CFAR Handbook](https://www.lesswrong.com/posts/Z9cbwuevS9cqaR96h/cfar-participant-handbook-now-available-to-all) and in Alkjash's [Hammertime sequence](https://www.lesswrong.com/posts/mQmx4kQQtHeBip9ZC/internal-double-crux).
 
 For a similar technique that IDC is arguably a special case of, see [[Internal Family Systems|Internal Family Systems]].

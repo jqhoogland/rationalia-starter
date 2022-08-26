@@ -1,0 +1,17 @@
+---
+title: Book Reviews
+href: https://lesswrong.com/tags/book-reviews
+type: tag
+tags:
+  - LessWrong
+  - Concept
+  - Tag
+---
+
+**Book Reviews** on LessWrong are different from normal book reviews; they summarize and respond to a book's core ideas first, and judge whether you should read it second. A good book review sometimes distills the book's ideas so well that you no longer need to read the book.
+
+Reviews engage with the perspective of the author, someone who has put in the effort to record their understanding of the world. Some of the best essays on LessWrong are reviews that teach us about [[History|history]], [psychology](https://www.lesswrong.com/tag/replication-crisis), [[Biology|biology]], or some other area where the author has developed a detailed understanding of a phenomena that few others have ever reached, and the essay writer engages with that perspective from our rationalist perspective.
+
+Good book reviews embody the virtues of [scholarship](https://www.lesswrong.com/tag/scholarship-and-learning), [[Curiosity|curiosity]] and perspective-taking.
+
+**Related Pages:** [Epistemic Review](https://www.lesswrong.com/tag/epistemic-review), [[Summaries|Summaries]], [Literature Reviews](https://www.lesswrong.com/tag/literature-reviews), [[LessWrong Review|LessWrong Review]]

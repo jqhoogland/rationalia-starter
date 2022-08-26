@@ -10964,5 +10964,681 @@
     },
     "parentTag": null,
     "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb15a",
+    "name": "Belief In Belief",
+    "core": null,
+    "slug": "belief-in-belief",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Belief in belief** is a situation where a model of the world you claim and believe to have is at odds with a model of the world that [explains](https://www.lesswrong.com/tag/technical-explanation) your actions and drives your [anticipation of experience](https://www.lesswrong.com/tag/making-beliefs-pay-rent). You are always ready to provide an excuse for the next experiment not supporting your stated belief, because you know the outcome of the experiment in advance, but have to [rationalize](https://www.lesswrong.com/tag/rationalization) it in terms of the stated belief. Belief in belief can be seen as a form of [compartmentalization](https://www.lesswrong.com/tag/compartmentalization), which protects your actual model of the world from insane memes that survive as stated beliefs. Were you to [really believe](https://www.lesswrong.com/tag/bite-the-bullet) and not just believe in belief, the consequences of error would be much more severe.\n\n*Related tags:* [Belief](https://www.lesswrong.com/tag/belief), [Alief](https://www.lesswrong.com/tag/alief), [Self-deception](https://www.lesswrong.com/tag/self-deception)\n\nPosts\n-----\n\n*   [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)\n*   [No, Really, I've Deceived Myself](http://lesswrong.com/lw/r/no_really_ive_deceived_myself/)\n*   [Belief in Self-Deception](http://lesswrong.com/lw/s/belief_in_selfdeception/)\n*   [Modularity, Signaling, and Belief in Belief](http://lesswrong.com/lw/8ev/modularity_signaling_and_belief_in_belief/) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)\n\nExternal links\n--------------\n\n*   [The folly of pretence](http://www.guardian.co.uk/commentisfree/belief/2009/jul/16/daniel-dennett-belief-atheism) by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)\n*   [The Dragon In My Garage](http://www.godlessgeeks.com/LINKS/Dragon.htm) by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)\n\nSee also\n--------\n\n*   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)\n*   [Bite the bullet](https://www.lesswrong.com/tag/bite-the-bullet), [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)\n*   [Making beliefs pay rent](https://www.lesswrong.com/tag/making-beliefs-pay-rent), [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb195",
+    "name": "Improper Belief",
+    "core": null,
+    "slug": "improper-belief",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "An **improper belief** is a [belief](https://www.lesswrong.com/tag/belief) that isn't concerned with describing the [territory](https://wiki.lesswrong.com/wiki/territory). A proper belief, on the other hand, [requires observations](https://www.lesswrong.com/tag/beliefs-require-observations), gets [updated](https://www.lesswrong.com/tag/belief-update) upon encountering new [evidence](https://www.lesswrong.com/tag/evidence), and [provides practical benefit](https://wiki.lesswrong.com/wiki/beliefs_pay_rent) in [anticipated experience](https://www.lesswrong.com/tag/technical-explanation).\n\nNote that the fact that a belief just happens to be true doesn't mean you're right to have it. If you buy a [lottery](https://www.lesswrong.com/tag/lottery) ticket, certain that it's a winning ticket (for no reason), and it happens to be, believing that was still a mistake.\n\nImproper belief is one of the subjects of the [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions) sequence. Types of improper belief discussed there include:\n\n*   [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)\n*   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)\n*   [Belief in belief](https://www.lesswrong.com/tag/belief-in-belief)\n*   [Belief as cheering](https://wiki.lesswrong.com/wiki/Belief_as_cheering)\n\nBlog posts\n----------\n\n*   [Belief as Attire](http://lesswrong.com/lw/i7/belief_as_attire/)\n\nSee also\n--------\n\n*   [Anti-epistemology](https://www.lesswrong.com/tag/anti-epistemology)\n*   [Self-deception](https://www.lesswrong.com/tag/self-deception)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb28f",
+    "name": "Evidential Decision Theory",
+    "core": null,
+    "slug": "evidential-decision-theory",
+    "oldSlugs": null,
+    "postCount": 11,
+    "description": {
+      "markdown": "**Evidential Decision Theory** – EDT – is a branch of [decision theory](https://www.lesswrong.com/tag/decision-theory) which advises an agent to take actions which, conditional on it happening, maximizes the chances of the desired outcome. As any branch of decision theory, it prescribes taking the action that maximizes [utility](https://www.lesswrong.com/tag/utility), that which utility equals or exceeds the utility of every other option. The utility of each action is measured by the [expected utility](https://www.lesswrong.com/tag/expected-utility), the averaged by probabilities sum of the utility of each of its possible results. How the actions can influence the probabilities differ between the branches. [Causal Decision Theory](https://www.lesswrong.com/tag/causal-decision-theory) – CDT – says only through causal process one can influence the chances of the desired outcome [^1^](#fn1). EDT, on the other hand, requires no causal connection, the action only have to be a [Bayesian](https://www.lesswrong.com/tag/bayesianism) evidence for the desired outcome. Some critics say it recommends auspiciousness over causal efficacy[^2^](#fn2).\n\nOne usual example where EDT and CDT commonly diverge is the [Smoking lesion](https://www.lesswrong.com/tag/smoking-lesion): “Smoking is strongly correlated with lung cancer, but in the world of the Smoker's Lesion this correlation is understood to be the result of a common cause: a genetic lesion that tends to cause both smoking and cancer. Once we fix the presence or absence of the lesion, there is no additional correlation between smoking and cancer. Suppose you prefer smoking without cancer to not smoking without cancer, and prefer smoking with cancer to not smoking with cancer. Should you smoke?” CDT would recommend smoking since there is no causal connection between smoking and cancer. They are both caused by a gene, but have no causal direct connection with each other. EDT on the other hand wound recommend against smoking, since smoking is an evidence for having the mentioned gene and thus should be avoided.\n\nCDT uses probabilities of conditionals and contrafactual dependence to calculate the expected utility of an action – which track causal relations -, whereas EDT simply uses conditional probabilities. The probability of a conditional is the probability of the whole conditional being true, where the conditional probability is the probability of the consequent given the antecedent. A conditional probability of B given A - P(B|A) -, simply implies the Bayesian probability of the event B happening given we known A happened, it’s used in EDT. The probability of conditionals – P(A > B) - refers to the probability that the conditional 'A implies B' is true, it is the probability of the contrafactual ‘If A, then B’ be the case. Since contrafactual analysis is the key tool used to speak about causality, probability of conditionals are said to mirror causal relations. In most usual cases these two probabilities are the same. However, David Lewis proved [^3^](#fn3) its’ impossible to probabilities of conditionals to always track conditional probabilities. Hence evidential relations aren’t the same as causal relations and CDT and EDT will diverge depending on the problem. In some cases EDT gives a better answers then CDT, such as the [Newcomb's problem](https://www.lesswrong.com/tag/newcomb-s-problem), whereas in the [Smoking lesion](https://www.lesswrong.com/tag/smoking-lesion) problem where CDT seems to give a more reasonable prescription.\n\nReferences\n----------\n\n1.  [http://plato.stanford.edu/entries/decision-causal/](http://plato.stanford.edu/entries/decision-causal/)[↩](#fnref1)\n2.  Joyce, J.M. (1999), The foundations of causal decision theory, p. 146[↩](#fnref2)\n3.  Lewis, D. (1976), \"Probabilities of conditionals and conditional probabilities\", The Philosophical Review (Duke University Press) 85 (3): 297–315[↩](#fnref3)\n\nBlog posts\n----------\n\n*   [*Smoking Lesion Steelman*](https://agentfoundations.org/item?id=1525) by Abram Demski\n*   [*Decision Theory FAQ*](http://lesswrong.com/lw/gu1/decision_theory_faq/) by Luke Muehlhauser\n*   [*On Causation and Correlation Part 1*](https://casparoesterheld.files.wordpress.com/2016/12/almond_edt_1.pdf)\n*   [*Two-boxing, smoking and chewing gum in Medical Newcomb problems*](http://lesswrong.com/lw/men/twoboxing_smoking_and_chewing_gum_in_medical/) by Caspar Oesterheld\n*   [*Did EDT get it right all along? Introducing yet another medical Newcomb problem*](http://lesswrong.com/r/discussion/lw/oih/did_edt_get_it_right_all_along_introducing_yet/) by Johannes Treutlein\n*   [*\"Betting on the Past\" by Arif Ahmed*](https://casparoesterheld.com/2017/02/06/betting-on-the-past-by-arif-ahmed/) by Johannes Treutlein\n*   [*Why conditioning on \"the agent takes action a\" isn't enough*](https://agentfoundations.org/item?id=92) by Nate Soares\n\nSee also\n--------\n\n*   [Decision theory](https://www.lesswrong.com/tag/decision-theory)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1b2",
+    "name": "Bite The Bullet",
+    "core": null,
+    "slug": "bite-the-bullet",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "To **bite the bullet** is to accept the consequences of a hard choice, or unintuitive conclusions of a formal reasoning procedure.\n\nBlog posts\n----------\n\n*   [Biting Evolution Bullets](http://www.overcomingbias.com/2008/05/biting-evolutio.html) by [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)\n\nExternal links\n--------------\n\n*   [The bullet-swallowers](http://scottaaronson.com/blog/?p=326) by [Scott Aaronson](https://wiki.lesswrong.com/wiki/Scott_Aaronson)\n\nSee also\n--------\n\n*   [Cached thought](https://www.lesswrong.com/tag/cached-thought), [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign)\n*   [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)\n*   [Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply)\n*   [Belief in belief](https://www.lesswrong.com/tag/belief-in-belief)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb146",
+    "name": "Dangerous Knowledge",
+    "core": null,
+    "slug": "dangerous-knowledge",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Intelligence, in order to be useful, must be used for something other than defeating itself. Knowledge of human heuristics and [biases](https://wiki.lesswrong.com/wiki/biases) may cause people to selectively find those biases in arguments they disagree with. This ability to destroy arguments that aren't already accepted will make a more knowledgeable person less able to change their views when presented with [evidence](https://www.lesswrong.com/tag/evidence).\n\nEven simple facts, when learned superficially, can turn against you, for reasons related to [representativeness bias](https://wiki.lesswrong.com/wiki/representativeness_bias). Norbert Schwarz et al. write[^1^](#fn1):\n\nBlog posts\n----------\n\n*   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)\n*   [The Denier’s Dilemma](http://www.overcomingbias.com/2007/09/the-deniers-con.html) by [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)\n\nSee also\n--------\n\n*   [Debiasing](https://www.lesswrong.com/tag/debiasing), [Valley of bad rationality](https://www.lesswrong.com/tag/valley-of-bad-rationality)\n*   [Epistemic hygiene](https://www.lesswrong.com/tag/epistemic-hygiene)\n*   [Representativeness heuristic](https://www.lesswrong.com/tag/representativeness-heuristic)\n*   [Self-deception](https://www.lesswrong.com/tag/self-deception)\n*   [Motivated Skepticism](https://www.lesswrong.com/tag/motivated-skepticism)\n*   [Information hazard](https://www.lesswrong.com/tag/information-hazards)\n\nReferences\n----------\n\n1.   Schwarz, N., Sanna, L.J., Skurnik, I., & Yoon, C. (2007). \"Metacognitive experiences and the intricacies of setting people straight: Implications for debiasing and public information campaigns\". Advances in Experimental Social Psychology 39: 127-161.\n\n* * *"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1f4",
+    "name": "Understanding",
+    "core": null,
+    "slug": "understanding",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Understanding** is more than just [memorization](https://www.lesswrong.com/tag/memorization) of detached facts; it requires ability to see the implications across a variety of possible contexts.\n\nBlog posts\n----------\n\n*   [Two More Things to Unlearn from School](http://lesswrong.com/lw/i2/two_more_things_to_unlearn_from_school/)\n*   [Truly Part Of You](http://lesswrong.com/lw/la/truly_part_of_you/)\n*   [Understanding your understanding](http://lesswrong.com/lw/1yq/understanding_your_understanding/) by [Silas Barta](https://wiki.lesswrong.com/wiki/Silas_Barta)\n\nSee also\n--------\n\n*   [Memorization](https://www.lesswrong.com/tag/memorization), [Teacher's password](https://wiki.lesswrong.com/wiki/Teacher's_password)\n*   [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign), [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)\n*   [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief), [Detached lever fallacy](https://www.lesswrong.com/tag/detached-lever-fallacy)\n*   [General knowledge](https://www.lesswrong.com/tag/general-knowledge)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb126",
+    "name": "Beliefs Require Observations",
+    "core": null,
+    "slug": "beliefs-require-observations",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "To form accurate [beliefs](https://www.lesswrong.com/tag/belief) about something, you _really_ do have to observe it. This can be viewed as a special case of the second law of [thermodynamics](https://wiki.lesswrong.com/wiki/thermodynamics), in fact, since \"knowledge\" is correlation of belief with reality, which is mutual information, which is a form of negentropy.\n\nBlog posts\n----------\n\n*   [The Second Law of Thermodynamics, and Engines of Cognition](http://lesswrong.com/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)\n*   [What is Evidence?](http://lesswrong.com/lw/jl/what_is_evidence/)\n*   [The Parable of the Dagger](http://lesswrong.com/lw/ne/the_parable_of_the_dagger/)\n\nSee also\n--------\n\n*   [Evidence](https://www.lesswrong.com/tag/evidence)\n*   [Belief update](https://www.lesswrong.com/tag/belief-update)\n*   [Belief in belief](https://www.lesswrong.com/tag/belief-in-belief)\n*   [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb0dc",
+    "name": "Connotation",
+    "core": null,
+    "slug": "connotation",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Connotation** is a subjective cultural and/or emotional coloration in addition to the explicit or denotative meaning of any specific word or phrase in a language, i.e. emotional association with a word.\n\nBlog posts\n----------\n\n*   [When Truth is a Trap](http://www.overcomingbias.com/2006/12/when_truth_is_a.html) by David J. Balan\n*   [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/) \\- Inability of most people to adequately process statistical information causes even _mentioning_ of negative [possibilities](https://www.lesswrong.com/tag/possibility), with probability however small, to produce significant negative affect.\n*   [Rationality and the English Language](http://lesswrong.com/lw/jc/rationality_and_the_english_language/)\n*   [Sneaking in Connotations](http://lesswrong.com/lw/ny/sneaking_in_connotations/)\n*   [When Truth Isn't Enough](http://lesswrong.com/lw/4h/when_truth_isnt_enough/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)\n\nSee also\n--------\n\n*   [Antiprediction](https://www.lesswrong.com/tag/antiprediction)\n*   [Not technically a lie](https://www.lesswrong.com/tag/not-technically-a-lie)\n*   [Affect heuristic](https://www.lesswrong.com/tag/affect-heuristic)\n*   [Inferential distance](https://www.lesswrong.com/tag/inferential-distance), [scope insensitivity](https://www.lesswrong.com/tag/scope-insensitivity)\n*   [Alief](https://www.lesswrong.com/tag/alief)\n*   [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1f8",
+    "name": "Sequences",
+    "core": null,
+    "slug": "sequences",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "A **sequence** is a series of multiple posts on Less Wrong on the same topic, to coherently and fully explore a particular thesis. See the [Library page](/library) for a list of LessWrong sequences in their modern form.\n\nThe [original sequences](/tag/original-sequences) were written by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky) with the goal of creating a book on rationality. [MIRI](https://wiki.lesswrong.com/wiki/MIRI) has since collated and edited the sequences into [Rationality: From AI to Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies). If you are new to Less Wrong, this book is the best place to start.\n\nRationality: From AI to Zombies\n-------------------------------\n\n![](https://wiki.lesswrong.com/images/2/23/Rationality-Angled-Cover-Web.jpg)\n\n[*Rationality: From AI to Zombies*](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies) cover image.\n\n[*Rationality: From AI to Zombies*](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies) is an ebook collecting six books worth of essays on the science and philosophy of human rationality. It's one of the best places to start for people who want to better understand topics that crop up on *Less Wrong*, such as cognitive bias, the map-territory distinction, meta-ethics, and existential risk.\n\nThe ebook can be downloaded on a \"pay-what-you-want\" basis from [intelligence.org](https://intelligence.org/rationality-ai-zombies). Its six books in turn break down into twenty-six sections:\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n*   Book I: [***Map and Territory***](https://www.lesswrong.com/tag/map-and-territory). An introduction to the Bayesian concept of rational belief.\n    *   A. Predictably Wrong\n    *   B. Fake Beliefs\n    *   C. Noticing Confusion\n    *   D. Mysterious Answers\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n*   Book II: [***How to Actually Change Your Mind***](https://www.lesswrong.com/tag/how-to-actually-change-your-mind). A guide to noticing motivated reasoning and overcoming confirmation bias.\n    *   E. Overly Convenient Excuses\n    *   F. Politics and Rationality\n    *   G. Against Rationalization\n    *   H. Against Doublethink\n    *   I. Seeing with Fresh Eyes\n    *   J. Death Spirals\n    *   K. Letting Go\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n*   Book III: [***The Machine in the Ghost***](https://www.lesswrong.com/tag/the-machine-in-the-ghost). Essays on the general topic of minds, goals, and concepts.\n    *   L. The Simple Math of Evolution\n    *   M. Fragile Purposes\n    *   N. A Human's Guide to Words\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n*   Book IV: [***Mere Reality***](https://www.lesswrong.com/tag/mere-reality). Essays on science and the physical world.\n    *   O. Lawful Truth\n    *   P. Reductionism 101\n    *   Q. Joy in the Merely Real\n    *   R. Physicalism 201\n    *   S. Quantum Physics and Many Worlds\n    *   T. Science and Rationality\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n*   Book V: [***Mere Goodness***](https://www.lesswrong.com/tag/mere-goodness). A discussion of ethics, and of things people value in general.\n    *   U. Fake Preferences\n    *   V. Value Theory\n    *   W. Quantified Humanism\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n*   Book VI: [***Becoming Stronger***](https://www.lesswrong.com/tag/becoming-stronger). Essays on self-improvement, group rationality, and rationality groups.\n    *   X. Yudkowsky's Coming of Age\n    *   Y. Challenging the Difficult\n    *   Z. The Craft and the Community\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nOther sequences by Eliezer Yudkowsky\n------------------------------------\n\nThe following collections of essays come from the [**original sequences**](https://www.lesswrong.com/tag/original-sequences), an earlier version of much of the material from *Rationality: From AI to Zombies*:\n\n*   [Ethical Injunctions](https://wiki.lesswrong.com/wiki/Ethical_Injunctions): A discussion of prohibitions you may want to follow even when you've thought of a clever reason to think they don't apply.\n*   [The Metaethics Sequence](https://www.lesswrong.com/tag/metaethics-sequence): A longer version of \"Value Theory\", discussing the apparent \"arbitrariness\" of human morality.\n*   [The Fun Theory Sequence](https://www.lesswrong.com/tag/the-fun-theory-sequence): A discussion of the complexity of human value, and what the universe might look like if everything were much, much better. Fun theory is the optimistic, far-future-oriented part of value theory, asking: How much fun is there in the universe; will we ever run out of fun; are we having fun yet; could we be having more fun?\n*   [The Quantum Physics Sequence](https://www.lesswrong.com/tag/the-quantum-physics-sequence): A much longer version of the \"Quantum Physics and Many Worlds\", delving more into the implications of physics for our concepts of personal identity and time.\n\nOther collections from the same time period (2006-2009) include:\n\n*   [**The Hanson-Yudkowsky AI-Foom Debate**](https://www.lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate): A blog conversation between Eliezer Yudkowsky and Robin Hanson on the topic of [intelligence explosion](https://www.lesswrong.com/tag/intelligence-explosion) and how concerned we should be about superintelligent AI.\n*   [**Free Will**](https://www.lesswrong.com/tag/free-will-solution): Yudkowsky's answer to a challenge he raises in *Rationality: From AI to Zombies* to come up with an explanation for the human *feeling* that we have free will.\n\nYudkowsky has also written a more recent sequence:\n\n*   [**Highly Advanced Epistemology 101 for Beginners**](https://www.lesswrong.com/tag/highly-advanced-epistemology-101-for-beginners). These essays include a discussion of truth, formal logic, causality, and metaethics, and are a good way for more ambitious readers to quickly get up to speed.\n\nSequences by others\n-------------------\n\nSequences of essays by [**Scott Alexander**](https://wiki.lesswrong.com/wiki/Yvain) include:\n\n*   [Positivism, Self Deception, and Neuroscience](https://www.lesswrong.com/tag/positivism-self-deception-and-neuroscience-sequence)\n*   [Priming and Implicit Association](https://wiki.lesswrong.com/wiki/Priming_and_Implicit_Association_(sequence)). Priming may be described as the capability of any random stimulus to commandeer your thinking and judgement for the next several minutes. Scared? Don't be. There exist ways to defend yourself against these kinds of intrusions, and there are even methods to harness them into useful testing mechanisms.\n*   [The Blue-Minimizing Robot](https://wiki.lesswrong.com/wiki/The_Blue-Minimizing_Robot_(sequence))\n*   [Introduction to Game Theory](http://lesswrong.com/lw/dbe/introduction_to_game_theory_sequence_guide)\n\nSequences by [**Luke Muehlhauser**](https://wiki.lesswrong.com/wiki/Lukeprog):\n\n*   [The Science of Winning at Life](https://www.lesswrong.com/tag/the-science-of-winning-at-life). This sequence summarizes scientifically-backed advice for \"winning\" at everyday life: in one's productivity, in one's relationships, in one's emotions, etc. Each post concludes with footnotes and a long list of references from the academic literature.\n*   [Rationality and Philosophy](https://www.lesswrong.com/tag/rationality-and-philosophy). This sequence explains how intuitions are used in mainstream philosophy and what the science of intuitions suggests about how intuitions *should* be used in philosophy.\n*   [No-Nonsense Metaethics](https://www.lesswrong.com/tag/no-nonsense-metaethics). This sequence explains and defends a naturalistic approach to metaethics.\n\nBy [**Anna Salamon**](https://wiki.lesswrong.com/wiki/AnnaSalamon):\n\n*   [Decision Theory of Newcomblike Problems](https://wiki.lesswrong.com/wiki/Decision_Theory_of_Newcomblike_Problems_(sequence)). Decisions need to be modeled with some structure in order to be scrutinized and systematically improved; simply \"intuiting\" the answers to decision problems by ad-hoc methods is not conducive to thorough analysis. For this, we formulate decision theories. This sequence, themed with an analysis of Newcomb's problem, is a consolidated summary and context for the many decision theory discussions found on LessWrong at the time of writing.\n\nBy [**Alicorn**](https://wiki.lesswrong.com/wiki/Alicorn):\n\n*   [Living Luminously](http://lesswrong.com/lw/1xh/living_luminously/). [Luminosity](https://www.lesswrong.com/tag/luminosity), as used here, is self-awareness. A luminous mental state is one that you have and know that you have. It could be an [emotion](https://www.lesswrong.com/tag/emotions), a [belief](https://www.lesswrong.com/tag/belief) or [alief](https://www.lesswrong.com/tag/alief), a disposition, a [quale](https://www.lesswrong.com/tag/qualia), a memory - anything that might happen or be stored in your brain. What's going on in your head?\n\nAnd by [**Kaj Sotala**](https://wiki.lesswrong.com/wiki/Kaj_Sotala):\n\n*   [What Intelligence Tests Miss](http://lesswrong.com/tag/whatintelligencetestsmiss). A sequence summarizing the content of Keith Stanovich's book *What Intelligence Tests Miss*.\n*   [Why Everyone (Else) Is a Hypocrite](http://lesswrong.com/tag/whyeveryonehypocrite) by [Kaj_Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala). An unfinished sequence summarizing the content of Robert Kurzban's book *Why Everyone (Else) is a Hypocrite: Evolution and the Modular Mind*.\n\nOther resources\n---------------\n\n[Benito's Guide](http://lesswrong.com/user/Benito/) aims to systematically fill the reader in on the most important ideas discussed on LessWrong (not just in the sequences). It also begins with a series of videos, which are a friendly introduction, and useful if you enjoy talks and interviews.\n\n*Thinking and Deciding* by Jonathan Baron and *Good and Real* by Gary Drescher have been mentioned as books that overlap significantly with the sequences. [More about how the sequences fit in with work done by others](http://lesswrong.com/r/all/lw/eik/eliezers_sequences_and_mainstream_academia/).\n\nTranslations\n------------\n\n*   [French](http://rationalite.wordpress.com)\n*   [Italian](http://xrazionalita.wordpress.com)\n*   [Spanish](http://xracionalidad.wordpress.com)\n*   [Russian](http://lesswrong.ru)\n*   [Bahasa Indonesia](https://sites.google.com/site/makananuntukpikiran/sequences)\n*   [Slovak](http://bur.sk/sk/lesswrong)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb0d2",
+    "name": "Bayesian Probability",
+    "core": null,
+    "slug": "bayesian-probability",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Bayesian probability** represents a level of certainty relating to a potential outcome or idea. This is in contrast to a [frequentist](https://en.wikipedia.org/wiki/Frequentist_inference) probability that represents the frequency with which a particular outcome will occur over any number of trials.\n\nAn [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) with Bayesian probability of .6 (or 60%) should be interpreted as stating \"With confidence 60%, this event contains the true outcome\", whereas a frequentist interpretation would view it as stating \"Over 100 trials, we should observe event X approximately 60 times.\"\n\nThe difference is more apparent when discussing ideas. A frequentist will not assign probability to an idea; either it is true or false and it cannot be true 6 times out of 10.\n\nBlog posts\n----------\n\n*   [What is Bayesianism?](http://lesswrong.com/lw/1to/what_is_bayesianism/)\n*   [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)\n*   [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)\n*   [When (Not) To Use Probabilities](http://lesswrong.com/lw/sg/when_not_to_use_probabilities/)\n*   [Against NHST](http://lesswrong.com/lw/g13/against_nhst/)\n*   [All Less Wrong posts tagged \"Probability\"](https://www.lesswrong.com/tag/probability-and-statistics?showPostCount=true&useTagName=false)\n\nSee also\n--------\n\n*   [Priors](https://www.lesswrong.com/tag/priors)\n*   [Bayesian](https://www.lesswrong.com/tag/bayesianism)\n*   [Bayes' theorem](https://www.lesswrong.com/tag/bayes-theorem)\n*   [Mind projection fallacy](https://www.lesswrong.com/tag/mind-projection-fallacy)\n\nExternal links\n--------------\n\n*   [BIPS](http://www.astro.cornell.edu/staff/loredo/bayes/index.html): Bayesian Inference for the Physical Sciences\n*   [Maximum entropy thermodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)\n*   [What is Bayesian statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb174",
+    "name": "Likelihood Ratio",
+    "core": null,
+    "slug": "likelihood-ratio",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "A **likelihood ratio** is the ratio of two probabilities. It is often used to compare two hypotheses or models to measure the relative strength of evidence supporting them.\n\nIt is used in the [odds form](https://www.lesswrong.com/tag/odds) of [Bayes' theorem](https://www.lesswrong.com/tag/bayes-theorem), the likelihood ratio is the relative probability of B being observed if hypothesis A is true, versus B being observed if hypothesis ¬A is true. Therefore, a Bayesian update can be calculated by converting the prior probability to odds, multiplying by the likelihood ratio, and converting the posterior odds back to probability. Knowing the probabilities for observing the evidence is unnecessary, only how many times more likely it is under one hypothesis than the other.\n\nIf the likelihood ratio is known, Bayesian updates are faster and more intuitive to calculate using the odds form. For example, if you know that A being true makes the observation of B twice as likely as when ¬A is true, the update can be calculated by converting the prior to odds, multiplying by two, and converting back. Additionally, if the prior is low, probability and odds can be approximated as each other (p=0.1 iff odds=0.111, and p=0.01 iff odds=0.0101), so the posterior probability can be approximated by skipping the conversion and simply multiplying by two.\n\nBlog posts\n----------\n\n*   [Share likelihood ratios, not posterior beliefs](http://www.overcomingbias.com/2009/02/share-likelihood-ratios-not-posterior-beliefs.html) by [Anna Salamon](https://www.lesswrong.com/tag/anna-salamon) and [Steve Rayhawk](https://wiki.lesswrong.com/wiki/Steve_Rayhawk)\n\nSee also\n--------\n\n*   [Bayes' theorem](https://www.lesswrong.com/tag/bayes-theorem)\n*   [Evidence](https://www.lesswrong.com/tag/evidence)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb26e",
+    "name": "Interview Series On Risks From AI",
+    "core": null,
+    "slug": "interview-series-on-risks-from-ai",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "In 2011, [Alexander Kruel](http://kruel.co) (XiXiDu) started a Q&A style **interview series asking various people about their perception of artificial intelligence** and possible risks associated with it.\n\nInterviews\n----------\n\nA list of all interviews:\n\n*   [Dr. Brandon Rohrer, Professor Tim Finin and Dr. Pat Hayes](http://lesswrong.com/r/discussion/lw/999/qa_with_experts_on_risks_from_ai_1/)\n*   [Professor Nils John Nilsson, Professor Peter J. Bentley, Professor David Alan Plaisted and Dr. Hector Levesque](http://lesswrong.com/r/discussion/lw/9a1/qa_with_experts_on_risks_from_ai_2/)\n*   [Professor Paul Cohen, Professor Alan Bundy, Dr. Pei Wang, Dr. J. Storrs Hall and Dr. William Uther](http://lesswrong.com/r/discussion/lw/9cm/qa_with_experts_on_risks_from_ai_3/)\n*   [Professor Michael G. Dyer, Dr. John Tromp, Dr. Kevin Korb, Dr. Leo Pape, Professor Peter Gacs, Professor Donald Loveland, Eray Ozkural, Dr. Laurent Orseau, Richard Loosemore and Monica Anderson](http://lesswrong.com/r/discussion/lw/9hq/qa_with_experts_on_risks_from_ai_4/)\n*   [Professor John E. Laird and Dr. Kristinn R. Thorisson](http://kruel.co/2012/08/15/qa-with-experts-on-risks-from-ai-5/)\n*   [Dr. Randal A. Koene and Alexey Potapov of AIDEUS](http://kruel.co/2012/12/17/qa-with-experts-on-risks-from-ai-6/)\n*   [Professor Larry Wasserman](http://kruel.co/2012/11/04/qa-with-larry-wasserman-on-risks-from-ai/)\n*   [Dr. Mark Changizi](http://kruel.co/2012/12/19/qa-with-mark-changizi-on-risks-from-ai/)\n*   [Professor Michael Littman](http://lesswrong.com/r/discussion/lw/8wz/qa_with_michael_littman_on_risks_from_ai)\n*   [Dr. Shane Legg](http://lesswrong.com/r/discussion/lw/691/shane_legg_on_risks_from_ai)\n*   [Professor Jürgen Schmidhuber](http://lesswrong.com/r/discussion/lw/682/j%C3%BCrgen_schmidhuber_on_risks_from_ai)\n*   [Professor Stan Franklin](http://lesswrong.com/r/discussion/lw/65v/stan_franklin_on_risks_from_ai)\n*   [Dr. Matt Mahoney](http://kruel.co/2013/07/08/qa-with-matt-mahoney-on-risks-from-ai/)\n*   [Sir William Timothy Gowers](http://kruel.co/2013/07/16/qa-with-timothy-gowers-on-risks-from-ai/)\n*   [Abram Demski](http://lesswrong.com/lw/9fz/qa_with_abram_demski_on_risks_from_ai/)\n*   [Dr. Richard Carrier](http://lesswrong.com/r/discussion/lw/8tt/qa_with_richard_carrier_on_risks_from_ai/)\n\nQuestions\n---------\n\nThe current set of questions:\n\n*   Assuming beneficial political and economic development and that no global catastrophe halts progress, by what year would you assign a 10%/50%/90% chance of the development of artificial intelligence that is roughly as good as humans (or better, perhaps unevenly) at science, mathematics, engineering and programming?\n*   Once we build AI that is roughly as good as humans (or better, perhaps unevenly) at science, mathematics, engineering and programming, how much more difficult will it be for humans and/or AIs to build an AI which is substantially better at those activities than humans?\n*   Do you ever expect artificial intelligence to overwhelmingly outperform humans at typical academic research, in the way that they may soon overwhelmingly outperform humans at trivia contests, or do you expect that humans will always play an important role in scientific progress?\n*   What probability do you assign to the possibility of an AI with initially roughly professional human-level competence (or better, perhaps unevenly) at general reasoning (including science, mathematics, engineering and programming) to self-modify its way up to vastly superhuman capabilities within a matter of hours/days/< 5 years?\n*   How important is it to research risks associated with artificial intelligence that is good enough at general reasoning (including science, mathematics, engineering and programming) to be capable of radical self-modification, before attempting to build one?\n*   What probability do you assign to the possibility of human extinction within 100 years as a result of AI capable of self-modification (that is not provably non-dangerous, if that is even possible)? P(human extinction by AI | AI capable of self-modification and not provably non-dangerous is created)\n\nMail Template\n-------------\n\n> The exact wording of the email:\n> \n> Subject: Questions regarding possible risks from artificial intelligence\n> \n> Dear Professor/Dr NAME,\n> \n> I am currently trying to learn more about the academic perception of artificial general intelligence and possible risks associated with it. Consequently I am curious about your opinion as a noted expert.\n> \n> I would like to ask you a few questions and your permission to publish your possible answers in order to estimate the academic awareness and perception of risks from AI. I am not a journalist and do not represent any publication, nor do I maintain a formal academic relationship. I am conducting an informal interview for a community blog: lesswrong.com\n> \n> Please let me know if you have any questions or if you are interested in third-party material that does expand on various aspects of my questions.\n> \n> Here is a list of people that I had a chance to interview so far: NAMES\n> \n> QUESTIONS\n> \n> Yours sincerely,\n> \n> NAME\n> \n> ADDRESS\n\nSee also\n--------\n\n*   [Muehlhauser interview series on AGI](https://www.lesswrong.com/tag/muehlhauser-interview-series-on-agi)\n*   [When Will AI Be Created?](http://intelligence.org/2013/05/15/when-will-ai-be-created/)\n*   [AI timeline predictions: are we getting better?](http://lesswrong.com/lw/e36/ai_timeline_predictions_are_we_getting_better/)\n*   [Stuart Armstrong: How We’re Predicting AI](http://fora.tv/v/c16838), The Singularity Summit 2012\n*   [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.\n*   [Machine Intelligence Survey](http://www.fhi.ox.ac.uk/news/2011/?a=21516), Sandberg, A. and Bostrom, N. (2011). Future of Humanity Institute, Oxford University."
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb28d",
+    "name": "AGI Skepticism",
+    "core": null,
+    "slug": "agi-skepticism",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**AGI skepticism** involves objections to the possibility of [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) being developed in the near future. Skeptics include [various technology and science luminaries](http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity) such as Douglas Hofstadter, Gordon Bell, Steven Pinker, and Gordon Moore:\n\n> \"It might happen someday, but I think life and intelligence are far more complex than the current singularitarians seem to believe, so I doubt it will happen in the next couple of centuries.\" -- Douglas Hofstadter\n\nA typical argument is that we currently only have narrow AI, and that there is no sign of progress towards general intelligence. Some critics even argue that predictions of near-term AGI [belong to the realm of religion](http://kryten.mm.rpi.edu/SB_AB_PB_sing_fideism_022412.pdf), not science or engineering.\n\nSome skeptics also say that discussion about AGI risk is a dangerous waste of time that diverts attention from more important issues. [Daniel Dennett](http://ingentaconnect.com/content/imp/jcs/2012/00000019/F0020001/art00005) considers AGI risk an \"imprudent pastime\" because it distracts our attention from more immediate threats, and the philosopher Alfred Nordmann holds the view that ethical concern is a scarce resource, not to be wasted on unlikely future scenarios ([1](http://commonsenseatheism.com/wp-content/uploads/2011/02/nordmann-if-and-then-a-critique-of-speculative-nanoethics.pdf), [2](http://spectrum.ieee.org/robotics/robotics-software/singular-simplicity)).\n\nThere are also skeptics who think that the prospect of near-term AGI seems remote, but don't dismiss the issue entirely. An [AAAI presidential panel on long-term AI futures](http://www.aaai.org/Organization/Panel/panel-note.pdf) concluded that\n\n> There was overall skepticism about the prospect of an intelligence explosion as well as of a “coming singularity,” and also about the large-scale loss of control of intelligent systems. Nevertheless, there was a shared sense that additional research would be valuable on methods for understanding and verifying the range of behaviors of complex computational systems to minimize unexpected outcomes. Some panelists recommended that more research needs to be done to better define “intelligence explosion,” and also to better formulate different classes of such accelerating intelligences. Technical work would likely lead to enhanced understanding of the likelihood of such phenomena, and the nature, risks, and overall outcomes associated with different conceived variants.\n\nExternal Links\n--------------\n\n*   [A history of the AI winter](http://en.wikipedia.org/wiki/AI_winter) from Wikipedia\n\nSee Also\n--------\n\n*   [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence)\n*   [Technological forecasting](https://www.lesswrong.com/tag/technological-forecasting)\n*   [Unfriendly Artificial Intelligence](https://www.lesswrong.com/tag/unfriendly-artificial-intelligence)\n*   [Friendly Artificial Intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)\n*   [Economic Consequences of AI](https://www.lesswrong.com/tag/economic-consequences-of-ai-and-whole-brain-emulation)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb183",
+    "name": "Giant Cheesecake Fallacy",
+    "core": null,
+    "slug": "giant-cheesecake-fallacy",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "> Someone says: “When technology advances far enough we’ll be\nable to build minds far surpassing human intelligence. Now, it’s obvious that how large\na cheesecake you can make depends on your intelligence. A superintelligence could build\n*enormous* cheesecakes—cheesecakes the size of cities—by golly, the future will be full of\ngiant cheesecakes!” \\[...\\] The vision leaps directly from *capability* to *actuality*, without considering the necessary intermediate of *motive*.\n\n> -- E Yudkowsky (2006) Artificial Intelligence as a Positive and Negative Factor in Global Risk\n\nSee also\n--------\n\n*   [The genie knows, but does not care](http://lesswrong.com/lw/igf/the_genie_knows_but_doesnt_care/)\n*   [Mind design space](https://www.lesswrong.com/tag/mind-design-space)\n*   [Lawful intelligence](https://www.lesswrong.com/tag/lawful-intelligence)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2fc",
+    "name": "Luke Muehlhauser",
+    "core": null,
+    "slug": "luke-muehlhauser",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Luke Muehlhauser** currently leads Open Philanthropy's grantmaking in AI Governance and Policy. In the past, he was the Executive Director of [MIRI](https://wiki.lesswrong.com/wiki/MIRI) and a Research Analyst at [GiveWell](http://www.givewell.org).\n\nExternal links\n--------------\n\n*   [Website](http://lukeprog.com/)\n*   [LW account](http://lesswrong.com/user/lukeprog/)\n*   [Twitter](https://twitter.com/lukeprog)\n*   [Open Philanthropy website page](https://www.openphilanthropy.org/about/team/luke-muehlhauser)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb14e",
+    "name": "Magic",
+    "core": null,
+    "slug": "magic",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Traditional depictions of **magic** would seem to require introducing _complex_ ontologically fundamental entities: some magician or sorceress says the right words and performs some ritual, and some part of the universe obeys their will. But how does it _know_ when to obey someone's will? The stated conditions for the effect are [far too complex](https://www.lesswrong.com/tag/magical-categories) to be implemented by a simple arrangement of mechanistic laws, the complexity of magic must be at least that of minds. What seems to humans like a simple explanation, sometimes [isn't at all](https://www.lesswrong.com/tag/occam-s-razor).\n\nIn our own naturalistic, [reductionist](https://www.lesswrong.com/tag/reductionism) universe, there is always a simpler explanation. Any complicated thing that happens, happens because there is some physical mechanism behind it, even if you don't _know_ the mechanism yourself (which is most of the time). There is no magic.\n\nBlog posts\n----------\n\n*   [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)\n*   [Excluding the Supernatural](http://lesswrong.com/lw/tv/excluding_the_supernatural/)\n*   [Magical Categories](http://lesswrong.com/lw/td/magical_categories/)\n*   [If You Demand Magic, Magic Won't Help](http://lesswrong.com/lw/ou/if_you_demand_magic_magic_wont_help/)\n*   [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)\n\nSee also\n--------\n\n*   [Sympathetic magic](https://www.lesswrong.com/tag/sympathetic-magic)\n*   [Mind projection fallacy](https://www.lesswrong.com/tag/mind-projection-fallacy), [Detached lever fallacy](https://www.lesswrong.com/tag/detached-lever-fallacy)\n*   [Occam's razor](https://www.lesswrong.com/tag/occam-s-razor), [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)\n*   [Unsupervised universe](https://www.lesswrong.com/tag/unsupervised-universe)\n*   [Joy in the merely real](https://www.lesswrong.com/tag/joy-in-the-merely-real)\n*   [Magical categories](https://www.lesswrong.com/tag/magical-categories)\n*   [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb22e",
+    "name": "Smoking Lesion",
+    "core": null,
+    "slug": "smoking-lesion",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**The Smoking Lesion** is a problem for testing [decision theories](https://www.lesswrong.com/tag/decision-theory), stated as follows:\n\n> Smoking is strongly correlated with lung cancer, but in the world of the Smoker's Lesion this correlation is understood to be the result of a common cause: a genetic lesion that tends to cause both smoking and cancer. Once we fix the presence or absence of the lesion, there is no additional correlation between smoking and cancer.\n> \n> Suppose you prefer smoking without cancer to not smoking without cancer, and prefer smoking with cancer to not smoking with cancer. Should you smoke?\n\nNaive [causal decision theory](http://en.wikipedia.org/wiki/Causal_decision_theory) says \"yes\", since smoking in this world has no causal effect on whether or not you get cancer. You either get cancer or not; in both cases, smoking is preferred. Naive [evidential decision theory](http://en.wikipedia.org/wiki/Evidential_decision_theory) says \"no\", because smoking is strongly *correlated* with cancer. [Functional Decision Theory](https://www.lesswrong.com/tag/functional-decision-theory) says \"yes\": your decision procedure in this problem doesn't influence whether or not you get cancer - and with or without cancer, smoking is preferred.\n\nBlog posts\n----------\n\n*   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular)\n\nSee also\n--------\n\n*   [Decision theory](https://www.lesswrong.com/tag/decision-theory)\n*   [Newcomb's problem](https://www.lesswrong.com/tag/newcomb-s-problem)\n*   [Counterfactual mugging](https://www.lesswrong.com/tag/counterfactual-mugging)\n*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)\n*   [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)\n*   [Sleeping Beauty problem](https://www.lesswrong.com/tag/sleeping-beauty-paradox)\n*   [Prisoner's dilemma](https://www.lesswrong.com/tag/prisoner-s-dilemma)\n*   [Pascal's mugging](https://www.lesswrong.com/tag/pascal-s-mugging)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb131",
+    "name": "Absolute Certainty",
+    "core": null,
+    "slug": "absolute-certainty",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Possessing **absolute certainty** in a fact, or [Bayesian probability](https://www.lesswrong.com/tag/bayesian-probability) of 1, isn't a good idea. Losing an epistemic bet made with absolute certainty corresponds to receiving infinite negative payoff, according to the logarithmic [proper scoring rule](https://www.lesswrong.com/tag/scoring-rule).\n\nThe same principle applies to mathematical truths. Not possessing absolute certainty in math doesn't make the math itself uncertain, the same way that an [uncertain map](https://www.lesswrong.com/tag/the-map-is-not-the-territory) doesn't cause the territory to blur out. The world, and the math, are precise, while knowledge about them is incomplete.\n\nThe impossibility of justified absolute certainty is sometimes used as a [rationalization](https://www.lesswrong.com/tag/rationalization) for the [fallacy of gray](https://www.lesswrong.com/tag/fallacy-of-gray).\n\nBlog posts\n----------\n\n*   [Infinite Certainty](http://lesswrong.com/lw/mo/infinite_certainty/)\n*   [0 And 1 Are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)\n*   [How to Convince Me That 2 + 2 = 3](http://lesswrong.com/lw/jr/how_to_convince_me_that_2_2_3/)\n*   [Confidence levels inside and outside an argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)\n\nReferences\n----------\n\n*   Toby Ord, Rafaela Hillerbrand, Anders Sandberg (2008). [*Probing the Improbable: Methodological Challenges for Risks with Low Probabilities and High Stakes*](http://arxiv.org/abs/0810.5515).\n\nSee also\n--------\n\n*   [Bayesian probability](https://www.lesswrong.com/tag/bayesian-probability)\n*   [Scoring rule](https://www.lesswrong.com/tag/scoring-rule)\n*   [Antiprediction](https://www.lesswrong.com/tag/antiprediction)\n*   [Mind projection fallacy](https://www.lesswrong.com/tag/mind-projection-fallacy)\n*   [Doubt](https://www.lesswrong.com/tag/doubt)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb131",
+    "name": "Absolute Certainty",
+    "core": null,
+    "slug": "absolute-certainty",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Possessing **absolute certainty** in a fact, or [Bayesian probability](https://www.lesswrong.com/tag/bayesian-probability) of 1, isn't a good idea. Losing an epistemic bet made with absolute certainty corresponds to receiving infinite negative payoff, according to the logarithmic [proper scoring rule](https://www.lesswrong.com/tag/scoring-rule).\n\nThe same principle applies to mathematical truths. Not possessing absolute certainty in math doesn't make the math itself uncertain, the same way that an [uncertain map](https://www.lesswrong.com/tag/the-map-is-not-the-territory) doesn't cause the territory to blur out. The world, and the math, are precise, while knowledge about them is incomplete.\n\nThe impossibility of justified absolute certainty is sometimes used as a [rationalization](https://www.lesswrong.com/tag/rationalization) for the [fallacy of gray](https://www.lesswrong.com/tag/fallacy-of-gray).\n\nBlog posts\n----------\n\n*   [Infinite Certainty](http://lesswrong.com/lw/mo/infinite_certainty/)\n*   [0 And 1 Are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)\n*   [How to Convince Me That 2 + 2 = 3](http://lesswrong.com/lw/jr/how_to_convince_me_that_2_2_3/)\n*   [Confidence levels inside and outside an argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)\n\nReferences\n----------\n\n*   Toby Ord, Rafaela Hillerbrand, Anders Sandberg (2008). [*Probing the Improbable: Methodological Challenges for Risks with Low Probabilities and High Stakes*](http://arxiv.org/abs/0810.5515).\n\nSee also\n--------\n\n*   [Bayesian probability](https://www.lesswrong.com/tag/bayesian-probability)\n*   [Scoring rule](https://www.lesswrong.com/tag/scoring-rule)\n*   [Antiprediction](https://www.lesswrong.com/tag/antiprediction)\n*   [Mind projection fallacy](https://www.lesswrong.com/tag/mind-projection-fallacy)\n*   [Doubt](https://www.lesswrong.com/tag/doubt)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb212",
+    "name": "Aspiring Rationalist",
+    "core": null,
+    "slug": "aspiring-rationalist",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "An **aspiring rationalist** is one who seeks to follow the Way of Bayes, to believe what is true and do what it right, to update on the evidence and only on the evidence, wherever it may lead. Oftentimes just *rationalists*, the qualifier *aspiring* is often included to explicitly recognize just how far all human beings are from the ideal of normative reasoning.\n\nSee also\n--------\n\n*   [Rationality](https://www.lesswrong.com/tag/rationality)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb34e",
+    "name": "Slate Star Codex",
+    "core": null,
+    "slug": "slate-star-codex",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Slate Star Codex** is the blog written by [Scott Alexander](https://www.lesswrong.com/tag/scott-alexander). It is very popular. Many posts are cross-posted to LessWrong and can found on the [Codex](/codex).\n\nExternal links\n--------------\n\n*   [slatestarcodex.com](http://slatestarcodex.com/)\n*   [/r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/) on [Reddit](https://www.lesswrong.com/tag/reddit)\n*   [Discord](https://discordapp.com/invite/gpaTCxh) [chat](https://wiki.lesswrong.com/wiki/Chat)\n*   [Account on](https://twitter.com/slatestarcodex/) [Twitter](https://www.lesswrong.com/tag/twitter)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb100",
+    "name": "Overcoming Bias",
+    "core": null,
+    "slug": "overcoming-bias",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "[**Overcoming Bias**](http://www.overcomingbias.com) is a personal blog by [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson) on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendents might do, if they don't all die\". Prior to the founding of LessWrong in 2009, Overcoming Bias was a group blog, with most posts coming from Robin Hanson and Eliezer Yudkowsky; Eliezer and other contributors moved to LessWrong.\n\n**See Also**\n\n*   [About Overcoming Bias](https://www.overcomingbias.com/about)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb100",
+    "name": "Overcoming Bias",
+    "core": null,
+    "slug": "overcoming-bias",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "[**Overcoming Bias**](http://www.overcomingbias.com) is a personal blog by [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson) on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendents might do, if they don't all die\". Prior to the founding of LessWrong in 2009, Overcoming Bias was a group blog, with most posts coming from Robin Hanson and Eliezer Yudkowsky; Eliezer and other contributors moved to LessWrong.\n\n**See Also**\n\n*   [About Overcoming Bias](https://www.overcomingbias.com/about)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb222",
+    "name": "Infinite Set Atheism",
+    "core": null,
+    "slug": "infinite-set-atheism",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**\"Infinite set atheism\"** is a tongue-in-cheek phrase used by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky) to describe his doubt that infinite sets of things exist in the physical universe. While Yudkowsky has so far not claimed to be a **finitist**, in the sense of doubting the mathematical correctness of those parts of mathematics that make use of the concept of infinite sets, he is not convinced that an AI would need to use mathematical tools of this kind in order to reason correctly about the physical world. [1](http://lesswrong.com/lw/10q/the_two_meanings_of_mathematical_terms/vbg)\n\nPart of the motivation for \"infinite set atheism\" (along with finitism) is that very _strange_ things happen when we deal with infinite quantities in mathematics. Untutored intuition wants to say that the quantity of natural numbers is larger than the quantity of _even_ natural numbers. However, this turns out not to be the case. Two sets contain the same quantity when we can put them in one-to-one correspondence with each other: match each element of one set with one unique element in the other set so that no element in either set is left unmatched. For example, we can show that {1, 2, 3} and {4, 5, 6} contain the same quantity of elements by pairing 1 with 4, 2 with 5, and 3 with 6, which covers all the elements. If a set is _finite_, then removing any element from it will produce a set containing a smaller quantity of elements. Infinite sets, however, behave fundamentally differently: the infinite set of all natural numbers can be put into one-to-one correspondence with the infinite set of all even numbers with the correspondence _n_ ↔ 2_n_: pair 1 with 2, 2 with 4, 3 with 6, and so on for each natural number _n_.\n\nMathematicians have well-established, sophisticated theories for reasoning about infinite sets, and such counterintuitive results as described above are no longer considered problematic in the field of pure mathematics. However, some people (such as Yudkowsky) suspect that such mathematics may not be directly relevant to physical reality.\n\nBlog posts\n----------\n\n*   [0 and 1 are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)\n*   [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)\n*   [Yudkowsky Q&A: Video Answers](http://lesswrong.com/lw/1lq/less_wrong_qa_with_eliezer_yudkowsky_video_answers/) (Question #14)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2be",
+    "name": "Machine Ethics",
+    "core": null,
+    "slug": "machine-ethics",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Machine Ethics** is the emerging field that tries to understand how machines which consider the moral implications of their actions and act accordingly can be created. That is, how humanity can ensure that the minds created through AI can reason morally about other minds - thus creating Artificial Moral Agents (AMAs).\n\nHistorically, the earliest famous attempt at machine ethics was that by Issac Asimov in a 1942 short story, a set of rules known as the [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics). The basis of many of his stories, they demonstrated how the law's seeming impermeability could so often fail - even without the errors inevitable from machine comprehension.\n\nCurrently, machine ethics is a subject whose application is limited to simple machines programmed with narrow AI - various moral philosophies have been programmed, using many techniques and all with limited success. Despite that, it has been argued that as we approach the development of a [superintelligence](https://www.lesswrong.com/tag/superintelligence), humanity should focus on the task of developing machine ethics for an [artificial general intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) before that moment arrives.\n\nAs Wallach and Allen pose it, “even if full moral agency for machines is a long way off, it is already necessary to start building a kind of functional morality, in which artificial moral agents have some basic ethical sensitivity”.\n\nFurther Reading & References\n----------------------------\n\n*   [Intelligence Explosion and Machine Ethics](http://intelligence.org/files/IE-ME.pdf) by Luke Muehlhauser and Louie Helm\n*   [Machine Ethics and Superintelligence](http://intelligence.org/files/MachineEthicsSuperintelligence.pdf) by Carl Shulman, Henrik Jonsson, and Nick Tarleton\n*   Moral Machines: Teaching Robots Right from Wrong by Wendell Wallach and Colin Allen\n*   [Lessons in Machine Ethics from the Perspective of Two Computational Models of Ethical Reasoning](http://commonsenseatheism.com/wp-content/uploads/2011/02/McLaren-Lessons-in-machine-ethics-from-the-perspective-of-two-computational-models-of-ethical-reasoning.pdf) by Bruce M. McLaren\n*   [Prospects for a Kantian Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Powers-Prospects-for-a-Kantian-Machine.pdf) by Thomas M. Powers\n*   [Granny and the robots: Ethical issues in robot care for the elderly](http://staffwww.dcs.shef.ac.uk/people/A.Sharkey/sharkey-granny.pdf) by Amanda Sharkey and Noel Sharkeyture\n\nSee also\n--------\n\n*   [Utility](https://www.lesswrong.com/tag/utility)\n*   [Utilitarianism](https://www.lesswrong.com/tag/utilitarianism)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb17b",
+    "name": "Detached Lever Fallacy",
+    "core": null,
+    "slug": "detached-lever-fallacy",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "It is a truism in [evolutionary biology](https://www.lesswrong.com/tag/evolution) that **conditional responses require more genetic complexity than unconditional responses**. To develop a fur coat _in response to cold weather_ requires more genetic complexity than developing a fur coat _whether or not_ there is cold weather, because in the former case you also have to develop cold-weather sensors and wire them up to the fur coat.\n\nBut this can lead to Lamarckian delusions: Look, I put the organism in a cold environment, and poof, it develops a fur coat! Genes? What genes? It's the cold that does it, obviously.\n\nThis fallacy underlies a form of [anthropomorphism](https://www.lesswrong.com/tag/anthropomorphism) in which people expect that, as a [universal rule](https://wiki.lesswrong.com/wiki/no_universal_arguments), particular stimuli applied to [any mind-in-general](https://wiki.lesswrong.com/wiki/minds-in-general) will produce some particular response - for example, that if you punch an AI in the nose, it will get angry. Humans are programmed with that particular _conditional response_, but not [all possible minds](https://www.lesswrong.com/tag/mind-design-space) would be.\n\nSimilarly: You've seen apples, touched apples, picked them up and held them, bought them for money, cut them into slices, eaten the slices and tasted them. Your eyes can see the raw pixels of an apple, and your visual cortex process it into a 3D shape, recognized by your temporal lobe as an apple similar (despite differences of shape and color and angle of vision) to other apples in your experience. Your motor cortex and cerebellum can move your fingers to pick up the apple.\n\nThat is all the complex machinery your brain has for apples; and you can pull the lever on that complex machinery just by saying \"apple\" to a fellow English-speaking human, since the two of you have both learned to _associate_ the sound \"ap-ple\" to _activate_ all that complicated machinery.\n\nBut if that machinery isn't there - if you're writing \"apple\" as five ASCII letters inside a so-called AI's so-called knowledge base, when the AI can't recognize apples or do anything with apples - then the word is just a lever detached from its underlying machinery.\n\nMain post\n---------\n\n*   [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/)\n\nSee also\n--------\n\n*   [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)\n*   [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign), [Cached thought](https://www.lesswrong.com/tag/cached-thought)\n*   [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2cb",
+    "name": "Terminal Value",
+    "core": null,
+    "slug": "terminal-value",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "A **terminal value** (also known as an **intrinsic value**) is an ultimate goal, an end-in-itself. The non-standard term \"supergoal\" is used for this concept in Eliezer Yudkowsky's [earlier writings](http://intelligence.org/files/CFAI.html).\n\nIn an [artificial general intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) with a [utility](https://www.lesswrong.com/tag/utility-functions) or reward function, the terminal value is the maximization of that function. The concept is not usefully applicable to all Als, and it is not known how applicable it is to organic entities.\n\nTerminal vs. instrumental values\n--------------------------------\n\nTerminal values stand in contrast to instrumental values (also known as extrinsic values), which are means-to-an-end, mere tools in achieving terminal values. For example, if a given university student studies merely as a professional qualification, his terminal value is getting a job, while getting good grades is an instrument to that end. If a (simple) chess program tries to maximize piece value three turns into the future, that is an instrumental value to its implicit terminal value of winning the game.\n\nSome values may be called \"terminal\" merely in relation to an instrumental goal, yet themselves serve instrumentally towards a higher goal. However, in considering future artificial general intelligence, the phrase \"terminal value\" is generally used only for the top level of the goal hierarchy of the AGI itself: the true ultimate goals of the system; but excluding goals inside the AGI in service of other goals, and excluding the purpose of the AGI's makers, the goal for which they built the system.\n\nHuman terminal values\n---------------------\n\nIt is not known whether humans have terminal values that are clearly distinct from another set of instrumental values. Humans appear to adopt different values at different points in life. Nonetheless, if the theory of terminal values applies to humans', then their system of terminal values is quite complex. The values were forged by evolution in the ancestral environment to maximize inclusive genetic fitness. These values include survival, health, friendship, social status, love, joy, aesthetic pleasure, curiosity, and much more. Evolution's implicit goal is inclusive genetic fitness, but humans do not have inclusive genetic fitness as a goal. Rather, these values, which were *instrumental* to inclusive genetic fitness, have become humans' *terminal* values (an example of [subgoal stomp](https://www.lesswrong.com/tag/subgoal-stomp)).\n\nHumans cannot fully introspect their terminal values. Humans' terminal values are often mutually contradictory, inconsistent, and changeable.\n\nNon-human terminal values\n-------------------------\n\nFuture artificial general intelligences may have the maximization of a utility function or of a reward function (reinforcement learning) as their terminal value. The function will likely be set by the AGI's designers.\n\nSince people make tools instrumentally, to serve specific human values, the assigned value system of the artificial general intelligence may be much simpler than humans'. This will pose a danger, as an AI must seek to protect all human values if a positive human future is to be achieved. The [paperclip maximizer](https://www.lesswrong.com/tag/paperclip-maximizer) is a thought experiment about an artificial general intelligence with consequences disastrous to humanity, with the the apparently innocuous terminal value of maximizing the number of paperclips in its collection,\n\nAn intelligence can work towards any terminal value, not just human-like ones. [AIXI](https://www.lesswrong.com/tag/aixi) is a mathematical formalism for modeling intelligence. It illustrates that the arbitrariness of terminal values may be optimized by an intelligence: AIXI is provably more intelligent than any other agent for *any* computable reward function.\n\nIn a Friendly AI\n----------------\n\nFor an artificial general intelligence to have a positive and not a negative effect on humanity, its terminal value must be [benevolent](https://www.lesswrong.com/tag/benevolence) to humans. It must seek the maximization of the [full set of human values](https://www.lesswrong.com/tag/complexity-of-value) (for the humans' benefit, not for itself).\n\nLinks\n-----\n\n*   Eliezer Yudkowsky, [Terminal Values and Instrumental Values](http://lesswrong.com/lw/l4/terminal_values_and_instrumental_values/)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2b6",
+    "name": "Nanny AI",
+    "core": null,
+    "slug": "nanny-ai",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Nanny AI** is a form of [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) proposed by [Ben Goertzel](https://www.lesswrong.com/tag/ben-goertzel) to delay the [Singularity](https://www.lesswrong.com/tag/singularity) while protecting and nurturing humanity. Nanny AI was proposed as a means of reducing the [risks](https://www.lesswrong.com/tag/existential-risk) associated with the [Singularity](https://www.lesswrong.com/tag/singularity) by delaying it until a predetermined time has passed, predetermined conditions are met, or permanently. Delaying the Singularity would allow for further research and reflection about our [values](https://www.lesswrong.com/tag/complexity-of-value) and time to built a [friendly artificial intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence).\n\nBen Goertzel has suggested a number of preliminary components for building a Nanny AI:\n\n*   A mildly superhuman Artificial General Intelligence\n*   A global surveillance network tied to the Nanny AI\n*   Final control of all robots given to the Nanny AI\n*   To be reluctant to change its goals, increase its intelligence, or act against humanity's extrapolated desires\n*   To be able to reinterpret its goals at human prompting\n*   To prevent any technological development that would hinder it\n*   To yield control to another AI at a predetermined time\n\nIn a paper by [Luke Muehlhauser](http://lukeprog.com/) and [Anna Salamon](https://www.lesswrong.com/tag/anna-salamon) to be published in The Singularity Hypothesis, it was suggested that programming a safe Nanny AI will require solving most, if not all, the problems that must be solved in programming a [Friendly Artificial Intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence). Ben Goertzel suggests that a Nanny AI may be a necessary evil to prevent disasters from developing technology, though he acknowledges it poses risks of its own.\n\nReferences\n----------\n\n*   [Should humanity build a global AI nanny to delay the singularity until it’s better understood?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.3966&rep=rep1&type=pdf) by Ben Goertzel\n*   [Mitigating the Risks of Artificial Superintelligence](http://hplusmagazine.com/2011/04/20/mitigating-the-risks-of-artificial-superintelligence/)\n*   [Does Humanity Need an AI Nanny?](http://hplusmagazine.com/2011/08/17/does-humanity-need-an-ai-nanny/) by Ben Goertzel\n*   Muehlhauser, Luke; Salamon, Anna (2012). [\"Intelligence Explosion: Evidence and Import\"](http://intelligence.org/files/IE-EI.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al.. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer."
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb231",
+    "name": "Methods of Rationality (Fanfiction)",
+    "core": null,
+    "slug": "methods-of-rationality-fanfiction",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "[**Harry Potter and the Methods of Rationality**](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) is a fanfiction by \"Less Wrong\" (a pen name of [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)) with a premise that the orphaned Harry Potter has been raised by a scientist stepfather and now has the equivalent rationalist skill of roughly an 18-year-old Eliezer or thereabouts, i.e., massively flawed but still pretty darned impressive. Naturally, the hero's challenges have been stepped up in difficulty as well.\n\nIt would be fair to understate that this fic has proven itself popular.\n\nTV Tropes page [here](http://tvtropes.org/pmwiki/pmwiki.php/FanFic/HarryPotterAndTheMethodsOfRationality) (warning, potential spoilers).\n\n(This page also serves as a placeholder for subpages which can be linked to from fanfiction.net, so as to provide supplementary information.)\n\nBlog posts\n----------\n\nDiscussion threads\n\n[**Current thread (ch 109)**](http://lesswrong.com/r/discussion/lw/lro/harry_potter_and_the_methods_of_rationality/), [ch 108](http://lesswrong.com/r/discussion/lw/lr9/harry_potter_and_the_methods_of_rationality/), [ch 107–105](http://lesswrong.com/r/discussion/lw/lqj/harry_potter_and_the_methods_of_rationality/), [ch 104](http://lesswrong.com/r/discussion/lw/lq8/harry_potter_and_the_methods_of_rationality/), [ch 103](http://lesswrong.com/r/discussion/lw/lmk/harry_potter_and_the_methods_of_rationality/), [ch 102](http://lesswrong.com/r/discussion/lw/km5/harry_potter_and_the_methods_of_rationality/), [ch 101–99](http://lesswrong.com/r/discussion/lw/jc8/harry_potter_and_the_methods_of_rationality/), [ch 98](http://lesswrong.com/r/discussion/lw/igc/harry_potter_and_the_methods_of_rationality/), [ch 97](http://lesswrong.com/r/discussion/lw/ibr/harry_potter_and_the_methods_of_rationality/), [ch 96](http://lesswrong.com/r/discussion/lw/i4r/harry_potter_and_the_methods_of_rationality/), [ch 95](http://lesswrong.com/r/discussion/lw/i19/harry_potter_and_the_methods_of_rationality/), [ch 94](http://lesswrong.com/r/discussion/lw/hxg/harry_potter_and_the_methods_of_rationality/), [ch 93](http://lesswrong.com/r/discussion/lw/hws/harry_potter_and_the_methods_of_rationality/), [ch 92–91](http://lesswrong.com/r/discussion/lw/hwf/harry_potter_and_the_methods_of_rationality/), [ch 90](http://lesswrong.com/r/discussion/lw/hvg/harry_potter_and_the_methods_of_rationality/), [ch 89–88](http://lesswrong.com/r/discussion/lw/huq/harry_potter_and_the_methods_of_rationality/), [ch 87](http://lesswrong.com/r/discussion/lw/g1q/harry_potter_and_the_methods_of_rationality/), [ch 86](http://lesswrong.com/r/discussion/lw/fyv/harry_potter_and_the_methods_of_rationality/), [ch 85](http://lesswrong.com/r/discussion/lw/bto/harry_potter_and_the_methods_of_rationality/), [ch 84](http://lesswrong.com/r/discussion/lw/bmx/harry_potter_and_the_methods_of_rationality/), [ch 83–82](http://lesswrong.com/r/discussion/lw/bfo/harry_potter_and_the_methods_of_rationality/), [ch 81](http://lesswrong.com/lw/b7s/harry_potter_and_the_methods_of_rationality/), [ch 80](http://lesswrong.com/r/discussion/lw/b5s/harry_potter_and_the_methods_of_rationality/), [ch 79](http://lesswrong.com/lw/axe/harry_potter_and_the_methods_of_rationality/), [part 10](http://lesswrong.com/lw/ams/harry_potter_and_the_methods_of_rationality/), [part 9](http://lesswrong.com/r/discussion/lw/7jd/harry_potter_and_the_methods_of_rationality/), [part 8](http://lesswrong.com/r/discussion/lw/797/harry_potter_and_the_methods_of_rationality/), [part 7](http://lesswrong.com/r/discussion/lw/3rb/harry_potter_and_the_methods_of_rationality/), [part 6](http://lesswrong.com/r/discussion/lw/364/harry_potter_and_the_methods_of_rationality/), [part 5](http://lesswrong.com/lw/30g/harry_potter_and_the_methods_of_rationality/), [part 4](http://lesswrong.com/lw/2tr/harry_potter_and_the_methods_of_rationality/), [part 3](http://lesswrong.com/lw/2nm/harry_potter_and_the_methods_of_rationality/), [part 2](http://lesswrong.com/lw/2ie/harry_potter_and_the_methods_of_rationality/), [part 1](http://lesswrong.com/lw/2ab/harry_potter_and_the_methods_of_rationality/)\n\nOther\n\n*   [FF.net review statistics](http://lesswrong.com/lw/fag/analyzing_ffnet_reviews_of_harry_potter_and_the/)\n\nExternal links\n--------------\n\n*   [FanFiction.Net](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (primary source)\n*   [hpmor.com mirror](http://hpmor.com/) (up-to-date)\n*   [MOBI version](http://ikeran.org/rationality.mobi) (up-to-date)\n*   [ePub version](http://ikeran.org/rationality.epub) (up-to-date)\n*   [ePub version](http://rx-core.org/lesswrong/MoR.epub) (chapters 1-58)\n*   [Author's notes](http://www.evernote.com/pub/adelenedawner/Eliezer)\n*   [HPMOR Subreddit](http://reddit.com/r/hpmor)\n*   [Wiki on the HPMOR universe](https://hpmor.fandom.com/) on Wikia\n*   [YouTube adaptation](https://www.youtube.com/watch?v=PpejSWY0Wa0&list=PLC64C47A407D58AAC)\n\n[Category:Rationalist-adjacent](https://wiki.lesswrong.com/wiki/Category:Rationalist-adjacent)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb12d",
+    "name": "Anti-Epistemology",
+    "core": null,
+    "slug": "anti-epistemology",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Anti-epistemology** refers to bad explicit beliefs about rules of reasoning, usually developed in the course of protecting an existing false belief - false beliefs are opposed not only by true beliefs (that must then be obscured in turn) but also by good rules of systematic reasoning (which must then be denied). The explicit defense of fallacy as a general rule of reasoning is anti-epistemology.\n\nAnti-epistemology was formerly known as **Dark Side Epistemology** but this seems to have been an overly poetic term that led to confusion with the [Dark Arts](https://www.lesswrong.com/tag/dark-arts) \\- \"anti-epistemology\" refers to bad *explicit* rules about what is good to believe, not to invalid *rhetorical* techniques for persuasion.\n\nAn example of anti-epistemology run riot would be New Ageism: The concept of \"faith\" was originally developed by scriptural religions, but with organized teachings that put boundaries around what you were allowed to have faith in. New Ageism kept the notion that unjustified belief was a noble thing, but dropped the restrictive scriptures. So now they have faith in unicorns, UFOs, homeopathy, pyramid power...\n\nBlog posts\n----------\n\n*   [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)\n*   [The Sacred Mundane](http://lesswrong.com/lw/57/the_sacred_mundane/)\n\nSee also\n--------\n\n*   [Rationality](https://www.lesswrong.com/tag/rationality)\n*   [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign), [Self-deception](https://www.lesswrong.com/tag/self-deception)\n*   [Improper belief](https://www.lesswrong.com/tag/improper-belief)\n*   [Logical rudeness](https://www.lesswrong.com/tag/logical-rudeness)\n*   [Privileging the hypothesis](https://www.lesswrong.com/tag/privileging-the-hypothesis), [Rationalization](https://www.lesswrong.com/tag/rationalization)\n*   [Affective death spiral](https://www.lesswrong.com/tag/affective-death-spiral)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1fa",
+    "name": "Amount of Evidence",
+    "core": null,
+    "slug": "amount-of-evidence",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "To a Bayesian, evidence is a quantitative concept. In principle, a hypothetical Bayesian superintelligence could say not only *that* the evidence supports a particular hypothesis, but by *how much*. (In practice the true math is usually intractable.) The more complicated or *a priori* improbable a hypothesis is, the more evidence you need just to justify it, or even just [single it out](https://www.lesswrong.com/tag/locate-the-hypothesis) of the amongst the mass of competing theories.\n\nWe often find it convenient to express the **amount of evidence** in terms of logarithms of odds, *decibels* if we use the base-10 logarithm, *bits* if we use the base-2.\n\nMain post\n---------\n\n*   [How Much Evidence Does It Take?](http://lesswrong.com/lw/jn/how_much_evidence_does_it_take/)\n\nOther posts\n-----------\n\n*   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)\n\nSee also\n--------\n\n*   [Bayes' theorem](/tag/bayes-theorem)\n*   [Evidence](https://www.lesswrong.com/tag/evidence)\n*   [Locate the hypothesis](https://www.lesswrong.com/tag/locate-the-hypothesis)\n*   [Bayesian probability](https://www.lesswrong.com/tag/bayesian-probability)\n\nReferences\n----------\n\n*   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical) by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1fa",
+    "name": "Amount of Evidence",
+    "core": null,
+    "slug": "amount-of-evidence",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "To a Bayesian, evidence is a quantitative concept. In principle, a hypothetical Bayesian superintelligence could say not only *that* the evidence supports a particular hypothesis, but by *how much*. (In practice the true math is usually intractable.) The more complicated or *a priori* improbable a hypothesis is, the more evidence you need just to justify it, or even just [single it out](https://www.lesswrong.com/tag/locate-the-hypothesis) of the amongst the mass of competing theories.\n\nWe often find it convenient to express the **amount of evidence** in terms of logarithms of odds, *decibels* if we use the base-10 logarithm, *bits* if we use the base-2.\n\nMain post\n---------\n\n*   [How Much Evidence Does It Take?](http://lesswrong.com/lw/jn/how_much_evidence_does_it_take/)\n\nOther posts\n-----------\n\n*   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)\n\nSee also\n--------\n\n*   [Bayes' theorem](/tag/bayes-theorem)\n*   [Evidence](https://www.lesswrong.com/tag/evidence)\n*   [Locate the hypothesis](https://www.lesswrong.com/tag/locate-the-hypothesis)\n*   [Bayesian probability](https://www.lesswrong.com/tag/bayesian-probability)\n\nReferences\n----------\n\n*   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical) by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb160",
+    "name": "Evidence",
+    "core": null,
+    "slug": "evidence",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Evidence** for a given theory is the observation of an event that is more likely to occur if the theory is true than if it is false. (The event would be evidence against the theory if it is less likely if the theory is true.)\n\nThe [likelihood ratio](https://www.lesswrong.com/tag/likelihood-ratio) term \\\\(\\\\frac{P(B | A)}{P(B|\\\\neg A)}\\\\) from [Bayes' theorem](https://www.lesswrong.com/tag/bayes-theorem) is greater than 1 if the event B is evidence of the theory A, and less than 1 if the event is evidence against the theory.\n\nBlog posts\n----------\n\n*   [What is Evidence?](http://lesswrong.com/lw/jl/what_is_evidence/)\n*   [How Much Evidence Does It Take?](http://lesswrong.com/lw/jn/how_much_evidence_does_it_take/)\n*   [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)\n*   [The Lens That Sees Its Flaws](http://lesswrong.com/lw/jm/the_lens_that_sees_its_flaws/)\n*   [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)\n*   [That Alien Message](http://lesswrong.com/lw/qk/that_alien_message/)\n*   [Information theory and the symmetry of updating beliefs](http://lesswrong.com/lw/1y9/information_theory_and_the_symmetry_of_updating/) by [Academian](https://wiki.lesswrong.com/wiki/Academian)\n\nSee also\n--------\n\n*   [Rational evidence](https://www.lesswrong.com/tag/rational-evidence), [Evidence of absence](https://www.lesswrong.com/tag/evidence-of-absence), [Extraordinary evidence](https://www.lesswrong.com/tag/extraordinary-evidence)\n*   [Filtered evidence](https://www.lesswrong.com/tag/filtered-evidence)\n*   [Generalization from fictional evidence](https://www.lesswrong.com/tag/generalization-from-fictional-evidence)\n*   [Conservation of expected evidence](https://www.lesswrong.com/tag/conservation-of-expected-evidence)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb230",
+    "name": "Rituals of Cognition",
+    "core": null,
+    "slug": "rituals-of-cognition",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Rituals of Cognition**: a procedure, formal or informal, for arriving at some belief - when that procedure becomes valued for its own sake rather than as an instrument in arriving at \"correct\" (i.e. [winning](https://wiki.lesswrong.com/wiki/winning)) determinations.\n\nExamples can include:\n\n*   causal decision theory in the context of Newcomb's problem\n*   statistical tools such as p-values in the context of experimental science\n*   majoritarianism in the context of arguments among would-be rationalists"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb206",
+    "name": "Challenging The Difficult",
+    "core": null,
+    "slug": "challenging-the-difficult",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "A [sequence](https://wiki.lesswrong.com/wiki/sequence) on how to do things that are difficult or \"impossible\".\n\nBlog posts\n----------\n\n*   [The Proper Use of Humility](http://lesswrong.com/lw/gq/the_proper_use_of_humility/)\n*   [Tsuyoku Naritai (I Want To Become Stronger)](http://lesswrong.com/lw/h8/tsuyoku_naritai_i_want_to_become_stronger/)\n*   [Tsuyoku vs. the Egalitarian Instinct](http://lesswrong.com/lw/h9/tsuyoku_vs_the_egalitarian_instinct/) \\- There may be [evolutionary psychological](https://www.lesswrong.com/tag/evolutionary-psychology) factors that encourage [modesty](https://www.lesswrong.com/tag/modesty) and mediocrity, at least in [appearance](https://www.lesswrong.com/tag/signaling); while some of that may still apply today, you should mentally plan and strive to pull ahead, if you are doing things right.\n*   [Guardians of the Truth](http://lesswrong.com/lw/lz/guardians_of_the_truth/) and [Guardians of Ayn Rand](http://lesswrong.com/lw/m1/guardians_of_ayn_rand/)\n*   [*Lotteries: A Waste of Hope*](http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/) and [*New Improved Lottery*](http://lesswrong.com/lw/hm/new_improved_lottery/)\n*   [*The Failures of Eld Science*](http://lesswrong.com/lw/q9/the_failures_of_eld_science/) (prerequisite: [Quantum Physics](http://lesswrong.com/lw/r5/the_quantum_physics_sequence/))\n*   [*Something to Protect*](http://lesswrong.com/lw/nb/something_to_protect/)\n*   [*Einstein's Superpowers*](http://lesswrong.com/lw/qs/einsteins_superpowers/)\n*   [Trying to Try](http://lesswrong.com/lw/uh/trying_to_try/)\n*   [Use the Try Harder, Luke](http://lesswrong.com/lw/ui/use_the_try_harder_luke/)\n*   [On Doing the Impossible](http://lesswrong.com/lw/un/on_doing_the_impossible/)\n*   [Make an Extraordinary Effort](http://lesswrong.com/lw/uo/make_an_extraordinary_effort/)\n*   [Shut Up and Do the Impossible](http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/)\n\nOther formats\n-------------\n\n*   [Readlists](http://readlists.com/4b959f23/): compilation of this sequence avalaible to download as an ebook (epub, mobi) \n\nSee also\n--------\n\n*   [Tsuyoku naritai](https://www.lesswrong.com/tag/tsuyoku-naritai)\n*   [Egalitarianism](https://www.lesswrong.com/tag/egalitarianism)\n*   [Rationality as martial art](https://www.lesswrong.com/tag/rationality-as-martial-art)\n*   [Rationality is systematized winning](https://www.lesswrong.com/tag/rationality-is-systematized-winning)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb200",
+    "name": "Ciphergoth",
+    "core": null,
+    "slug": "ciphergoth",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Paul Crowley** is lesswrong.com user **ciphergoth**.\n\n*   [LessWrong.com user page](http://lesswrong.com/user/ciphergoth/)\n*   [Home page](http://www.ciphergoth.org/)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb13f",
+    "name": "Possibility",
+    "core": null,
+    "slug": "possibility",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Words in natural language carry [connotations](https://www.lesswrong.com/tag/connotation) that may become misleading when the words get applied with technical precision. While it's [not technically a lie](https://www.lesswrong.com/tag/not-technically-a-lie) to say that it's **possible** to win a lottery, the statement is deceptive. It's much more precise, for communication of the actual fact through connotation, to say that it's *impossible* to win the [lottery](https://www.lesswrong.com/tag/lottery). This is an example of [anti-prediction](https://www.lesswrong.com/tag/antiprediction).\n\nBlog posts\n----------\n\n*   [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)\n*   [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/)\n*   [Lotteries: A Waste of Hope](http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/)\n*   [Risk-Free Bonds Aren't](http://lesswrong.com/lw/hy/riskfree_bonds_arent/)\n\nSee also\n--------\n\n*   [Impossibility](https://www.lesswrong.com/tag/impossibility)\n*   [Privileging the hypothesis](https://www.lesswrong.com/tag/privileging-the-hypothesis)\n*   [Antiprediction](https://www.lesswrong.com/tag/antiprediction)\n*   [Absolute certainty](https://www.lesswrong.com/tag/absolute-certainty), [Fallacy of gray](https://www.lesswrong.com/tag/fallacy-of-gray)\n*   [Not technically a lie](https://www.lesswrong.com/tag/not-technically-a-lie)\n*   [Lottery](https://www.lesswrong.com/tag/lottery), [Hope](https://www.lesswrong.com/tag/hope), [Oops](https://www.lesswrong.com/tag/oops)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb18f",
+    "name": "Making Beliefs Pay Rent",
+    "core": null,
+    "slug": "making-beliefs-pay-rent",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Any [belief](https://www.lesswrong.com/tag/belief) should restrict which experiences to anticipate, to be potentially useful and thereby **pay rent** and earn its keep in your mind, so to speak. If a belief does _not_ affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly _tell_ if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it _now_?\n\nBlog posts\n----------\n\n*   [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)\n*   [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)\n*   [No Logical Positivist I](http://lesswrong.com/lw/ss/no_logical_positivist_i/)\n*   [The Power of Positivist Thinking](http://lesswrong.com/lw/48/the_power_of_positivist_thinking/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)\n\nSee also\n--------\n\n*   [Belief](https://www.lesswrong.com/tag/belief), [Alief](https://www.lesswrong.com/tag/alief)\n*   [Technical explanation](https://www.lesswrong.com/tag/technical-explanation)\n*   [Beliefs require observations](https://www.lesswrong.com/tag/beliefs-require-observations)\n*   [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)\n*   [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb18f",
+    "name": "Making Beliefs Pay Rent",
+    "core": null,
+    "slug": "making-beliefs-pay-rent",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Any [belief](https://www.lesswrong.com/tag/belief) should restrict which experiences to anticipate, to be potentially useful and thereby **pay rent** and earn its keep in your mind, so to speak. If a belief does _not_ affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly _tell_ if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it _now_?\n\nBlog posts\n----------\n\n*   [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)\n*   [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)\n*   [No Logical Positivist I](http://lesswrong.com/lw/ss/no_logical_positivist_i/)\n*   [The Power of Positivist Thinking](http://lesswrong.com/lw/48/the_power_of_positivist_thinking/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)\n\nSee also\n--------\n\n*   [Belief](https://www.lesswrong.com/tag/belief), [Alief](https://www.lesswrong.com/tag/alief)\n*   [Technical explanation](https://www.lesswrong.com/tag/technical-explanation)\n*   [Beliefs require observations](https://www.lesswrong.com/tag/beliefs-require-observations)\n*   [Free-floating belief](https://www.lesswrong.com/tag/free-floating-belief)\n*   [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb0d4",
+    "name": "Belief",
+    "core": null,
+    "slug": "belief",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Belief** is the mental state in which an individual holds a proposition to be true. Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the [truth](https://www.lesswrong.com/tag/truth-semantics-and-meaning). A person's knowledge is a subset of their beliefs, namely the beliefs that are also true and justified. Beliefs can be second-order, concerning propositions about other beliefs.\n\nBlog posts\n----------\n\n*   [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)\n*   [Is That Your True Rejection?](http://lesswrong.com/lw/wj/is_that_your_true_rejection/)\n\nSee also\n--------\n\n*   [Alief](https://www.lesswrong.com/tag/alief)\n*   [Belief update](https://www.lesswrong.com/tag/belief-update)\n*   [Belief in belief](https://www.lesswrong.com/tag/belief-in-belief)\n*   [Beliefs require observations](https://www.lesswrong.com/tag/beliefs-require-observations)\n*   [Making beliefs pay rent](https://www.lesswrong.com/tag/making-beliefs-pay-rent)\n\nReferences\n----------\n\n*   Dennett, Daniel C. (2006). Breaking the Spell. New York: Viking. ISBN 067003472X."
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb316",
+    "name": "Holden Karnofsky",
+    "core": null,
+    "slug": "holden-karnofsky",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Holden Karnofsky is a co-founder of [effective altruism](https://www.lesswrong.com/tag/effective-altruism) pioneers [GiveWell](https://www.lesswrong.com/tag/givewell).\n\nIn May 2012, Karnofsky posted [Thoughts on the Singularity Institute (SI)](http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/), which became the most-upvoted article ever on Less Wrong. It offered a detailed critique of what is now the [Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri), and spawned a great deal of discussion.\n\nMIRI staff posted two replies:\n\n*   [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky), [Reply to Holden on 'Tool AI'](http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/)\n*   [Luke Muehlhauser](https://www.lesswrong.com/tag/luke-muehlhauser), [Reply to Holden on The Singularity Institute](http://lesswrong.com/lw/di4/reply_to_holden_on_the_singularity_institute/)\n\nPaul Crowley (\"ciphergoth\") posted discussion articles for each point raised:\n\n*   [Objection 1: it seems to me that any AGI that was set to maximize a \"Friendly\" utility function would be extraordinarily dangerous.](http://lesswrong.com/lw/cck/holden_karnofskys_singularity_institute_objection/)\n*   [Objection 2: SI appears to neglect the potentially important distinction between \"tool\" and \"agent\" AI.](http://lesswrong.com/lw/ccl/holden_karnofskys_singularity_institute_objection/)\n*   [Objection 3: SI's envisioned scenario is far more specific and conjunctive than it appears at first glance, and I believe this scenario to be highly unlikely.](http://lesswrong.com/lw/ccm/holden_karnofskys_singularity_institute_objection/)\n*   [Is SI the kind of organization we want to bet on?](http://lesswrong.com/lw/cco/holden_karnofskys_singularity_institute_critique/)\n*   [Other objections to SI's views](http://lesswrong.com/lw/ccn/holden_karnofskys_singularity_institute_critique/)\n\nOther discussion:\n\n*   Phil Goetz, [Holden's Objection 1: Friendliness is dangerous](http://lesswrong.com/lw/chk/holdens_objection_1_friendliness_is_dangerous/)\n\nRelated pages\n-------------\n\n*   [Tool AI](https://www.lesswrong.com/tag/tool-ai)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb12f",
+    "name": "Heuristic",
+    "core": null,
+    "slug": "heuristic",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "A **heuristic** is a quick, intuitive strategy for reasoning or decision making, as opposed to more formal methods. Heuristics require much less time and energy to use, but sometimes go awry, producing [bias](https://www.lesswrong.com/tag/bias). Common heuristics include:\n\n*   [Absurdity heuristic](https://www.lesswrong.com/tag/absurdity-heuristic)\n*   [Affect heuristic](https://www.lesswrong.com/tag/affect-heuristic)\n*   [Availability heuristic](https://www.lesswrong.com/tag/availability-heuristic)\n*   [Representativeness heuristic](https://www.lesswrong.com/tag/representativeness-heuristic)\n*   [Contagion heuristic](https://www.lesswrong.com/tag/contagion-heuristic)\n*   [Peak-end rule](https://www.lesswrong.com/tag/peak-end-rule)\n\nBlog posts\n----------\n\n*   [Heuristic is not a bad word](http://lesswrong.com/lw/8y/heuristic_is_not_a_bad_word/) by [HughRistik](https://wiki.lesswrong.com/wiki/HughRistik)\n*   [All Less Wrong posts tagged \"Heuristic\"](https://www.lesswrong.com/tag/heuristics-and-biases?showPostCount=true&useTagName=true)\n\nExternal links\n--------------\n\n*   [The Heuristic Wiki](http://greenlightwiki.com/heuristic/Heuristic)\n\nSee also\n--------\n\n*   [Bias](https://www.lesswrong.com/tag/bias)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb2d6",
+    "name": "Empathic Inference",
+    "core": null,
+    "slug": "empathic-inference",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Empathic inference** is every-day common mind-reading. It’s an inference made about other person’s mental states using your own brain as reference, by making your brain feel or think in the same way as the other person you can emulate their mental state and predict their reactions. This method is extremely less costly than trying to model the brain as a physical system and then calculating the expected reaction. It can be used in science, for example in cognitive psychology, it’s standard procedure to use a panel of reviewers ascribing emotional states and expected reactions to other individuals. However, it doesn’t reveal the underlying mechanisms behind the reactions and the emotional states[1](http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/).\n\nEmpathic inference is often wrongly used to predict the behavior of non-human agents in a manifestation of [Anthropomorphism](https://www.lesswrong.com/tag/anthropomorphism). This is commonly applied to forces of nature in mythology and religion[2](http://en.wikipedia.org/wiki/Anthropomorphism#In_religion_and_mythology). For example, attributing intentionality to hurricanes, saying they are the manisfestation of God's wrath. Today, [AGI](https://wiki.lesswrong.com/wiki/AGI) is [often subject to this kind of bias](http://lesswrong.com/lw/tf/dreams_of_ai_design/), i.e., some people tend to think a superintelligent AGI would have to be necessarily benevolent or malignant, based on \"putting themselves in the AI's shoes\". Putting oneself in an AI's shoes cannot be used to evaluate AI behavior because AI will not have human-like motivations unless they are explicitly programmed in [3](http://www.nickbostrom.com/superintelligentwill.pdf).\n\nBlog Posts\n----------\n\n*   [The Comedy of Behaviorism](http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/) How Behaviorism tried to ban empathic inferences from science.\n\nSee Also\n--------\n\n*   [Anthropomorphism](https://www.lesswrong.com/tag/anthropomorphism)\n*   [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb159",
+    "name": "Unsupervised Universe",
+    "core": null,
+    "slug": "unsupervised-universe",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Unsupervised Universe** is a thought experiment developed to counter undue optimism - not just the sort due to explicit theology, but any sense that events and outcomes in our world are more destined, more proportionate, or more meaningful than we have a right to expect.\n\nThe thought experiment takes place in a simulated universe such as [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), but with an overall benevolent God actually *present* to prevent sufficiently awful things from happening. The thought experiment then consists of asking what would happen if we asked the *mathematical* question of what would happen according to the *standard* Life rules given certain initial conditions - so that even God cannot control the answer to the question; although, of course, God always intervenes in the actual Life universe.\n\nThe point of the thought experiment is to contrast our intuitions of a supervised universe and an unsupervised universe side-by-side - since the habits of thought associated with a \"supervised universe\" may carry over past explicit theology.\n\nExample: Would the twentieth century have gone differently, if Klara Pölzl and Alois Hitler had made love one hour earlier, and a different sperm fertilized the egg, on the night that Adolf Hitler was conceived? For so many lives to turn on such a small event seems *disproportionate*, and a supervised universe would be run according to a plan in which things happened for sensible, proportionate reasons; such a small and insensible event would not have such a large influence on the sensible reasons of the plan. It's possible to believe in a divine scheme of things without believing in God (e.g. Karl Marx) but such reasoning belongs to supervised universes rather than unsupervised ones.\n\nMain article\n------------\n\n*   [Beyond the Reach of God](http://lesswrong.com/lw/uk/beyond_the_reach_of_god/) by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)\n\nOther posts\n-----------\n\n*   [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/) by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)\n\nRelated concepts\n----------------\n\n*   [Human universal](https://www.lesswrong.com/tag/human-universal), [Anthropomorphism](https://www.lesswrong.com/tag/anthropomorphism)\n*   [Magic](https://www.lesswrong.com/tag/magic), [Reductionism](https://www.lesswrong.com/tag/reductionism)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb24f",
+    "name": "Ethical Injunction",
+    "core": null,
+    "slug": "ethical-injunction",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**Ethical injunctions** are rules not to do something even when it's the right thing to do. (That is, you refrain \"even when your brain has computed it's the right thing to do\", but this will just *seem like* \"the right thing to do\".)\n\nFor example, you shouldn't rob banks even if you plan to give the money to a good cause.\n\nThis is to protect you from your own cleverness (especially taking bad black swan bets), and the [Corrupted hardware](https://www.lesswrong.com/tag/corrupted-hardware) you're running on.\n\n**Sequences:** [Ethical Injunctions](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244)\n\nEthical Injunctions Sequence Summary\n------------------------------------\n\n*   [Why Does Power Corrupt?](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/v8rghtzWCziYuMdJ5)\n\nPower corrupts is well known folk wisdom. This post gives an evo-psych explanation. Corrupt behavior provides a fitness advantage, but signaling corruption makes it hard to get power. The cleanest way to not signal corruption is to honestly believe that one will not be corrupt. Thus the fittest strategy is to couple an honest desire to do good with a tendency to find the common abuses  of power pleasurable. \n\nThis post is not cross listed as a part of the listed main sequences. \n\n*   [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/K9ZaZXDnL3SEmYZqB)\n\n\"The end does not justify the means\" is just consequentialist reasoning at one meta-level up. If a human starts thinking on the object level that the end justifies the means, this has awful consequences given our untrustworthy brains; therefore a human shouldn't think this way. But it is all still ultimately consequentialism. It's just reflective consequentialism, for beings who know that their moment-by-moment decisions are made by untrusted hardware.\n\nThis post is not cross listed as a part of the listed main sequences. \n\n*   [Entangled Truths, Contagious Lies](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/wyyfFfaRar2jEdeQK)\n\nMost lies, in order to stand against rigorous investigation, would require additional lies about supporting facts. Since people do not know all aspects of all disciplines, the web of supporting lies will eventually entail making a claim that is self evidently false to someone with expert knowledge the liar does not possess. Only a god could lie to an AI.\n\nPart of the [Against Rationalization](https://www.lesswrong.com/s/GSqFqc646rsRd2oyz) subsequence of How To Actually Change Your Mind\n\n*   [Protected From Myself](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/yz2btSaCLHmLWgWD5)\n\nA more personal / reflective post in which Eliezer looks back and observes that his ethically motivated truthfulness has led to better outcomes than he would have achieved by lying. He proposes several reasons for this including that honesty makes it harder to sweep problems away forcing him to deal with them. \n\nThis post is not cross listed as a part of the listed main sequences. \n\n*   [Ethical Inhibitions](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/cyRpNbPsW8HzsxhRK)\n\nA speculative evo psych post reasoning that \"ethical instincts\" would have been adaptive in a context where people systemically underestimated the risks of getting caught ( see general overconfidence bias) and were punished heavily via exile from the tribe or outright death. \n\nThis post is not cross listed as a part of the listed main sequences. \n\n*   [Ethical Injunctions](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/dWTEtgBfFaz6vjwQf)\n\nLinking the previous posts in the sequence to the problem of AI, this post explores ethical injunctions as failsafe mechanisms in a self-modifying AI. A simple example is that if an AI in the takeoff phase decides at iteration N that it needs to deceive it programmers about its end goals, then the goals have likely drifted too far during the modification process. An injunction against deceiving the programmers will shut down the AI before it gets any worse. Further, the AI at step N-1 will hopefully have seen this itself and built the injunction into its next iteration. As humans with many subconscious biases, a choice to impose ethical injunctions on ourselves can serve as a similar failsafe.\n\nThis post is not cross listed as a part of the listed main sequences.\n\n*   [Prices or Bindings?](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/K2c3dkKErsqFd28Dh)\n\nCertain opportunities to violate an injunction will only arise if the injunction exists; someone planning a murder will only confess if he expects the priest not to testify. Thus the apparent gain from violating an injunction in a single case does not actually exist on a systemic level. If prospective murders know that priests makes exception for murders, then they won’t confess to the priest and the priest will not have the opportunity to make an exception. Injunctions that seem value destructive in single instance hypotheticals can be beneficial at a systemic level.\n\nThis post is not cross listed as a part of the listed main sequences.\n\n*   [Ethics Notes](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/hXuB8BCyyiYuzij3F)\n\nThis is a round-up of some of the more interesting and insightful comments to prior posts in the sequence with detailed responses brought to the front.\n\nThis post is not cross listed as a part of the listed main sequences.\n\nAlternative Formats\n-------------------\n\n*   Podcast: [http://castify.co/channels/2-less-wrong-ethical-injunctions](http://castify.co/channels/2-less-wrong-ethical-injunctions)\n\nRelated Pages\n-------------\n\n*   [Ethics & Morality](https://www.lesswrong.com/tag/ethics-and-morality)\n*   [Consequentialism](https://www.lesswrong.com/tag/consequentialism) and [Utilitarianism](https://www.lesswrong.com/tag/utilitarianism)\n*   [Metaethics](https://www.lesswrong.com/tag/metaethics)\n*   [Humility](https://www.lesswrong.com/tag/humility-1) and [Modest Epistemology](https://www.lesswrong.com/tag/modest-epistemology)\n*   [Corrupted hardware](https://www.lesswrong.com/tag/corrupted-hardware)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1aa",
+    "name": "Phlogiston",
+    "core": null,
+    "slug": "phlogiston",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "Blog posts\n----------\n\n*   [Fake Causality](http://lesswrong.com/lw/is/fake_causality/)\n*   [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)\n\nSee also\n--------\n\n*   [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign)\n*   [Reductionism](https://www.lesswrong.com/tag/reductionism)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb277",
+    "name": "Configuration Space",
+    "core": null,
+    "slug": "configuration-space",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "A **configuration space** is an isomorphism between the _attributes_ of something, and its _position_ on a multidimensional graph. Theoretically, the attributes and precise position on the graph should contain the same information. In practice, the concept usually appears as a suffix, as in \"walletspace\", where \"walletspace\" refers to the configuration space of all possible wallets, arranged by similarity. Walletspace would intersect with leatherspace, and the set of leather wallets is a subset of both walletspace and leatherspace, which are both subsets of thingspace.\n\nBlog posts\n----------\n\n*   [Similarity Clusters](http://lesswrong.com/lw/nj/similarity_clusters/)\n*   [The Cluster Structure of Thingspace](http://lesswrong.com/lw/nl/the_cluster_structure_of_thingspace)\n*   [Disguised Queries](http://lesswrong.com/lw/nm/disguised_queries/)\n*   [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/)\n*   [Mutual Information, and Density in Thingspace](http://lesswrong.com/lw/o2/mutual_information_and_density_in_thingspace/)\n*   [Classical Configuration Spaces](http://lesswrong.com/lw/pi/classical_configuration_spaces/)\n\nSee also\n--------\n\n*   [Superexponential conceptspace](https://www.lesswrong.com/tag/superexponential-conceptspace)\n*   [Mind design space](https://www.lesswrong.com/tag/mind-design-space)\n*   [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb168",
+    "name": "Evolution As Alien God",
+    "core": null,
+    "slug": "evolution-as-alien-god",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "In the days before [Darwin](https://en.wikipedia.org/wiki/Charles_Darwin), people would look at the intricate complexity of life and blame it on a god - something with a mind. Knowing the English sentence \"evolution does not have a mind\" doesn't automatically enable people to imagine a mindless, unintelligent designer. People seem to visualize something more like a helpful spirit that works to improve species - whether they recite the phrase \"evolution has no mind\" or not. They think that rabbits mate in order to \"propagate their species\", or wonder if evolution plans to carry on working through nonbiology...\n\nPeople don't stop [anthropomorphizing](https://wiki.lesswrong.com/wiki/anthropomorphizing) just because you tell them to.\n\nTo overcome the metaphor of the helpful spirit, one approach is to consider what kind of god evolution would be if it _were_ a god - what sort of god takes a million years to invent a new complex design, what kind of god would put the retina in backwards, what kind of god would let elephants starve to death once they wore out their last set of teeth; and yet still managed to design a human brain, however poorly...\n\nIt would be a tremendously powerful, unbelievably stupid, [ridiculously slow](https://www.lesswrong.com/tag/slowness-of-evolution), and utterly uncaring god; a god monomaniacally focused on the relative fitness of genes within a species; a god whose attention was completely separated and working at cross-purposes in rabbits and wolves...\n\n...in short, less like [Jehovah](https://en.wikipedia.org/wiki/Jehovah), and more like [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)'s [Azathoth](https://en.wikipedia.org/wiki/Azathoth), the blind idiot God burbling chaotically at the center of everything, surrounded by the thin monotonous piping of flutes.\n\nAnd this is the process responsible for the creation of all biological life on Earth, and you in particular, so you should probably get to know it in some detail.\n\nBlog posts\n----------\n\n*   [An Alien God](http://lesswrong.com/lw/kr/an_alien_god/)\n*   [The Wonder of Evolution](http://lesswrong.com/lw/ks/the_wonder_of_evolution/) ...is not how amazingly well it works, but that it works _at all_ without a mind, brain, or the ability to think abstractly - that an entirely _accidental_ process can produce complex designs. If you talk about how amazingly _well_ evolution works, you're missing the point.\n*   [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/) \\- evolution, while not simple, is sufficiently simpler than organic brains that we can describe mathematically how slow and stupid it is.\n*   [The Tragedy of Group Selectionism](http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/) \\- a tale of how some pre-1960s biologists were led astray by expecting evolution to do smart, nice things like they would do themselves.\n*   [Evolving to Extinction](http://lesswrong.com/lw/l5/evolving_to_extinction/) \\- it is a common misconception that evolution works for the good of a species, but actually evolution only cares about the inclusive fitness of genes relative to _each other_, and so it is quite possible for a species to evolve to extinction.\n*   [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/) \\- you shouldn't bother coming up with clever, persuasive arguments for why evolution will do things the way you prefer. It really isn't listening.\n\nSee also\n--------\n\n*   [Evolution](https://www.lesswrong.com/tag/evolution)\n*   [Stupidity of evolution](https://www.lesswrong.com/tag/stupidity-of-evolution)\n*   [Evolutionary psychology](https://www.lesswrong.com/tag/evolutionary-psychology)\n*   [Optimization process](https://www.lesswrong.com/tag/optimization)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb1a5",
+    "name": "Conceptual Metaphor",
+    "core": null,
+    "slug": "conceptual-metaphor",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "In contemporary linguistics and cognitive science, **conceptual metaphors** are neurally-implemented mappings between concrete [domains of discourse](https://wiki.lesswrong.com/wiki/domain_of_discourse) (often related to our body and perception) and more abstract domains. These are a well-known source of [bias](https://www.lesswrong.com/tag/bias) and are often exploited in the [Dark Arts](https://www.lesswrong.com/tag/dark-arts).\n\nThe conceptual metaphor \"ARGUMENT is WAR\" is frequently discussed at Less Wrong, since it is at the core of the Western [adversarial system](https://wiki.lesswrong.com/wiki/adversarial_system) of debate. It is reflected in such statements as \"I _won_ that argument\", \"His position is _indefensible_\", \"He _shot down_ my claim\", \"His criticisms were _right on target_\" and the like.\n\nSimilarly, [George Lakoff](https://en.wikipedia.org/wiki/George_Lakoff) has documented the effect of political metaphors, which tend to map government to a \"nurturing mother\" or an \"authoritarian father\".\n\nRelated concepts\n----------------\n\n*   [Mind projection fallacy](https://www.lesswrong.com/tag/mind-projection-fallacy)\n*   [Affect heuristic](https://www.lesswrong.com/tag/affect-heuristic)\n*   [Mind-killer](https://www.lesswrong.com/tag/mind-killer)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb216",
+    "name": "Superexponential Conceptspace",
+    "core": null,
+    "slug": "superexponential-conceptspace",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "The sheer number of [distinct configurations](https://www.lesswrong.com/tag/configuration-space) in which matter could be arranged is [unimaginably](https://www.lesswrong.com/tag/scope-insensitivity) vast, but the **superexponential conceptspace** of the number of different ways to *categorize* these possible objects is even vaster.\n\nWhat are concepts?\n------------------\n\nIn order to do inference, we constantly need to make use of categories and concepts: it is neither possible nor desirable to deal with every unique arrangement of quarks and leptons on an individual basis. Fortunately, we can talk about repeatable higher-level regularities in the world instead: we can distinguish particular configurations of matter as instantiations of object concepts like *chair* or *human*, and say that these objects have particular properties, like *red* or *alive*.\n\nFor example, given an object that can either have or not have each of *n* properties, there are 2^*n* different descriptions corresponding to the possible objects of that kind (a number exponential in *n*). The number of possible concepts, each of which either includes a given description or doesn't, is one exponential higher: 2^(2^*n*)\n\nWithout an [inductive bias](https://www.lesswrong.com/tag/inductive-bias), restricting attention to only a small portion of possible concepts, it's not possible to navigate the conceptspace: to learn a concept, a \"fully general\" learner would need to see all the individual examples that define it. Using [probability](https://wiki.lesswrong.com/wiki/probability) to mark the extent to which each possibility belongs to a concept is another approach to express [prior information](https://wiki.lesswrong.com/wiki/prior) and its control over the process of learning.\n\nKey Posts\n---------\n\n*   [Mutual Information, and Density in Thingspace](http://lesswrong.com/lw/o2/mutual_information_and_density_in_thingspace/)\n*   [Superexponential Conceptspace, and Simple Words](http://lesswrong.com/lw/o3/superexponential_conceptspace_and_simple_words/)\n\nSee also\n--------\n\n*   [Locate the hypothesis](https://www.lesswrong.com/tag/locate-the-hypothesis)\n*   [Inductive bias](https://www.lesswrong.com/tag/inductive-bias)\n*   [Configuration space](https://www.lesswrong.com/tag/configuration-space)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb18c",
+    "name": "Possible World",
+    "core": null,
+    "slug": "possible-world",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "In philosophy, a **possible world** is one that is internally consistent, even if it is [counterfactual](https://wiki.lesswrong.com/wiki/counterfactual).\n\nSee also\n--------\n\n*   [Impossible world](https://www.lesswrong.com/tag/impossible-world)\n*   [Least convenient possible world](https://www.lesswrong.com/tag/least-convenient-possible-world)"
+    },
+    "parentTag": null,
+    "subTags": []
+  },
+  {
+    "_id": "5f5c37ee1b5cdee568cfb114",
+    "name": "Traditional Rationality",
+    "core": null,
+    "slug": "traditional-rationality",
+    "oldSlugs": null,
+    "postCount": 0,
+    "description": {
+      "markdown": "**\"Traditional Rationality**\" refers to the tradition passed down by reading Richard Feynman's \"Surely You're Joking\", Thomas Kuhn's \"The Structure of Scientific Revolutions\", Martin Gardner's \"Science: Good, Bad, and Bogus\", Karl Popper on falsifiability, or other non-technical material on rationality. Traditional Rationality is a very large improvement over nothing at all, and very different from [Hollywood rationality](https://www.lesswrong.com/tag/hollywood-rationality); people who grew up on this belief system are definitely fellow travelers, and where most of our recruits come from. But you can do even better by adding math, science, formal epistemic and instrumental rationality; experimental psychology, cognitive science, deliberate practice, in short, *all the technical stuff*.\n\nThere's also some popular tropes of Traditional Rationality that actually seem flawed once you start comparing them to a Bayesian standard - for example, the idea that you ought to give up an idea once definite evidence has been provided against it, but you're allowed to believe until then, if you want to. Contrast to the stricter idea of there being a certain exact probability which it is correct to assign, continually updated in the light of new evidence.\n\nBlog posts\n----------\n\n*   [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)\n*   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)\n*   [My Wild and Reckless Youth](http://lesswrong.com/lw/iy/my_wild_and_reckless_youth/)\n*   [Science Isn't Strict Enough](http://lesswrong.com/lw/qd/science_isnt_strict_enough/)\n*   [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)\n\nSee also\n--------\n\n*   [Science](https://www.lesswrong.com/tag/science), [scholarship](https://www.lesswrong.com/tag/scholarship-and-learning)\n*   [Rational evidence](https://www.lesswrong.com/tag/rational-evidence)\n*   [Scales of justice fallacy](https://www.lesswrong.com/tag/scales-of-justice-fallacy)\n*   [Epistemic hygiene](https://www.lesswrong.com/tag/epistemic-hygiene), [Absurdity heuristic](https://www.lesswrong.com/tag/absurdity-heuristic)\n*   [Yudkowsky's coming of age](https://wiki.lesswrong.com/wiki/Yudkowsky's_coming_of_age)"
+    },
+    "parentTag": null,
+    "subTags": []
   }
 ]

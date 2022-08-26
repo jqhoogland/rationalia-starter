@@ -79,7 +79,7 @@ export const fetchTag = async (slug: string) => {
             }
             subTags {
                 name
-              }
+            }
           }
         }
     }`
@@ -123,7 +123,7 @@ export const tagsToMD = async () => {
         console.log(tag.name)   
         console.log(mdFile)
 
-        const name = tag.name.replaceAll(":", '—').replaceAll("/", ", ");
+        const name = tag.name.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",");
 
         fs.writeFileSync(`../LW/Concepts/${name}.md`, mdFile)
     }

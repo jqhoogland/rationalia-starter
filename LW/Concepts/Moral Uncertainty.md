@@ -26,7 +26,7 @@ External links
 Sequences
 ---------
 
-*   [[Moral uncertainty|Moral uncertainty]]
+*   [Moral uncertainty](https://www.lesswrong.com/s/4NFwxwzLzpiikfkk3)
 
 See also
 --------

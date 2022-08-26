@@ -24,7 +24,7 @@ The term **gears-level** was first described on LW in the post ["Gears in Unders
 
 > 3\. If you knew the model were accurate but you were to forget the value of one variable, [could you rederive it](https://www.lesswrong.com/lw/la/truly_part_of_you/)?
 
-An example from [[Gears in understanding|Gears in Understanding]] of a gears-level model is (surprise) a box of gears. If you can see a series of interlocked gears, alternately turning clockwise, then counterclockwise, and so on, then you're able to anticipate the direction of any given, even if you cannot see it. It would be very difficult to imagine all of the gears turning as they are but only one of them changing direction whilst remaining interlocked. And finally, you would be able to rederive the direction of any given gear if you forgot it.
+An example from [Gears in Understanding](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding) of a gears-level model is (surprise) a box of gears. If you can see a series of interlocked gears, alternately turning clockwise, then counterclockwise, and so on, then you're able to anticipate the direction of any given, even if you cannot see it. It would be very difficult to imagine all of the gears turning as they are but only one of them changing direction whilst remaining interlocked. And finally, you would be able to rederive the direction of any given gear if you forgot it.
 
   
 

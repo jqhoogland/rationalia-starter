@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-CFAR's [[CFAR Participant Handbook now available to all|2019 workshop participant handbook]] defines an **aversion** as
+CFAR's [2019 workshop participant handbook](https://www.lesswrong.com/posts/Z9cbwuevS9cqaR96h/cfar-participant-handbook-now-available-to-all) defines an **aversion** as
 
 > any sort of mental mechanism that causes us to be less likely to engage in a particular activity, or to do so only with pain, displeasure, or discomfort. Aversions can be conscious or unconscious, reasoned or felt, verbal or visceral, and they can range anywhere from a slight tinge of antipathy to outright phobias.
 

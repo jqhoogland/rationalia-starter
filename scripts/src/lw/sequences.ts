@@ -1,6 +1,7 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import type { Response, TagPreview } from "./shared";
+import { Post } from "./posts";
+import type { Response } from "./shared";
 
 export interface Sequence {
     _id: string;
@@ -17,18 +18,19 @@ export interface Sequence {
         contents: {
             markdown: string
         }
-        posts: { _id: string, title: string, tags: TagPreview[] }[]
+        posts: Post[]
     }[]
 }
 
-export const loadSequences = async (limit?: number) => {
-    const query = gql`
+export const loadSequences = async () => {
+    const getQuery = (limit: number, offset: number) => gql`
     {
         sequences(input: { 
-         terms: { ${limit ? `terms:{
-            limit: ${limit},
-          }` : ""}
-        }}) {
+         terms: { 
+            limit: ${limit}
+            offset: ${offset}
+          }
+        }) {
             results{
                 _id
                 title
@@ -46,21 +48,52 @@ export const loadSequences = async (limit?: number) => {
                     }
                     posts {
                         _id
+                        url
                         title
+                        slug
+                        author
+                        question
                         tags {
                             name
                         }
+                        tableOfContents
+                        contents {
+                            markdown
+                        }
+                        voteCount
                     }
                 }
             }
         }
     }`
-    
-          return request('https://www.lesswrong.com/graphql', query).then(({ sequences }: { sequences: Response<Sequence> }) => {
-            fs.writeFileSync('./data/sequences.json', JSON.stringify(sequences.results, null, 2))
-              console.log(sequences.results)
-            return sequences.results;
-        })
+
+    let i = 0;
+    let lastReturnedSize = 1;
+    let allSequences: Sequence[] = [];
+
+    while (lastReturnedSize === 1) {
+        // We need to paginate otherwise the requests will timeout (yes, with 1-item pages)
+        console.log(`Fetching sequence ${i}`);
+        const { sequences } = await request('https://www.lesswrong.com/graphql', getQuery(lastReturnedSize, i++)) as { sequences: Response<Sequence> };
+        
+        for (const sequence of sequences.results) {
+            for (const chapter of sequence.chapters) {
+                for (const post of chapter.posts) {
+                    if (!!post.tableOfContents?.html) {
+                        delete post.tableOfContents.html;
+                    }
+                }
+            }
+        }
+            
+            
+        allSequences = [...allSequences, ...sequences.results];
+        lastReturnedSize = sequences.results.length;
+
+
+        fs.writeFileSync('./data/sequences.json', JSON.stringify(allSequences, null, 2))
+    }
+    return allSequences;
 }
 
 (await loadSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))

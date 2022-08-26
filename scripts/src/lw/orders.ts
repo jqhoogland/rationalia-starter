@@ -1,5 +1,5 @@
 import fs from "fs";
-import request, { gql } from "graphql-request";
+import { fetchPost } from "./posts";
 
 export interface ChapterOrder {
     title: string;
@@ -32,31 +32,6 @@ const getSlug = (name: string) =>
     name.replace(/\&/g, 'and').replace(/[\s',\+\=]/g, '-').replace(/[^\w-]+/g, "").replace(/--/g, "").toLowerCase();
     
 
-const getIdBySlug = async (slug: string) => {
-    try {
-        const query = gql`
-        {
-            post(input: {
-                selector: { slug: "${slug}" }
-            }) {
-                result {
-                    _id
-                }
-            }
-        }`
-
-        return request('https://www.lesswrong.com/graphql', query).then(({ post }: { post: { result: { _id: string } } }) => {
-            return post.result._id;
-        })
-    } catch (e) {
-        console.log("---")
-        console.log(slug)
-        console.log("---")
-        console.error(e)
-        return null
-    }   
-}
-
 const normalize = async (name: string) => {
     const order = loadOrder(name);
 
@@ -68,8 +43,13 @@ const normalize = async (name: string) => {
                 item.slug = item.slug ?? getSlug(item.name);
 
                 if (item.type === "post") {
-                    item._id = item._id ?? await getIdBySlug(item.slug)
-                    console.log(item._id)
+                    const query: { _id?: string, slug?: string } = {}
+                    if (item._id) query._id = item._id; 
+                    else query.slug = item.slug
+
+                    Object.entries(await fetchPost(query)).forEach(([key, value]) => {
+                        item[key] = value;
+                    })
                 }
             }
 

@@ -29,11 +29,11 @@ Top Resources
 *   [\[Question\] How do you assess the quality / reliability of a scientific study?](https://www.lesswrong.com/posts/gxbGKa2AnQsrn3Gni/how-do-you-assess-the-quality-reliability-of-a-scientific) A question post with many highly excellent lengthy responses, several which received bounty payouts.
 *   [[On learning difficult things|On learning difficult things]] covers techniques and methods for studying difficult topics.
 *   [Paper-Reading for Gears](https://www.lesswrong.com/posts/TPjbTXntR54XSZ3F2/paper-reading-for-gears) is a guide studying to actually build up a mechanistic, gears-level understanding of a topic.
-*   [[The 3 Books Technique for Learning a New Skilll|The 3 Books Technique for Learning a New Skilll]] is a short post suggests finding a What, How, and Why book for any skill or topic you wish to learn.
+*   [The 3 Books Technique for Learning a New Skilll](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll) is a short post suggests finding a What, How, and Why book for any skill or topic you wish to learn.
 *   [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) crowd-sourced list where every recommendation requires that the recommender have read three books on the topic and can explain why one textbook is better than others.
-*   [[Forum participation as a research strategy|Forum participation as a research strategy]] argues that participation on discussion forums on a research topic is actually a great way for researchers to make progress.
+*   [Forum participation as a research strategy](https://www.lesswrong.com/posts/rBkZvbGDQZhEymReM/forum-participation-as-a-research-strategy) argues that participation on discussion forums on a research topic is actually a great way for researchers to make progress.
 *   [Fact Posts: How and Why](https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why) is guide on exploring empirical question by starting with raw facts rather than expert opinion and prior analysis. Compared more typical research, the Fact Post method helps you ground your understanding in facts and see the topic freshly.
-*   [[How to (not) do a literature review|How to (not) do a literature review]] which contains a very concrete list of steps for literature reviews, including mistakes to avoid.
+*   [How to (not) do a literature review](https://www.lesswrong.com/posts/tRQek3Xb9cKZ2o6iA/how-to-not-do-a-literature-review) which contains a very concrete list of steps for literature reviews, including mistakes to avoid.
 
 **External Resources**
 

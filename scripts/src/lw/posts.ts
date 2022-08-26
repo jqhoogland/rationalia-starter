@@ -12,10 +12,15 @@ export interface Post {
     tableOfContents: TableOfContents,
     contents: {
         markdown: string
-    }
+    },
+    voteCount: number;
+    forceInclude?: boolean
 }
 
-// (Does not return the above)
+/**
+ * We force-include all the posts included in the sequences & in the reading orders.
+ * We include any posts that we find will fixing links if their vote count > 200.
+ */
 export const gatherPosts = async () => {
     const DB = await import("./shared").then(mod => mod.DB);
     const db = new DB();
@@ -34,19 +39,11 @@ export const gatherPosts = async () => {
             ...fromOrder(db.order("jimrandomh")),
             ...fromOrder(db.order("xixidu")),
         ]).values()
-    ] // .filter(p => !!p)
+    ].filter(p => !!p).map(p => ({...p, forceInclude: true}))
 }
 
-export interface PostPreview {
-    title: string;
-    _id?: string;
-    slug?: string;
-    comment?: string;
-    tags?: TagPreview[]
-}
-
-export const readPosts = () => JSON.parse(fs.readFileSync('data/posts.json', 'utf8')) as PostPreview[];
-export const writePosts = async (posts: PostPreview[]) => {
+export const readPosts = () => JSON.parse(fs.readFileSync('data/posts.json', 'utf8')) as Post[];
+export const writePosts = async (posts: Post[]) => {
     fs.writeFileSync("data/posts.json", JSON.stringify(posts, null, 2));
 }
 
@@ -73,17 +70,21 @@ export const fetchPost = ({ slug, _id }: { slug?: string, _id?: string }) => {
                 contents {
                     markdown
                 }
+                voteCount
             }   
         }
     }`
 
     return request('https://www.lesswrong.com/graphql', query)
         .then(({ post }: { post: { result: Post } }) => {
+            if (!!post?.result?.tableOfContents?.html) {
+                delete post.result.tableOfContents.html;
+            }
             writePosts([...readPosts(), post.result]);
             return post.result;
         })
 }
 
-// gatherPosts().then(writePosts)
+gatherPosts().then(writePosts)
 
 // console.log(JSON.stringify(gatherPosts(), null, 2))

@@ -12,7 +12,7 @@ The rationalist community has chapters all over the world, the oldest being the 
 
 These are posts about meetups and local communities in general, not about specific communities (unless they also provide general insight).  
   
-For example - [[What Are Meetups Actually Trying to Accomplish?|What are meetups actually trying to accomplish?]]
+For example - [What are meetups actually trying to accomplish?](https://www.lesswrong.com/posts/bDnFhJBcLQvCY3vJW/what-are-meetups-actually-trying-to-accomplish)
 
 For specific meetups see [Events(community)](https://www.lesswrong.com/tag/events-community)
 

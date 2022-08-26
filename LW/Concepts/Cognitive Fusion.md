@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-\[[Prereq: Cognitive Fusion|More thorough definition/description in [Prereq: Cognitive Fusion]] and [Kaj Sotala's attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)\]   
+\[More thorough definition/description in [Prereq: Cognitive Fusion](https://www.lesswrong.com/posts/5g7oFiePGEY3h4bqX/prereq-cognitive-fusion) and [Kaj Sotala's attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)\]   
   
 From the latter:
 

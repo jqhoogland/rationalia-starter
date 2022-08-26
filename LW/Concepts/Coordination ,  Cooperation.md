@@ -16,4 +16,4 @@ See also: [[Game Theory|Game Theory]], [Moloch](https://www.lesswrong.com/tag/mo
 
 Another related term in this space is *collective action problem. *
 
-**Related Sequences:** [[Kickstarter for Coordinated Action|Kickstarter for Coordinated Action]]
+**Related Sequences:** [Kickstarter for Coordinated Action](https://www.lesswrong.com/s/vz9Zrj3oBGsttG3Jh)

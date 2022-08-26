@@ -8,4 +8,4 @@ tags:
   - Tag
 ---
 
-Lifelogging is the practice of intentionally recording one's life, whether for [[The case for lifelogging as life extension|life extension purposes]] or [any other purposes](https://matiroy.com/writings/Should-I-record-my-life.html)
+Lifelogging is the practice of intentionally recording one's life, whether for [life extension purposes](https://www.lesswrong.com/posts/k8mwvvvpjMGcZLAKH/the-case-for-lifelogging-as-life-extension) or [any other purposes](https://matiroy.com/writings/Should-I-record-my-life.html)
