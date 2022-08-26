@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/2017-2019 AI Alignment Prize.md",
+            "file": "LW/Concepts/Absurdity Heuristic.md",
             "mode": "preview",
             "source": false
           }
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "402f879634acba83",
@@ -63,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/2017-2019 AI Alignment Prize.md"
+                "file": "LW/Concepts/Absurdity Heuristic.md"
               }
             }
           }
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/2017-2019 AI Alignment Prize.md",
+                "file": "LW/Concepts/Absurdity Heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +164,9 @@
   },
   "active": "58aaac02c70808db",
   "lastOpenFiles": [
+    "LW/Concepts/2017-2019 AI Alignment Prize.md",
     "LW/Concepts/80,000 Hours.md",
     "LW/Concepts/Absurdity Heuristic.md",
-    "LW/Concepts/2017-2019 AI Alignment Prize.md",
     "LW/Concepts/Abstraction.md",
     "LW/Concepts (LW).md",
     "LW/LessWrong.md",
