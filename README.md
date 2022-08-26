@@ -11,7 +11,7 @@ LessWrong and its compatriots have accumulated a lot of posts over the years. Th
 In particular, the aim of this repository is:
 
 - To get you up to speed with [[Concepts (LW)|LessWrong's "concepts"]] and [[Jargon]] and with [[Topics (EA)|EA's "topics"]].[^0]
-- To walk you through [[Library (LW)|LessWrong's]], [[The AI Alignment Forum|AIAF]] and [[Library (EA)|EA's]] "standard" libraries.
+- To walk you through [[Library (LW)|LessWrong's]], [[The AI Alignment Forum|AF]] and [[Library (EA)|EA's]] "standard" libraries.
 
 ## Structure
 
