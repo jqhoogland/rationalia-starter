@@ -6,8 +6,9 @@
 
 import fs from "fs";
 import request, { gql } from "graphql-request";
+import yaml from "js-yaml";
 import { Post } from "./posts";
-
+import { db, fixLinks } from "./shared";
 
 export interface Jargon {
     title: string;
@@ -98,4 +99,40 @@ export const loadJargon = async () => {
 
 }
 
-(await loadJargon().then(jargon => console.log(JSON.stringify(jargon, null, 2))))
+// (await loadJargon().then(jargon => console.log(JSON.stringify(jargon, null, 2))))
+
+
+export const jargonToMD = async () => {
+    const getFrontmatter = (jargon: Jargon) => {
+        
+        return (
+            "---\n"
+            + yaml.dump({
+                title: jargon.title,
+                type: "jargon",
+                tags: [
+                    "LessWrong",
+                    "Concept",
+                    "Jargon"
+                ],
+            })
+            + "---"
+        )
+    }
+
+    for (const word of db.jargon) {
+        let mdFile = ""
+        mdFile += getFrontmatter(word)
+        mdFile += "\n\n"
+        mdFile += await fixLinks(word.body);
+
+        console.log(word.title)
+        console.log(mdFile)
+
+        const name = word.title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ");
+
+        fs.writeFileSync(`../LW/Jargon/${name}.md`, mdFile)
+    }
+}
+
+(await jargonToMD())

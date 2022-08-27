@@ -134,4 +134,4 @@ export const postsToMD = async () => {
     }
 }
 
-await postsToMD();
+// await postsToMD();
