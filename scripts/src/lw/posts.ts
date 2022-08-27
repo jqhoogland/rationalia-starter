@@ -101,12 +101,12 @@ export const postsToMD = async () => {
             "---\n"
             + yaml.dump({
                 title: post.title,
-                href: `https://lesswrong.com/tag/${post.slug}`,
-                type: "tag",
+                href: `https://www.lesswrong.com/posts/${post._id}/${post.slug}`,
+                type: "post",
                 tags: [
                     "LessWrong",
                     "Concept",
-                    "Tag"
+                    "Post"
                 ],
                 ...(sequence ? { sequence: sequence.title } : {}),
                 ...(chapter ? { chapter: chapter.title } : {}),
@@ -129,7 +129,7 @@ export const postsToMD = async () => {
 
             const name = post.title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ");
 
-            fs.writeFileSync(`../LW/Concepts/${name}.md`, mdFile)
+            fs.writeFileSync(`../LW/Posts/${name}.md`, mdFile)
         }
     }
 }
