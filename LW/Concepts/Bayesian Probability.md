@@ -19,22 +19,22 @@ The difference is more apparent when discussing ideas. A frequentist will not as
 
 ## Blog posts
 
-*   [What is Bayesianism?](http://lesswrong.com/lw/1to/what_is_bayesianism/)
-*   [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
-*   [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
-*   [When (Not) To Use Probabilities](http://lesswrong.com/lw/sg/when_not_to_use_probabilities/)
-*   [Against NHST](http://lesswrong.com/lw/g13/against_nhst/)
-*   [[Probability & Statistics|All Less Wrong posts tagged "Probability"]]
+- [What is Bayesianism?](http://lesswrong.com/lw/1to/what_is_bayesianism/)
+- [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
+- [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
+- [When (Not) To Use Probabilities](http://lesswrong.com/lw/sg/when_not_to_use_probabilities/)
+- [Against NHST](http://lesswrong.com/lw/g13/against_nhst/)
+- [[Probability & Statistics|All Less Wrong posts tagged "Probability"]]
 
 ## See also
 
-*   [[Priors]]
-*   [[Bayesianism|Bayesian]]
-*   [[Bayes' Theorem|Bayes' theorem]]
-*   [[Mind Projection Fallacy|Mind projection fallacy]]
+- [[Priors]]
+- [[Bayesianism|Bayesian]]
+- [[Bayes' Theorem|Bayes' theorem]]
+- [[Mind Projection Fallacy|Mind projection fallacy]]
 
 ## External links
 
-*   [BIPS](http://www.astro.cornell.edu/staff/loredo/bayes/index.html): Bayesian Inference for the Physical Sciences
-*   [Maximum entropy thermodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)
-*   [What is Bayesian statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf)
+- [BIPS](http://www.astro.cornell.edu/staff/loredo/bayes/index.html): Bayesian Inference for the Physical Sciences
+- [Maximum entropy thermodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)
+- [What is Bayesian statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf)

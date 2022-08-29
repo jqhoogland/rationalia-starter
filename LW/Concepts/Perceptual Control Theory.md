@@ -33,12 +33,12 @@ This [blog post](http://psychsciencenotes.blogspot.com/2016/01/a-quick-review-an
 
 ## Notable Posts
 
-*   Kennaway's [What is control theory](https://www.lesswrong.com/posts/fJKbCXrCPwAR5wjL8/what-is-control-theory-and-why-do-you-need-to-know-about-it), and his prior post [Without Models](https://www.lesswrong.com/posts/Ba6buPA3u2btdKS82/without-models)
-*   SSC book reviews of [Surfing Uncertainty](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) and [Behavior: The Control of Perception](https://slatestarcodex.com/2017/03/06/book-review-behavior-the-control-of-perception/)
-    *   Scott Alexander theorizes that it's analogous to Friston's [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle), [here](https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/) and [here](https://slatestarcodex.com/2019/03/20/translating-predictive-coding-into-perceptual-control/)
-*   Vaniver's [Introduction to Control Theory](https://www.lesswrong.com/posts/dcRY7XSnuARkHkA5D/an-introduction-to-control-theory), and review of [Behavior: The Control of Perception](https://www.lesswrong.com/posts/nPs63hpijnQs37jme/behavior-the-control-of-perception)
-    *   His personal-blog thoughts on the topic [here](https://www.lesswrong.com/posts/cMKNFE8hWKNhnEXtM/control-theory-commentary)
+- Kennaway's [What is control theory](https://www.lesswrong.com/posts/fJKbCXrCPwAR5wjL8/what-is-control-theory-and-why-do-you-need-to-know-about-it), and his prior post [Without Models](https://www.lesswrong.com/posts/Ba6buPA3u2btdKS82/without-models)
+- SSC book reviews of [Surfing Uncertainty](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) and [Behavior: The Control of Perception](https://slatestarcodex.com/2017/03/06/book-review-behavior-the-control-of-perception/)
+    - Scott Alexander theorizes that it's analogous to Friston's [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle), [here](https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/) and [here](https://slatestarcodex.com/2019/03/20/translating-predictive-coding-into-perceptual-control/)
+- Vaniver's [Introduction to Control Theory](https://www.lesswrong.com/posts/dcRY7XSnuARkHkA5D/an-introduction-to-control-theory), and review of [Behavior: The Control of Perception](https://www.lesswrong.com/posts/nPs63hpijnQs37jme/behavior-the-control-of-perception)
+    - His personal-blog thoughts on the topic [here](https://www.lesswrong.com/posts/cMKNFE8hWKNhnEXtM/control-theory-commentary)
 
 ## See also
 
-*   [Control Theory](https://lessestwrong.com/tag/control-theory)
+- [Control Theory](https://lessestwrong.com/tag/control-theory)

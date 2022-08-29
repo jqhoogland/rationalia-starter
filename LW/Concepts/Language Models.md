@@ -15,4 +15,4 @@ synchedAt: '2022-08-29T10:47:20.501Z'
 
 ### See also
 
-*   [[GPT]] \- A family of large language models created by [[OpenAI]]
+- [[GPT]] \- A family of large language models created by [[OpenAI]]

@@ -18,7 +18,7 @@ synchedAt: '2022-08-29T11:05:06.455Z'
 
 ## See also:
 
-*   [[History]]
+- [[History]]
 
 ## Origin of the Name
 
@@ -26,4 +26,4 @@ synchedAt: '2022-08-29T11:05:06.455Z'
 
 ## External Resources
 
-*   [*Roots of Progress*](https://rootsofprogress.org/about)  is a blog by [jasoncrawford](https://www.lesswrong.com/users/jasoncrawford) that explores the history of technology and industry alongside the philosophical questions of human progress. Many of the blogs posts are crossposted to LessWrong.
+- [*Roots of Progress*](https://rootsofprogress.org/about)  is a blog by [jasoncrawford](https://www.lesswrong.com/users/jasoncrawford) that explores the history of technology and industry alongside the philosophical questions of human progress. Many of the blogs posts are crossposted to LessWrong.

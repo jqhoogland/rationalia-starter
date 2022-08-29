@@ -29,27 +29,27 @@ Eliezer Yudkowsky has observed that the varying perspectives on the Singularity 
 
 Philosopher David Chalmers published a [significant analysis of the Singularity](http://consc.net/papers/singularity.pdf), focusing on intelligence explosions, in *Journal of Consciousness Studies*. He performed a very careful analysis of the main premises and arguments for the existence of the singularity. According to him, the main argument is:
 
-*   1\. There will be AI (before long, absent defeaters).
-*   2\. If there is AI, there will be AI+ (soon after, absent defeaters).
-*   3\. If there is AI+, there will be AI++ (soon after, absent defeaters).
+- 1\. There will be AI (before long, absent defeaters).
+- 2\. If there is AI, there will be AI+ (soon after, absent defeaters).
+- 3\. If there is AI+, there will be AI++ (soon after, absent defeaters).
 
 —————-
 
-*   4\. There will be AI++ (before too long, absent defeaters).
+- 4\. There will be AI++ (before too long, absent defeaters).
 
 He then proceeds to search for arguments for these 3 premises. Premise 1 seems to be grounded in either [[Evolutionary Argument For Human-Level AI|Evolutionary argument for human-level AI]] or [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]]. Premise 2 is grounded in the existence and feasibility of an [[Extensibility Argument For Greater-Than-Human Intelligence|extensibility method for greater-than-human intelligence]]. Premise 3 is a more general version of premise 2. His analysis of how the singularity could occur defends the likelihood of an intelligence explosion. He also discusses the nature of general intelligence, and possible obstacles to a singularity. A good deal of discussion is given to the dangers of an intelligence explosion, and Chalmers concludes that we must negotiate it very carefully by building the correct values into the initial AIs.
 
 ## References
 
-*   [Speculations Concerning the First Ultraintelligent Machine](http://www.stat.vt.edu/tech_reports/2005/GoodTechReport.pdf) by I.J. Good
-*   [The Coming Technological Singularity](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html) Essay by Vernor Vinge
-*   [An overview of models of technological singularity](http://web.archive.org/web/20110716035716/http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf) by Anders Sandberg
-*   [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf) by David J. Chalmers
-*   [Artificial Superintelligence: A Futuristic Approach](http://www.kurzweilai.net/artificial-superintelligence-a-futuristic-approach) by Roman V. Yampolskiy
+- [Speculations Concerning the First Ultraintelligent Machine](http://www.stat.vt.edu/tech_reports/2005/GoodTechReport.pdf) by I.J. Good
+- [The Coming Technological Singularity](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html) Essay by Vernor Vinge
+- [An overview of models of technological singularity](http://web.archive.org/web/20110716035716/http://agi-conf.org/2010/wp-content/uploads/2009/06/agi10singmodels2.pdf) by Anders Sandberg
+- [The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf) by David J. Chalmers
+- [Artificial Superintelligence: A Futuristic Approach](http://www.kurzweilai.net/artificial-superintelligence-a-futuristic-approach) by Roman V. Yampolskiy
 
 ## External links
 
-*   [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools) by Eliezer Yudkowsky
-*   [Singularity TED Talk](http://www.youtube.com/watch?v=IfbOyw3CT6A) by Ray Kurzweil (YouTube)
-*   [The Singularity Three Major Schools of Thought](http://www.youtube.com/watch?v=mDhdt58ySJA) Singularity Summit Talk by Eliezer Yudkowsky
-*   [Centre for the study of Existential Risk](http://cser.org/resources.html) Web site of University of Cambridge
+- [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools) by Eliezer Yudkowsky
+- [Singularity TED Talk](http://www.youtube.com/watch?v=IfbOyw3CT6A) by Ray Kurzweil (YouTube)
+- [The Singularity Three Major Schools of Thought](http://www.youtube.com/watch?v=mDhdt58ySJA) Singularity Summit Talk by Eliezer Yudkowsky
+- [Centre for the study of Existential Risk](http://cser.org/resources.html) Web site of University of Cambridge

@@ -15,18 +15,18 @@ A variant of [[Updateless Decision Theory|updateless decision theory]] that uses
 
 ## Blog posts
 
-*   [AI cooperation in practice](http://lesswrong.com/lw/2ip/ai_cooperation_in_practice/) by [cousin_it](http://lesswrong.com/user/cousin_it/)
-*   [What a reduction of "could" could look like](http://lesswrong.com/lw/2l2/what_a_reduction_of_could_could_look_like/) by cousin_it
-*   [Controlling Constant Programs](http://lesswrong.com/lw/2os/controlling_constant_programs/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
-*   [Notion of Preference in Ambient Control](http://lesswrong.com/lw/2tq/notion_of_preference_in_ambient_control/) by Vladimir Nesov
-*   [A model of UDT with a halting oracle](http://lesswrong.com/lw/8wc/a_model_of_udt_with_a_halting_oracle/) by cousin_it
-*   [Predictability of Decisions and the Diagonal Method](http://lesswrong.com/lw/ap3/predictability_of_decisions_and_the_diagonal/) by Vladimir Nesov
-*   [A model of UDT without proof limits](http://lesswrong.com/lw/b0e/a_model_of_udt_without_proof_limits/) by cousin_it
-*   [An example of self-fulfilling spurious proofs in UDT](http://lesswrong.com/r/discussion/lw/b5t/an_example_of_selffulfilling_spurious_proofs_in/) by cousin_it
+- [AI cooperation in practice](http://lesswrong.com/lw/2ip/ai_cooperation_in_practice/) by [cousin_it](http://lesswrong.com/user/cousin_it/)
+- [What a reduction of "could" could look like](http://lesswrong.com/lw/2l2/what_a_reduction_of_could_could_look_like/) by cousin_it
+- [Controlling Constant Programs](http://lesswrong.com/lw/2os/controlling_constant_programs/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
+- [Notion of Preference in Ambient Control](http://lesswrong.com/lw/2tq/notion_of_preference_in_ambient_control/) by Vladimir Nesov
+- [A model of UDT with a halting oracle](http://lesswrong.com/lw/8wc/a_model_of_udt_with_a_halting_oracle/) by cousin_it
+- [Predictability of Decisions and the Diagonal Method](http://lesswrong.com/lw/ap3/predictability_of_decisions_and_the_diagonal/) by Vladimir Nesov
+- [A model of UDT without proof limits](http://lesswrong.com/lw/b0e/a_model_of_udt_without_proof_limits/) by cousin_it
+- [An example of self-fulfilling spurious proofs in UDT](http://lesswrong.com/r/discussion/lw/b5t/an_example_of_selffulfilling_spurious_proofs_in/) by cousin_it
 
 ## See also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Newcomb's Problem|Newcomb's problem]], [[Prisoner's Dilemma|Prisoner's dilemma]]
-*   [[Timeless Decision Theory|Timeless decision theory]]
-*   [[Updateless Decision Theory|Updateless decision theory]]
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]], [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Timeless Decision Theory|Timeless decision theory]]
+- [[Updateless Decision Theory|Updateless decision theory]]

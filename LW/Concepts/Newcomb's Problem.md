@@ -46,18 +46,18 @@ Sometimes people dismiss Newcomb's problem because of the physical impossibility
 
 ## Notable Posts
 
-*   [Newcomb's Problem and Regret of Rationality](https://lessestwrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
-*   [Formalizing Newcomb's](https://lessestwrong.com/lw/7v/formalizing_newcombs/)
-*   [Newcomb's Problem standard positions](https://lessestwrong.com/lw/90/newcombs_problem_standard_positions/)
-*   [Newcomb's Problem vs. One-Shot Prisoner's Dilemma](https://lessestwrong.com/lw/6r/newcombs_problem_vs_oneshot_prisoners_dilemma/)
-*   [Decision theory: Why Pearl helps reduce “could” and “would”, but still leaves us with at least three alternatives](https://lessestwrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/)
+- [Newcomb's Problem and Regret of Rationality](https://lessestwrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
+- [Formalizing Newcomb's](https://lessestwrong.com/lw/7v/formalizing_newcombs/)
+- [Newcomb's Problem standard positions](https://lessestwrong.com/lw/90/newcombs_problem_standard_positions/)
+- [Newcomb's Problem vs. One-Shot Prisoner's Dilemma](https://lessestwrong.com/lw/6r/newcombs_problem_vs_oneshot_prisoners_dilemma/)
+- [Decision theory: Why Pearl helps reduce “could” and “would”, but still leaves us with at least three alternatives](https://lessestwrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/)
 
 ## See Also
 
-*   [Decision theory](https://lessestwrong.com/tag/decision-theory)
-*   [Counterfactual mugging](https://lessestwrong.com/tag/counterfactual-mugging)
-*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
-*   [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
-*   [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-*   [Sleeping Beauty problem](https://lessestwrong.com/tag/sleeping-beauty-paradox)
-*   [Prisoner's dilemma](https://lessestwrong.com/tag/prisoner-s-dilemma)
+- [Decision theory](https://lessestwrong.com/tag/decision-theory)
+- [Counterfactual mugging](https://lessestwrong.com/tag/counterfactual-mugging)
+- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
+- [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
+- [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
+- [Sleeping Beauty problem](https://lessestwrong.com/tag/sleeping-beauty-paradox)
+- [Prisoner's dilemma](https://lessestwrong.com/tag/prisoner-s-dilemma)

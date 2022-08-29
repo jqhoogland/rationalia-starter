@@ -25,6 +25,6 @@ Scott uses this terminology mainly to separate strategies that work especially w
 
 ## External Links
 
-*   [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/)
+- [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/)
 
 **Related Pages:** [[Memetics]], [[Public Discourse]]

@@ -47,17 +47,17 @@ AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem
 
 ## **References**
 
-*   [R.V. Yampolskiy, J. Fox (2012) Artificial General Intelligence and the Human Mental Model. In Amnon H. Eden, Johnny Søraker, James H. Moor, Eric Steinhart (Eds.), The Singularity Hypothesis.The Frontiers Collection. London: Springer.](https://intelligence.org/files/AGI-HMM.pdf)
-*   [M. Hutter (2007) Universal Algorithmic Intelligence: A mathematical top->down approach](http://www.hutter1.net/ai/aixigentle.htm). In Goertzel & Pennachin (eds.), Artificial General Intelligence, 227-287. Berlin: Springer.
-*   M. Hutter, (2005) Universal Artificial Intelligence: Sequential decisions based on algorithmic probability. Berlin: Springer.
-*   [J. Veness, K.S. Ng, M. Hutter, W. Uther and D. Silver (2011) A Monte-Carlo AIXI Approximation](http://www.jair.org/media/3125/live-3125-5397-jair.pdf), *Journal of Artiﬁcial Intelligence Research* 40, 95-142\]
+- [R.V. Yampolskiy, J. Fox (2012) Artificial General Intelligence and the Human Mental Model. In Amnon H. Eden, Johnny Søraker, James H. Moor, Eric Steinhart (Eds.), The Singularity Hypothesis.The Frontiers Collection. London: Springer.](https://intelligence.org/files/AGI-HMM.pdf)
+- [M. Hutter (2007) Universal Algorithmic Intelligence: A mathematical top->down approach](http://www.hutter1.net/ai/aixigentle.htm). In Goertzel & Pennachin (eds.), Artificial General Intelligence, 227-287. Berlin: Springer.
+- M. Hutter, (2005) Universal Artificial Intelligence: Sequential decisions based on algorithmic probability. Berlin: Springer.
+- [J. Veness, K.S. Ng, M. Hutter, W. Uther and D. Silver (2011) A Monte-Carlo AIXI Approximation](http://www.jair.org/media/3125/live-3125-5397-jair.pdf), *Journal of Artiﬁcial Intelligence Research* 40, 95-142\]
 
 ## **Blog posts**
 
-*   [AIXI and Existential Despair](https://www.lesswrong.com/lw/8qy/aixi_and_existential_despair/) by [paulfchristiano](https://www.lesswrong.com/users/paulfchristiano)
-*   [\[video\] Paul Christiano's impromptu tutorial on AIXI and TDT](https://www.lesswrong.com/r/discussion/lw/az7/video_paul_christianos_impromptu_tutorial_on_aixi/)
+- [AIXI and Existential Despair](https://www.lesswrong.com/lw/8qy/aixi_and_existential_despair/) by [paulfchristiano](https://www.lesswrong.com/users/paulfchristiano)
+- [\[video\] Paul Christiano's impromptu tutorial on AIXI and TDT](https://www.lesswrong.com/r/discussion/lw/az7/video_paul_christianos_impromptu_tutorial_on_aixi/)
 
 ## **See also**
 
-*   [[Solomonoff Induction|Solomonoff induction]]
-*   [[Decision Theory|Decision theory]]
+- [[Solomonoff Induction|Solomonoff induction]]
+- [[Decision Theory|Decision theory]]

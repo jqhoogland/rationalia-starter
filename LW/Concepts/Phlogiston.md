@@ -13,10 +13,10 @@ synchedAt: '2022-08-29T11:09:30.545Z'
 
 ## Blog posts
 
-*   [Fake Causality](http://lesswrong.com/lw/is/fake_causality/)
-*   [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)
+- [Fake Causality](http://lesswrong.com/lw/is/fake_causality/)
+- [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)
 
 ## See also
 
-*   [[Semantic Stopsign|Semantic stopsign]]
-*   [[Reductionism]]
+- [[Semantic Stopsign|Semantic stopsign]]
+- [[Reductionism]]

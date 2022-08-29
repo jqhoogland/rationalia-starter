@@ -15,11 +15,11 @@ synchedAt: '2022-08-29T10:48:03.260Z'
 
 ## External Articles
 
-*   [Read History Of Philosophy Backwards](https://slatestarcodex.com/2013/04/11/read-history-of-philosophy-backwards/)
+- [Read History Of Philosophy Backwards](https://slatestarcodex.com/2013/04/11/read-history-of-philosophy-backwards/)
 
 ## Related Pages
 
-*   [[Forecast]]
-*   [[Confirmation Bias|Positive bias]]
-*   [[Debiasing]]
-*   [[Black Swans|Black swan]]
+- [[Forecast]]
+- [[Confirmation Bias|Positive bias]]
+- [[Debiasing]]
+- [[Black Swans|Black swan]]

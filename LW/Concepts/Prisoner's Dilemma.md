@@ -33,20 +33,20 @@ A popular variant is the Iterated Prisoner's Dilemma, where two agents play the 
 
 ## External links
 
-*   [Prisoner's dilemma](http://plato.stanford.edu/entries/prisoner-dilemma/) (Stanford Encyclopedia of Philosophy)
+- [Prisoner's dilemma](http://plato.stanford.edu/entries/prisoner-dilemma/) (Stanford Encyclopedia of Philosophy)
 
 ## See also
 
-*   [Game theory](https://wiki.lesswrong.com/wiki/Game_theory)
-*   [Decision theory](https://wiki.lesswrong.com/wiki/Decision_theory)
-*   [Newcomb's problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem)
-*   [Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging)
-*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker)
-*   [Smoking lesion](https://wiki.lesswrong.com/wiki/Smoking_lesion)
-*   [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-*   [Pascal's mugging](https://wiki.lesswrong.com/wiki/Pascal%27s_mugging)
-*   [[Coordination / Cooperation|Coordination/Cooperation]]
+- [Game theory](https://wiki.lesswrong.com/wiki/Game_theory)
+- [Decision theory](https://wiki.lesswrong.com/wiki/Decision_theory)
+- [Newcomb's problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem)
+- [Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging)
+- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker)
+- [Smoking lesion](https://wiki.lesswrong.com/wiki/Smoking_lesion)
+- [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
+- [Pascal's mugging](https://wiki.lesswrong.com/wiki/Pascal%27s_mugging)
+- [[Coordination / Cooperation|Coordination/Cooperation]]
 
 ## References
 
-*   Drescher, Gary (2006). *Good and Real*. Cambridge: The MIT Press. ISBN 0262042339.
+- Drescher, Gary (2006). *Good and Real*. Cambridge: The MIT Press. ISBN 0262042339.

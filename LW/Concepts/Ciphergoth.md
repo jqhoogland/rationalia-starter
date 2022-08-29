@@ -13,5 +13,5 @@ synchedAt: '2022-08-29T11:09:23.966Z'
 
 **Paul Crowley** is lesswrong.com user **ciphergoth**.
 
-*   [LessWrong.com user page](http://lesswrong.com/user/ciphergoth/)
-*   [Home page](http://www.ciphergoth.org/)
+- [LessWrong.com user page](http://lesswrong.com/user/ciphergoth/)
+- [Home page](http://www.ciphergoth.org/)

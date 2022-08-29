@@ -19,12 +19,12 @@ John Barrow [has suggested](http://www.simulation-argument.com/barrowsim.pdf) th
 
 ## External links
 
-*   Barrow, John (2008) [Living in a Simulated Universe](http://www.simulation-argument.com/barrowsim.pdf) Universe or Multiverse? ed. Bernard Carr (Cambridge University Press): pp. 481-486.
-*   [Is God an Alien Mathematician?](http://hplusmagazine.com/2011/01/18/is-god-an-alien-mathematician/) — A discussion between Ben Goertzel and Hugo de Garis on Simulated Universes and their Creators
-*   [From cosmism to deism](http://www.kurzweilai.net/from-cosmism-to-deism) — Hugo de Garis's essay on Simulated Universes
-*   [The Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave) on Wikipedia
-*   [Evil demon](https://en.wikipedia.org/wiki/Evil_demon) on Wikipedia
+- Barrow, John (2008) [Living in a Simulated Universe](http://www.simulation-argument.com/barrowsim.pdf) Universe or Multiverse? ed. Bernard Carr (Cambridge University Press): pp. 481-486.
+- [Is God an Alien Mathematician?](http://hplusmagazine.com/2011/01/18/is-god-an-alien-mathematician/) — A discussion between Ben Goertzel and Hugo de Garis on Simulated Universes and their Creators
+- [From cosmism to deism](http://www.kurzweilai.net/from-cosmism-to-deism) — Hugo de Garis's essay on Simulated Universes
+- [The Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave) on Wikipedia
+- [Evil demon](https://en.wikipedia.org/wiki/Evil_demon) on Wikipedia
 
 ## See also
 
-*   [[Simulation Argument]]
+- [[Simulation Argument]]

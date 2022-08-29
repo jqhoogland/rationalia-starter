@@ -53,17 +53,17 @@ To say that someone is using the fallacy of gray is to say that despite not sayi
 
 ## Blog posts
 
-*   [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
-*   [The Fallacy of Gray](http://lesswrong.com/lw/mm/the_fallacy_of_gray/)
-*   [Fallacies of Compression](http://lesswrong.com/lw/nw/fallacies_of_compression)
+- [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
+- [The Fallacy of Gray](http://lesswrong.com/lw/mm/the_fallacy_of_gray/)
+- [Fallacies of Compression](http://lesswrong.com/lw/nw/fallacies_of_compression)
 
 ## External links
 
-*   [Thinking in Greyscale](http://measureofdoubt.com/2011/05/23/thinking-in-greyscale/) at Measure of Doubt
+- [Thinking in Greyscale](http://measureofdoubt.com/2011/05/23/thinking-in-greyscale/) at Measure of Doubt
 
 ## See also
 
-*   [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
-*   [[Humility]]
-*   [[Possibility]]
-*   [[Absolute Certainty|Absolute certainty]]
+- [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
+- [[Humility]]
+- [[Possibility]]
+- [[Absolute Certainty|Absolute certainty]]

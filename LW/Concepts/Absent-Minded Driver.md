@@ -19,11 +19,11 @@ synchedAt: '2022-08-29T11:09:50.564Z'
 
 ## See also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Newcomb's Problem|Newcomb's problem]]
-*   [[Counterfactual Mugging|Counterfactual mugging]]
-*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
-*   [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
-*   [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
-*   [[Prisoner's Dilemma|Prisoner's dilemma]]
-*   [[Pascal's Mugging|Pascal's mugging]]
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [[Counterfactual Mugging|Counterfactual mugging]]
+- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
+- [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+- [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Pascal's Mugging|Pascal's mugging]]

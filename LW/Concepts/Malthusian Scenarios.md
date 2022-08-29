@@ -21,20 +21,20 @@ Whilst food production has expanded in the developed world, its sustainability c
 
 ## Blog Posts
 
-*   [Non-Malthusian Scenarios](http://lesswrong.com/lw/199/nonmalthusian_scenarios/) by Wei Dai
+- [Non-Malthusian Scenarios](http://lesswrong.com/lw/199/nonmalthusian_scenarios/) by Wei Dai
 
 ## External Links
 
-*   [Economic effects of the Singularity](http://spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity/) by Robin Hanson
+- [Economic effects of the Singularity](http://spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity/) by Robin Hanson
 
-*   [New Limits to Growth Revive Malthusian Fears](http://online.wsj.com/article/SB120613138379155707.html) Article from The Wall Street Journal.
+- [New Limits to Growth Revive Malthusian Fears](http://online.wsj.com/article/SB120613138379155707.html) Article from The Wall Street Journal.
 
-*   [World Agriculture 2030](http://www.fao.org/english/newsroom/news/2002/7828-en.html) Report by Food and Agriculture Organization of the United Nations.
+- [World Agriculture 2030](http://www.fao.org/english/newsroom/news/2002/7828-en.html) Report by Food and Agriculture Organization of the United Nations.
 
-*   [An Essay on the Principle of Population](http://www.econlib.org/library/Malthus/malPlong.html) by Thomas Malthus
+- [An Essay on the Principle of Population](http://www.econlib.org/library/Malthus/malPlong.html) by Thomas Malthus
 
-*   [Malthusian Catastrophe](http://en.wikipedia.org/wiki/Malthusian_catastrophe) Wikipedia
+- [Malthusian Catastrophe](http://en.wikipedia.org/wiki/Malthusian_catastrophe) Wikipedia
 
 ## See Also
 
-*   [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
+- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]

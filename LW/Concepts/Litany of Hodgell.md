@@ -17,7 +17,7 @@ And [[Feeling Rational|Yudkowsky's extension]]: That which the truth nourishes s
 
 ## See also
 
-*   [[12 Virtues|Virtues of Rationality]]
-*   [[Litany of Tarski]]
-*   [[Litany of Gendlin]]
-*   [[Litany of Occam]]
+- [[12 Virtues|Virtues of Rationality]]
+- [[Litany of Tarski]]
+- [[Litany of Gendlin]]
+- [[Litany of Occam]]

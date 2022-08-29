@@ -19,16 +19,16 @@ Michael Vassar has observed that conventional philosophers seem to be *spectacul
 
 ## Blog posts
 
-*   [How An Algorithm Feels From Inside](http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/)
-*   [Mind Projection Fallacy](http://lesswrong.com/lw/oi/mind_projection_fallacy/)
-*   [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/)
-*   [Feel the Meaning](http://lesswrong.com/lw/nq/feel_the_meaning/)
+- [How An Algorithm Feels From Inside](http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/)
+- [Mind Projection Fallacy](http://lesswrong.com/lw/oi/mind_projection_fallacy/)
+- [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/)
+- [Feel the Meaning](http://lesswrong.com/lw/nq/feel_the_meaning/)
 
 ## See also
 
-*   [[Mind Projection Fallacy|Mind projection fallacy]]
-*   [[Free Will|Free will]]
-*   [[Reductionism (Sequence)|Reductionism (sequence)]]
-*   [[Magic]], [[Fake Simplicity|Fake simplicity]]
-*   [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
-*   [[Cognitive Reduction|Cognitive reduction]]
+- [[Mind Projection Fallacy|Mind projection fallacy]]
+- [[Free Will|Free will]]
+- [[Reductionism (Sequence)|Reductionism (sequence)]]
+- [[Magic]], [[Fake Simplicity|Fake simplicity]]
+- [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
+- [[Cognitive Reduction|Cognitive reduction]]

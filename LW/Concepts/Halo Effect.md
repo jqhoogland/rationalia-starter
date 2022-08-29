@@ -17,10 +17,10 @@ synchedAt: '2022-08-29T10:47:56.924Z'
 
 ## Main post
 
-*   [The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
+- [The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
 
 ## Related concepts
 
-*   [[Priming]], [[Affect Heuristic|Affect heuristic]]
-*   [[Affective Death Spiral|Affective death spiral]]
-*   [[Contagion Heuristic|Contagion heuristic]]
+- [[Priming]], [[Affect Heuristic|Affect heuristic]]
+- [[Affective Death Spiral|Affective death spiral]]
+- [[Contagion Heuristic|Contagion heuristic]]

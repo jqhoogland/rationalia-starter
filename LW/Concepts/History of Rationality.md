@@ -21,11 +21,11 @@ If you're trying to get a better understanding of the community and culture here
 
 Historically relevant organizations, groups, and movements include:
 
-*   [[Center for Applied Rationality (CFAR)|CFAR]]
-*   [[80,000 Hours]]
-*   [[Center for Human-Compatible AI (CHAI)|CHAI]]
-*   [[Future of Humanity Institute (FHI)|FHI]]
-*   [[Machine Intelligence Research Institute (MIRI)|MIRI]]
-*   [[OpenAI]]
-*   [[Ought]]
-*   [[GiveWell]]
+- [[Center for Applied Rationality (CFAR)|CFAR]]
+- [[80,000 Hours]]
+- [[Center for Human-Compatible AI (CHAI)|CHAI]]
+- [[Future of Humanity Institute (FHI)|FHI]]
+- [[Machine Intelligence Research Institute (MIRI)|MIRI]]
+- [[OpenAI]]
+- [[Ought]]
+- [[GiveWell]]

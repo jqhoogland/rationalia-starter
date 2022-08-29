@@ -15,11 +15,11 @@ The **illusion of transparency** is the misleading impression that your words co
 
 ## Related Pages
 
-*   [[Inferential Distance|Inferential distance]]
-*   [[Detached Lever Fallacy|Detached lever fallacy]]
-*   [[Absurdity Heuristic|Absurdity heuristic]]
-*   [[Mind Projection Fallacy|Mind projection fallacy]]
+- [[Inferential Distance|Inferential distance]]
+- [[Detached Lever Fallacy|Detached lever fallacy]]
+- [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Mind Projection Fallacy|Mind projection fallacy]]
 
 ## External Links
 
-*   [How all human communication fails, except by accident, or a commentary of Wiio's laws](http://www.cs.tut.fi/~jkorpela/wiio.html)
+- [How all human communication fails, except by accident, or a commentary of Wiio's laws](http://www.cs.tut.fi/~jkorpela/wiio.html)

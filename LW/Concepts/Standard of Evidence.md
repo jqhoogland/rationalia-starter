@@ -15,11 +15,11 @@ A **standard of evidence** or **standard of admissible evidence** seeks to narro
 
 ## See also
 
-*   [[Rational Evidence|Rational evidence]]
-*   [[Filtered Evidence|Filtered evidence]]
+- [[Rational Evidence|Rational evidence]]
+- [[Filtered Evidence|Filtered evidence]]
 
 ## Blog posts
 
-*   [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
-*   [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/)
-*   [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)
+- [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
+- [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/)
+- [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)

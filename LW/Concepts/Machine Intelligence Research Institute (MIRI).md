@@ -15,11 +15,11 @@ The **Machine Intelligence Research Institute**, formerly known as the [Singular
 
 External Links
 
-*   [Homepage of the Machine Intelligence Research Institute](http://intelligence.org/)
+- [Homepage of the Machine Intelligence Research Institute](http://intelligence.org/)
 
 ## See Also
 
-*   [[Singularity|Technological singularity]]
-*   [Existential risk](https://lessestwrong.com/tag/existential-risk)
-*   [Intelligence explosion](https://lessestwrong.com/tag/intelligence-explosion)
-*   [Friendly artificial intelligence](https://lessestwrong.com/tag/friendly-artificial-intelligence)
+- [[Singularity|Technological singularity]]
+- [Existential risk](https://lessestwrong.com/tag/existential-risk)
+- [Intelligence explosion](https://lessestwrong.com/tag/intelligence-explosion)
+- [Friendly artificial intelligence](https://lessestwrong.com/tag/friendly-artificial-intelligence)

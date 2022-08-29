@@ -23,8 +23,8 @@ Personal identity may at first sound like just an abstract philosophical issue w
 
 ## Sequences
 
-*   [quantum mechanics and personal identity](http://lesswrong.com/lw/r9/quantum_mechanics_and_personal identity)
+- [quantum mechanics and personal identity](http://lesswrong.com/lw/r9/quantum_mechanics_and_personal identity)
 
 ## Related Pages
 
-*   [[Identity]]
+- [[Identity]]

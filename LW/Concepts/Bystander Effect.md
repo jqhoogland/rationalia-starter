@@ -17,5 +17,5 @@ synchedAt: '2022-08-29T10:48:01.431Z'
 
 ## See also
 
-*   [[Conformity Bias|Conformity bias]]
-*   [[Shut Up and Multiply|Shut up and multiply]]
+- [[Conformity Bias|Conformity bias]]
+- [[Shut Up and Multiply|Shut up and multiply]]

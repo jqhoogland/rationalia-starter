@@ -23,5 +23,5 @@ There are two main strategies one could follow to avoid these kinds of risk. Fir
 
 ## References
 
-*   [Alex Altair’s post defining and summarizing the material on Computation Hazards](http://lesswrong.com/lw/d2f/computation_hazards/)
-*   Armstrong S., Sandberg A., Bostrom N. (2012). “Thinking inside the box: using and controlling an Oracle AI”. Minds and Machines, forthcoming. Available at: [http://www.aleph.se/papers/oracleAI.pdf](http://www.aleph.se/papers/oracleAI.pdf)
+- [Alex Altair’s post defining and summarizing the material on Computation Hazards](http://lesswrong.com/lw/d2f/computation_hazards/)
+- Armstrong S., Sandberg A., Bostrom N. (2012). “Thinking inside the box: using and controlling an Oracle AI”. Minds and Machines, forthcoming. Available at: [http://www.aleph.se/papers/oracleAI.pdf](http://www.aleph.se/papers/oracleAI.pdf)

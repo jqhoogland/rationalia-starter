@@ -15,11 +15,11 @@ The constraints of decision theory are only there to help you win; they don't sp
 
 ## Blog posts
 
-*   [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
-*   [Something to Protect](http://lesswrong.com/lw/nb/something_to_protect/)
-*   [Rationality is Systematized Winning](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/)
+- [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
+- [Something to Protect](http://lesswrong.com/lw/nb/something_to_protect/)
+- [Rationality is Systematized Winning](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/)
 
 ## See also
 
-*   [Rationalists should win](https://wiki.lesswrong.com/wiki/Rationalists_should_win)
-*   [[Something To Protect|Something to protect]]
+- [Rationalists should win](https://wiki.lesswrong.com/wiki/Rationalists_should_win)
+- [[Something To Protect|Something to protect]]

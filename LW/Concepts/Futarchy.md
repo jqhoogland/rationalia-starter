@@ -15,11 +15,11 @@ synchedAt: '2022-08-29T10:47:25.182Z'
 
 A futarchic government holds an election to determine *what metrics to optimize;* for example, a ballot might allow citizens to vote on the following options:
 
-*   Gross Domestic Product (GDP) over the next 4 years, as estimated by an impartial council of economists.
-*   GDP over the next 8 years.
-*   GDP over the next 30 years (etc).
-*   Happiness, as measured by a large survey. (Over the next 4 years, 8 years, etc.)
-*   Family values, as measured by (such-and-such procedure)
+- Gross Domestic Product (GDP) over the next 4 years, as estimated by an impartial council of economists.
+- GDP over the next 8 years.
+- GDP over the next 30 years (etc).
+- Happiness, as measured by a large survey. (Over the next 4 years, 8 years, etc.)
+- Family values, as measured by (such-and-such procedure)
 
 And so on.
 

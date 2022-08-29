@@ -15,10 +15,10 @@ synchedAt: '2022-08-29T11:09:44.490Z'
 
 For example, consider the following syllogism:
 
-*   All multiples of ten are multiples of five. (True premise/All A are B)
-*   30 is a multiple of ten. (True premise/C is A)
-*   Therefore, 30 is a multiple of 5. (True conclusion/Therefore, C is B.)
+- All multiples of ten are multiples of five. (True premise/All A are B)
+- 30 is a multiple of ten. (True premise/C is A)
+- Therefore, 30 is a multiple of 5. (True conclusion/Therefore, C is B.)
 
 ## See also
 
-*   [[Valid Argument|Valid argument]]
+- [[Valid Argument|Valid argument]]

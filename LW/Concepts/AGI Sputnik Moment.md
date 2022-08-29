@@ -23,10 +23,10 @@ Goertzel and Pitt have also emphasized the role of an AGI Sputnik moment in AGI 
 
 ## Further Reading & References
 
-*   [What Would It Take to Move Rapidly Toward Beneficial Human-Level AGI?](http://multiverseaccordingtoben.blogspot.com/2010_10_10_archive.html) on Ben Goertzel's blog
-*   [Seeking the Sputnik of AGI](http://hplusmagazine.com/2011/03/30/seeking-the-sputnik-of-agi/), an Interview between Ben Goertzel and Hugo de Garis
+- [What Would It Take to Move Rapidly Toward Beneficial Human-Level AGI?](http://multiverseaccordingtoben.blogspot.com/2010_10_10_archive.html) on Ben Goertzel's blog
+- [Seeking the Sputnik of AGI](http://hplusmagazine.com/2011/03/30/seeking-the-sputnik-of-agi/), an Interview between Ben Goertzel and Hugo de Garis
 
 ## See Also
 
-*   [AGI](https://wiki.lesswrong.com/wiki/AGI)
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [AGI](https://wiki.lesswrong.com/wiki/AGI)
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)

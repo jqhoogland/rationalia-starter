@@ -15,8 +15,8 @@ A precondition of Aumann's agreement theorem and its numerous generalizations is
 
 ## See also
 
-*   [[Aumann's Agreement Theorem]]
-*   [[Bayes' Theorem]]
+- [[Aumann's Agreement Theorem]]
+- [[Bayes' Theorem]]
 
 ## External References
 

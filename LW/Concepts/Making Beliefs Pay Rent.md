@@ -15,15 +15,15 @@ Any [[Belief|belief]] should restrict which experiences to anticipate, to be pot
 
 ## Blog posts
 
-*   [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
-*   [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)
-*   [No Logical Positivist I](http://lesswrong.com/lw/ss/no_logical_positivist_i/)
-*   [The Power of Positivist Thinking](http://lesswrong.com/lw/48/the_power_of_positivist_thinking/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
+- [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)
+- [No Logical Positivist I](http://lesswrong.com/lw/ss/no_logical_positivist_i/)
+- [The Power of Positivist Thinking](http://lesswrong.com/lw/48/the_power_of_positivist_thinking/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## See also
 
-*   [[Belief]], [[Alief]]
-*   [[Technical Explanation|Technical explanation]]
-*   [[Beliefs Require Observations|Beliefs require observations]]
-*   [[Free-Floating Belief|Free-floating belief]]
-*   [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
+- [[Belief]], [[Alief]]
+- [[Technical Explanation|Technical explanation]]
+- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Free-Floating Belief|Free-floating belief]]
+- [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)

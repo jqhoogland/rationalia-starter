@@ -19,13 +19,13 @@ Evolution is ultimately just a historical-statistical macrofact about which ance
 
 ## External links
 
-*   [The Two Main Ways In Which Evolution Is Not Our Friend](http://theviewfromhell.blogspot.com/2011/05/two-main-ways-in-which-evolution-is-not.html) by Sister Y
+- [The Two Main Ways In Which Evolution Is Not Our Friend](http://theviewfromhell.blogspot.com/2011/05/two-main-ways-in-which-evolution-is-not.html) by Sister Y
 
 ## See also
 
-*   [[Evolution]], [[Stupidity of Evolution|stupidity of evolution]]
-*   [[Evolutionary Psychology|Evolutionary psychology]]
-*   [[Superstimuli|Superstimulus]]
-*   [[Goodhart's Law|Goodhart's law]]
-*   [[Signaling]], [[Social Status|status]]
-*   [[Corrupted Hardware|Corrupted hardware]]
+- [[Evolution]], [[Stupidity of Evolution|stupidity of evolution]]
+- [[Evolutionary Psychology|Evolutionary psychology]]
+- [[Superstimuli|Superstimulus]]
+- [[Goodhart's Law|Goodhart's law]]
+- [[Signaling]], [[Social Status|status]]
+- [[Corrupted Hardware|Corrupted hardware]]

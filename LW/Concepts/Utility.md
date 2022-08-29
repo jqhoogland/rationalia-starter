@@ -21,24 +21,24 @@ Some people prefer to keep [a distinction between two types of utility](https://
 
 ## Further Reading & References
 
-*   [Mistakes in Choice-Based Welfare Analysis](http://elsa.berkeley.edu/~botond/mistakeschicago.pdf) by Botond Köszegi and Matthew Rabin
-*   Russell, Stuart J.; Norvig, Peter (2003), Artificial Intelligence: A Modern Approach (2nd ed.), Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-13-790395-2
+- [Mistakes in Choice-Based Welfare Analysis](http://elsa.berkeley.edu/~botond/mistakeschicago.pdf) by Botond Köszegi and Matthew Rabin
+- Russell, Stuart J.; Norvig, Peter (2003), Artificial Intelligence: A Modern Approach (2nd ed.), Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-13-790395-2
 
 ## Notable Posts
 
-*   [Purchase Fuzzies and Utilons Separately](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/)
-*   [Post your Utility Function](http://lesswrong.com/lw/zv/post_your_utility_function/)
-*   [Applying utility functions to humans considered harmful](http://lesswrong.com/lw/1qk/applying_utility_functions_to_humans_considered/)
-*   [Do Humans Want Things?](http://lesswrong.com/lw/6da/do_humans_want_things/)
-*   [Money: The Unit of Caring](http://lesswrong.com/lw/65/money_the_unit_of_caring/)
-*   [Pinpointing Utility](https://www.lesswrong.com/posts/CQkGJ2t5Rw8GcZKJm/pinpointing-utility)
+- [Purchase Fuzzies and Utilons Separately](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/)
+- [Post your Utility Function](http://lesswrong.com/lw/zv/post_your_utility_function/)
+- [Applying utility functions to humans considered harmful](http://lesswrong.com/lw/1qk/applying_utility_functions_to_humans_considered/)
+- [Do Humans Want Things?](http://lesswrong.com/lw/6da/do_humans_want_things/)
+- [Money: The Unit of Caring](http://lesswrong.com/lw/65/money_the_unit_of_caring/)
+- [Pinpointing Utility](https://www.lesswrong.com/posts/CQkGJ2t5Rw8GcZKJm/pinpointing-utility)
 
 ## See Also
 
-*   [[Utilitarianism]]
-*   [[Utility Functions|Utility function]]
-*   [[Utility Extraction|Utility extraction]]
-*   [[Expected Utility|Expected utility]]
-*   [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]
-*   [[Preference]]
-*   [[Game Theory|Game theory]]
+- [[Utilitarianism]]
+- [[Utility Functions|Utility function]]
+- [[Utility Extraction|Utility extraction]]
+- [[Expected Utility|Expected utility]]
+- [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]
+- [[Preference]]
+- [[Game Theory|Game theory]]

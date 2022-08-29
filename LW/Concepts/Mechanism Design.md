@@ -15,8 +15,8 @@ synchedAt: '2022-08-29T11:04:07.789Z'
 
 ### Important Concepts
 
-*   **Incentive Compatibility:** [Wikipedia](https://en.wikipedia.org/wiki/Incentive_compatibility), [LessWrong](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/N4gDA5HPpGC4mbTEZ)
-*   **Revelation Principle:** [Wikipedia](https://en.wikipedia.org/wiki/Revelation_principle), [LessWrong](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/N4gDA5HPpGC4mbTEZ)
+- **Incentive Compatibility:** [Wikipedia](https://en.wikipedia.org/wiki/Incentive_compatibility), [LessWrong](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/N4gDA5HPpGC4mbTEZ)
+- **Revelation Principle:** [Wikipedia](https://en.wikipedia.org/wiki/Revelation_principle), [LessWrong](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/N4gDA5HPpGC4mbTEZ)
 
 **Related Pages:** [[Game Theory]], [[Incentives]], [[Principal-Agent Problems]], [[Cryptocurrency & Blockchain|Cryptocurrencies and blockchain]], [[Public Discourse|Public discourse]]
 

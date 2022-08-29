@@ -19,9 +19,9 @@ For example, if intelligence hadn't evolved, we wouldn't exist, and couldn't eva
 
 Recent approaches to such effects have focused less on "anthropic principles" and more on candidate assumptions such as:
 
-*   The [[Self-Sampling Assumption|self-sampling assumption]], which performs a Bayesian update on the fact that you were randomly chosen out of the set of all observers.
-*   The [[Self-Indication Assumption|self-indication assumption]], which favors theories in proportion to the number of observers they predict, because with more observers, you're more likely to exist at all. (Sometimes, people take this to include the Self-Sampling Assumption, using "SIA" as shorthand for "SSA+SIA".)
-*   [Full Non-indexical Conditioning](http://philsci-archive.pitt.edu/2888/), which performs a Bayesian update on the fact that there exists someone with your exact experiences.
+- The [[Self-Sampling Assumption|self-sampling assumption]], which performs a Bayesian update on the fact that you were randomly chosen out of the set of all observers.
+- The [[Self-Indication Assumption|self-indication assumption]], which favors theories in proportion to the number of observers they predict, because with more observers, you're more likely to exist at all. (Sometimes, people take this to include the Self-Sampling Assumption, using "SIA" as shorthand for "SSA+SIA".)
+- [Full Non-indexical Conditioning](http://philsci-archive.pitt.edu/2888/), which performs a Bayesian update on the fact that there exists someone with your exact experiences.
 
 Such assumptions are needed to determine how we choose between theories predicting different sets of observers.
 
@@ -29,18 +29,18 @@ One approach to anthropic reasoning that has [sometimes](http://lesswrong.com/lw
 
 ## Blog posts
 
-*   [Outlawing anthropics: an updateless dilemma](http://lesswrong.com/lw/17c/anthropic_updatelessness/)
-*   [The anthropic trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/)
-*   [[Anthropic|Posts tagged "anthropic"]]
+- [Outlawing anthropics: an updateless dilemma](http://lesswrong.com/lw/17c/anthropic_updatelessness/)
+- [The anthropic trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/)
+- [[Anthropic|Posts tagged "anthropic"]]
 
 ## External links
 
-*   [Nick Bostrom's book *Anthropic Bias*](http://www.anthropic-principle.com/book/book.html)
-*   [A primer on the anthropic principle](http://www.anthropic-principle.com/primer.html)
-*   [Anthropic reasoning in the great filter](http://meteuphoric.wordpress.com/2010/11/02/anthropic-principles-agree-on-bigger-future-filters/)
+- [Nick Bostrom's book *Anthropic Bias*](http://www.anthropic-principle.com/book/book.html)
+- [A primer on the anthropic principle](http://www.anthropic-principle.com/primer.html)
+- [Anthropic reasoning in the great filter](http://meteuphoric.wordpress.com/2010/11/02/anthropic-principles-agree-on-bigger-future-filters/)
 
 ## See also
 
-*   [[Doomsday Argument|Doomsday argument]]
-*   [[Great Filter]]
-*   [[Decision Theory|Decision theory]]
+- [[Doomsday Argument|Doomsday argument]]
+- [[Great Filter]]
+- [[Decision Theory|Decision theory]]

@@ -13,15 +13,15 @@ synchedAt: '2022-08-29T11:05:57.539Z'
 
 ## Blog posts
 
-*   [Conjunction Fallacy](http://lesswrong.com/lw/ji/conjunction_fallacy/)
-*   [Conjunction Controversy (Or, How They Nail It Down)](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)
+- [Conjunction Fallacy](http://lesswrong.com/lw/ji/conjunction_fallacy/)
+- [Conjunction Controversy (Or, How They Nail It Down)](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)
 
 ## External links
 
-*   [Representativeness heuristic](http://psychology.wikia.com/wiki/Representativeness_heuristic) at Psychology Wiki
+- [Representativeness heuristic](http://psychology.wikia.com/wiki/Representativeness_heuristic) at Psychology Wiki
 
 ## See also
 
-*   [[Conjunction Fallacy|Conjunction fallacy]]
-*   [[Availability Heuristic|Availability heuristic]]
-*   [[Narrative Fallacy|Narrative fallacy]]
+- [[Conjunction Fallacy|Conjunction fallacy]]
+- [[Availability Heuristic|Availability heuristic]]
+- [[Narrative Fallacy|Narrative fallacy]]

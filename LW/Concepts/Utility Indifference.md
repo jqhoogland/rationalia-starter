@@ -19,9 +19,9 @@ Researcher Stuart Armstrong, of the [[Future of Humanity Institute (FHI)|Future 
 
 ## Blog Posts
 
-*   [AI indifference through utility manipulation](http://lesswrong.com/lw/2nw/ai_indifference_through_utility_manipulation/)
-*   [Trapping AIs via utility indifference](http://lesswrong.com/lw/ae5/trapping_ais_via_utility_indifference/)
+- [AI indifference through utility manipulation](http://lesswrong.com/lw/2nw/ai_indifference_through_utility_manipulation/)
+- [Trapping AIs via utility indifference](http://lesswrong.com/lw/ae5/trapping_ais_via_utility_indifference/)
 
 ## External Links
 
-*   [Utility Indifference](http://www.fhi.ox.ac.uk/reports/2010-1.pdf) by Stuart Armstrong
+- [Utility Indifference](http://www.fhi.ox.ac.uk/reports/2010-1.pdf) by Stuart Armstrong

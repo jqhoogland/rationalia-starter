@@ -15,8 +15,8 @@ According to the **peak-end rule**, we judge our past experiences almost entirel
 
 ## Blog posts
 
-*   [Practical Advice Backed By Deep Theories](http://lesswrong.com/lw/d4/practical_advice_backed_by_deep_theories/) \- Knowledge of this heuristic *might* be useful in fighting [[Akrasia|akrasia]].
+- [Practical Advice Backed By Deep Theories](http://lesswrong.com/lw/d4/practical_advice_backed_by_deep_theories/) \- Knowledge of this heuristic *might* be useful in fighting [[Akrasia|akrasia]].
 
 ## See also
 
-*   [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Representativeness Heuristic|Representativeness heuristic]]

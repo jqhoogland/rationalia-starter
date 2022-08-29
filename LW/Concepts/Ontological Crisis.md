@@ -21,15 +21,15 @@ This crisis, in the context of an [AGI](https://wiki.lesswrong.com/wiki/AGI), co
 
 ## Further Reading & References
 
-*   [Ontological Crises in Artificial Agents' Value Systems](http://arxiv.org/abs/1105.3821) by Peter de Blanc
+- [Ontological Crises in Artificial Agents' Value Systems](http://arxiv.org/abs/1105.3821) by Peter de Blanc
 
 ## Notable Posts
 
-*   [AI ontology crises: an informal typology](http://lesswrong.com/r/discussion/lw/827/ai_ontology_crises_an_informal_typology/) by Stuart Armstrong
-*   [Eutopia is Scary](http://lesswrong.com/lw/xl/eutopia_is_scary/) by Eliezer Yudkowsky
-*   [Ontological Crisis in Humans](http://lesswrong.com/lw/fyb/ontological_crisis_in_humans/) by Wei Dai
+- [AI ontology crises: an informal typology](http://lesswrong.com/r/discussion/lw/827/ai_ontology_crises_an_informal_typology/) by Stuart Armstrong
+- [Eutopia is Scary](http://lesswrong.com/lw/xl/eutopia_is_scary/) by Eliezer Yudkowsky
+- [Ontological Crisis in Humans](http://lesswrong.com/lw/fyb/ontological_crisis_in_humans/) by Wei Dai
 
 ## See also
 
-*   [[Evolution]]
-*   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
+- [[Evolution]]
+- [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

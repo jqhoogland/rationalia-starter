@@ -15,16 +15,16 @@ The human brain can't *emotionally* represent large quantities; an environmental
 
 ## Blog posts
 
-*   [Scope Insensitivity](http://lesswrong.com/lw/hw/scope_insensitivity/)
-*   [One Life Against the World](http://lesswrong.com/lw/hx/one_life_against_the_world/)
-*   [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/)
-*   [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/)
+- [Scope Insensitivity](http://lesswrong.com/lw/hw/scope_insensitivity/)
+- [One Life Against the World](http://lesswrong.com/lw/hx/one_life_against_the_world/)
+- [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/)
+- [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/)
 
 ## See also
 
-*   [[Shut Up and Multiply|Shut up and multiply]]
-*   [[Expected Utility|Expected utility]], [[Utilitarianism]]
-*   [[Evolutionary Psychology|Evolutionary psychology]]
-*   [[Emotions|Emotion]], [[Alief|alief]]
-*   [[Pascal's Mugging|Pascal's mugging]]
-*   [[Existential Risk|Existential risk]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Expected Utility|Expected utility]], [[Utilitarianism]]
+- [[Evolutionary Psychology|Evolutionary psychology]]
+- [[Emotions|Emotion]], [[Alief|alief]]
+- [[Pascal's Mugging|Pascal's mugging]]
+- [[Existential Risk|Existential risk]]

@@ -23,21 +23,21 @@ Others predict that growth will blow up even more suddenly (up to the point wher
 
 ## Blog posts
 
-*   [The Hanson-Yudkowsky Foom Debate](http://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate)
-*   [Overcoming Bias posts tagged "Future"](http://www.overcomingbias.com/tag/future)
-*   [Is The City-ularity Near?](http://www.overcomingbias.com/2010/02/is-the-city-ularity-near.html)
+- [The Hanson-Yudkowsky Foom Debate](http://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate)
+- [Overcoming Bias posts tagged "Future"](http://www.overcomingbias.com/tag/future)
+- [Is The City-ularity Near?](http://www.overcomingbias.com/2010/02/is-the-city-ularity-near.html)
 
 ## External links
 
-*   [Bostrom's paper on elimination of culture](http://www.nickbostrom.com/fut/evolution.pdf)
-*   [Economic growth given machine intelligence](http://hanson.gmu.edu/aigrow.pdf)
-*   [Economic implications of software minds](http://intelligence.org/files/EconomicImplications.pdf)
-*   [Long-term growth as a sequence of exponential modes](http://hanson.gmu.edu/longgrow.pdf)
-*   [Is a singularity just around the corner? What it takes to get explosive economic growth](http://hanson.gmu.edu/fastgrow.html)
+- [Bostrom's paper on elimination of culture](http://www.nickbostrom.com/fut/evolution.pdf)
+- [Economic growth given machine intelligence](http://hanson.gmu.edu/aigrow.pdf)
+- [Economic implications of software minds](http://intelligence.org/files/EconomicImplications.pdf)
+- [Long-term growth as a sequence of exponential modes](http://hanson.gmu.edu/longgrow.pdf)
+- [Is a singularity just around the corner? What it takes to get explosive economic growth](http://hanson.gmu.edu/fastgrow.html)
 
 ## See also
 
-*   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)
-*   [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff), [Soft takeoff](https://wiki.lesswrong.com/wiki/Soft_takeoff)
-*   [[Artificial General Intelligence|Artificial general intelligence]], [[Whole Brain Emulation]]
-*   [[Technological Forecasting|Technological forecasting]]
+- [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)
+- [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff), [Soft takeoff](https://wiki.lesswrong.com/wiki/Soft_takeoff)
+- [[Artificial General Intelligence|Artificial general intelligence]], [[Whole Brain Emulation]]
+- [[Technological Forecasting|Technological forecasting]]

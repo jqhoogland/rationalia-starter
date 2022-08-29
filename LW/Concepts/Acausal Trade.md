@@ -94,21 +94,21 @@ Even ordinary trade can be analyzed acausally, using a perspective similar to th
 
 ## See also
 
-*   ["AI deterrence"](http://aibeliefs.blogspot.com/2007/11/non-technical-introduction-to-ai.html?a=1)
-*   ["The AI in a box boxes you"](https://www.lesswrong.com/lw/1pz/the_ai_in_a_box_boxes_you)
-*   [A story](https://slatestarcodex.com/2017/03/21/repost-the-demiurges-older-brother/) that shows acausal trade in action.
-*   [Scott Alexander](http://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/) explains Acausal Trade. (Most of that article is tongue-in-cheek, however.)
-*   "[Hail Mary, Value Porosity, and Utility Diversification](http://www.nickbostrom.com/papers/porosity.pdf)," Nick Bostrom, the first paper from academia to rely on the concept of acausal trade.
-*   [Towards an idealized decision theory](http://intelligence.org/files/TowardIdealizedDecisionTheory.pdf), by Nate Soares and Benja Fallenstein discusses acausal interaction scenarios that shed light on new directions in decision theory.
-*   [Program Equilibrium](https://ie.technion.ac.il/~moshet/progeqnote4.pdf), by Moshe Tennenholtz. In: Games and Economic Behavior.
-*   [Robust Cooperation in the Prisoner's Dilemma: Program Equilibrium via Provability Logic](https://arxiv.org/abs/1401.5577), by Mihaly Barasz, Paul Christiano, Benja Fallenstein, Marcello Herreshoff, Patrick LaVictoire and Eliezer Yudkowsky
-*   [Parametric Bounded Löb's Theorem and Robust Cooperation of Bounded Agents](https://arxiv.org/abs/1602.04184), by Andrew Critch
-*   [Robust Program Equilibrium](https://link.springer.com/article/10.1007/s11238-018-9679-3), by Caspar Oesterheld. In: Theory and Decision.
-*   [Multiverse-wide Cooperation via Correlated Decision Making](https://foundational-research.org/multiverse-wide-cooperation-via-correlated-decision-making/), by Caspar Oesterheld
+- ["AI deterrence"](http://aibeliefs.blogspot.com/2007/11/non-technical-introduction-to-ai.html?a=1)
+- ["The AI in a box boxes you"](https://www.lesswrong.com/lw/1pz/the_ai_in_a_box_boxes_you)
+- [A story](https://slatestarcodex.com/2017/03/21/repost-the-demiurges-older-brother/) that shows acausal trade in action.
+- [Scott Alexander](http://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/) explains Acausal Trade. (Most of that article is tongue-in-cheek, however.)
+- "[Hail Mary, Value Porosity, and Utility Diversification](http://www.nickbostrom.com/papers/porosity.pdf)," Nick Bostrom, the first paper from academia to rely on the concept of acausal trade.
+- [Towards an idealized decision theory](http://intelligence.org/files/TowardIdealizedDecisionTheory.pdf), by Nate Soares and Benja Fallenstein discusses acausal interaction scenarios that shed light on new directions in decision theory.
+- [Program Equilibrium](https://ie.technion.ac.il/~moshet/progeqnote4.pdf), by Moshe Tennenholtz. In: Games and Economic Behavior.
+- [Robust Cooperation in the Prisoner's Dilemma: Program Equilibrium via Provability Logic](https://arxiv.org/abs/1401.5577), by Mihaly Barasz, Paul Christiano, Benja Fallenstein, Marcello Herreshoff, Patrick LaVictoire and Eliezer Yudkowsky
+- [Parametric Bounded Löb's Theorem and Robust Cooperation of Bounded Agents](https://arxiv.org/abs/1602.04184), by Andrew Critch
+- [Robust Program Equilibrium](https://link.springer.com/article/10.1007/s11238-018-9679-3), by Caspar Oesterheld. In: Theory and Decision.
+- [Multiverse-wide Cooperation via Correlated Decision Making](https://foundational-research.org/multiverse-wide-cooperation-via-correlated-decision-making/), by Caspar Oesterheld
 
 ## References
 
-*   [Hofstadter's Superrationality essays, published in *Metamagical Themas*](http://www.gwern.net/docs/1985-hofstadter) ([LW discussion](https://www.lesswrong.com/lw/bxi/hofstadters_superrationality/))
-*   Jaan Tallinn, [Why Now? A Quest in Metaphysics](https://www.youtube.com/watch?v=29AgSo6KOtI).
-*   [Gary Drescher](https://wiki.lesswrong.com/wiki/Gary_Drescher), *Good and Real*, MIT Press, 1996.
-*   [Functional Decision Theory](https://arxiv.org/abs/1710.05060)
+- [Hofstadter's Superrationality essays, published in *Metamagical Themas*](http://www.gwern.net/docs/1985-hofstadter) ([LW discussion](https://www.lesswrong.com/lw/bxi/hofstadters_superrationality/))
+- Jaan Tallinn, [Why Now? A Quest in Metaphysics](https://www.youtube.com/watch?v=29AgSo6KOtI).
+- [Gary Drescher](https://wiki.lesswrong.com/wiki/Gary_Drescher), *Good and Real*, MIT Press, 1996.
+- [Functional Decision Theory](https://arxiv.org/abs/1710.05060)

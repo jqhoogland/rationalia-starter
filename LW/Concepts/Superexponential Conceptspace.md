@@ -23,11 +23,11 @@ Without an [[Inductive Bias|inductive bias]], restricting attention to only a sm
 
 ## Key Posts
 
-*   [Mutual Information, and Density in Thingspace](http://lesswrong.com/lw/o2/mutual_information_and_density_in_thingspace/)
-*   [Superexponential Conceptspace, and Simple Words](http://lesswrong.com/lw/o3/superexponential_conceptspace_and_simple_words/)
+- [Mutual Information, and Density in Thingspace](http://lesswrong.com/lw/o2/mutual_information_and_density_in_thingspace/)
+- [Superexponential Conceptspace, and Simple Words](http://lesswrong.com/lw/o3/superexponential_conceptspace_and_simple_words/)
 
 ## See also
 
-*   [[Locate The Hypothesis|Locate the hypothesis]]
-*   [[Inductive Bias|Inductive bias]]
-*   [[Configuration Space|Configuration space]]
+- [[Locate The Hypothesis|Locate the hypothesis]]
+- [[Inductive Bias|Inductive bias]]
+- [[Configuration Space|Configuration space]]

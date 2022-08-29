@@ -15,17 +15,17 @@ synchedAt: '2022-08-29T11:09:57.791Z'
 
 ## Blog posts
 
-*   [Crisis of Faith](http://lesswrong.com/lw/ur/crisis_of_faith/)
+- [Crisis of Faith](http://lesswrong.com/lw/ur/crisis_of_faith/)
 
 ## Sequence
 
-*   [[How To Actually Change Your Mind]]
+- [[How To Actually Change Your Mind]]
 
 ## See also
 
-*   [[Affective Death Spiral|Affective death spiral]]
-*   [[Anti-Epistemology|Anti-epistemology]]
-*   [[Debiasing]]
-*   [[Doubt]]
-*   [[Making Beliefs Pay Rent|Making beliefs pay rent]]
-*   [Update](https://wiki.lesswrong.com/wiki/Update)
+- [[Affective Death Spiral|Affective death spiral]]
+- [[Anti-Epistemology|Anti-epistemology]]
+- [[Debiasing]]
+- [[Doubt]]
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
+- [Update](https://wiki.lesswrong.com/wiki/Update)

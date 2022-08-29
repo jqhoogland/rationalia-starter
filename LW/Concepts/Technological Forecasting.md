@@ -23,14 +23,14 @@ An important danger in predicting the future is that one might tell complex stor
 
 ## Blog posts
 
-*   [Long-term technological forecasting](http://lesswrong.com/lw/9ao/longterm_technological_forecasting/)
+- [Long-term technological forecasting](http://lesswrong.com/lw/9ao/longterm_technological_forecasting/)
 
 ## External links
 
-*   [Changing the frame of AI futurism: From storytelling to heavy-tailed, high-dimensional probability distributions](http://intelligence.org/files/ChangingTheFrame.html) (a conference paper explaining the reasoning behind the Uncertain Future app)
+- [Changing the frame of AI futurism: From storytelling to heavy-tailed, high-dimensional probability distributions](http://intelligence.org/files/ChangingTheFrame.html) (a conference paper explaining the reasoning behind the Uncertain Future app)
 
 ## See also
 
-*   [Acceleration thesis](https://wiki.lesswrong.com/wiki/Acceleration_thesis)
-*   [[Good-Story Bias|Good-story bias]]
-*   [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
+- [Acceleration thesis](https://wiki.lesswrong.com/wiki/Acceleration_thesis)
+- [[Good-Story Bias|Good-story bias]]
+- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]

@@ -15,4 +15,4 @@ The **Center for Human-Compatible AI** is a research institute at UC Berkeley le
 
 External links:
 
-*   [Homepage of the Center for Human-Compatible AI](https://humancompatible.ai/)
+- [Homepage of the Center for Human-Compatible AI](https://humancompatible.ai/)

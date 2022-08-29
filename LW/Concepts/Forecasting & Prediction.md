@@ -19,41 +19,41 @@ Forecasting allows individuals and institutions to test their internal models of
 
 ## How to get started in forecasting (many ways)
 
-*   Just do it - go on [Metaculus](https://www.metaculus.com/questions/) and forecast for 30 minutes. Look back in a month and see how things have changed
-*   Read a book - [Superforecasting](https://www.amazon.com/Superforecasting-audiobook/dp/B0131HGPQQ/ref=sr_1_1?crid=EIN4B0NE83W2&keywords=superforecasting&qid=1660197471&sprefix=superforecastin%2Caps%2C389&sr=8-1) by Phil Tetlock, one of the founding books in forecasting
-*   Watch a video - Alex Lawson's [Intro to Forecasting](https://www.youtube.com/watch?v=e6Q7Ez3PkOw) videos
+- Just do it - go on [Metaculus](https://www.metaculus.com/questions/) and forecast for 30 minutes. Look back in a month and see how things have changed
+- Read a book - [Superforecasting](https://www.amazon.com/Superforecasting-audiobook/dp/B0131HGPQQ/ref=sr_1_1?crid=EIN4B0NE83W2&keywords=superforecasting&qid=1660197471&sprefix=superforecastin%2Caps%2C389&sr=8-1) by Phil Tetlock, one of the founding books in forecasting
+- Watch a video - Alex Lawson's [Intro to Forecasting](https://www.youtube.com/watch?v=e6Q7Ez3PkOw) videos
 
 ## Basic forecasting tips
 
-*   5-second forecast - Just go with your gut. You'll probably be badly calibrated but you will learn than
-*   Longer forecast
-    *   Base rates
-    *   Adjust up or down
-    *   Look at the median
-    *   Adjust again
+- 5-second forecast - Just go with your gut. You'll probably be badly calibrated but you will learn than
+- Longer forecast
+    - Base rates
+    - Adjust up or down
+    - Look at the median
+    - Adjust again
 
 ## Bottlenecks
 
-*   Understanding key decisions that decision-makers wants decisions about
-*   Writing high-quality questions and getting them published as forecasting question or prediction markets
-*   Getting enough forecasts
-    *   Getting enough forecasters on forecasting questions
-    *   Getting enough money in prediction markets
-*   Getting forecasts seen by relevant decisionmakers
+- Understanding key decisions that decision-makers wants decisions about
+- Writing high-quality questions and getting them published as forecasting question or prediction markets
+- Getting enough forecasts
+    - Getting enough forecasters on forecasting questions
+    - Getting enough money in prediction markets
+- Getting forecasts seen by relevant decisionmakers
 
 ## Organisations in the space
 
 Prediction markets/aggregators
 
-*   [Metaculus](https://www.metaculus.com/questions/), a prediction aggregator
-*   [Manifold Markets](https://manifold.markets/home), a fake-money prediction market where anyone can create a market
-*   [PredictionBook](http://predictionbook.com/), a website that keeps track of predictions and calibration levels
-*   [Kalshi](https://kalshi.com/), the only US prediction market which can run policy markets over $500 dollars of total exposure
-*   [Polymarket](https://polymarket.com/), a large crypo prediction market
+- [Metaculus](https://www.metaculus.com/questions/), a prediction aggregator
+- [Manifold Markets](https://manifold.markets/home), a fake-money prediction market where anyone can create a market
+- [PredictionBook](http://predictionbook.com/), a website that keeps track of predictions and calibration levels
+- [Kalshi](https://kalshi.com/), the only US prediction market which can run policy markets over $500 dollars of total exposure
+- [Polymarket](https://polymarket.com/), a large crypo prediction market
 
 Meta forecasting orgs 
 
-*   [[QURI]], 
+- [[QURI]], 
 
 ## Individuals publicly attached to the space
 
@@ -61,9 +61,9 @@ Meta forecasting orgs 
 
 ## See also
 
-*   [Antiprediction](https://lessestwrong.com/tag/antiprediction)
-*   [Making beliefs pay rent](https://lessestwrong.com/tag/making-beliefs-pay-rent)
-*   [Prediction market](https://lessestwrong.com/tag/prediction-markets)
-*   [Forecast](https://lessestwrong.com/tag/forecast)
-*   [Calibration](https://lessestwrong.com/tag/calibration)
-*   [Black swan](https://lessestwrong.com/tag/black-swans)
+- [Antiprediction](https://lessestwrong.com/tag/antiprediction)
+- [Making beliefs pay rent](https://lessestwrong.com/tag/making-beliefs-pay-rent)
+- [Prediction market](https://lessestwrong.com/tag/prediction-markets)
+- [Forecast](https://lessestwrong.com/tag/forecast)
+- [Calibration](https://lessestwrong.com/tag/calibration)
+- [Black swan](https://lessestwrong.com/tag/black-swans)

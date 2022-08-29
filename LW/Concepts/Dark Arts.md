@@ -35,21 +35,21 @@ Many futurists expect that a technological singularity of even a very mild chara
 
 ## Notable Posts
 
-*   [Against Propaganda](http://robinhanson.typepad.com/overcomingbias/2009/02/against-propaganda-.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
-*   [Lying With Style](http://www.overcomingbias.com/2009/03/deceptive-writing-styles.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
-*   [Defense Against The Dark Arts: Case Study #1](https://lessestwrong.com/lw/62/defense_against_the_dark_arts_case_study_1/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
-*   [Informers and Persuaders](https://lessestwrong.com/lw/yg/informers_and_persuaders/) by [Eliezer_Yudkowsky](https://lessestwrong.com/tag/eliezer-yudkowsky)
-*   [The Dark Arts - Preamble](https://lessestwrong.com/lw/2v2/the_dark_arts_preamble) by [Aurini](http://www.staresattheworld.com/)
-*   [The Dark Arts: A Beginner's Guide](https://lessestwrong.com/lw/9iw/the_dark_arts_a_beginners_guide/) by [faul_sname](http://lesswrong.com/user/faul_sname/overview/)
+- [Against Propaganda](http://robinhanson.typepad.com/overcomingbias/2009/02/against-propaganda-.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [Lying With Style](http://www.overcomingbias.com/2009/03/deceptive-writing-styles.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [Defense Against The Dark Arts: Case Study #1](https://lessestwrong.com/lw/62/defense_against_the_dark_arts_case_study_1/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Informers and Persuaders](https://lessestwrong.com/lw/yg/informers_and_persuaders/) by [Eliezer_Yudkowsky](https://lessestwrong.com/tag/eliezer-yudkowsky)
+- [The Dark Arts - Preamble](https://lessestwrong.com/lw/2v2/the_dark_arts_preamble) by [Aurini](http://www.staresattheworld.com/)
+- [The Dark Arts: A Beginner's Guide](https://lessestwrong.com/lw/9iw/the_dark_arts_a_beginners_guide/) by [faul_sname](http://lesswrong.com/user/faul_sname/overview/)
 
 ## Other Links
 
-*   [Meta-commentary on this terminology](https://lessestwrong.com/lw/b1/persuasiveness_vs_soundness/789)
+- [Meta-commentary on this terminology](https://lessestwrong.com/lw/b1/persuasiveness_vs_soundness/789)
 
 ## See Also
 
-*   [Anti-epistemology](https://lessestwrong.com/tag/anti-epistemology)
-*   [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
-*   [Mind-killer](https://lessestwrong.com/tag/mind-killer)
-*   [Not technically a lie](https://lessestwrong.com/tag/not-technically-a-lie)
-*   [Inferential distance](https://lessestwrong.com/tag/inferential-distance)
+- [Anti-epistemology](https://lessestwrong.com/tag/anti-epistemology)
+- [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
+- [Mind-killer](https://lessestwrong.com/tag/mind-killer)
+- [Not technically a lie](https://lessestwrong.com/tag/not-technically-a-lie)
+- [Inferential distance](https://lessestwrong.com/tag/inferential-distance)

@@ -27,4 +27,4 @@ Logical uncertainty is closely related to the problem of [counterfactuals](/tag/
 
 ## References
 
-*   [Questions of Reasoning Under Logical Uncertainty](https://intelligence.org/files/QuestionsLogicalUncertainty.pdf) by Nate Soares and Benja Fallenstein.
+- [Questions of Reasoning Under Logical Uncertainty](https://intelligence.org/files/QuestionsLogicalUncertainty.pdf) by Nate Soares and Benja Fallenstein.

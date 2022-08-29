@@ -15,14 +15,14 @@ synchedAt: '2022-08-29T11:13:20.088Z'
 
 ## Blog posts
 
-*   [Extraordinary Claims ARE Extraordinary Evidence](http://www.overcomingbias.com/2007/01/extraordinary_c.html) by [[Robin Hanson]]
-*   [Some Claims Are Just Too Extraordinary](http://lesswrong.com/lw/gu/some_claims_are_just_too_extraordinary/) by [[Eliezer Yudkowsky]]
+- [Extraordinary Claims ARE Extraordinary Evidence](http://www.overcomingbias.com/2007/01/extraordinary_c.html) by [[Robin Hanson]]
+- [Some Claims Are Just Too Extraordinary](http://lesswrong.com/lw/gu/some_claims_are_just_too_extraordinary/) by [[Eliezer Yudkowsky]]
 
 ## See also
 
-*   [[Evidence]]
-*   [[Belief Update|Belief update]]
+- [[Evidence]]
+- [[Belief Update|Belief update]]
 
 ## References
 
-*   Hanson, Robin. [When Do Extraordinary Claims Give Extraordinary Evidence?](http://mason.gmu.edu/~rhanson/extraord.pdf) George Mason University, March 2007.
+- Hanson, Robin. [When Do Extraordinary Claims Give Extraordinary Evidence?](http://mason.gmu.edu/~rhanson/extraord.pdf) George Mason University, March 2007.

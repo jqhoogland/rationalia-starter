@@ -19,7 +19,7 @@ Moore's law is often cited as a reason to expect the creation of an [AGI](https:
 
 ## References
 
-*   [Gordon Moore's orignal 1965 paper](http://download.intel.com/museum/Moores_Law/Articles-Press_Releases/Gordon_Moore_1965_Article.pdf) Electronics, Volume 38, Number 8, April 19, 1965
-*   [Progress in Digital Integrated Circuits](http://download.intel.com/museum/Moores_Law/Articles-Press_Releases/Gordon_Moore_1975_Speech.pdf) Transcript of 1975 speech by Gordon Moore
-*   [International Technology Roadmap For Semiconductors](http://www.itrs.net/reports.html)
-*   [A History of the End of Moore's Law](http://www.slate.com/blogs/future_tense/2012/05/03/michio_kako_and_a_brief_history_of_warnings_about_the_end_of_moore_s_law_.html) Slate
+- [Gordon Moore's orignal 1965 paper](http://download.intel.com/museum/Moores_Law/Articles-Press_Releases/Gordon_Moore_1965_Article.pdf) Electronics, Volume 38, Number 8, April 19, 1965
+- [Progress in Digital Integrated Circuits](http://download.intel.com/museum/Moores_Law/Articles-Press_Releases/Gordon_Moore_1975_Speech.pdf) Transcript of 1975 speech by Gordon Moore
+- [International Technology Roadmap For Semiconductors](http://www.itrs.net/reports.html)
+- [A History of the End of Moore's Law](http://www.slate.com/blogs/future_tense/2012/05/03/michio_kako_and_a_brief_history_of_warnings_about_the_end_of_moore_s_law_.html) Slate

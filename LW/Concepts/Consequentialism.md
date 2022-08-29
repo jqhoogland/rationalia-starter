@@ -19,30 +19,30 @@ Consequentialism is often associated with maximizing the [[Expected Utility|expe
 
 ## Blog posts
 
-*   [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/)
-*   [Torture vs. Dust Specks](https://www.lesswrong.com/lw/kn/torture_vs_dust_specks/)
-*   [Deontology for Consequentialists](https://www.lesswrong.com/lw/1og/deontology_for_consequentialists/)
-*   [Virtue Ethics for Consequentialists](https://www.lesswrong.com/lw/2aa/virtue_ethics_for_consequentialists/)
-*   [Consequentialism Need Not Be Shortsighted](https://www.lesswrong.com/lw/778/consequentialism_need_not_be_nearsighted/)
+- [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/)
+- [Torture vs. Dust Specks](https://www.lesswrong.com/lw/kn/torture_vs_dust_specks/)
+- [Deontology for Consequentialists](https://www.lesswrong.com/lw/1og/deontology_for_consequentialists/)
+- [Virtue Ethics for Consequentialists](https://www.lesswrong.com/lw/2aa/virtue_ethics_for_consequentialists/)
+- [Consequentialism Need Not Be Shortsighted](https://www.lesswrong.com/lw/778/consequentialism_need_not_be_nearsighted/)
 
 ## External links
 
-*   [Consequentialism entry on Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)
-*   [Consequentialism FAQ](http://www.raikoth.net/consequentialism.html)
-*   [Description and discussion about trolley problems](http://people.howstuffworks.com/trolley-problem.htm)
+- [Consequentialism entry on Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)
+- [Consequentialism FAQ](http://www.raikoth.net/consequentialism.html)
+- [Description and discussion about trolley problems](http://people.howstuffworks.com/trolley-problem.htm)
 
 ## See also
 
-*   [[Utilitarianism]]
-*   [[Utility]], [[Utility Functions|utility function]], [[Expected Utility|expected utility]]
-*   [[Metaethics Sequence|Metaethics sequence]]
-*   [[Ethical Injunction|Ethical injunction]]
-*   [[Shut Up and Multiply|Shut up and multiply]]
-*   [Hedons](https://wiki.lesswrong.com/wiki/Hedons), [utils](https://wiki.lesswrong.com/wiki/utils), [[Fuzzies|fuzzies]]
+- [[Utilitarianism]]
+- [[Utility]], [[Utility Functions|utility function]], [[Expected Utility|expected utility]]
+- [[Metaethics Sequence|Metaethics sequence]]
+- [[Ethical Injunction|Ethical injunction]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [Hedons](https://wiki.lesswrong.com/wiki/Hedons), [utils](https://wiki.lesswrong.com/wiki/utils), [[Fuzzies|fuzzies]]
 
 ## References
 
-*   Jeremy Bentham (1907). *An Introduction to the Principles of Morals and Legislation*. Library of Economics and Liberty.
-*   Perter Fishburn (1970). *Utility Theory for Decision Making*. Huntington, NY.
-*   Walter Sinnot-Armstrong (2011). "[Consequentialism](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)". *The Stanford Encyclopedia of Philosophy (Winter 2011 Edition)*.
-*   Judith Jarvis Thonson (1975). "Killing, Letting Die, and the Trolley Problem". *The Monist* **59**: 204-217.
+- Jeremy Bentham (1907). *An Introduction to the Principles of Morals and Legislation*. Library of Economics and Liberty.
+- Perter Fishburn (1970). *Utility Theory for Decision Making*. Huntington, NY.
+- Walter Sinnot-Armstrong (2011). "[Consequentialism](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)". *The Stanford Encyclopedia of Philosophy (Winter 2011 Edition)*.
+- Judith Jarvis Thonson (1975). "Killing, Letting Die, and the Trolley Problem". *The Monist* **59**: 204-217.

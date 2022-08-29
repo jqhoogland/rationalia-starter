@@ -15,9 +15,9 @@ Humans seem to naturally generate a series of concepts known as **sympathetic ma
 
 ## Related concepts
 
-*   [[Magic]]
-*   [[Priming]]
+- [[Magic]]
+- [[Priming]]
 
 ## Blog posts
 
-*   [The Laws of Magic](http://lesswrong.com/lw/zr/the_laws_of_magic/) by [Annoyance](https://wiki.lesswrong.com/wiki/Annoyance)
+- [The Laws of Magic](http://lesswrong.com/lw/zr/the_laws_of_magic/) by [Annoyance](https://wiki.lesswrong.com/wiki/Annoyance)

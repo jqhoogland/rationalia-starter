@@ -19,10 +19,10 @@ The fact that disagreements on questions of simple fact are so common amongst hu
 
 ## Blog posts
 
-*   [We Can't Forsee to Disagree](http://www.overcomingbias.com/2007/01/we_cant_foresee.html) by [[Robin Hanson]]
+- [We Can't Forsee to Disagree](http://www.overcomingbias.com/2007/01/we_cant_foresee.html) by [[Robin Hanson]]
 
 ## See also
 
-*   [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
-*   [[Disagreement]]
-*   [[Conservation of Expected Evidence|Conservation of expected evidence]]
+- [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
+- [[Disagreement]]
+- [[Conservation of Expected Evidence|Conservation of expected evidence]]

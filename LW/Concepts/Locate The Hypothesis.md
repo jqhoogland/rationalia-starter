@@ -21,15 +21,15 @@ In 1919, Sir Arthur Eddington led expeditions to Brazil and to the island of Pri
 
 ## Blog posts
 
-*   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
+- [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
 
 ## External links
 
-*   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
+- [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
 
 ## See also
 
-*   [[Amount of Evidence|Amount of evidence]]
-*   [[Privileging The Hypothesis|Privileging the hypothesis]]
-*   [[Technical Explanation|Technical explanation]]
-*   [[Priors]]
+- [[Amount of Evidence|Amount of evidence]]
+- [[Privileging The Hypothesis|Privileging the hypothesis]]
+- [[Technical Explanation|Technical explanation]]
+- [[Priors]]

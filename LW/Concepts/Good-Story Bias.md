@@ -15,13 +15,13 @@ Optimizing predictions for sounding good as stories, when nature optimizes for n
 
 ## Blog posts
 
-*   [Tell Your Anti-Story](http://overcomingbias.com/2007/07/tell-your-anti-.html) by [[Robin Hanson]]
+- [Tell Your Anti-Story](http://overcomingbias.com/2007/07/tell-your-anti-.html) by [[Robin Hanson]]
 
 ## External links
 
-*   [Tyler Cowen at TEDx Mid-Atlantic 2009-11-05 talking about how our love of stories misleads us](http://www.youtube.com/watch?v=RoEEDKwzNBw) (video)
+- [Tyler Cowen at TEDx Mid-Atlantic 2009-11-05 talking about how our love of stories misleads us](http://www.youtube.com/watch?v=RoEEDKwzNBw) (video)
 
 ## See also
 
-*   [[Narrative Fallacy|Narrative fallacy]]
-*   [[Generalization From Fictional Evidence|Generalization from fictional evidence]]
+- [[Narrative Fallacy|Narrative fallacy]]
+- [[Generalization From Fictional Evidence|Generalization from fictional evidence]]

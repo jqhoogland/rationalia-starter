@@ -25,13 +25,13 @@ Scott Garrabrant (seemingly) independently invented a [very similar game](https:
 
 ## See also
 
-*   [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
-*   [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
-*   [[Paranoid Debating|Paranoid debating]]
+- [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
+- [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
+- [[Paranoid Debating|Paranoid debating]]
 
 ## External links
 
-*   [The Aumann Game](https://web.archive.org/web/20110408182936/http://www.acceleratingfuture.com/steven/?p=96)
-*   [The New Adventures of Aumann](https://web.archive.org/web/20130906125721/http://www.acceleratingfuture.com/steven/?p=102)
-*   [Bayes Bayes Revolution, Aumania](https://web.archive.org/web/20080514160909/http://www.acceleratingfuture.com/steven/?p=103)
-*   [Aumann Forever](https://web.archive.org/web/20100314215830/http://www.acceleratingfuture.com/steven/?p=106)
+- [The Aumann Game](https://web.archive.org/web/20110408182936/http://www.acceleratingfuture.com/steven/?p=96)
+- [The New Adventures of Aumann](https://web.archive.org/web/20130906125721/http://www.acceleratingfuture.com/steven/?p=102)
+- [Bayes Bayes Revolution, Aumania](https://web.archive.org/web/20080514160909/http://www.acceleratingfuture.com/steven/?p=103)
+- [Aumann Forever](https://web.archive.org/web/20100314215830/http://www.acceleratingfuture.com/steven/?p=106)

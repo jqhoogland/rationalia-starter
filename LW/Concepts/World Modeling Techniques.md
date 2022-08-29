@@ -15,13 +15,13 @@ A **world-modeling technique** is a general-purpose method for generating world 
 
 Examples:
 
-*   Causal Models \[LINK Yudkowsky's intro\]
-*   Bayesian Model Comparison \[LINK\]
-*   Markovity \[external LINK?\]
+- Causal Models \[LINK Yudkowsky's intro\]
+- Bayesian Model Comparison \[LINK\]
+- Markovity \[external LINK?\]
 
 See also:
 
-*   Causality \[LINK tag\]
-*   World Modeling
-*   Efficient Market Hypothesis
-*   Game Theory
+- Causality \[LINK tag\]
+- World Modeling
+- Efficient Market Hypothesis
+- Game Theory

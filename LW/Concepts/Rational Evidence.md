@@ -21,16 +21,16 @@ The [[Science|scientific method]] can be viewed as a special standard of admissi
 
 ## Main post
 
-*   [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
+- [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
 
 ## Other posts
 
-*   [Is Molecular Nanotechnology "Scientific"?](http://lesswrong.com/lw/io/is_molecular_nanotechnology_scientific/)
-*   [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/) and [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)
+- [Is Molecular Nanotechnology "Scientific"?](http://lesswrong.com/lw/io/is_molecular_nanotechnology_scientific/)
+- [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/) and [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)
 
 ## See also
 
-*   [[Evidence]], [[Standard of Evidence|Standard of evidence]]
-*   [[Bayes' Theorem|Bayes' theorem]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
-*   [[Traditional Rationality|Traditional rationality]], [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Exploratory Engineering|Exploratory engineering]]
+- [[Evidence]], [[Standard of Evidence|Standard of evidence]]
+- [[Bayes' Theorem|Bayes' theorem]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
+- [[Traditional Rationality|Traditional rationality]], [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Exploratory Engineering|Exploratory engineering]]

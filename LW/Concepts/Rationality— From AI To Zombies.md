@@ -21,43 +21,43 @@ Ebook cover image.
 
 The ebook's contents are organized into six books, containing a total of 333 essays from the Sequences. The 333 essays are further divided into twenty-six sequences, lettered A through Z:
 
-*   Book I: *[[Map and Territory|Map and Territory]]*
-    *   A. Predictably Wrong
-    *   B. Fake Beliefs
-    *   C. Noticing Confusion
-    *   D. Mysterious Answers
-*   Book II: *[[How To Actually Change Your Mind|How to Actually Change Your Mind]]*
-    *   E. Overly Convenient Excuses
-    *   F. Politics and Rationality
-    *   G. Against Rationalization
-    *   H. Against Doublethink
-    *   I. Seeing with Fresh Eyes
-    *   J. Death Spirals
-    *   K. Letting Go
-*   Book III: *[[The Machine In The Ghost|The Machine in the Ghost]]*
-    *   L. The Simple Math of Evolution
-    *   M. Fragile Purposes
-    *   N. A Human's Guide to Words
-*   Book IV: *[[Mere Reality|Mere Reality]]*
-    *   O. Lawful Truth
-    *   P. Reductionism 101
-    *   Q. Joy in the Merely Real
-    *   R. Physicalism 201
-    *   S. Quantum Physics and Many Worlds
-    *   T. Science and Rationality
-*   Book V: *[[Mere Goodness|Mere Goodness]]*
-    *   U. Fake Preferences
-    *   V. Value Theory
-    *   W. Quantified Humanism
-*   Book VI: *[[Becoming Stronger|Becoming Stronger]]*
-    *   X. Yudkowsky's Coming of Age
-    *   Y. Challenging the Difficult
-    *   Z. The Craft and the Community
+- Book I: *[[Map and Territory|Map and Territory]]*
+    - A. Predictably Wrong
+    - B. Fake Beliefs
+    - C. Noticing Confusion
+    - D. Mysterious Answers
+- Book II: *[[How To Actually Change Your Mind|How to Actually Change Your Mind]]*
+    - E. Overly Convenient Excuses
+    - F. Politics and Rationality
+    - G. Against Rationalization
+    - H. Against Doublethink
+    - I. Seeing with Fresh Eyes
+    - J. Death Spirals
+    - K. Letting Go
+- Book III: *[[The Machine In The Ghost|The Machine in the Ghost]]*
+    - L. The Simple Math of Evolution
+    - M. Fragile Purposes
+    - N. A Human's Guide to Words
+- Book IV: *[[Mere Reality|Mere Reality]]*
+    - O. Lawful Truth
+    - P. Reductionism 101
+    - Q. Joy in the Merely Real
+    - R. Physicalism 201
+    - S. Quantum Physics and Many Worlds
+    - T. Science and Rationality
+- Book V: *[[Mere Goodness|Mere Goodness]]*
+    - U. Fake Preferences
+    - V. Value Theory
+    - W. Quantified Humanism
+- Book VI: *[[Becoming Stronger|Becoming Stronger]]*
+    - X. Yudkowsky's Coming of Age
+    - Y. Challenging the Difficult
+    - Z. The Craft and the Community
 
 Each book also comes with an introduction by Rob Bensinger, and a supplemental essay by Yudkowsky. There are plans to release the six books as separate print volumes at some unknown future date.
 
 ## Links
 
-*   [Download page](https://intelligence.org/rationality-ai-zombies).
-*   [RAZ Glossary](https://www.lesswrong.com/tag/raz-glossary)
-*   [RAZ Errata](https://www.lesswrong.com/tag/raz-errata)
+- [Download page](https://intelligence.org/rationality-ai-zombies).
+- [RAZ Glossary](https://www.lesswrong.com/tag/raz-glossary)
+- [RAZ Errata](https://www.lesswrong.com/tag/raz-errata)

@@ -41,9 +41,9 @@ If you can *anticipate in advance* updating your belief in a particular directio
 
 ## Notable Posts
 
-*   [Conservation of Expected Evidence](https://lessestwrong.com/lw/ii/conservation_of_expected_evidence/)
-*   [Mistakes with Conservation of Expected Evidence](https://lessestwrong.com/posts/zTfSXQracE7TW8x4w/mistakes-with-conservation-of-expected-evidence-1)
+- [Conservation of Expected Evidence](https://lessestwrong.com/lw/ii/conservation_of_expected_evidence/)
+- [Mistakes with Conservation of Expected Evidence](https://lessestwrong.com/posts/zTfSXQracE7TW8x4w/mistakes-with-conservation-of-expected-evidence-1)
 
 ## See Also
 
-*   [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)
+- [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)

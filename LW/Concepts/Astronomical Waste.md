@@ -23,9 +23,9 @@ If so much potential is lost every year, one could conclude that we should start
 
 ## External links
 
-*   [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](http://www.nickbostrom.com/astronomical/waste.html)
+- [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](http://www.nickbostrom.com/astronomical/waste.html)
 
 ## See also
 
-*   [[Utilitarianism]]
-*   [[Existential Risk|Existential risk]]
+- [[Utilitarianism]]
+- [[Existential Risk|Existential risk]]

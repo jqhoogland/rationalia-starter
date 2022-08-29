@@ -25,11 +25,11 @@ In computer-mediated deliberation, the ideology of so-called **"virtual communit
 
 ## See also
 
-*   [[Cached Thoughts|Cached thought]]
-*   [[Affective Death Spiral|Affective death spiral]], [[Information Cascades|information cascade]]
-*   [[In-Group Bias|In-group bias]], [[Conformity Bias|conformity bias]]
-*   [[Goodhart's Law|Goodhart's law]]
-*   [[Availability Heuristic|Availability heuristic]]
-*   [[Group Rationality|Group rationality]]
-*   [[Rationality Verification|Problem of verifying rationality]]
-*   [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]
+- [[Cached Thoughts|Cached thought]]
+- [[Affective Death Spiral|Affective death spiral]], [[Information Cascades|information cascade]]
+- [[In-Group Bias|In-group bias]], [[Conformity Bias|conformity bias]]
+- [[Goodhart's Law|Goodhart's law]]
+- [[Availability Heuristic|Availability heuristic]]
+- [[Group Rationality|Group rationality]]
+- [[Rationality Verification|Problem of verifying rationality]]
+- [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]

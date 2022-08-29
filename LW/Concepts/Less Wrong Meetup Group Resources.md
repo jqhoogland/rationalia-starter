@@ -23,37 +23,37 @@ Most of this data comes from the post [Less Wrong NYC: Case Study of a Successfu
 
 ## Organization tips
 
-*   **Communities need heroes**. Most people will be passively attending. Step up.
-*   **Commitment works**. Announce regular dates and times, and stay for a minimum length of time, regardless of attendance.
-*   **Schedule events first, get feedback later**. Getting everyone to state their preferences up front leads to prolonged indecision.
-*   **Be a group of friends**. Meet regularly. Do things you like doing, together. Be a community. Set goals and hold each other accountable. Be honest. Make use of each person's skills and knowledge.
-*   **Gender ratio matters**. Treat others with respect. Be mindful of exclusionary language.
-*   **Use the mailing list for more than just meetup scheduling**.
-*   **Interact with outside rationalists as much as possible**.
-*   **Congregate in the area nearby with the most Less Wrongers**.
-*   **Use good meetup descriptions.** Here is an [example meetup description](https://www.lesswrong.com/posts/Y3KCuqJSbpGs62Hvp/example-meetup-description).
+- **Communities need heroes**. Most people will be passively attending. Step up.
+- **Commitment works**. Announce regular dates and times, and stay for a minimum length of time, regardless of attendance.
+- **Schedule events first, get feedback later**. Getting everyone to state their preferences up front leads to prolonged indecision.
+- **Be a group of friends**. Meet regularly. Do things you like doing, together. Be a community. Set goals and hold each other accountable. Be honest. Make use of each person's skills and knowledge.
+- **Gender ratio matters**. Treat others with respect. Be mindful of exclusionary language.
+- **Use the mailing list for more than just meetup scheduling**.
+- **Interact with outside rationalists as much as possible**.
+- **Congregate in the area nearby with the most Less Wrongers**.
+- **Use good meetup descriptions.** Here is an [example meetup description](https://www.lesswrong.com/posts/Y3KCuqJSbpGs62Hvp/example-meetup-description).
 
 ## Meetup activities
 
-*   **Social / unfocused discussions**. Attendance is usually poor; members report that hanging out is harder to justify than having a specific purpose.
-*   **Specific discussion topics**. Attendance is good. Break into small groups to make better progress. Here are some resources for finding discussion topics:
-    *   [London Rationalish Readings](https://sackeyjason.github.io/london-rationalish-readings/)
-    *   [Seattle Reading Group Notes](https://palegreendot.net/)
-    *   [Log of Ottawa's past meetups on Facebook](https://www.facebook.com/groups/rationalottawa/files/docs)
-*   **Presentation / skill training**. Attendance is good if the topic interests many people.
-*   **Game nights**. This can include rationality training games like [Biased Pandemic](http://lesswrong.com/lw/ar2/biased_pandemic/), [Paranoid Debating](http://wiki.lesswrong.com/wiki/Paranoid_debating), and [poker](http://lesswrong.com/lw/4yk/verifying_rationality_via_rationalpokercom/).
-*   **Group planning / meta**. Usually just for group leaders.
-*   **Structured exercises**. Attendance varies. Example from NYC Less Wrong: [Fun and Games with Cognitive Biases](http://lesswrong.com/lw/4fp/fun_and_games_with_cognitive_biases/).
-*   **Party time**.
+- **Social / unfocused discussions**. Attendance is usually poor; members report that hanging out is harder to justify than having a specific purpose.
+- **Specific discussion topics**. Attendance is good. Break into small groups to make better progress. Here are some resources for finding discussion topics:
+    - [London Rationalish Readings](https://sackeyjason.github.io/london-rationalish-readings/)
+    - [Seattle Reading Group Notes](https://palegreendot.net/)
+    - [Log of Ottawa's past meetups on Facebook](https://www.facebook.com/groups/rationalottawa/files/docs)
+- **Presentation / skill training**. Attendance is good if the topic interests many people.
+- **Game nights**. This can include rationality training games like [Biased Pandemic](http://lesswrong.com/lw/ar2/biased_pandemic/), [Paranoid Debating](http://wiki.lesswrong.com/wiki/Paranoid_debating), and [poker](http://lesswrong.com/lw/4yk/verifying_rationality_via_rationalpokercom/).
+- **Group planning / meta**. Usually just for group leaders.
+- **Structured exercises**. Attendance varies. Example from NYC Less Wrong: [Fun and Games with Cognitive Biases](http://lesswrong.com/lw/4fp/fun_and_games_with_cognitive_biases/).
+- **Party time**.
 
 ## Discussion topics
 
-*   Tell your rationalist success story.
-*   Basics of rationality.
-*   Cognitive biases.
-*   The sequences.
-*   Decision theory.
-*   Friendly AI.
+- Tell your rationalist success story.
+- Basics of rationality.
+- Cognitive biases.
+- The sequences.
+- Decision theory.
+- Friendly AI.
 
 ## Need help?
 

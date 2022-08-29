@@ -17,5 +17,5 @@ A luminous mental state is one that you have and know that you have. It could be
 
 ## See also
 
-*   [Living Luminously (sequence)](https://www.lesswrong.com/s/ynMFrq9K5iNMfSZNg)
-*   [[Luminosity (Fanfiction)|Luminosity (fanfiction)]]
+- [Living Luminously (sequence)](https://www.lesswrong.com/s/ynMFrq9K5iNMfSZNg)
+- [[Luminosity (Fanfiction)|Luminosity (fanfiction)]]

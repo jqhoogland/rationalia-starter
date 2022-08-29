@@ -17,28 +17,28 @@ List of podcasts from the [diaspora](https://wiki.lesswrong.com/wiki/diaspora) a
 
 ## By people with Less Wrong profiles
 
-*   [Rationally Speaking](http://rationallyspeakingpodcast.org/) Julia Galef
-*   [Future Strategist](https://soundcloud.com/user-519115521) James Miller
-*   [Second Enumerations](http://secondenumerations.blogspot.com/) Grognor
-*   [The untitled and not-properly-indexed occasional podcasts between Robin Hanson and Katja Grace](http://www.overcomingbias.com/2016/07/grace-hanson-podcasts-4.html)
-*   [The Bayesian Conspiracy](http://www.thebayesianconspiracy.com/) Eneasz Brodski, Jess Dickey, Steven Zuber
-*   [Science, Ethics, and the Future](https://player.fm/series/science-ethics-and-the-future-107556) Brian Tomasik
-*   [Conversations from the Pale Blue Dot](http://commonsenseatheism.com/?p=1911) Luke Muehlhauser
-*   [Tsuyoku Naritai!](https://www.youtube.com/watch?v=JmRr7Op6sfQ&feature=youtu.be) [Alex Hedtke](https://www.lesswrong.com/users/senarin)
-*   [The 80,000 Hours Podcast](https://80000hours.org/podcast/) Rob Wiblin
-*   [Affix](https://www.affix.live/) [](www.affix.live) by Brian and Chris
+- [Rationally Speaking](http://rationallyspeakingpodcast.org/) Julia Galef
+- [Future Strategist](https://soundcloud.com/user-519115521) James Miller
+- [Second Enumerations](http://secondenumerations.blogspot.com/) Grognor
+- [The untitled and not-properly-indexed occasional podcasts between Robin Hanson and Katja Grace](http://www.overcomingbias.com/2016/07/grace-hanson-podcasts-4.html)
+- [The Bayesian Conspiracy](http://www.thebayesianconspiracy.com/) Eneasz Brodski, Jess Dickey, Steven Zuber
+- [Science, Ethics, and the Future](https://player.fm/series/science-ethics-and-the-future-107556) Brian Tomasik
+- [Conversations from the Pale Blue Dot](http://commonsenseatheism.com/?p=1911) Luke Muehlhauser
+- [Tsuyoku Naritai!](https://www.youtube.com/watch?v=JmRr7Op6sfQ&feature=youtu.be) [Alex Hedtke](https://www.lesswrong.com/users/senarin)
+- [The 80,000 Hours Podcast](https://80000hours.org/podcast/) Rob Wiblin
+- [Affix](https://www.affix.live/) [](www.affix.live) by Brian and Chris
 
 ## Obviously [rationalist-adjacent](https://wiki.lesswrong.com/wiki/rationalist-adjacent)
 
-*   [Waking Up With Sam Harris](https://www.samharris.org/podcast)
-*   [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
-*   [Review the Future](http://reviewthefuture.com/) Ted Kupper and Jon Perry
-*   [The GiveWell Podcast](http://blog.givewell.org/2016/05/23/trying-new-format-givewell-podcast/)
-*   [EconTalk](http://www.econtalk.org/)
+- [Waking Up With Sam Harris](https://www.samharris.org/podcast)
+- [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
+- [Review the Future](http://reviewthefuture.com/) Ted Kupper and Jon Perry
+- [The GiveWell Podcast](http://blog.givewell.org/2016/05/23/trying-new-format-givewell-podcast/)
+- [EconTalk](http://www.econtalk.org/)
 
 ## See Also
 
-*   [Grognor's podcast and other audio recommendations](http://grognor.stacky.net/index.php?title=Audio_Content)
-*   [[List of Blogs]]
-*   [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
-*   [[Audio]]
+- [Grognor's podcast and other audio recommendations](http://grognor.stacky.net/index.php?title=Audio_Content)
+- [[List of Blogs]]
+- [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
+- [[Audio]]

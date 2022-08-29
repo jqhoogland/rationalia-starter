@@ -29,12 +29,12 @@ One way you might think to get around Gödel's Incompleteness, is to leave behin
 
 ### External Resources:
 
-*   Quanta Magazine: [How Gödel's Proof Works](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714)
-*   Stanford Encyclopedia of Philosophy:
-    *   [Gödel’s Incompleteness Theorems](https://plato.stanford.edu/entries/goedel-incompleteness)
-    *   [Kurt Gödel](https://plato.stanford.edu/entries/goedel) (including his [completeness theorem](https://plato.stanford.edu/entries/goedel/#ComThe))
-*   Wikipedia:
-    *   [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-    *   [Completeness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
-    *   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic) and [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
-    *   [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+- Quanta Magazine: [How Gödel's Proof Works](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714)
+- Stanford Encyclopedia of Philosophy:
+    - [Gödel’s Incompleteness Theorems](https://plato.stanford.edu/entries/goedel-incompleteness)
+    - [Kurt Gödel](https://plato.stanford.edu/entries/goedel) (including his [completeness theorem](https://plato.stanford.edu/entries/goedel/#ComThe))
+- Wikipedia:
+    - [Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+    - [Completeness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
+    - [First-order logic](https://en.wikipedia.org/wiki/First-order_logic) and [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+    - [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)

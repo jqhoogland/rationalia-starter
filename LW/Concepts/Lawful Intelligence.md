@@ -19,32 +19,32 @@ While this is a complete heresy according to the standard religion of Silicon Va
 
 **Preliminaries:**
 
-*   [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)
-*   [A Priori](http://lesswrong.com/lw/k2/a_priori/)
-*   [Beautiful Math](http://lesswrong.com/lw/mq/beautiful_math/), [Expecting Beauty](http://lesswrong.com/lw/mr/expecting_beauty/), [Is Reality Ugly?](http://lesswrong.com/lw/ms/is_reality_ugly/), and [Beautiful Probability](http://lesswrong.com/lw/mt/beautiful_probability/)
-*   [Trust in Math](http://lesswrong.com/lw/mu/trust_in_math/)
-*   [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)
-*   [The Second Law of Thermodynamics, and Engines of Cognition](http://lesswrong.com/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)
-*   [Perpetual Motion Beliefs](http://lesswrong.com/lw/o6/perpetual_motion_beliefs/)
-*   [Searching for Bayes-Structure](http://lesswrong.com/lw/o7/searching_for_bayesstructure/)
+- [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)
+- [A Priori](http://lesswrong.com/lw/k2/a_priori/)
+- [Beautiful Math](http://lesswrong.com/lw/mq/beautiful_math/), [Expecting Beauty](http://lesswrong.com/lw/mr/expecting_beauty/), [Is Reality Ugly?](http://lesswrong.com/lw/ms/is_reality_ugly/), and [Beautiful Probability](http://lesswrong.com/lw/mt/beautiful_probability/)
+- [Trust in Math](http://lesswrong.com/lw/mu/trust_in_math/)
+- [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)
+- [The Second Law of Thermodynamics, and Engines of Cognition](http://lesswrong.com/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)
+- [Perpetual Motion Beliefs](http://lesswrong.com/lw/o6/perpetual_motion_beliefs/)
+- [Searching for Bayes-Structure](http://lesswrong.com/lw/o7/searching_for_bayesstructure/)
 
 **Main sequence:**
 
-*   [Expected Creative Surprises](http://lesswrong.com/lw/v7/expected_creative_surprises/)
-*   [Building Something Smarter](http://lesswrong.com/lw/vg/building_something_smarter/)
-*   [Complexity and Intelligence](http://lesswrong.com/lw/vh/complexity_and_intelligence/)
-*   [Recognizing Intelligence](http://lesswrong.com/lw/vl/recognizing_intelligence/)
-*   [Lawful Creativity](http://lesswrong.com/lw/vm/lawful_creativity/)
-*   [Lawful Uncertainty](http://lesswrong.com/lw/vo/lawful_uncertainty/)
-*   [Selling Nonapples](http://lesswrong.com/lw/vs/selling_nonapples/)
-*   [The Nature of Logic](http://lesswrong.com/lw/vt/the_nature_of_logic/)
-*   [Logical or Connectionist AI?](http://lesswrong.com/lw/vv/logical_or_connectionist_ai/) (The correct answer being "[Wrong](https://en.wikipedia.org/wiki/Mu_(negative))!")
-*   [Failure By Analogy](http://lesswrong.com/lw/vx/failure_by_analogy/) and [Failure By Affective Analogy](http://lesswrong.com/lw/vy/failure_by_affective_analogy/)
-*   [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
+- [Expected Creative Surprises](http://lesswrong.com/lw/v7/expected_creative_surprises/)
+- [Building Something Smarter](http://lesswrong.com/lw/vg/building_something_smarter/)
+- [Complexity and Intelligence](http://lesswrong.com/lw/vh/complexity_and_intelligence/)
+- [Recognizing Intelligence](http://lesswrong.com/lw/vl/recognizing_intelligence/)
+- [Lawful Creativity](http://lesswrong.com/lw/vm/lawful_creativity/)
+- [Lawful Uncertainty](http://lesswrong.com/lw/vo/lawful_uncertainty/)
+- [Selling Nonapples](http://lesswrong.com/lw/vs/selling_nonapples/)
+- [The Nature of Logic](http://lesswrong.com/lw/vt/the_nature_of_logic/)
+- [Logical or Connectionist AI?](http://lesswrong.com/lw/vv/logical_or_connectionist_ai/) (The correct answer being "[Wrong](https://en.wikipedia.org/wiki/Mu_(negative))!")
+- [Failure By Analogy](http://lesswrong.com/lw/vx/failure_by_analogy/) and [Failure By Affective Analogy](http://lesswrong.com/lw/vy/failure_by_affective_analogy/)
+- [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
 
 ## See also
 
-*   [[Futility of Chaos|Futility of chaos]]
-*   [[Universal Law|Universal law]]
-*   [[Optimization|Optimization process]]
-*   [[Artificial General Intelligence|Artificial general intelligence]]
+- [[Futility of Chaos|Futility of chaos]]
+- [[Universal Law|Universal law]]
+- [[Optimization|Optimization process]]
+- [[Artificial General Intelligence|Artificial general intelligence]]

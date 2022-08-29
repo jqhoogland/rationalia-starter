@@ -21,10 +21,10 @@ Luke Muehlhauser has written a sequence, [No-Nonsense Metaethics](https://www.le
 
 ## Further Reading & References
 
-*   Garner, Richard T.; Bernard Rosen (1967). Moral Philosophy: A Systematic Introduction to Normative Ethics and Meta-ethics. New York: Macmillan. pp. 215
-*   [Metaethics](http://plato.stanford.edu/entries/metaethics/) in the Stanford Encyclopedia of Philosophy
+- Garner, Richard T.; Bernard Rosen (1967). Moral Philosophy: A Systematic Introduction to Normative Ethics and Meta-ethics. New York: Macmillan. pp. 215
+- [Metaethics](http://plato.stanford.edu/entries/metaethics/) in the Stanford Encyclopedia of Philosophy
 
 ## See Also
 
-*   [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
-*   [Utility](https://lessestwrong.com/tag/utility)
+- [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
+- [Utility](https://lessestwrong.com/tag/utility)

@@ -19,9 +19,9 @@ If the likelihood ratio is known, Bayesian updates are faster and more intuitive
 
 ## Blog posts
 
-*   [Share likelihood ratios, not posterior beliefs](http://www.overcomingbias.com/2009/02/share-likelihood-ratios-not-posterior-beliefs.html) by [[Anna Salamon]] and [Steve Rayhawk](https://wiki.lesswrong.com/wiki/Steve_Rayhawk)
+- [Share likelihood ratios, not posterior beliefs](http://www.overcomingbias.com/2009/02/share-likelihood-ratios-not-posterior-beliefs.html) by [[Anna Salamon]] and [Steve Rayhawk](https://wiki.lesswrong.com/wiki/Steve_Rayhawk)
 
 ## See also
 
-*   [[Bayes' Theorem|Bayes' theorem]]
-*   [[Evidence]]
+- [[Bayes' Theorem|Bayes' theorem]]
+- [[Evidence]]

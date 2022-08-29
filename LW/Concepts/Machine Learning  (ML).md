@@ -26,8 +26,8 @@ In addition to its practical usefulness, machine learning has also offered insig
 
 ## Further Reading & References
 
-*   [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## See Also
 
-*   [[Forecasting & Prediction|Prediction]]
+- [[Forecasting & Prediction|Prediction]]

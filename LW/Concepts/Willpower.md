@@ -21,4 +21,4 @@ There is an argument that the use of willpower is undesirable. The use of willpo
 
 ## Resources
 
-*   The writings on [Minding Our Way](http://mindingourway.com/) concerning productivity.
+- The writings on [Minding Our Way](http://mindingourway.com/) concerning productivity.

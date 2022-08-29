@@ -19,12 +19,12 @@ Contrast to [[Traditional Rationality|Traditional rationality]], or better yet, 
 
 ## See also
 
-*   [[Rationality]]
-*   [[Joy In The Merely Real|Joy in the merely real]], [[Fun Theory|Fun theory]]
-*   [[Emotions|Emotion]]
-*   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
+- [[Rationality]]
+- [[Joy In The Merely Real|Joy in the merely real]], [[Fun Theory|Fun theory]]
+- [[Emotions|Emotion]]
+- [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
 
 ## External links
 
-*   [Straw Vulcan](http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan) \- TV Tropes Wiki entry discussing the problems with the common stereotype.
-*   [Julia Galef Skepticon IV talk on the same theme](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/) \- [summary on Less Wrong](http://lesswrong.com/lw/90n/summary_of_the_straw_vulcan/)
+- [Straw Vulcan](http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan) \- TV Tropes Wiki entry discussing the problems with the common stereotype.
+- [Julia Galef Skepticon IV talk on the same theme](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/) \- [summary on Less Wrong](http://lesswrong.com/lw/90n/summary_of_the_straw_vulcan/)

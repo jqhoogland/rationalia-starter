@@ -19,19 +19,19 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 
 ## Blog posts
 
-*   [Infinite Certainty](http://lesswrong.com/lw/mo/infinite_certainty/)
-*   [0 And 1 Are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
-*   [How to Convince Me That 2 + 2 = 3](http://lesswrong.com/lw/jr/how_to_convince_me_that_2_2_3/)
-*   [Confidence levels inside and outside an argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Infinite Certainty](http://lesswrong.com/lw/mo/infinite_certainty/)
+- [0 And 1 Are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
+- [How to Convince Me That 2 + 2 = 3](http://lesswrong.com/lw/jr/how_to_convince_me_that_2_2_3/)
+- [Confidence levels inside and outside an argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## References
 
-*   Toby Ord, Rafaela Hillerbrand, Anders Sandberg (2008). [*Probing the Improbable: Methodological Challenges for Risks with Low Probabilities and High Stakes*](http://arxiv.org/abs/0810.5515).
+- Toby Ord, Rafaela Hillerbrand, Anders Sandberg (2008). [*Probing the Improbable: Methodological Challenges for Risks with Low Probabilities and High Stakes*](http://arxiv.org/abs/0810.5515).
 
 ## See also
 
-*   [[Bayesian Probability|Bayesian probability]]
-*   [[Scoring Rule|Scoring rule]]
-*   [[Antiprediction]]
-*   [[Mind Projection Fallacy|Mind projection fallacy]]
-*   [[Doubt]]
+- [[Bayesian Probability|Bayesian probability]]
+- [[Scoring Rule|Scoring rule]]
+- [[Antiprediction]]
+- [[Mind Projection Fallacy|Mind projection fallacy]]
+- [[Doubt]]

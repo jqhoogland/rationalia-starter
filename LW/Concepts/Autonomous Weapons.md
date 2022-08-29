@@ -15,4 +15,4 @@ synchedAt: '2022-08-29T10:47:20.604Z'
 
 ### See also
 
-*   [Wikipedia page on Lethal Autonomous Weapons](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)
+- [Wikipedia page on Lethal Autonomous Weapons](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)

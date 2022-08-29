@@ -23,10 +23,10 @@ Defeating rationalization - or even *discovering* rationalizations - is a lifelo
 
 ## See Also
 
-*   [Motivated skepticism](https://lessestwrong.com/tag/motivated-skepticism), [motivated cognition](https://lessestwrong.com/tag/motivated-reasoning)
-*   [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)
-*   [Fake simplicity](https://lessestwrong.com/tag/fake-simplicity)
-*   [Self-deception](https://lessestwrong.com/tag/self-deception)
-*   [Litany of Gendlin](https://lessestwrong.com/tag/litany-of-gendlin)
-*   [Occam's Imaginary Razor](https://wiki.lesswrong.com/wiki/Occam's_Imaginary_Razor)
-*   [Hope](https://lessestwrong.com/tag/hope), [oops](https://lessestwrong.com/tag/oops)
+- [Motivated skepticism](https://lessestwrong.com/tag/motivated-skepticism), [motivated cognition](https://lessestwrong.com/tag/motivated-reasoning)
+- [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)
+- [Fake simplicity](https://lessestwrong.com/tag/fake-simplicity)
+- [Self-deception](https://lessestwrong.com/tag/self-deception)
+- [Litany of Gendlin](https://lessestwrong.com/tag/litany-of-gendlin)
+- [Occam's Imaginary Razor](https://wiki.lesswrong.com/wiki/Occam's_Imaginary_Razor)
+- [Hope](https://lessestwrong.com/tag/hope), [oops](https://lessestwrong.com/tag/oops)

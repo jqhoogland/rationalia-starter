@@ -39,27 +39,27 @@ Around 2013, many core members of the community stopped posting on Less Wrong, b
 
 Some other prominent ideas to grow out of the lesswrong community (by members of the community's actions) include:
 
-*   [Beeminder](https://www.beeminder.com/)
-*   [Complice](https://complice.co/)
-*   [Mealsquares](http://www.mealsquares.com/)
-*   [[Effective Altruism|Effective altruism]]
-*   [[Slate Star Codex]]
+- [Beeminder](https://www.beeminder.com/)
+- [Complice](https://complice.co/)
+- [Mealsquares](http://www.mealsquares.com/)
+- [[Effective Altruism|Effective altruism]]
+- [[Slate Star Codex]]
 
 Lesswrong is still active and activity can also be found in the diaspora communities:
 
-*   [[List of Blogs]]
-*   [Less Wrong meetup groups](https://www.lesswrong.com/about_meetup_groups)
-*   [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
-*   [Less Wrong users on twitter](http://lesswrong.com/r/discussion/lw/d92/less_wrong_on_twitter/)
-*   [Less Wrong users on tumblr](http://rationalist-masterlist.tumblr.com/post/130139930539/rationalist-masterlist)
-*   Less Wrongers on [Facebook](https://wiki.lesswrong.com/wiki/Facebook) (no one has made a comprehensive list, but [here's Eliezer](https://www.facebook.com/yudkowsky))
+- [[List of Blogs]]
+- [Less Wrong meetup groups](https://www.lesswrong.com/about_meetup_groups)
+- [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
+- [Less Wrong users on twitter](http://lesswrong.com/r/discussion/lw/d92/less_wrong_on_twitter/)
+- [Less Wrong users on tumblr](http://rationalist-masterlist.tumblr.com/post/130139930539/rationalist-masterlist)
+- Less Wrongers on [Facebook](https://wiki.lesswrong.com/wiki/Facebook) (no one has made a comprehensive list, but [here's Eliezer](https://www.facebook.com/yudkowsky))
 
 [Chat](https://wiki.lesswrong.com/wiki/:Category:Chat)
 
-*   [Discord](https://wiki.lesswrong.com/wiki/Discord)
-*   [Less Wrong IRC Chatroom](https://www.lesswrong.com/about_IRC_Chatroom)
-*   [[Slack]]
-*   [Study Hall](https://wiki.lesswrong.com/wiki/Study_Hall)
+- [Discord](https://wiki.lesswrong.com/wiki/Discord)
+- [Less Wrong IRC Chatroom](https://www.lesswrong.com/about_IRC_Chatroom)
+- [[Slack]]
+- [Study Hall](https://wiki.lesswrong.com/wiki/Study_Hall)
 
 ## The view from 2016
 
@@ -67,5 +67,5 @@ As of 2016 the community is far less active than it once was. The forum stands, 
 
 ## See also
 
-*   [A History of the Rationality Community](https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/dloghua/) from [[Scott Alexander]]
-*   [LessWrong analytics (February 2009 to January 2017)](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)
+- [A History of the Rationality Community](https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/dloghua/) from [[Scott Alexander]]
+- [LessWrong analytics (February 2009 to January 2017)](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)

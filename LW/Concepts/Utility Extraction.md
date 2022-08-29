@@ -17,9 +17,9 @@ See also: [Value Learning](/tag/value-learning), [Inverse Reinforcement Learning
 
 Research has focused on three different areas:
 
-*   eliciting the [[Utility Functions|utility function]] based on a database of already elicited utility functions;
-*   iterative reﬁnement of the decision maker’s current utility function using a [value of information](http://lesswrong.com/lw/85x/value_of_information_four_examples/) approach;
-*   eliciting the utility function based on a database of observed behavioral patterns.
+- eliciting the [[Utility Functions|utility function]] based on a database of already elicited utility functions;
+- iterative reﬁnement of the decision maker’s current utility function using a [value of information](http://lesswrong.com/lw/85x/value_of_information_four_examples/) approach;
+- eliciting the utility function based on a database of observed behavioral patterns.
 
 The last approach implies that preferences are reﬂected in the behavior, and that the decision maker is behavioral consistent. As real-world behaviors and decisions are often not consistent, methods based on such assumptions can extract only trivial utility functions.
 
@@ -29,13 +29,13 @@ Another possibility is described in [The Singularity and Machine Ethics](http://
 
 ## Further Reading & References
 
-*   [A brief tutorial on preferences in AI](http://lesswrong.com/lw/a73/a_brief_tutorial_on_preferences_in_ai/) by Luke Muehlhauser
-*   [Learning a decision maker’s utility function from (possibly) inconsistent behavior](http://people.cs.aau.dk/~tdn/papers/nielsen-jensen-04-ai.pdf) by Thomas D. Nielsen and Finn V. Jensen
-*   [The Singularity and Machine Ethics](http://intelligence.org/files/SaME.pdf) by Luke Muehlhauser and Louie Helmis
-*   [Learning What to Value](http://intelligence.org/files/LearningValue.pdf) by Daniel Dewey
+- [A brief tutorial on preferences in AI](http://lesswrong.com/lw/a73/a_brief_tutorial_on_preferences_in_ai/) by Luke Muehlhauser
+- [Learning a decision maker’s utility function from (possibly) inconsistent behavior](http://people.cs.aau.dk/~tdn/papers/nielsen-jensen-04-ai.pdf) by Thomas D. Nielsen and Finn V. Jensen
+- [The Singularity and Machine Ethics](http://intelligence.org/files/SaME.pdf) by Luke Muehlhauser and Louie Helmis
+- [Learning What to Value](http://intelligence.org/files/LearningValue.pdf) by Daniel Dewey
 
 ## See also
 
-*   [[Complexity of Value|Complexity of value]]
-*   [[Utility Functions|Utility function]]
-*   [[Decision Theory|Decision theory]]
+- [[Complexity of Value|Complexity of value]]
+- [[Utility Functions|Utility function]]
+- [[Decision Theory|Decision theory]]

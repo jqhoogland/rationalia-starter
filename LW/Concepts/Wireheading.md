@@ -23,14 +23,14 @@ Wireheading is also an illustration of the complexities of creating a [Friendly 
 
 ## See also
 
-*   [Steve Omohundro's paper, section 4 deals with vulnerabilities to counterfeit utility and wireheading](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)
-*   [Hedonism](https://lessestwrong.com/tag/hedonism)
-*   [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
-*   [Wanting and liking](https://lessestwrong.com/tag/wanting-and-liking)
-*   [Near/far thinking](https://lessestwrong.com/tag/near-far-thinking)
-*   [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
-*   [Abolitionism](https://lessestwrong.com/tag/abolitionism)
+- [Steve Omohundro's paper, section 4 deals with vulnerabilities to counterfeit utility and wireheading](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)
+- [Hedonism](https://lessestwrong.com/tag/hedonism)
+- [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
+- [Wanting and liking](https://lessestwrong.com/tag/wanting-and-liking)
+- [Near/far thinking](https://lessestwrong.com/tag/near-far-thinking)
+- [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
+- [Abolitionism](https://lessestwrong.com/tag/abolitionism)
 
 ## External links
 
-*   [Wirehead Hedonism versus paradise engineering](https://www.hedweb.com/wirehead/index.html) by David Pearce
+- [Wirehead Hedonism versus paradise engineering](https://www.hedweb.com/wirehead/index.html) by David Pearce

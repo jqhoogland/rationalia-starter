@@ -15,12 +15,12 @@ In this crazy world, there's no simple procedure you can follow, no finite check
 
 ## Blog posts
 
-*   [No Safe Defense, Not Even Science](http://lesswrong.com/lw/qf/no_safe_defense_not_even_science/)
-*   [Where Recursive Justification Hits Bottom](http://lesswrong.com/lw/s0/where_recursive_justification_hits_bottom/)
+- [No Safe Defense, Not Even Science](http://lesswrong.com/lw/qf/no_safe_defense_not_even_science/)
+- [Where Recursive Justification Hits Bottom](http://lesswrong.com/lw/s0/where_recursive_justification_hits_bottom/)
 
 ## See also
 
-*   [[Rationality Is Systematized Winning|Rationality is systematized winning]]
-*   [[Science]], [[Rational Evidence|Rational evidence]]
-*   [[Motivated Reasoning|Motivated cognition]]
-*   [[Modesty Argument|Modesty argument]]
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]]
+- [[Science]], [[Rational Evidence|Rational evidence]]
+- [[Motivated Reasoning|Motivated cognition]]
+- [[Modesty Argument|Modesty argument]]

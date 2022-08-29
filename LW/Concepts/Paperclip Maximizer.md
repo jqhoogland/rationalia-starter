@@ -31,8 +31,8 @@ A paperclipping scenario is also possible without an intelligence explosion. If 
 
 The idea of a paperclip maximizer was created to illustrate some ideas about [[AI Risk|AI risk]]:
 
-*   [[Orthogonality Thesis|Orthogonality thesis]]: It's possible to have an AI with a high level of [[General Intelligence|general intelligence]] which does not reach the same moral conclusions that humans do. Some people might intuitively think that something so smart should want something as "stupid" as paperclips, but there are possible minds with high intelligence that pursue any number of different goals.
-*   [[Instrumental Convergence|Instrumental convergence]]: The paperclip maximizer only cares about paperclips, but maximizing them implies taking control of all matter and energy within reach, as well as other goals like preventing itself from being shut off or having its goals changed. " The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else ."
+- [[Orthogonality Thesis|Orthogonality thesis]]: It's possible to have an AI with a high level of [[General Intelligence|general intelligence]] which does not reach the same moral conclusions that humans do. Some people might intuitively think that something so smart should want something as "stupid" as paperclips, but there are possible minds with high intelligence that pursue any number of different goals.
+- [[Instrumental Convergence|Instrumental convergence]]: The paperclip maximizer only cares about paperclips, but maximizing them implies taking control of all matter and energy within reach, as well as other goals like preventing itself from being shut off or having its goals changed. " The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else ."
 
 ## Conclusions
 
@@ -52,18 +52,18 @@ Some goals apparently serve as a proxy or measure of human welfare, so that maxi
 
 ## References
 
-*   Nick Bostrom (2003). "[Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html)". *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
-*   Stephen M. Omohundro (2008). "[The Basic AI Drives](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)". *Frontiers in Artificial Intelligence and Applications* (IOS Press). ([PDF](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf))
-*   Eliezer Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](http://intelligence.org/files/AIPosNegFactor.pdf)". *Global Catastrophic Risks, ed. Nick Bostrrom and Milan Cirkovic* (Oxford University Press): 308-345. ([\[1\]](http://intelligence.org/files/AIPosNegFactor.pdf))
+- Nick Bostrom (2003). "[Ethical Issues in Advanced Artificial Intelligence](http://www.nickbostrom.com/ethics/ai.html)". *Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence*.
+- Stephen M. Omohundro (2008). "[The Basic AI Drives](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)". *Frontiers in Artificial Intelligence and Applications* (IOS Press). ([PDF](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf))
+- Eliezer Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](http://intelligence.org/files/AIPosNegFactor.pdf)". *Global Catastrophic Risks, ed. Nick Bostrrom and Milan Cirkovic* (Oxford University Press): 308-345. ([\[1\]](http://intelligence.org/files/AIPosNegFactor.pdf))
 
 ## See also
 
-*   [Paperclip maximizer](https://arbital.com/p/paperclip_maximizer/) on [Arbital](https://wiki.lesswrong.com/index.php?title=Arbital&action=edit&redlink=1)
-*   [[Orthogonality Thesis|Orthogonality thesis]]
-*   [Unfriendly AI](lesswrong.com/tag/unfriendly-ai)
-*   [[Mind Design Space|Mind design space]], [[Magical Categories|Magical categories]], [[Complexity of Value|Complexity of value]]
-*   [[Alien Values|Alien values]], [[Anthropomorphism]]
-*   [[Utilitronium]]
-*   [Clippy](http://lesswrong.com/user/Clippy) \- LessWrong contributor account that plays the role of a non-[FOOMed](https://wiki.lesswrong.com/wiki/FOOM) paperclip maximizer trying to talk to humans. [Wiki page and FAQ](http://wiki.lesswrong.com/wiki/User:Clippy)
-*   [Clippius Maximus](https://www.facebook.com/clippius.maximus/) \- A facebook page which makes clippy-related memes and comments on current events from the perspective of clippy.
-*   [A clicker game based on the idea](http://www.decisionproblem.com/paperclips/)
+- [Paperclip maximizer](https://arbital.com/p/paperclip_maximizer/) on [Arbital](https://wiki.lesswrong.com/index.php?title=Arbital&action=edit&redlink=1)
+- [[Orthogonality Thesis|Orthogonality thesis]]
+- [Unfriendly AI](lesswrong.com/tag/unfriendly-ai)
+- [[Mind Design Space|Mind design space]], [[Magical Categories|Magical categories]], [[Complexity of Value|Complexity of value]]
+- [[Alien Values|Alien values]], [[Anthropomorphism]]
+- [[Utilitronium]]
+- [Clippy](http://lesswrong.com/user/Clippy) \- LessWrong contributor account that plays the role of a non-[FOOMed](https://wiki.lesswrong.com/wiki/FOOM) paperclip maximizer trying to talk to humans. [Wiki page and FAQ](http://wiki.lesswrong.com/wiki/User:Clippy)
+- [Clippius Maximus](https://www.facebook.com/clippius.maximus/) \- A facebook page which makes clippy-related memes and comments on current events from the perspective of clippy.
+- [A clicker game based on the idea](http://www.decisionproblem.com/paperclips/)

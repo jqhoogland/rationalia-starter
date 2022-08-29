@@ -17,10 +17,10 @@ synchedAt: '2022-08-29T10:48:00.796Z'
 
 ## Blog posts
 
-*   [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/) by [[Eliezer Yudkowsky]]
+- [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/) by [[Eliezer Yudkowsky]]
 
 ## See also
 
-*   [[Third Option|Third option]]
-*   [[Arguments As Soldiers|Arguments as soldiers]]
-*   [[Not Technically A Lie|Not technically a lie]]
+- [[Third Option|Third option]]
+- [[Arguments As Soldiers|Arguments as soldiers]]
+- [[Not Technically A Lie|Not technically a lie]]

@@ -19,9 +19,9 @@ The exact level of detail required for an accurate simulation of a brain's mind 
 
 Several approaches for WBE have been suggested:
 
-*   A brain could be cut into small slices, which would then be scanned into a computer.[^1^](#fn1)
-*   [[Brain-Computer Interfaces|Brain-computer interfaces]] could slowly replace portions of the brain with computers and allow the mind to grow onto a computing substrate.[^2^](#fn2)[^3^](#fn3)
-*   Resources such as personality tests and a person's writings could be used to construct a model of the person.[^4^](#fn4)
+- A brain could be cut into small slices, which would then be scanned into a computer.[^1^](#fn1)
+- [[Brain-Computer Interfaces|Brain-computer interfaces]] could slowly replace portions of the brain with computers and allow the mind to grow onto a computing substrate.[^2^](#fn2)[^3^](#fn3)
+- Resources such as personality tests and a person's writings could be used to construct a model of the person.[^4^](#fn4)
 
 A digitally emulated brain could have several advantages over a biological one[^5^](#fn5). It might be able to run faster than biological brains, copy itself, and take advantage of backups while experimenting with self-modification.
 
@@ -29,28 +29,28 @@ Whole brain emulation will also create a number of ethical challenges relating t
 
 An emulated-brain populated world could hold severe negative consequences, such as:
 
-*   Inherent inability to have consciousness, if some philosophers are right [^7^](#fn7) [^8^](#fn8) [^9^](#fn9) [^10^](#fn10).
-*   Elimination of culture in general, due to an extremely increasing penalty for inefficiency in the form of flamboyant displays [^11^](#fn11)
-*   Near zero costs for reproduction, pushing most of [[Economic Consequences of AGI|emulations to live in a subsistence state]]. [^12^](#fn12)
+- Inherent inability to have consciousness, if some philosophers are right [^7^](#fn7) [^8^](#fn8) [^9^](#fn9) [^10^](#fn10).
+- Elimination of culture in general, due to an extremely increasing penalty for inefficiency in the form of flamboyant displays [^11^](#fn11)
+- Near zero costs for reproduction, pushing most of [[Economic Consequences of AGI|emulations to live in a subsistence state]]. [^12^](#fn12)
 
 ## See Also
 
-*   [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
-*   [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]]
-*   [[Simulation Hypothesis|Simulation hypothesis]]
-*   [[Neuromorphic AI]]
+- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
+- [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]]
+- [[Simulation Hypothesis|Simulation hypothesis]]
+- [[Neuromorphic AI]]
 
 ## External Links
 
-*   [The Singularity is near: When humans transcend biology](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889/) by Ray Kurzweil
-*   [[Brain Emulation Roadmap|Whole Brain Emulation: A Roadmap]]. Report by The Future of Humanity Institute.
-*   [Hans Moravec's Estimation of Human Brain Processing Capacity](http://www.jetpress.org/volume1/moravec.htm)
-*   [A world survey of artificial brain projects, Part I: Large-scale brain simulations](http://www.patternsinthevoid.net/blog/wp-content/uploads/2010/12/2009-A-world-survey-of-artificial-brain-projects-Part1_Large-scale-brain-simulations.pdf) by Hugo de Garis, Chen Shuo, Ben Goertzel and, Lian Ruiting, 2010
-*   [If Uploads Come First: The crack of a future dawn](http://hanson.gmu.edu/uploads.html) by Robin Hanson
-*   [Whole Brain Emulation and the Evolution of Superorganisms](http://intelligence.org/files/WBE-Superorgs.pdf)
-*   [International Journal of Machine Consciousness Special Issue on Mind Uploading](http://wp.goertzel.org/?page_id=368)
-*   [A framework for approaches to transfer of a mind's substrate](http://www.sim.me.uk/neural/JournalArticles/Bamford2012IJMC.pdf) by Sim Bamford
-*   [Coalescing Minds: Brain Uploading-related Group Mind Scenarios](http://www.xuenay.net/Papers/CoalescingMinds.pdf) by Kaj Sotala and Harri Valpola
+- [The Singularity is near: When humans transcend biology](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889/) by Ray Kurzweil
+- [[Brain Emulation Roadmap|Whole Brain Emulation: A Roadmap]]. Report by The Future of Humanity Institute.
+- [Hans Moravec's Estimation of Human Brain Processing Capacity](http://www.jetpress.org/volume1/moravec.htm)
+- [A world survey of artificial brain projects, Part I: Large-scale brain simulations](http://www.patternsinthevoid.net/blog/wp-content/uploads/2010/12/2009-A-world-survey-of-artificial-brain-projects-Part1_Large-scale-brain-simulations.pdf) by Hugo de Garis, Chen Shuo, Ben Goertzel and, Lian Ruiting, 2010
+- [If Uploads Come First: The crack of a future dawn](http://hanson.gmu.edu/uploads.html) by Robin Hanson
+- [Whole Brain Emulation and the Evolution of Superorganisms](http://intelligence.org/files/WBE-Superorgs.pdf)
+- [International Journal of Machine Consciousness Special Issue on Mind Uploading](http://wp.goertzel.org/?page_id=368)
+- [A framework for approaches to transfer of a mind's substrate](http://www.sim.me.uk/neural/JournalArticles/Bamford2012IJMC.pdf) by Sim Bamford
+- [Coalescing Minds: Brain Uploading-related Group Mind Scenarios](http://www.xuenay.net/Papers/CoalescingMinds.pdf) by Kaj Sotala and Harri Valpola
 
 ## References
 

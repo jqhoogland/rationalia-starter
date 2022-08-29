@@ -17,8 +17,8 @@ Journaling can help to remember things in your past - such as special events, be
 
 There are various forms of jounraling:
 
-*   Daily / Non-daily / Irregularly: Most people jounral daily, but journaling can also be done on a different cycle, or irregularly.
-*   Prompts / Free-form / Mixed: Prompts can help you focus on specific things you want to journal about, but may also feel cumbersome for some people or at some times.
-*   Digital / Handwritten / Audio: Classically, of course, journaling was solely handwritten. Today it's also possible to write in a digital format. And it's also possible to keep an audio journal by recording yourself instead of writing.
+- Daily / Non-daily / Irregularly: Most people jounral daily, but journaling can also be done on a different cycle, or irregularly.
+- Prompts / Free-form / Mixed: Prompts can help you focus on specific things you want to journal about, but may also feel cumbersome for some people or at some times.
+- Digital / Handwritten / Audio: Classically, of course, journaling was solely handwritten. Today it's also possible to write in a digital format. And it's also possible to keep an audio journal by recording yourself instead of writing.
 
 **Related Pages:** [[Gratitude]]

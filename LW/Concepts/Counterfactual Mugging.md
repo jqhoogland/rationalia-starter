@@ -41,26 +41,26 @@ In [Two Types of Updatelessness](https://www.lesswrong.com/posts/pneKTZG9KqnSe2R
 
 ## Blog posts
 
-*   [Counterfactual Mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
-*   [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) by [[Eliezer Yudkowsky]]
-*   [Towards a New Decision Theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) by [Wei Dai](http://weidai.com/)
-*   [The sin of updating when you can change whether you exist](http://lesswrong.com/lw/jrm/the_sin_of_updating_when_you_can_change_whether/) by Benya Fallenstein
-*   [Counterfactual Mugging: Why should you Pay?](https://www.lesswrong.com/posts/h9qQQA3g8dwq6RRTo/counterfactual-mugging-why-should-you-pay)\- Question by Chris Leong
+- [Counterfactual Mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
+- [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) by [[Eliezer Yudkowsky]]
+- [Towards a New Decision Theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) by [Wei Dai](http://weidai.com/)
+- [The sin of updating when you can change whether you exist](http://lesswrong.com/lw/jrm/the_sin_of_updating_when_you_can_change_whether/) by Benya Fallenstein
+- [Counterfactual Mugging: Why should you Pay?](https://www.lesswrong.com/posts/h9qQQA3g8dwq6RRTo/counterfactual-mugging-why-should-you-pay)\- Question by Chris Leong
 
 ## External links
 
-*   [Conterfactual Blackmail (of oneself)](http://ordinaryideas.wordpress.com/2011/12/31/counterfactual-blackmail-of-oneself/) by [Paul F. Christiano](http://lesswrong.com/user/paulfchristiano)
-*   [Thoughts on Updatelessness](https://casparoesterheld.com/2016/11/21/thoughts-on-updatelessnes/) by Caspar Oesterheld
+- [Conterfactual Blackmail (of oneself)](http://ordinaryideas.wordpress.com/2011/12/31/counterfactual-blackmail-of-oneself/) by [Paul F. Christiano](http://lesswrong.com/user/paulfchristiano)
+- [Thoughts on Updatelessness](https://casparoesterheld.com/2016/11/21/thoughts-on-updatelessnes/) by Caspar Oesterheld
 
 ## See also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Acausal Trade|Acausal trade]]
-*   [[Newcomb's Problem|Newcomb's problem]]
-*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
-*   [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
-*   [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-*   [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
-*   [[Prisoner's Dilemma|Prisoner's dilemma]]
-*   [[Pascal's Mugging|Pascal's mugging]]
-*   [[Updateless Decision Theory|Updateless decision theory]]
+- [[Decision Theory|Decision theory]]
+- [[Acausal Trade|Acausal trade]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
+- [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
+- [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+- [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Pascal's Mugging|Pascal's mugging]]
+- [[Updateless Decision Theory|Updateless decision theory]]

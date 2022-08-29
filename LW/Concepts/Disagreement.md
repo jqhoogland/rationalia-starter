@@ -21,26 +21,26 @@ Outside of well-functioning [prediction markets](https://lessestwrong.com/tag/pr
 
 ## External Posts
 
-*   [Reasonable Disagreement](http://www.overcomingbias.com/2006/12/reasonable_disa.html) by Nicholas Shackel
-*   [Agreeing to Agree](http://www.overcomingbias.com/2006/12/agreeing_to_agr.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
-*   [You Are Never Entitled to Your Opinion](http://www.overcomingbias.com/2006/12/you_are_never_e.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
-*   [Normative Bayesianism and Disagreement](http://www.overcomingbias.com/2006/12/normative_bayes.html) by Nicholas Shackel
-*   [Disagreement is Near/Far Bias](http://www.overcomingbias.com/2009/01/disagreement-is-nearfar-bias.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
-*   [The Seven Causes of Disagreement](http://www.spencergreenberg.com/2011/12/the-seven-causes-of-disagreement/) by Spencer Greenberg
-*   [How to Disagree](http://www.paulgraham.com/disagree.html) by Paul Graham
+- [Reasonable Disagreement](http://www.overcomingbias.com/2006/12/reasonable_disa.html) by Nicholas Shackel
+- [Agreeing to Agree](http://www.overcomingbias.com/2006/12/agreeing_to_agr.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
+- [You Are Never Entitled to Your Opinion](http://www.overcomingbias.com/2006/12/you_are_never_e.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [Normative Bayesianism and Disagreement](http://www.overcomingbias.com/2006/12/normative_bayes.html) by Nicholas Shackel
+- [Disagreement is Near/Far Bias](http://www.overcomingbias.com/2009/01/disagreement-is-nearfar-bias.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [The Seven Causes of Disagreement](http://www.spencergreenberg.com/2011/12/the-seven-causes-of-disagreement/) by Spencer Greenberg
+- [How to Disagree](http://www.paulgraham.com/disagree.html) by Paul Graham
 
 ## See also
 
-*   [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
-*   [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
-*   [Disagreements on Less Wrong](https://lessestwrong.com/tag/disagreements-on-less-wrong)
-*   [Arguments as soldiers](https://lessestwrong.com/tag/arguments-as-soldiers)
-*   [[Double-Crux]]
-*   [[Conversation (topic)|Conversation]]
+- [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
+- [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
+- [Disagreements on Less Wrong](https://lessestwrong.com/tag/disagreements-on-less-wrong)
+- [Arguments as soldiers](https://lessestwrong.com/tag/arguments-as-soldiers)
+- [[Double-Crux]]
+- [[Conversation (topic)|Conversation]]
 
 ## References
 
 ([PDF](http://hanson.gmu.edu/deceive.pdf), [Talk video](http://www.newmedia.ufm.edu/gsm/index.php?title=Are_Disagreements_Honest%3F))
 
-*   [We Can't Disagree Forever](http://cowles.econ.yale.edu/P/cp/p05b/p0552.pdf) by John Geanakoplos and Heraklis Polemarchakis
-*   [Information, Trade, and Common Knowledge](http://www.kellogg.northwestern.edu/research/math/papers/377.pdf) by Paul Milgrom and Nancy Stokey
+- [We Can't Disagree Forever](http://cowles.econ.yale.edu/P/cp/p05b/p0552.pdf) by John Geanakoplos and Heraklis Polemarchakis
+- [Information, Trade, and Common Knowledge](http://www.kellogg.northwestern.edu/research/math/papers/377.pdf) by Paul Milgrom and Nancy Stokey

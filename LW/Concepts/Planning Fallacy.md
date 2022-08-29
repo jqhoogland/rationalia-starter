@@ -23,11 +23,11 @@ When possible, take the [[Inside/Outside View|outside view]]. Avoid estimating t
 
 ## Blog posts
 
-*   [Planning Fallacy](http://lesswrong.com/lw/jg/planning_fallacy/)
-*   [Surface Analogies and Deep Causes](http://lesswrong.com/lw/rj/surface_analogies_and_deep_causes/)
+- [Planning Fallacy](http://lesswrong.com/lw/jg/planning_fallacy/)
+- [Surface Analogies and Deep Causes](http://lesswrong.com/lw/rj/surface_analogies_and_deep_causes/)
 
 ## See also
 
-*   [[Inside/Outside View|Outside view]]
-*   [[Near/Far Thinking|Near/far thinking]]
-*   [[Forecast]]
+- [[Inside/Outside View|Outside view]]
+- [[Near/Far Thinking|Near/far thinking]]
+- [[Forecast]]

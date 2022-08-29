@@ -33,17 +33,17 @@ The historical fiasco of group selectionism is relied on as a (clear-cut) case i
 
 ## Main posts
 
-*   [Evolving to Extinction](http://lesswrong.com/lw/l5/evolving_to_extinction/)
-*   [The Tragedy of Group Selectionism](http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/)
+- [Evolving to Extinction](http://lesswrong.com/lw/l5/evolving_to_extinction/)
+- [The Tragedy of Group Selectionism](http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/)
 
 ## Other posts
 
-*   [Conjuring An Evolution To Serve You](http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)
-*   [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/)
-*   [Contaminated by Optimism](http://lesswrong.com/lw/su/contaminated_by_optimism/)
-*   [A Failed Just-So Story](http://lesswrong.com/lw/mk/a_failed_justso_story/)
-*   [Group selection update](http://lesswrong.com/lw/300/group_selection_update/)
+- [Conjuring An Evolution To Serve You](http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)
+- [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/)
+- [Contaminated by Optimism](http://lesswrong.com/lw/su/contaminated_by_optimism/)
+- [A Failed Just-So Story](http://lesswrong.com/lw/mk/a_failed_justso_story/)
+- [Group selection update](http://lesswrong.com/lw/300/group_selection_update/)
 
 ## External links
 
-*   [The False Allure of Group Selection](http://edge.org/conversation/the-false-allure-of-group-selection) by [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker)
+- [The False Allure of Group Selection](http://edge.org/conversation/the-false-allure-of-group-selection) by [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker)

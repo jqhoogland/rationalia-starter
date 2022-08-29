@@ -15,13 +15,13 @@ To form accurate [[Belief|beliefs]] about something, you _really_ do have to obs
 
 ## Blog posts
 
-*   [The Second Law of Thermodynamics, and Engines of Cognition](http://lesswrong.com/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)
-*   [What is Evidence?](http://lesswrong.com/lw/jl/what_is_evidence/)
-*   [The Parable of the Dagger](http://lesswrong.com/lw/ne/the_parable_of_the_dagger/)
+- [The Second Law of Thermodynamics, and Engines of Cognition](http://lesswrong.com/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)
+- [What is Evidence?](http://lesswrong.com/lw/jl/what_is_evidence/)
+- [The Parable of the Dagger](http://lesswrong.com/lw/ne/the_parable_of_the_dagger/)
 
 ## See also
 
-*   [[Evidence]]
-*   [[Belief Update|Belief update]]
-*   [[Belief In Belief|Belief in belief]]
-*   [[Free-Floating Belief|Free-floating belief]]
+- [[Evidence]]
+- [[Belief Update|Belief update]]
+- [[Belief In Belief|Belief in belief]]
+- [[Free-Floating Belief|Free-floating belief]]

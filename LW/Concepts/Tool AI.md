@@ -19,8 +19,8 @@ Eliezer Yudkowsky responded to this by enumerating several ways in which tool AI
 
 ## **See Also**
 
-*   [[Oracle AI]]
+- [[Oracle AI]]
 
 ## **External Links**
 
-*   [Conversation between Holden Karnofsky and Jaan Tallinn](http://groups.yahoo.com/group/givewell/message/287)
+- [Conversation between Holden Karnofsky and Jaan Tallinn](http://groups.yahoo.com/group/givewell/message/287)

@@ -15,14 +15,14 @@ synchedAt: '2022-08-29T10:48:04.436Z'
 
 ## Blog posts
 
-*   ["I don't know."](http://lesswrong.com/lw/gs/i_dont_know/)
-*   [The Sin of Underconfidence](http://lesswrong.com/lw/c3/the_sin_of_underconfidence/)
-*   [The Importance of Self-Doubt](http://lesswrong.com/lw/2lr/the_importance_of_selfdoubt/) by multifoliaterose
+- ["I don't know."](http://lesswrong.com/lw/gs/i_dont_know/)
+- [The Sin of Underconfidence](http://lesswrong.com/lw/c3/the_sin_of_underconfidence/)
+- [The Importance of Self-Doubt](http://lesswrong.com/lw/2lr/the_importance_of_selfdoubt/) by multifoliaterose
 
 ## See also
 
-*   [[Overconfidence]]
-*   [[Humility|Modesty]]
-*   [[Fallacy of Gray|Fallacy of gray]]
-*   [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
-*   [[Motivated Skepticism|Motivated skepticism]]
+- [[Overconfidence]]
+- [[Humility|Modesty]]
+- [[Fallacy of Gray|Fallacy of gray]]
+- [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
+- [[Motivated Skepticism|Motivated skepticism]]

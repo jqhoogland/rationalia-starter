@@ -19,14 +19,14 @@ An example of anti-epistemology run riot would be New Ageism: The concept of "fa
 
 ## Blog posts
 
-*   [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
-*   [The Sacred Mundane](http://lesswrong.com/lw/57/the_sacred_mundane/)
+- [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
+- [The Sacred Mundane](http://lesswrong.com/lw/57/the_sacred_mundane/)
 
 ## See also
 
-*   [[Rationality]]
-*   [[Semantic Stopsign|Semantic stopsign]], [[Self-Deception|Self-deception]]
-*   [[Improper Belief|Improper belief]]
-*   [[Logical Rudeness|Logical rudeness]]
-*   [[Privileging The Hypothesis|Privileging the hypothesis]], [[Rationalization]]
-*   [[Affective Death Spiral|Affective death spiral]]
+- [[Rationality]]
+- [[Semantic Stopsign|Semantic stopsign]], [[Self-Deception|Self-deception]]
+- [[Improper Belief|Improper belief]]
+- [[Logical Rudeness|Logical rudeness]]
+- [[Privileging The Hypothesis|Privileging the hypothesis]], [[Rationalization]]
+- [[Affective Death Spiral|Affective death spiral]]

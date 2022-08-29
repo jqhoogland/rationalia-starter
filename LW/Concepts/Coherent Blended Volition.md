@@ -27,11 +27,11 @@ Another major problem with the original CEV definition is that it assumes that h
 
 ## Further Reading & References
 
-*   Fauconnier, Gilles and Mark Turner. (2002). [The way we think: Conceptual blending and the mind’s hidden complexities.](http://gen.lib.rus.ec/book/index.php?md5=5AEA11CE62C01CD5FD1F7E17C4B283ED) New York: Basic Books.
-*   [Nine Ways to Bias Open-Source AGI Toward Friendliness](http://jetpress.org/v22/goertzel-pitt.htm) by Goertzel and Pitt
-*   [Uber responds to vTaiwan’s coherent blended volition](http://blog.pol.is/vtaiwan-uberx/) by Audrey Tang
+- Fauconnier, Gilles and Mark Turner. (2002). [The way we think: Conceptual blending and the mind’s hidden complexities.](http://gen.lib.rus.ec/book/index.php?md5=5AEA11CE62C01CD5FD1F7E17C4B283ED) New York: Basic Books.
+- [Nine Ways to Bias Open-Source AGI Toward Friendliness](http://jetpress.org/v22/goertzel-pitt.htm) by Goertzel and Pitt
+- [Uber responds to vTaiwan’s coherent blended volition](http://blog.pol.is/vtaiwan-uberx/) by Audrey Tang
 
 ## See also
 
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-*   [[Coherent Extrapolated Volition]]
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [[Coherent Extrapolated Volition]]

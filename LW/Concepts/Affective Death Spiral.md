@@ -17,18 +17,18 @@ The same process can also occur with negative beliefs instead of positive, leadi
 
 ## Blog posts
 
-*   [Affective Death Spirals](http://lesswrong.com/lw/lm/affective_death_spirals/)
-*   [Resist the Happy Death Spiral](http://lesswrong.com/lw/ln/resist_the_happy_death_spiral/)
-*   [When None Dare Urge Restraint](http://lesswrong.com/lw/ls/when_none_dare_urge_restraint/)
-*   [Every Cause Wants To Be A Cult](http://lesswrong.com/lw/lv/every_cause_wants_to_be_a_cult/)
-*   [Guardians of the Truth](http://lesswrong.com/lw/lz/guardians_of_the_truth/)
-*   [Guardians of Ayn Rand](http://lesswrong.com/lw/m1/guardians_of_ayn_rand/)
-*   [Evaporative Cooling of Group Beliefs](http://lesswrong.com/lw/lr/evaporative_cooling_of_group_beliefs/)
+- [Affective Death Spirals](http://lesswrong.com/lw/lm/affective_death_spirals/)
+- [Resist the Happy Death Spiral](http://lesswrong.com/lw/ln/resist_the_happy_death_spiral/)
+- [When None Dare Urge Restraint](http://lesswrong.com/lw/ls/when_none_dare_urge_restraint/)
+- [Every Cause Wants To Be A Cult](http://lesswrong.com/lw/lv/every_cause_wants_to_be_a_cult/)
+- [Guardians of the Truth](http://lesswrong.com/lw/lz/guardians_of_the_truth/)
+- [Guardians of Ayn Rand](http://lesswrong.com/lw/m1/guardians_of_ayn_rand/)
+- [Evaporative Cooling of Group Beliefs](http://lesswrong.com/lw/lr/evaporative_cooling_of_group_beliefs/)
 
 ## See also
 
-*   [[Affect Heuristic|Affect heuristic]], [[Halo Effect|Halo effect]], [[Motivated Skepticism|Motivated skepticism]]
-*   [[Information Cascades|Information cascade]], [[Groupthink]]
-*   [[In-Group Bias|In-group bias]]
-*   [[Religion]]
-*   [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]
+- [[Affect Heuristic|Affect heuristic]], [[Halo Effect|Halo effect]], [[Motivated Skepticism|Motivated skepticism]]
+- [[Information Cascades|Information cascade]], [[Groupthink]]
+- [[In-Group Bias|In-group bias]]
+- [[Religion]]
+- [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]

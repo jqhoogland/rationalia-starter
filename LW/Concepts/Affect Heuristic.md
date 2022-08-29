@@ -15,7 +15,7 @@ The **affect heuristic** is a principle for making fast, perceptual judgments ba
 
 ## See also
 
-*   [[Halo Effect|Halo effect]]
-*   [[Priming]]
-*   [[Connotation]]
-*   [[Affective Death Spiral|Affective death spiral]]
+- [[Halo Effect|Halo effect]]
+- [[Priming]]
+- [[Connotation]]
+- [[Affective Death Spiral|Affective death spiral]]

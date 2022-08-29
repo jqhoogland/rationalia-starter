@@ -25,11 +25,11 @@ One way to think mathematically about optimization, like [[Amount of Evidence|ev
 
 ## Further Reading & References
 
-*   [Optimization and the Singularity](https://www.lesswrong.com/lw/rk/optimization_and_the_singularity/) by Eliezer Yudkowsky
-*   [Measuring Optimization Power](https://www.lesswrong.com/lw/va/measuring_optimization_power/) by Eliezer Yudkowsky
+- [Optimization and the Singularity](https://www.lesswrong.com/lw/rk/optimization_and_the_singularity/) by Eliezer Yudkowsky
+- [Measuring Optimization Power](https://www.lesswrong.com/lw/va/measuring_optimization_power/) by Eliezer Yudkowsky
 
 ## See also
 
-*   [[Preference]]
-*   [[Really Powerful Optimization Process|Really powerful optimization process]]
-*   [[Control Theory|Control theory]]
+- [[Preference]]
+- [[Really Powerful Optimization Process|Really powerful optimization process]]
+- [[Control Theory|Control theory]]

@@ -17,11 +17,11 @@ In Newcomb's Problem, an FDT agent reasons that Omega must have used some kind o
 
 **External links:**
 
-*   [Functional decision theory: A new theory of instrumental rationality](https://intelligence.org/2017/10/22/fdt)
-*   [Cheating Death in Damascus](https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/)
-*   [Decisions are for making bad outcomes inconsistent](https://intelligence.org/2017/04/07/decisions-are-for-making-bad-outcomes-inconsistent/)
+- [Functional decision theory: A new theory of instrumental rationality](https://intelligence.org/2017/10/22/fdt)
+- [Cheating Death in Damascus](https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/)
+- [Decisions are for making bad outcomes inconsistent](https://intelligence.org/2017/04/07/decisions-are-for-making-bad-outcomes-inconsistent/)
 
 **See Also:**
 
-*   [[Timeless Decision Theory]]
-*   [[Updateless Decision Theory]]
+- [[Timeless Decision Theory]]
+- [[Updateless Decision Theory]]

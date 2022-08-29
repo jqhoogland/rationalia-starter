@@ -15,10 +15,10 @@ synchedAt: '2022-08-29T11:13:27.053Z'
 
 ## Blog posts
 
-*   [Shut Up And Guess](http://lesswrong.com/lw/13i/shut_up_and_guess/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Shut Up And Guess](http://lesswrong.com/lw/13i/shut_up_and_guess/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## See also
 
-*   [[Prospect Theory|Prospect theory]]
-*   [Risk aversion](https://wiki.lesswrong.com/wiki/Risk_aversion)
-*   [[Sunk-Cost Fallacy|Sunk cost fallacy]]
+- [[Prospect Theory|Prospect theory]]
+- [Risk aversion](https://wiki.lesswrong.com/wiki/Risk_aversion)
+- [[Sunk-Cost Fallacy|Sunk cost fallacy]]

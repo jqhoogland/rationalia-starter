@@ -17,11 +17,11 @@ Considering some event a black swan doesn't give a leave to not assign any proba
 
 ## External posts:
 
-*   [White Swans Painted Black](http://www.overcomingbias.com/2008/09/white-swans-p-1.html) by Peter McCluskey
+- [White Swans Painted Black](http://www.overcomingbias.com/2008/09/white-swans-p-1.html) by Peter McCluskey
 
 ## See also
 
-*   [[Narrative Fallacy|Narrative fallacy]]
-*   [[Hindsight Bias|Hindsight bias]]
-*   [I don't know](https://www.lesswrong.com/tag/i-dont-know)
-*   [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Forecast|forecast]]
+- [[Narrative Fallacy|Narrative fallacy]]
+- [[Hindsight Bias|Hindsight bias]]
+- [I don't know](https://www.lesswrong.com/tag/i-dont-know)
+- [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Forecast|forecast]]

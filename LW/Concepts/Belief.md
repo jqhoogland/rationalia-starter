@@ -15,17 +15,17 @@ synchedAt: '2022-08-29T11:09:25.990Z'
 
 ## Blog posts
 
-*   [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)
-*   [Is That Your True Rejection?](http://lesswrong.com/lw/wj/is_that_your_true_rejection/)
+- [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)
+- [Is That Your True Rejection?](http://lesswrong.com/lw/wj/is_that_your_true_rejection/)
 
 ## See also
 
-*   [[Alief]]
-*   [[Belief Update|Belief update]]
-*   [[Belief In Belief|Belief in belief]]
-*   [[Beliefs Require Observations|Beliefs require observations]]
-*   [[Making Beliefs Pay Rent|Making beliefs pay rent]]
+- [[Alief]]
+- [[Belief Update|Belief update]]
+- [[Belief In Belief|Belief in belief]]
+- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
 
 ## References
 
-*   Dennett, Daniel C. (2006). Breaking the Spell. New York: Viking. ISBN 067003472X.
+- Dennett, Daniel C. (2006). Breaking the Spell. New York: Viking. ISBN 067003472X.

@@ -37,16 +37,16 @@ More possible limitations and problems with using the outside view are discussed
 
 ## External Posts
 
-*   [Beware the Inside View](http://www.overcomingbias.com/2007/07/beware-the-insi.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [Beware the Inside View](http://www.overcomingbias.com/2007/07/beware-the-insi.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
 
 ## See Also
 
-*   [Planning fallacy](https://lessestwrong.com/tag/planning-fallacy)
-*   [[Modest Epistemology]]
-*   [Near/far thinking](https://lessestwrong.com/tag/near-far-thinking)
-*   [Connotation](https://lessestwrong.com/tag/connotation), [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
-*   [Arguing by analogy](https://lessestwrong.com/tag/arguing-by-analogy)
-*   [Intelligence explosion](https://lessestwrong.com/tag/intelligence-explosion), [The Hanson-Yudkowsky AI-Foom Debate](https://lessestwrong.com/tag/the-hanson-yudkowsky-ai-foom-debate)
+- [Planning fallacy](https://lessestwrong.com/tag/planning-fallacy)
+- [[Modest Epistemology]]
+- [Near/far thinking](https://lessestwrong.com/tag/near-far-thinking)
+- [Connotation](https://lessestwrong.com/tag/connotation), [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
+- [Arguing by analogy](https://lessestwrong.com/tag/arguing-by-analogy)
+- [Intelligence explosion](https://lessestwrong.com/tag/intelligence-explosion), [The Hanson-Yudkowsky AI-Foom Debate](https://lessestwrong.com/tag/the-hanson-yudkowsky-ai-foom-debate)
 
 \[1\] Buehler, R., Griffin, D., & Ross, M. 2002. Inside the planning fallacy: The causes and consequences of optimistic time predictions. Heuristics and biases: The psychology of intuitive judgment, 250-270. Cambridge, UK: Cambridge University Press.
 

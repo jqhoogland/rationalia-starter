@@ -15,11 +15,11 @@ synchedAt: '2022-08-29T11:06:07.507Z'
 
 ## Blog posts
 
-*   [The Wonder of Evolution](http://lesswrong.com/lw/ks/the_wonder_of_evolution/)
-*   [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/)
-*   [Conjuring an Evolution to Serve You](http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)
+- [The Wonder of Evolution](http://lesswrong.com/lw/ks/the_wonder_of_evolution/)
+- [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/)
+- [Conjuring an Evolution to Serve You](http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)
 
 ## See also
 
-*   [[Evolution]], [[Evolution As Alien God|evolution as alien god]]
-*   [[Optimization|Optimization process]]
+- [[Evolution]], [[Evolution As Alien God|evolution as alien god]]
+- [[Optimization|Optimization process]]

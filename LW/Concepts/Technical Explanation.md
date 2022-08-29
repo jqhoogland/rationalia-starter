@@ -17,13 +17,13 @@ Technical explanations are contrasted with verbal explanations, which give the i
 
 ## Blog posts
 
-*   [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
+- [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
 
 ## See also
 
-*   [[Making Beliefs Pay Rent|Making beliefs pay rent]]
-*   [[Beliefs Require Observations|Beliefs require observations]]
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
+- [[Beliefs Require Observations|Beliefs require observations]]
 
 ## References
 
-*   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
+- [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
