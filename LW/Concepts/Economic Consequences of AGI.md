@@ -11,7 +11,7 @@ synchedAt: '2022-08-29T10:47:39.152Z'
 ---
 # Economic Consequences of AGI
 
-The **economic consequences of** [[Artificial General Intelligence|**artificial general intelligence**]] arise from their fundamentally new properties compared to the human brains currently driving the economy. Once such digital minds become generally intelligent enough to perform a wide range of economic functions, they are likely to bring radical changes, creating great wealth, but also displacing humans out of more and more types of job.
+The **economic consequences of** **[[Artificial General Intelligence|artificial general intelligence]]** arise from their fundamentally new properties compared to the human brains currently driving the economy. Once such digital minds become generally intelligent enough to perform a wide range of economic functions, they are likely to bring radical changes, creating great wealth, but also displacing humans out of more and more types of job.
 
 An important aspect of the question is that of economic growth. The invention of AGI or WBE could cause a sudden increase in growth by adding machine intelligence to the pool of human innovators. Machine intelligence could be much cheaper to produce, faster, and qualitatively smarter than human talent. A [[Intelligence Explosion|feedback loop]] from better machine intelligence technology, to more and better machine researchers, back to better machine intelligence technology could ensue.
 

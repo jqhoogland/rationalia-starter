@@ -11,7 +11,7 @@ synchedAt: '2022-08-29T11:05:46.653Z'
 ---
 # Friendly Artificial Intelligence
 
-*Note for readers: the last substantial update of the content below dates back to 2014 and is severely outdated. The term of "friendly AI" is no longer used by current research, replaced by "*[[AI|*AI alignment*]]*" from around 2015. This new term is also the subject of much debate.*
+*Note for readers: the last substantial update of the content below dates back to 2014 and is severely outdated. The term of "friendly AI" is no longer used by current research, replaced by "**[[AI|AI alignment]]**" from around 2015. This new term is also the subject of much debate.*
 
 A **Friendly Artificial Intelligence** (**Friendly AI**, or **FAI**) is a [[Superintelligence|superintelligence]] (i.e., a [[Really Powerful Optimization Process|really powerful optimization process]]) that produces good, beneficial outcomes rather than harmful ones. The term was coined by Eliezer Yudkowsky, so it is frequently associated with Yudkowsky's proposals for how an [[Artificial General Intelligence|artificial general intelligence]] (AGI) of this sort would behave.
 

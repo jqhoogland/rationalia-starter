@@ -11,11 +11,11 @@ synchedAt: '2022-08-29T11:12:32.956Z'
 ---
 # Mere Reality
 
-***Mere Reality*** is the fourth book contained in the ebook [[Rationality: From AI To Zombies|*Rationality: From AI to Zombies*]], by Eliezer Yudkowsky. It focuses on practical and philosophical questions related to science and the character of physical law.
+***Mere Reality*** is the fourth book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It focuses on practical and philosophical questions related to science and the character of physical law.
 
 *Mere Reality* contains six sequences of thematically connected essays, plus the stand-alone essay [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical/). These are all collected in the *Rationality: From AI to Zombies* ebook, but the essay names below also link to the original blog posts.
 
-The previous book in the series is [[The Machine In The Ghost|*The Machine in the Ghost*]], and the next book is [[Mere Goodness|*Mere Goodness*]].
+The previous book in the series is *[[The Machine In The Ghost|The Machine in the Ghost]]*, and the next book is *[[Mere Goodness|Mere Goodness]]*.
 
 **O. Lawful Truth**
 -------------------

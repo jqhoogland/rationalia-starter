@@ -17,7 +17,7 @@ synchedAt: '2022-08-29T11:09:58.320Z'
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) on the various ways that politics damages our sanity - including, of course, making it harder to change our minds on political issues.
 
-*This page is about Eliezer Yudkowsky's sequence. For ongoing discussion of these issues at LW Wiki, see* [[Mind-Killer|*Mind-killer*]] *and* [[Blues & Greens (metaphor)|*Color politics*]]*.*
+*This page is about Eliezer Yudkowsky's sequence. For ongoing discussion of these issues at LW Wiki, see* *[[Mind-Killer|Mind-killer]]* *and* *[[Blues & Greens (metaphor)|Color politics]]**.*
 
 Blog posts
 ----------

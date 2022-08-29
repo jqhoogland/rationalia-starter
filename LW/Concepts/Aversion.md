@@ -22,7 +22,7 @@ Ugh fields
 
 Aversions make us less likely to engage in "activities," and as Scott Alexander's (2011) [Physical and Mental Behavior](https://www.lesswrong.com/posts/5dhWhjfxn4tPfFQdi/physical-and-mental-behavior) notes, this includes mental as well as physical activities. Pavlovian conditioning can cause humans to unconsciously flinch from even thinking about a serious personal problem they have.
 
-Writing in 2010, Roko introduced the term [[Ugh Fields|**ugh field**]] to refer to this problem: 
+Writing in 2010, Roko introduced the term **[[Ugh Fields|ugh field]]** to refer to this problem: 
 
 > If you fail or are punished sufficiently many times in some problem area, and acting in that area is always \[preceded\] by thinking about it, your brain will propagate the psychological pain right back to the moment you first begin to entertain a thought about the problem, and hence cut your conscious optimizing ability right out of the loop.
 > 

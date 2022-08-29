@@ -22,13 +22,13 @@ Rationality: From AI to Zombies
 
 [*Rationality: From AI to Zombies*](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies) cover image.
 
-[[Rationality: From AI To Zombies|*Rationality: From AI to Zombies*]] is an ebook collecting six books worth of essays on the science and philosophy of human rationality. It's one of the best places to start for people who want to better understand topics that crop up on *Less Wrong*, such as cognitive bias, the map-territory distinction, meta-ethics, and existential risk.
+*[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]* is an ebook collecting six books worth of essays on the science and philosophy of human rationality. It's one of the best places to start for people who want to better understand topics that crop up on *Less Wrong*, such as cognitive bias, the map-territory distinction, meta-ethics, and existential risk.
 
 The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.org](https://intelligence.org/rationality-ai-zombies). Its six books in turn break down into twenty-six sections:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*   Book I: [[Map and Territory|***Map and Territory***]]. An introduction to the Bayesian concept of rational belief.
+*   Book I: ***[[Map and Territory|Map and Territory]]***. An introduction to the Bayesian concept of rational belief.
     *   A. Predictably Wrong
     *   B. Fake Beliefs
     *   C. Noticing Confusion
@@ -36,7 +36,7 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*   Book II: [[How To Actually Change Your Mind|***How to Actually Change Your Mind***]]. A guide to noticing motivated reasoning and overcoming confirmation bias.
+*   Book II: ***[[How To Actually Change Your Mind|How to Actually Change Your Mind]]***. A guide to noticing motivated reasoning and overcoming confirmation bias.
     *   E. Overly Convenient Excuses
     *   F. Politics and Rationality
     *   G. Against Rationalization
@@ -47,14 +47,14 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*   Book III: [[The Machine In The Ghost|***The Machine in the Ghost***]]. Essays on the general topic of minds, goals, and concepts.
+*   Book III: ***[[The Machine In The Ghost|The Machine in the Ghost]]***. Essays on the general topic of minds, goals, and concepts.
     *   L. The Simple Math of Evolution
     *   M. Fragile Purposes
     *   N. A Human's Guide to Words
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*   Book IV: [[Mere Reality|***Mere Reality***]]. Essays on science and the physical world.
+*   Book IV: ***[[Mere Reality|Mere Reality]]***. Essays on science and the physical world.
     *   O. Lawful Truth
     *   P. Reductionism 101
     *   Q. Joy in the Merely Real
@@ -64,14 +64,14 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*   Book V: [[Mere Goodness|***Mere Goodness***]]. A discussion of ethics, and of things people value in general.
+*   Book V: ***[[Mere Goodness|Mere Goodness]]***. A discussion of ethics, and of things people value in general.
     *   U. Fake Preferences
     *   V. Value Theory
     *   W. Quantified Humanism
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*   Book VI: [[Becoming Stronger|***Becoming Stronger***]]. Essays on self-improvement, group rationality, and rationality groups.
+*   Book VI: ***[[Becoming Stronger|Becoming Stronger]]***. Essays on self-improvement, group rationality, and rationality groups.
     *   X. Yudkowsky's Coming of Age
     *   Y. Challenging the Difficult
     *   Z. The Craft and the Community
@@ -81,7 +81,7 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 Other sequences by Eliezer Yudkowsky
 ------------------------------------
 
-The following collections of essays come from the [[Original Sequences|**original sequences**]], an earlier version of much of the material from *Rationality: From AI to Zombies*:
+The following collections of essays come from the **[[Original Sequences|original sequences]]**, an earlier version of much of the material from *Rationality: From AI to Zombies*:
 
 *   [Ethical Injunctions](https://wiki.lesswrong.com/wiki/Ethical_Injunctions): A discussion of prohibitions you may want to follow even when you've thought of a clever reason to think they don't apply.
 *   [[Metaethics Sequence|The Metaethics Sequence]]: A longer version of "Value Theory", discussing the apparent "arbitrariness" of human morality.
@@ -90,12 +90,12 @@ The following collections of essays come from the [[Original Sequences|**origina
 
 Other collections from the same time period (2006-2009) include:
 
-*   [[The Hanson-Yudkowsky AI-Foom Debate|**The Hanson-Yudkowsky AI-Foom Debate**]]: A blog conversation between Eliezer Yudkowsky and Robin Hanson on the topic of [[Intelligence Explosion|intelligence explosion]] and how concerned we should be about superintelligent AI.
-*   [[Free Will (Solution)|**Free Will**]]: Yudkowsky's answer to a challenge he raises in *Rationality: From AI to Zombies* to come up with an explanation for the human *feeling* that we have free will.
+*   **[[The Hanson-Yudkowsky AI-Foom Debate|The Hanson-Yudkowsky AI-Foom Debate]]**: A blog conversation between Eliezer Yudkowsky and Robin Hanson on the topic of [[Intelligence Explosion|intelligence explosion]] and how concerned we should be about superintelligent AI.
+*   **[[Free Will (Solution)|Free Will]]**: Yudkowsky's answer to a challenge he raises in *Rationality: From AI to Zombies* to come up with an explanation for the human *feeling* that we have free will.
 
 Yudkowsky has also written a more recent sequence:
 
-*   [[Highly Advanced Epistemology 101 For Beginners|**Highly Advanced Epistemology 101 for Beginners**]]. These essays include a discussion of truth, formal logic, causality, and metaethics, and are a good way for more ambitious readers to quickly get up to speed.
+*   **[[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]**. These essays include a discussion of truth, formal logic, causality, and metaethics, and are a good way for more ambitious readers to quickly get up to speed.
 
 Sequences by others
 -------------------

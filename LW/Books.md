@@ -1,14 +1,27 @@
 # Books
 
-```dataviewjs
-const getCollection = (id) => dv.pages("#Collection").where(c => c._id === id).first();
+## [[Best of LessWrong]]
 
-// This can match "#Book Review" as well.
-for (let group of dv.pages("#Book").where(p => p.tags.includes("Book")).groupBy(p => getCollection(p.collectionId)?.title) ?? "Miscellaneous") {
-	dv.header(3, group.key);
-	dv.table([],
-		group.rows
-			.sort(k => k.number, 'desc')
-			.map(k => [k.file.link]))
-}
-```
+- [[A Map That Reflects the Territory]]
+- [[The Carving of Reality]]
+- [[The Engines of Cognition]]
+
+## [[Highlights from the Sequences]]
+
+- [[Highlights from the Sequences (Book)]]
+- [[Further Reading (Highlights)]]
+
+## [[Rationality— A-Z]]
+
+- [[Map and Territory]]
+- [[How to Actually Change Your Mind]]
+- [[The Machine in the Ghost]]
+- [[Mere Reality]]
+- [[Mere Goodness]]
+- [[Becoming Stronger]]
+
+## [[The Codex]]
+
+- [[Designing the World]]
+- [[Good and Bad Reasoning]]
+- [[The Institution of Science]]

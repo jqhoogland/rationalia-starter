@@ -100,7 +100,6 @@ export const loadSequences = async () => {
 
 export const sequencesToMD = async () => {
     for (const sequence of db.sequences) {
-        // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
         if (!sequence.title || sequence.chapters.length === 0) {
             continue
         }
@@ -108,14 +107,14 @@ export const sequencesToMD = async () => {
         mdFile += getFrontmatter(sequence, ['_id', 'title'], {type: "sequence", tags: ["LessWrong", "Sequence"]})
         mdFile += "\n\n"
         mdFile += await fixLinks(sequence.contents?.markdown ? sequence.contents?.markdown + "\n\n" : "");
-        mdFile += "# Chapters\n\n"
-        mdFile += sequence.chapters.map(chapter => `## ${fixTitle(chapter.title ?? sequence.title)}\n\n` + chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")).join("\n\n\n")
+        mdFile += "## Chapters\n\n"
+        mdFile += sequence.chapters.map(chapter => `### ${fixTitle(chapter.title ?? sequence.title)}\n\n` + chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")).join("\n\n\n")
 
-        const name = fixTitle(sequence.title);
+        const name = fixTitle(sequence.title) + " (Sequence)";
 
 
         fs.writeFileSync(`../LW/Sequences/${name}.md`, mdFile)
     }
 }
 
-// await sequencesToMD()
+await sequencesToMD()

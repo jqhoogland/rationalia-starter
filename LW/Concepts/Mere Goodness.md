@@ -11,11 +11,11 @@ synchedAt: '2022-08-29T11:13:12.528Z'
 ---
 # Mere Goodness
 
-***Mere Goodness*** is the fifth book contained in the ebook [[Rationality: From AI To Zombies|*Rationality: From AI to Zombies*]], by Eliezer Yudkowsky. It focuses on the relationship between moral theory and moral practice.
+***Mere Goodness*** is the fifth book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It focuses on the relationship between moral theory and moral practice.
 
 *Mere Goodness* contains three sequences of essays, along with the stand-alone essay [Twelve Virtues of Rationality](http://www.yudkowsky.net/rational/virtues/). These are all collected in the *Rationality: From AI to Zombies* ebook, but the essay names below are also linked to the original blog posts.
 
-The previous book in the series is [[Mere Reality|*Mere Reality*]], and the next (and final) is [[Becoming Stronger|*Becoming Stronger*]].
+The previous book in the series is *[[Mere Reality|Mere Reality]]*, and the next (and final) is *[[Becoming Stronger|Becoming Stronger]]*.
 
 **U. Fake Preferences**
 -----------------------

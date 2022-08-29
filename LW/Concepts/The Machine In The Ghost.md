@@ -11,11 +11,11 @@ synchedAt: '2022-08-29T11:11:28.540Z'
 ---
 # The Machine In The Ghost
 
-***The Machine in the Ghost*** is the third book contained in the ebook [[Rationality: From AI To Zombies|*Rationality: From AI to Zombies*]], by Eliezer Yudkowsky. It covers topics related to cognition, concepts, and the general notion of goal-oriented behavior.
+***The Machine in the Ghost*** is the third book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It covers topics related to cognition, concepts, and the general notion of goal-oriented behavior.
 
 *The Machine in the Ghost* contains three sequences of thematically connected essays, plus the stand-alone essay [An Intuitive Explanation of Bayes's Theorem](http://www.yudkowsky.net/rational/bayes). These are all collected in the *Rationality: From AI to Zombies* ebook, but the essay names below also link to the original blog posts.
 
-The previous book in the series is [[How To Actually Change Your Mind|*How to Actually Change Your Mind*]], and the next book is [[Mere Reality|*Mere Reality*]].
+The previous book in the series is *[[How To Actually Change Your Mind|How to Actually Change Your Mind]]*, and the next book is *[[Mere Reality|Mere Reality]]*.
 
 L. The Simple Math of Evolution
 ===============================

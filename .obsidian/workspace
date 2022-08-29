@@ -4,14 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5020a522ca996345",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "9765c21c927290aa",
         "type": "leaf",
         "state": {
@@ -29,18 +21,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Books/The Engines of Cognition.md",
+            "file": "LW/Concepts/Sequences.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "079132c5dac9dd86",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -90,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LW/Concepts/Sequences.md"
+              }
             }
           }
         ]
@@ -113,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LW/Concepts/Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +174,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "66ed81a64e92146c",
+  "active": "ff4ee61bd20cd610",
   "lastOpenFiles": [
+    "LW/Books.md",
+    "LW/Collections.md",
+    "LW/Books/The Carving of Reality.md",
+    "LW/Books/The Engines of Cognition.md",
+    "LW/Sequences/\"Why Not Just...\".md",
     "LW/Books/A Map That Reflects the Territory.md",
     "LW/Sequences/Bonus— Best Essays of LessWrong.md",
     "LW/Sequences/Bah-Humbug Sequence.md",
-    "LW/Sequences/\"Why Not Just...\".md",
     "LW/Collections/Best of LessWrong.md",
-    "LW/Books/The Carving of Reality.md",
-    "LW/Books/The Engines of Cognition.md",
-    "LW/Collections.md",
-    "LW/Books.md",
     "LW/Books/Further Reading (Highlights).md"
   ]
 }

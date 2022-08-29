@@ -15,7 +15,7 @@ The **Orthogonality Thesis** states that an agent can have any combination of in
 
 The thesis was originally defined by [Nick Bostrom](https://lessestwrong.com/tag/nick-bostrom) in the paper "[Superintelligent Will](https://nickbostrom.com/superintelligentwill.pdf)", (along with the [instrumental convergence thesis](https://wiki.lesswrong.com/wiki/instrumental_convergence_thesis)). For his purposes, Bostrom defines intelligence to be [instrumental rationality](https://wiki.lesswrong.com/wiki/instrumental_rationality).
 
-*Related:* [[Complexity of Value|*Complexity of Value*]]*,* [[Decision Theory|*Decision Theory*]]*,* [[General Intelligence|*General Intelligence*]]*,* [[Utility Functions|*Utility Functions*]]
+*Related:* *[[Complexity of Value|Complexity of Value]]**,* *[[Decision Theory|Decision Theory]]**,* *[[General Intelligence|General Intelligence]]**,* *[[Utility Functions|Utility Functions]]*
 
 Defense of the thesis
 ---------------------

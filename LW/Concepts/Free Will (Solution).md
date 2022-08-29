@@ -15,7 +15,7 @@ Since free will is about as easy as a philosophical problem in reductionism can 
 
 These posts **should not be read** until having made a very serious effort on your own.
 
-*Related Pages:* [[Consciousness|*Consciousness*]]*,* [[Free Will|*Free Will*]]*,* [[Philosophy|*Philosophy*]]*,* [[Reductionism|*Reductionism*]]*, *
+*Related Pages:* *[[Consciousness|Consciousness]]**,* *[[Free Will|Free Will]]**,* *[[Philosophy|Philosophy]]**,* *[[Reductionism|Reductionism]]**, *
 
 Blog posts
 ----------

@@ -13,7 +13,7 @@ synchedAt: '2022-08-29T11:12:41.682Z'
 
 The **original sequences** were a series of essays written by Eliezer Yudkowsky between 2006 and 2009 on the blogs *Overcoming Bias* and *Less Wrong*. About half of these essays were organized into a number of thematically linked "[[Sequences|sequences]]" of blog posts--hence the name.
 
-In 2015, these sequences were edited into an ebook, [[Rationality: From AI To Zombies|*Rationality: From AI to Zombies*]]. The ebook leaves out some of the original posts, as well as adding some essays that were written by Yudkowsky during the same time but never previously collected into a named sequence. This page will serve to collect the older, deprecated sequences.
+In 2015, these sequences were edited into an ebook, *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*. The ebook leaves out some of the original posts, as well as adding some essays that were written by Yudkowsky during the same time but never previously collected into a named sequence. This page will serve to collect the older, deprecated sequences.
 
 Of these, "Map and Territory," "Mysterious Answers to Mysterious Questions," "How to Actually Change Your Mind," and "Reductionism" were classified as "**core sequences**." There was also a distinction between "major" and "minor" sequences, though this was based on the *size* of the sequence rather than its importance.
 
@@ -277,7 +277,7 @@ Reductionism (i)
 7.  [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
 8.  [*The Quotation is not the Referent*](http://lesswrong.com/lw/ok/the_quotation_is_not_the_referent/)
 9.  [*Qualitatively Confused*](http://lesswrong.com/lw/om/qualitatively_confused/)
-10.  [[Reductionism|**Reductionism**]]
+10.  **[[Reductionism|Reductionism]]**
 11.  [**Explaining vs. Explaining Away**](http://lesswrong.com/lw/oo/explaining_vs_explaining_away/)
 12.  [Fake Reductionism](http://lesswrong.com/lw/op/fake_reductionism/)
 13.  [Savanna Poets](http://lesswrong.com/lw/oq/savanna_poets/)

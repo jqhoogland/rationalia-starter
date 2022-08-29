@@ -51,7 +51,7 @@ Main sequence
 *   [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
 *   [*The Quotation is not the Referent*](http://lesswrong.com/lw/ok/the_quotation_is_not_the_referent/)
 *   [*Qualitatively Confused*](http://lesswrong.com/lw/om/qualitatively_confused/)
-*   [[Reductionism|**Reductionism**]]
+*   **[[Reductionism|Reductionism]]**
 *   [**Explaining vs. Explaining Away**](http://lesswrong.com/lw/oo/explaining_vs_explaining_away/)
 *   [Fake Reductionism](http://lesswrong.com/lw/op/fake_reductionism/)
 *   [Savanna Poets](http://lesswrong.com/lw/oq/savanna_poets/)

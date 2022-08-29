@@ -13,19 +13,19 @@ synchedAt: '2022-08-29T11:05:08.015Z'
 
 **Virtues** are traits that one *ought* to possess, for the benefit of the world or oneself.
 
-On LessWrong the focus is often on epistemic virtues, as in Eliezer Yudowsky's essay [[Twelve Virtues of Rationality|**Twelve Virtues of Rationality**]] which offers this list of virtues (roughly summarized):
+On LessWrong the focus is often on epistemic virtues, as in Eliezer Yudowsky's essay **[[Twelve Virtues of Rationality|Twelve Virtues of Rationality]]** which offers this list of virtues (roughly summarized):
 
-*   [[Curiosity|**Curiosity**]] \- the burning desire to pursue truth;
+*   **[[Curiosity|Curiosity]]** \- the burning desire to pursue truth;
 *   **Relinquishment** \- not being attached to mistaken beliefs;
 *   **Lightness** \- updating your beliefs with ease;
-*   [[Evenness|**Evenness**]] \- not privileging particular hypotheses in the pursuit of truth;
+*   **[[Evenness|Evenness]]** \- not privileging particular hypotheses in the pursuit of truth;
 *   **Argument** \- the will to let one's beliefs be challenged;
-*   [[Empiricism|**Empiricism**]] \- grounding oneself in observation and prediction;
-*   [[Occam's Razor|**Simplicity**]] \- elimination of unnecessary detail in modeling the world;
-*   [[Humility|**Humility**]] \- recognition of one's fallibility;
-*   [[Perfectionism|**Perfectionism**]] \- seeking perfection even if it's not attainable;
+*   **[[Empiricism|Empiricism]]** \- grounding oneself in observation and prediction;
+*   **[[Occam's Razor|Simplicity]]** \- elimination of unnecessary detail in modeling the world;
+*   **[[Humility|Humility]]** \- recognition of one's fallibility;
+*   **[[Perfectionism|Perfectionism]]** \- seeking perfection even if it's not attainable;
 *   **Precision** \- seeking narrower statements and not overcorrect;
-*   [[Scholarship & Learning|**Scholarship**]] \- the study of multiple domains and perspectives;
+*   **[[Scholarship & Learning|Scholarship]]** \- the study of multiple domains and perspectives;
 *   [**The nameless virtue**](https://www.lesswrong.com/tag/twelfth-virtue) \- seeking truth and not the virtues for themselves.
 
 **See Also:** [[Courage]], [[Trust]], [[Honesty]], [[Agency]], [[Altruism]], [[Ambition]], [[Stoicism / Letting Go / Making Peace]], [[Attention]], [[Gratitude]]

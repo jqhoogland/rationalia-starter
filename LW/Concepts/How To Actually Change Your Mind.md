@@ -11,11 +11,11 @@ synchedAt: '2022-08-29T11:09:52.136Z'
 ---
 # How To Actually Change Your Mind
 
-***How to Actually Change Your Mind*** is the second book contained in the ebook [[Rationality: From AI To Zombies|*Rationality: From AI to Zombies*]], by Eliezer Yudkowsky. It is the edited version of [a series of blog posts in "the Sequences"](https://wiki.lesswrong.com/wiki/Original_sequences#How_to_Actually_Change_Your_Mind), and covers the ultra-high-level penultimate technique of [[Rationality|rationality]]: triumphing over confirmation bias and motivated cognition.
+***How to Actually Change Your Mind*** is the second book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It is the edited version of [a series of blog posts in "the Sequences"](https://wiki.lesswrong.com/wiki/Original_sequences#How_to_Actually_Change_Your_Mind), and covers the ultra-high-level penultimate technique of [[Rationality|rationality]]: triumphing over confirmation bias and motivated cognition.
 
 *How to Actually Change Your Mind* contains seven sequences of essays. These are all collected in the *Rationality: From AI to Zombies* ebook, but the essay names below are also linked to the original blog posts.
 
-The previous book in the series is [[Map and Territory|*Map and Territory*]], and the next book is [[The Machine In The Ghost|*The Machine in the Ghost*]].
+The previous book in the series is *[[Map and Territory|Map and Territory]]*, and the next book is *[[The Machine In The Ghost|The Machine in the Ghost]]*.
 
 E. Overly Convenient Excuses
 ----------------------------

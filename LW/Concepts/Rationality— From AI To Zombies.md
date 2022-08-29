@@ -22,12 +22,12 @@ Contents
 
 The ebook's contents are organized into six books, containing a total of 333 essays from the Sequences. The 333 essays are further divided into twenty-six sequences, lettered A through Z:
 
-*   Book I: [[Map and Territory|*Map and Territory*]]
+*   Book I: *[[Map and Territory|Map and Territory]]*
     *   A. Predictably Wrong
     *   B. Fake Beliefs
     *   C. Noticing Confusion
     *   D. Mysterious Answers
-*   Book II: [[How To Actually Change Your Mind|*How to Actually Change Your Mind*]]
+*   Book II: *[[How To Actually Change Your Mind|How to Actually Change Your Mind]]*
     *   E. Overly Convenient Excuses
     *   F. Politics and Rationality
     *   G. Against Rationalization
@@ -35,22 +35,22 @@ The ebook's contents are organized into six books, containing a total of 333 ess
     *   I. Seeing with Fresh Eyes
     *   J. Death Spirals
     *   K. Letting Go
-*   Book III: [[The Machine In The Ghost|*The Machine in the Ghost*]]
+*   Book III: *[[The Machine In The Ghost|The Machine in the Ghost]]*
     *   L. The Simple Math of Evolution
     *   M. Fragile Purposes
     *   N. A Human's Guide to Words
-*   Book IV: [[Mere Reality|*Mere Reality*]]
+*   Book IV: *[[Mere Reality|Mere Reality]]*
     *   O. Lawful Truth
     *   P. Reductionism 101
     *   Q. Joy in the Merely Real
     *   R. Physicalism 201
     *   S. Quantum Physics and Many Worlds
     *   T. Science and Rationality
-*   Book V: [[Mere Goodness|*Mere Goodness*]]
+*   Book V: *[[Mere Goodness|Mere Goodness]]*
     *   U. Fake Preferences
     *   V. Value Theory
     *   W. Quantified Humanism
-*   Book VI: [[Becoming Stronger|*Becoming Stronger*]]
+*   Book VI: *[[Becoming Stronger|Becoming Stronger]]*
     *   X. Yudkowsky's Coming of Age
     *   Y. Challenging the Difficult
     *   Z. The Craft and the Community

@@ -11,7 +11,7 @@ synchedAt: '2022-08-29T11:06:07.507Z'
 ---
 # Stupidity of Evolution
 
-[[Evolution|**Evolution**]] **is stupid,** it can only access a very limited area in the design space, and can only search for the new designs very slowly, for a variety of reasons. The wonder of evolution is not how intelligently it works, but that an accidentally occurring optimizer without a brain works *at all*.
+**[[Evolution|Evolution]]** **is stupid,** it can only access a very limited area in the design space, and can only search for the new designs very slowly, for a variety of reasons. The wonder of evolution is not how intelligently it works, but that an accidentally occurring optimizer without a brain works *at all*.
 
 Blog posts
 ----------

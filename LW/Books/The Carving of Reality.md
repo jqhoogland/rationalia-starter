@@ -13,7 +13,7 @@ synchedAt: '2022-08-29T10:40:16.045Z'
 
 # The Carving of Reality
 
-# Sequences
+## Sequences
 
 - [[Reality & Reason (Sequence)]]
 - [[Coordination & Constraint (Sequence)]]

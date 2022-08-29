@@ -11,7 +11,7 @@ synchedAt: '2022-08-29T11:13:19.317Z'
 ---
 # Benevolence
 
-For an AGI to have a positive and not a negative effect on humanity, its [[Terminal Value|*terminal value*]] must include **benevolence** to humans. In other words, it must seek the welfare of humans, the maximization of the [[Complexity of Value|full set of human values]] (for the humans' benefit, not for itself). This article discusses the contrast between benevolence as a [[Terminal Value|terminal value]] and as an instrumental value in future artificial general intelligence; and how benevolence might arise, whether specified as a value or not.
+For an AGI to have a positive and not a negative effect on humanity, its *[[Terminal Value|terminal value]]* must include **benevolence** to humans. In other words, it must seek the welfare of humans, the maximization of the [[Complexity of Value|full set of human values]] (for the humans' benefit, not for itself). This article discusses the contrast between benevolence as a [[Terminal Value|terminal value]] and as an instrumental value in future artificial general intelligence; and how benevolence might arise, whether specified as a value or not.
 
 Since cooperation has instrumental value for achieving a variety of terminal values, benevolence in agents--humans, AGIs, or others--may arise even if it is not specified as an end-goal.
 

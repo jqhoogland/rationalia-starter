@@ -15,7 +15,7 @@ synchedAt: '2022-08-29T11:04:13.737Z'
 
 Topics include, but are not limited to: how to research, how to understand material deeply, note-taking, and useful scholarship resources.
 
-> *The eleventh virtue is scholarship. Study many sciences and absorb their power as your own. Each field that you consume makes you larger. If you swallow enough sciences the gaps between them will diminish and your knowledge will become a unified whole. If you are gluttonous you will become vaster than mountains. –* [[Twelve Virtues of Rationality|*Twelve Virtues of Rationality*]]
+> *The eleventh virtue is scholarship. Study many sciences and absorb their power as your own. Each field that you consume makes you larger. If you swallow enough sciences the gaps between them will diminish and your knowledge will become a unified whole. If you are gluttonous you will become vaster than mountains. –* *[[Twelve Virtues of Rationality|Twelve Virtues of Rationality]]*
 
 See Also
 --------

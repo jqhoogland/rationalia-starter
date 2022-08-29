@@ -13,7 +13,7 @@ synchedAt: '2022-08-29T11:05:16.276Z'
 
 **Forecasting** or **Predicting** is the act of making statements about what will happen in the future (and in some cases, the past) and then scoring the predictions. Posts market with this tag is for discussion of the practice, skill, and methodology of forecasting. Posts exclusively containing object-level lists of forecasts and predictions are in [[Forecasts (Specific Predictions)|Forecasts]].  Related: [[Betting]].
 
-> *Above all, don’t ask what to believe—ask what to anticipate. Every question of belief should flow from a question of anticipation, and that question of anticipation should be the center of the inquiry.  –* [[Making Beliefs Pay Rent (in Anticipated Experiences)|*Making Beliefs Pay Rent*]]
+> *Above all, don’t ask what to believe—ask what to anticipate. Every question of belief should flow from a question of anticipation, and that question of anticipation should be the center of the inquiry.  –* *[[Making Beliefs Pay Rent (in Anticipated Experiences)|Making Beliefs Pay Rent]]*
 
 Forecasting allows individuals and institutions to test their internal models of reality. A good forecaster can have confidence in future predictions and hence actions in the same area as they have a good track record in. Organisations with decision-makers with good track records can likewise be more confident in their choices.
 

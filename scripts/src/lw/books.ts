@@ -66,7 +66,7 @@ export const booksToMD = async () => {
 }
 
 
-await loadBooks()
-    .then(books => console.log(JSON.stringify(books, null, 2)))
-    .then(booksToMD)
+// await loadBooks()
+//     .then(books => console.log(JSON.stringify(books, null, 2)))
+//     .then(booksToMD)
 // await booksToMD()

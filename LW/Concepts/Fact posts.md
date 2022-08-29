@@ -13,7 +13,7 @@ synchedAt: '2022-08-29T11:05:04.562Z'
 
 A **Fact post** is a piece of writing that attempts to build an understanding of the world, starting bottom up with empirical facts rather than "opinions".  Under this tag, one can find posts that present lots of basic facts about topics. *This entry requires work.*
 
-Fact posts were introduced in [[Fact Posts: How and Why|**Fact Posts: How and Why**]] by sarahconstantin:
+Fact posts were introduced in **[[Fact Posts: How and Why|Fact Posts: How and Why]]** by sarahconstantin:
 
 > The most useful thinking skill I've taught myself, which I think should be more widely practiced, is writing what I call "fact posts."  I write a bunch of these on my [blog](https://srconstantin.wordpress.com/). (I write fact posts about pregnancy and childbirth [here.](https://parentingwithevidence.wordpress.com/))
 > 
