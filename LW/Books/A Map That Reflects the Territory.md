@@ -14,8 +14,8 @@ synchedAt: '2022-08-29T10:40:16.040Z'
 
 # Sequences
 
-- [[Epistemology]]
-- [[Agency]]
-- [[Coordination]]
-- [[Curiosity]]
-- [[Alignment]]
+- [[Epistemology (Sequence)]]
+- [[Agency (Sequence)]]
+- [[Coordination (Sequence)]]
+- [[Curiosity (Sequence)]]
+- [[Alignment (Sequence)]]

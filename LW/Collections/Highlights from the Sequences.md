@@ -19,4 +19,4 @@ To provide a quick and accessible introduction to [The Sequences](https://www.le
 
 # Books
 
-- [[Further Reading]]
+- [[Further Reading (Highlights)]]

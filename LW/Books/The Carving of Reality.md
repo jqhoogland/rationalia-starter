@@ -10,11 +10,12 @@ tags:
   - Book
 synchedAt: '2022-08-29T10:40:16.045Z'
 ---
+
 # The Carving of Reality
 
 # Sequences
 
-- [[Reality & Reason]]
-- [[Coordination & Constraint]]
-- [[Takeoff & Takeover]]
-- [[Alignment & Agency]]
+- [[Reality & Reason (Sequence)]]
+- [[Coordination & Constraint (Sequence)]]
+- [[Takeoff & Takeover (Sequence)]]
+- [[Alignment & Agency (Sequence)]]

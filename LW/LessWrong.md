@@ -18,10 +18,10 @@ LessWrong serves these purposes with its [library of rationality writings](https
 
 The [[Reading Orders]] page lists a few different ways you might want to approach the curriculum.
 
-- Start with [[The Sequences#Highlights|the highlighted posts]] (recommended).
-- Read through [[Rationality A-Z|The Sequences]], [[HPMOR]], & [[The Codex]].
+- Start with [[Highlights from the Sequences|the highlighted posts]] (recommended).
+- Read through [[Rationality— A-Z|The Sequences]], [[HPMOR]], & [[The Codex]].
 - Follow one of alternative [[Reading Orders]] proposed by various LessWrong readers over the years.
-- Look up a relevant [[Concepts (LW)|concept]] and move on from there.
+- Look up a relevant [[Concepts|concept]] and move on from there.
 
 All of LessWrong's content depends on all the other content, so there isn't one correct way to go through everything. Just try stuff out. [[Steelmanning Divination|Embrace randomness]] and tap the random button to work your way through the content as the pseudo-random number generators wish it.
 
@@ -29,3 +29,4 @@ All of LessWrong's content depends on all the other content, so there isn't one 
 # Structure
 
 From top to bottom, LessWrong consists of "[[Collections]]", which consist of "[[Books]]", which consist of "[[Sequences]]", which consist of "[[Posts]]". Sequences may be further divided into "[[Chapters]]".
+

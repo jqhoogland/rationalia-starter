@@ -14,7 +14,7 @@ synchedAt: '2022-08-29T10:40:16.039Z'
 
 # Sequences
 
-- [[Trust]]
-- [[Modularity]]
-- [[Incentives]]
-- [[Failure]]
+- [[Trust (Sequence)]]
+- [[Modularity (Sequence)]]
+- [[Incentives (Sequence)]]
+- [[Failure (Sequence)]]
