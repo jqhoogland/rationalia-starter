@@ -15,7 +15,7 @@ synchedAt: '2022-08-29T11:05:17.204Z'
 
 Challenges are: 1) can you successively prevent it from interacting with the world? And 2) can you prevent it from convincing you to let it out?
 
-**See also:** [[AI]], [AGI](https://wiki.lesswrong.com/wiki/AGI), [[Oracle AI]], [[Tool AI]], [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI)
+**See also:** [[AI]], [[AGI]], [[Oracle AI]], [[Tool AI]], [[Unfriendly Artificial Intelligence]]
 
 Escaping the box
 ================
@@ -32,7 +32,7 @@ Other, more speculative ways include: threatening to torture millions of conscio
 Containing the AGI
 ==================
 
-Attempts to box an AGI may add some degree of safety to the development of a [friendly artificial intelligence](https://wiki.lesswrong.com/wiki/FAI) (FAI). A number of strategies for keeping an AGI in its box are discussed in [Thinking inside the box](http://www.aleph.se/papers/oracleAI.pdf) and [Leakproofing the Singularity](http://dl.dropbox.com/u/5317066/2012-yampolskiy.pdf). Among them are:
+Attempts to box an AGI may add some degree of safety to the development of a [[Friendly Artificial Intelligence|friendly artificial intelligence (FAI)]]. A number of strategies for keeping an AGI in its box are discussed in [Thinking inside the box](http://www.aleph.se/papers/oracleAI.pdf) and [Leakproofing the Singularity](http://dl.dropbox.com/u/5317066/2012-yampolskiy.pdf). Among them are:
 
 - Physically isolating the AGI and permitting it zero control of any machinery
 - Limiting the AGI’s outputs and inputs with regards to humans

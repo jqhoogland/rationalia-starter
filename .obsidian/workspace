@@ -4,48 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "955163b45ac3460d",
+        "id": "e2c5b6e66c3723e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Collections/The Codex.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "397bfef3a93e166c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Epilogue (Codex).md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ff9d986d888da8a1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Parables and Prayers (Sequence).md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "28d7bc3fbb1da856",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Community and Cooperation (Sequence).md",
+            "file": "LW/Concepts/Absolute Certainty.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parables and Prayers (Sequence).md"
+                "file": "LW/Concepts/Absolute Certainty.md"
               }
             }
           }
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parables and Prayers (Sequence).md",
+                "file": "LW/Concepts/Absolute Certainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,17 +162,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "ff9d986d888da8a1",
+  "active": "e2c5b6e66c3723e2",
   "lastOpenFiles": [
-    "Epilogue (Codex).md",
-    "LW/Collections/The Codex.md",
-    "Community and Cooperation (Sequence).md",
-    "LW/Books/Designing the World.md",
-    "Futurism and Forecasting (Sequence).md",
-    "Economics and Efficiency (Sequence).md",
-    "LW/Sequences/Politics and Rationality (Sequence).md",
-    "Politics and Pragmatics (Sequence).md",
-    "Parables and Prayers (Sequence).md",
-    "Studies and Statistics (Sequence).md"
+    "LW/Concepts/Absent-Minded Driver.md",
+    "LW/Jargon/80-20.md",
+    "LW/Jargon/Againstness.md",
+    "LW/Jargon/Alief.md",
+    "LW/Jargon/Affordance.md",
+    "LW/Jargon/Affect.md",
+    "LW/Jargon/AFAICT.md",
+    "LW/Jargon/ADBOC.md",
+    "LW/Jargon/Adaptive problem.md",
+    "LW/Concepts/Abolitionism.md"
   ]
 }

@@ -23,7 +23,7 @@ Addressing this type of objection to “paradise engineering”, Pearce [writes]
 - [[Risks of Astronomical Suffering (S-risks)|Suffering risk]]
 - [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
 - [[Utilitarianism]]
-- [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
+- [[Orgasmium|Hedonium]]
 
 ## External links
 

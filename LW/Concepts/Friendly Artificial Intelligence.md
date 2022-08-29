@@ -8,7 +8,11 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:46.653Z'
+aliases:
+  - Friendly AI
+  - FAI
 ---
+
 # Friendly Artificial Intelligence
 
 *Note for readers: the last substantial update of the content below dates back to 2014 and is severely outdated. The term of "friendly AI" is no longer used by current research, replaced by "**[[AI|AI alignment]]**" from around 2015. This new term is also the subject of much debate.*
@@ -26,9 +30,9 @@ However, the fact that an AI has the ability to do something doesn't mean that i
 
 Not all AGIs are Friendly or Unfriendly:
 
-1.  Some AGIs may be too weak to qualify as superintelligences. We could call these 'approximately human-level AIs'. Designing safety protocols for narrow AIs and arguably even for weak, non-self-modifying AGIs is primarily a [[Machine Ethics|machine ethics]] problem outside the purview of Friendly AI - although some have argued that even human-level AGIs may present serious safety risks.
-2.  Some AGIs (e.g., hypothetical safe [[Oracle AI|Oracle AIs]]) may not optimize strongly and consistently for harmful or beneficial outcomes, or may only do so contingent on how they're used by human operators.
-3.  Some AGIs may be on a self-modification trajectory that will eventually make them Friendly, but are dangerous at present. Calling them 'Friendly' or 'Unfriendly' would neglect their temporal inconsistency, so '[Proto-Friendly](https://wiki.lesswrong.com/wiki/Proto-Friendly) AI' is a better term here.
+1. Some AGIs may be too weak to qualify as superintelligences. We could call these 'approximately human-level AIs'. Designing safety protocols for narrow AIs and arguably even for weak, non-self-modifying AGIs is primarily a [[Machine Ethics|machine ethics]] problem outside the purview of Friendly AI - although some have argued that even human-level AGIs may present serious safety risks.
+2. Some AGIs (e.g., hypothetical safe [[Oracle AI|Oracle AIs]]) may not optimize strongly and consistently for harmful or beneficial outcomes, or may only do so contingent on how they're used by human operators.
+3. Some AGIs may be on a self-modification trajectory that will eventually make them Friendly, but are dangerous at present. Calling them 'Friendly' or 'Unfriendly' would neglect their temporal inconsistency, so '[Proto-Friendly](https://wiki.lesswrong.com/wiki/Proto-Friendly) AI' is a better term here.
 
 However, the [[Orthogonality Thesis|orthogonality]] and convergent instrumental goals theses give reason to think that the vast majority of possible superintelligences will be Unfriendly.
 
@@ -39,14 +43,14 @@ Open problems
 
 An **open problem in Friendly AI** (**OPFAI**) is a problem in mathematics, computer science, or philosophy of AI that needs to be solved in order to build a Friendly AI, and plausibly *doesn't* need to be solved in order to build a superintelligence with unspecified, 'random' values. Open problems include:
 
-1.  [Pascal's mugging](http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/) / [Pascal's muggle](http://lesswrong.com/lw/h8k/pascals_muggle_infinitesimal_priors_and_strong/)
-2.  [Self-modification](http://lesswrong.com/lw/hmt/tiling_agents_for_selfmodifying_ai_opfai_2/) and [Löb's Theorem](http://yudkowsky.net/rational/lobs-theorem/)
-3.  [[Naturalized Induction|Naturalized induction]]
+1. [Pascal's mugging](http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/) / [Pascal's muggle](http://lesswrong.com/lw/h8k/pascals_muggle_infinitesimal_priors_and_strong/)
+2. [Self-modification](http://lesswrong.com/lw/hmt/tiling_agents_for_selfmodifying_ai_opfai_2/) and [Löb's Theorem](http://yudkowsky.net/rational/lobs-theorem/)
+3. [[Naturalized Induction|Naturalized induction]]
 
 Links
 =====
 
-## Blog posts
+## Blog Posts
 
 - [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
 - [Not Taking Over the World](http://lesswrong.com/lw/wt/not_taking_over_the_world/)
@@ -57,7 +61,7 @@ Links
 - [Metaphilosophical Mysteries](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/) by Wei Dai
 - [The Urgent Meta-Ethics of Friendly Artificial Intelligence](http://lesswrong.com/lw/43v/the_urgent_metaethics_of_friendly_artificial/) by [lukeprog](http://lukeprog.com/)
 
-## External links
+## External Links
 
 - [About Friendly AI](http://friendly-ai.com/)
 - [14 objections against AI/Friendly AI/The Singularity answered](http://www.xuenay.net/objections.html) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)

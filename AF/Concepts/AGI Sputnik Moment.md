@@ -28,5 +28,5 @@ Goertzel and Pitt have also emphasized the role of an AGI Sputnik moment in AGI 
 
 ## See Also
 
-- [AGI](https://wiki.lesswrong.com/wiki/AGI)
-- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [[AGI]]
+- [[Friendly Artificial Intelligence]]

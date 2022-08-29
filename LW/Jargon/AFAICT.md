@@ -7,6 +7,7 @@ tags:
   - Jargon
 synchedAt: '2022-08-29T11:16:58.918Z'
 ---
+
 # AFAICT
 
  As Far As I Can Tell

@@ -15,7 +15,8 @@
   "foldHeading": true,
   "spellcheck": true,
   "userIgnoreFilters": [
-    "scripts/"
+    "scripts/",
+    "Misc/"
   ],
   "vimMode": true
 }

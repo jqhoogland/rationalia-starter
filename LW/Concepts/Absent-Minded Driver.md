@@ -9,15 +9,16 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:50.564Z'
 ---
+
 # Absent-Minded Driver
 
 **The absent-minded driver** is a problem for testing [[Decision Theory|decision theories]] which shows a time inconsistency in classical ways of considering optimal decisions. It is entirely described in the eponymous blog post.
 
-## Blog posts
+## Blog Posts
 
 [The Absent-Minded Driver](http://lesswrong.com/lw/182/the_absentminded_driver/)
 
-## See also
+## See Also
 
 - [[Decision Theory|Decision theory]]
 - [[Newcomb's Problem|Newcomb's problem]]
