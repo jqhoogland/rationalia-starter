@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c98c62169660b1d",
+        "id": "5a948cc6e5c14e93",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "LW/Canon.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -58,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LW/Canon.md"
+              }
             }
           }
         ]
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LW/Canon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +162,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "6c98c62169660b1d",
+  "active": "5a948cc6e5c14e93",
   "lastOpenFiles": [
+    "idiosyncrasy credits.md",
+    "LW/Canon.md",
+    "LW/Jargon/Chronophone.md",
+    "LW/Jargon/Information cascade.md",
+    "LW/Jargon/Stereotype.md",
+    "LW/Jargon/Mental models.md",
+    "LW/Jargon/Other-optimizing.md",
     "tmp/Concepts/80,000 Hours.md",
     "About.md",
-    "LW/Reading Orders/Reading Orders.md",
-    "HPMOR.md",
-    "LW/Canon.md",
-    "LW/Sequences/\"Why Not Just...\".md",
-    "LW/Collections/The Codex.md",
-    "LW/Collections/Best of LessWrong.md",
-    "LW/Collections/Highlights from the Sequences.md",
-    "LW/Books/Further Reading.md"
+    "LW/Reading Orders/Reading Orders.md"
   ]
 }
