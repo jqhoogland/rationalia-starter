@@ -17,13 +17,11 @@ If we regarded human taste buds as trying to *maximize fitness*, we might expect
 
 Evolution is ultimately just a historical-statistical macrofact about which ancestors *did in fact* reproduce. These genes then execute again, as they did previously. And so the behavior of the organism is often better interpreted in terms of what worked in the past, rather than what should work in the future. The organism's genes are, in fact, the causal result of what worked in the past, and certainly not [[Teleology|a causal result of the future]].
 
-External links
---------------
+## External links
 
 *   [The Two Main Ways In Which Evolution Is Not Our Friend](http://theviewfromhell.blogspot.com/2011/05/two-main-ways-in-which-evolution-is-not.html) by Sister Y
 
-See also
---------
+## See also
 
 *   [[Evolution]], [[Stupidity of Evolution|stupidity of evolution]]
 *   [[Evolutionary Psychology|Evolutionary psychology]]

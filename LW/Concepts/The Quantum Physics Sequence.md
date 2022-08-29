@@ -15,16 +15,14 @@ A *non-mysterious* introduction to quantum mechanics, intended to be accessible 
 
 A guide to this sequence is available at [The Quantum Physics Sequence (post)](http://lesswrong.com/lw/r5/the_quantum_physics_sequence/).
 
-Preliminaries
--------------
+## Preliminaries
 
 *   [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
 *   [[Reductionism]]
 *   [Zombies! Zombies?](http://lesswrong.com/lw/p7/zombies_zombies/)
 *   [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)
 
-Basic Quantum Mechanics
------------------------
+## Basic Quantum Mechanics
 
 *   [Quantum Explanations](http://lesswrong.com/lw/pc/quantum_explanations/)
 *   [Configurations and Amplitude](http://lesswrong.com/lw/pd/configurations_and_amplitude/)
@@ -50,8 +48,7 @@ Basic Quantum Mechanics
 *   [Decoherence as Projection](http://lesswrong.com/lw/pz/decoherence_as_projection/)
 *   [Entangled Photons](http://lesswrong.com/lw/q0/entangled_photons/)
 
-Many Worlds
------------
+## Many Worlds
 
 *   [Bell's Theorem: No EPR "Reality"](http://lesswrong.com/lw/q1/bells_theorem_no_epr_reality/)
 *   [Spooky Action at a Distance: The No-Communication Theorem](http://lesswrong.com/lw/q2/spooky_action_at_a_distance_the_nocommunication/)
@@ -63,8 +60,7 @@ Many Worlds
 *   [Many Worlds, One Best Guess](http://lesswrong.com/lw/q8/many_worlds_one_best_guess/)
 *   [Living in Many Worlds](http://lesswrong.com/lw/qz/living_in_many_worlds/)
 
-Timeless Physics
-----------------
+## Timeless Physics
 
 *   [Mach's Principle: Anti-Epiphenomenal Physics](http://lesswrong.com/lw/qm/machs_principle_antiepiphenomenal_physics/)
 *   [Relative Configuration Space](http://lesswrong.com/lw/qo/relative_configuration_space/)
@@ -75,8 +71,7 @@ Timeless Physics
 *   [Thou Art Physics](http://lesswrong.com/lw/r0/thou_art_physics/)
 *   [Timeless Control](http://lesswrong.com/lw/r1/timeless_control/)
 
-Rationality and Science
------------------------
+## Rationality and Science
 
 *   [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)
 *   [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/)
@@ -94,8 +89,7 @@ Rationality and Science
 *   [Class Project](http://lesswrong.com/lw/qt/class_project/)
 *   [Why Quantum?](http://lesswrong.com/lw/qy/why_quantum/)
 
-See also
---------
+## See also
 
 *   [[Quantum Mechanics|Quantum mechanics]]
 *   [[Decoherence]]

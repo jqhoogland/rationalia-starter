@@ -23,14 +23,12 @@ Another argument replies that the two awakenings when the coin comes up tails im
 
 A third argument tries to add rigor by considering monetary payoffs. If Beauty's bets about the coin get paid out once per experiment, she will do best by acting as if the probability is one half. If the bets get paid out once per awakening, acting as if the probability is one third has the best expected value.
 
-External Links
---------------
+## External Links
 
 *   [Video explanation by Julia Galef](https://www.youtube.com/watch?v=zL52lG6aNIY)
 *   [Sleeping Beauty Problem on Wikipedia](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem)
 
-See Also
---------
+## See Also
 
 *   [[Decision Theory]]
 *   [[Newcomb's Problem]]

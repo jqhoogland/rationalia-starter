@@ -17,8 +17,7 @@ People who buy low and sell high are rewarded for improving the market predictio
 
 Predictions markets have been used by organizations such as Google, General Electric, and Microsoft; several online and commercial prediction markets are also in operation. Historically, prediction markets have often been used to predict election outcomes.
 
-See Also
---------
+## See Also
 
 *   [Prediction](https://lessestwrong.com/tag/forecasting-and-prediction)
 *   [Economic consequences of AI and whole brain emulation](https://lessestwrong.com/tag/economic-consequences-of-ai-and-whole-brain-emulation)
@@ -26,8 +25,7 @@ See Also
 *   [Making beliefs pay rent](https://lessestwrong.com/tag/making-beliefs-pay-rent)
 *   [[QURI]]
 
-External Posts
---------------
+## External Posts
 
 *   [A 1990 Corporate Prediction Market](http://www.overcomingbias.com/2006/11/first_known_bus.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
 *   [Leamer's 1986 Idea Futures Proposal](http://www.overcomingbias.com/2006/12/leamers_1986_id.html) by Robin Hanson

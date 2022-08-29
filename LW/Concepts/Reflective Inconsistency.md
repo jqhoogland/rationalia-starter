@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:13:33.495Z'
 
 More precisely, if you do Y, and later you think "Knowing only what I knew before doing Y should have deterred me from doing Y,", then you are reflectively inconsistent.
 
-Examples
---------
+## Examples
 
 > Tuesday Self: <spends 5 dollars on a chance to win 6 dollars if a fair coin flip lands heads>
 > 
@@ -32,13 +31,11 @@ Non-example:
 > 
 > Wednesday Self: "I would have been better off not taking the bet, since the coin was going to land tails.>
 
-Related blog posts
-------------------
+## Related blog posts
 
 *   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular/)
 *   [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
 
-See also
---------
+## See also
 
 *   [Dynamic inconsistency](https://wiki.lesswrong.com/wiki/Dynamic_inconsistency)

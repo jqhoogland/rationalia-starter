@@ -19,8 +19,7 @@ Of these, "Map and Territory," "Mysterious Answers to Mysterious Questions," "Ho
 
 **Bolded** essays are more important than other posts in the sequence, while *italicized* essays are relatively unimportant. Some essays are indented to indicate that they are tangents or self-contained elaborations upon a previous essay.
 
-Other formats
--------------
+## Other formats
 
 The Sequences have been converted to eReader-compatible formats by several projects.
 
@@ -85,8 +84,7 @@ How to Actually Change Your Mind
 
 See also: [Locating the hypothesis](https://wiki.lesswrong.com/wiki/Locating_the_hypothesis), [[Privileging The Hypothesis|Privileging the hypothesis]], [[Litany of Gendlin]], [[Litany of Tarski]]
 
-[[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
-----------------------------------------------------------------------------------------
+## [[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
 
 1.  [A Fable of Science and Politics](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
 2.  [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
@@ -104,8 +102,7 @@ See also: [Locating the hypothesis](https://wiki.lesswrong.com/wiki/Locating_the
 14.  [False Laughter](http://lesswrong.com/lw/m5/false_laughter/)
 15.  [Human Evil and Muddled Thinking](http://lesswrong.com/lw/jd/human_evil_and_muddled_thinking/)
 
-[[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]
-----------------------------------------------------------------------------------------------------------
+## [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]
 
 1.  [The Affect Heuristic](http://lesswrong.com/lw/lg/the_affect_heuristic/)
 2.  [*Evaluability and Cheap Holiday Shopping*](http://lesswrong.com/lw/lh/evaluability_and_cheap_holiday_shopping/)
@@ -129,8 +126,7 @@ See also: [Locating the hypothesis](https://wiki.lesswrong.com/wiki/Locating_the
 20.  [Lonely Dissent](http://lesswrong.com/lw/mb/lonely_dissent/)
 21.  [Cultish Countercultishness](http://lesswrong.com/lw/md/cultish_countercultishness/)
 
-Seeing with Fresh Eyes
-----------------------
+## Seeing with Fresh Eyes
 
 1.  [Anchoring and Adjustment](http://lesswrong.com/lw/j7/anchoring_and_adjustment/)
 2.  [Priming and Contamination](http://lesswrong.com/lw/k3/priming_and_contamination/)
@@ -147,8 +143,7 @@ Seeing with Fresh Eyes
 13.  [Lonely Dissent](http://lesswrong.com/lw/mb/lonely_dissent/)
 14.  [The Genetic Fallacy](http://lesswrong.com/lw/s3/the_genetic_fallacy/)
 
-Noticing Confusion
-------------------
+## Noticing Confusion
 
 1.  [Your Strength as a Rationalist](http://lesswrong.com/lw/if/your_strength_as_a_rationalist/)
 2.  [Absence of Evidence *Is* Evidence of Absence](http://lesswrong.com/lw/ih/absence_of_evidence_is_evidence_of_absence/)
@@ -156,8 +151,7 @@ Noticing Confusion
 4.  [Hindsight Devalues Science](http://lesswrong.com/lw/im/hindsight_devalues_science/)
 5.  [Positive Bias: Look Into the Dark](http://lesswrong.com/lw/iw/positive_bias_look_into_the_dark/)
 
-Against Rationalization
------------------------
+## Against Rationalization
 
 1.  [**Knowing About Biases Can Hurt People**](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
 2.  [**Update Yourself Incrementally**](http://lesswrong.com/lw/ij/update_yourself_incrementally/)
@@ -177,8 +171,7 @@ Against Rationalization
 16.  [**Anti-Epistemology**](http://lesswrong.com/lw/uy/dark_side_epistemology/)
 17.  [*The Sacred Mundane*](http://lesswrong.com/lw/57/the_sacred_mundane/)
 
-*Against Doublethink*
----------------------
+## *Against Doublethink*
 
 1.  [Singlethink](http://lesswrong.com/lw/k0/singlethink/)
 2.  [Doublethink: Choosing to be Biased](http://lesswrong.com/lw/je/doublethink_choosing_to_be_biased/)
@@ -187,8 +180,7 @@ Against Rationalization
 5.  [Moore's Paradox](http://lesswrong.com/lw/1f/moores_paradox/)
 6.  [Don't Believe You'll Self-Deceive](http://lesswrong.com/lw/1o/dont_believe_youll_selfdeceive/)
 
-Overly Convenient Excuses
--------------------------
+## Overly Convenient Excuses
 
 1.  [**The Proper Use of Humility**](http://lesswrong.com/lw/gq/the_proper_use_of_humility/)
 2.  [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/)
@@ -201,8 +193,7 @@ Overly Convenient Excuses
 9.  [Infinite Certainty](http://lesswrong.com/lw/mo/infinite_certainty/)
 10.  [0 And 1 Are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
 
-Letting Go
-----------
+## Letting Go
 
 1.  [Feeling Rational](http://lesswrong.com/lw/hp/feeling_rational/)
 2.  [The Importance of Saying "Oops"](http://lesswrong.com/lw/i9/the_importance_of_saying_oops/)
@@ -217,8 +208,7 @@ Letting Go
 11.  [**Crisis of Faith**](http://lesswrong.com/lw/ur/crisis_of_faith/)
 12.  [The Ritual](http://lesswrong.com/lw/us/the_ritual/)
 
-The Simple Math of Evolution
-----------------------------
+## The Simple Math of Evolution
 
 1.  [An Alien God](http://lesswrong.com/lw/kr/an_alien_god/)
 2.  [The Wonder of Evolution](http://lesswrong.com/lw/ks/the_wonder_of_evolution/)
@@ -230,8 +220,7 @@ The Simple Math of Evolution
 8.  [The Tragedy of Group Selectionism](http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/)
 9.  [Fake Optimization Criteria](http://lesswrong.com/lw/kz/fake_optimization_criteria/)
 
-[A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)
-------------------------------------------------------------------------------------
+## [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)
 
 1.  [The Parable of the Dagger](http://lesswrong.com/lw/ne/the_parable_of_the_dagger)
 2.  [The Parable of Hemlock](http://lesswrong.com/lw/nf/the_parable_of_hemlock)
@@ -265,8 +254,7 @@ The Simple Math of Evolution
 [[Reductionism (Sequence)|Reductionism]]
 ===================================================================
 
-Reductionism (i)
-----------------
+## Reductionism (i)
 
 1.  [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
 2.  [Universal Law](http://lesswrong.com/lw/hr/universal_law/)
@@ -282,8 +270,7 @@ Reductionism (i)
 12.  [Fake Reductionism](http://lesswrong.com/lw/op/fake_reductionism/)
 13.  [Savanna Poets](http://lesswrong.com/lw/oq/savanna_poets/)
 
-Joy in the Merely Real
-----------------------
+## Joy in the Merely Real
 
 1.  [Joy in the Merely Real](http://lesswrong.com/lw/or/joy_in_the_merely_real/)
 2.  [Joy in Discovery](http://lesswrong.com/lw/os/joy_in_discovery/)
@@ -298,8 +285,7 @@ Joy in the Merely Real
 11.  [Initiation Ceremony](http://lesswrong.com/lw/p1/initiation_ceremony/)
 12.  [Awww, a Zebra](http://lesswrong.com/lw/uf/awww_a_zebra/)
 
-Reductionism (ii)
------------------
+## Reductionism (ii)
 
 1.  [Hand vs. Fingers](http://lesswrong.com/lw/p2/hand_vs_fingers/)
 2.  [**Angry Atoms**](http://lesswrong.com/lw/p3/angry_atoms/)
@@ -307,8 +293,7 @@ Reductionism (ii)
 4.  [Brain Breakthrough! It's Made of Neurons!](http://lesswrong.com/lw/p5/brain_breakthrough_its_made_of_neurons/)
 5.  [Reductive Reference](http://lesswrong.com/lw/p6/reductive_reference/)
 
-Zombies
--------
+## Zombies
 
 1.  [Zombies! Zombies?](http://lesswrong.com/lw/p7/zombies_zombies/)
 2.  [Zombie Responses](http://lesswrong.com/lw/p8/zombie_responses/)
@@ -318,8 +303,7 @@ Zombies
 6.  [Zombies: The Movie](http://lesswrong.com/lw/pn/zombies_the_movie/)
 7.  [Causal reference](http://lesswrong.com/lw/f1u/causal_reference/)
 
-Reductionism (iii)
-------------------
+## Reductionism (iii)
 
 1.  [Excluding the Supernatural](http://lesswrong.com/lw/tv/excluding_the_supernatural/)
 2.  [Psychic Powers](http://lesswrong.com/lw/tw/psychic_powers/)
@@ -327,8 +311,7 @@ Reductionism (iii)
 [[The Quantum Physics Sequence|Quantum Physics]]
 =============================================================================
 
-Basic Quantum Mechanics
------------------------
+## Basic Quantum Mechanics
 
 1.  [Quantum Explanations](http://lesswrong.com/lw/pc/quantum_explanations/)
 2.  [Configurations and Amplitude](http://lesswrong.com/lw/pd/configurations_and_amplitude/)
@@ -354,8 +337,7 @@ Basic Quantum Mechanics
 22.  [Decoherence as Projection](http://lesswrong.com/lw/pz/decoherence_as_projection/)
 23.  [Entangled Photons](http://lesswrong.com/lw/q0/entangled_photons/)
 
-Many Worlds
------------
+## Many Worlds
 
 1.  [Bell's Theorem: No EPR "Reality"](http://lesswrong.com/lw/q1/bells_theorem_no_epr_reality/)
 2.  [Spooky Action at a Distance: The No-Communication Theorem](http://lesswrong.com/lw/q2/spooky_action_at_a_distance_the_nocommunication/)
@@ -367,8 +349,7 @@ Many Worlds
 8.  [Many Worlds, One Best Guess](http://lesswrong.com/lw/q8/many_worlds_one_best_guess/)
 9.  [Living in Many Worlds](http://lesswrong.com/lw/qz/living_in_many_worlds/)
 
-Timeless Physics
-----------------
+## Timeless Physics
 
 1.  [Mach's Principle: Anti-Epiphenomenal Physics](http://lesswrong.com/lw/qm/machs_principle_antiepiphenomenal_physics/)
 2.  [Relative Configuration Space](http://lesswrong.com/lw/qo/relative_configuration_space/)
@@ -379,8 +360,7 @@ Timeless Physics
 7.  [Thou Art Physics](http://lesswrong.com/lw/r0/thou_art_physics/)
 8.  [Timeless Control](http://lesswrong.com/lw/r1/timeless_control/)
 
-Rationality and Science
------------------------
+## Rationality and Science
 
 1.  [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)
 2.  [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/)
@@ -398,8 +378,7 @@ Rationality and Science
 14.  [Class Project](http://lesswrong.com/lw/qt/class_project/)
 15.  [Why Quantum?](http://lesswrong.com/lw/qy/why_quantum/)
 
-[[Metaethics Sequence|Metaethics]]
----------------------------------------------------------------
+## [[Metaethics Sequence|Metaethics]]
 
 1.  [Heading Toward Morality](http://lesswrong.com/lw/rh/heading_toward_morality/)
 2.  [No Universally Compelling Arguments](http://lesswrong.com/lw/rn/no_universally_compelling_arguments/)
@@ -440,8 +419,7 @@ Rationality and Science
 37.  [No License To Be Human](http://lesswrong.com/lw/t9/no_license_to_be_human/)
 38.  [Invisible Frameworks](http://lesswrong.com/lw/ta/invisible_frameworks/)
 
-[[The Fun Theory Sequence|Fun Theory]]
--------------------------------------------------------------------
+## [[The Fun Theory Sequence|Fun Theory]]
 
 1.  [Prolegomena to a Theory of Fun](http://lesswrong.com/lw/wv/prolegomena_to_a_theory_of_fun/)
 2.  [High Challenge](http://lesswrong.com/lw/ww/high_challenge/)
@@ -470,8 +448,7 @@ Rationality and Science
 25.  [The Uses of Fun (Theory)](http://lesswrong.com/lw/xc/the_uses_of_fun_theory/)
 26.  [Higher Purpose](http://lesswrong.com/lw/xw/higher_purpose/)
 
-[[Ethical Injunction|Ethical Injunctions]]
------------------------------------------------------------------------
+## [[Ethical Injunction|Ethical Injunctions]]
 
 1.  [Why Does Power Corrupt?](http://lesswrong.com/lw/uu/why_does_power_corrupt/)
 2.  [Ends Don't Justify Means (Among Humans)](http://lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/)
@@ -482,8 +459,7 @@ Rationality and Science
 7.  [Prices or Bindings?](http://lesswrong.com/lw/v2/prices_or_bindings/)
 8.  [Ethics Notes](http://lesswrong.com/lw/v3/ethics_notes/)
 
-Yudkowsky's Coming of Age
--------------------------
+## Yudkowsky's Coming of Age
 
 1.  [My Childhood Death Spiral](http://lesswrong.com/lw/ty/my_childhood_death_spiral/)
 2.  [My Best and Worst Mistake](http://lesswrong.com/lw/tz/my_best_and_worst_mistake/)
@@ -500,8 +476,7 @@ Yudkowsky's Coming of Age
 13.  [Beyond the Reach of God](http://lesswrong.com/lw/uk/beyond_the_reach_of_god/)
 14.  [My Bayesian Enlightenment](http://lesswrong.com/lw/ul/my_bayesian_enlightenment/)
 
-Challenging the Difficult
--------------------------
+## Challenging the Difficult
 
 1.  [The Proper Use of Humility](http://lesswrong.com/lw/gq/the_proper_use_of_humility/)
 2.  [Tsuyoku Naritai (I Want To Become Stronger)](http://lesswrong.com/lw/h8/tsuyoku_naritai_i_want_to_become_stronger/)
@@ -519,8 +494,7 @@ Challenging the Difficult
 14.  [Make an Extraordinary Effort](http://lesswrong.com/lw/uo/make_an_extraordinary_effort/)
 15.  [Shut Up and Do the Impossible](http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/)
 
-The Craft and the Community
----------------------------
+## The Craft and the Community
 
 1.  [Raising the Sanity Waterline](http://lesswrong.com/lw/1e/raising_the_sanity_waterline/)
 2.  [A Sense That More Is Possible](http://lesswrong.com/lw/2c/a_sense_that_more_is_possible/)

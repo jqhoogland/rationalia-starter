@@ -21,19 +21,16 @@ In this paper Bostrom constructs, in much more detail, the line of reasoning bel
 
 It follows that the belief that there is a significant chance that we will one day become posthumans who run ancestor simulations is false, unless we are currently living in a simulation.
 
-See also
---------
+## See also
 
 *   [[Simulation Hypothesis|Simulation hypothesis]]
 *   [[Nonperson Predicate|Nonperson predicate]]
 
-External links
---------------
+## External links
 
 *   [Nick Bostrom's Simulation Argument Resource page](http://www.simulation-argument.com/)
 
-References
-----------
+## References
 
 *   Bostrom, Nick (2001,2003) [Are You Living in a Computer Simulation](http://www.simulation-argument.com/simulation.pdf) Philosophical Quarterly (2003) Vol. 53, No. 211, pp. 243‐255.
 *   Bostrom, Nick (2011) [A Patch for the Simulation Argument](http://www.simulation-argument.com/patch.pdf) Analysis, Vol. 71, No. 1 (2011): 54-61

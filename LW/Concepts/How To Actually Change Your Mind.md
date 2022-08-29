@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T11:09:52.136Z'
 
 The previous book in the series is *[[Map and Territory|Map and Territory]]*, and the next book is *[[The Machine In The Ghost|The Machine in the Ghost]]*.
 
-E. Overly Convenient Excuses
-----------------------------
+## E. Overly Convenient Excuses
 
 46\. [The Proper Use of Humility](http://lesswrong.com/lw/gq/the_proper_use_of_humility/)
 
@@ -42,8 +41,7 @@ E. Overly Convenient Excuses
 
 56\. [Your Rationality is My Business](http://lesswrong.com/lw/hn/your_rationality_is_my_business/)
 
-F. Politics and Rationality
----------------------------
+## F. Politics and Rationality
 
 57\. [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
 
@@ -65,8 +63,7 @@ F. Politics and Rationality
 
 66\. [Human Evil and Muddled Thinking](http://lesswrong.com/lw/jd/human_evil_and_muddled_thinking/)
 
-G. Against Rationalization
---------------------------
+## G. Against Rationalization
 
 67\. [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
 
@@ -96,8 +93,7 @@ G. Against Rationalization
 
 80\. [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
 
-H. Against Doublethink
-----------------------
+## H. Against Doublethink
 
 81\. [Singlethink](http://lesswrong.com/lw/k0/singlethink/)
 
@@ -111,8 +107,7 @@ H. Against Doublethink
 
 86\. [Don't Believe You'll Self-Deceive](http://lesswrong.com/lw/1o/dont_believe_youll_selfdeceive/)
 
-I. Seeing with Fresh Eyes
--------------------------
+## I. Seeing with Fresh Eyes
 
 87\. [Anchoring and Adjustment](http://lesswrong.com/lw/j7/anchoring_and_adjustment/)
 
@@ -140,8 +135,7 @@ I. Seeing with Fresh Eyes
 
 99\. [The Genetic Fallacy](http://lesswrong.com/lw/s3/the_genetic_fallacy/)
 
-J. Death Spirals and the Cult Attractor
----------------------------------------
+## J. Death Spirals and the Cult Attractor
 
 100\. [The Affect Heuristic](http://lesswrong.com/lw/lg/the_affect_heuristic/)
 
@@ -185,8 +179,7 @@ J. Death Spirals and the Cult Attractor
 
 120\. [Cultish Countercultishness](http://lesswrong.com/lw/md/cultish_countercultishness/)
 
-K. Letting Go
--------------
+## K. Letting Go
 
 121\. [The Importance of Saying "Oops"](http://lesswrong.com/lw/i9/the_importance_of_saying_oops/)
 

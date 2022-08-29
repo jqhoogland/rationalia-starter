@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:23.320Z'
 
 *See also:* [[Prediction Markets|Prediction Markets,]] [[Forecasting & Prediction|Forecasting & Prediction,]] [[Forecasts (Specific Predictions)]]
 
-Why is betting important?
--------------------------
+## Why is betting important?
 
 The argument in favor of betting is that one should generally either accept a proposed bet, in order to make money in expectation, or update their beliefs so the bet becomes unprofitable. There are exceptions to this rule, some theoretical, such as the example of [Omega and Omicron](https://www.lesswrong.com/posts/G7HgP9KTWAMSv6oEJ/bets-and-updating), and some practical, such as uncertainty about whether the bet will be fulfilled. Offering a bet forces someone to think more carefully and share their beliefs more precisely. Losing a bet, even small, can make it more emotionally visceral in a way that might lead to sharpening belief [[Calibration|calibration]] more. Bets can be made about beliefs that can be immediately verified or about beliefs that will only be verifiable in the future.
 
@@ -28,13 +27,11 @@ In popular culture, this idea is often referred to as "putting one's money where
 
 In [What Does the Betting Norm Tax?](https://www.econlib.org/archives/2009/03/what_does_the_b.html), Bryan Caplan says that such a norm should also be present among scholars.
 
-Operationalization for Bets
----------------------------
+## Operationalization for Bets
 
 *Operationalizing a belief* is the practice of transforming a belief into a bet with a clear, unambiguous resolution criteria. Sometimes this can be difficult, but there can be ways around some difficulties as explained in [Tricky Bets and Truth-Tracking Fields](https://www.lesswrong.com/posts/LzyN9wzEdfS3j5SmT/tricky-bets-and-truth-tracking-fields). The same challenges are present for prediction markets.
 
-Prediction Markets
-------------------
+## Prediction Markets
 
 A [[Prediction Markets|prediction market]] is a way for everyone to participate in betting on a particular question. A positive externality of prediction markets, and to a lesser extent bets, is providing a reliable probability on its questions. It can also act as an insurer. [3](https://www.lesswrong.com/posts/ts4KmAR8aJoGMawLb/link-bets-do-not-necessarily-reveal-beliefs)[4](https://www.lesswrong.com/posts/JDKfPsHvBwgq4Knn9/buy-insurance-bet-against-yourself) [Truthcoin](http://www.truthcoin.info/), an idea for a decentralized prediction market, has the slogan "Making cheap talk expensive".
 

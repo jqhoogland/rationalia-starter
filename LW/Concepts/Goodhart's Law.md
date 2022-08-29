@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:24.908Z'
 
 Goodhart's Law is of particular relevance to [AI Alignment](https://www.lessestwrong.com/tag/ai). Suppose you have something which is generally a good proxy for "the stuff that humans care about", it would be dangerous to have a powerful AI optimize for the proxy, in accordance with Goodhart's law, the proxy will breakdown.  
 
-Goodhart Taxonomy
------------------
+## Goodhart Taxonomy
 
 In [Goodhart Taxonomy](https://www.lessestwrong.com/posts/EbFABnst8LsidYs5Y/goodhart-taxonomy), Scott Garrabrant identifies four kinds of Goodharting:
 
@@ -25,8 +24,7 @@ In [Goodhart Taxonomy](https://www.lessestwrong.com/posts/EbFABnst8LsidYs5Y/good
 *   Extremal Goodhart - Worlds in which the proxy takes an extreme value may be very different from the ordinary worlds in which the correlation between the proxy and the goal was observed.
 *   Adversarial Goodhart - When you optimize for a proxy, you provide an incentive for adversaries to correlate their goal with your proxy, thus destroying the correlation with your goal.
 
-See Also
---------
+## See Also
 
 *   [Groupthink](https://lessestwrong.com/tag/groupthink), [Information cascade](https://lessestwrong.com/tag/information-cascades), [Affective death spiral](https://lessestwrong.com/tag/affective-death-spiral)
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers), [Superstimulus](https://lessestwrong.com/tag/superstimuli)

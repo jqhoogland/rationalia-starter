@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:50.152Z'
 
 PB has >8374 prediction topics recorded, >9239 individual predictions judged, and >215 prediction topics [maturing in the next 2 years](http://predictionbook.com/predictions/future).
 
-Less Wrong users
-----------------
+## Less Wrong users
 
 These Less Wrong users have accounts at PredictionBook:
 
@@ -35,17 +34,14 @@ These Less Wrong users have accounts at PredictionBook:
 *   [notsonewuser](http://predictionbook.com/users/notsonewuser)
 *   [zrkrlc](http://predictionbook.com/users/zrkrlc)
 
-External links
---------------
+## External links
 
 *   [PredictionBook.com](http://predictionbook.com/) \- Official website
 
-Blog posts
-----------
+## Blog posts
 
 *   [PredictionBook.com - Track your calibration](http://lesswrong.com/lw/1bh/predictionbookcom_track_your_calibration/)
 
-See also
---------
+## See also
 
 *   [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [[Robot|Debate tools]]

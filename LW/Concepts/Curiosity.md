@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:03:11.662Z'
 
 *\-\-* Eliezer Yudkowsky, [The Twelve Virtues of Rationality](https://yudkowsky.net/rational/virtues/#:~:text=These%20then%20are%20twelve%20virtues,%2C%20scholarship%2C%20and%20the%20void.)
 
-See Also
---------
+## See Also
 
 *   [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes)
 *   [[Semantic Stopsign|Semantic stopsign]]
@@ -24,8 +23,7 @@ See Also
 *   [[Scholarship & Learning|Scholarship]]
 *   [[Doubt]]
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [A Fable of Science and Politics](https://www.lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
 *   [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/)

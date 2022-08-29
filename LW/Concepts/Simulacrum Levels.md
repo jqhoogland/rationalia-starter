@@ -18,8 +18,7 @@ synchedAt: '2022-08-29T11:05:16.360Z'
 *   Simulacrum Level 3: Say things that [[Signaling|signal]] membership to your ingroup.
 *   Simulacrum Level 4: Choose which group to signal membership to based on what the benefit would be for you.
 
-More descriptions of the four levels:
--------------------------------------
+## More descriptions of the four levels:
 
 By [Strawperson](https://www.lesswrong.com/posts/fEX7G2N7CtmZQ3eB5/simulacra-and-subjectivity?commentId=FgajiMrSpY9MxTS8b):
 

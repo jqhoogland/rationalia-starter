@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:05:13.427Z'
 
 **Newcomb's Problem** is a thought experiment in decision theory exploring problems posed by having other agents in the environment who can predict your actions.
 
-The Problem
------------
+## The Problem
 
 From [[Newcomb's Problem and Regret of Rationality]]:
 
@@ -41,13 +40,11 @@ Because the agent's decision in this problem can't causally affect Omega's predi
 
 The general class of decision problems that involve other agents predicting your actions are called Newcomblike Problems.
 
-Irrelevance of Omega's Physical Impossibility
----------------------------------------------
+## Irrelevance of Omega's Physical Impossibility
 
 Sometimes people dismiss Newcomb's problem because of the physical impossibility of a being like Omega. However, Newcomb's problem does not actually depend on the possibility of Omega in order to be relevant. Similar issues arise if we imagine a skilled human psychologist who can predict other people's actions with 65% accuracy.
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Newcomb's Problem and Regret of Rationality](https://lessestwrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
 *   [Formalizing Newcomb's](https://lessestwrong.com/lw/7v/formalizing_newcombs/)
@@ -55,8 +52,7 @@ Notable Posts
 *   [Newcomb's Problem vs. One-Shot Prisoner's Dilemma](https://lessestwrong.com/lw/6r/newcombs_problem_vs_oneshot_prisoners_dilemma/)
 *   [Decision theory: Why Pearl helps reduce “could” and “would”, but still leaves us with at least three alternatives](https://lessestwrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/)
 
-See Also
---------
+## See Also
 
 *   [Decision theory](https://lessestwrong.com/tag/decision-theory)
 *   [Counterfactual mugging](https://lessestwrong.com/tag/counterfactual-mugging)

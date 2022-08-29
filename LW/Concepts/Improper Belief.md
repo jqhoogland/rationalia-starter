@@ -22,13 +22,11 @@ Improper belief is one of the subjects of the [Mysterious Answers to Mysterious 
 *   [[Belief In Belief|Belief in belief]]
 *   [Belief as cheering](https://wiki.lesswrong.com/wiki/Belief_as_cheering)
 
-Blog posts
-----------
+## Blog posts
 
 *   [Belief as Attire](http://lesswrong.com/lw/i7/belief_as_attire/)
 
-See also
---------
+## See also
 
 *   [[Anti-Epistemology|Anti-epistemology]]
 *   [[Self-Deception|Self-deception]]

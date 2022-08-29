@@ -17,13 +17,11 @@ In more standard terminology, a "subgoal stomp" is a "goal displacement", in whi
 
 In Friendly AI research, a subgoal stomp is a failure mode to be avoided.
 
-Types of Subgoal Stomp
-----------------------
+## Types of Subgoal Stomp
 
 A subgoal stomp in an artificial general intelligence may occur in one of two ways:
 
-1\. Supergoal replacement
--------------------------
+## 1\. Supergoal replacement
 
 One failure mode occurs when subgoals replace supergoals in an agent because of a bug.
 
@@ -33,8 +31,7 @@ Most changes in an agent's [[Terminal Value|terminal values]] reduces the chance
 
 In humans, this can happen when the long-term dedication towards a subgoal makes one forget the original goal. For example, a person may seek to get rich so as to lead a better life, but after long years of hard effort become a workaholic who cares only about money as an end in itself and takes little pleasure in the things that money can buy.
 
-2\. Subgoal specified as supergoal
-----------------------------------
+## 2\. Subgoal specified as supergoal
 
 A designer of goal systems may mistakenly assign a goal that is not what the designer really wants.
 
@@ -42,24 +39,20 @@ The designer of an artificial general intelligence may give it a supergoal (term
 
 To take an example from human organizations: If a software development manager gives a bonus to workers for finding and fixing bugs, she may find that quality and development engineers collaborate to generate as many easy-to-find-and-fix bugs as possible. In this case, they are correctly and flawlessly executing on the goals which the manager gave them, but her actual terminal value, software quality, is not being maximized.
 
-Humans as adaptation executors
-------------------------------
+## Humans as adaptation executors
 
 Humans, forged by evolution, provide another example of subgoal stomp. Their terminal values, such as survival, health, social status, curiosity, etc., originally served instrumentally for the (implicit) goal of evolution, namely inclusive genetic fitness. Humans do *not* have inclusive genetic fitness as a goal: We are adaptation executors rather than fitness maximizers (Tooby and Cosmides, 1992).
 
 If we consider evolution as an optimization process (though not, of course, as an agent), this represents a subgoal stomp.
 
-See Also
---------
+## See Also
 
 *   [[Wireheading]]
 
-External Links
---------------
+## External Links
 
 *   [Creating Friendly AI](http://intelligence.org/files/CFAI.pdf)
 
-References
-----------
+## References
 
 Tooby, John, and Cosmides, Leda (1992) "The Psychological Foundations of Culture" in Jerome Barkow, Leda Cosmides, and John Tooby. *The Adapted Mind: Evolutionary Psychology and the Generation of Culture.* New York: Oxford.

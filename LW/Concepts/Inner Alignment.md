@@ -19,7 +19,6 @@ The term was first given a definition in the Hubinger et al paper *Risk from Lea
 
 **Related Pages:** [[Mesa-Optimization]]
 
-External Links:
----------------
+## External Links:
 
 [Video by Robert Miles](https://www.youtube.com/watch?v=bJLcIBixGj8)

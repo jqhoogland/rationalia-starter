@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:09:33.149Z'
 
 In philosophy, a **possible world** is one that is internally consistent, even if it is [counterfactual](https://wiki.lesswrong.com/wiki/counterfactual).
 
-See also
---------
+## See also
 
 *   [[Impossible World|Impossible world]]
 *   [[Least Convenient Possible World|Least convenient possible world]]

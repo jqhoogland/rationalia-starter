@@ -39,13 +39,11 @@ Expectation of the change given positive evidence is equal to negated expectatio
 
 If you can *anticipate in advance* updating your belief in a particular direction, then you should just go ahead and update now. Once you know your destination, you are already there. 
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Conservation of Expected Evidence](https://lessestwrong.com/lw/ii/conservation_of_expected_evidence/)
 *   [Mistakes with Conservation of Expected Evidence](https://lessestwrong.com/posts/zTfSXQracE7TW8x4w/mistakes-with-conservation-of-expected-evidence-1)
 
-See Also
---------
+## See Also
 
 *   [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)

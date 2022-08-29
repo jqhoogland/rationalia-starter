@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:13:10.410Z'
 
 A sequence of posts by [Yvain](https://wiki.lesswrong.com/wiki/Yvain).
 
-Posts
------
+## Posts
 
 *   [Simulaneously Right and Wrong](http://lesswrong.com/lw/1d/simultaneously_right_and_wrong)
 *   [The Mystery of the Haunted Rationalist](http://lesswrong.com/lw/1l/the_mystery_of_the_haunted_rationalist)
@@ -28,8 +27,7 @@ Posts
 *   [The Power of Positivist Thinking](http://lesswrong.com/lw/48/the_power_of_positivist_thinking)
 *   [When Truth Isn't Enough](http://lesswrong.com/lw/4h/when_truth_isnt_enough)
 
-See also
---------
+## See also
 
 *   [[Priming]]
 *   [The Science of Winning at Life](https://www.lesswrong.com/tag/the-science-of-winning-at-life) (sequence)

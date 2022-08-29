@@ -17,8 +17,7 @@ One example of a Molochian dynamic is a [Red Queen race](https://en.wikipedia.or
 
 The topic of Moloch receives a formal treatment in the sequence [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d), particularly in the chapter [Moloch's Toolbox](https://www.lesswrong.com/posts/x5ASTMPKPowLKpLpZ/moloch-s-toolbox-1-2).
 
-Origin
-------
+## Origin
 
 [Scott Alexander](https://www.lesswrong.com/users/yvain?sortedBy=top)  linked the name to the concept in his eponymous post, [Meditations on Moloch](https://www.lessestwrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch).  The post intersperses lines of Allan Ginsberg's poem, [Howl](https://www.poetryfoundation.org/poems/49303/howl), with multiples examples of the dynamic including: the Prisoner's Dilemma, dollar auctions, [fish farming story](https://web.archive.org/web/20160928190322/http://raikoth.net/libertarian.html), Malthusian trap, capitalism, two-income trap, agriculture, arms races, races to the bottom, education system, science, and government corruption and corporate welfare. 
 

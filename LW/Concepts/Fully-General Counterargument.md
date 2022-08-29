@@ -15,14 +15,12 @@ A **fully general counterargument** is an argument which can be used to discount
 
 Knowledge of cognitive biases can itself allow someone to form fully general counterarguments ("you're just saying that because you're exhibiting X bias").
 
-Blog posts
-----------
+## Blog posts
 
 *   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
 *   [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
 
-See also
---------
+## See also
 
 *   [[Dangerous Knowledge|Dangerous knowledge]]
 *   [[Anti-Epistemology|Anti-epistemology]]

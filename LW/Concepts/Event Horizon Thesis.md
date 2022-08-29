@@ -19,14 +19,12 @@ An argument in favor of such unpredictability goes as follows. Suppose you could
 
 However, this argument does not rule out all predictions. In particular, if we can predict what a superintelligence's goals will be, we can predict that it will probably achieve those goals, even if we don't know by what method. The predictions involved in [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI) tend to be of this nature.
 
-External links
---------------
+## External links
 
 *   [Knowability of FAI](http://sl4.org/wiki/KnowabilityOfFAI), by Eliezer Yudkowsky
 *   [The Coming Technological Singularity](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), by Vernor Vinge
 *   [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools), by Eliezer Yudkowsky
 
-See also
---------
+## See also
 
 *   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)

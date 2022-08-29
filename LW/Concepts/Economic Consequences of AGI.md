@@ -21,15 +21,13 @@ In ["The Future of Human Evolution"](http://www.nickbostrom.com/fut/evolution.pd
 
 Others predict that growth will blow up even more suddenly (up to the point where physical limits become relevant), and that growth will be concentrated in a smaller and more coherent set of agents, so that instead of continued free market competition, we will see a [[Singleton|singleton]] emerge.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Hanson-Yudkowsky Foom Debate](http://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate)
 *   [Overcoming Bias posts tagged "Future"](http://www.overcomingbias.com/tag/future)
 *   [Is The City-ularity Near?](http://www.overcomingbias.com/2010/02/is-the-city-ularity-near.html)
 
-External links
---------------
+## External links
 
 *   [Bostrom's paper on elimination of culture](http://www.nickbostrom.com/fut/evolution.pdf)
 *   [Economic growth given machine intelligence](http://hanson.gmu.edu/aigrow.pdf)
@@ -37,8 +35,7 @@ External links
 *   [Long-term growth as a sequence of exponential modes](http://hanson.gmu.edu/longgrow.pdf)
 *   [Is a singularity just around the corner? What it takes to get explosive economic growth](http://hanson.gmu.edu/fastgrow.html)
 
-See also
---------
+## See also
 
 *   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)
 *   [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff), [Soft takeoff](https://wiki.lesswrong.com/wiki/Soft_takeoff)

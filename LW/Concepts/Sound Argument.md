@@ -19,7 +19,6 @@ For example, consider the following syllogism:
 *   30 is a multiple of ten. (True premise/C is A)
 *   Therefore, 30 is a multiple of 5. (True conclusion/Therefore, C is B.)
 
-See also
---------
+## See also
 
 *   [[Valid Argument|Valid argument]]

@@ -21,16 +21,14 @@ Drexler has proposed, with his *molecular nanotechnology*, that the field could 
 
 When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the development of [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), Yudkowsky proposes that the unrestricted access to nanotechnology by an [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]] could have catastrophic results for mankind.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   Binnig, G.; Rohrer, H. (1986). "Scanning tunneling microscopy". IBM Journal of Research and Development 30: 4.
 *   "Nanoscience and nanotechnologies: opportunities and uncertainties". Royal Society and Royal Academy of Engineering. July 2004. Retrieved 13 May 2011.
 *   Allhoff, Fritz; Lin, Patrick; Moore, Daniel (2010). What is nanotechnology and why does it matter?: from science to ethics. John Wiley and Sons. pp. 3–5. ISBN 1-4051-7545-1.
 *   [There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html) by Richard Feynman
 
-See also
---------
+## See also
 
 *   [[Exploratory Engineering|Exploratory engineering]]
 *   [[Rational Evidence|Rational evidence]], [[Science]]

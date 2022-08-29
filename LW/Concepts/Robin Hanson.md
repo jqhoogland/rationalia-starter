@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:45.274Z'
 
 Robin Hanson was one of the two primary authors on [[Overcoming Bias]].  After [LessWrong](https://www.lesswrong.com/about) portal was launched, he converted [[Overcoming Bias]] into being his personal blog.
 
-Links
------
+## Links
 
 *   Robin Hanson's bio [on his personal site](http://hanson.gmu.edu/bio.html), [on Overcoming Bias](http://www.overcomingbias.com/bio)
 *   [A list of all of Hanson's posts to Overcoming Bias with dependency graphs](http://web.archive.org/web/20161020114937/https://www.cs.auckland.ac.nz/~andwhay/hpostlist.html)

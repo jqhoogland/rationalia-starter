@@ -16,6 +16,6 @@ What makes something valuable—morally, or aesthetically, or prudentially? Thes
 
 # Sequences
 
-- [[Fake Preferences]]
-- [[Value Theory]]
-- [[Quantified Humanism]]
+- [[Fake Preferences (Sequence)]]
+- [[Value Theory (Sequence)]]
+- [[Quantified Humanism (Sequence)]]

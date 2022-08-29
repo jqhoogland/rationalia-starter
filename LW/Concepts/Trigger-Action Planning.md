@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:08.015Z'
 
 After it was clear that TAPs should be heavily applied to cognitive motions/thought patterns, some decided that the 'P' should stand for 'Pattern' rather than 'Plan'.
 
-**Resources**
--------------
+## **Resources**
 
 *   The CFAR Participant Handbook \[1\] contains a chapter on TAPs.
 *   Brienne Yudkowsky's writings on the topic of Noticing, found mostly at her blog \[[1](https://agentyduck.blogspot.com/search?q=noticing)\], are particularly good material related to training TAPs.

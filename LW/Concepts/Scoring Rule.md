@@ -15,8 +15,7 @@ In [[Decision Theory|decision theory]], a **scoring rule** is a measure of perfo
 
 As an example of a probabilistic prediction, consider a sports magazine dealing with horse races that gives the winning chance of each horse for each race the day before. If we gather data regarding those predictions and compare it to the actual results, we have a measure – a scoring rule - of the magazine’s performance. This scoring is almost always nonlinear, and there are many different transformations which are widely used.
 
-Proper scoring rules
---------------------
+## Proper scoring rules
 
 A **proper scoring rule** is one that encourages the forecaster to be honest – that is, the [[Expected Value|expected]] payoff is maximized by accurately reporting personal beliefs about the predicted event, rather than by gaming the system. These rules include the Logarithmic scoring rule, Spherical scoring rule and Brier/Quadratic scoring rule.
 
@@ -30,14 +29,12 @@ Score = log(abs(outcome - prediction))
 
 where "outcome" is 1 or 0, and "prediction" is the probability on (0, 1) that the system assigned to the outcome that actually occurred.
 
-References
-----------
+## References
 
 *   Bickel, E.J. (2007). "Some Comparisons among Quadratic, Spherical, and Logarithmic Scoring Rules". Decision Analysis, 4, (2), 49–65.
 *   Tilmann Gneiting; Adrian E Raftery (March 2007). "Strictly Proper Scoring Rules, Prediction, and Estimation". Journal of the American Statistical Association 102 (477): 359-378. ([PDF](http://www.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf))
 *   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
 
-See also
---------
+## See also
 
 *   [[Technical Explanation|Technical explanation]]

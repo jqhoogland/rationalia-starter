@@ -23,8 +23,7 @@ Naturalized induction is a particular angle of approach on larger Friendly AI su
 4.  **first-person reductionism**: formalizing and defining reasonable priors for [bridge hypotheses](https://wiki.lesswrong.com/wiki/bridge_rule) linking agent-internal representations to physical posits
 5.  **anthropics**: conditioning on the reasoner's existence, e.g., in scenarios of indexical uncertainty or self-replication
 
-Blog posts
-----------
+## Blog posts
 
 *   [Building Phenomenological Bridges‎](http://lesswrong.com/lw/jd9/building_phenomenological_bridges/) by Rob Bensinger
 *   [Bridge Collapse: Reductionism as Engineering Problem](http://lesswrong.com/lw/jlg/bridge_collapse_reductionism_as_engineering/) by Rob Bensinger

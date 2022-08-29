@@ -44,8 +44,7 @@ L. The Simple Math of Evolution
 
 142\. [Thou Art Godshatter](http://lesswrong.com/lw/l3/thou_art_godshatter/)
 
-M. Fragile Purposes
--------------------
+## M. Fragile Purposes
 
 143\. [Belief in Intelligence](http://lesswrong.com/lw/v8/belief_in_intelligence/)
 
@@ -67,8 +66,7 @@ M. Fragile Purposes
 
 152\. [Lost Purposes](http://lesswrong.com/lw/le/lost_purposes/)
 
-N. A Human's Guide to Words
----------------------------
+## N. A Human's Guide to Words
 
 153\. [The Parable of the Dagger](http://lesswrong.com/lw/ne/the_parable_of_the_dagger)
 

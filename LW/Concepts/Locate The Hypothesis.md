@@ -19,18 +19,15 @@ When the space of possibilities is large, it takes a [[Amount of Evidence|large 
 
 In 1919, Sir Arthur Eddington led expeditions to Brazil and to the island of Principe, aiming to observe solar eclipses and thereby test an experimental prediction of Einstein's novel theory of General Relativity. A journalist asked Einstein what he would do if Eddington's observations failed to match his theory. Einstein famously replied: "Then I would feel sorry for the good Lord. The theory is correct." This sounds like Einstein is defying the sovereignty of experiment - jumping to conclusions in advance of the experimental data. But since Einstein _was_ in fact right, it would be extremely improbable for him to have been right just by jumping to conclusions. Einstein must have had enough [[Rational Evidence|rational evidence]] _already in hand_ to locate General Relativity in theory-space.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
 
-External links
---------------
+## External links
 
 *   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
 
-See also
---------
+## See also
 
 *   [[Amount of Evidence|Amount of evidence]]
 *   [[Privileging The Hypothesis|Privileging the hypothesis]]

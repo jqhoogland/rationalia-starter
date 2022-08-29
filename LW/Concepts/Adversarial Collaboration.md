@@ -35,7 +35,6 @@ Scott Alexander has arranged adversarial collaboration contests on his his blog,
 *   [Should childhood vaccination be mandatory?](https://slatestarcodex.com/2018/09/06/acc-entry-should-childhood-vaccination-be-mandatory/) by Mark Davis and Mark Webb
 *   [Should children who identify as transgender start transitioning?](https://slatestarcodex.com/2018/09/08/acc-entry-should-transgender-children-transition/) by a_reader and flame7926
 
-External links
---------------
+## External links
 
 [http://web.cenet.org.cn/upfile/21290.pdf](http://web.cenet.org.cn/upfile/21290.pdf) (the protocol is summarized in table 1, at the top of page 2)

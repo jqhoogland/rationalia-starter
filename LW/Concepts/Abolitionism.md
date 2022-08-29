@@ -17,8 +17,7 @@ In his post [Serious Stories](http://lesswrong.com/lw/xi/serious_stories/), part
 
 Addressing this type of objection to “paradise engineering”, Pearce [writes](https://www.hedweb.com/hedethic/hedon4.htm#boring) that, while the prospect of perpetual intelligent bliss may sound unexciting, boredom can be abolished or replaced with its functional analogs that don’t involve aversive qualia. Like any other psychophysical state, boredom can be optional once its biochemical substrates are identified. Pearce also notes that even if human descendants opt into indiscriminate bliss, they will not get bored, for, as intracranial stimulation has evidenced, pure pleasure has no tolerance and “never palls”.
 
-See also
---------
+## See also
 
 *   [[Hedonism]]
 *   [[Risks of Astronomical Suffering (S-risks)|Suffering risk]]
@@ -26,8 +25,7 @@ See also
 *   [[Utilitarianism]]
 *   [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
 
-External links
---------------
+## External links
 
 *   [*The Hedonistic Imperative*](http://hedweb.org/)
 *   [Pearce's talk about abolitionism at the Future of Humanity Institute](http://abolitionist.com)

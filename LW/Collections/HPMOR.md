@@ -23,5 +23,3 @@ This is an Alternate Universe story, where Petunia married a scientist. Now Rati
 - [[4— HJG and the Phoenix's Call]]
 - [[5— HJPEV and the Last Enemy]]
 - [[6— HJPEV and the Philosopher's Stone]]
-
-%% Not officially a collection. It just made more sense for organizing this vault %%

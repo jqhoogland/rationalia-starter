@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:47.865Z'
+aliases:
+  - Fake Preferences
+synchedAt: '2022-08-29T17:16:41.106Z'
 ---
 # Fake Preferences
 

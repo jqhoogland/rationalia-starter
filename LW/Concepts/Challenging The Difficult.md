@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:09:22.920Z'
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) on how to do things that are difficult or "impossible".
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Proper Use of Humility](http://lesswrong.com/lw/gq/the_proper_use_of_humility/)
 *   [Tsuyoku Naritai (I Want To Become Stronger)](http://lesswrong.com/lw/h8/tsuyoku_naritai_i_want_to_become_stronger/)
@@ -30,13 +29,11 @@ Blog posts
 *   [Make an Extraordinary Effort](http://lesswrong.com/lw/uo/make_an_extraordinary_effort/)
 *   [Shut Up and Do the Impossible](http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/)
 
-Other formats
--------------
+## Other formats
 
 *   [Readlists](http://readlists.com/4b959f23/): compilation of this sequence avalaible to download as an ebook (epub, mobi) 
 
-See also
---------
+## See also
 
 *   [[Tsuyoku Naritai|Tsuyoku naritai]]
 *   [[Egalitarianism]]

@@ -13,13 +13,11 @@ synchedAt: '2022-08-29T11:10:17.478Z'
 
 Memorization is what you're doing when you cram for a university exam. It's not enough for [[Understanding|understanding]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [Two More Things to Unlearn from School](http://lesswrong.com/lw/i2/two_more_things_to_unlearn_from_school/)
 
-See also
---------
+## See also
 
 *   [[Understanding]]
 *   [Teacher's password](https://wiki.lesswrong.com/wiki/Teacher's_password), [[Detached Lever Fallacy|Detached lever fallacy]]

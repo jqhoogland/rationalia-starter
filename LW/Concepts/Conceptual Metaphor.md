@@ -17,8 +17,7 @@ The conceptual metaphor "ARGUMENT is WAR" is frequently discussed at Less Wrong,
 
 Similarly, [George Lakoff](https://en.wikipedia.org/wiki/George_Lakoff) has documented the effect of political metaphors, which tend to map government to a "nurturing mother" or an "authoritarian father".
 
-Related concepts
-----------------
+## Related concepts
 
 *   [[Mind Projection Fallacy|Mind projection fallacy]]
 *   [[Affect Heuristic|Affect heuristic]]

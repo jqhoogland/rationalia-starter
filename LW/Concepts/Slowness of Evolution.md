@@ -31,13 +31,11 @@ Contrast to a human programmer, who can design a new complex mechanism with a hu
 
 The tremendously slow timescale of evolution, especially for creating new complex machinery (as opposed to selecting on *existing* variance), is why the behavior of evolved organisms is often better interpreted [in terms of what did in fact work yesterday, rather than what will work in the future](https://wiki.lesswrong.com/wiki/adaptation_executers).
 
-Main article
-------------
+## Main article
 
 *   [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/)
 
-See also
---------
+## See also
 
 *   [[Stupidity of Evolution|Stupidity of evolution]]
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

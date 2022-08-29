@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:13:23.663Z'
 
 A [[Sequences|subsequence]] of [[Reductionism (Sequence)|Reductionism]] on the putative "possibility" of beings who are just like us in every sense, but not conscious - that is, lacking inner subjective experience.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Zombies! Zombies?](http://lesswrong.com/lw/p7/zombies_zombies/) (a revised version of this post is available [here](http://lesswrong.com/lw/nqv/zombies_redacted/), under the title "Zombies Redacted")
 *   [Zombie Responses](http://lesswrong.com/lw/p8/zombie_responses/)
@@ -24,8 +23,7 @@ Blog posts
 *   [Zombies: The Movie](http://lesswrong.com/lw/pn/zombies_the_movie/)
 *   Also: [Causal reference](http://lesswrong.com/lw/f1u/causal_reference/)
 
-See also
---------
+## See also
 
 *   [[Zombies]]
 *   [[Reductionism (Sequence)|Reductionism (sequence)]]

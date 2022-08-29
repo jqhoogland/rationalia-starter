@@ -1,11 +1,14 @@
 ---
 _id: ix7grGajtrJJYXsY3
 title: 'Bonus: Best Essays of LessWrong'
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T13:14:36.507Z'
+aliases:
+  - Bonus— Best Essays of LessWrong
+synchedAt: '2022-08-29T17:16:36.888Z'
 ---
 # Bonus: Best Essays of LessWrong
 

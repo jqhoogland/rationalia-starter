@@ -19,13 +19,11 @@ synchedAt: '2022-08-29T11:06:10.795Z'
 
 Identifying yourself with a [[Blues & Greens (metaphor)|side]] in a political debate may be [[Mind-Killer|detrimental]] to rational evaluation of arguments. Arguments get treated as soldiers, weapons to be used to defend your side of the debate, and to attack the other side. They are no longer instruments of the [[Truth, Semantics, & Meaning|truth]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [Policy Debates Should Not Appear One-Sided](http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)
 
-See also
---------
+## See also
 
 *   [[Policy Debates Should Not Appear One-Sided|Policy debates should not appear one-sided]]
 *   [Adversarial process](https://wiki.lesswrong.com/wiki/Adversarial_process)

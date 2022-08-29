@@ -17,8 +17,7 @@ An [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) with Bayesi
 
 The difference is more apparent when discussing ideas. A frequentist will not assign probability to an idea; either it is true or false and it cannot be true 6 times out of 10.
 
-Blog posts
-----------
+## Blog posts
 
 *   [What is Bayesianism?](http://lesswrong.com/lw/1to/what_is_bayesianism/)
 *   [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
@@ -27,16 +26,14 @@ Blog posts
 *   [Against NHST](http://lesswrong.com/lw/g13/against_nhst/)
 *   [[Probability & Statistics|All Less Wrong posts tagged "Probability"]]
 
-See also
---------
+## See also
 
 *   [[Priors]]
 *   [[Bayesianism|Bayesian]]
 *   [[Bayes' Theorem|Bayes' theorem]]
 *   [[Mind Projection Fallacy|Mind projection fallacy]]
 
-External links
---------------
+## External links
 
 *   [BIPS](http://www.astro.cornell.edu/staff/loredo/bayes/index.html): Bayesian Inference for the Physical Sciences
 *   [Maximum entropy thermodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)

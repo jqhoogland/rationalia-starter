@@ -15,7 +15,6 @@ synchedAt: '2022-08-29T10:48:17.559Z'
   
 One might lack agency for internal reasons, e.g., one is a rock which has no goals of ability to act on them, or for external reasons, e.g. being a child who is granted no freedom to act as they choose.  
 
-See Also
---------
+## See Also
 
 *   [[Robust Agents|Robust Agency]]

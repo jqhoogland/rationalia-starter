@@ -23,8 +23,7 @@ It would be a tremendously powerful, unbelievably stupid, [[Slowness of Evolutio
 
 And this is the process responsible for the creation of all biological life on Earth, and you in particular, so you should probably get to know it in some detail.
 
-Blog posts
-----------
+## Blog posts
 
 *   [An Alien God](http://lesswrong.com/lw/kr/an_alien_god/)
 *   [The Wonder of Evolution](http://lesswrong.com/lw/ks/the_wonder_of_evolution/) ...is not how amazingly well it works, but that it works _at all_ without a mind, brain, or the ability to think abstractly - that an entirely _accidental_ process can produce complex designs. If you talk about how amazingly _well_ evolution works, you're missing the point.
@@ -33,8 +32,7 @@ Blog posts
 *   [Evolving to Extinction](http://lesswrong.com/lw/l5/evolving_to_extinction/) \- it is a common misconception that evolution works for the good of a species, but actually evolution only cares about the inclusive fitness of genes relative to _each other_, and so it is quite possible for a species to evolve to extinction.
 *   [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/) \- you shouldn't bother coming up with clever, persuasive arguments for why evolution will do things the way you prefer. It really isn't listening.
 
-See also
---------
+## See also
 
 *   [[Evolution]]
 *   [[Stupidity of Evolution|Stupidity of evolution]]

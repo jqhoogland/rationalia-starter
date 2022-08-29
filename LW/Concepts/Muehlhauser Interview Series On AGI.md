@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:13:17.752Z'
 
 In 2012, [Luke Muehlhauser](http://lukeprog.com/) ([lukeprog](http://lesswrong.com/user/lukeprog)) began an interview series with experts, about artificial general intelligence (AGI).
 
-Interviews
-----------
+## Interviews
 
 A list of all interviews:
 
@@ -22,8 +21,7 @@ A list of all interviews:
 *   [With Pei Wang](http://lesswrong.com/r/discussion/lw/bxr/muehlhauserwang_dialogue/).
 *   [With Bill Hibbard](http://lesswrong.com/r/discussion/lw/di6/muehlhauserhibbard_dialogue_on_agi/).
 
-See also
---------
+## See also
 
 *   [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.
 *   [Machine Intelligence Survey](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0015/21516/MI_survey.pdf), Sandberg, A. and Bostrom, N. (2011). Future of Humanity Institute, Oxford University.

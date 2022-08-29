@@ -15,8 +15,7 @@ Traditional depictions of **magic** would seem to require introducing _complex_ 
 
 In our own naturalistic, [[Reductionism|reductionist]] universe, there is always a simpler explanation. Any complicated thing that happens, happens because there is some physical mechanism behind it, even if you don't _know_ the mechanism yourself (which is most of the time). There is no magic.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
 *   [Excluding the Supernatural](http://lesswrong.com/lw/tv/excluding_the_supernatural/)
@@ -24,8 +23,7 @@ Blog posts
 *   [If You Demand Magic, Magic Won't Help](http://lesswrong.com/lw/ou/if_you_demand_magic_magic_wont_help/)
 *   [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)
 
-See also
---------
+## See also
 
 *   [[Sympathetic Magic|Sympathetic magic]]
 *   [[Mind Projection Fallacy|Mind projection fallacy]], [[Detached Lever Fallacy|Detached lever fallacy]]

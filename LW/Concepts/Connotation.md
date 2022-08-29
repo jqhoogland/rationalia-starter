@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:09:09.622Z'
 
 **Connotation** is a subjective cultural and/or emotional coloration in addition to the explicit or denotative meaning of any specific word or phrase in a language, i.e. emotional association with a word.
 
-Blog posts
-----------
+## Blog posts
 
 *   [When Truth is a Trap](http://www.overcomingbias.com/2006/12/when_truth_is_a.html) by David J. Balan
 *   [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/) \- Inability of most people to adequately process statistical information causes even _mentioning_ of negative [[Possibility|possibilities]], with probability however small, to produce significant negative affect.
@@ -22,8 +21,7 @@ Blog posts
 *   [Sneaking in Connotations](http://lesswrong.com/lw/ny/sneaking_in_connotations/)
 *   [When Truth Isn't Enough](http://lesswrong.com/lw/4h/when_truth_isnt_enough/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
-See also
---------
+## See also
 
 *   [[Antiprediction]]
 *   [[Not Technically A Lie|Not technically a lie]]

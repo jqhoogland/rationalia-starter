@@ -11,13 +11,11 @@ synchedAt: '2022-08-29T10:47:46.133Z'
 ---
 # Something To Protect
 
-See Also
---------
+## See Also
 
 *   [Heroic Responsibility](/tag/heroic-responsibility)
 
-Blog posts
-----------
+## Blog posts
 
 *   [Something to Protect](http://lesswrong.com/lw/nb/something_to_protect/)
 *   [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)

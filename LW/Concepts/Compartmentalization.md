@@ -17,8 +17,7 @@ From an alternative angle, one can think of compartmentalizing one's different a
 
 One might even have excellent epistemological performance in one domain and terrible performance in others.
 
-See also
---------
+## See also
 
 *   [[Semantic Stopsign|Semantic stopsign]], [[Anti-Epistemology|Anti-epistemology]]
 *   [[Cached Thoughts|Cached thought]]

@@ -33,16 +33,14 @@ An emulated-brain populated world could hold severe negative consequences, such 
 *   Elimination of culture in general, due to an extremely increasing penalty for inefficiency in the form of flamboyant displays [^11^](#fn11)
 *   Near zero costs for reproduction, pushing most of [[Economic Consequences of AGI|emulations to live in a subsistence state]]. [^12^](#fn12)
 
-See Also
---------
+## See Also
 
 *   [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
 *   [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]]
 *   [[Simulation Hypothesis|Simulation hypothesis]]
 *   [[Neuromorphic AI]]
 
-External Links
---------------
+## External Links
 
 *   [The Singularity is near: When humans transcend biology](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889/) by Ray Kurzweil
 *   [[Brain Emulation Roadmap|Whole Brain Emulation: A Roadmap]]. Report by The Future of Humanity Institute.
@@ -54,8 +52,7 @@ External Links
 *   [A framework for approaches to transfer of a mind's substrate](http://www.sim.me.uk/neural/JournalArticles/Bamford2012IJMC.pdf) by Sim Bamford
 *   [Coalescing Minds: Brain Uploading-related Group Mind Scenarios](http://www.xuenay.net/Papers/CoalescingMinds.pdf) by Kaj Sotala and Harri Valpola
 
-References
-----------
+## References
 
 1.  [[Brain Emulation Roadmap|Whole Brain Emulation: A Roadmap]][↩](#fnref1)
 2.  Strout, J. Uploading by the Nanoreplacement Procedure. [http://www.ibiblio.org/jstrout/uploading/nanoreplacement.html](http://www.ibiblio.org/jstrout/uploading/nanoreplacement.html)[↩](#fnref2)

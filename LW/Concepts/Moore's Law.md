@@ -17,8 +17,7 @@ Though current CMOS technology is predicted to be nonviable below a certain size
 
 Moore's law is often cited as a reason to expect the creation of an [AGI](https://wiki.lesswrong.com/wiki/AGI) in the future, and is crucial for the possibility of [[Whole Brain Emulation|whole brain emulation]].
 
-References
-----------
+## References
 
 *   [Gordon Moore's orignal 1965 paper](http://download.intel.com/museum/Moores_Law/Articles-Press_Releases/Gordon_Moore_1965_Article.pdf) Electronics, Volume 38, Number 8, April 19, 1965
 *   [Progress in Digital Integrated Circuits](http://download.intel.com/museum/Moores_Law/Articles-Press_Releases/Gordon_Moore_1975_Speech.pdf) Transcript of 1975 speech by Gordon Moore

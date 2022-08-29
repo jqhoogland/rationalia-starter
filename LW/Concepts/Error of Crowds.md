@@ -15,13 +15,11 @@ The **error of crowds** is the idea that under some scoring rules, the average e
 
 A related idea is that a popular belief is likely to be wrong because the less popular ones couldn't maintain support if they were worse than the popular one.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Error of Crowds](http://lesswrong.com/lw/hc/the_error_of_crowds/)
 *   [The Majority Is Always Wrong](http://lesswrong.com/lw/hd/the_majority_is_always_wrong/)
 
-See also
---------
+## See also
 
 *   [[Modesty Argument|Modesty argument]]

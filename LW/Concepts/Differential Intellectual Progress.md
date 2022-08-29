@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T11:05:40.159Z'
 
 Muehlhauser and Salamon also note that [differential technological development](https://en.wikipedia.org/wiki/Differential_technological_development) can be seen as a special case of this concept.
 
-Risk-increasing Progress
-------------------------
+## Risk-increasing Progress
 
 Technological advances — without corresponding development of safety mechanisms — simultaneously increase the capacity for both [friendly](https://wiki.lesswrong.com/wiki/Friendly_AI) and [unfriendly](https://wiki.lesswrong.com/wiki/Unfriendly_AI) AGI development. Presently, most AGI research is concerned with increasing its _capacity_ rather than its _safety_ and thus, most progress increases the risk for a [[Existential Risk|widespread negative effect]].
 
@@ -32,8 +31,7 @@ Technological advances — without corresponding development of safety mechanism
 
 The above developments could also help in the creation of [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI). However, Friendliness requires the development of both AGI and Friendliness theory, while an [Unfriendly Artificial Intelligence](https://wiki.lesswrong.com/wiki/Unfriendly_AI) might be created by AGI efforts alone. Thus developments that bring AGI closer or make it more powerful will increase risk, at least if not combined with work on Friendliness.
 
-Risk-reducing Progress
-----------------------
+## Risk-reducing Progress
 
 There are several areas which, when more developed, will provide a means to produce AGIs that are friendly to humanity. These areas of research should be prioritized to prevent possible disasters.
 
@@ -43,16 +41,14 @@ There are several areas which, when more developed, will provide a means to prod
 
 *   _Friendly AGI goals._ Embedding an AGI with friendly [[Terminal Value|terminal values]] reduces the risk that it will take action that is harmful to humanity. [Development](http://lukeprog.com/SaveTheWorld.html#goals) in this area has lead to many questions about what _should_ be implemented. However, precise methodologies which, when executed within an AGI, would prevent it from harming humanity have not yet materialized.
 
-See Also
---------
+## See Also
 
 *   [AGI](https://wiki.lesswrong.com/wiki/AGI)
 *   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 *   [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI)
 *   [[AI Boxing (Containment)|AI Boxing]]
 
-References
-----------
+## References
 
 *   [Intelligence Explosion: Evidence and Import](http://web.archive.org/web/20190430130748/http://intelligence.org/files/IE-EI.pdf) by Luke Muehlhauser and Anna Salamon
 *   [Why We Need Friendly AI](http://www.preventingskynet.com/why-we-need-friendly-ai/) by Eliezer Yudkowsky

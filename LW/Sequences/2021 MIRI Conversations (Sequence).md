@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:49.352Z'
+aliases:
+  - 2021 MIRI Conversations
+synchedAt: '2022-08-29T17:16:42.660Z'
 ---
 # 2021 MIRI Conversations
 

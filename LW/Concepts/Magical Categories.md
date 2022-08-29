@@ -25,14 +25,12 @@ If you were talking to a _human firefighter_, it wouldn't occur to him, any more
 
 Physical brains are not powerful enough to search all possibilities; we have to cut down the search space to possibilities that are likely to be good. Most of the "obviously bad" ways to get one's mother out of a burning building - those that would end up violating our other values, and so ranking very low in our preference ordering - do not even _occur to us as possibilities_. When we tell the firefighter "My mother's in there! Get her out!" it doesn't occur to us, or to the firefighter, to destroy the building with high explosives. And so we don't realize that, in addition to the distance between our mother and the house, we're also dragging in highly complicated considerations having to do with the value of survival and good health, and what exactly constitutes being alive and healthy...
 
-Main posts
-----------
+## Main posts
 
 *   [The Hidden Complexity of Wishes](http://lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/)
 *   [Magical Categories](http://lesswrong.com/lw/td/magical_categories/)
 
-See also
---------
+## See also
 
 *   [[Complexity of Value|Complexity of value]]
 *   [[Fake Simplicity|Fake simplicity]], [[Detached Lever Fallacy|Detached lever fallacy]]

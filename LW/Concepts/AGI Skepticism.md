@@ -23,13 +23,11 @@ There are also skeptics who think that the prospect of near-term AGI seems remot
 
 > There was overall skepticism about the prospect of an intelligence explosion as well as of a “coming singularity,” and also about the large-scale loss of control of intelligent systems. Nevertheless, there was a shared sense that additional research would be valuable on methods for understanding and verifying the range of behaviors of complex computational systems to minimize unexpected outcomes. Some panelists recommended that more research needs to be done to better define “intelligence explosion,” and also to better formulate different classes of such accelerating intelligences. Technical work would likely lead to enhanced understanding of the likelihood of such phenomena, and the nature, risks, and overall outcomes associated with different conceived variants.
 
-External Links
---------------
+## External Links
 
 *   [A history of the AI winter](http://en.wikipedia.org/wiki/AI_winter) from Wikipedia
 
-See Also
---------
+## See Also
 
 *   [[Artificial General Intelligence]]
 *   [[Technological Forecasting|Technological forecasting]]

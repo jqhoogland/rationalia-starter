@@ -38,14 +38,12 @@ Since *x*~0~ was chosen at random from {0, 1}*^ω^*, we take the probability o
 *m*(*y*~0~) := ∑*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~2^ − ℓ(^*^p^*^)^.  
  
 
-See also
---------
+## See also
 
 *   [[Kolmogorov Complexity|Kolmogorov complexity]]
 *   [[AIXI]]
 *   [[Occam's Razor|Occam's razor]]
 
-References
-----------
+## References
 
 *   [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability) on Scholarpedia

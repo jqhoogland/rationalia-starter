@@ -24,8 +24,7 @@ But be warned: **THIS CAN BE EXTREMELY ADDICTIVE!**
 Collections of random puzzles
 =============================
 
-[Duck, think outside the flock](http://www.kongregate.com/games/bontegames/duck-think-outside-the-flock)
---------------------------------------------------------------------------------------------------------
+## [Duck, think outside the flock](http://www.kongregate.com/games/bontegames/duck-think-outside-the-flock)
 
 **Difficulty:** Medium
 
@@ -33,8 +32,7 @@ Collections of random puzzles
 
 **Skills required:** Basic puzzle-solving skills.
 
-[me and the key](http://www.kongregate.com/games/bontegames/me-and-the-key)
----------------------------------------------------------------------------
+## [me and the key](http://www.kongregate.com/games/bontegames/me-and-the-key)
 
 **Difficulty:** Medium
 
@@ -42,8 +40,7 @@ Collections of random puzzles
 
 **Skills required:** Basic puzzle-solving skills.
 
-[Casual Gameplay Escape](http://www.kongregate.com/games/Jayisgames/casual-gameplay-escape)
--------------------------------------------------------------------------------------------
+## [Casual Gameplay Escape](http://www.kongregate.com/games/Jayisgames/casual-gameplay-escape)
 
 **Difficulty:** Hard!
 
@@ -53,8 +50,7 @@ Collections of random puzzles
 
 **Hint:** Gur cevagfperra ohggba vf lbhe sevraq. ([rot13](http://www.rot13.com)'d)
 
-[Take Something Literally](http://www.kongregate.com/games/badben/take-something-literally)
--------------------------------------------------------------------------------------------
+## [Take Something Literally](http://www.kongregate.com/games/badben/take-something-literally)
 
 **Difficulty:** Hard
 
@@ -62,8 +58,7 @@ Collections of random puzzles
 
 **Skills required:** Interpreting deliberately counterintuitive clues. Guessing what the game designer could possibly have meant. Some of the puzzles require specific computer hardware or software to solve.
 
-[The Impossible Quiz](http://notdoppler.com/theimpossiblequiz.php), [The Impossible Quiz 2](http://notdoppler.com/theimpossiblequiz2.php)
------------------------------------------------------------------------------------------------------------------------------------------
+## [The Impossible Quiz](http://notdoppler.com/theimpossiblequiz.php), [The Impossible Quiz 2](http://notdoppler.com/theimpossiblequiz2.php)
 
 **Difficulty:** Almost Impossible
 
@@ -74,8 +69,7 @@ Collections of random puzzles
 Physics-based puzzles
 =====================
 
-[Factory Balls](http://www.kongregate.com/games/bontegames/factory-balls), [Factory Balls 2](http://www.kongregate.com/games/bontegames/factory-balls-2), [Factory Balls 3](http://www.kongregate.com/games/bontegames/factory-balls-3)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Factory Balls](http://www.kongregate.com/games/bontegames/factory-balls), [Factory Balls 2](http://www.kongregate.com/games/bontegames/factory-balls-2), [Factory Balls 3](http://www.kongregate.com/games/bontegames/factory-balls-3)
 
 **Difficulty:** Easy
 
@@ -83,8 +77,7 @@ Physics-based puzzles
 
 **Skills required:** Figuring out what the tools do, and how to use them in to achieve the goal.
 
-[Electric Box](http://www.kongregate.com/games/TwinkleStarGames/electric-box)
------------------------------------------------------------------------------
+## [Electric Box](http://www.kongregate.com/games/TwinkleStarGames/electric-box)
 
 **Difficulty:** Medium
 
@@ -92,8 +85,7 @@ Physics-based puzzles
 
 **Skills required:** Physics-based puzzle-solving skills.
 
-[Dynamic Systems](http://www.kongregate.com/games/LorenzGames/dynamic-systems)
-------------------------------------------------------------------------------
+## [Dynamic Systems](http://www.kongregate.com/games/LorenzGames/dynamic-systems)
 
 **Difficulty:** Medium
 
@@ -101,8 +93,7 @@ Physics-based puzzles
 
 **Skills required:** Physics-based puzzle-solving skills.
 
-[Exploit](http://www.kongregate.com/games/GregoryWeir/exploit)
---------------------------------------------------------------
+## [Exploit](http://www.kongregate.com/games/GregoryWeir/exploit)
 
 **Difficulty:** Medium
 
@@ -110,8 +101,7 @@ Physics-based puzzles
 
 **Skills required:** Physics-based puzzle-solving skills. Some levels require quick reflexes and precise timing.
 
-[Red Remover](http://www.kongregate.com/games/TheGameHomepage/red-remover)
---------------------------------------------------------------------------
+## [Red Remover](http://www.kongregate.com/games/TheGameHomepage/red-remover)
 
 **Difficulty:** Medium
 
@@ -119,8 +109,7 @@ Physics-based puzzles
 
 **Skills required:** Physics-based puzzle-solving skills. Some levels require quick reflexes and precise timing.
 
-[Super Stacker](http://www.kongregate.com/games/inXile_Ent/super-stacker), [Super Stacker 2](http://www.kongregate.com/games/inXile_Ent/super-stacker-2)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Super Stacker](http://www.kongregate.com/games/inXile_Ent/super-stacker), [Super Stacker 2](http://www.kongregate.com/games/inXile_Ent/super-stacker-2)
 
 **Difficulty:** Medium
 
@@ -128,8 +117,7 @@ Physics-based puzzles
 
 **Skills required:** Physics-based puzzle-solving skills. Some levels require quick reflexes and precise timing.
 
-[Splitter](http://www.kongregate.com/games/EvgenyKarataev/splitter), [Splitter 2](http://www.kongregate.com/games/CasualCollective/splitter-2)
-----------------------------------------------------------------------------------------------------------------------------------------------
+## [Splitter](http://www.kongregate.com/games/EvgenyKarataev/splitter), [Splitter 2](http://www.kongregate.com/games/CasualCollective/splitter-2)
 
 **Difficulty:** Medium
 
@@ -137,8 +125,7 @@ Physics-based puzzles
 
 **Skills required:** Physics-based puzzle-solving skills. Some levels require quick reflexes and precise timing.
 
-[Fantastic Contraption](http://www.kongregate.com/games/inXile_Ent/fantastic-contraption)
------------------------------------------------------------------------------------------
+## [Fantastic Contraption](http://www.kongregate.com/games/inXile_Ent/fantastic-contraption)
 
 **Difficulty:** Advanced
 
@@ -149,8 +136,7 @@ Physics-based puzzles
 Logic-based puzzles
 ===================
 
-[Blocks With Letters On](http://www.kongregate.com/games/Morpheme/blocks-with-letters-on), [More Blocks With Letters On](http://www.kongregate.com/games/Morpheme/more-blocks-with-letters-on)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Blocks With Letters On](http://www.kongregate.com/games/Morpheme/blocks-with-letters-on), [More Blocks With Letters On](http://www.kongregate.com/games/Morpheme/more-blocks-with-letters-on)
 
 **Difficulty:** Advanced
 
@@ -158,8 +144,7 @@ Logic-based puzzles
 
 **Skills required:** Anagrams. Block-sliding-puzzle skills. General logic skills.
 
-[Light-Bot](http://www.kongregate.com/games/Coolio_Niato/light-bot), [Light-Bot 2.0](http://www.kongregate.com/games/Coolio_Niato/lighbot-2-0)
-----------------------------------------------------------------------------------------------------------------------------------------------
+## [Light-Bot](http://www.kongregate.com/games/Coolio_Niato/light-bot), [Light-Bot 2.0](http://www.kongregate.com/games/Coolio_Niato/lighbot-2-0)
 
 **Difficulty:** Advanced
 
@@ -167,8 +152,7 @@ Logic-based puzzles
 
 **Skills required:** Programming. Optimizing code for limited computing resources. Understanding [spaghetti code](https://en.wikipedia.org/wiki/spaghetti_code).
 
-[Project Euler](http://projecteuler.net/)
------------------------------------------
+## [Project Euler](http://projecteuler.net/)
 
 **Difficulty:** Advanced
 
@@ -176,8 +160,7 @@ Logic-based puzzles
 
 **Skills required:** Programming in any language.
 
-[3D Logic](http://www.kongregate.com/games/AlexMatveev/3d-logic), [3D Logic 2: Stronghold of Sage](http://www.kongregate.com/games/AlexMatveev/3d-logic-2-stronghold-of-sage)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [3D Logic](http://www.kongregate.com/games/AlexMatveev/3d-logic), [3D Logic 2: Stronghold of Sage](http://www.kongregate.com/games/AlexMatveev/3d-logic-2-stronghold-of-sage)
 
 **Difficulty:** Advanced
 
@@ -185,11 +168,9 @@ Logic-based puzzles
 
 **Skills required:** Visual-spatial logic skills. General logic skills.
 
-Platform puzzle games
----------------------
+## Platform puzzle games
 
-[Aether](http://www.kongregate.com/games/Edmund/aether)
--------------------------------------------------------
+## [Aether](http://www.kongregate.com/games/Edmund/aether)
 
 **Difficulty:** Easy
 
@@ -197,8 +178,7 @@ Platform puzzle games
 
 **Skills required:** Figuring out what various objects do, and what you're supposed to do with them. Basic platforming skills.
 
-[This is the Only Level](http://www.kongregate.com/games/ArmorGames/this-is-the-only-level), [This is the Only Level TOO](http://www.kongregate.com/games/ArmorGames/this-is-the-only-level-too)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [This is the Only Level](http://www.kongregate.com/games/ArmorGames/this-is-the-only-level), [This is the Only Level TOO](http://www.kongregate.com/games/ArmorGames/this-is-the-only-level-too)
 
 **Difficulty:** Medium
 
@@ -206,8 +186,7 @@ Platform puzzle games
 
 **Skills required:** Basic platforming skills. Figuring out the new rules each time they change, and adapting to them.
 
-[Closure](http://www.kongregate.com/games/GlaielGamer/closure)
---------------------------------------------------------------
+## [Closure](http://www.kongregate.com/games/GlaielGamer/closure)
 
 **Difficulty:** Medium
 
@@ -215,8 +194,7 @@ Platform puzzle games
 
 **Skills required:** Puzzles involving manipulating light and darkness. Figuring out what various objects do, and what to do with them. Intermediate platforming skills
 
-[Time Kufc](http://www.kongregate.com/games/Edmund/time-kufc)
--------------------------------------------------------------
+## [Time Kufc](http://www.kongregate.com/games/Edmund/time-kufc)
 
 **Difficulty:** Medium
 
@@ -224,8 +202,7 @@ Platform puzzle games
 
 **Skills required:** Intermediate platform-puzzle skills.
 
-[Shift](http://www.kongregate.com/games/ArmorGames/shift), [Shift 2](http://www.kongregate.com/games/ArmorGames/shift-2), [Shift 3](http://www.kongregate.com/games/ArmorGames/shift-3), [Shift 4](http://www.kongregate.com/games/ArmorGames/shift-4)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Shift](http://www.kongregate.com/games/ArmorGames/shift), [Shift 2](http://www.kongregate.com/games/ArmorGames/shift-2), [Shift 3](http://www.kongregate.com/games/ArmorGames/shift-3), [Shift 4](http://www.kongregate.com/games/ArmorGames/shift-4)
 
 **Difficulty:** Medium
 
@@ -233,8 +210,7 @@ Platform puzzle games
 
 **Skills required:** Intermediate platform-puzzle skills.
 
-[Karoshi : Suicide Salaryman](http://www.kongregate.com/games/Venbrux/karoshi-suicide-salaryman?acomplete=karoshi), [Super Karoshi](http://www.kongregate.com/games/Venbrux/super-karoshi?acomplete=karoshi)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [Karoshi : Suicide Salaryman](http://www.kongregate.com/games/Venbrux/karoshi-suicide-salaryman?acomplete=karoshi), [Super Karoshi](http://www.kongregate.com/games/Venbrux/super-karoshi?acomplete=karoshi)
 
 **Difficulty:** Medium
 
@@ -242,8 +218,7 @@ Platform puzzle games
 
 **Skills required:** Intermediate platform-puzzle skills. Outside-the-box thinking.
 
-[Portal: The Flash Version](http://www.kongregate.com/games/Dragy/portal-the-flash-version)
--------------------------------------------------------------------------------------------
+## [Portal: The Flash Version](http://www.kongregate.com/games/Dragy/portal-the-flash-version)
 
 **Difficulty:** Hard
 

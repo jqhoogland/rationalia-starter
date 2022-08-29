@@ -27,8 +27,7 @@ Nor is singularianism.[^4^](#fn4)
 
 Well maybe [RationalWiki disagrees](http://rationalwiki.org/wiki/LessWrong)
 
-References
-----------
+## References
 
 1.  [http://lesswrong.com/lw/bql/our\_phyg\_is\_not\_exclusive_enough/](http://lesswrong.com/lw/bql/our_phyg_is_not_exclusive_enough/)[↩](#fnref1)
 2.  [https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what\_is\_lesswrong\_and\_why\_do\_people\_say\_it\_is\_a/](https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what_is_lesswrong_and_why_do_people_say_it_is_a/)[↩](#fnref2)

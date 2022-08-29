@@ -17,13 +17,11 @@ synchedAt: '2022-08-29T10:47:46.664Z'
 
 It has been observed that when someone is just starting to learn rationality, they sometimes appear to be worse off than they were before. Someone else may then allege that after this person learns even more about rationality, they will finally be better off than they were before they started. The period before this improvement is known as "the valley of bad rationality".
 
-Non-post example:
------------------
+## Non-post example:
 
 *   [This comment](http://lesswrong.com/lw/5f/bayesians_vs_barbarians/7hr) by Scott Alexander on [Bayesians vs. Barbarians](http://lesswrong.com/lw/5f/bayesians_vs_barbarians/)
 
-See also
---------
+## See also
 
 *   [[Value of Rationality]]
 *   [[Costs of Rationality|Costs of rationality]]

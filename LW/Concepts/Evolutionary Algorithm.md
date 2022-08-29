@@ -27,8 +27,7 @@ The use of this kind of programming has roots in the 1950s and has spread throug
 
 It seems possible that with enough computer power we would be able to produce a [[Superintelligence|superintelligence]] using a sufficiently complex evolutionary algorithm. This method does not require the understanding of intelligence needed to create an [AGI](https://wiki.lesswrong.com/wiki/AGI) nor the scanning equipment needed to create a [[Whole Brain Emulation|whole brain emulation]].
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) by Adam Marczyk
 *   [Evolutionary Algorithms 1: Introduction](http://www.geatbx.com/docu/algindex.html) by Hartmut Pohlheim
@@ -36,8 +35,7 @@ Further Reading & References
 *   Bäck, T., Fogel, D., Michalewicz, Z. (1997), Handbook of Evolutionary Computation, Oxford Univ. Press.
 *   Yang X.-S., (2010), "Nature-Inspired Metaheuristic Algorithms", 2nd Edition, Luniver Press
 
-See Also
---------
+## See Also
 
 *   [[Evolution]]
 *   [[Evolutionary Psychology|Evolutionary psychology]]

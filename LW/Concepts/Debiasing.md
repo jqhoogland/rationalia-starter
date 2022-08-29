@@ -15,29 +15,25 @@ synchedAt: '2022-08-29T11:05:52.367Z'
 
 Simply being told about the biases rarely helps to notice and overcome them. For example, the overestimation of prior probability of an event that has already happened caused by [[Hindsight Bias|hindsight bias]] doesn't go away when people are told about this bias and when they try to counteract its effects. Due to [[Overconfidence|overconfidence]], often more than 50% of people report that they are capable of above-average performance. When asked about how good they are at overcoming overconfidence, they exhibit the same bias[^1^](#fn1).
 
-Blog posts
-----------
+## Blog posts
 
 *   [Debiasing as Non-Self-Destruction](http://lesswrong.com/lw/hf/debiasing_as_nonselfdestruction/) by [[Eliezer Yudkowsky]]
 *   [Fight Biases, or Route Around Them?](http://lesswrong.com/lw/5d/fight_biases_or_route_around_them/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 *   [The Mistake Script](http://lesswrong.com/lw/1g/the_mistake_script/) by [jimrandomh](https://wiki.lesswrong.com/wiki/jimrandomh)
 *   [Checklists](http://lesswrong.com/lw/19/checklists/) by [Johnicholas](https://wiki.lesswrong.com/wiki/Johnicholas)
 
-External links
---------------
+## External links
 
 *   [Unique like everyone else](http://www.mindhacks.com/blog/2009/07/unique_like_everyone.html) by [Vaughan Bell](https://wiki.lesswrong.com/wiki/Vaughan_Bell)
 *   [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot) on Wikipedia
 
-See also
---------
+## See also
 
 *   [[Bias]]
 *   [[Rationality]]
 *   [[Dangerous Knowledge|Dangerous knowledge]], [[Valley of Bad Rationality|Valley of bad rationality]]
 *   [[Crisis of Faith|Crisis of faith]]
 
-References
-----------
+## References
 
 1.  Emily Pronin (2002). "The Bias Blind Spot: Perceptions of Bias in Self Versus Others". Personality and Social Psychology Bulletin 28 (3): 369-381. ([PDF](http://weblamp.princeton.edu/~psych/psychology/research/pronin/pubs/2002BiasBlindSpot.pdf))[↩](#fnref1)

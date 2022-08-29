@@ -15,18 +15,15 @@ synchedAt: '2022-08-29T11:05:27.109Z'
 
 There seems to be a balance of tensions between evaporative cooling of beliefs leading to groupthink, and extremely biased [[Blues & Greens (metaphor)|color politics]].
 
-Echo chamber
-------------
+## Echo chamber
 
 An **echo chamber** is a group of media sources that parrot each other by constantly and unquestioningly reporting a single, biased point of view, thus creating the illusion of consensus.
 
-"Virtual community"
--------------------
+## "Virtual community"
 
 In computer-mediated deliberation, the ideology of so-called **"virtual community"** has been implicated as a damaging source of groupthink. In the real world, a "community" is an ethical and political *compromise* of values due to a shared need for protection from bodily harm or harm to one's surrounding environment. A "virtual community" has no such natural values but still retains the [[Mind-Killer|mind-killing]] illusion of protection, and is thus liable to turn into a cult.
 
-See also
---------
+## See also
 
 *   [[Cached Thoughts|Cached thought]]
 *   [[Affective Death Spiral|Affective death spiral]], [[Information Cascades|information cascade]]

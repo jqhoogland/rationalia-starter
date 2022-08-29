@@ -19,8 +19,7 @@ Longtermism is a philosophy that future lives matter and that we have a similar 
 
 \[broad description of philosophy, something about WWOTF\]
 
-Criticisms and responses
-------------------------
+## Criticisms and responses
 
 *   Criticism: Longermism suffers from all the standard criticism of consequentialism
     *   Response: Longtermism doesn't require consequentialist assumptions. Many individuals and societies have felt an obligation towards their decendents

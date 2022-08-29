@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:49.161Z'
+aliases:
+  - Quantum Physics
+synchedAt: '2022-08-29T17:16:42.429Z'
 ---
 # Quantum Physics
 

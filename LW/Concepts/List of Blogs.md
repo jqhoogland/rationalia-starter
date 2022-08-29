@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:10:11.748Z'
 
 **List of blogs from the** [**diaspora**](https://wiki.lesswrong.com/wiki/diaspora) **and** **[[Rationalist Movement|rationalist movement]]****.** Last large update: 2017-05-25
 
-General Rationality and Philosophy
-----------------------------------
+## General Rationality and Philosophy
 
 [An Algorithmic Lucidity](http://zackmdavis.net/blog/) Zack M Davis
 
@@ -52,8 +51,7 @@ General Rationality and Philosophy
 
 [Caspar Oesterheld and Johannes Treutlein](https://casparoesterheld.com/) *(mostly decision theory, but also other topics)*
 
-Applied Rationality
--------------------
+## Applied Rationality
 
 [Agenty Duck](http://agentyduck.blogspot.com/) Logan Strohl
 
@@ -85,8 +83,7 @@ Applied Rationality
 
 [Understanding and Mastering Our Brains to Do Cool Stuff](http://alexvermeer.com) alexvermeer
 
-Research Analysis and Economics: (often political)
---------------------------------------------------
+## Research Analysis and Economics: (often political)
 
 [Bayesian Investor Blog](http://www.bayesianinvestor.com/blog/) Peter McCluskey *(economics, book reviews, nutrition, prediction markets, etc.)*
 
@@ -116,8 +113,7 @@ Research Analysis and Economics: (often political)
 
 [Unenumerated](http://unenumerated.blogspot.com)
 
-Altruism and Utilitarianism
----------------------------
+## Altruism and Utilitarianism
 
 [80k hours](https://80000hours.org/blog/)
 
@@ -141,8 +137,7 @@ Altruism and Utilitarianism
 
 [The Open Philantropy Blog](http://www.openphilanthropy.org/blog)
 
-Math and CS
------------
+## Math and CS
 
 [Annoying Precision](http://qchu.wordpress.com/) Qiaochu_Yuan
 
@@ -156,8 +151,7 @@ Math and CS
 
 [Setting Things Straight](http://blog.tyrannyofthemouse.com/) Silas Barta
 
-Religion and Atheism
---------------------
+## Religion and Atheism
 
 [DiaPente](http://deusdiapente.wordpress.com/) JQuinton *(focus on early Christianity, rationality, and psychology of religion)*
 
@@ -165,15 +159,13 @@ Religion and Atheism
 
 [Unequally Yoked](http://www.patheos.com/blogs/unequallyyoked/) palladias *(Catholic blog by recent convert from atheism)*
 
-AI Risk
--------
+## AI Risk
 
 [AI Control](https://medium.com/ai-control) Paul Christiano
 
 [Machine Intelligence Research Institute](https://intelligence.org/blog/) \- [MIRI](https://wiki.lesswrong.com/wiki/MIRI)
 
-Fiction and Media Heavy Blogs
------------------------------
+## Fiction and Media Heavy Blogs
 
 [Doof! Media](http://www.doofmedia.com/author/moridinamael/) moridinamael *(books, movies, and television - podcasts and essays)*
 
@@ -191,8 +183,7 @@ Fiction and Media Heavy Blogs
 
 [Yngling Saga](http://ynglingasaga.wordpress.com/) RolfAndreassen *(logs from role-playing games)*
 
-Social Justice and Leftwing Politics
-------------------------------------
+## Social Justice and Leftwing Politics
 
 [Brute Reason](http://freethoughtblogs.com/brutereason/) Miri Mogilevsky ''(skepticism, feminism, social justice)
 
@@ -202,8 +193,7 @@ Social Justice and Leftwing Politics
 
 [The Whole Sky](http://thewholesky.wordpress.com/) Julia: *(stories about being a social worker in a prison and other topics)*
 
-Reaction, Anti-SJ and Rightwing Politics
-----------------------------------------
+## Reaction, Anti-SJ and Rightwing Politics
 
 [Small Truths](http://somesmalltruths.blogspot.com/)
 
@@ -211,8 +201,7 @@ Reaction, Anti-SJ and Rightwing Politics
 
 [Status 451](https://status451.com/)
 
-Rationalist Adjacent
---------------------
+## Rationalist Adjacent
 
 [Aellagirl (nsfw)](https://aellagirl.com/)
 
@@ -230,8 +219,7 @@ Rationalist Adjacent
 
 [Pirate.London](https://pirate.london) Cybercrime, Transhumanism, Geekery from [Deku-shrub](https://wiki.lesswrong.com/wiki/User:Deku-shrub)
 
-Currently Inactive Blogs
-------------------------
+## Currently Inactive Blogs
 
 [Bill McGrath Music](http://billmcgrathmusic.wordpress.com/) Bill McGrath {01-2016}
 
@@ -251,8 +239,7 @@ Currently Inactive Blogs
 
 [The Orphan Wilde](http://orphanwilde.blogspot.com/) OrphanWilde *(libertarianism)* {07-2015}
 
-Gone But Not Forgotten
-----------------------
+## Gone But Not Forgotten
 
 [Alexander Kruel](http://kruel.co/) XiXiDu *(critiques of the LessWrong community)*
 
@@ -280,8 +267,7 @@ Gone But Not Forgotten
 
 [Yearly Cider](http://yearlycider.wordpress.com/) lucidian *(existentialism, epistemology, etc.)*
 
-See Also
---------
+## See Also
 
 *   [Tumblr Masterlist](https://rationalist-masterlist.tumblr.com/post/130139930539/rationalist-masterlist)
 *   [Map of the rationalist community on Slate Star Codex](http://slatestarcodex.com/2014/09/05/mapmaker-mapmaker-make-me-a-map/)

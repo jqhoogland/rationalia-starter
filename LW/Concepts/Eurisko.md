@@ -17,8 +17,7 @@ An example concept in EURISKO (Lenat 83).
 
 **EURISKO** (from Greek, *I discover*) was an AI project by Douglas Lenat. It was made from self-modifying heuristics, making it one of the first [[Recursive Self-Improvement|recursively self-improving]] systems. EURISKO had successes in a complex game called Traveller TCS, and in VLSI design. While neither code nor technical specifications were released, EURISKO has enjoyed legendary status.
 
-History
--------
+## History
 
 Lenat's Ph.D. project was a similar system called Automated Mathematician (AM). This project used hundreds of heuristics hand-coded by Lenat to modify simple pieces of Lisp code, looking for interesting concepts. AM had a fair amount of success, and won Lenat the IJCAI Computers and Thought Award.
 
@@ -26,26 +25,22 @@ Lenat wanted to to extend this outside the domain of mathematics. For EURISKO, h
 
 To test the system, he coded the rules and concepts of the role-playing game Traveller TCS into EURISKO. Lenat would leave EURISKO running each night, and check it in the morning. He would occasionally remove errors or unpromising heuristics from the system, or enter additional ones. Some discovered heuristics resembled viruses; one inserted its name as the creator of other useful heuristics, which would cause it to be used more often. EURISKO simulated many games with itself during this process. When Lenat took it to the competition, it was much more powerful than any other player, and won the competition. The next year, the organizers changed the rules one week before the competition. EURISKO was able to use its discovered heuristics to create a new fleet which once again won the competition. After this, the organizers told Lenat that if he entered again, they would cancel the competition, and he agreed not to.
 
-After EURISKO
--------------
+## After EURISKO
 
 EURISKO's ability, like that of AM, was greatly limited by the need to enter many new concepts and starting heuristics for every domain one wanted to use it for. This led Lenat to initiate the [[Cyc]] project, which is a database of millions of "common sense" concepts and facts, combined with an inference engine.
 
 The status of the source code for EURISKO is unknown. Since Lenat originally stared the Cyc project for the purpose of supplying EURISKO with general knowledge, it is possible that he maintains the code for this purpose (perhaps under commercial ownership).
 
-Blog posts
-----------
+## Blog posts
 
 *   [...Recursion, Magic](http://lesswrong.com/lw/w6/recursion_magic/)
 
-See also
---------
+## See also
 
 *   [[Cyc]]
 *   [[Heuristic]]
 
-References
-----------
+## References
 
 *   Lenat, Douglas (1982). "AM: An artificial intelligence approach to discovery in mathematics as heuristic search". *Knowledge-Based Systems in Artificial Intelligence: 2 Case Studies*. New York: McGraw-Hill. ISBN 0070155577.
 *   Lenat, Douglas (March 1983). "[Eurisko: A program that learns new heuristics and domain concepts](http://dl.acm.org/citation.cfm?id=1644660)". *Artificial Intelligence* (Essex, UK: Elsevier Science Publishers Ltd) **21** (1-2): 61-98. [doi](https://wiki.lesswrong.com/index.php?title=Digital_object_identifier&action=edit&redlink=1):[10.1016/S0004-3702(83)80005-8](http://dx.doi.org/10.1016%2FS0004-3702%2883%2980005-8). [ISSN](https://wiki.lesswrong.com/wiki/International_Standard_Serial_Number) [0004-3702](http://worldcat.org/issn/0004-3702).

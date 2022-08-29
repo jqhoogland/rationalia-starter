@@ -15,8 +15,7 @@ A **sequence** is a series of multiple posts on Less Wrong on the same topic, to
 
 The [original sequences](/tag/original-sequences) were written by [[Eliezer Yudkowsky]] with the goal of creating a book on rationality. [MIRI](https://wiki.lesswrong.com/wiki/MIRI) has since collated and edited the sequences into [[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]. If you are new to Less Wrong, this book is the best place to start.
 
-Rationality: From AI to Zombies
--------------------------------
+## Rationality: From AI to Zombies
 
 ![](https://wiki.lesswrong.com/images/2/23/Rationality-Angled-Cover-Web.jpg)
 
@@ -78,8 +77,7 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Other sequences by Eliezer Yudkowsky
-------------------------------------
+## Other sequences by Eliezer Yudkowsky
 
 The following collections of essays come from the **[[Original Sequences|original sequences]]**, an earlier version of much of the material from *Rationality: From AI to Zombies*:
 
@@ -97,8 +95,7 @@ Yudkowsky has also written a more recent sequence:
 
 *   **[[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]**. These essays include a discussion of truth, formal logic, causality, and metaethics, and are a good way for more ambitious readers to quickly get up to speed.
 
-Sequences by others
--------------------
+## Sequences by others
 
 Sequences of essays by [**Scott Alexander**](https://wiki.lesswrong.com/wiki/Yvain) include:
 
@@ -126,15 +123,13 @@ And by [**Kaj Sotala**](https://wiki.lesswrong.com/wiki/Kaj_Sotala):
 *   [What Intelligence Tests Miss](http://lesswrong.com/tag/whatintelligencetestsmiss). A sequence summarizing the content of Keith Stanovich's book *What Intelligence Tests Miss*.
 *   [Why Everyone (Else) Is a Hypocrite](http://lesswrong.com/tag/whyeveryonehypocrite) by [Kaj_Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala). An unfinished sequence summarizing the content of Robert Kurzban's book *Why Everyone (Else) is a Hypocrite: Evolution and the Modular Mind*.
 
-Other resources
----------------
+## Other resources
 
 [Benito's Guide](http://lesswrong.com/user/Benito/) aims to systematically fill the reader in on the most important ideas discussed on LessWrong (not just in the sequences). It also begins with a series of videos, which are a friendly introduction, and useful if you enjoy talks and interviews.
 
 *Thinking and Deciding* by Jonathan Baron and *Good and Real* by Gary Drescher have been mentioned as books that overlap significantly with the sequences. [More about how the sequences fit in with work done by others](http://lesswrong.com/r/all/lw/eik/eliezers_sequences_and_mainstream_academia/).
 
-Translations
-------------
+## Translations
 
 *   [French](http://rationalite.wordpress.com)
 *   [Italian](http://xrazionalita.wordpress.com)

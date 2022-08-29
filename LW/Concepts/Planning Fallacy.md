@@ -17,19 +17,16 @@ Symptomatic of the Planning Fallacy is an assumption of a best-case scenario; pe
 
 The bias also seems to be related to taking an "inside", detail-oriented view of the project to be planned; studies show that the more detailed a plan is, the more optimistically inaccurate it is likely to be.
 
-Debiasing techniques
---------------------
+## Debiasing techniques
 
 When possible, take the [[Inside/Outside View|outside view]]. Avoid estimating the time for a project by adding time estimates for sub-tasks; instead, look for previously completed projects of similar type and scale, and base the estimate on how long those other projects took.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Planning Fallacy](http://lesswrong.com/lw/jg/planning_fallacy/)
 *   [Surface Analogies and Deep Causes](http://lesswrong.com/lw/rj/surface_analogies_and_deep_causes/)
 
-See also
---------
+## See also
 
 *   [[Inside/Outside View|Outside view]]
 *   [[Near/Far Thinking|Near/far thinking]]

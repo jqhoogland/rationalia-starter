@@ -19,8 +19,7 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) on the various ways that 
 
 *This page is about Eliezer Yudkowsky's sequence. For ongoing discussion of these issues at LW Wiki, see* *[[Mind-Killer|Mind-killer]]* *and* *[[Blues & Greens (metaphor)|Color politics]]**.*
 
-Blog posts
-----------
+## Blog posts
 
 *   [A Fable of Science and Politics](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
 *   [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
@@ -37,13 +36,11 @@ Blog posts
 *   [False Laughter](http://lesswrong.com/lw/m5/false_laughter/)
 *   [Human Evil and Muddled Thinking](http://lesswrong.com/lw/jd/human_evil_and_muddled_thinking/)
 
-Other formats
--------------
+## Other formats
 
 *   [Readlist](http://readlists.com/fddbeb69) \- view this sequence as an eBook using Readability.
 
-See also
---------
+## See also
 
 Closely related to [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]], particularly:
 

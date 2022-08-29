@@ -18,13 +18,11 @@ synchedAt: '2022-08-29T10:47:53.293Z'
 
 Exploratory engineering allows to show how some capabilities that intuitively seem [[Absurdity Heuristic|absurd]] may actually be achieved in the future.
 
-External links
---------------
+## External links
 
 *   [Exploratory Engineering: Applying the predictive power of science to future technologies](http://metamodern.com/2009/06/26/exploratory-engineering-applying-the-predictive-power-of-science-to-future-technologies/) by [[Eric Drexler]]
 
-See also
---------
+## See also
 
 *   [[Rational Evidence|Rational evidence]]
 *   [[Absurdity Heuristic|Absurdity heuristic]]

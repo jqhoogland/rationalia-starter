@@ -21,13 +21,11 @@ Cached thoughts can be useful in saving computational resources at the cost of s
 > 
 > But the flip side of this is that I continually see people who aspire to critical thinking, repeating back cached thoughts which were not invented by critical thinkers. – Eliezer Yudkowsky, [[Cached Thoughts]]
 
-Main Post
----------
+## Main Post
 
 *   [Cached Thoughts](http://lesswrong.com/lw/k5/cached_thoughts/)
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [How to Seem (and Be) Deep](http://lesswrong.com/lw/k8/how_to_seem_and_be_deep/) — Just find ways of violating cached expectations.
 *   [The Virtue of Narrowness](http://lesswrong.com/lw/ic/the_virtue_of_narrowness/) and [Original Seeing](http://lesswrong.com/lw/k7/original_seeing/) — One way to fight cached patterns of thought is to focus on precise concepts.

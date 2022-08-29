@@ -15,13 +15,11 @@ synchedAt: '2022-08-29T10:48:00.796Z'
 
 —[The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/)
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/) by [[Eliezer Yudkowsky]]
 
-See also
---------
+## See also
 
 *   [[Third Option|Third option]]
 *   [[Arguments As Soldiers|Arguments as soldiers]]

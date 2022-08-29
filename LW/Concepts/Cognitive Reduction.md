@@ -17,7 +17,6 @@ For example, Bayesian probability (ie subjective probability, or credence) can b
 
 In other cases, we may still think the phenomenon exists in the territory, but nonetheless seek a cognitive reduction. For example, while we may think "apples" are a real thing that exists, we might be confused about borderline cases (such as a hypothetical fruit which has 90% apple genes and 10% pear genes). A cognitive reduction of "apple" helps us understand what it even means to assert one thing or another about borderline cases, while not *necessarily* giving up the claim that apples are real things which exist.
 
-See also
---------
+## See also
 
 *   [[How An Algorithm Feels]]

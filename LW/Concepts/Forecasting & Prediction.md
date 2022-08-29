@@ -17,15 +17,13 @@ synchedAt: '2022-08-29T11:05:16.276Z'
 
 Forecasting allows individuals and institutions to test their internal models of reality. A good forecaster can have confidence in future predictions and hence actions in the same area as they have a good track record in. Organisations with decision-makers with good track records can likewise be more confident in their choices.
 
-How to get started in forecasting (many ways)
----------------------------------------------
+## How to get started in forecasting (many ways)
 
 *   Just do it - go on [Metaculus](https://www.metaculus.com/questions/) and forecast for 30 minutes. Look back in a month and see how things have changed
 *   Read a book - [Superforecasting](https://www.amazon.com/Superforecasting-audiobook/dp/B0131HGPQQ/ref=sr_1_1?crid=EIN4B0NE83W2&keywords=superforecasting&qid=1660197471&sprefix=superforecastin%2Caps%2C389&sr=8-1) by Phil Tetlock, one of the founding books in forecasting
 *   Watch a video - Alex Lawson's [Intro to Forecasting](https://www.youtube.com/watch?v=e6Q7Ez3PkOw) videos
 
-Basic forecasting tips
-----------------------
+## Basic forecasting tips
 
 *   5-second forecast - Just go with your gut. You'll probably be badly calibrated but you will learn than
 *   Longer forecast
@@ -34,8 +32,7 @@ Basic forecasting tips
     *   Look at the median
     *   Adjust again
 
-Bottlenecks
------------
+## Bottlenecks
 
 *   Understanding key decisions that decision-makers wants decisions about
 *   Writing high-quality questions and getting them published as forecasting question or prediction markets
@@ -44,8 +41,7 @@ Bottlenecks
     *   Getting enough money in prediction markets
 *   Getting forecasts seen by relevant decisionmakers
 
-Organisations in the space
---------------------------
+## Organisations in the space
 
 Prediction markets/aggregators
 
@@ -59,13 +55,11 @@ Meta forecasting orgs 
 
 *   [[QURI]], 
 
-Individuals publicly attached to the space
-------------------------------------------
+## Individuals publicly attached to the space
 
 \[not sure how to list\] 
 
-See also
---------
+## See also
 
 *   [Antiprediction](https://lessestwrong.com/tag/antiprediction)
 *   [Making beliefs pay rent](https://lessestwrong.com/tag/making-beliefs-pay-rent)

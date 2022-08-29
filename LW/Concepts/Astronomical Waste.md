@@ -21,13 +21,11 @@ Bostrom [notes](http://www.nickbostrom.com/astronomical/waste.html) that in a wi
 
 If so much potential is lost every year, one could conclude that we should start colonization *as soon as possible*. But since the amount of resources available *in total* is much larger still than the amount lost in a year, a better utilitarian prescription is to minimize the risk of losing out on space colonization entirely. Bostrom calls this prescription "maxipok", for the maximum probability of an OK outcome.
 
-External links
---------------
+## External links
 
 *   [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](http://www.nickbostrom.com/astronomical/waste.html)
 
-See also
---------
+## See also
 
 *   [[Utilitarianism]]
 *   [[Existential Risk|Existential risk]]

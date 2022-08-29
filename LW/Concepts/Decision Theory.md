@@ -19,8 +19,7 @@ synchedAt: '2022-08-29T11:05:16.009Z'
 
 A core idea in decision theory is that of [*expected utility*](https://lessestwrong.com/tag/expected-utility) *maximization*, usually intractable to directly calculate in practice, but an invaluable theoretical concept. An agent assigns utility to every possible outcome: a real number representing the goodness or desirability of that outcome. The mapping of outcomes to utilities is called the agent's *utility function*. (The utility function is said to be invariant under affine transformations: that is, the utilities can be scaled or translated by a constant while resulting in all the same decisions.) For every action that the agent could take, sum over the utilities of the various possible outcomes weighted by their probability: this is the [expected](https://lessestwrong.com/tag/expected-value) utility of the action, and the action with the highest expected utility is to be chosen.
 
-Thought experiments
--------------------
+## Thought experiments
 
 The limitations and pathologies of decision theories can be analyzed by considering the decisions they suggest in the certain idealized situations that stretch the limits of decision theory's applicability. Some of the thought experiments more frequently discussed on [LW](https://wiki.lesswrong.com/wiki/LW) include:
 
@@ -33,8 +32,7 @@ The limitations and pathologies of decision theories can be analyzed by consider
 *   [Prisoner's dilemma](https://lessestwrong.com/tag/prisoner-s-dilemma)
 *   [Pascal's mugging](https://lessestwrong.com/tag/pascal-s-mugging)
 
-Commonly discussed decision theories
-------------------------------------
+## Commonly discussed decision theories
 
 Standard theories well-known in academia:
 
@@ -51,31 +49,27 @@ Theories invented by researchers associated with [MIRI](https://wiki.lesswrong.c
 
 Other decision theories are listed in [A comprehensive list of decision theories](https://casparoesterheld.com/a-comprehensive-list-of-decision-theories/).
 
-Blog posts
-----------
+## Blog posts
 
 *   [Terminal Values and Instrumental Values](https://lessestwrong.com/lw/l4/terminal_values_and_instrumental_values/)
 *   [Decision Theories: A Less Wrong Primer](https://lessestwrong.com/lw/aq9/decision_theories_a_less_wrong_primer/) by orthonormal
 *   [Decision Theory FAQ](https://lessestwrong.com/lw/gu1/decision_theory_faq/) by lukeprog and crazy88
 
-Sequence by [AnnaSalamon](https://wiki.lesswrong.com/wiki/AnnaSalamon)
-----------------------------------------------------------------------
+## Sequence by [AnnaSalamon](https://wiki.lesswrong.com/wiki/AnnaSalamon)
 
 *   [Decision theory: An outline of some upcoming posts](https://lessestwrong.com/lw/16f/decision_theory_an_outline_of_some_upcoming_posts/)
 *   [Confusion about Newcomb is confusion about counterfactuals](https://lessestwrong.com/lw/16i/confusion_about_newcomb_is_confusion_about/)
 *   [Why we need to reduce “could”, “would”, “should”](https://lessestwrong.com/lw/174/decision_theory_why_we_need_to_reduce_could_would/)
 *   [Why Pearl helps reduce “could” and “would”, but still leaves us with at least three alternatives](https://lessestwrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/)
 
-Sequence by [orthonormal](http://lesswrong.com/user/orthonormal/) (Decision Theories: A Semi-Formal Analysis)
--------------------------------------------------------------------------------------------------------------
+## Sequence by [orthonormal](http://lesswrong.com/user/orthonormal/) (Decision Theories: A Semi-Formal Analysis)
 
 *   [Part 0: Decision Theories: A Less Wrong Primer](https://lessestwrong.com/lw/aq9/decision_theories_a_less_wrong_primer/)
 *   [Part I: The Problem with Naive Decision Theory](https://lessestwrong.com/lw/axl/decision_theories_a_semiformal_analysis_part_i/)
 *   [Part II: Causal Decision Theory and Substitution](https://lessestwrong.com/lw/az6/decision_theories_a_semiformal_analysis_part_ii/)
 *   [Part III: Formalizing Timeless Decision Theory](https://lessestwrong.com/lw/b7w/decision_theories_a_semiformal_analysis_part_iii/)
 
-See also
---------
+## See also
 
 *   [Instrumental rationality](https://wiki.lesswrong.com/wiki/Instrumental_rationality)
 *   [Causality](https://lessestwrong.com/tag/causality)

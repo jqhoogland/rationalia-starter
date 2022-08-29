@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:07:19.251Z'
 
 Utilitronium shockwave is a process of converting all matter in the universe into utilitronium as quickly as possible, which would look like a shockwave of utilitronium spreading outwards from the point of origin, presumably nearly at the speed of light.
 
-See also
---------
+## See also
 
 *   [[Utility Functions|Utility function]]
 *   [[Hedon]], [Utils](https://wiki.lesswrong.com/wiki/Utils)

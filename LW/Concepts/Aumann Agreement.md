@@ -17,13 +17,11 @@ The process of true Bayesians coming to agreement bears precious little resembla
 
 The fact that disagreements on questions of simple fact are so common amongst humans, and that people seem to think this is *normal*, is an observation that should [[No Safe Defense|strike fear into the heart]] of every aspiring rationalist.
 
-Blog posts
-----------
+## Blog posts
 
 *   [We Can't Forsee to Disagree](http://www.overcomingbias.com/2007/01/we_cant_foresee.html) by [[Robin Hanson]]
 
-See also
---------
+## See also
 
 *   [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
 *   [[Disagreement]]

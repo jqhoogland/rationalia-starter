@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:48.990Z'
+aliases:
+  - 3— HJPEV and the Shadows of Death
+synchedAt: '2022-08-29T17:16:42.179Z'
 ---
 # 3: HJPEV and the Shadows of Death
 

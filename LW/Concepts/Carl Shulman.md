@@ -19,8 +19,7 @@ synchedAt: '2022-08-29T11:07:20.008Z'
 
 Previously, he worked at Clarium Capital Management, a global macro hedge fund, and at the law firm Reed Smith LLP. He attended New York University School of Law and holds a BA in philosophy from Harvard University.
 
-See Also
---------
+## See Also
 
 *   [Timeline of Carl Shulman publications](http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/)
     *   [More up-to-date and comprehensive timeline of publications](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications)

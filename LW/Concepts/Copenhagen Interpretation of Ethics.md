@@ -13,7 +13,6 @@ synchedAt: '2022-08-29T10:47:17.896Z'
 
 The **Copenhagen Interpretation of Ethics** says that when you interact with a problem in any way, you can be blamed for it.
 
-External Links
---------------
+## External Links
 
 *   [The Copenhagen Interpretation of Ethics](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)

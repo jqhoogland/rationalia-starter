@@ -20,8 +20,7 @@ The purpose of a theory is to add up to observed reality. Science sets out to an
 
 A weaker extension of this principle applies to ethical and metaethical debates, which generally ought to end up explaining why you *shouldn't* eat babies, rather than why you *should*.
 
-See also
---------
+## See also
 
 *   [[Reality Is Normal|Reality is normal]]
 *   [[Quantum Mechanics|Quantum mechanics]]

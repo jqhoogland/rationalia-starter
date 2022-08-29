@@ -23,8 +23,7 @@ He has published several articles, including:
 *   ["Timeless Decision Theory" (2010)](http://intelligence.org/files/TDT.pdf): Describes [[Timeless Decision Theory|Timeless decision theory]], *”an extension of causal decision networks that compactly represents uncertainty about correlated computational processes and represents the decision maker as such a process”*. It solves many problems which [[Causal Decision Theory]] or [[Evidential Decision Theory]] don't have a plausible solution: [[Newcomb's Problem|Newcomb's problem]], [[Smoking Lesion|Solomon's Problems]] and [[Prisoner's Dilemma|Prisoner's dilemma]].
 *   ["Complex Value Systems are Required to Realize Valuable Futures" (2011)](http://intelligence.org/files/ComplexValues.pdf): Discusses the [[Complexity of Value|Complexity of value]]: we can’t come up with a simple rule or description that sums up all human values. It analyzes how this problem makes it difficult to build a valuable future.
 
-Links
------
+## Links
 
 *   [Eliezer Yudkowsky's posts](http://lesswrong.com/user/Eliezer_Yudkowsky/submitted/) on [Less Wrong](http://lesswrong.com/)
 *   [A list of all of Yudkowsky's posts to Overcoming Bias](https://web.archive.org/web/20140326081311/http://www.cs.auckland.ac.nz/~andwhay/postlist.html), [Dependency graphs for them](https://web.archive.org/web/20130713005256/http://www.cs.auckland.ac.nz/~andwhay/graphlist.html)

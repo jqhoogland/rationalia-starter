@@ -1,12 +1,14 @@
 ---
 _id: EBuZhwCrYuJGp7ax4
-title: "2: HJPEV and the Professor's Games"
+title: '2: HJPEV and the Professor''s Games'
 curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:49.013Z'
+aliases:
+  - 2— HJPEV and the Professor's Games
+synchedAt: '2022-08-29T17:16:42.180Z'
 ---
 # 2: HJPEV and the Professor's Games
 

@@ -18,40 +18,35 @@ synchedAt: '2022-08-29T11:13:24.429Z'
 Computer science
 ================
 
-Amdahl's law
-------------
+## Amdahl's law
 
 Relates the speedup of a sub-task to the resulting speedup of the whole. Trivially true, but often needed to knock down false intuition.
 
 *   [on Wikipedia](http://en.wikipedia.org/wiki/Amdahl%27s_law), long with examples
 *   [on MathWorld](http://demonstrations.wolfram.com/AmdahlsLaw/), short without examples
 
-Asymptotic notation
--------------------
+## Asymptotic notation
 
 Used to abstract away units and fixed overhead when analyzing resource usage.
 
 *   [on Wikipedia](http://en.wikipedia.org/wiki/Big_O_notation), long
 *   [cheat sheet](http://en.wikipedia.org/wiki/Big_O_notation#The_family_of_Bachmann.E2.80.93Landau_notations) from the same article
 
-Deterministic finite state automata
------------------------------------
+## Deterministic finite state automata
 
 Traditional square one of theoretical computer science, with many practical applications.
 
 *   [on Wikipedia](http://en.wikipedia.org/wiki/Deterministic_finite_state_machine), definition and example
 *   [homework with solutions](http://www.cs.utexas.edu/users/cline/ear/automata/CS341-Fall-2004-Packet/2-Homework/Home04DetFSAs.pdf) (PDF)
 
-The pumping lemma for regular languages
----------------------------------------
+## The pumping lemma for regular languages
 
 Illustrates many recurring themes. Understanding the proof and usage of the pumping lemma will help you understand and apply more famous, advanced results (e.g. anything involving Turing Machines).
 
 *   [at Penn Engineering](http://www.seas.upenn.edu/~cit596/notes/dave/pumping0.html), explanation and examples
 *   [handout](http://mtc.epfl.ch/courses/TCS-2009/notes/5.pdf) (PDF) with concise statement and examples
 
-Cantor's diagonal argument
---------------------------
+## Cantor's diagonal argument
 
 An astonishingly elegant technique for proving certain kinds of theorems. Originally introduced by the mathematician Georg Cantor to show that the set of real numbers is uncountable – that is, there is no one-to-one correspondence between real numbers and natural numbers, but was later found to generalize to several other contexts. Perhaps the most notable uses of this technique, in addition to Cantor's proof, are Alan Turing's answer to the Halting problem, and Gödel's proof of his famous first incompleteness theorem.
 

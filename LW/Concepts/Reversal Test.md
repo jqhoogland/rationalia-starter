@@ -21,19 +21,16 @@ For example, if it became possible to increase the human lifespan, some would ar
 > 
 > —The reversal test: eliminating status quo bias in applied ethics
 
-Main article
-------------
+## Main article
 
 *   Nick Bostrom, Toby Ord (2006). "The reversal test: eliminating status quo bias in applied ethics". *Ethics* (University of Chicago Press) **116** (4): 656-679. ([PDF](http://www.nickbostrom.com/ethics/statusquo.pdf))
 
-See also
---------
+## See also
 
 *   [Status quo bias](https://wiki.lesswrong.com/wiki/Status_quo_bias), [Privileging the hypothesis](https://wiki.lesswrong.com/wiki/Privileging_the_hypothesis)
 *   [Shut up and multiply](https://wiki.lesswrong.com/wiki/Shut_up_and_multiply)
 *   [Absurdity heuristic](https://wiki.lesswrong.com/wiki/Absurdity_heuristic)
 
-External links
---------------
+## External links
 
 *   ["The Reversal Test and Status Quo Bias"](http://philosophicaldisquisitions.blogspot.com/2012/11/the-reversal-test-and-status-quo-bias.html) (John Danaher)

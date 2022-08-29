@@ -19,8 +19,7 @@ TV Tropes page [here](http://tvtropes.org/pmwiki/pmwiki.php/FanFic/HarryPotterAn
 
 (This page also serves as a placeholder for subpages which can be linked to from fanfiction.net, so as to provide supplementary information.)
 
-Blog posts
-----------
+## Blog posts
 
 Discussion threads
 
@@ -30,8 +29,7 @@ Other
 
 *   [FF.net review statistics](http://lesswrong.com/lw/fag/analyzing_ffnet_reviews_of_harry_potter_and_the/)
 
-External links
---------------
+## External links
 
 *   [FanFiction.Net](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (primary source)
 *   [hpmor.com mirror](http://hpmor.com/) (up-to-date)

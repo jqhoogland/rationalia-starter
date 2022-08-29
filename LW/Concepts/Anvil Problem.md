@@ -19,8 +19,7 @@ AIXI is very simple math. AIXI does not consider its own structure in figuring o
 
 AIXI is an abstraction, and any real AI would have a physical embodiment that could be damaged, and an implementation which could be changed or could change its behavior due to bugs. The AIXI formalism completely ignores these possibilities (Yampolskiy & Fox, 2012).
 
-Relevance to Friendly AI
-------------------------
+## Relevance to Friendly AI
 
 AIXI is a valuable tool in theoretically considering the nature of super-intelligence, yet it has its limitations. From one perspective, its lack of a a self-model is a mere detail necessarily left out of a formalized abstraction. Nonetheless, for researchers of a future [artificial general intelligence](https://wiki.lesswrong.com/wiki/Friendly_AI), a correct understanding of self-analysis and self-modification is essential.
 
@@ -30,12 +29,10 @@ Second, because human values are not well-understood or formalized, the FAI may 
 
 Third, an artificial general intelligence will likely choose to try to enhance its own intelligence to better achieve its goals. It may do so by altering its own implementation, or by creating a new generation of AI. It may even do so without regard for the destruction of the current implementation, so long as the new system can better achieve the goals. All these forms of self-modification again raise central questions about the self-model of the AI, which, as mentioned, is not a part of AIXI.
 
-References
-----------
+## References
 
 [R.V. Yampolskiy, J. Fox (2012)](http://joshuafox.com/media/YampolskiyFox__AGIAndTheHumanModel.pdf) Artificial General Intelligence and the Human Mental Model. In Amnon H. Eden, Johnny Søraker, James H. Moor, Eric Steinhart (Eds.), The Singularity Hypothesis.The Frontiers Collection. London: Springer.
 
-Blog comment
-------------
+## Blog comment
 
 [Eliezer Yudkowsky](http://lesswrong.com/lw/om/qualitatively_confused/iqd) on Qualitatively Confused at LessWrong, 15 March 2008.

@@ -23,15 +23,13 @@ Created by Steven Kaas. From its [original formulation](https://web.archive.org/
 
 Scott Garrabrant (seemingly) independently invented a [very similar game](https://www.lesswrong.com/posts/nmwog5hGidZniDDpR/aumann-agreement-game), but designed for in-person play rather than playing online via comment section. It has printable instructions, including a convenient scoring table for an adjusted Bayes score which (a) is a proper scoring rule, and (b) is relatively fair (ie, minimizes the importance of whether you happen to get correct or incorrect answers).
 
-See also
---------
+## See also
 
 *   [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
 *   [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
 *   [[Paranoid Debating|Paranoid debating]]
 
-External links
---------------
+## External links
 
 *   [The Aumann Game](https://web.archive.org/web/20110408182936/http://www.acceleratingfuture.com/steven/?p=96)
 *   [The New Adventures of Aumann](https://web.archive.org/web/20130906125721/http://www.acceleratingfuture.com/steven/?p=102)

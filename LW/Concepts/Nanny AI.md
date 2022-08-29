@@ -25,8 +25,7 @@ Ben Goertzel has suggested a number of preliminary components for building a Nan
 
 In a paper by [Luke Muehlhauser](http://lukeprog.com/) and [[Anna Salamon]] to be published in The Singularity Hypothesis, it was suggested that programming a safe Nanny AI will require solving most, if not all, the problems that must be solved in programming a [[Friendly Artificial Intelligence]]. Ben Goertzel suggests that a Nanny AI may be a necessary evil to prevent disasters from developing technology, though he acknowledges it poses risks of its own.
 
-References
-----------
+## References
 
 *   [Should humanity build a global AI nanny to delay the singularity until it’s better understood?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.3966&rep=rep1&type=pdf) by Ben Goertzel
 *   [Mitigating the Risks of Artificial Superintelligence](http://hplusmagazine.com/2011/04/20/mitigating-the-risks-of-artificial-superintelligence/)

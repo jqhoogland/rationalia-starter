@@ -13,15 +13,13 @@ synchedAt: '2022-08-29T11:07:11.368Z'
 
 Posts directly about metaethics were published primarily from [June 20 2008](http://lesswrong.com/lw/rh/heading_toward_morality/) to [August 22 2008](http://lesswrong.com/lw/ta/invisible_frameworks/), albeit with a good deal of related material before and after.
 
-See also
---------
+## See also
 
 *   [[Complexity of Value|Complexity of value]]
 *   [[Fun Theory|Fun theory]]
 *   [[No-Nonsense Metaethics]]
 
-Blog posts (in primary sequence)
---------------------------------
+## Blog posts (in primary sequence)
 
 *   [Heading Toward Morality](http://lesswrong.com/lw/rh/heading_toward_morality/)
 *   [No Universally Compelling Arguments](http://lesswrong.com/lw/rn/no_universally_compelling_arguments/)

@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:09:31.039Z'
 
 A **configuration space** is an isomorphism between the _attributes_ of something, and its _position_ on a multidimensional graph. Theoretically, the attributes and precise position on the graph should contain the same information. In practice, the concept usually appears as a suffix, as in "walletspace", where "walletspace" refers to the configuration space of all possible wallets, arranged by similarity. Walletspace would intersect with leatherspace, and the set of leather wallets is a subset of both walletspace and leatherspace, which are both subsets of thingspace.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Similarity Clusters](http://lesswrong.com/lw/nj/similarity_clusters/)
 *   [The Cluster Structure of Thingspace](http://lesswrong.com/lw/nl/the_cluster_structure_of_thingspace)
@@ -23,8 +22,7 @@ Blog posts
 *   [Mutual Information, and Density in Thingspace](http://lesswrong.com/lw/o2/mutual_information_and_density_in_thingspace/)
 *   [Classical Configuration Spaces](http://lesswrong.com/lw/pi/classical_configuration_spaces/)
 
-See also
---------
+## See also
 
 *   [[Superexponential Conceptspace|Superexponential conceptspace]]
 *   [[Mind Design Space|Mind design space]]

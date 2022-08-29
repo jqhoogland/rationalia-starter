@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:10:15.640Z'
 
 **Reflective decision theory** is a term occasionally used to refer to a decision theory that would allow an agent to take actions in a way that does not trigger regret. This regret is conceptualized, according to the [[Causal Decision Theory]], as a [[Reflective Inconsistency|Reflective inconsistency]], a divergence between the agent who took the action and the *same* agent reflecting upon it after.
 
-The Newcomb's Problem example
------------------------------
+## The Newcomb's Problem example
 
 This problem represents the best example of what [[Eliezer Yudkowsky]] calls the [regret of rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/). Simply put, consider an alien superintelligence that comes to you and wants to play a simple game:
 
@@ -34,14 +33,12 @@ In order for us to understand the AGI's behavior in this and other situations an
 
 Eliezer Yudkowsky's has proposed a theoretical solution to the reflective decision theory problem in his [[Timeless Decision Theory]].
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) by Eliezer Yudkowsky
 *   [Interview](http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/) of Eliezer Yudkowsky by John Baez, March 7th, 2011
 
-See also
---------
+## See also
 
 *   [[Decision Theory|Decision theory]]
 *   [[Reflective Inconsistency|Reflective inconsistency]]

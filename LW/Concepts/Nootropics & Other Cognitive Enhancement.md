@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T10:48:13.678Z'
 
 The most imminent, successful and polemic method is through the use of drugs, substances that alter the functioning of our brain's neurochemistry in order to improve certain aspects of cognition. There is an increasing trend in the use of cognitive enhancement drugs among healthy individuals in schools and colleges[^2^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn2) [^3^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn3). This means this kind of enhancement technology is already in use. The overall impact of a widespread use of these kinds of drugs could be enormous [^4^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn4). However, the whole set of ethical consequences is unknown and subject of on-going developments [^5^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn5) [^6^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn6) [^7^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn7) [^8^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn8) [^9^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn9) [^10^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn10) [^11^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn11)
 
-Examples
---------
+## Examples
 
 Currently, there are several drugs been used as cognitive enhancers by healthy individuals, e.g.: caffeine, ritalin, aderall, modafinil and Aricept. Academic research assessing the risks and benefits of these drugs in the healthy individual have began only recently. In addition, the results of those researches are vastly ignored by most of the concerned population. Three of the most used, promising and known cognitive enhancement drugs are listed in more detail below:
 
@@ -37,21 +36,18 @@ Currently, there are several drugs been used as cognitive enhancers by healthy i
 
 *   Aricept(Donepezil): Aricept inhibits the breakdown of acetylcholine. Acetylcholine is a neurotransmitter linked to long-term memory. There are at least two studies with healthy individuals that have found: greater retention of how to perform a set of complex tasks [^39^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn39) and increased visual and verbal long-term memory [^40^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn40).
 
-Biases affecting our judgment
------------------------------
+## Biases affecting our judgment
 
 There are several [cognitive biases](http://wiki.lesswrong.com/wiki/Bias) affecting our judgment on the risks and efficacy of biological cognitive enhancers. Two are worth mentioning:
 
 *   Statistical format: we do not update our beliefs correctly when presented with absolute probabilities (i.e.: 10%) - when the information is presented in terms of occurrences (i.e.: one person in ten) the belief update is much more close to [bayesian](https://www.lessestwrong.com/lw/1to/what_is_bayesianism/) [^41^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn41). This bias impairs our ability to use information from scientific research to update our beliefs. One can easily comprehend the risks involved with a certain drug if a friend suffered a heart attack due to its use, avoiding such drug from then on. But reading an abstract number showing the rise in blood pressure – [the most important preventable risk factor for death](http://www.who.int/healthinfo/global_burden_disease/GlobalHealthRisks_report_full.pdf) \- of caffeine users is much higher than of modafinil users is too far away from the occurrence-based [savannah way](http://wiki.lesswrong.com/wiki/Evolutionary_psychology) our brains are accustomed to absorb information [^42^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn42)
 *   Status quo: a consistent and unjustified tendency to prefer that some parameter stays in the configuration it has always been, over other possible configurations. This tendency can manifest itself by preferring to continue to use a known drug with many side effects over a new safer drug and also impair our judgment of many others technological advancements. When analyzing if a new configuration should be used, Bostrom and Ord [^43^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn43) suggest the following heuristic: we imagine a scenario were the parameter will naturally change to the new configuration and ask if we would intervene. If we wouldn't intervene, then we have a reason to think the new configuration should be preferred.
 
-Relevance
----------
+## Relevance
 
 Bostrom [^44^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn44) argues for the huge impact of cognitive enhancements: "Imagine a researcher invented an inexpensive drug which was completely safe and which improved all‐round cognitive performance by just 1%. The gain would hardly be noticeable in a single individual. But if the 10 million scientists in the world all benefited from the drug the inventor would increase the rate of scientific progress by roughly the same amount as adding 100,000 new scientists. Each year the invention would amount to an indirect contribution equal to 100,000 times what the average scientist contributes. Even an Einstein or a Darwin at the peak of their powers could not make such a great impact. " Even outside the academic community, imagine a drug that improves the efficiency of all employees and workers around the world by just 1%. This would roughly means adding more 1 trillion dollars of production every year to the world gross product. This would be equivalent to the addition of an entire well developed country to the world, Germany for instance.
 
-References
-----------
+## References
 
 1.  SAVULESCU, J. & MEULEN, Rudd ter (orgs.) (2011) "Enhancing Human Capacities". Wiley-Blackwell.
 2.  [Jump up↑](https://wiki.lesswrong.com/wiki/Biological_Cognitive_Enhancement#cite_ref-2) KAPNER, E. (2003) "Recreational use of Ritalin on college campuses". InfoFactsResources – The Higher Education Center for Alcohol and Other Drug Prevention. Available at: www.edc.org/hec/pubs/factsheets/ritalin.pdf (accessed 4 Jan 2006).

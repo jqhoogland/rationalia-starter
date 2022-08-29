@@ -17,8 +17,7 @@ However, Bostrom argues that an *“Ethical assessment in the incipient stages o
 
 Many economists and sociologists have dedicated several papers to try to model and predict the social changes from possible future technologies. [[Robin Hanson]] has made an analysis of how [[Whole Brain Emulation|whole brain emulation]] techonologies would deliver a [[Malthusian Scenarios|malthusian scenario]] of subsistence-level existence[^3^](#fn3). He also constructs a [[Prediction Markets|prediction market]] given machine intelligence and argues for a dramatic wage fall in the future [^4^](#fn4). [James Hughes](https://en.wikipedia.org/wiki/James_Hughes_(sociologist)) has argue that only a [democratic transhumanism](https://en.wikipedia.org/wiki/Democratic_transhumanism) that ensures a liberal, equal and safe use of future technologies can bring all the potentialities of technological development [^5^](#fn5). Francesco Caselli demonstrates that technological revolutions can worsen inequality by bringing *"absolute gains for those individuals with high cognitive ability, and absolute losses for those with high costs of learning"*[^6^](#fn6), but also provide an incentive for everyone to join the 'learning pool' of cognitive skilled individuals.
 
-References
-----------
+## References
 
 1.  Bostrom, Nick. (2010) "Technological Revolutions: Ethics and Policy in the Dark" Nanoscale: Issues and Perspectives for the Nano Century, eds. Nigel M. de S. Cameron and M. Ellen Mitchell (John Wiley, 2010): pp. 129-152. Available at: [http://www.nickbostrom.com/revolutions.pdf](http://www.nickbostrom.com/revolutions.pdf)[↩](#fnref1)
 2.  Savulescu, Julian & Meulen, Rudd ter (orgs.)(2011) “Enhancing Human Capacities”. Wiley-Blackwell.[↩](#fnref2)

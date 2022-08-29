@@ -13,13 +13,11 @@ synchedAt: '2022-08-29T10:47:56.325Z'
 
 The term **hedonism** refers to a set of philosophies which hold that the highest goal is to maximize pleasure, or more precisely pleasure minus pain. Egoistic hedonism refers to the maximization of personal pleasure, while universalist hedonism (more commonly known as hedonistic [[Utilitarianism|utilitarianism]]) aims at the maximization of pleasure across all sentient beings.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Domain of Your Utility Function](http://lesswrong.com/lw/116/the_domain_of_your_utility_function/) by [Peter de Blanc](https://wiki.lesswrong.com/wiki/Peter_de_Blanc)
 
-See also
---------
+## See also
 
 *   [[Utilitarianism]]
 *   [[Shut Up and Multiply|Shut up and multiply]]

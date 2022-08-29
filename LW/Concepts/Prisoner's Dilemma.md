@@ -31,13 +31,11 @@ Notice that it's only if you treat the other player's decision as completely ind
 
 A popular variant is the Iterated Prisoner's Dilemma, where two agents play the Prisoner's Dilemma against each other a number of times in a row. A simple and successful strategy is called Tit for Tat - cooperate on the first round, then on subsequent rounds do whatever your opponent did on the last round.
 
-External links
---------------
+## External links
 
 *   [Prisoner's dilemma](http://plato.stanford.edu/entries/prisoner-dilemma/) (Stanford Encyclopedia of Philosophy)
 
-See also
---------
+## See also
 
 *   [Game theory](https://wiki.lesswrong.com/wiki/Game_theory)
 *   [Decision theory](https://wiki.lesswrong.com/wiki/Decision_theory)
@@ -49,7 +47,6 @@ See also
 *   [Pascal's mugging](https://wiki.lesswrong.com/wiki/Pascal%27s_mugging)
 *   [[Coordination / Cooperation|Coordination/Cooperation]]
 
-References
-----------
+## References
 
 *   Drescher, Gary (2006). *Good and Real*. Cambridge: The MIT Press. ISBN 0262042339.

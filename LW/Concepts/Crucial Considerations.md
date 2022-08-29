@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T10:47:33.860Z'
 
 **Crucial considerations** are ideas that potentially imply radical changes to our world-view and priorities. The term was coined by [[Nick Bostrom]].
 
-External links
---------------
+## External links
 
 *   [Crucial Considerations and Wise Philanthropy - Nick Bostrom](http://www.stafforini.com/blog/bostrom/)
 *   [Crucial considerations - EA concepts](https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/)

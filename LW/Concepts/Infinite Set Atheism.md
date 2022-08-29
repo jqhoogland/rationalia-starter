@@ -17,8 +17,7 @@ Part of the motivation for "infinite set atheism" (along with finitism) is that 
 
 Mathematicians have well-established, sophisticated theories for reasoning about infinite sets, and such counterintuitive results as described above are no longer considered problematic in the field of pure mathematics. However, some people (such as Yudkowsky) suspect that such mathematics may not be directly relevant to physical reality.
 
-Blog posts
-----------
+## Blog posts
 
 *   [0 and 1 are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
 *   [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)

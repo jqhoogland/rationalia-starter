@@ -25,8 +25,7 @@ There are two [EA](https://wiki.lesswrong.com/wiki/EA) organizations with s-risk
 
 Another approach to reducing s-risk is to "expand the moral circle" [*together*](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/) with raising concern for suffering, so that future (post)human civilizations and AI are less likely to [[Instrumental Value|instrumentally]] cause suffering to non-human minds such as animals or digital sentience. [Sentience Institute](http://www.sentienceinstitute.org/) works on this value-spreading problem.
 
-See also
---------
+## See also
 
 *   [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
 *   [[Existential Risk|Existential risk]]
@@ -34,8 +33,7 @@ See also
 *   [Mind crime](https://wiki.lesswrong.com/wiki/Mind_crime)
 *   [[Utilitarianism]], [[Hedonism]]
 
-External links
---------------
+## External links
 
 *   [Reducing Risks of Astronomical Suffering: A Neglected Global Priority (FRI)](https://foundational-research.org/reducing-risks-of-astronomical-suffering-a-neglected-global-priority/)
 *   [Introductory talk on s-risks (FRI)](https://foundational-research.org/s-risks-talk-eag-boston-2017/)

@@ -17,8 +17,7 @@ Related: [[Ethics & Morality]], [[Deontology]], [Moral Uncertainty](/tag/moral-u
 
 Consequentialism is often associated with maximizing the [[Expected Utility|expected value]] of a [[Utility Functions|utility function]]. However, it has been argued that consequentialism is not the same thing as having a utility function because it is possible to evaluate actions based on their consequences without obeying the [von Neuman-Morgenstern axioms](http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) necessary for having a utility function, and because utility functions can also be used to implement moral theories similar to deontology.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/)
 *   [Torture vs. Dust Specks](https://www.lesswrong.com/lw/kn/torture_vs_dust_specks/)
@@ -26,15 +25,13 @@ Blog posts
 *   [Virtue Ethics for Consequentialists](https://www.lesswrong.com/lw/2aa/virtue_ethics_for_consequentialists/)
 *   [Consequentialism Need Not Be Shortsighted](https://www.lesswrong.com/lw/778/consequentialism_need_not_be_nearsighted/)
 
-External links
---------------
+## External links
 
 *   [Consequentialism entry on Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)
 *   [Consequentialism FAQ](http://www.raikoth.net/consequentialism.html)
 *   [Description and discussion about trolley problems](http://people.howstuffworks.com/trolley-problem.htm)
 
-See also
---------
+## See also
 
 *   [[Utilitarianism]]
 *   [[Utility]], [[Utility Functions|utility function]], [[Expected Utility|expected utility]]
@@ -43,8 +40,7 @@ See also
 *   [[Shut Up and Multiply|Shut up and multiply]]
 *   [Hedons](https://wiki.lesswrong.com/wiki/Hedons), [utils](https://wiki.lesswrong.com/wiki/utils), [[Fuzzies|fuzzies]]
 
-References
-----------
+## References
 
 *   Jeremy Bentham (1907). *An Introduction to the Principles of Morals and Legislation*. Library of Economics and Liberty.
 *   Perter Fishburn (1970). *Utility Theory for Decision Making*. Huntington, NY.

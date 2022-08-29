@@ -17,8 +17,7 @@ The typical mind fallacy is also accompanied by the atypical mind fallacy - the 
 
 The typical mind fallacy can usually be found making other fallacies worse. For example, causing biased and overconfident conclusions about other people's experiences based on your own personal experience.
 
-**See also**
-------------
+## **See also**
 
 *   [[Mind Projection Fallacy]]
 *   [[Human Universal|Human universal]]

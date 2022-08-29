@@ -1,4 +1,4 @@
----
+	---
 _id: 627069efc21cca7abd321d83
 title: The Carving of Reality
 subtitle: Best of 2020

@@ -17,8 +17,7 @@ Near and far are two modes (or a spectrum of modes) in which we can think about 
 
 *   FAR: Conversely, all these bring each other more to mind: there, then, them; trend-following unlikely hypothetical global events; abstract, schematic, context-freer, core, coarse, goal-related features; desirable risk-taking acts, central global symbolic concerns, confident predictions, polarized evaluations, socially distant people with stable traits.
 
-Blog posts
-----------
+## Blog posts
 
 ##### By [[Robin Hanson]]
 
@@ -36,13 +35,11 @@ Blog posts
 *   [Near and Far Skills](http://lesswrong.com/lw/1c2/near_and_far_skills/) by cousin_it
 *   [A speculation on Near and Far Modes](http://lesswrong.com/lw/2hf/a_speculation_on_near_and_far_modes/) by Michael Vassar
 
-External links
---------------
+## External links
 
 *   [Construal level theory](http://www.psych-it.com.au/Psychlopedia/article.asp?id=79) on Psychlopedia
 
-See also
---------
+## See also
 
 *   [[Planning Fallacy|Planning fallacy]], [[Inside/Outside View|Outside view]]
 *   [[Signaling]]

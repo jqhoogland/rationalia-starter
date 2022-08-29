@@ -29,8 +29,7 @@ A **mistake theorist** thinks problems are primarily due to mistakes. If only we
 
 On the other hand, economics, evolutionary psychology, and some other fields are based on _rational choice theory_, IE, an assumption that behavior can be explained by rational decision-making. _(Economic rationality assumes that individuals choose rationally to maximize economic value, based on the incentives of the current situation. Evolutionary psychology instead assumes that human and animal behaviors will be optimal solutions to the problems they faced in evolutionary history. Bruce Bueno de Mesquita assumes that politicians act rationally so as to maximize their tenure in positions of power. The ACT-R theory of cognition assumes that individual cognitive mechanisms are designed to optimally perform their individual cognitive tasks, such as retrieving memories which are useful in expectation, even if the whole brain is not perfectly rational.)_ This assumption of rationality lends itself more naturally to conflict theories.
 
-Game-Theoretic Connections
---------------------------
+## Game-Theoretic Connections
 
 In game theory, assuming that people can make mistakes (a so-called [trembling hand](https://en.m.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium)) can complicate cooperative strategies.
 

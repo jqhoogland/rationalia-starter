@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T10:47:37.127Z'
 
 In the context of [[Artificial General Intelligence]], this signifies a situation where it becomes possible to create AGIs that can be run using only a small fraction of the easily available hardware resources. This could lead to an [[Intelligence Explosion|intelligence explosion]], or to a massive increase in the number of AGIs, as they could be easily copied to run on countless computers. This could make AGIs much more powerful than before, and present an [[Existential Risk|existential risk]].
 
-Examples
---------
+## Examples
 
 In 2010, the President's Council of Advisors on Science and Technology [reported on](http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-nitrd-report-2010.pdf) benchmark production planning model having become faster by a factor of 43 million between 1988 and 2003. Of this improvement, only a factor of roughly 1,000 was due to better hardware, while a factor of 43,000 came from algorithmic improvements. This clearly reflects a situation where new programming methods were able to use available computing power more efficiently.
 
@@ -26,13 +25,11 @@ Though estimates of [[Whole Brain Emulation|whole brain emulation]] place that l
 
 As Yudkoswky [puts it](http://intelligence.org/files/LOGI.pdf), human intelligence, created by this "blind" evolutionary process, has only recently developed the ability for planning and forward thinking - *deliberation*. On the other hand, the rest and almost all our cognitive tools were the result of ancestral selection pressures, forming the roots of almost all our behavior. As such, when considering the design of complex systems where the designer - us - collaborates with the system being constructed, we are faced with a new signature and a different way to achieve AGI that's completely different than the process that gave birth to our brains.
 
-References
-----------
+## References
 
 *   Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://intelligence.org/files/IE-EI.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al.. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
 
-See also
---------
+## See also
 
 *   [[Optimization|Optimization process]]
 *   [[Optimization]]

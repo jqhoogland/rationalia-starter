@@ -19,14 +19,12 @@ Suppose we intend to meet a friend tomorrow, and expect an 0.5 chance of raining
 
 One definition of [[Rationality|rationality]], used both on Less Wrong and in economics and psychology, is behavior which obeys the rules of Bayesian decision theory. Due to computational constraints, this is impossible to do perfectly, but naturally evolved brains [do seem to mirror](http://en.wikipedia.org/wiki/Bayesian_brain) these probabilistic methods when they adapt to an uncertain environment. Such models and distributions may be reconfigured according to feedback from the environment.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   Berger, James O. (1985). Statistical decision theory and Bayesian Analysis (2nd ed.). New York: Springer-Verlag. ISBN 0-387-96098-8. MR 0804611
 *   Bernardo, José M.; Smith, Adrian F. M. (1994). Bayesian Theory. Wiley. ISBN 0-471-92416-4. MR 1274699
 
-See also
---------
+## See also
 
 *   [[Bayesian Probability|Bayesian probability]]
 *   [[Decision Theory|Decision theory]]

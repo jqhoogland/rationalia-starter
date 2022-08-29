@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T11:13:12.528Z'
 
 The previous book in the series is *[[Mere Reality|Mere Reality]]*, and the next (and final) is *[[Becoming Stronger|Becoming Stronger]]*.
 
-**U. Fake Preferences**
------------------------
+## **U. Fake Preferences**
 
 257\. [Not for the Sake of Happiness (Alone)](http://lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/)
 
@@ -34,8 +33,7 @@ The previous book in the series is *[[Mere Reality|Mere Reality]]*, and the next
 
 263\. [The Design Space of Minds-in-General](http://lesswrong.com/lw/rm/the_design_space_of_mindsingeneral/)
 
-**V. Value Theory**
--------------------
+## **V. Value Theory**
 
 264 [Where Recursive Justification Hits Bottom](http://lesswrong.com/lw/s0/where_recursive_justification_hits_bottom/)
 
@@ -71,8 +69,7 @@ The previous book in the series is *[[Mere Reality|Mere Reality]]*, and the next
 
 280\. [The Gift We Give To Tomorrow](http://lesswrong.com/lw/sa/the_gift_we_give_to_tomorrow/)
 
-**W. Quantified Humanism**
---------------------------
+## **W. Quantified Humanism**
 
 281\. [Scope Insensitivity](http://lesswrong.com/lw/hw/scope_insensitivity/)
 

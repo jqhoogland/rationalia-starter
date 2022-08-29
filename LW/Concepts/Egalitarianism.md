@@ -15,15 +15,13 @@ synchedAt: '2022-08-29T11:05:33.967Z'
 
 Dismissing egalitarianism is not opposed to [[Humility|humility]], even though from the [[Signaling|signaling]] perspective it seems to be opposed to [[Humility|modesty]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [Tsuyoku vs. the Egalitarian Instinct](http://lesswrong.com/lw/h9/tsuyoku_vs_the_egalitarian_instinct/)
 *   [The Sin of Underconfidence](http://lesswrong.com/lw/c3/the_sin_of_underconfidence/)
 *   [Evading Sharing Rules](http://www.overcomingbias.com/2011/04/evading-sharing-rules.html) by [[Robin Hanson]]
 
-See also
---------
+## See also
 
 *   [[Humility]], [[Humility|Modesty]]
 *   [[Group Rationality|Group rationality]]

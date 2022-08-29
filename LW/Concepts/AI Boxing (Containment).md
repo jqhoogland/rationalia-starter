@@ -51,8 +51,7 @@ Both Eliezer Yudkowsky and Justin Corwin have ran simulations, pretending to be 
 
 The text of Eliezer's experiments have not been made public.
 
-List of experiments
--------------------
+## List of experiments
 
 *   [The AI-Box Experiment](http://yudkowsky.net/singularity/aibox/) [[Eliezer Yudkowsky|Eliezer Yudkowsky's]] original two tests
 *   [Shut up and do the impossible!](https://www.lesswrong.com/lw/up/shut_up_and_do_the_impossible/), three other experiments Eliezer ran

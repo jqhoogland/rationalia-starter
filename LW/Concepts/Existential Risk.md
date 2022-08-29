@@ -25,8 +25,7 @@ FHI's [existential-risk.org FAQ](https://www.existential-risk.org/faq.html) note
 > 
 > “Humanity”, in this context, does not mean “the biological species *Homo sapiens*”. If we humans were to evolve into another species, or merge or replace ourselves with intelligent machines, this would not necessarily mean that an existential catastrophe had occurred — although it might if the quality of life enjoyed by those new life forms turns out to be far inferior to that enjoyed by humans.
 
-Classification of Existential Risks
------------------------------------
+## Classification of Existential Risks
 
 Bostrom[^2^](https://lessestwrong.com/tag/existential-risk?revision=0.0.39#fn2) proposes a series of classifications for existential risks:
 
@@ -41,8 +40,7 @@ Existential risks also present an unique challenge because of their irreversible
 
 Another related idea is that of a [suffering risk](https://lessestwrong.com/tag/risks-of-astronomical-suffering-s-risks) (or s-risk).
 
-History
--------
+## History
 
 The focus on existential risks on LessWrong dates back to Bostrom's 2002 paper [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.html). It argues that "the chief goal for utilitarians should be to reduce existential risk". Bostrom writes:
 
@@ -51,8 +49,7 @@ The focus on existential risks on LessWrong dates back to Bostrom's 2002 paper [
 
 The concept is expanded upon in his 2012 paper [Existential Risk Prevention as Global Priority](https://www.existential-risk.org/concept.html)
 
-Organizations
--------------
+## Organizations
 
 *   [Machine Intelligence Research Institute](http://intelligence.org/)
 *   [The Future of Humanity Institute](http://www.fhi.ox.ac.uk/)
@@ -66,8 +63,7 @@ Organizations
 *   [The Lifeboat Foundation](http://lifeboat.com/)  
      
 
-References
-----------
+## References
 
 1.  BOSTROM, Nick. (2002) "[Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards](http://www.nickbostrom.com/existential/risks.pdf)". Journal of Evolution and Technology, Vol. 9, March 2002.
 2.  BOSTROM, Nick. (2012) "[Existential Risk Reduction as the Most Important Task for Humanity](http://www.existential-risk.org/concept.pdf)". Global Policy, forthcoming, 2012.

@@ -19,19 +19,16 @@ An agent, in prospect theory:
 *   is [risk-averse](https://wiki.lesswrong.com/wiki/risk_aversion) with respect to gains, but risk-seeking with respect to losses
 *   uses probability weighting: small probabilities count more and larger probabilities count less than they would under [[Expected Utility|expected utility]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [Shane Legg on prospect theory and computational finance](http://lesswrong.com/lw/115/shane_legg_on_prospect_theory_and_computational/)
 *   [Prospect Theory: A Framework for Understanding Cognitive Biases](http://lesswrong.com/lw/6kf/prospect_theory_a_framework_for_understanding/)
 
-External links
---------------
+## External links
 
 *   [Prospect theory](http://psychology.wikia.com/wiki/Prospect_theory) at Psychology Wiki
 
-See also
---------
+## See also
 
 *   [[Heuristics & Biases|Heuristics and biases]]
 *   [[Loss Aversion|Loss aversion]]

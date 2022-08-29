@@ -17,14 +17,12 @@ For the reasons related to [[Representativeness Heuristic|representativeness heu
 
 The conjunction fallacy suggests that one should be [[Burdensome Details|very careful in adding details]] to any claim, as even though each such detail may make the claim so much more convincing, it also inevitably subtracts from its validity.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Conjunction Fallacy](http://lesswrong.com/lw/ji/conjunction_fallacy/)
 *   [Conjunction Controversy (Or, How They Nail It Down)](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)
 
-See also
---------
+## See also
 
 *   [[Representativeness Heuristic|Representativeness heuristic]]
 *   [[Burdensome Details|Burdensome details]]

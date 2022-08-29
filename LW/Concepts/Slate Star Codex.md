@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:09:16.373Z'
 
 **Slate Star Codex** is the blog written by [[Scott Alexander]]. It is very popular. Many posts are cross-posted to LessWrong and can found on the [Codex](/codex).
 
-External links
---------------
+## External links
 
 *   [slatestarcodex.com](http://slatestarcodex.com/)
 *   [/r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/) on [Reddit](https://www.lesswrong.com/tag/reddit)

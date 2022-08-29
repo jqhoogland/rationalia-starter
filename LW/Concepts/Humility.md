@@ -41,8 +41,7 @@ The most commonly cited explanation of scientific/epistemic humility on LW is fo
 > 
 > Because this world contains many whose grasp of rationality is abysmal, beginning students of rationality win arguments and acquire an exaggerated view of their own abilities. But it is useless to be superior: Life is not graded on a curve. The best physicist in ancient Greece could not calculate the path of a falling apple. There is no guarantee that adequacy is possible given your hardest effort; therefore spare no thought for whether others are doing worse. If you compare yourself to others you will not see the biases that all humans share. To be human is to make ten thousand errors. No one in this world achieves perfection.
 
-Humility versus Modest Epistemology
------------------------------------
+## Humility versus Modest Epistemology
 
 While humility is based on the general idea that you are fallible (and should try to be calibrated and realistic about this), modest epistemology makes stronger claims such as:
 
@@ -66,8 +65,7 @@ The lesson of this isn't "it's bad to ever use reference class forecasting, tren
 
 Likewise, the lesson isn't "it's bad to ever worry about overconfidence", but rather that overconfidence and underconfidence are *both* problems, neither is *a priori* worse than the other, and fixing them requires doing a lot of legwork and model-building about your own capabilities -- again, there isn't a royal road to 'getting the right answer without having to figure things out'.
 
-Related pages
--------------
+## Related pages
 
 *   [[Calibration]]
 *   [[Chesterton's Fence]]

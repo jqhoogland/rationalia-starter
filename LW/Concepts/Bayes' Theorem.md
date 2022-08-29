@@ -25,13 +25,11 @@ With the posterior odds, the prior odds and the [[Likelihood Ratio|likelihood ra
 
 P(A|B)P(¬A|B)=P(A)P(¬A)⋅P(B|A)P(B|¬A)
 
-Visualization of Bayes' Rule
-----------------------------
+## Visualization of Bayes' Rule
 
 ![](https://wiki.lesswrong.com/images/7/74/Bayes.png)
 
-External links
---------------
+## External links
 
 *   [Arbital Guide to Bayes' Rule](https://arbital.com/p/bayes_rule_guide/)
 *   [An Intuitive Explanation of Bayes' Theorem](http://yudkowsky.net/rational/bayes) by Eliezer Yudkowsky

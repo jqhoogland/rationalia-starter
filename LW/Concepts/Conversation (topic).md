@@ -22,8 +22,7 @@ See also:
 *   Relationshops
 *   Community
 
-*Conversation Halter*
----------------------
+## *Conversation Halter*
 
 This term was introduced on LessWrong by Eliezer in the [eponymous post](https://www.lesswrong.com/posts/wqmmv6NraYv4Xoeyj/conversation-halters):
 

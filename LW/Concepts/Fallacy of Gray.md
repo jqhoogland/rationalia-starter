@@ -51,20 +51,17 @@ If you want to insist that a natural zero in some **resource** (like a bankroll)
 
 To say that someone is using the fallacy of gray is to say that despite not saying Boo or Yay, even so they are *still* speaking as if the people party to the discussion are only capable of [[The Trouble With "Good"|emotive associative reasoning]], not actual calculation in pursuit of any kind of detail-oriented assessment of options and trade-offs with costs and benefits that could be tallied coherently.
 
-Blog posts
-----------
+## Blog posts
 
 *   [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
 *   [The Fallacy of Gray](http://lesswrong.com/lw/mm/the_fallacy_of_gray/)
 *   [Fallacies of Compression](http://lesswrong.com/lw/nw/fallacies_of_compression)
 
-External links
---------------
+## External links
 
 *   [Thinking in Greyscale](http://measureofdoubt.com/2011/05/23/thinking-in-greyscale/) at Measure of Doubt
 
-See also
---------
+## See also
 
 *   [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
 *   [[Humility]]

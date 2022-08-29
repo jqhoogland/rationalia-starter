@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ac9f9aebd597aa",
+        "id": "955163b45ac3460d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Collections/The Codex.md",
+            "file": "LW/Concepts/Anthropomorphism.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LessWrong",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Collections/The Codex.md"
+                "file": "LW/Concepts/Anthropomorphism.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Collections/The Codex.md",
+                "file": "LW/Concepts/Anthropomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,17 +162,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "f6ac9f9aebd597aa",
+  "active": "66ed81a64e92146c",
   "lastOpenFiles": [
-    "LW/Collections/Best of LessWrong.md",
-    "LW/Collections/Highlights from the Sequences (Collection).md",
-    "LW/Books/Further Reading (Highlights).md",
-    "LW/Collections/The Codex.md",
-    "LW/Collections/Rationality— A-Z.md",
-    "LW/Collections/HPMOR.md",
-    "LW/Sequences/1— The Methods of Rationality.md",
-    "LW/Sequences/6— HJPEV and the Philosopher's Stone.md",
-    "LW/Sequences/5— HJPEV and the Last Enemy.md",
-    "LW/Sequences/4— HJG and the Phoenix's Call.md"
+    "LW/Concepts/Really Powerful Optimization Process.md",
+    "LW/Canon.md",
+    "LW/Concepts/Anthropomorphism.md",
+    "LW/Concepts/Affective Death Spiral.md",
+    "LW/Books/A Map That Reflects the Territory.md",
+    "LW/Books/The Institution of Science.md",
+    "LW/Books/The Machine in the Ghost.md",
+    "LW/Books/The Engines of Cognition.md",
+    "LW/Books/The Carving of Reality.md",
+    "LW/Books/Mere Reality.md"
   ]
 }

@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:03.650Z'
 
 Increasing [willpower](https://www.lessestwrong.com/tag/willpower) is seen by some as a solution to akrasia. On the other hand, many favor using tools such as [[Internal Double Crux]] to resolve internal mental conflicts until one *wants* to do the perform the reflectively endorsed task. The "resolve internal conflicts" approach is often related to viewing the mind in terms of [[Subagents|parts that disagree]] with each other.
 
-See also
---------
+## See also
 
 *   [[Attention]]
 *   [[Motivations]]
@@ -31,8 +30,7 @@ See also
 *   [[Preference]]
 *   [[Pica]]
 
-External links
---------------
+## External links
 
 *   [Akrasia](http://psychology.wikia.com/wiki/Akrasia) at Psychology Wiki
 *   [Weakness of Will](http://plato.stanford.edu/entries/weakness-will/), Stanford Encyclopedia of Philosophy

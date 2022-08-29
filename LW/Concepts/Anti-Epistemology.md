@@ -17,14 +17,12 @@ Anti-epistemology was formerly known as **Dark Side Epistemology** but this seem
 
 An example of anti-epistemology run riot would be New Ageism: The concept of "faith" was originally developed by scriptural religions, but with organized teachings that put boundaries around what you were allowed to have faith in. New Ageism kept the notion that unjustified belief was a noble thing, but dropped the restrictive scriptures. So now they have faith in unicorns, UFOs, homeopathy, pyramid power...
 
-Blog posts
-----------
+## Blog posts
 
 *   [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
 *   [The Sacred Mundane](http://lesswrong.com/lw/57/the_sacred_mundane/)
 
-See also
---------
+## See also
 
 *   [[Rationality]]
 *   [[Semantic Stopsign|Semantic stopsign]], [[Self-Deception|Self-deception]]

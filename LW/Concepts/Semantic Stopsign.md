@@ -15,8 +15,7 @@ A **semantic stopsign** or **curiosity stopper** is a meaningless, generic expla
 
 When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist taboo]] on them may help. [[Epistemic Hygiene|Epistemic hygiene]] allows excluding some of the stopsigns raised by [[Arguments As Soldiers|partial arguers]] or by your own [cognitive biases](https://wiki.lesswrong.com/wiki/cognitive_biases).
 
-Blog posts
-----------
+## Blog posts
 
 *   [Semantic Stopsigns](http://lesswrong.com/lw/it/semantic_stopsigns/)
 *   [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)
@@ -26,8 +25,7 @@ Blog posts
 *   [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)
 *   [Conversation Halters](http://lesswrong.com/lw/1p2/conversation_halters/)
 
-See also
---------
+## See also
 
 *   [[Curiosity]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 *   [[Improper Belief|Improper belief]]

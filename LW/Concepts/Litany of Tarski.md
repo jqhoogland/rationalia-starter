@@ -25,8 +25,7 @@ The name refers to [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski),
 
 See also: [[Map and Territory]], [[Litanies & Mantras]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Meditation on Curiosity](http://lesswrong.com/lw/jz/the_meditation_on_curiosity/)
 *   [Why truth? And...](http://lesswrong.com/lw/go/why_truth_and/) — You have an instrumental motive to care about the truth of your *beliefs about* anything you care about.
@@ -36,8 +35,7 @@ Blog posts
 *   [Tarski Statements as Rationalist Exercise](http://lesswrong.com/lw/39/tarski_statements_as_rationalist_exercise/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
 *   [A Fable of Science and Politics](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/) \-\- characters discover the color of the sky, with political implications.
 
-See also
---------
+## See also
 
 *   [Truth](https://wiki.lesswrong.com/wiki/Truth)
 *   [Litany of Gendlin](https://wiki.lesswrong.com/wiki/Litany_of_Gendlin)

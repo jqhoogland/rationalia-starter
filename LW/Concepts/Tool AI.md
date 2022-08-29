@@ -17,12 +17,10 @@ Generally meant to refer to [AGI](https://wiki.lesswrong.com/wiki/AGI), tool AI 
 
 Eliezer Yudkowsky responded to this by enumerating several ways in which tool AI had similar difficulties in technical specification and safety. He also pointed out that it was not a common proposal among leading AGI thinkers.
 
-**See Also**
-------------
+## **See Also**
 
 *   [[Oracle AI]]
 
-**External Links**
-------------------
+## **External Links**
 
 *   [Conversation between Holden Karnofsky and Jaan Tallinn](http://groups.yahoo.com/group/givewell/message/287)

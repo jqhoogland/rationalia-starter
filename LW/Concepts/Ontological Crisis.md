@@ -19,20 +19,17 @@ When dealing with artificial agents, we, as their creators, are directly interes
 
 This crisis, in the context of an [AGI](https://wiki.lesswrong.com/wiki/AGI), could in the worst case pose an [[Existential Risk|existential risk]] when old preferences and goals continue to be used. Another possibility is that the AGI loses all ability to comprehend the world, and would pose no threat at all. If an AGI reevaluates its preferences after its ontological crisis, for example in the way mentioned above, very [[Unfriendly Artificial Intelligence|unfriendly]] behaviors could arise. Depending on the extent of the reevaluations, the AGI's changes may be detected and safely fixed. On the other hand, it could go undetected until they go wrong - which shows how it is of our interest to deeply explore ontological adaptation methods when designing AI.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Ontological Crises in Artificial Agents' Value Systems](http://arxiv.org/abs/1105.3821) by Peter de Blanc
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [AI ontology crises: an informal typology](http://lesswrong.com/r/discussion/lw/827/ai_ontology_crises_an_informal_typology/) by Stuart Armstrong
 *   [Eutopia is Scary](http://lesswrong.com/lw/xl/eutopia_is_scary/) by Eliezer Yudkowsky
 *   [Ontological Crisis in Humans](http://lesswrong.com/lw/fyb/ontological_crisis_in_humans/) by Wei Dai
 
-See also
---------
+## See also
 
 *   [[Evolution]]
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

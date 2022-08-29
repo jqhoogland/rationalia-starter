@@ -15,8 +15,7 @@ List of podcasts from the [diaspora](https://wiki.lesswrong.com/wiki/diaspora) a
 
 [The Nonlinear Library](https://open.spotify.com/show/3EcTioycPRcxwHv00IQEoF?si=9n2X-8uuT3OmowFDvoU8ZA) is a project that uses high-quality text-to-speech software to read out loud posts from LessWrong and the [EA forum](https://forum.effectivealtruism.org/). You can read [their announcement post here](https://www.lesswrong.com/posts/mZy5tEBonDh8LqH73/listen-to-top-lesswrong-posts-with-the-nonlinear-library), or [listen to it here](https://open.spotify.com/episode/3dH2asiymCqLEXiWL94AFC?si=75017afd040f45f3). For posts read by a human, the [LW Curated podcast](https://www.lesswrong.com/posts/kDjKF2yFhFEWe4hgC/announcing-the-lesswrong-curated-podcast) is a recent project - created and recorded by Solenoid Entity, who spent the last five years editing the [SSC podcast](https://linktr.ee/sscpodcast) and the [Metaculus Journal Podcast.](https://www.metaculus.com/questions/11102/introducing-the-metaculus-journal-podcast/)
 
-By people with Less Wrong profiles
-----------------------------------
+## By people with Less Wrong profiles
 
 *   [Rationally Speaking](http://rationallyspeakingpodcast.org/) Julia Galef
 *   [Future Strategist](https://soundcloud.com/user-519115521) James Miller
@@ -29,8 +28,7 @@ By people with Less Wrong profiles
 *   [The 80,000 Hours Podcast](https://80000hours.org/podcast/) Rob Wiblin
 *   [Affix](https://www.affix.live/) [](www.affix.live) by Brian and Chris
 
-Obviously [rationalist-adjacent](https://wiki.lesswrong.com/wiki/rationalist-adjacent)
---------------------------------------------------------------------------------------
+## Obviously [rationalist-adjacent](https://wiki.lesswrong.com/wiki/rationalist-adjacent)
 
 *   [Waking Up With Sam Harris](https://www.samharris.org/podcast)
 *   [You Are Not So Smart](https://youarenotsosmart.com/podcast/)
@@ -38,8 +36,7 @@ Obviously [rationalist-adjacent](https://wiki.lesswrong.com/wiki/rationalist-adj
 *   [The GiveWell Podcast](http://blog.givewell.org/2016/05/23/trying-new-format-givewell-podcast/)
 *   [EconTalk](http://www.econtalk.org/)
 
-See Also
---------
+## See Also
 
 *   [Grognor's podcast and other audio recommendations](http://grognor.stacky.net/index.php?title=Audio_Content)
 *   [[List of Blogs]]

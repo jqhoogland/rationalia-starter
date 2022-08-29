@@ -21,8 +21,7 @@ Rationalization can be conscious or unconscious. It can take on a blatant, consc
 
 Defeating rationalization - or even *discovering* rationalizations - is a lifelong battle for the aspiring rationalist.
 
-See Also
---------
+## See Also
 
 *   [Motivated skepticism](https://lessestwrong.com/tag/motivated-skepticism), [motivated cognition](https://lessestwrong.com/tag/motivated-reasoning)
 *   [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)

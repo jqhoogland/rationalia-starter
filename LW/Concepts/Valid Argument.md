@@ -17,12 +17,10 @@ An argument is **valid** when it contains no logical fallacies. Such arguments a
 *   All dogs are terriers. (False premise/All B are C.)
 *   Thereforse, all animals are terriers. (False conclusion: not all animals are terriers. Valid logic: If all A are B, and all B are C, then all A are C.)
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Parable of Hemlock](http://lesswrong.com/lw/nf/the_parable_of_hemlock/) (tangentially related)
 
-See also
---------
+## See also
 
 *   [[Sound Argument|Sound argument]]

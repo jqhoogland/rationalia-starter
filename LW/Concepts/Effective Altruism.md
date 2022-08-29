@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:04:00.166Z'
 
 The basic concept behind EA is that you would really struggle to donate 100 times more money or time to charity than you currently do--but (assuming you are approximately utilitarian), spending a little time researching who to donate to *could* have an impact on roughly this order of magnitude. The same argument works for doing good with your career or volunteer hours.
 
-Concepts
---------
+## Concepts
 
 Despite a broad diversity of ideas within the EA community on which areas are most pressing, there are a handful of criteria that are generally agreed make an area potentially impactful to work on (either directly or through donation). These are:
 
@@ -38,15 +37,13 @@ Examples of longtermist interventions include [[AI]] safety, pandemic preparedne
 
 The **Effective Altruism movement** also has its own forum,   [**The EA Forum**](https://forum.effectivealtruism.org/). It runs on the same software as LessWrong.
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Efficient charity: do unto others...](https://lessestwrong.com/lw/3gj/efficient_charity_do_unto_others/)
 *   [Optimal philanthropy for human beings](https://lessestwrong.com/lw/6py/optimal_philanthropy_for_human_beings/)
 *   [Why we can't take expected value estimates literally (even when they're unbiased)](https://lessestwrong.com/lw/745/why_we_cant_take_expected_value_estimates/)
 
-Total resources and how they are split
---------------------------------------
+## Total resources and how they are split
 
 \[effectivealtruismdata.com\]
 
@@ -54,8 +51,7 @@ Total resources and how they are split
 
 \[include graph\]
 
-Impact
-------
+## Impact
 
 ### Global health and economic development
 
@@ -85,11 +81,9 @@ Some organizations in this space, like the [Center for Human-Compatible AI](http
 
 [Sherlock Biosciences](https://sherlock.bio/) is developing a diagnostic platform that could reduce threats from viral pandemics. (They are a private company, but much of their capital comes from a [grant](https://www.openphilanthropy.org/focus/scientific-research/sherlock-biosciences-research-viral-diagnostics) made by Open Philanthropy, an EA-aligned grantmaker.)
 
-Key ideas
----------
+## Key ideas
 
-Criticisms 
------------
+## Criticisms 
 
 *   EA is incoherent. Consequentialism applies to one's whole life, but many EAs don’t take it this seriously
     *   This argument applies to virtue ethics too, but no one criticises it - “why aren’t you constantly seeking to always do the virtuous action”. People in practice seem to take statements from consequentialist philosophies more seriously than they do from others
@@ -120,8 +114,7 @@ Wiblin, Robert & Keiran Harris (2019) [Vitalik Buterin on effective altruism, b
 
 Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism](https://forum.effectivealtruism.org/posts/pxALB46SEkwNbfiNS/the-motivated-reasoning-critique-of-effective-altruism), *Effective Altruism Forum*, September 14.
 
-Related
--------
+## Related
 
 *   [[Altruism]]
 *   [[Cause Prioritization]]
@@ -129,8 +122,7 @@ Related
 *   [[Risks of Astronomical Suffering (S-risks)|S-risk]]
 *   [[Existential Risk|X-risk]]
 
-External Resources
-------------------
+## External Resources
 
 *   [80,000 Hours](https://80000hours.org/), who offer advice for how to have a maximally globally impactful career
 *   [Effective Altruism,](https://www.effectivealtruism.org/) who offer support for local EA groups, as well as articles and advice surrounding EA

@@ -23,7 +23,6 @@ Notice that unlike SIA, SSA *is* dependent on the choice of reference class. If 
 
 SSA implies the [[Doomsday Argument|doomsday argument]] if the number of total observers in one's reference class is finite.
 
-References
-----------
+## References
 
 1.  Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref1)

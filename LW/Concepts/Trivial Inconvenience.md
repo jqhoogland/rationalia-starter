@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T10:47:42.630Z'
 
 *See also*: [[Akrasia]], [[Aversion|Ugh field]]
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Beware Trivial Inconveniences](http://lesswrong.com/lw/f1/beware_trivial_inconveniences/)
 *   [Celebrate Trivial Impetuses](http://lesswrong.com/lw/13z/celebrate_trivial_impetuses/)

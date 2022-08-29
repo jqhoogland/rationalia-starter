@@ -15,6 +15,6 @@ synchedAt: '2022-08-29T10:40:16.036Z'
 
 # Sequences
 
-- [[Predictably Wrong]]
-- [[Replacing Guilt]]
-- [[CFAR Handbook]]
+- [[Predictably Wrong (Sequence)]]
+- [[Replacing Guilt (Sequence)]]
+- [[CFAR Handbook (Sequence)]]

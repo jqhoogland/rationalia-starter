@@ -1,11 +1,14 @@
 ---
 _id: aaTrp2g86Qo3hinXQ
 title: Why We Fight
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T13:14:36.512Z'
+aliases:
+  - Why We Fight
+synchedAt: '2022-08-29T17:16:36.903Z'
 ---
 # Why We Fight
 

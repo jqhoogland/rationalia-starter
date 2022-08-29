@@ -17,8 +17,7 @@ Knowing and understanding possible failure modes in what you attempting to do is
 
 **See also:** [[Postmortems & Retrospectives]]
 
-Other Examples:
----------------
+## Other Examples:
 
 [[Bias]]  
 [[Planning Fallacy]]   

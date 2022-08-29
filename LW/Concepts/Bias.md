@@ -17,8 +17,7 @@ In our evolutionary past, in order that a cognitive algorithm turned out into a 
 
 Therefore, the human brain make operations which solve cognitive tasks through ‘shortcuts’, that work well on some cases but fail in others. Since the cognitive modules that make those tasks are universals in the human species, how and where those shortcuts lead to mistakes are also regular. The study of why, how and where such errors arise is the field of cognitive bias. Understanding cognitive biases and trying to defend against their effects has been a basic theme of [Less Wrong](https://www.lesswrong.com/about) since the days it was part of [[Overcoming Bias]].
 
-Starting points
----------------
+## Starting points
 
 *   Daniel Kahneman's [Nobel prize acceptance speech](http://nobelprize.org/nobel_prizes/economics/laureates/2002/kahneman-lecture.html), where he summarizes the work for which he won the prize;
 *   [Wikipedia:List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases);
@@ -27,8 +26,7 @@ Starting points
 *   Cialdini's book [Influence: Science and Practice](http://www.amazon.com/Influence-Practice-Robert-B-Cialdini/dp/0205609996/ref=sr_1_3?ie=UTF8&s=books&qid=1239074671&sr=1-3) (at once contentful and full of engaging anecdotes and cartoons, but, again, requires actually obtaining a book);
 *   [Psychology Wiki's list of Cognitive Biases](http://psychology.wikia.com/wiki/Category:Cognitive_biases)
 
-Blog posts on the concept of "bias"
------------------------------------
+## Blog posts on the concept of "bias"
 
 *   [What exactly is bias?](http://www.overcomingbias.com/2006/11/what_exactly_is.html) by [[Nick Bostrom]]
 *   [To the barricades! Against ... what exactly?](http://www.overcomingbias.com/2006/11/to_the_barricad.html) by [[Robin Hanson]]
@@ -38,8 +36,7 @@ Blog posts on the concept of "bias"
 *   [Seen vs. Unseen Biases](http://www.overcomingbias.com/2006/12/seen_vs_unseen_.html) by [[Robin Hanson]]
 *   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/) by [[Eliezer Yudkowsky]] \- Knowing about common biases doesn't help you obtain truth if you only use this knowledge to attack beliefs you don't like.
 
-Blog posts about known cognitive biases
----------------------------------------
+## Blog posts about known cognitive biases
 
 *   [Scope Insensitivity](http://lesswrong.com/lw/hw/scope_insensitivity/) \- The human brain can't represent large quantities: an environmental measure that will save 200,000 birds doesn't conjure anywhere near a hundred times the emotional impact and willingness-to-pay of a measure that would save 2,000 birds.
 *   [Correspondence Bias](http://lesswrong.com/lw/hz/correspondence_bias/), also known as the fundamental attribution error, refers to the tendency to attribute the behavior of others to intrinsic dispositions, while excusing one's own behavior as the result of circumstance.
@@ -59,18 +56,15 @@ Blog posts about known cognitive biases
 *   [Asch's Conformity Experiment](http://lesswrong.com/lw/m9/aschs_conformity_experiment/) \- The unanimous agreement of surrounding others can make subjects disbelieve (or at least, fail to report) what's right before their eyes. The addition of just one dissenter is enough to dramatically reduce the rates of improper conformity.
 *   [The Allais Paradox](http://lesswrong.com/lw/my/the_allais_paradox/) (and [subsequent](http://lesswrong.com/lw/mz/zut_allais/) [followups](http://lesswrong.com/lw/n1/allais_malaise/)) \- Offered choices between gambles, people make decision-theoretically inconsistent decisions.
 
-References
-----------
+## References
 
-See also
---------
+## See also
 
 *   [[Heuristics & Biases|Heuristics and biases]], [[Heuristic]]
 *   [[Debiasing]], [[Dangerous Knowledge|Dangerous knowledge]]
 *   [[No Safe Defense|No safe defense]]
 
-Not to be confused with
------------------------
+## Not to be confused with
 
 *   [Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
 *   [[Inductive Bias|Inductive bias]]

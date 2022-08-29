@@ -1,11 +1,14 @@
 ---
 _id: paoDwasxFpSpzwA2f
 title: Connecting Words to Reality
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T13:14:36.513Z'
+aliases:
+  - Connecting Words to Reality
+synchedAt: '2022-08-29T17:16:36.905Z'
 ---
 # Connecting Words to Reality
 

@@ -15,13 +15,11 @@ A **black swan** is a high-impact event that is hard to predict (but not necessa
 
 Considering some event a black swan doesn't give a leave to not assign any probabilities, since making decisions depending on the plausibility of such event is still equivalent to assigning probabilities that make the expected utility calculation give those decisions.
 
-External posts:
----------------
+## External posts:
 
 *   [White Swans Painted Black](http://www.overcomingbias.com/2008/09/white-swans-p-1.html) by Peter McCluskey
 
-See also
---------
+## See also
 
 *   [[Narrative Fallacy|Narrative fallacy]]
 *   [[Hindsight Bias|Hindsight bias]]

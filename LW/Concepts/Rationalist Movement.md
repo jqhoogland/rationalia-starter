@@ -15,8 +15,7 @@ The **rationalist movement**, **rationality community**,[^1^](#fn1) **rationalsp
 
 *This page was last properly edited in December 2017, around the time LW2.0 was getting started. It may not accurate reflect the state of affairs in 2020 – either culture or how the community sees itself. – Ruby*
 
-History
--------
+## History
 
 Following the wind-down of the first era of [Less Wrong](https://www.lesswrong.com/about) in 2014, triggered primarily via the departure of [[Eliezer Yudkowsky]] and other top writers, the formerly closer-knit on and offline groups continue with a lessened central focus.
 
@@ -24,8 +23,7 @@ Arguably, [[Scott Alexander]] has emerged as the most influential remaining figu
 
 In 2016-2017, discussion of revival occurred and Vaniver was made benevolent dictator for life. He in turn empowered Oliver Habryka to form a team and launch the LessWrong 2.0 project which runs the current site.
 
-Illustration
-------------
+## Illustration
 
 ![](http://slatestarcodex.com/blog_images/ramap.jpg)
 
@@ -35,8 +33,7 @@ A popular illustration of the communities comprising and related to the movement
 
 A 2017 conceptual Venn diagram of the 'rationalsphere' has also been created.[^5^](#fn5)
 
-Definitions
------------
+## Definitions
 
 [[Scott Alexander]] has also suggested the following definition in 2016:[^6^](#fn6)
 
@@ -56,8 +53,7 @@ And:[^9^](#fn9)
 
 > ...a community that call themselves Rationalists, that read ‘high-IQ sites’ such as [Marginal Revolution](https://wiki.lesswrong.com/wiki/Marginal_Revolution), Less Wrong, and Slate Star Codex, and according to various surveys, identify as liberal, are atheist or agnostic, and, in general, hold a ‘realist’ philosophical worldview.
 
-Additional attributes
----------------------
+## Additional attributes
 
 A crowdsourced list of traits of community:[^10^](#fn10)
 
@@ -65,8 +61,7 @@ A crowdsourced list of traits of community:[^10^](#fn10)
 *   Being perpetually vigilant of personal [[Bias|biases]]
 *   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality) through constantly aligning one's beliefs as closely as possible with the actual state of the world
 
-Individualistic vs Organizational
----------------------------------
+## Individualistic vs Organizational
 
 ![](https://wiki.lesswrong.com/images/thumb/b/b2/Rationalsphere.png/300px-Rationalsphere.png)
 
@@ -88,8 +83,7 @@ The Rationality Community
 
 Encompasses the major subscribing organisations ( [CFAR](https://wiki.lesswrong.com/wiki/CFAR), [Giving What We Can](https://wiki.lesswrong.com/wiki/Giving_What_We_Can) etc ) as well as the many [meetup groups](https://www.lesswrong.com/about_meetup_groups) , friends and relationships discovered from participation in the community.
 
-Rationalist-adjacent
---------------------
+## Rationalist-adjacent
 
 Adjacent ideas include:[^12^](#fn12)
 
@@ -101,24 +95,20 @@ Adjacent ideas include:[^12^](#fn12)
 *   The [Facebook](https://wiki.lesswrong.com/wiki/Facebook) [group](https://www.facebook.com/groups/144017955332/) formally known as 'LessWrong' now 'Brain Debugging Discussion'
 *   Wider [[Fiction|rationalist fiction]]
 
-Skepticism of term
-------------------
+## Skepticism of term
 
 There is a some drive to avoid any 'isms' and instead focus on 'rationality' rather than 'rationalism.[^23^](#fn23)
 
-Culture
--------
+## Culture
 
 The culture is often defined by its saying such as those featured in [rationalists-out-of-context.tumblr.com](https://rationalists-out-of-context.tumblr.com).
 
-Related organizations
----------------------
+## Related organizations
 
 *   [Center for Applied Rationality](https://wiki.lesswrong.com/wiki/Center_for_Applied_Rationality)
 *   [MIRI](https://wiki.lesswrong.com/wiki/MIRI)
 
-See also
---------
+## See also
 
 *   [[Criticisms of The Rationalist Movement|Criticisms of the rationalist movement]]
 *   [Diaspora](https://wiki.lesswrong.com/wiki/Diaspora)
@@ -126,8 +116,7 @@ See also
 *   [Reddit](https://www.lesswrong.com/tag/reddit)
 *   [Twitter](https://www.lesswrong.com/tag/twitter)
 
-References 
------------
+## References 
 
 1.  [Economics, stale memes, and distraction from productive activity](https://noahpinionblog.blogspot.co.uk/2017/04/are-rationals-dense.html)[↩](#fnref1)
 2.  There doesn't appear to be clearly preferred term - August 2017[↩](#fnref2)

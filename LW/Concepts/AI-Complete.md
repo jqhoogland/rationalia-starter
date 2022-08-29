@@ -25,12 +25,10 @@ Roman V. Yampolskiy proposed a [classification in AI-Complete, AI-Hard and AI-Ea
 
 *   A problem _X_ is AI-Easy if and only if there exists some AI problem _Y_ such that _X_ is polynomial-time Turing reducible to _Y_. This means that given an oracle for _Y_, there exists an algorithm that solves _X_ in polynomial time.
 
-References
-----------
+## References
 
 *   [AI-Complete, AI-Hard, or AI-Easy: Classification of Problems in Artificial Intelligence](http://louisville.edu/speed/computer/tr/UL_CECS_02_2011.pdf/at_download/file) by Roman V. Yampolskiy
 
-See also
---------
+## See also
 
 *   [[Fai-Complete|FAI-complete]]

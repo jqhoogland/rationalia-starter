@@ -15,13 +15,11 @@ synchedAt: '2022-08-29T10:47:56.924Z'
 
 —[The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
 
-Main post
----------
+## Main post
 
 *   [The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
 
-Related concepts
-----------------
+## Related concepts
 
 *   [[Priming]], [[Affect Heuristic|Affect heuristic]]
 *   [[Affective Death Spiral|Affective death spiral]]

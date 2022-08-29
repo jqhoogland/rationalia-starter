@@ -23,13 +23,11 @@ Note how both of these alternative interpretations ground the meaning of probabi
 
 As a consequence of the subjective interpretation of probability theory, Bayesians are more inclined to apply Bayes' Theorem in practical statistical inference. The primary example of this is statistical hypothesis testing. Frequentists take the application of Bayes' Theorem to be inappropriate, because "the probability of a hypothesis" is meaningless: a hypothesis is either true or false; you cannot define a repeated experiment in which it is sometimes true and sometimes false, so you cannot assign it an intermediate probability.
 
-Bayesianism & Rationality
--------------------------
+## Bayesianism & Rationality
 
 There is a conceoption of rationality for *bayesian* can be treated as technical codeword that cognitive scientists use to mean "rational". Bayesian [probability theory](https://www.lessestwrong.com/tag/probability-theory) is the math of [epistemic rationality](https://wiki.lesswrong.com/wiki/epistemic_rationality), Bayesian [decision theory](https://www.lessestwrong.com/tag/decision-theory) is the math of [instrumental rationality](https://wiki.lesswrong.com/wiki/instrumental_rationality). Right up there with [cognitive bias](https://wiki.lesswrong.com/wiki/cognitive_bias) as an absolutely fundamental concept on Less Wrong.  
  
 
-Other usages
-------------
+## Other usages
 
 The term "Bayesian" may also refer to an ideal rational agent implementing precise, perfect Bayesian probability theory and decision theory (see, for example, [Aumann's agreement theorem](https://www.lessestwrong.com/tag/aumann-s-agreement-theorem)).

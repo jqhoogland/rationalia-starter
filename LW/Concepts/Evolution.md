@@ -31,21 +31,18 @@ Secondly, much of rationality necessarily revolves around the human brain ([[Tra
 > *A candy bar is a superstimulus: it contains more concentrated sugar, salt, and fat than anything that exists in the ancestral environment.   A candy bar matches taste buds that evolved in a hunter-gatherer environment, but it matches those taste buds much more strongly than anything that actually existed in the hunter-gatherer environment.  The signal that once reliably correlated to healthy food has been hijacked, blotted out with a point in tastespace that wasn't in the training dataset - an impossibly distant outlier on the old ancestral graphs. *  
 > *\-\-* Eliezer Yudkowsky, [Superstimuli and the Collapse of Western Civilisation](https://www.lesswrong.com/s/MH2b8NfWv22dBtrs8/p/Jq73GozjsuhdwMLEG)
 
-See also
---------
+## See also
 
 *   [Evolution as alien god](https://lessestwrong.com/tag/evolution-as-alien-god)
 *   [Slowness of evolution](https://lessestwrong.com/tag/slowness-of-evolution)
 *   [Stupidity of evolution](https://lessestwrong.com/tag/stupidity-of-evolution)
 *   [Evolutionary psychology](https://lessestwrong.com/tag/evolutionary-psychology)
 
-External links
---------------
+## External links
 
 *   [Richard Dawkins - The Selfish Gene](http://dl.dropbox.com/u/33627365/Scholarship/Selfish%20Gene%20-%20Dawkins.pdf) (PDF)
 
-Summaries of Sequence's Posts on Evolution
-------------------------------------------
+## Summaries of Sequence's Posts on Evolution
 
 *The following are summaries of posts concerning evolution in the Eliezer's sequences:*
 

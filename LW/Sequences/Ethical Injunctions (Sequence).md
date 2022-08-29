@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:49.256Z'
+aliases:
+  - Ethical Injunctions
+synchedAt: '2022-08-29T17:16:42.554Z'
 ---
 # Ethical Injunctions
 

@@ -23,13 +23,11 @@ That is all the complex machinery your brain has for apples; and you can pull th
 
 But if that machinery isn't there - if you're writing "apple" as five ASCII letters inside a so-called AI's so-called knowledge base, when the AI can't recognize apples or do anything with apples - then the word is just a lever detached from its underlying machinery.
 
-Main post
----------
+## Main post
 
 *   [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/)
 
-See also
---------
+## See also
 
 *   [[Fake Simplicity|Fake simplicity]]
 *   [[Semantic Stopsign|Semantic stopsign]], [[Cached Thoughts|Cached thought]]

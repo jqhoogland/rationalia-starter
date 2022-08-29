@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T10:47:41.116Z'
 
 An **Oracle AI** is a regularly proposed solution to the problem of developing [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI). It is conceptualized as a super-intelligent system which is designed for only answering questions, and has no ability to act in the world. The name was first suggested by [[Nick Bostrom]].
 
-See also
---------
+## See also
 
 *   [[Instrumental Convergence|Basic AI drives]]
 *   [[Tool AI]]
@@ -35,8 +34,7 @@ Taxonomy
 
 Based on an old draft by Daniel Dewey, Luke Muehlhauser has [published](http://lesswrong.com/lw/any/a_taxonomy_of_oracle_ais/) a possible taxonomy of Oracle AIs, broadly divided between True Oracular AIs and Oracular non-AIs.
 
-True Oracular AIs
------------------
+## True Oracular AIs
 
 Given that true AIs are goal-oriented agents, it follows that a True Oracular AI has some kind of oracular goals. These act as the motivation system for the Oracle to give us the information we ask and nothing else.
 
@@ -44,8 +42,7 @@ It is first noted that such a True AI is not actually nor causally isolated from
 
 This means that a True Oracular AI has to have a full specification of human values, thus making it a [[Fai-Complete|FAI-complete]] problem – if we could achieve such skill and knowledge we could just build a Friendly AI and bypass the Oracle AI concept.
 
-Oracular non-AIs
-----------------
+## Oracular non-AIs
 
 Any system that acts only as an informative machine, only answering questions and has no goals is by definition not an AI at all. That means that a non-AI Oracular is but a calculator of outputs based on inputs. Since the term in itself is heterogeneous, the proposals made for a sub-division are merely informal.
 
@@ -55,8 +52,7 @@ A *Question-Answerer* is a similar system that gathers data from the real world 
 
 Finally, a *Predictor* is seen as a system that takes a corpus of data and produces a probability distribution over future possible data. There are some proposed dangers with predictors, namely exhibiting goal-seeking behavior which does not converge with humanity goals and the ability to influence us through the predictions.
 
-Further reading & References
-----------------------------
+## Further reading & References
 
 *   [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
 *   [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Armstrong, Sandberg and [[Nick Bostrom|Bostrom]]

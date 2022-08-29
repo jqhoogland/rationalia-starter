@@ -15,8 +15,7 @@ An **affective death spiral** (or **happy death spiral**) occurs when positive a
 
 The same process can also occur with negative beliefs instead of positive, leading to a **death spiral of hate**.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Affective Death Spirals](http://lesswrong.com/lw/lm/affective_death_spirals/)
 *   [Resist the Happy Death Spiral](http://lesswrong.com/lw/ln/resist_the_happy_death_spiral/)
@@ -26,8 +25,7 @@ Blog posts
 *   [Guardians of Ayn Rand](http://lesswrong.com/lw/m1/guardians_of_ayn_rand/)
 *   [Evaporative Cooling of Group Beliefs](http://lesswrong.com/lw/lr/evaporative_cooling_of_group_beliefs/)
 
-See also
---------
+## See also
 
 *   [[Affect Heuristic|Affect heuristic]], [[Halo Effect|Halo effect]], [[Motivated Skepticism|Motivated skepticism]]
 *   [[Information Cascades|Information cascade]], [[Groupthink]]

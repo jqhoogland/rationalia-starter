@@ -19,22 +19,19 @@ Physical movements are a favorite case-study, since they're relatively easy to b
   
 Actions and behaviors develop because they do something to reduce the mismatch between internal perception, and the stimulus readings received.
 
-Controversy
------------
+## Controversy
 
 It's unclear whether PCT is a valid theory. It doesn't significantly constrain the space of possible minds that could be built from it, and the advocates of the theory on the blog were unable to make a clear case for it. Experimental results for its quality as an algorithm seemed lackluster; see [these](https://lessestwrong.com/lw/14v/the_usefulness_of_correlations/11iu/) [critical comments](https://lessestwrong.com/lw/14v/the_usefulness_of_correlations/11j6/) about the paper version of [this technical report](http://www.rand.org/pubs/drafts/DRU2751/), which claim that the correct results may have been achieved more through parameter-fitting than PCT.  
   
 Some anecdotally found it more useful for explaining bugs in human behavior, than for modeling what would be ideal behavior.
 
-Under-Characterized Information Storage
----------------------------------------
+## Under-Characterized Information Storage
 
 This seems to be a common category of complaints about Perceptual Control Theory.  
   
 This [blog post](http://psychsciencenotes.blogspot.com/2016/01/a-quick-review-and-analysis-of.html) called out that PCT "has no theory of information or how that information comes to be made," and [this post](https://www.lesswrong.com/posts/fJKbCXrCPwAR5wjL8/what-is-control-theory-and-why-do-you-need-to-know-about-it) grappled with a similar problem: struggling to find a place for implicit models, priors, and updates when working with a PCT framework. ([This](https://www.lesswrong.com/posts/fJKbCXrCPwAR5wjL8/what-is-control-theory-and-why-do-you-need-to-know-about-it?commentId=JzphwDyjg6YXBHkAc) comment may have made a case for at least some embedded implicit priors.)
 
-Notable Posts
--------------
+## Notable Posts
 
 *   Kennaway's [What is control theory](https://www.lesswrong.com/posts/fJKbCXrCPwAR5wjL8/what-is-control-theory-and-why-do-you-need-to-know-about-it), and his prior post [Without Models](https://www.lesswrong.com/posts/Ba6buPA3u2btdKS82/without-models)
 *   SSC book reviews of [Surfing Uncertainty](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) and [Behavior: The Control of Perception](https://slatestarcodex.com/2017/03/06/book-review-behavior-the-control-of-perception/)
@@ -42,7 +39,6 @@ Notable Posts
 *   Vaniver's [Introduction to Control Theory](https://www.lesswrong.com/posts/dcRY7XSnuARkHkA5D/an-introduction-to-control-theory), and review of [Behavior: The Control of Perception](https://www.lesswrong.com/posts/nPs63hpijnQs37jme/behavior-the-control-of-perception)
     *   His personal-blog thoughts on the topic [here](https://www.lesswrong.com/posts/cMKNFE8hWKNhnEXtM/control-theory-commentary)
 
-See also
---------
+## See also
 
 *   [Control Theory](https://lessestwrong.com/tag/control-theory)

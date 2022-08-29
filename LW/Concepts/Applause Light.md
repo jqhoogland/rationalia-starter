@@ -17,8 +17,7 @@ An **applause light** is an empty statement which evokes positive affect without
 > 
 > —[Applause Lights](http://lesswrong.com/lw/jb/applause_lights/)
 
-See also
---------
+## See also
 
 *   [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password) 
 *   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)

@@ -13,42 +13,35 @@ synchedAt: '2022-08-29T10:47:33.912Z'
 
 **Criticisms of the** [[Rationalist Movement|rationalist movement]] and [LessWrong](https://www.lesswrong.com/about) have existed for most of its duration on various grounds.
 
-Cult of Rationality
--------------------
+## Cult of Rationality
 
 Less Wrong has been referred to as a [[Phyg|~cult~ phyg]] on numerous occasions,[^1^](#fn1)[^2^](#fn2)[^3^](#fn3) with [[Eliezer Yudkowsky]] as its leader. Eliezer's confidence in his AI safety work outside of mainstream academia and self-professed intelligence renders him highly unpopular with his critics.[^4^](#fn4)
 
-Neoreaction
------------
+## Neoreaction
 
 The Neoreaction movement,[^5^](#fn5) is a notoriously adjacent idea to the community. Whist it has being explicitly refuted by figures such as Eliezer[^6^](#fn6)[^7^](#fn7) and Scott,[^8^](#fn8) it is often actively-associated by critics.[^9^](#fn9)[^10^](#fn10)
 
-Rationalism
------------
+## Rationalism
 
 The movement has been criticized as overemphasizing [[Induction|inductive reasoning]] over [[Empiricism|empiricism]],[^11^](#fn11) a criticism that has been refuted by [[Scott Alexander]].[^12^](#fn12)
 
-Roko's basilisk
----------------
+## Roko's basilisk
 
 The [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk) thought experiment was notorious in that it required specific preconditions available nearly exclusively within the Less Wrong community that rendered the reader vulnerable to this 'memetic hazard'. As such it has drawn derision from critics who feel perception risk from unfriendly AI is overstated within the community.[^13^](#fn13)[^14^](#fn14)
 
-Transhumanism
--------------
+## Transhumanism
 
 Less Wrong's community was partially founded by soliciting users from the transhumanist [SL4](https://hpluspedia.org/wiki/SL4#cite_note-1) mailing list and [[Eliezer Yudkowsky]] is himself a prominent transhumanist.
 
 As such, the fringe nature of transhumanist ideas such as [[Cryonics|cryonics]], AGI takeover[^15^](#fn15) has met with continued scorn from the skeptics based at [RationalWiki](https://wiki.lesswrong.com/wiki/RationalWiki).[^16^](#fn16)
 
-See also
---------
+## See also
 
 *   [[Rationalist Movement|Rationalist movement]]
 *   [RationalWiki](https://wiki.lesswrong.com/wiki/RationalWiki)
 *   [Sneer Club](https://wiki.lesswrong.com/wiki/Sneer_Club)
 
-References
-----------
+## References
 
 1.  [http://lesswrong.com/lw/4d/youre\_calling\_who\_a\_cult_leader/](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/)[↩](#fnref1)
 2.  [http://lesswrong.com/lw/bql/our\_phyg\_is\_not\_exclusive_enough/](http://lesswrong.com/lw/bql/our_phyg_is_not_exclusive_enough/)[↩](#fnref2)

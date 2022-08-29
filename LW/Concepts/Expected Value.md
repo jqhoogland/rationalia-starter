@@ -15,13 +15,11 @@ The **expected value** or **expectation** is the (weighted) average of all the p
 
 (Since a die doesn't even have a face that says 3.5, this illustrates that very often, the "expected value" isn't a value you actually expect.)
 
-See also
---------
+## See also
 
 *   [Probability](https://wiki.lesswrong.com/wiki/Probability)
 *   [[Expected Utility|Expected utility]]
 
-External links
---------------
+## External links
 
 *   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)

@@ -25,8 +25,7 @@ Much more fiction can be found at [r/Rational](https://www.reddit.com/r/rational
 
 This is a tag for works of fiction, not for analysis or discussion of literature. For that see [[Fiction (Topic)|Fiction (topic)]].
 
-Fiction Sequences
------------------
+## Fiction Sequences
 
 *   [HPMOR](https://www.lesswrong.com/hpmor)
 *   [Three Worlds Collide](https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT)
@@ -36,8 +35,7 @@ Fiction Sequences
 *   [Bayeswatch](https://www.lesswrong.com/s/TjdhvTSptCYakw3Lc)
 *   [Short stories](https://www.lesswrong.com/s/qMtriMPLdriNkAfSJ) by lsusr
 
-External links
---------------
+## External links
 
 *   [/r/rational/](https://www.reddit.com/r/rational/) on [Reddit](https://lessestwrong.com/tag/reddit)
 *   [RationalFic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic) on TV Tropes

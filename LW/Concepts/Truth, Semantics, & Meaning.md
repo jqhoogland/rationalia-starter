@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T10:59:57.722Z'
 
 **Truth, Semantics, and Meaning**: What does it mean to assert that something is true? A very popular answer is [[Map and Territory|map-territory correspondence theory]]. But the details of this theory are not clear, and there are other contenders.
 
-Truth as Correspondence
------------------------
+## Truth as Correspondence
 
 Many consider truth as the correspondence between reality and one's beliefs about reality. Within this frame, truth itself is not necessarily limited to one's belief about something. For a statement/ideal/proposed fact to be considered "true," you must take it as its definition. Truth doesn't imply that something has to be proven in order for it to be made true, but that the statement/ideal/proposed fact has to be true all of the time, regardless of one's belief.
 
@@ -28,13 +27,11 @@ To understand whether a belief is true, we need (only) to understand what possib
 
 'Truth' is a very simple concept, understood perfectly well by three-year-olds, but often made unnecessarily complicated by adults.
 
-Other Theories of Truth
------------------------
+## Other Theories of Truth
 
 <needed>
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [The Useful Idea of Truth](https://www.lesswrong.com/lw/eqn/the_useful_idea_of_truth/) \- A basic guide to what 'truth' means.
 *   [Why truth? And...](https://www.lesswrong.com/lw/go/why_truth_and/) \- You have an instrumental motive to care about the truth of your *beliefs about* anything you care about.
@@ -43,13 +40,11 @@ Notable Posts
 *   [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/) \- In particular, the [[Litany of Tarski]].
 *   [Fake Norms, or "Truth" vs. Truth](https://www.lesswrong.com/lw/sf/fake_norms_or_truth_vs_truth/) \- Our society has a moral norm for applauding "truth", but actual truths get much less applause (this is a bad thing).
 
-External links
---------------
+## External links
 
 *   [The Simple Truth](http://yudkowsky.net/rational/the-simple-truth)
 
-See also
---------
+## See also
 
 *   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
 *   [[Litany of Tarski]], [[Litany of Gendlin]]

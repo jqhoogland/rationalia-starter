@@ -32,7 +32,6 @@ Other discussion:
 
 *   Phil Goetz, [Holden's Objection 1: Friendliness is dangerous](http://lesswrong.com/lw/chk/holdens_objection_1_friendliness_is_dangerous/)
 
-Related pages
--------------
+## Related pages
 
 *   [[Tool AI]]

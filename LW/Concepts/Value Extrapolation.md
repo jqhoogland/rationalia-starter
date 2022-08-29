@@ -23,8 +23,7 @@ Yudkowsky's, through [[Coherent Extrapolated Volition]], has proposed that a ext
 *   a possible solution for human goals’ integration in AI systems;
 *   convergence of different human values.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Coherent Extrapolated Volition](http://intelligence.org/files/CEV.pdf) by Eliezer Yudkowsky
 *   [The Singularity and Machine Ethics](http://intelligence.org/files/SaME.pdf) by Muehlhauser & Helm
@@ -34,8 +33,7 @@ Further Reading & References
 *   [Value is Fragile](http://lesswrong.com/lw/y3/value_is_fragile/)
 *   [Human errors, human values](http://lesswrong.com/lw/55n)
 
-See Also
---------
+## See Also
 
 *   [[Coherent Extrapolated Volition]]
 *   [[Coherent Aggregated Volition]]

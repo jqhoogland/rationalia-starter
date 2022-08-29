@@ -20,16 +20,14 @@ synchedAt: '2022-08-29T11:08:22.217Z'
 
 This sequential chain of thought can be particularly useful when dealing with [[Coherent Extrapolated Volition]], as a way of systematically exploring agent’s goals and motivations.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Would Your Real Preferences Please Stand Up?](http://lesswrong.com/lw/15c/would_your_real_preferences_please_stand_up) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 *   [Notion of Preference in Ambient Control](http://lesswrong.com/lw/2tq/notion_of_preference_in_ambient_control/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
 *   [To What Degree Do We Have Goals?](http://lesswrong.com/lw/6oo/to_what_degree_do_we_have_goals/) by Yvain
 *   [A brief tutorial on preferences in AI](http://lesswrong.com/lw/a73/a_brief_tutorial_on_preferences_in_ai/) by Luke Muehlhauser
 
-See also
---------
+## See also
 
 *   [[Complexity of Value|Complexity of value]]
 *   [[Utility Functions|Utility function]]

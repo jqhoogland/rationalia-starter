@@ -15,13 +15,11 @@ synchedAt: '2022-08-29T11:13:25.184Z'
 > 
 > —[Eliezer Yudkowsky](https://wiki.lesswrong.com/wiki/Eliezer_Yudkowsky), [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
 
-Blog posts
-----------
+## Blog posts
 
 *   [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/) by [[Eliezer Yudkowsky]]
 
-See also
---------
+## See also
 
 *   [[Curiosity]], [[Surprise]]
 *   [[Cached Thoughts|Cached thought]], [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper)

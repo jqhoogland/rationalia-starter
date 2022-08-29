@@ -24,8 +24,7 @@ The fact is that "infinite" is a general term meaning "larger (in some sense) th
 Systems of infinite quantities (for doing arithmetic with)
 ==========================================================
 
-[Cardinal numbers](http://en.wikipedia.org/wiki/Cardinal_number)
-----------------------------------------------------------------
+## [Cardinal numbers](http://en.wikipedia.org/wiki/Cardinal_number)
 
 First, a review of what they represent and how they work at the basic level, before we get to their arithmetic.
 
@@ -69,8 +68,7 @@ There is also exponentiation of cardinals; |X|^|Y|^ denotes the cardinality of t
 
 **Application**: Measuring sizes of sets when we don't care about the context or composition.
 
-[Ordinal numbers](http://en.wikipedia.org/wiki/Ordinal_number)
---------------------------------------------------------------
+## [Ordinal numbers](http://en.wikipedia.org/wiki/Ordinal_number)
 
 I'm afraid there's no quick way to explain these. The reason is that they are used to represent two things - ways of well-ordering things, and positions in an "infinite list" - except, of course, that these are actually fundamentally the same thing, and to understand ordinals you need to wrap your head around this until you can see both simultaneously. Hence I suggest you just go read Wikipedia, or some other standard text, if you want to learn how these work. I will just speak briefly on their arithmetic. Note that the ordinals too are ordered - linearly ordered and well-ordered, at that.
 
@@ -80,15 +78,13 @@ Contrast the smallest infinite ordinal, denoted ω, with ℵ~0~, which is (assum
 
 **Application**: See link.
 
-Ordinal numbers with [natural operations](http://en.wikipedia.org/wiki/Ordinal_arithmetic#Natural_operations)
--------------------------------------------------------------------------------------------------------------
+## Ordinal numbers with [natural operations](http://en.wikipedia.org/wiki/Ordinal_arithmetic#Natural_operations)
 
 There's an alternate way of doing arithmetic on the ordinals, referred to as the "natural operations". These sacrifice the continuity properties of the ordinary operations, but in return get commutativity, distributivity, cancellation... the things we need to make the algebra nice. There's a natural addition, a natural multiplication, and apparently a natural exponentiation, though I don't know what that last one might be.
 
 If you've heard "the ordinals embed in the surreals", and were very confused by that statement because the surreals are commutative when the ordinals are not, the answer is that the correct statement is that the ordinals with natural operations embed in the surreals, rather than the ordinals with their usual operations.
 
-The [extended (positive) real line](http://en.wikipedia.org/wiki/Extended_real_number_line)
--------------------------------------------------------------------------------------------
+## The [extended (positive) real line](http://en.wikipedia.org/wiki/Extended_real_number_line)
 
 Sometimes, we just use the set of nonnegative real numbers with an infinity element (denoted ∞, unsurprisingly) tacked on. Because sometimes that's all you need. So:
 
@@ -100,32 +96,27 @@ Fact: Sometimes such a thing just wouldn't make sense.
 
 Sometimes we allow negative numbers and -∞ as well, though this can cause a problem because there's no sensible way to define ∞+(-∞). (0∞, on the other hand, is just 0. We make this definition because, e.g., the area of an infinitely-long-but-infinitely-thin line should still be 0.)
 
-The [projective line](http://en.wikipedia.org/wiki/Real_projective_line)
-------------------------------------------------------------------------
+## The [projective line](http://en.wikipedia.org/wiki/Real_projective_line)
 
 Sometimes we don't even care about the distinction between a "positive infinity" and a "negative infinity"; we just need something that represents something larger in magnitude than all real numbers, but which you'd approach regardless of whether you got large and negative or large and positive. So we take the real numbers R, tack on an infinity element ∞, and we have the real projective line. Note that this doesn't depend at all on the real numbers being ordered, so we can do the same with the complex numbers and get the complex projective line, a.k.a. the [Riemann sphere](http://en.wikipedia.org/wiki/Riemann_sphere).
 
 **Application**: If you want to assign 1/x some concrete "value" when x=0, well, this isn't going to make sense in a system where you have to distinguish ∞ from -∞.
 
-[Hyperreal numbers](http://en.wikipedia.org/wiki/Hyperreal_number)
-------------------------------------------------------------------
+## [Hyperreal numbers](http://en.wikipedia.org/wiki/Hyperreal_number)
 
 What [nonstandard analysis](http://en.wikipedia.org/wiki/Non-standard_analysis) uses. These are more used as a means to deduce properties of the real numbers than used for their own sake. You can't even speak of "the" hypperreal numbers, because then you'd have to specify what ultrafilter you were using. Even just proving these exist requires [a form of choice](http://en.wikipedia.org/wiki/Boolean_prime_ideal_theorem#The_ultrafilter_lemma). You probably don't want to use these to represent anything.
 
-The [surreal numbers](http://en.wikipedia.org/wiki/Surreal_number): the infinity kitchen sink
----------------------------------------------------------------------------------------------
+## The [surreal numbers](http://en.wikipedia.org/wiki/Surreal_number): the infinity kitchen sink
 
 For when you absolutely, positively, have to make sense of an expression involving infinite quantities. The surreal numbers are pretty much as infinite as you could possibly want. They contain the ordinals with their natural operations, but they allow for so much more. Do you need to take the natural logarithm of ω? And then divide π by it? And then raise the whole thing to the √(ω2+πω) power? And then subtract ω^√8^? In the surreal numbers, this all makes sense. Somehow. (And if you need square roots of negative numbers, you can always pass to the surcomplex numbers, which I guess is the actual kitchen sink.)
 
 **Application**: Again, kitchen sink.
 
-...and many more
-----------------
+## ...and many more
 
 Often the thing to do is make an ad-hoc system to fit the occasion. For instance, we could simply take the real numbers **R** and tack on an element ∞, insist it obey the ordinary rules of algebra, and order appropriately. (Formally, take the ring **R**\[T\], and order lexicographically. Then perhaps extend to **R**(T), or whatever else you might like. And of course call it "∞" rather than "T".) So (∞+1)(∞-1)=∞^2^-1, etc. What is this good for? I have no idea, but it's a simple brute-force way of tossing in infinities when needed.
 
-Also: functions, which are probably more appropriate a lot of the time
-----------------------------------------------------------------------
+## Also: functions, which are probably more appropriate a lot of the time
 
 Let's not forget - oftentimes the appropriate thing to do is not to start tossing about infinities at all, but rather shift from thinking about numbers to thinking about functions. You know what's larger than any constant number? x. What's even larger? x². (If we only consider polynomial functions, this is equivalent to the "brute-force" system above, under the equivalence x↔∞.) Much larger? e^x^. Is x too large? Maybe you want log x. Etc.
 
@@ -134,8 +125,7 @@ Ways of measuring infinite sets
 
 The thing about measuring infinite sets is that we have a trade-off between discrimination and applicability. Cardinality can be applied to any set at all, but it's a very coarse-grained way of measuring things. If you want to measure a subset of the plane, you'd be better off asking for its area... just don't think you can ask for the "area" of a set of integers.
 
-Cardinal numbers (again)
-------------------------
+## Cardinal numbers (again)
 
 The most basic method. Every set has a cardinality. But the cost of such universality is a very low resolution. The set of natural numbers has cardinality ℵ~0~, but so does the set of even numbers, the set of rational numbers, the set of algebraic numbers, the set of [computable real numbers](http://en.wikipedia.org/wiki/Computable_number)...
 
@@ -143,13 +133,11 @@ Note that the set of real numbers is much larger and has cardinality 2^ℵ^~^0^~
 
 If we are working with subsets T of a given set S, we can do a bit better by not just looking at |T|, but also at |S-T| (the size of the complement of T in S). For instance, the set of natural numbers greater than 8, and the set of even natural numbers, both have cardinality ℵ~0~, but within the context of the natural numbers, the former has finite complement (numbers at most 8), while the latter has infinite complement (all odd numbers).
 
-Occasionally: ordinals
-----------------------
+## Occasionally: ordinals
 
 If the sets you're working with come with well-orderings, you can consider the type of well-ordering as a "size", and thus measure sizes with ordinals. If they don't have well-orderings, this doesn't apply.
 
-[Measure](http://en.wikipedia.org/wiki/Measure_%28mathematics%29): the old fallback
------------------------------------------------------------------------------------
+## [Measure](http://en.wikipedia.org/wiki/Measure_%28mathematics%29): the old fallback
 
 Most commonly we use the notion of a measure to measure sizes of subsets T of a given set S. This just means that we designate some of the subsets T of S as "measurable" (with a few requirements - the whole set S must be measurable; complements of measurable sets must be measurable; a union of countably many measurable sets must be measurable) and assign them a number called their measure, which I'll denote μ(T). μ takes values in the extended positive real line (see above): It can be any nonnegative real number, or just a flat ∞. We require that the empty set have measure 0, that if A and B are disjoint sets then μ(A∪B)=μ(A)+μ(B) (called "finite additivity"), and more generally that if we have a countable collection of sets A1, A2, ..., with none of them overlapping any of the others, then the measure of their union is the sum of their measures. (Called "countable additivity"; this infinite sum automatically makes sense because all the numbers involved are nonnegative.)
 
@@ -163,14 +151,12 @@ Note that if μ(S) is finite, then μ(S-T)=μ(S)-μ(T). However, if μ(S)=∞, a
 
 Here on LessWrong, when discussing multiverse-based notions, we'll typically assume that the set of universes comes equipped in some way with a natural measure. If the universes are the many worlds of MWI, then this measure will be proportional to squared-norm-of-amplitude.
 
-Measuring subsets of the natural numbers
-----------------------------------------
+## Measuring subsets of the natural numbers
 
 So it seems like 2**N** should be half the size of N, right? Well there's an easy way to accomplish this: Given a set A of natural numbers, we define its [natural density](http://en.wikipedia.org/wiki/Natural_density) to be limn→∞ A(n)/n, where A(n) denotes the number of elements of A that are at most n. At least, we can do this if the limit exists. It doesn't always. But when it does it does what we want pretty well. What if the limit doesn't exist? Well, we could use a [limsup or a liminf](http://en.wikipedia.org/wiki/Limit_superior_and_limit_inferior) instead, and get upper and lower densities. Or take some other approach, such as [Schnirelmann density](http://en.wikipedia.org/wiki/Schnirelmann_density), where we just take an inf.
 
 Of course, for sets of density 0, this may not be enough information. Here we can pull out another trick from above: Don't use numbers, use functions! We can just ask what function A(n) approximates ([asymptotically](http://en.wikipedia.org/wiki/Asymptotic_analysis)). For instance, the prime numbers have density 0, but a much more informative statement is the [prime number theorem](http://en.wikipedia.org/wiki/Prime_number_theorem), which states that if P is the set of prime numbers, then P(n)~n/(log n).
 
-...etc...
----------
+## ...etc...
 
 Of course, the real point of all these examples was simply to demonstrate: Depending on what sort of thing you want to measure, you'll need different tools! So there's many more tools out there, and sometimes you may just need to invent your own...

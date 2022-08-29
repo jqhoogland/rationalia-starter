@@ -13,12 +13,10 @@ synchedAt: '2022-08-29T11:13:21.424Z'
 
 According to the **peak-end rule**, we judge our past experiences almost entirely on how they were at their peak (pleasant or unpleasant) and how they ended. The rule states that we do not judge our experiences on the net pleasantness of unpleasantness or on how long the experience lasted.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Practical Advice Backed By Deep Theories](http://lesswrong.com/lw/d4/practical_advice_backed_by_deep_theories/) \- Knowledge of this heuristic *might* be useful in fighting [[Akrasia|akrasia]].
 
-See also
---------
+## See also
 
 *   [[Representativeness Heuristic|Representativeness heuristic]]

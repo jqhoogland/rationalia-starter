@@ -17,8 +17,7 @@ Roko's argument was broadly rejected on *Less Wrong*, with commenters objecting 
 
 *Less Wrong*'s founder, Eliezer Yudkowsky, banned discussion of Roko's basilisk on the blog for several years as part of a general site policy against spreading potential [information hazards](\"https://www.lesswrong.com/tag/information-hazards\"). This had the opposite of its intended effect: a number of outside websites began sharing information about Roko's basilisk, as the ban attracted attention to this taboo topic. Websites like RationalWiki spread the assumption that Roko's basilisk had been banned because *Less Wrong* users *accepted* the argument; thus many criticisms of *Less Wrong* cite Roko's basilisk as evidence that the site's users have unconventional and wrong-headed beliefs.
 
-Background
-----------
+## Background
 
 ![](\"https://wiki.lesswrong.com/images/thumb/d/d1/Prisoner%27s_Dilemma_sequence.svg/380px-Prisoner%27s_Dilemma_sequence.svg.png\")A visual depiction of a prisoner's dilemma. T denotes the best outcome for a given player, followed by R, then P, then S.
 
@@ -42,8 +41,7 @@ The control problem also raises questions in moral philosophy: how can we specif
 
 Because Eliezer Yudkowsky founded *Less Wrong* and was one of the first bloggers on the site, AI theory and \\"acausal\\" decision theories — in particular, *logical* decision theories, which respect logical connections between agents' properties rather than just the causal effects they have on each other — have been repeatedly discussed on *Less Wrong*. Roko's basilisk was an attempt to use Yudkowsky's proposed decision theory (TDT) to argue against his informal characterization of an ideal AI goal (humanity's coherently extrapolated volition).
 
-Roko's post
------------
+## Roko's post
 
 ![](\"https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/083971a1080c2784b9a65819394ccebabeddea96df05ea4e.jpeg\")A simple depiction of an agent that cooperates with copies of itself in the one-shot prisoner's dilemma. Adapted from the [Decision Theory FAQ](\"https://lesswrong.com/lw/gu1/decision_theory_faq/\").
 
@@ -79,8 +77,7 @@ Eliezer Yudkowsky has responded a few times to the substance of Roko's claims. E
 
 Other users on *Less Wrong* generally rejected Roko's arguments at the time, and skepticism about his supposed basilisk appears to have only increased with time. Subsequent discussion of Roko's basilisk has focused on *Less Wrong* moderator responses to Roko's post, rather than on the specific merits or dismerits of his argument.
 
-Topic moderation and response
------------------------------
+## Topic moderation and response
 
 Shortly after Roko made his blog post, Yudkowsky left an angry [comment](\"http://rationalwiki.org/wiki/Roko%27s_basilisk/Original_post#Comments_.28117.29\") on the discussion thread:
 
@@ -134,8 +131,7 @@ Yudkowsky subsequently went into more detail about his thought processes [on Red
 > 
 > Again, I deleted that post not because I had decided that this thing probably presented a real hazard, but because I was afraid some unknown variant of it might, and because it seemed to me like the obvious General Procedure For Handling Things That Might Be Infohazards said you shouldn't post them to the Internet. If you look at the original SF story where the term \\"basilisk\\" was coined, it's about a mind-erasing image and the.... trolls, I guess, though the story predates modern trolling, who go around spraypainting the Basilisk on walls, using computer guidance so they don't know themselves what the Basilisk looks like, in hopes the Basilisk will erase some innocent mind, for the lulz. These people are the villains of the story. The good guys, of course, try to erase the Basilisk from the walls. Painting Basilisks on walls is a crap thing to do. Since there was no upside to being exposed to Roko's Basilisk, its probability of being true was irrelevant. And Roko himself had thought this was a thing that might actually work. So I yelled at Roko for violating basic sanity about infohazards for stupid reasons, and then deleted the post. He, by his own lights, had violated the obvious code for the ethical handling of infohazards, conditional on such things existing, and I was indignant about this.
 
-Big-picture questions
----------------------
+## Big-picture questions
 
 Several other questions are raised by Roko's basilisk, beyond the merits of Roko's original argument or *Less Wrong*'s moderation policies:
 
@@ -181,8 +177,7 @@ On the other hand, [Ozy Frantz argues](\"https://thingofthings.wordpress.com/201
 
 In \\"[The Economy of Weirdness](\"https://meteuphoric.wordpress.com/2015/03/08/the-economy-of-weirdness/\"),\\" Katja Grace paints a more complicated painting of the advantages and disadvantages of weirdness. Communities with different goals and different demographics will plausibly vary in how 'normal' they should try to look, and in what the relevant kind of normality is. E.g., if the goal is to get more people interested in AI control problems, then weird ideas like Roko's basilisk may drive away conventional theoretical computer scientists, but they may also attract people who favor (or are indifferent to) unorthodox ideas.
 
-See also
---------
+## See also
 
 *   [Decision Theory Readings](\"https://intelligence.org/research-guide/#four\") in MIRI's Research Guide
 *   [Causal Decision Theory](\"https://plato.stanford.edu/entries/decision-causal/\") in the *Stanford Encyclopedia of Philosophy*

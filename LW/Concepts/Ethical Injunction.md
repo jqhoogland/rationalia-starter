@@ -19,8 +19,7 @@ This is to protect you from your own cleverness (especially taking bad black swa
 
 **Sequences:** [Ethical Injunctions](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244)
 
-Ethical Injunctions Sequence Summary
-------------------------------------
+## Ethical Injunctions Sequence Summary
 
 *   [Why Does Power Corrupt?](https://www.lesswrong.com/s/AmFb5xWbPWWQyQ244/p/v8rghtzWCziYuMdJ5)
 
@@ -70,13 +69,11 @@ This is a round-up of some of the more interesting and insightful comments to pr
 
 This post is not cross listed as a part of the listed main sequences.
 
-Alternative Formats
--------------------
+## Alternative Formats
 
 *   Podcast: [http://castify.co/channels/2-less-wrong-ethical-injunctions](http://castify.co/channels/2-less-wrong-ethical-injunctions)
 
-Related Pages
--------------
+## Related Pages
 
 *   [[Ethics & Morality]]
 *   [[Consequentialism]] and [[Utilitarianism]]

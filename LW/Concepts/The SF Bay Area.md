@@ -15,15 +15,13 @@ synchedAt: '2022-08-29T10:59:54.967Z'
 
 *Note: Covid-19 resulted in many people moving and the state of living affairs described below may no longer be accurate.*
 
-See also
---------
+## See also
 
 *   [[Rationalist Movement|Rationalist movement]]
 *   [[History of Less Wrong]]
 *   [LessWrong Meetup Groups](/community)
 
-History
--------
+## History
 
 How did it become a hub?
 
@@ -37,8 +35,7 @@ The [Center for Applied Rationality](https://wiki.lesswrong.com/wiki/Center_for_
 
 Ward Street stuff.
 
-Debate
-------
+## Debate
 
 Especially since 2016 or so (possibly earlier?), there has been a considerable amount of debate about whether moving to the Bay Area is good for individuals or the community as a whole.[[The SF Bay Area|^7^]]
 
@@ -53,19 +50,16 @@ Some illustrative quotes for concern about people moving to the Bay Area:
 
 > "Even if you know nothing else, you know to move to San Francisco or New York and hoping something good happens there, rather than sitting around in some dying small town where you know nothing will ever happen and being curious about anything beyond the town is a cultural transgression. This is a strategy open to all."[[The SF Bay Area|^22^]]
 
-Sending people to the Bay
--------------------------
+## Sending people to the Bay
 
 > I know meetups causing people to move to the Bay is a controversial topic, but from my perspective, moving to the Bay is one of the best things a person can do in terms of expected impact on the existential risk landscape. It gives people the opportunity to work at aligned organizations, and to be around hundreds of like-minded people, which (in addition to its social benefits) allows people to find collaborators with whom to start new projects and organizations.[[The SF Bay Area|^23^]]
 
-External links
---------------
+## External links
 
 *   [Informational site about Bay Area rationality](http://www.bayrationality.com/) (not sure who runs the site)
 *   [Rationalist House Games](http://www.rationalistgames.org/)
 
-References
-----------
+## References
 
 1.  ["News of the Singularity Institute for Artificial Intelligence"](https://web.archive.org/web/20060220211402/http://www.singinst.org:80/news/). Archived from [the original](http://www.singinst.org/news/) on February 20, 2006. Retrieved February 12, 2018. "SIAI has moved to Silicon Valley. Executive Director Tyler Emerson and Advocacy Director Michael Anissimov are both located in the Bay Area of California, along with SIAI Research Fellow Eliezer Yudkowsky (since February). This should enable us to stay in better contact with donors, and cultivate team members and additional collaborators."[[The SF Bay Area|↩]]
 2.  Holden Karnofsky. ["GiveWell's progress in 2012"](https://blog.givewell.org/2013/02/08/givewells-progress-in-2012/). February 8, 2013. *The GiveWell Blog*. GiveWell. Retrieved February 12, 2018.[[The SF Bay Area|↩]]

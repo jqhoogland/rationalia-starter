@@ -25,13 +25,11 @@ From [Timeless Decision Theory: Problems I Can't Solve](https://www.lesswrong.co
 
 MIRI's newest decision theory, [[Functional Decision Theory]] (FDT), notes that, while you're talking to the driver, you already know whether or not you're going to pay once you're in town (the problem specifies this). More formally, you have a model of your future decision procedure, which you run to predict what you will do once you're in town. Therefore, if you follow FDT, you pay up once you're in town: if you do so, your past model of your decision procedure also "pays" - which means "past you" predicts you'll pay and can truthfully say "Yes" to Paul Ekman. Paul reads your microexpressions, believes you, and conveys you to town. If you don't pay up once you're in town, "past you" predicts this and can't truthfully say "yes" to the driver, resulting in a lonely death in the desert.
 
-Blog Posts
-----------
+## Blog Posts
 
 *   [Prices or bindings?](http://lesswrong.com/lw/v2/prices_or_bindings/)
 
-See Also
---------
+## See Also
 
 *   [[Decision Theory|Decision theory]]
 *   [[Newcomb's Problem|Newcomb's problem]]

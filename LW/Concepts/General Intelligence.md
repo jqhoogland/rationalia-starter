@@ -23,8 +23,7 @@ On the difference between psychometric intelligence (IQ) and general intelligenc
 
 > \-\- Eliezer Yudkowsky, [Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://intelligence.org/files/AIPosNegFactor.pdf)
 
-Definitions of General Intelligence
------------------------------------
+## Definitions of General Intelligence
 
 After reviewing extensive literature on the subject, Legg and Hutter^[\[1\]](#fnosnb04qur8)^ summarizes the many possible valuable definitions in the informal statement “Intelligence measures an agent’s ability to achieve goals in a wide range of environments.” They then show this definition can be mathematically formalized given reasonable mathematical definitions of its terms. They use [Solomonoff induction](https://lessestwrong.com/tag/solomonoff-induction) \- a formalization of [Occam's razor](https://lessestwrong.com/tag/occam-s-razor) \- to construct an [universal artificial intelligence](https://lessestwrong.com/tag/aixi) with a embedded [utility function](https://lessestwrong.com/tag/utility-functions) which assigns less [utility](https://lessestwrong.com/tag/expected-utility) to those actions based on theories with higher [complexity](https://wiki.lesswrong.com/wiki/Kolmogorov_complexity). They argue this final formalization is a valid, meaningful, informative, general, unbiased, fundamental, objective, universal and practical definition of intelligence.
 
@@ -50,8 +49,7 @@ and it is, accordingly, inversely proportional to:
 
 This definition avoids several problems common in many others definitions, especially it avoids [anthropomorphizing](https://lessestwrong.com/tag/anthropomorphism) intelligence.
 
-See Also
---------
+## See Also
 
 *   [Optimization process](https://lessestwrong.com/tag/optimization)
 *   [Decision theory](https://lessestwrong.com/tag/decision-theory)

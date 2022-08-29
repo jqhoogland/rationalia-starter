@@ -35,13 +35,11 @@ It is controversial how far the lesson of these experiments can be extended. Rob
 
 More possible limitations and problems with using the outside view are discussed in [The Outside View's Domain](https://www.lesswrong.com/posts/pqoxE3AGMbse68dvb/the-outside-view-s-domain) and ["Outside View" as Conversation-Halter](https://www.lesswrong.com/posts/FsfnDfADftGDYeG4c/outside-view-as-conversation-halter). [Model Combination and Adjustment](https://www.lesswrong.com/posts/iyRpsScBa6y4rduEt/model-combination-and-adjustment) discusses the implications of there usually existing multiple *different* outside views. [Taboo "Outside View"](https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view) argues that the meaning of "Outside View" have expanded too much, and that it should be [[Rationalist Taboo|tabooed]] and replaced with more precise terminology. An alternative to "inside/outside view" has been proposed in [Gears Level & Policy Level](https://www.lesswrong.com/s/uLEjM2ij5y3CXXW6c/p/vKbAWFZRDBhyD6K6A).
 
-External Posts
---------------
+## External Posts
 
 *   [Beware the Inside View](http://www.overcomingbias.com/2007/07/beware-the-insi.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
 
-See Also
---------
+## See Also
 
 *   [Planning fallacy](https://lessestwrong.com/tag/planning-fallacy)
 *   [[Modest Epistemology]]

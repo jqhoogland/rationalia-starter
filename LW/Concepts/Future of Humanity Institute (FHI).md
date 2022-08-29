@@ -23,14 +23,12 @@ FHI puts together a wide range of researches, prominent on their original fields
 
 The FHI is an affiliate to LessWrong and [Overcoming Bias](http://www.overcomingbias.com/). Their past activities include holding a conference in 2008 titled [Global Catastrophic Risks Conference](http://www.global-catastrophic-risks.com/aboutconf.html) and publishing a book, also titled [Global Catastrophic Risks](http://www.global-catastrophic-risks.com/book.html).
 
-See also
---------
+## See also
 
 *   [[Nick Bostrom]]
 *   [[Existential Risk|Existential risk]]
 *   [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]]
 
-External links
---------------
+## External links
 
 *   [FHI website](http://www.fhi.ox.ac.uk/)

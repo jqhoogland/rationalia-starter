@@ -21,8 +21,7 @@ Humans also sometimes undergo a moral shift (described by Immanuel Kant), in whi
 
 However, these considerations cannot be relied on to bring about benevolence in an artificial general intelligence. Benevolence is an instrumental value for an AGI only when humans are at roughly equal power to it. If the AGI is much more intelligent than humans, it will not care about the rewards and punishments which humans can deliver. Moreover, a Kantian shift is unlikely in a sufficiently powerful AGI, as any changes in one's goals, including [[Subgoal Stomp|replacement of terminal by instrumental values]], generally reduce the likelihood of achieving one's goals (Fox & Shulman 2010; Omohundro 2008).
 
-References
-----------
+## References
 
 *   [Joshua Fox and Carl Shulman (2010), "Superintelligence does not imply benevolence"](http://intelligence.org/files/SuperintelligenceBenevolence.pdf), Proceedings of the VIII European Conference on Computing and Philosophy, Oct, 2010. Ed. Klaus Mainzer. (Munich: Verlag Dr. Hut), pp. 456-461
 *   [S. Omohundro, The basic AI drives](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). In Artificial general intelligence 2008: Proceedings of the first AGI conference, ed. Pei Wang, Ben Goertzel, and Stan Franklin, 483–492. Frontiers in Artificial Intelligence and Applications 171. Amsterdam: IOS Press.

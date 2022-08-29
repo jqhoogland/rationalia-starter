@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:48.431Z'
+aliases:
+  - Fragile Purposes
+synchedAt: '2022-08-29T17:16:41.640Z'
 ---
 # Fragile Purposes
 

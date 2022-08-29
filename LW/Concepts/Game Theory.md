@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T11:04:10.193Z'
 
 Game theory is an extremely powerful and robust tool in analyzing much more complex situations, such as: mergers and acquisitions, political economy, voting systems, war bargaining and biological evolution. Eight game-theorists have won the Nobel Prize in Economic Sciences.
 
-References
-----------
+## References
 
 *   [Naïve introduction to Game Theory](http://levine.sscnet.ucla.edu/general/whatis.htm)
 *   [Stanford Encyclopedia entry on Game Theory](http://plato.stanford.edu/entries/game-theory/)

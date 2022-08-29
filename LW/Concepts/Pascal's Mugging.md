@@ -31,14 +31,12 @@ Peter de Blanc has proven [\[1\]](http://arxiv.org/abs/0712.4318) that if an age
 
 If an outcome with infinite utility is presented, then it doesn't matter how small its probability is: all actions which lead to that outcome will have to dominate the agent's behavior. This infinite case was stated by 17th century philosopher Blaise Pascal and named [Pascal's wager](https://en.wikipedia.org/wiki/Pascal's_wager). Many other abnormalities arise when dealing with [[Infinities In Ethics|infinities in ethics]].
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Pascal's Mugging: Tiny Probabilities of Vast Utilities](https://www.lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/)
 *   [Pascal's Muggle: Infinitesimal Priors and Strong Evidence](https://www.lesswrong.com/lw/h8k/pascals_muggle_infinitesimal_priors_and_strong/)
 
-References
-----------
+## References
 
 1.  Peter de Blanc (2007). [*Convergence of Expected Utilities with Algorithmic Probability Distributions*](http://arxiv.org/abs/0712.4318).
 2.  Nick Bostrom (2009). "Pascal's Mugging". *Analysis* **69** (3): 443-445. ([PDF](http://www.nickbostrom.com/papers/pascal.pdf))

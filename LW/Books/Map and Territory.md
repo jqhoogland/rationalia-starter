@@ -16,7 +16,7 @@ What is a belief, and what makes some beliefs work better than others? These fou
 
 # Sequences
 
-- [[Predictably Wrong]]
-- [[Fake Beliefs]]
-- [[Noticing Confusion]]
-- [[Mysterious Answers]]
+- [[Predictably Wrong (Sequence)]]
+- [[Fake Beliefs (Sequence)]]
+- [[Noticing Confusion (Sequence)]]
+- [[Mysterious Answers (Sequence)]]

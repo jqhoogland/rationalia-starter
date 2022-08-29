@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:47.905Z'
+aliases:
+  - Joy in the Merely Real
+synchedAt: '2022-08-29T17:16:41.107Z'
 ---
 # Joy in the Merely Real
 

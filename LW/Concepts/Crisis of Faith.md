@@ -13,18 +13,15 @@ synchedAt: '2022-08-29T11:09:57.791Z'
 
 **Crisis of faith** is a combined technique for recognizing and eradicating the whole systems of mutually-supporting false beliefs. The technique involves systematic application of introspection, with the express intent to check the reliability of beliefs independently of the other beliefs that support them in the mind. The technique might be useful for the victims of [[Affective Death Spiral|affective death spirals]], or any other systematic confusions, especially those supported by [[Anti-Epistemology|anti-epistemology]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [Crisis of Faith](http://lesswrong.com/lw/ur/crisis_of_faith/)
 
-Sequence
---------
+## Sequence
 
 *   [[How To Actually Change Your Mind]]
 
-See also
---------
+## See also
 
 *   [[Affective Death Spiral|Affective death spiral]]
 *   [[Anti-Epistemology|Anti-epistemology]]

@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T11:11:27.888Z'
 
 Ebook cover image.
 
-Contents
---------
+## Contents
 
 The ebook's contents are organized into six books, containing a total of 333 essays from the Sequences. The 333 essays are further divided into twenty-six sequences, lettered A through Z:
 
@@ -57,8 +56,7 @@ The ebook's contents are organized into six books, containing a total of 333 ess
 
 Each book also comes with an introduction by Rob Bensinger, and a supplemental essay by Yudkowsky. There are plans to release the six books as separate print volumes at some unknown future date.
 
-Links
------
+## Links
 
 *   [Download page](https://intelligence.org/rationality-ai-zombies).
 *   [RAZ Glossary](https://www.lesswrong.com/tag/raz-glossary)

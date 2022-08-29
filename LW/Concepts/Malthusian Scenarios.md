@@ -19,13 +19,11 @@ Whilst food production has expanded in the developed world, its sustainability c
 
 [[Robin Hanson]] has also suggested that Singularity-level technology, such as mind-uploading, would possibly result in Malthusian scenarios. Because uploaded minds could be so easily copied, reproduction costs would fall so dramatically that population growth could outpace even the production levels of an advanced society. Hence, all wages would be reduced to upload subsistence levels[4](http://www.primitivism.com/uploads-dawn.htm).
 
-Blog Posts
-----------
+## Blog Posts
 
 *   [Non-Malthusian Scenarios](http://lesswrong.com/lw/199/nonmalthusian_scenarios/) by Wei Dai
 
-External Links
---------------
+## External Links
 
 *   [Economic effects of the Singularity](http://spectrum.ieee.org/robotics/robotics-software/economics-of-the-singularity/) by Robin Hanson
 
@@ -37,7 +35,6 @@ External Links
 
 *   [Malthusian Catastrophe](http://en.wikipedia.org/wiki/Malthusian_catastrophe) Wikipedia
 
-See Also
---------
+## See Also
 
 *   [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]

@@ -15,25 +15,21 @@ To a Bayesian, evidence is a quantitative concept. In principle, a hypothetical 
 
 We often find it convenient to express the **amount of evidence** in terms of logarithms of odds, *decibels* if we use the base-10 logarithm, *bits* if we use the base-2.
 
-Main post
----------
+## Main post
 
 *   [How Much Evidence Does It Take?](http://lesswrong.com/lw/jn/how_much_evidence_does_it_take/)
 
-Other posts
------------
+## Other posts
 
 *   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
 
-See also
---------
+## See also
 
 *   [Bayes' theorem](/tag/bayes-theorem)
 *   [[Evidence]]
 *   [[Locate The Hypothesis|Locate the hypothesis]]
 *   [[Bayesian Probability|Bayesian probability]]
 
-References
-----------
+## References
 
 *   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical) by [[Eliezer Yudkowsky]]

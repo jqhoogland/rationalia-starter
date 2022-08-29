@@ -13,13 +13,11 @@ synchedAt: '2022-08-29T11:09:38.193Z'
 
 The **contagion heuristic** is a psychological [[Heuristic|heuristic]] leading people to avoid contact with people or objects viewed as "contaminated" by previous contact with someone or something viewed as bad — or, less often, to seek contact with objects that have been in contact with people or things considered good.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Laws of Magic](http://lesswrong.com/lw/zr/the_laws_of_magic/) by [Annoyance](https://wiki.lesswrong.com/wiki/Annoyance)
 
-See also
---------
+## See also
 
 *   [[Connotation]], [[Sympathetic Magic|Sympathetic magic]]
 *   [[Social Status|Status]]

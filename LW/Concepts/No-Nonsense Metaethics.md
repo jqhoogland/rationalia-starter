@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:10:07.542Z'
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://lesswrong.com/user/lukeprog/) that explains and defends a naturalistic approach to metaethics.
 
-Posts (so far)
---------------
+## Posts (so far)
 
 *   [Heading Toward: No-Nonsense Metaethics](http://lesswrong.com/lw/54p/heading_toward_nononsense_metaethics/)
 *   [What is Metaethics?](http://lesswrong.com/lw/5eh/what_is_metaethics/)

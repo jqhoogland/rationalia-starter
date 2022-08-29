@@ -20,18 +20,15 @@ A **heuristic** is a quick, intuitive strategy for reasoning or decision making,
 *   [[Contagion Heuristic|Contagion heuristic]]
 *   [[Peak-End Rule|Peak-end rule]]
 
-Blog posts
-----------
+## Blog posts
 
 *   [Heuristic is not a bad word](http://lesswrong.com/lw/8y/heuristic_is_not_a_bad_word/) by [HughRistik](https://wiki.lesswrong.com/wiki/HughRistik)
 *   [[Heuristics & Biases|All Less Wrong posts tagged "Heuristic"]]
 
-External links
---------------
+## External links
 
 *   [The Heuristic Wiki](http://greenlightwiki.com/heuristic/Heuristic)
 
-See also
---------
+## See also
 
 *   [[Bias]]

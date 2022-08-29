@@ -21,14 +21,12 @@ The phrase refers to the successful launching of the Russian satellite Sputnik, 
 
 Goertzel and Pitt have also emphasized the role of an AGI Sputnik moment in AGI development regulation. Their idea is that such a moment would mark the beginning of a rapid developmental progress, which would render any future regulation attempt futile or dangerous. As such, more effort should be put in developing research -- especially open research -- regarding AGI safety before such moment occurs.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [What Would It Take to Move Rapidly Toward Beneficial Human-Level AGI?](http://multiverseaccordingtoben.blogspot.com/2010_10_10_archive.html) on Ben Goertzel's blog
 *   [Seeking the Sputnik of AGI](http://hplusmagazine.com/2011/03/30/seeking-the-sputnik-of-agi/), an Interview between Ben Goertzel and Hugo de Garis
 
-See Also
---------
+## See Also
 
 *   [AGI](https://wiki.lesswrong.com/wiki/AGI)
 *   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)

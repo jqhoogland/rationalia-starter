@@ -23,8 +23,7 @@ Humanity has some historical experience with arms races involving nuclear weapon
 
 If the benefits of an intelligence explosion accrue to the group that created it, and the risks affect the entire world, this creates an incentive to sacrifice safety for speed. In addition to the risk of accidental unfriendly AI, there is the risk that the winner of an arms race turns into a badly-behaved human [[Singleton|singleton]].
 
-External links
---------------
+## External links
 
 *   [Arms races and intelligence explosions](http://singularityhypothesis.blogspot.com/2011/04/arms-races-and-intelligence-explosions.html)
 *   [Arms control and intelligence explosions](http://intelligence.org/files/ArmsControl.pdf)

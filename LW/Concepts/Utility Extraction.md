@@ -27,16 +27,14 @@ Thomas D. Nielsen and Finn V. Jensen ([Learning a decision maker’s utility fun
 
 Another possibility is described in [The Singularity and Machine Ethics](http://intelligence.org/files/SaME.pdf) by Luke Muehlhauser and Louie Helm. Research has recently postulated that the neural encoding of human values results from an interaction of two kinds of valuation processes: “model-free” processes, based on simplified past experience (e.g. habits and reinforcements), and “model-based” processes, associated with deliberative, computationally expensive goal-directed behavior. According to Muehlhauser and Helm inconsistent choices can be interpreted as deviations produced by non-model-based valuation systems; predictions on when and to what extent model-based choices are “overruled” by the non-model-based valuation systems are provided by neuroscientific research.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [A brief tutorial on preferences in AI](http://lesswrong.com/lw/a73/a_brief_tutorial_on_preferences_in_ai/) by Luke Muehlhauser
 *   [Learning a decision maker’s utility function from (possibly) inconsistent behavior](http://people.cs.aau.dk/~tdn/papers/nielsen-jensen-04-ai.pdf) by Thomas D. Nielsen and Finn V. Jensen
 *   [The Singularity and Machine Ethics](http://intelligence.org/files/SaME.pdf) by Luke Muehlhauser and Louie Helmis
 *   [Learning What to Value](http://intelligence.org/files/LearningValue.pdf) by Daniel Dewey
 
-See also
---------
+## See also
 
 *   [[Complexity of Value|Complexity of value]]
 *   [[Utility Functions|Utility function]]

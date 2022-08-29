@@ -17,15 +17,13 @@ Occam's razor is necessitated by the conjunction rule of probability theory: the
 
 Occam's razor has been formalized as Minimum Description Length or Minimum Message Length, in which the total size of the theory is the length of the message required to describe the theory, plus the length of the message required to describe the evidence *using* the theory. [[Solomonoff Induction|Solomonoff induction]] is the ultimate case of [minimum message length](https://wiki.lesswrong.com/wiki/minimum_message_length) in which the code for messages can describe all computable hypotheses. This has jokingly been referred to as "[[Solomonoff Induction|Solomonoff's lightsaber]]".
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Occam's Razor](https://www.lesswrong.com/lw/jp/occams_razor/)
 *   [A Priori](https://www.lesswrong.com/lw/k2/a_priori/)
 *   [Decoherence is Simple](https://www.lesswrong.com/lw/q3/decoherence_is_simple/)
 
-See Also
---------
+## See Also
 
 *   [[Solomonoff Induction|Solomonoff induction]]
 *   [Occam's imaginary razor](https://wiki.lesswrong.com/wiki/Occam's_imaginary_razor)
@@ -33,7 +31,6 @@ See Also
 *   [[Burdensome Details|Burdensome details]]
 *   [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
 
-External Links
---------------
+## External Links
 
 *   [Ockham’s Razor: A New Justification](http://www.andrew.cmu.edu/user/kk3n/ockham/Ockham.htm)

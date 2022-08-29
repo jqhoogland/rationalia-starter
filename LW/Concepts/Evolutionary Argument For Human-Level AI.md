@@ -24,8 +24,7 @@ An **Evolutionary argument for human-level** [**AI**](https://wiki.lesswrong.com
 
 There are variations of this argument, some argue for the easily feasibility of human level AI through the use of [[Evolutionary Algorithm|evolutionary algorithms]]. These arguments use estimates on the total amount of computational power needed to simulate the entire evolution of human level intelligence and argue such level of computational power is well within range. Bostrom and Shulman[^5^](#fn5) argue that, in fact, it would take more than a century of Moore’s Law progress in order to match the entire evolution of intelligence computational powers. They also make a careful analysis of Evolutionary argument for human-level AI considering [[Observation Selection Effect|observational selection effects]].
 
-References
-----------
+## References
 
 1.  CHALMERS, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65.[↩](#fnref1)
 2.  MLODINOW, Leonard. (2008) "The Drunkard's walk : how randomness rules our lives." New York: Pantheon Books.[↩](#fnref2)

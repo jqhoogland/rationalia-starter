@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T10:47:31.784Z'
 
 Many [[Decision Theory]] problems involve pre-commitment or deciding in advance how you are going to act. This is crucial for game-theory, where an agent that has credibly pre-committed can force other actors to act differently than they would other otherwise acted. It is also important for problems with predictors like [[Newcomb's Problem]] where an agent which pre-commits [[One-Boxing|one-boxing]] guarantees (or almost guarantees) themselves the million. Lastly, it can be important for agents who are aware that they are likely to make a bad decision in the moment.
 
-Interactions with Predictors:
------------------------------
+## Interactions with Predictors:
 
 There has been significant disagreement about what pre-commitment means for decision theory problems where you are being predicted by a sufficiently high quality predictor. In [[Newcomb's Problem]], two-boxers typically believe that while you could have obtained the million by pre-committing before Omega made their prediction, afterwards is too late. Even though [[Two-Boxing|two-boxing]] only gives you $1000, they claim that the million was never in the box so you never could have gained it. In contrast, one-boxers tend to believe that it is a mistake to think that the million isn't accessible to you - see Eliezer arguing that [[Newcomb's Problem and Regret of Rationality|you can just do it]] \- in other words that if you one-box you will always find that the million always was accessible to you.
 
@@ -24,13 +23,11 @@ One distinction that it might be useful to make is between [formal and effective
 
 One issue that arises with predictors is that some scenarios may be conditionally inconsistent (or just plain inconsistent when we're dealing with logical uncertainty and oracles). Oddly enough, it seems as though it might make sense to allow pre-commitments in relation to these scenarios, although this involves pre-committing to taking an action when receiving input representing such a potentially inconsistent scenario rather than pre-committing to take an action in a particular scenario itself.
 
-[[Game Theory]]:
----------------------------------------------------------
+## [[Game Theory]]:
 
 In game theory, commitment is often considered purely from the perspective of incentives. From this view, you are considered to have pre-committed youself to an action if any benefit you would gain from it is outweighed by the penalty you would pay.
 
-[[Psychology]]:
--------------------------------------------------------
+## [[Psychology]]:
 
 Pre-commitment can also be important from a psychological perspective. Suppose you have an assignment to work on. You know that you need to work on it tomorrow, but you also know that you won't feel like it on the day. By deciding in advance to work on the assignment tomorrow you are providing yourself an additional reason (keeping your commitments to yourself) to work on it.
 

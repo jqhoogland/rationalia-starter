@@ -13,13 +13,11 @@ synchedAt: '2022-08-29T11:13:18.413Z'
 
 Humans seem to naturally generate a series of concepts known as **sympathetic magic**, a host of theories and practices which have certain principles in common, two of which are of overriding importance: the [[Contagion Heuristic|Law of Contagion]] holds that two things which have interacted, or were once part of a single entity, retain their connection and can exert influence over each other; the Law of Similarity holds that things which are similar or treated the same establish a connection and can affect each other.
 
-Related concepts
-----------------
+## Related concepts
 
 *   [[Magic]]
 *   [[Priming]]
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Laws of Magic](http://lesswrong.com/lw/zr/the_laws_of_magic/) by [Annoyance](https://wiki.lesswrong.com/wiki/Annoyance)

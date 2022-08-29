@@ -26,13 +26,11 @@ He says premises I and II follow directly from most definitions of ‘extendible
 
 [Luke Muehlhauser](http://lesswrong.com/user/lukeprog) and [Anna Salamon](http://lesswrong.com/user/AnnaSalamon) [^3^](#fn3) list several features of an artificial human level intelligence that suggest it would be easily extendible: increased computational resources, increased communication speed, increased serial depth, duplicability, editability, goal coordination and improved rationality. They also agree with Omohundro [^4^](#fn4)[^5^](#fn5)[^6^](#fn6)and [[Nick Bostrom|Bostrom]][^7^](#fn7) that most of advanced intelligence would have the instrumental goal of increasing its own intelligence since this would help achieving almost any other goal.
 
-See Also
---------
+## See Also
 
 *   [Extensibility on the draft of FAI-FAQ](http://lesswrong.com/lw/8jt/fai_faq_draft_general_intelligence_and/#WhatIsTheExtendibility)
 
-References
-----------
+## References
 
 1.  Chalmers, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65. [http://consc.net/papers/singularity.pdf](http://consc.net/papers/singularity.pdf)[↩](#fnref1)
 2.  Muehlhauser, Luke & Salamon, Anna (2012). "Intelligence Explosion: Evidence and Import." In Singularity Hypotheses. Springer. [http://singularity.org/files/IE-EI.pdf](http://singularity.org/files/IE-EI.pdf)[↩](#fnref3)

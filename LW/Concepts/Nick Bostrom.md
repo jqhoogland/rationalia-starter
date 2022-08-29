@@ -24,14 +24,12 @@ Bostrom has a BA in Philosophy, Mathematics, Mathematical Logic and in Artificia
 
 Later, the kind of reasoning developed in his thesis lead to many other insights, such as the [[Simulation Argument]], demonstrating that there is a considerable chance that we are living inside a computer simulation.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Anthropic Trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/)
 *   [Transcription and Summary of Nick Bostrom's Q&A](http://lesswrong.com/lw/8h1/transcription_and_summary_of_nick_bostroms_qa/)
 
-External links
---------------
+## External links
 
 *   [Nick Bostrom's Home Page](http://www.nickbostrom.com/)
 *   [Future of Humanity Institute's Home Page](http://www.fhi.ox.ac.uk/)

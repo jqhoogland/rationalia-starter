@@ -17,8 +17,7 @@ CFAR's [2019 workshop participant handbook](https://www.lesswrong.com/posts/Z9cb
 
 [**Aversion factoring**](https://acritch.com/aversions/) is [[Goal Factoring|goal factoring]] for aversions: trying to understand why you're averse to a particular thing by decomposing it into underlying preferences and experiences.
 
-Ugh fields
-----------
+## Ugh fields
 
 Aversions make us less likely to engage in "activities," and as Scott Alexander's (2011) [Physical and Mental Behavior](https://www.lesswrong.com/posts/5dhWhjfxn4tPfFQdi/physical-and-mental-behavior) notes, this includes mental as well as physical activities. Pavlovian conditioning can cause humans to unconsciously flinch from even thinking about a serious personal problem they have.
 
@@ -30,8 +29,7 @@ Writing in 2010, Roko introduced the term **[[Ugh Fields|ugh field]]** to refer 
 
 The ugh field forms a self-shadowing blind spot covering an area desperately in need of optimization.
 
-Blog posts and external links
------------------------------
+## Blog posts and external links
 
 *   [Avoiding Your Belief's Real Weak Points](https://www.lesswrong.com/lw/jy/avoiding_your_beliefs_real_weak_points/)
 *   [Defeating Ugh Fields in Practice](https://www.lesswrong.com/lw/2cv/defeating_ugh_fields_in_practice/) by Psychohistorian
@@ -39,8 +37,7 @@ Blog posts and external links
 *   [Don't Fear Failure](https://www.lesswrong.com/lw/4up/dont_fear_failure/) by [atucker](http://shugyoshayear.com/)
 *   Wikipedia: [Experiential Avoidance](https://en.wikipedia.org/wiki/Experiential_avoidance)
 
-Related pages
--------------
+## Related pages
 
 *   Non-tags: [Semantic stopsign](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
 *   [[Akrasia]]

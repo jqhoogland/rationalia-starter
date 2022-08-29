@@ -21,8 +21,7 @@ More formally, the Kolmogorov complexity C(x) of a set x, is the size in bits of
 
 This notion can be used to state many important results in computational theory. Possibly the most famous is [Chaitin's incompleteness theorem](http://en.wikipedia.org/wiki/Kolmogorov_complexity#Chaitin.27s_incompleteness_theorem), a version of Gödel’s incompleteness theorem.
 
-References
-----------
+## References
 
 1.  SIPSER, M. (1983) "A complexity theoretic approach to randomness". In Proceedings of the 15th ACM Symposium on the Theory of Computing, pages 330{335. ACM, New York.[↩](#fnref1)
 2.  FORTNOW, Lance. "Kolmogorov Complexity" Available at: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.4949&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.4949&rep=rep1&type=pdf)[↩](#fnref2)

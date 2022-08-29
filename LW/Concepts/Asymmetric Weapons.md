@@ -23,8 +23,7 @@ Scott uses this terminology mainly to separate strategies that work especially w
 
 > "Unless you use asymmetric weapons, the best you can hope for is to win by coincidence." - Scott Alexander
 
-External Links
---------------
+## External Links
 
 *   [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/)
 

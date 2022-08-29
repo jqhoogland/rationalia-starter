@@ -19,8 +19,7 @@ The AIXI formalism says roughly to consider all possible computable models of th
 
 AIXI can be viewed as the border between AI problems that would be 'simple' to solve using unlimited computing power and problems which are structurally 'complicated'.
 
-**How AIXI works**
-------------------
+## **How AIXI works**
 
 Hutter ([2007](http://www.hutter1.net/ai/aixigentle.htm)) describes AIXI as a combination of decision theory and algorithmic information theory: "Decision theory formally solves the problem of rational agents in uncertain worlds if the true environmental prior probability distribution is known. Solomonoff’s theory of universal induction formally solves the problem of sequence prediction for unknown prior distribution. We combine both ideas and get a parameterless theory of universal Artificial Intelligence."
 
@@ -40,29 +39,25 @@ AIXI is not a feasible AI, because [[Solomonoff Induction|Solomonoff induction]]
 
 For a short (half-page) technical introduction to AIXI, see [Veness et al. 2011](https://web.archive.org/web/20160425092747/http://www.jair.org/media/3125/live-3125-5397-jair.pdf), page 1-2. For a full exposition of AIXI, see [Hutter 2007](http://www.hutter1.net/ai/aixigentle.htm).
 
-**Relevance to Friendly AI**
-----------------------------
+## **Relevance to Friendly AI**
 
 Because it abstracts optimization power away from human mental features, AIXI is valuable in considering the possibilities for future artificial general intelligence - a compact and non-anthropomorphic specification that is technically complete and closed; either some feature of AIXI follows from the equations or it does not. In particular, it acts as a constructive demonstration of an AGI which does not have human-like [[Terminal Value|terminal values]] and will act solely to maximize its reward function. (Yampolskiy & Fox 2012).
 
 AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem|Anvil problem]]: AIXI lacks a self-model. It extrapolates its own actions into the future indefinitely, on the assumption that it will keep working in the same way in the future. Though AIXI is an abstraction, any real AI would have a physical embodiment that could be damaged, and an implementation which could change its behavior due to bugs; and the AIXI formalism completely ignores these possibilities.
 
-**References**
---------------
+## **References**
 
 *   [R.V. Yampolskiy, J. Fox (2012) Artificial General Intelligence and the Human Mental Model. In Amnon H. Eden, Johnny Søraker, James H. Moor, Eric Steinhart (Eds.), The Singularity Hypothesis.The Frontiers Collection. London: Springer.](https://intelligence.org/files/AGI-HMM.pdf)
 *   [M. Hutter (2007) Universal Algorithmic Intelligence: A mathematical top->down approach](http://www.hutter1.net/ai/aixigentle.htm). In Goertzel & Pennachin (eds.), Artificial General Intelligence, 227-287. Berlin: Springer.
 *   M. Hutter, (2005) Universal Artificial Intelligence: Sequential decisions based on algorithmic probability. Berlin: Springer.
 *   [J. Veness, K.S. Ng, M. Hutter, W. Uther and D. Silver (2011) A Monte-Carlo AIXI Approximation](http://www.jair.org/media/3125/live-3125-5397-jair.pdf), *Journal of Artiﬁcial Intelligence Research* 40, 95-142\]
 
-**Blog posts**
---------------
+## **Blog posts**
 
 *   [AIXI and Existential Despair](https://www.lesswrong.com/lw/8qy/aixi_and_existential_despair/) by [paulfchristiano](https://www.lesswrong.com/users/paulfchristiano)
 *   [\[video\] Paul Christiano's impromptu tutorial on AIXI and TDT](https://www.lesswrong.com/r/discussion/lw/az7/video_paul_christianos_impromptu_tutorial_on_aixi/)
 
-**See also**
-------------
+## **See also**
 
 *   [[Solomonoff Induction|Solomonoff induction]]
 *   [[Decision Theory|Decision theory]]

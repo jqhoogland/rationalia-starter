@@ -19,8 +19,7 @@ Cultishness is an empirical attractor in human groups, roughly an affective deat
 
 Some overlap with the [[Politics Is The Mind-Killer|Politics is the Mind-Killer]] subsequence (preferably read that first).
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Affect Heuristic](http://lesswrong.com/lw/lg/the_affect_heuristic/)
     *   _[Evaluability and Cheap Holiday Shopping](http://lesswrong.com/lw/lh/evaluability_and_cheap_holiday_shopping/)_
@@ -44,13 +43,11 @@ Blog posts
 *   [Lonely Dissent](http://lesswrong.com/lw/mb/lonely_dissent/)
 *   [Cultish Countercultishness](http://lesswrong.com/lw/md/cultish_countercultishness/)
 
-Other formats
--------------
+## Other formats
 
 *   [Readlist](http://readlists.com/1e32079b) \- view this sequence as an eBook using Readability.
 
-See also
---------
+## See also
 
 *   [[Groupthink]]
 *   [[Halo Effect|Halo effect]]

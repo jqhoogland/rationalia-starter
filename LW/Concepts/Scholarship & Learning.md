@@ -17,15 +17,13 @@ Topics include, but are not limited to: how to research, how to understand mater
 
 > *The eleventh virtue is scholarship. Study many sciences and absorb their power as your own. Each field that you consume makes you larger. If you swallow enough sciences the gaps between them will diminish and your knowledge will become a unified whole. If you are gluttonous you will become vaster than mountains. –* *[[Twelve Virtues of Rationality|Twelve Virtues of Rationality]]*
 
-See Also
---------
+## See Also
 
 *   [[Spaced Repetition]] is a technique for long-term retention of learned material.
 *   [[Fact posts|Fact Posts]] are pieces of writing that attempt to build an understanding of the world, starting bottom up with empirical facts rather than "opinions".
 *   The other [[Virtues]] of Rationality.
 
-Top Resources
--------------
+## Top Resources
 
 *   [[Scholarship: How to Do It Efficiently]] is a guide to quickly researching topics and understanding what is known within a field.
 *   [Literature Review For Academic Outsiders: What, How, and Why](https://www.lesswrong.com/posts/RKz7pc6snBttndxXz/literature-review-for-academic-outsiders-what-how-and-why-1) similar to the first resource, contains many links to further resources.

@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:47.857Z'
+aliases:
+  - Highly Advanced Epistemology 101 for Beginners
+synchedAt: '2022-08-29T17:16:41.102Z'
 ---
 # Highly Advanced Epistemology 101 for Beginners
 

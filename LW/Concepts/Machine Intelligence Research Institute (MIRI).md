@@ -17,8 +17,7 @@ External Links
 
 *   [Homepage of the Machine Intelligence Research Institute](http://intelligence.org/)
 
-See Also
---------
+## See Also
 
 *   [[Singularity|Technological singularity]]
 *   [Existential risk](https://lessestwrong.com/tag/existential-risk)

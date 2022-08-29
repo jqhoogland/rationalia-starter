@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:08:19.310Z'
 
 It is more probable that A, than that A and B.
 
-See also
---------
+## See also
 
 *   [[Occam's Razor|Occam's razor]]
 *   [[Conjunction Fallacy|Conjunction fallacy]]

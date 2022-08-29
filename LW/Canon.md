@@ -6,9 +6,9 @@ href: https://www.lesswrong.com/tag/lesswrong-canon-on-rationality
 
 ## Barriers, Biases, Fallacies, Impediments and Problems
 
-- [[Affective death spiral]] - positive attributes of a theory, person, or organization combine with the [[Halo effect]] in a feedback loop, resulting in the subject of the affective death spiral being held in higher and higher regard.
-- [[Anthropomorphism]] - the error of attributing distinctly human characteristics to nonhuman processes.
-- [[Bystander effect]] - a social psychological phenomenon in which individuals are less likely to offer help in an emergency situation when other people are present.
+- [[Affective death spiral]]
+- [[Anthropomorphism]]
+- [[Bystander effect]] - 
 - [[Connotation]] - emotional association with a word. You need to be careful that you are not conveying different connotation, then you mean to.
 - [[Correspondence bias]] (also known as the fundamental attribution error) - is the tendency to overestimate the contribution of lasting traits and dispositions in determining people's behavior, as compared to situational effects.
 - [[Death Spirals and the Cult Attractor]] - Cultishness is an empirical attractor in human groups, roughly an affective death spiral, plus peer pressure and outcasting behavior, plus (quite often) defensiveness around something believed to have been perfected

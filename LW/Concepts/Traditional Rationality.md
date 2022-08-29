@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:09:33.689Z'
 
 There's also some popular tropes of Traditional Rationality that actually seem flawed once you start comparing them to a Bayesian standard - for example, the idea that you ought to give up an idea once definite evidence has been provided against it, but you're allowed to believe until then, if you want to. Contrast to the stricter idea of there being a certain exact probability which it is correct to assign, continually updated in the light of new evidence.
 
-Blog posts
-----------
+## Blog posts
 
 *   [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)
 *   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
@@ -24,8 +23,7 @@ Blog posts
 *   [Science Isn't Strict Enough](http://lesswrong.com/lw/qd/science_isnt_strict_enough/)
 *   [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)
 
-See also
---------
+## See also
 
 *   [[Science]], [[Scholarship & Learning|scholarship]]
 *   [[Rational Evidence|Rational evidence]]

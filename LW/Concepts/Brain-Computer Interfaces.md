@@ -15,8 +15,7 @@ A **Brain Computer Interface (BCI)** is the generic term used to describe any ki
 
 Many techniques have been developed to help us look and better understand the way the brain works. They range from imaging techniques (like MRI, fMRI, fNIRS or PET), to electrophysiological ones (like EEG, EcG or MEG). While the first category is usually used to obtain high resolution images of brain structures and the second one to register and analyze the electrical activity produced by the brain, with a high temporal resolution – which is why they are the ones mainly used in the field of BCI’s. In pair with such methods, although a different area in itself, includes brain implants capable of communicating directly with the neuronal tissue - [neuroprosthetics](http://en.wikipedia.org/wiki/Neuroprosthetics).
 
-EEG BCIs
---------
+## EEG BCIs
 
 Of all the different means avaliable, the registering of the [electroencephalographic (EEG)](http://en.wikipedia.org/wiki/Electroencephalography) activity is the most developed and extensively researched of this fields. It allows us, in a non-invasive way, to peak the brain functioning with a high temporal resolution – furthermore, it is now well established that different brain states produce distinct observable activity. With the help of electrodes placed on the scalp, it is possible to feed this activity and their respective variations and patterns to any system capable of classifying and detecting them in real time and act accordingly (making this a field highly interconnected to that of machine learning).
 
@@ -24,8 +23,7 @@ The field of BCIs has followed closely the developments in signal processing and
 
 Currently we have available a considerable range of both research and commercial applications of EEG based BCI systems with a wide list of applications. It has shown to be a field due to receive increased attention in the next years, especially through the developing of increasingly efficient classification algorithms and computer power, and the fascination with the cognitive augmentation it might bring.
 
-Potential applications
-----------------------
+## Potential applications
 
 Although the EEG has been the main technique used for the development of such systems, it has been shown to be possible to integrate electronic controllers directly in the functioning of single cells or even networks. The [permanent implant of devices for interpretation](http://www.wired.com/wired/archive/10.09/vision.html) and regulation of cortical activity has also been demonstrated.
 
@@ -33,8 +31,7 @@ This has led to a renewed interest in the field and the exploration of new hypot
 
 Other attractive future application includes the [upload of the whole content of the brain](http://www.sim.me.uk/neural/JournalArticles/Bamford2012IJMC.pdf), and thus the mind, to a computer. Although still speculative, it seems [theoretically possible](http://intelligence.org/files/CoalescingMinds.pdf).
 
-External Links
---------------
+## External Links
 
 *   [Brain content uploading](http://intelligence.org/files/CoalescingMinds.pdf)
 *   [Tech Summary: Brain-Computer Interfaces](http://intelligence.org/brain-computer-interfaces/)
@@ -44,8 +41,7 @@ External Links
 *   [Demonstration of paralyzed patient using robot arm](http://www.youtube.com/watch?v=ogBX18maUiM) from Nature Magazine YouTube
 *   [Demonstration of a blind patient with a Retinal Implant reading](http://www.youtube.com/watch?v=g0rRvBd7Dew&feature=endscreen&NR=1) from Discovery Magazine YouTube
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   Anderson, J. (1980). Neurocomputing. Cambridge: The MIT Press
 *   Muller, D. (1995). Towards brain–computer interfacing. MIT Press, Cambridge, MA, 409–422.
@@ -53,8 +49,7 @@ Further Reading & References
 *   Vidal, J. (1977). Real-Time Detection of Brain Events in EEG. IEEE Proceedings, 65 (5), 633–641
 *   Parasuraman, R. (2003). Neuroergonomics: Research and practice. Theoretical Issues in Ergonomics Science, 4, 5–20.
 
-See Also
---------
+## See Also
 
 *   [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]]
 *   [[Whole Brain Emulation|Whole brain emulation]]

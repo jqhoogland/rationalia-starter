@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:06:03.225Z'
 
 "**Do the math, then burn the math and go with your gut**"[^1^](#fn1) is a procedure for decision-making that has been described by [[Eliezer Yudkowsky]]. However, in the context of economics research, the same procedure has been described by economist Alfred Marshall as early as 1906. The basic procedure is to go through the process of assigning numbers and probabilities that are relevant to some decision ("do the math") and then to throw away this calculation and instead make the final decision with one's gut feelings ("burn the math and go with your gut"). The purpose of the first step is to force oneself to think through all the details of the decision and to spot inconsistencies.
 
-History
--------
+## History
 
 In [1906](https://economistsview.typepad.com/economistsview/2006/05/alfred_marshall.html), the English economist Alfred Marshall [described](https://slate.com/culture/1997/01/giving-your-all.html) the procedure in the context of economics research in a letter to Arthur Bowley. From the [letter](https://www.rasmusen.org/zg601/readings/marshall.htm):
 
@@ -30,17 +29,14 @@ In [December 2012](https://www.reddit.com/r/HPMOR/comments/b3ox5v/release_dates_
 
 In December 2016, [[Anna Salamon]] described the procedure parenthetically at the end of a blog post. Salamon described the procedure as follows: "Eliezer once described what I take to be the a similar ritual for avoiding bucket errors, as follows: When deciding which apartment to rent (he said), one should first do out the math, and estimate the number of dollars each would cost, the number of minutes of commute time times the rate at which one values one's time, and so on. But at the end of the day, if the math says the wrong thing, one should do the right thing anyway."[^4^](#fn4)
 
-See also
---------
+## See also
 
 *   [[Cfar Exercise Prize|CFAR Exercise Prize]] – Andrew Critch's Bayes game, described on this page, gives another technique for dealing with uncertainty in real-life situations
 *   [This page was shared on LessWrong](https://www.lesswrong.com/posts/mRsm8gibyuPWas7K5/gems-from-the-wiki-do-the-math-then-burn-the-math-and-go) as part of the "Gems from the Wiki" series
 
-References
-----------
+## References
 
-External links
---------------
+## External links
 
 *   [A Facebook post by Julia Galef from May 2018 inquiring about this procedure](https://www.facebook.com/julia.galef/posts/10103884948339182)
 *   ["Why we can’t take expected value estimates literally (even when they’re unbiased)"](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) (August 2011) by [[GiveWell]] co-founder [[Holden Karnofsky]] makes a similar point: "It’s my view that my brain instinctively processes huge amounts of information, coming from many different reference classes, and arrives at a prior; if I attempt to formalize my prior, counting only what I can name and justify, I can worsen the accuracy a lot relative to going with my gut. Of course there is a problem here: going with one’s gut can be an excuse for going with what one wants to believe, and a lot of what enters into my gut belief could be irrelevant to proper Bayesian analysis. There is an appeal to formulas, which is that they seem to be susceptible to outsiders’ checking them for fairness and consistency."

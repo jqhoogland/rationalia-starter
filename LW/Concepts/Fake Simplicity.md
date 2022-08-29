@@ -11,8 +11,7 @@ synchedAt: '2022-08-29T11:06:09.682Z'
 ---
 # Fake Simplicity
 
-Blog posts
-----------
+## Blog posts
 
 *   [Fake Explanations](http://lesswrong.com/lw/ip/fake_explanations/)
 *   [Fake Optimization Criteria](http://lesswrong.com/lw/kz/fake_optimization_criteria/)
@@ -20,8 +19,7 @@ Blog posts
 *   [Fake Utility Functions](http://lesswrong.com/lw/lq/fake_utility_functions/)
 *   [Passing the Recursive Buck](http://lesswrong.com/lw/rd/passing_the_recursive_buck/)
 
-See also
---------
+## See also
 
 *   [[Semantic Stopsign|Semantic stopsign]], [[Rationalization]]
 *   [[Narrative Fallacy|Narrative fallacy]]

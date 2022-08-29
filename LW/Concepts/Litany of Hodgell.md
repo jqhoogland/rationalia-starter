@@ -15,8 +15,7 @@ The **Litany of Hodgell**: That which can be destroyed by the truth should be.
 
 And [[Feeling Rational|Yudkowsky's extension]]: That which the truth nourishes should thrive. 
 
-See also
---------
+## See also
 
 *   [[12 Virtues|Virtues of Rationality]]
 *   [[Litany of Tarski]]

@@ -14,5 +14,5 @@ synchedAt: '2022-08-29T10:40:16.043Z'
 
 # Sequences
 
-- [[Argument and Analysis]]
-- [[Categorisation and Concepts]]
+- [[Argument and Analysis (Sequence)]]
+- [[Categorisation and Concepts (Sequence)]]

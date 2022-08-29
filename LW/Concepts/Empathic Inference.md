@@ -15,13 +15,11 @@ synchedAt: '2022-08-29T11:09:28.413Z'
 
 Empathic inference is often wrongly used to predict the behavior of non-human agents in a manifestation of [[Anthropomorphism]]. This is commonly applied to forces of nature in mythology and religion[2](http://en.wikipedia.org/wiki/Anthropomorphism#In_religion_and_mythology). For example, attributing intentionality to hurricanes, saying they are the manisfestation of God's wrath. Today, [AGI](https://wiki.lesswrong.com/wiki/AGI) is [often subject to this kind of bias](http://lesswrong.com/lw/tf/dreams_of_ai_design/), i.e., some people tend to think a superintelligent AGI would have to be necessarily benevolent or malignant, based on "putting themselves in the AI's shoes". Putting oneself in an AI's shoes cannot be used to evaluate AI behavior because AI will not have human-like motivations unless they are explicitly programmed in [3](http://www.nickbostrom.com/superintelligentwill.pdf).
 
-Blog Posts
-----------
+## Blog Posts
 
 *   [The Comedy of Behaviorism](http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/) How Behaviorism tried to ban empathic inferences from science.
 
-See Also
---------
+## See Also
 
 *   [[Anthropomorphism]]
 *   [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind)

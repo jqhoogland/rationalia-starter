@@ -28,8 +28,7 @@ Note that content about *how the world is* can be found under [[World Modeling]]
 
 * * *
 
-What we're calling "rationality"
---------------------------------
+## What we're calling "rationality"
 
 A good heuristic is that rationality is about cognitive algorithms. Rather than being a synonym for *true* or *optimal*, the term ***rational*** should be reserved for describing whether or not a cognitive algorithm results in true beliefs and optimal actions.
 
@@ -39,15 +38,13 @@ In accordance with this, LessWrong classifies most self-help type advice under t
 
 Similarly, most object-level material about *how the world is*, e.g. math, biology, history, etc. is tagged under [[World Modeling]] tag, with exceptions for neuroscience and probability theory, etc., which have concrete consequences for how one ought to think.
 
-Heuristics and Biases
----------------------
+## Heuristics and Biases
 
 Early material on LessWrong frequently describes rationality with reference to heuristics and biases \[[1,](https://www.lesswrong.com/posts/xLm9mgJRPvmPGpo7Q/the-cognitive-science-of-rationality) [2](https://www.lesswrong.com/posts/Psp8ZpYLCDJjshpRb/your-intuitions-are-not-magic)\]. Indeed, LessWrong grew out of the blog [Overcoming Bias](https://www.overcomingbias.com/) and even [Rationality: A-Z](https://www.lesswrong.com/rationality) opens with a discussion of biases \[[Biases: An Introduction|[1]]\] with the opening chapter titled [Predictably Wrong](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM). The idea is that human mind has been shown to systematically make certain errors of reasoning, like confirmation bias. Rationality then consists of overcoming these biases.
 
 Apart from the issue of the replication crises which discredited many examples of bias that were commonly referenced on LessWrong, e.g. priming, the "overcoming biases" frame of rationality is too limited. Rationality requires the development of many *positive* skills, not just removing *negative* biases to reveal underlying perfect reasoning. These are skills such as how to update the correct amount in response to evidence, how to resolve disagreements with others, how to introspect, and many more.
 
-Instrumental vs Epistemic Rationality
--------------------------------------
+## Instrumental vs Epistemic Rationality
 
 Classically, on LessWrong, a distinction has been made between *instrumental* rationality  and *epistemic* rationality, however, these terms may be misleading – it's not as though epistemic rationality can be traded off for gains in instrumental rationality. Only apparently, and to think one should do this is a trap.
 
@@ -55,13 +52,11 @@ Classically, on LessWrong, a distinction has been made between *instrumental* ra
 
 **Epistemic rationality** is defined as the part of rationality which involves achieving accurate beliefs about the world. It involves [updating](https://wiki.lesswrong.com/wiki/updating) on receiving new [evidence](https://lessestwrong.com/tag/evidence), mitigating cognitive biases, and examining why you believe what you believe. It can be seen as a form of instrumental rationality in which knowledge and truth are goals in themselves, whereas in other forms of instrumental rationality, knowledge and truth are only potential aids to achieving goals. Someone practicing instrumental rationality might even find falsehood useful.
 
-The Art and Science of Rationality
-----------------------------------
+## The Art and Science of Rationality
 
 In a field like biology, we can draw a distinction between the *science of biology*, which involves various theories and empirical data about biological life, and the *art of being a biologis*t, which is the specific way that a biologist thinks and plays with ideas and interacts to the world around them. Similarly, rationality is both a science and an art. There’s study of the iron-clad laws of reasoning and mechanics of the human mind, but there’s also the general training to be the kind of person who reasons well.
 
-Rationalist
------------
+## Rationalist
 
 The term *rationalist* as a description of people is used in a couple of ways. It can refer to someone who endeavors to think better and implement as much rationality as they can. Many prefer the term *aspiring rationalist* to convey that the identifier is a claim to the goal of being more rational rather than a claim of having attained it already.
 

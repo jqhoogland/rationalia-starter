@@ -17,13 +17,11 @@ In creating an [AGI](https://wiki.lesswrong.com/wiki/AGI), a [[Utility Functions
 
 Researcher Stuart Armstrong, of the [[Future of Humanity Institute (FHI)|Future of Humanity Institute]], has published mathematical models of this idea.
 
-Blog Posts
-----------
+## Blog Posts
 
 *   [AI indifference through utility manipulation](http://lesswrong.com/lw/2nw/ai_indifference_through_utility_manipulation/)
 *   [Trapping AIs via utility indifference](http://lesswrong.com/lw/ae5/trapping_ais_via_utility_indifference/)
 
-External Links
---------------
+## External Links
 
 *   [Utility Indifference](http://www.fhi.ox.ac.uk/reports/2010-1.pdf) by Stuart Armstrong

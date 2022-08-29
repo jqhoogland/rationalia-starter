@@ -10,8 +10,7 @@ tags:
 
 **Machine Learning** refers to the general field of study that deals with automated statistical learning and pattern detection by non-biological systems. It can be seen as a sub-domain of artificial intelligence that specifically deals with modeling and prediction through the knowledge extracted from training data. As a multi-disciplinary area, it has borrowed concepts and ideas from other areas like pure mathematics and cognitive science.
 
-Understanding different machine learning algorithms
----------------------------------------------------
+## Understanding different machine learning algorithms
 
 The most widely used distinction is between unsupervised (e.g. k-means clustering, principal component analysis) vs supervised (e.g. Support Vector Machines, logistic regression) methods. The first approach identifies interesting patterns (e.g. clusters and latent dimensions) in unlabeled training data, whereas the second takes labeled training data and tries to predict the label for unlabeled data points from the same distribution.
 
@@ -19,19 +18,16 @@ Another important distinction relates to the bias/variance tradeoff -- some mach
 
 There are also subfields of machine learning devoted to operating on specific kinds of data. For example, Hidden Markov Models and recurrent neural networks operate on time series data. Convolutional neural networks are commonly applied to image data.
 
-Applications
-------------
+## Applications
 
 The use of machine learning has been widespread since its formal definition in the 50’s. The ability to make predictions based on data has been extensively used in areas such as analysis of financial markets, natural language processing and even brain-computer interfaces. Amazon’s product suggestion system makes use of training data in the form of past customer purchases in order to predict what customers might want to buy in the future.
 
 In addition to its practical usefulness, machine learning has also offered insight into human cognitive organization. It seems likely machine learning will play an important role in the development of [[Artificial General Intelligence|artificial general intelligence]].
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-See Also
---------
+## See Also
 
 *   [[Forecasting & Prediction|Prediction]]

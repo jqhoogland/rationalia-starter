@@ -21,19 +21,16 @@ Applying this logic to human brains in particular, we arrive at the explanation 
 
 Donald E. Brown has compiled a list of [over a hundred human universals](http://condor.depaul.edu/~mfiddler/hyphen/humunivers.htm) \- traits found in every culture ever studied, most of them so universal that anthropologists don't even bother to note them explicitly.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Psychological Unity of Humankind](http://lesswrong.com/lw/rl/the_psychological_unity_of_humankind/) by [[Eliezer Yudkowsky]]
 *   [Humans in Funny Suits](http://lesswrong.com/lw/so/humans_in_funny_suits/) by [[Eliezer Yudkowsky]]
 
-External links
---------------
+## External links
 
 *   [Human universals](http://condor.depaul.edu/~mfiddler/hyphen/humunivers.htm) by [Donald E. Brown](https://wiki.lesswrong.com/wiki/Donald_E._Brown)
 
-See also
---------
+## See also
 
 *   [[Evolutionary Psychology|Evolutionary psychology]]
 *   [[Typical Mind Fallacy|Typical mind fallacy]]

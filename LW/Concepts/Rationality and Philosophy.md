@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:13:11.360Z'
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://lesswrong.com/user/lukeprog/) examining the implications of rationality and cognitive science for philosophical method.
 
-Posts (so far)
---------------
+## Posts (so far)
 
 *   [Less Wrong Rationality and Mainstream Philosophy](http://lesswrong.com/lw/4vr/less_wrong_rationality_and_mainstream_philosophy/)
 *   [Philosophy: A Diseased Discipline](http://lesswrong.com/lw/4zs/philosophy_a_diseased_discipline/)

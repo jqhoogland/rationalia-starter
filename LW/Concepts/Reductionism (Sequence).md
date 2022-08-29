@@ -41,8 +41,7 @@ Early posts out of sequence:
 *   [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
 *   [Universal Law](http://lesswrong.com/lw/hr/universal_law/)
 
-Main sequence
--------------
+## Main sequence
 
 *   [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/)
 *   [Wrong Questions](http://lesswrong.com/lw/og/wrong_questions/)
@@ -65,13 +64,11 @@ Main sequence
 *   [Excluding the Supernatural](http://lesswrong.com/lw/tv/excluding_the_supernatural/)
 *   [Psychic Powers](http://lesswrong.com/lw/tw/psychic_powers/)
 
-See also
---------
+## See also
 
 *   [[Reductionism]]
 
-Alternative formats
--------------------
+## Alternative formats
 
 *   Podcast: [http://castify.co/channels/43-reductionism](http://castify.co/channels/43-reductionism)
 *   Readlists: This is a compilation of the sequence Reductionism available as an ebook (mobi, epub) [http://readlists.com/7afaf45e/](http://readlists.com/7afaf45e/)

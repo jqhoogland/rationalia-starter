@@ -11,8 +11,7 @@ synchedAt: '2022-08-29T10:47:47.270Z'
 ---
 # Updateless Decision Theory
 
-Motivation
-----------
+## Motivation
 
 **Updateless Decision Theory** (UDT) is a decision theory meant to deal with a fundamental problem in the existing decision theories: the need to treat the agent as a part of the world in which it makes its decisions. In contrast, in the most common decision theory today, [[Causal Decision Theory]] (CDT), the deciding agent is not part of the world model--its decision is the output of the CDT, but the agent's decision in the world context is "magic": in the moment of deciding, no causal links feed into its chosen action. It acts as though its decision was causeless, as in some dualist free-will theories.
 
@@ -20,8 +19,7 @@ Getting this issue right is critical in building a self-improving artificial gen
 
 Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/users/wei_dai) and first described in [Towards a New Decision Theory](https://www.lesswrong.com/posts/de3xjFaACCAk6imzv/towards-a-new-decision-theory).
 
-See also
---------
+## See also
 
 *   [[Timeless Decision Theory|Timeless decision theory]]
 *   [[Ambient Decision Theory|Ambient decision theory]]
@@ -30,8 +28,7 @@ See also
 *   [Functional Decision Theory](https://www.lesswrong.com/posts/AGAGgoWymRhJ5Rqyv/functional-decision-theory-a-new-theory-of-instrumental)
 *   [[Embedded Agency]]
 
-Content
--------
+## Content
 
 UDT specifies that the optimal agent is the one with the best algorithm--the best mapping from observations to actions--across a probability distribution of all world-histories. ("Best" here, as in other decision theories, means one that maximizes a utility/reward function.)
 
@@ -47,15 +44,13 @@ UDT is very similar to Functional Decision Theory (FDT), but there are differenc
 
 Since it is formalised using input-output maps instead of in terms of situations, it allows us to make predictions about what an agent would do given [input representing an inconsistent situation](https://www.lesswrong.com/posts/EXtzy3v4soZcoZjuH/a-short-note-on-udt), which can be important when dealing with perfect predictors.
 
-Logical Uncertainty
--------------------
+## Logical Uncertainty
 
 A robust theory of [[Logical Uncertainty|logical uncertainty]] is essential to a full formalization of UDT.  A UDT agent must calculate probabilities and expected values on the outcome of its possible actions in all possible worlds--sequences of observations and its own actions. However, it does not know its own actions in all possible worlds. (The whole point is to derive its actions.) On the other hand, it does have some knowledge about its actions, just as you know that you are unlikely to walk straight into a wall the next chance you get. So, the UDT agent models itself as an algorithm, and its probability distribution about what it itself will do is an important input into its maximization calculation.
 
 Logical uncertainty is an area which has not yet been properly formalized, and much UDT research is focused on this area.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Indexical uncertainty and the Axiom of Independence](http://lesswrong.com/lw/102/indexical_uncertainty_and_the_axiom_of/) by Wei Dai
 *   [Towards a New Decision Theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) by [Wei Dai](http://weidai.com/)
@@ -70,15 +65,13 @@ Blog posts
 *   [Comparison of decision theories (with a focus on logical-counterfactual decision theories)](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical), by riceissa. (Gives a good description of UDT 1.0 vs 1.1)
 *   [All posts tagged "UDT"](http://lesswrong.com/tag/udt/)
 
-Relevant Comments
------------------
+## Relevant Comments
 
 In addition to whole posts on UDT, there are also a number of comments which contain important information, often on less relevant posts.
 
 *   [A comment about UDT2](http://lesswrong.com/lw/jhj/functional_side_effects/adhy)
 
-External links
---------------
+## External links
 
 *   [Formal description of UDT](https://drive.google.com/file/d/0BzUiCL-Kpxc1NGxab3ZfZGZkVUE/view?usp=sharing&resourcekey=0-EuvTP8RRdpKivUtHwfqgSQ) by Tyrrell McAllister
 *   [UDT with known search order](http://intelligence.org/2014/10/30/new-report-udt-known-search-order/) by Tsvi Benson-Tilsen

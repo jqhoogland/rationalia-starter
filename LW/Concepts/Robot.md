@@ -25,8 +25,7 @@ There exists an academic literature on argument mapping and other tools (compute
 List of debate tools
 ====================
 
-[Debate Map](https://debatemap.app/)
-------------------------------------
+## [Debate Map](https://debatemap.app/)
 
 Summary: Tree-based mapping of beliefs, arguments, and evidence.
 
@@ -44,8 +43,7 @@ Summary: Tree-based mapping of beliefs, arguments, and evidence.
     *   Has a learning curve for casual users, as content must conform to the argument<-premise structure at each level.
     *   Not yet made usable on mobile devices.
 
-[DebateArt](https://www.debateart.com/)
----------------------------------------
+## [DebateArt](https://www.debateart.com/)
 
 Summary: Debating platform with rich one-on-one debates functionality and advanced discussions forum.
 
@@ -61,8 +59,7 @@ Summary: Debating platform with rich one-on-one debates functionality and advanc
     *   Has a learning curve for casual users.
     *   No dedicated mobile version.
 
-[debategraph.org](http://debategraph.org/)
-------------------------------------------
+## [debategraph.org](http://debategraph.org/)
 
 Summary: This... is pretty much exactly what we were looking for, isn't it? Though it doesn't do anything with probabilities.
 
@@ -74,8 +71,7 @@ Summary: This... is pretty much exactly what we were looking for, isn't it? Thou
     *   it doesn't do anything with probabilities.
     *   *Do not zoom out too much!*
 
-[Argunet](http://www.argunet.org/working-with-argunet/)
--------------------------------------------------------
+## [Argunet](http://www.argunet.org/working-with-argunet/)
 
 Summary: Argunet enables you to create argument maps of complex debates online or offline, on your own or in a team.
 
@@ -86,8 +82,7 @@ Summary: Argunet enables you to create argument maps of complex debates online o
 *   cons:
     *   not entirely straightforward to use, Morendil had trouble figuring out how to move boxes around.
 
-[bCisive Online](http://bcisiveonline.com/)
--------------------------------------------
+## [bCisive Online](http://bcisiveonline.com/)
 
 Summary: a simple canvas for creating a tree diagram of a debate.
 
@@ -100,8 +95,7 @@ Summary: a simple canvas for creating a tree diagram of a debate.
 *   examples:
     *   [a map of Morendil's current thinking on cryonics](http://morendil.bcisiveonline.com/spaces/989ae551bc100d0365c96a7bcc20f188d95fb58d/)
 
-[Flow](http://en.wikipedia.org/wiki/Flow_%28policy_debate%29)
--------------------------------------------------------------
+## [Flow](http://en.wikipedia.org/wiki/Flow_%28policy_debate%29)
 
 Summary: a specialized form of note taking called "flowing" within the policy/CEDA/NDT debate community.
 
@@ -112,8 +106,7 @@ Summary: a specialized form of note taking called "flowing" within the policy/CE
 *   cons:
     *   it requires a very specific format for the debate
 
-[PyMC](http://code.google.com/p/pymc/)
---------------------------------------
+## [PyMC](http://code.google.com/p/pymc/)
 
 Summary: a DSL in python for (non-recursive) Bayesian models and Bayesian probability computations.
 
@@ -131,8 +124,7 @@ Summary: a DSL in python for (non-recursive) Bayesian models and Bayesian probab
 *   examples:
     *   [mapped controversies](http://medialab.sciences-po.fr/controversies/)
 
-[Scott Aaronson's worldview manager](http://projects.csail.mit.edu/worldview/)
-------------------------------------------------------------------------------
+## [Scott Aaronson's worldview manager](http://projects.csail.mit.edu/worldview/)
 
 Summary: this is designed to point out hidden contradictions (or at least tensions) between one's beliefs, by using programmed in implications to exhibit (possibly long) inferential chains that demonstrate a contradiction.
 
@@ -146,8 +138,7 @@ Summary: this is designed to point out hidden contradictions (or at least tensio
     *   [sample worldview](http://www.gitorious.org/worldview/worldview/blobs/master/topics/axiom_of_choice.wvm)
     *   [The model of libertarian ideas](http://www.gitorious.org/worldview/worldview/blobs/master/topics/libertarianism.wvm)
 
-[Canonizer.com](http://canonizer.com/)
---------------------------------------
+## [Canonizer.com](http://canonizer.com/)
 
 Summary: Canonizer.com is a wiki system with added camp and survey capabilities. The system provides a rigorous way to measure scientific / moral expert consensus. It is designed for collaborative development of concise descriptions of various competing scientific or moral theories, and the best arguments for such. People can join the camps representing such, giving a quantitative survey or measure of consensus compared to all others. Proposed changes to supported camps go into a review mode for one week. Any supporters of a camp can object to any such proposed change during this time. If it survives a week with no objection, it goes live, guaranteeing unanimous agreement to such changes to the petition by all current signers. If anyone does object, the camp can be forked (taking all supporters of the 'improvement'), or the info can be included in a sporting sub camp.
 
@@ -162,8 +153,7 @@ The karma or 'canonization' system enables the readers to select any algorithm t
 *   examples:
     *   [the main list of canonized camps](http://canonizer.com)
 
-[Explore-Ideas.com](http://www.explore-ideas.com/)
---------------------------------------------------
+## [Explore-Ideas.com](http://www.explore-ideas.com/)
 
 Summary: explore-ideas.com is a graph structure forum where users start with a topic and follow arguments they agree with, creating a personalized 'story'.
 
@@ -173,21 +163,18 @@ This forum encourages dynamic debate that goes beyond pro/con binary approach, s
 
 *   cons: UI is rudimentary.
 
-[Debate.fm](http://www.debate.fm/)
-----------------------------------
+## [Debate.fm](http://www.debate.fm/)
 
 Summary: A simple platform to start a debate on any topic. Mainly focused at general user participation.
 
 *   pros: Simple structured content - side by side. Mainly focused at pro/con binary approach
 *   cons: Till now not ready for academic use.
 
-[cartargrapher](http://cartargrapher.appspot.com/)
---------------------------------------------------
+## [cartargrapher](http://cartargrapher.appspot.com/)
 
 "a simple argument mapping app, made using Google’s visualization API, jquery, and python, and running on Google’s AppEngine. Note: at this point, I don’t guarantee the persistence of saved argument maps!" - [John MacFarlane](http://johnmacfarlane.net/tools.html)
 
-[Consider.it](https://consider.it)
-----------------------------------
+## [Consider.it](https://consider.it)
 
 Graphically represents people's agreement with a statement and which arguments were most used. The arguments themselves are not subjects of further investigation though. Check out [this use-case](https://hala.consider.it/?tab=Feedback%20on%20key%20principles) of public decisions in Seattle.
 
@@ -205,8 +192,7 @@ Ideas for new tools
 *   examples:
     *   [a conversation about AI](http://transhumanistwiki.com/wiki/Peer_Infinity/Chat_With_Fael_About_AI)
 
-Brass Tacks
------------
+## Brass Tacks
 
 *   [Structured debate](http://issuepedia.org/Issuepedia:Structured_Debate): a set of rules which debate software could help enforce. Some data design is on paper, not yet transcribed. The plan is to write this first as a MediaWiki extension. [some mockups](http://issuepedia.org/Category:Debates)
 

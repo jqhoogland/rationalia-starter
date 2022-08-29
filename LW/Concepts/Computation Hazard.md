@@ -21,8 +21,7 @@ A _predictor_ is a computation which takes data as input, and predicts what data
 
 There are two main strategies one could follow to avoid these kinds of risk. First, to keep the computations small and simple until some clear reassurance of their safety is known. Second, to use some kind of agent detectors - similar to a [non-person predicates](http://lesswrong.com/lw/x4/nonperson_predicates/) -, which would ensure that a computation doesn't contain agents or persons.
 
-References
-----------
+## References
 
 *   [Alex Altair’s post defining and summarizing the material on Computation Hazards](http://lesswrong.com/lw/d2f/computation_hazards/)
 *   Armstrong S., Sandberg A., Bostrom N. (2012). “Thinking inside the box: using and controlling an Oracle AI”. Minds and Machines, forthcoming. Available at: [http://www.aleph.se/papers/oracleAI.pdf](http://www.aleph.se/papers/oracleAI.pdf)

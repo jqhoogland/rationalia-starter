@@ -42,7 +42,6 @@ A guide to this sequence is available at [The Fun Theory Sequence (post)](http:/
 *   [The Uses of Fun (Theory)](http://lesswrong.com/lw/xc/the_uses_of_fun_theory/)
 *   [Higher Purpose](http://lesswrong.com/lw/xw/higher_purpose/)
 
-See also
---------
+## See also
 
 *   [[Fun Theory|Fun theory]]

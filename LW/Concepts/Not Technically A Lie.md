@@ -13,16 +13,14 @@ synchedAt: '2022-08-29T11:09:39.219Z'
 
 A statement that is literally true, but causes the listener to attain false beliefs by performing incorrect inference, is **not technically a lie**. Since the purpose of communication is to transfer beliefs to the other person's mind, there is little practical distinction between lying and not technically lying. Depending on circumstances, one may be preferable to another, but only by a slim margin. A weapon of [[Dark Arts|dark arts]], or an [attire](https://wiki.lesswrong.com/wiki/belief_as_attire) for someone identifying with truth-telling.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Bottom Line](http://lesswrong.com/lw/js/the_bottom_line/)
 *   [Entangled Truths, Contagious Lies](http://lesswrong.com/lw/uw/entangled_truths_contagious_lies/)
 *   [Not Technically Lying](http://lesswrong.com/lw/11y/not_technically_lying/) by Psychohistorian
 *   [Lies and Secrets](http://lesswrong.com/lw/1j/lies_and_secrets/) by [steven0461](https://wiki.lesswrong.com/wiki/steven0461)
 
-See also
---------
+## See also
 
 *   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
 *   [[Dark Arts|Dark arts]], [[Filtered Evidence|Filtered evidence]]

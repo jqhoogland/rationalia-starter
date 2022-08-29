@@ -19,14 +19,12 @@ Although it has been argued that utility is hard to quantify in the case of huma
 
 Some people prefer to keep [a distinction between two types of utility](https://www.lesswrong.com/posts/DQ4pyHoAKpYutXwSr/underappreciated-points-about-utility-functions-of-both): *utility as in decision theory* refers to the theoretical construct which represents a single agent's preferences, as defined by the [[VNM Theorem]] or other decision-theoretic representation theorems (such as [Savage](https://www.lesswrong.com/posts/5J34FAKyEmqKaT7jt/a-summary-of-savage-s-foundations-for-probability-and) or [Jeffrey-Bolker](https://plato.stanford.edu/entries/decision-theory/#JefThe)), and *utility as in utilitarianism*, a cross-agent notion of welfare intended to capture ethical reasoning. One reason for keeping the two distinct is that [utility functions are not comparable](https://www.lesswrong.com/posts/cYsGrWEzjb324Zpjx/comparing-utilities), which means it is unclear how to use single-agent utility as a cross-agent concept. Another reason to keep the two concepts separate is that a utilitarian may have a concept of welfare of an agent which differs from an agent's own preferences. For example, hedonic utilitarians may say that an agent would be better off if it were happier, even if that agent prefers to be sad.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Mistakes in Choice-Based Welfare Analysis](http://elsa.berkeley.edu/~botond/mistakeschicago.pdf) by Botond Köszegi and Matthew Rabin
 *   Russell, Stuart J.; Norvig, Peter (2003), Artificial Intelligence: A Modern Approach (2nd ed.), Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-13-790395-2
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Purchase Fuzzies and Utilons Separately](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/)
 *   [Post your Utility Function](http://lesswrong.com/lw/zv/post_your_utility_function/)
@@ -35,8 +33,7 @@ Notable Posts
 *   [Money: The Unit of Caring](http://lesswrong.com/lw/65/money_the_unit_of_caring/)
 *   [Pinpointing Utility](https://www.lesswrong.com/posts/CQkGJ2t5Rw8GcZKJm/pinpointing-utility)
 
-See Also
---------
+## See Also
 
 *   [[Utilitarianism]]
 *   [[Utility Functions|Utility function]]

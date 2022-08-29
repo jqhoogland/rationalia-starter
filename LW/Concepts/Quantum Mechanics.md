@@ -23,13 +23,11 @@ Actually, quantum mechanics is perfectly predictable in Hilbert space. The only 
 
 In spite of that, quantum mechanics is a mature field, and even if there's some uncertainty about what the results might imply, actually doing quantum mechanics is not terribly difficult for single-particle systems. From a practical standpoint, the evolution of the state of the system (also called the wave function or the state vector) is governed by differential equations the same way it is in classical physics. In quantum mechanics, this equation is called [Schrödinger equation](http://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) and most of practical quantum mechanics is concerned with solving this equation for different sets of boundary conditions, and in trying to find a "space" in which the quantum system can be expressed and solved most easily. Systems of more than one particle are considerably trickier because the state vector has to be mapped into multiple different 3D spaces at the same time.
 
-External Links
---------------
+## External Links
 
 [Mangled Worlds](https://mason.gmu.edu/~rhanson/mangledworlds.html)
 
-Resources
----------
+## Resources
 
 *   [The Quantum Physics Sequence](https://www.lessestwrong.com/lw/r5/the_quantum_physics_sequence/) – this is really the best place to get started on the topic.
 *   Quantum Mechanics thing by Michael Nielsen

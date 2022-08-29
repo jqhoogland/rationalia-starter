@@ -17,13 +17,11 @@ For example, let's compare the hypotheses that the total number of humans to eve
 
 The doomsday argument relies on the [[Self-Sampling Assumption|self-sampling assumption]] (SSA), which says that an observer should reason as if they were randomly selected from the set of observers that actually exist. In contrast, the [[Self-Indication Assumption|self-indication assumption]] (SIA) says that an observer should reason as if they were randomly selected from the set of all possible observers. According to SIA, you are more likely to exist at all in possible universes with more humans, which cancels out the evidence from the fact that your position in the sequence of human births is more likely in universes with fewer humans. Thus, a reasoner operating under SIA would not use the doomsday argument as evidence against large numbers of humans existing in the future.
 
-External links
---------------
+## External links
 
 *   [Was the Universe made for us?](http://www.anthropic-principle.com/?q=anthropic_principle/doomsday_argument) by Nick Bostrom
 
-See also
---------
+## See also
 
 *   [[Observation Selection Effect|Observation selection effect]]
 *   [[Great Filter]]

@@ -17,13 +17,11 @@ Since nothing is ever *actually* the causal result of a future event, 'teleology
 
 A non-fallacious interpretation of teleology is as the study of things that happen because of their *intended* results, where the intention existed in an actual mind in the prior past, and so was causally able to bring about the event by planning and acting.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Three Fallacies of Teleology](http://lesswrong.com/lw/te/three_fallacies_of_teleology/)
 
-See also
---------
+## See also
 
 *   [[Causality]]
 *   [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)

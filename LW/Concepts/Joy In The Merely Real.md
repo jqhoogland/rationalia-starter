@@ -17,8 +17,7 @@ Which is rather setting ourselves up for eternal disappointment, eh? If we canno
 
 A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [[Reductionism (Sequence)|Reductionism]].
 
-Blog Posts
-----------
+## Blog Posts
 
 *   [Joy in the Merely Real](http://lesswrong.com/lw/or/joy_in_the_merely_real/)
 *   [Joy in Discovery](http://lesswrong.com/lw/os/joy_in_discovery/)
@@ -33,8 +32,7 @@ Blog Posts
 *   [Initiation Ceremony](http://lesswrong.com/lw/p1/initiation_ceremony/)
 *   [Awww, a Zebra](http://lesswrong.com/lw/uf/awww_a_zebra/)
 
-See also
---------
+## See also
 
 *   [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/) (and [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/))
 *   [[Reality Is Normal|Reality is normal]], [Egan's Law](https://wiki.lesswrong.com/wiki/Egan's_Law)

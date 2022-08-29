@@ -29,13 +29,11 @@ An example from [No, Really, I've Deceived Myself](https://www.lesswrong.com/pos
 
 > *On the other hand, I think she really does believe she has deceived herself.*
 
-Blog posts
-----------
+## Blog posts
 
 *   [Self-deception: Hypocrisy or Akrasia?](http://lesswrong.com/lw/h7/selfdeception_hypocrisy_or_akrasia/)
 
-Sequence by [Eliezer Yudkowsky](https://wiki.lesswrong.com/wiki/Eliezer_Yudkowsky)
-----------------------------------------------------------------------------------
+## Sequence by [Eliezer Yudkowsky](https://wiki.lesswrong.com/wiki/Eliezer_Yudkowsky)
 
 *Part of* [*How To Actually Change Your Mind*](https://wiki.lesswrong.com/wiki/How_To_Actually_Change_Your_Mind) *sequence*
 
@@ -45,13 +43,11 @@ Sequence by [Eliezer Yudkowsky](https://wiki.lesswrong.com/wiki/Eliezer_Yudkowsk
 *   [Don't Believe You'll Self-Deceive](http://lesswrong.com/lw/1o/dont_believe_youll_selfdeceive)
 *   [Striving to Accept](http://lesswrong.com/lw/1r/striving_to_accept)
 
-Other resources
----------------
+## Other resources
 
 *   [Robin Hanson](https://wiki.lesswrong.com/wiki/Robin_Hanson) (2009). "Enhancing Our Truth Orientation". in Larissa Behrendt, Nick Bostrom. *Human Enhancement*. Oxford University Press. ([PDF](http://hanson.gmu.edu/moretrue.pdf))
 
-See also
---------
+## See also
 
 *   [Anti-epistemology](https://wiki.lesswrong.com/wiki/Anti-epistemology), [Belief in belief](https://wiki.lesswrong.com/wiki/Belief_in_belief)
 *   [Semantic stopsign](https://wiki.lesswrong.com/wiki/Semantic_stopsign), [Compartmentalization](https://wiki.lesswrong.com/wiki/Compartmentalization), [Motivated skepticism](https://wiki.lesswrong.com/wiki/Motivated_skepticism)

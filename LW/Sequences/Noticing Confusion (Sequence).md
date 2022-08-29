@@ -6,7 +6,9 @@ type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T16:28:48.961Z'
+aliases:
+  - Noticing Confusion
+synchedAt: '2022-08-29T17:16:42.152Z'
 ---
 # Noticing Confusion
 

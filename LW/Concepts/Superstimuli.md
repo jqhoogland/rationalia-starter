@@ -19,19 +19,16 @@ Humans evolved various desires that promoted survival and reproductive success i
 
 *\-\-* Eliezer Yudkowsky, [Superstimuli and the Collapse of Western Civilisation](https://www.lesswrong.com/posts/Jq73GozjsuhdwMLEG/superstimuli-and-the-collapse-of-western-civilization)
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Superstimuli and the Collapse of Western Civilization](https://lessestwrong.com/lw/h3/superstimuli_and_the_collapse_of_western/)
 *   [Adaptation-Executers, not Fitness-Maximizers](https://lessestwrong.com/lw/l0/adaptationexecuters_not_fitnessmaximizers/)
 
-External Links
---------------
+## External Links
 
 *   [Cute, Sexy, Sweet, Funny](http://www.ted.com/talks/dan_dennett_cute_sexy_sweet_funny.html) by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) at TED
 
-See Also
---------
+## See Also
 
 *   [Akrasia](https://lessestwrong.com/tag/akrasia)
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

@@ -19,8 +19,7 @@ Currently, machine ethics is a subject whose application is limited to simple ma
 
 As Wallach and Allen pose it, “even if full moral agency for machines is a long way off, it is already necessary to start building a kind of functional morality, in which artificial moral agents have some basic ethical sensitivity”.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   [Intelligence Explosion and Machine Ethics](http://intelligence.org/files/IE-ME.pdf) by Luke Muehlhauser and Louie Helm
 *   [Machine Ethics and Superintelligence](http://intelligence.org/files/MachineEthicsSuperintelligence.pdf) by Carl Shulman, Henrik Jonsson, and Nick Tarleton
@@ -29,8 +28,7 @@ Further Reading & References
 *   [Prospects for a Kantian Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Powers-Prospects-for-a-Kantian-Machine.pdf) by Thomas M. Powers
 *   [Granny and the robots: Ethical issues in robot care for the elderly](http://staffwww.dcs.shef.ac.uk/people/A.Sharkey/sharkey-granny.pdf) by Amanda Sharkey and Noel Sharkeyture
 
-See also
---------
+## See also
 
 *   [[Utility]]
 *   [[Utilitarianism]]

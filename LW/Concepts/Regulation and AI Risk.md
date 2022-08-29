@@ -19,8 +19,7 @@ While Shulman & Armstrong (2009) argue the unprecedentedly destabilizing effect 
 
 Goertzel & Pitt (2012) suggest that for regulation to be enacted, there might need to be an [[AGI Sputnik Moment|AGI Sputnik moment]] \- a technological achievement that makes the possibility of AGI evident to the public and policy makers. They note that after such a moment, it might not take a very long time for full human-level AGI to be developed, while the negotiations required to enact new kinds of arms control treaties would take considerably longer.
 
-References
-----------
+## References
 
 *   Ben Goertzel & Joel Pitt (2012): [Nine Ways to Bias Open-Source AGI Toward Friendliness](http://jetpress.org/v22/goertzel-pitt.htm). Journal of Evolution and Technology - Vol. 22 Issue 1 – pgs 116-141.
 *   Mark Gubrud (1997): [Nanotechnology and International Security](http://www.foresight.org/Conferences/MNT05/Papers/Gubrud/). Fifth Foresight Conference on Molecular Nanotechnology.
@@ -30,8 +29,7 @@ References
 *   Roman Yampolskiy & Joshua Fox (2012): [Safety Engineering for Artificial General Intelligence](http://intelligence.org/files/SafetyEngineering.pdf). Topoi.
 *   Mohit Kaushal & Scott Nolan (2015): [Understanding Artificial Intelligence](http://www.brookings.edu/blogs/techtank/posts/2015/04/14-understanding-artificial-intelligence). Brookings.
 
-See also
---------
+## See also
 
 *   [[AI Arms Race|AI arms race]]
 *   [[AGI Sputnik Moment|AGI Sputnik moment]]

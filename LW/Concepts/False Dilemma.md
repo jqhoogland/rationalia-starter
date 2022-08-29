@@ -13,12 +13,10 @@ synchedAt: '2022-08-29T11:09:46.512Z'
 
 A **false dilemma** (false dichotomy) occurs when only two options are considered, when there may in fact be many.
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/) by [[Eliezer Yudkowsky]]
 
-See also
---------
+## See also
 
 *   [[Third Option|Third option]]

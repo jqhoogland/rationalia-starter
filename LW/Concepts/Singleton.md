@@ -19,14 +19,12 @@ Like any technological advancement, a singleton could be good or bad, depending 
 
 Bostrom postulates the **singleton hypothesis**; Earth-originating life will eventually form a singleton. He notes that this follows the historical trend of increasingly high levels of organization in the history of life and humanity. Also in favor of the hypothesis is the rise of technologies capable of aiding the creation of a singleton, such as world-wide communication, and potentially [AGI](https://wiki.lesswrong.com/wiki/AGI).
 
-See also
---------
+## See also
 
 *   [[Existential Risk|Existential risk]]
 *   [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]] artificial intelligence
 
-References
-----------
+## References
 
 *   Nick Bostrom (2006). "[What is a Singleton?](http://www.nickbostrom.com/fut/singleton.html)". *Linguistic and Philosophical Investigations* **5** (2): 48-54.
 *   Nick Bostrom (2004). "[The Future of Human Evolution](http://www.nickbostrom.com/fut/evolution.html)". *Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing*: 339-371.

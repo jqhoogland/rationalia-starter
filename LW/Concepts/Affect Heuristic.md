@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:05:18.083Z'
 
 The **affect heuristic** is a principle for making fast, perceptual judgments based on subjective impressions of goodness/badness. It can cause people to use one positive (or negative) fact about an object/action to judge the likely positivity or negativity of other facts about that object/action.
 
-See also
---------
+## See also
 
 *   [[Halo Effect|Halo effect]]
 *   [[Priming]]

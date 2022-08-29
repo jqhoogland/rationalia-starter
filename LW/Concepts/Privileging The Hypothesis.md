@@ -25,16 +25,14 @@ This is true even if the detective is not claiming that Mortimer *did* do it, bu
 
 The anti-work of [[Anti-Epistemology|anti-epistemology]] is to manufacture belief without evidence, and in large answer spaces, attention without evidence is more than halfway to belief without evidence. Someone who spends all day pondering whether the *Trinity* does or does not exist - rather than Allah, Thor, or the Flying Spaghetti Monster - is more than halfway converted to Christianity.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
 *   [Perpetual Motion Beliefs](http://lesswrong.com/lw/o6/perpetual_motion_beliefs/)
 *   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
 *   [The Amanda Knox Test: How an Hour on the Internet Beats a Year in the Courtroom](http://lesswrong.com/lw/1j7/the_amanda_knox_test_how_an_hour_on_the_internet/)
 
-See also
---------
+## See also
 
 *   [[Locate The Hypothesis|Locate the hypothesis]]
 *   [[Antiprediction]]

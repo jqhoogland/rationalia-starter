@@ -18,7 +18,6 @@ The **Emulation argument for human-level** [**AI**](https://wiki.lesswrong.com/w
 *   (iii) If we emulate this machine, there will be AI.
 *   (iv) Absent defeaters, there will be AI (before long)”
 
-References
-----------
+## References
 
 1.  CHALMERS, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65.[↩](#fnref1)

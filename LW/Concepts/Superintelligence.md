@@ -21,20 +21,17 @@ An [[Artificial General Intelligence]] will have a number of advantages aiding i
 
 The development of superintelligence from humans is another possibility, sometimes termed a weak superintelligence. It may come in the form of [[Whole Brain Emulation|whole brain emulation]], where a human brain is scanned and simulated on a computer. Many of the advantages a AGI has in developing superintelligence apply here as well. The development of [[Brain-Computer Interfaces|Brain-computer interfaces]] may also lead to the creation of superintelligence. Biological enhancements such as genetic engineering and the use of nootropics could lead to superintelligence as well.
 
-Blog Posts
-----------
+## Blog Posts
 
 *   [Superintelligence](http://www.acceleratingfuture.com/articles/superintelligencehowsoon.htm) by Michael Anissimov
 
-External Links
---------------
+## External Links
 
 *   [How long before Superintelligence?](http://www.nickbostrom.com/superintelligence.html) by Nick Bostrom
 *   [A discussion between Hugo de Garis and Ben Goertzel on superintelligence](http://profhugodegaris.files.wordpress.com/2011/04/nocyborgsbghugo.pdf)
 *   [Advantages of Artificial Intelligences, Uploads, And Digital Minds](http://www.xuenay.net/Papers/DigitalAdvantages.pdf) by Kaj Sotala
 
-See Also
---------
+## See Also
 
 *   [[Brain-Computer Interfaces|Brain-computer interfaces]]
 *   [[Singularity]]

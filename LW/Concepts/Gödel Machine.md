@@ -26,19 +26,16 @@ The searcher may completely rewrite any part of the machine, provided that it ca
 
 The Gödel machine is often compared with Marcus Hutter's [[AIXI]], another formal specification for an AGI. AIXI is constructed in a way its average utility converges – also through self-improvements - asymptotically to the utility of an ideal [[Bayesianism|rational]] agent. However, different from a Gödel Machine, it usually assumes unlimited computing resources and it can never completely re-write its own code – its search code for optimizations is unmodifiable. Schmidhuber points out that the Gödel machine could start out by implementing AIXI as its initial sub-program, and self-modify after it finds a proof that another algorithm will be more optimal.
 
-References
-----------
+## References
 
 1.  Jürgen Schmidhuber (2009) [Ultimate Cognition à la Gödel](http://www.idsia.ch/~juergen/ultimatecognition.pdf↩). Cogn Comput (2009) 1:177–193.
 
-External Links
---------------
+## External Links
 
 *   [Gödel Machine Homepage](http://www.idsia.ch/~juergen/goedelmachine.html) by Jürgen Schmidhuber
 *   [Summary of Gödel Machine](http://www.idsia.ch/~juergen/gmsummary.html) by Jürgen Schmidhuber
 
-See Also
---------
+## See Also
 
 *   [[Artificial General Intelligence]]
 *   [[Recursive Self-Improvement|Recursive self-improvement]]

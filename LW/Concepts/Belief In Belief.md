@@ -15,22 +15,19 @@ synchedAt: '2022-08-29T11:08:34.093Z'
 
 *Related tags:* [[Belief]], [[Alief]], [[Self-Deception|Self-deception]]
 
-Posts
------
+## Posts
 
 *   [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)
 *   [No, Really, I've Deceived Myself](http://lesswrong.com/lw/r/no_really_ive_deceived_myself/)
 *   [Belief in Self-Deception](http://lesswrong.com/lw/s/belief_in_selfdeception/)
 *   [Modularity, Signaling, and Belief in Belief](http://lesswrong.com/lw/8ev/modularity_signaling_and_belief_in_belief/) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
 
-External links
---------------
+## External links
 
 *   [The folly of pretence](http://www.guardian.co.uk/commentisfree/belief/2009/jul/16/daniel-dennett-belief-atheism) by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
 *   [The Dragon In My Garage](http://www.godlessgeeks.com/LINKS/Dragon.htm) by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
 
-See also
---------
+## See also
 
 *   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
 *   [[Bite The Bullet|Bite the bullet]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)

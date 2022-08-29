@@ -21,8 +21,7 @@ If we take wireheading as a more general form of producing counterfeit utility, 
 
 Wireheading is also an illustration of the complexities of creating a [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI). Any AGI naively programmed to increase human happiness could devote its energies to wireheading people, possibly without their consent, in preference to any other goals. Equivalent problems arise for any simple attempt to create AGIs who care directly about human feelings ("love", "compassion", "excitement", etc). An AGI could wirehead people to feel in love all the time, but this wouldn’t correctly realize what we value when we say love is a virtue. For Omohundro, because exploiting those vulnerabilities in our subsystems for measuring utility is much easier than truly realizing our values, a wrongly designed AGI would most certainly prefer to wirehead humanity instead of pursuing human values. In addition, an AGI itself could be vulnerable to wirehead and would need to implement “police forces” or “immune systems” to ensure its measuring system doesn’t become corrupted by trying to produce counterfeit utility.
 
-See also
---------
+## See also
 
 *   [Steve Omohundro's paper, section 4 deals with vulnerabilities to counterfeit utility and wireheading](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf)
 *   [Hedonism](https://lessestwrong.com/tag/hedonism)
@@ -32,7 +31,6 @@ See also
 *   [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
 *   [Abolitionism](https://lessestwrong.com/tag/abolitionism)
 
-External links
---------------
+## External links
 
 *   [Wirehead Hedonism versus paradise engineering](https://www.hedweb.com/wirehead/index.html) by David Pearce

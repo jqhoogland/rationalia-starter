@@ -17,8 +17,7 @@ synchedAt: '2022-08-29T11:12:32.956Z'
 
 The previous book in the series is *[[The Machine In The Ghost|The Machine in the Ghost]]*, and the next book is *[[Mere Goodness|Mere Goodness]]*.
 
-**O. Lawful Truth**
--------------------
+## **O. Lawful Truth**
 
 181\. [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
 
@@ -36,8 +35,7 @@ The previous book in the series is *[[The Machine In The Ghost|The Machine in th
 
 188\. [Searching for Bayes-Structure](http://lesswrong.com/lw/o7/searching_for_bayesstructure/)
 
-**P. Reductionism 101**
------------------------
+## **P. Reductionism 101**
 
 189\. [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/)
 
@@ -65,8 +63,7 @@ The previous book in the series is *[[The Machine In The Ghost|The Machine in th
 
 201\. [Savanna Poets](http://lesswrong.com/lw/oq/savanna_poets/)
 
-**Q. Joy in the Merely Real**
------------------------------
+## **Q. Joy in the Merely Real**
 
 202\. [Joy in the Merely Real](http://lesswrong.com/lw/or/joy_in_the_merely_real/)
 
@@ -124,8 +121,7 @@ R. Physicalism 201
 
 228\. [Psychic Powers](http://lesswrong.com/lw/tw/psychic_powers/)
 
-**S. Quantum Physics and Many Worlds**
---------------------------------------
+## **S. Quantum Physics and Many Worlds**
 
 229\. [Quantum Explanations](http://lesswrong.com/lw/pc/quantum_explanations/)
 
@@ -155,8 +151,7 @@ R. Physicalism 201
 
 242\. [Many Worlds, One Best Guess](http://lesswrong.com/lw/q8/many_worlds_one_best_guess/)
 
-**T. Science and Rationality**
-------------------------------
+## **T. Science and Rationality**
 
 243\. [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)
 

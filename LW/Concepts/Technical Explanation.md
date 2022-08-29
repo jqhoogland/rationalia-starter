@@ -15,18 +15,15 @@ A **technical explanation** is an explanation of a phenomenon that makes you [[M
 
 Technical explanations are contrasted with verbal explanations, which give the impression of understanding without actually producing the proper expectation.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
 
-See also
---------
+## See also
 
 *   [[Making Beliefs Pay Rent|Making beliefs pay rent]]
 *   [[Beliefs Require Observations|Beliefs require observations]]
 
-References
-----------
+## References
 
 *   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)

@@ -21,19 +21,16 @@ synchedAt: '2022-08-29T10:47:39.344Z'
 
 The best-known use of infinity in ethics is probably [Pascal's wager](http://en.wikipedia.org/wiki/Pascal's_Wager), which has a finite variant in [[Pascal's Mugging|Pascal's mugging]].
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Pascal's Wager Fallacy Fallacy](http://lesswrong.com/lw/z0/the_pascals_wager_fallacy_fallacy/), by [[Eliezer Yudkowsky]]
 
-External links
---------------
+## External links
 
 *   [Infinite Ethics](http://www.nickbostrom.com/ethics/infinite.pdf), by Nick Bostrom
 *   [Philosophical implications of inflationary cosmology](http://philsci-archive.pitt.edu/1341/)
 
-See also
---------
+## See also
 
 *   [[Pascal's Mugging|Pascal's mugging]]
 *   [[Utilitarianism]]

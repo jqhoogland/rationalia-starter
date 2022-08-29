@@ -19,15 +19,13 @@ From [The Fun Theory Sequence](https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS
 
 > Fun Theory is also the fully general reply to religious theodicy (attempts to justify why God permits evil). Our present world has flaws even from the standpoint of such eudaimonic considerations as freedom, personal responsibility, and self-reliance. Fun Theory tries to describe the dimensions along which a benevolently designed world can and should be optimized, and our present world is clearly _not_ the result of such optimization. Fun Theory also highlights the flaws of any particular religion's perfect afterlife - you wouldn't want to go to their Heaven.
 
-The argument against Enlightenment
-----------------------------------
+## The argument against Enlightenment
 
 Some critiques of [[Transhumanism|transhumanism]] (and related fields such as cryonics or lifespan extension) suggest that human enhancement would be accompanied boredom and the end of fun as we know it. For example: "if we self-improve human minds to extreme levels of intelligence, all challenges known today may bore us." Likewise, "if superhumanly intelligent machines take care of our every need, it is apparent that no challenges nor fun will remain."
 
 However, we can work towards determining whether and how the universe will offer, or whether we ourselves can create, ever more complex and sophisticated opportunities to delight, entertain and challenge ever more powerful and resourceful minds.
 
-The concept of Utopia
----------------------
+## The concept of Utopia
 
 Transhumanists are usually seen as working towards a better human future. This future is sometimes conceptualized, as George Orwell [aptly describes it](http://www.orwell.ru/library/articles/socialists/english/e_fun), as Utopia:
 
@@ -35,8 +33,7 @@ Transhumanists are usually seen as working towards a better human future. This f
 
 Imagining this perfect future where every problem is solved and where there is constant peace and rest--as seen, a close parallel to several religious Heavens--rapidly leads to the conclusion that no one would actually want to live there.
 
-Complex values and fun theory's solution
-----------------------------------------
+## Complex values and fun theory's solution
 
 A key insight of fun theory, in its current embryonic form, is that _eudaimonia_ \- the classical framework where happiness is the ultimate human goal - is [[Complexity of Value|complicated]]. That is, there are many properties which contribute to a life worth living. We humans require many things to experience a fulfilled life: Aesthetic stimulation, pleasure, love, social interaction, learning, challenge, and much more.
 
@@ -46,14 +43,12 @@ Enhanced humans are also seen to have the value system of humans today, but we m
 
 Fun theory thus seeks to let us keep our curiosity and love of learning intact, while preventing the extremes of boredom possible in a transhuman future if our strongly boosted intellects have exhausted all challenges. More broadly, fun theory seeks to allow humanity to enjoy life when all needs are easily satisfied and avoid the fall into the un-fun utopian futures in literature.
 
-External links
---------------
+## External links
 
 *   George Orwell, [Why Socialists Don't Believe in Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
 *   David Pearce, [Paradise Engineering](http://paradise-engineering.com/) and [The Hedonistic Imperative](http://www.hedweb.com/hedab.htm) ([[Abolitionism]]) provides a more nuanced alternative to wireheading.
 
-See also
---------
+## See also
 
 *   [[The Fun Theory Sequence]]
 *   [[Happiness]]

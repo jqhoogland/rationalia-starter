@@ -17,8 +17,7 @@ These posts **should not be read** until having made a very serious effort on yo
 
 *Related Pages:* *[[Consciousness|Consciousness]]**,* *[[Free Will|Free Will]]**,* *[[Philosophy|Philosophy]]**,* *[[Reductionism|Reductionism]]**, *
 
-Blog posts
-----------
+## Blog posts
 
 (Items in italics can be skipped if in a rush.)
 

@@ -1,11 +1,14 @@
 ---
 _id: pwK9RsvCdpPgKmrf6
 title: Science Isn't Enough
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T13:14:36.514Z'
+aliases:
+  - Science Isn't Enough
+synchedAt: '2022-08-29T17:16:36.907Z'
 ---
 # Science Isn't Enough
 

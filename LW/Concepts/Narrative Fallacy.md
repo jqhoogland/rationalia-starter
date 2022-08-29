@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T10:47:52.575Z'
 
 —Nassim Nicholas Taleb, The Black Swan
 
-Blog posts
-----------
+## Blog posts
 
 *   [Tell your Anti-Story](http://www.overcomingbias.com/2007/07/tell-your-anti-.html) by [[Robin Hanson]]
 *   [The Bad Guy Bias](http://www.overcomingbias.com/2008/12/the-bad-guy-bia.html) by Robin Hanson
@@ -24,15 +23,13 @@ Blog posts
 *   [Why You're Stuck in a Narrative](http://lesswrong.com/lw/14q/why_youre_stuck_in_a_narrative/) by [hegemonicon](http://www.coarsegra.in/)
 *   [Biases of Fiction](http://www.overcomingbias.com/2012/12/biases-of-fiction.html) by Robin Hanson
 
-External Links
---------------
+## External Links
 
 *   [Tyler Cowen on Stories](http://www.youtube.com/watch?v=RoEEDKwzNBw) ([transcript](http://lesswrong.com/r/discussion/lw/8w1/transcript_tyler_cowen_on_stories/))
 *   [Systems and Stories](http://meteuphoric.wordpress.com/2010/04/23/systems-and-stories/) by Katja Grace
 *   [Living in the Epilogue: Social Policy as Palliative Care](http://theviewfromhell.blogspot.com/2010/12/living-in-epilogue-social-policy-as.html) by Sister Y
 
-See also
---------
+## See also
 
 *   [[Privileging The Hypothesis|Privileging the hypothesis]], [[Confirmation Bias|Positive bias]]
 *   [[Mind-Killer|Mind-killer]]

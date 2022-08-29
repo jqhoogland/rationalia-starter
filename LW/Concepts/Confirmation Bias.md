@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:27.415Z'
 
 _See also:_ [[Motivated Skepticism|Motivated skepticism]], [[Availability Heuristic|Availability heuristic]], [[Surprise]], [[Narrative Fallacy|Narrative fallacy]], [[Privileging The Hypothesis|Privileging the hypothesis]], [[Heuristics & Biases|Heuristics and Biases]]
 
-External Links
---------------
+## External Links
 
 *   [Speculations on the Future of Science](https://www.edge.org/conversation/kevin_kelly-speculations-on-the-future-of-science) by Kevin Kelly
 *   [On the Failure to Eliminate Hypotheses in a Conceptual Task](http://psy2.ucsd.edu/~mckenzie/Wason1960QJEP.pdf) by P.C. Wason

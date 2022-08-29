@@ -12,7 +12,9 @@ synchedAt: '2022-08-29T10:40:16.040Z'
 ---
 # A Map That Reflects the Territory
 
-# Sequences
+> Best of 2018
+
+## Sequences
 
 - [[Epistemology (Sequence)]]
 - [[Agency (Sequence)]]

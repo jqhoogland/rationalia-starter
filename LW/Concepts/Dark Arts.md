@@ -23,8 +23,7 @@ An example from the [[Dark Arts of Rationality]]:
 > 2.  Intentional Compartmentalization
 > 3.  Modifying Terminal Goals
 
-Art vs. Technology
-------------------
+## Art vs. Technology
 
 Sometimes these arts are further augmented by the use of **persuasion technology**, such as broadcast advertising or PowerPoint slides. Persuasion technology may prevent the person who is being targeted from carefully deliberating on the intended message, or thinking up an effective response to it in real time.
 
@@ -34,8 +33,7 @@ The use of such techniques as whiteboards or PowerPoint slides brings additional
 
 Many futurists expect that a technological singularity of even a very mild character will lead to an explosion in the use of radically effective persuasive technology, or "cognotechnology"--a term coined by American military researchers at the Lawrence Livermore Laboratories. The collection and distribution of information about people may spiral out beyond any feasible control, perhaps even comprising their inner thought processes; cognitive monitoring may range from non-intrusive body monitoring as seen in a [polygraph](https://wiki.lesswrong.com/wiki/polygraph) to outright [brain emulation](https://wiki.lesswrong.com/wiki/brain_emulation). In this scenario, persuasion technology may easily blend over into outright mind control. This is clearly a rather paranoiac and dystopian scenario; nevertheless, the fact that it is being seriously discussed has persuasive potential in itself, such as for directing funding for research into guaranteed [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), as opposed to naïvely pursuing expanded funding for neuroscience or artificial intelligence.
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Against Propaganda](http://robinhanson.typepad.com/overcomingbias/2009/02/against-propaganda-.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
 *   [Lying With Style](http://www.overcomingbias.com/2009/03/deceptive-writing-styles.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
@@ -44,13 +42,11 @@ Notable Posts
 *   [The Dark Arts - Preamble](https://lessestwrong.com/lw/2v2/the_dark_arts_preamble) by [Aurini](http://www.staresattheworld.com/)
 *   [The Dark Arts: A Beginner's Guide](https://lessestwrong.com/lw/9iw/the_dark_arts_a_beginners_guide/) by [faul_sname](http://lesswrong.com/user/faul_sname/overview/)
 
-Other Links
------------
+## Other Links
 
 *   [Meta-commentary on this terminology](https://lessestwrong.com/lw/b1/persuasiveness_vs_soundness/789)
 
-See Also
---------
+## See Also
 
 *   [Anti-epistemology](https://lessestwrong.com/tag/anti-epistemology)
 *   [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper)

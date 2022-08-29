@@ -15,14 +15,12 @@ There are no rules requiring minds to value life, liberty or the pursuit of happ
 
 *Related tags:* [[Complexity of Value|Complexity of Value,]] Orthogonality Thesis, [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip Maximizer,]] Ethics & Morality
 
-Blog posts
-----------
+## Blog posts
 
 *   [Humans in Funny Suits](http://lesswrong.com/lw/so/humans_in_funny_suits/)
 *   [Sorting Pebbles Into Correct Heaps](http://lesswrong.com/lw/sy/sorting_pebbles_into_correct_heaps/)
 
-See also
---------
+## See also
 
 *   [[Giant Cheesecake Fallacy|Giant cheesecake fallacy]]
 *   [[Complexity of Value|Complexity of value]]

@@ -30,16 +30,14 @@ Some of the key ideas of evolutionary psychology are these:
 *   Evolution's purposes also differ from our own purposes. We are built to deceive ourselves because self-deceivers were more effective liars in ancestral political disputes; and this fact about our underlying brain design doesn't change when we try to make a moral commitment to truth and rationality.
 *   Although human beings do absorb significant additional complexity in the form of culture, we don't absorb it in a fully general way, but rather, in the way that we [evolved to absorb it](https://wiki.lesswrong.com/wiki/Detached_lever_fallacy). That's why the Soviets couldn't raise perfect communist children. Children are programmed to absorb their parents' language, say, but there is no environment which evokes the response of perfect altruism in human children.
 
-External links
---------------
+## External links
 
 *   [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf) by Leda Cosmides and John Tooby.
 *   [Evolutionary Psychology: A Primer](http://www.cep.ucsb.edu/primer.html) by Leda Cosmides and John Tooby.
 *   [“Darwinian Psychologist” Straw Man’s Ass Kicked](http://hplusmagazine.com/2009/11/23/darwinian-psychologist-straw-mans-ass-kicked/)
 *   [The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology](http://www.amazon.com/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996) \- popular book by Robert Wright.
 
-See also
---------
+## See also
 
 *   [[Evolution]]
 *   [Stupidity of evolution](https://wiki.lesswrong.com/wiki/Stupidity_of_evolution), [evolution as alien god](https://wiki.lesswrong.com/wiki/Evolution_as_alien_god)

@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:09:12.112Z'
 
 In 2011, [Alexander Kruel](http://kruel.co) (XiXiDu) started a Q&A style **interview series asking various people about their perception of artificial intelligence** and possible risks associated with it.
 
-Interviews
-----------
+## Interviews
 
 A list of all interviews:
 
@@ -35,8 +34,7 @@ A list of all interviews:
 *   [Abram Demski](http://lesswrong.com/lw/9fz/qa_with_abram_demski_on_risks_from_ai/)
 *   [Dr. Richard Carrier](http://lesswrong.com/r/discussion/lw/8tt/qa_with_richard_carrier_on_risks_from_ai/)
 
-Questions
----------
+## Questions
 
 The current set of questions:
 
@@ -47,8 +45,7 @@ The current set of questions:
 *   How important is it to research risks associated with artificial intelligence that is good enough at general reasoning (including science, mathematics, engineering and programming) to be capable of radical self-modification, before attempting to build one?
 *   What probability do you assign to the possibility of human extinction within 100 years as a result of AI capable of self-modification (that is not provably non-dangerous, if that is even possible)? P(human extinction by AI | AI capable of self-modification and not provably non-dangerous is created)
 
-Mail Template
--------------
+## Mail Template
 
 > The exact wording of the email:
 > 
@@ -72,8 +69,7 @@ Mail Template
 > 
 > ADDRESS
 
-See also
---------
+## See also
 
 *   [[Muehlhauser Interview Series On AGI|Muehlhauser interview series on AGI]]
 *   [When Will AI Be Created?](http://intelligence.org/2013/05/15/when-will-ai-be-created/)

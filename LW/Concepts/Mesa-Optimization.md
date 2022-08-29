@@ -17,8 +17,7 @@ Example: Natural selection is an optimization process that optimizes for reprodu
 
 In the context of AI alignment, the concern is that a base optimizer (e.g., a gradient descent process) may produce a learned model that is itself an optimizer, and that has unexpected and undesirable properties. Even if the gradient descent process is in some sense "trying" to do exactly what human developers want, the resultant mesa-optimizer will not typically be trying to do the exact same thing.[^1^](https://lessestwrong.com/tag/mesa-optimization?revision=0.0.3#fn1)
 
-History
--------
+## History
 
 Previously work under this concept was called *Inner Optimizer* or *Optimization Daemons.*
 
@@ -31,21 +30,18 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 *   ["Are daemons a problem for ideal agents?"](https://agentfoundations.org/item?id=1281) (2017-02-11)
 *   ["Maximally efficient agents will probably have an anti-daemon immune system"](https://agentfoundations.org/item?id=1290) (2017-02-23)
 
-See also
---------
+## See also
 
 *   [[Inner Alignment]]
 *   [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
 *   [Thou Art Godshatter](https://lessestwrong.com/lw/l3/thou_art_godshatter/)
 
-References
-----------
+## References
 
 1.  ["Optimization daemons"](https://arbital.com/p/daemons/). Arbital.
 2.  Wei Dai. ['"friendly" humans?'](http://sl4.org/archive/0312/7421.html) December 31, 2003.
 
-External links
---------------
+## External links
 
 [Video by Robert Miles](https://www.youtube.com/watch?v=bJLcIBixGj8)
 

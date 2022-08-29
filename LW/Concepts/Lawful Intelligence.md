@@ -15,8 +15,7 @@ The startling and counterintuitive notion - contradicting both surface appearanc
 
 While this is a complete heresy according to the standard religion of Silicon Valley, there are some good mathematical reasons for believing it.
 
-Blog posts
-----------
+## Blog posts
 
 **Preliminaries:**
 
@@ -43,8 +42,7 @@ Blog posts
 *   [Failure By Analogy](http://lesswrong.com/lw/vx/failure_by_analogy/) and [Failure By Affective Analogy](http://lesswrong.com/lw/vy/failure_by_affective_analogy/)
 *   [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
 
-See also
---------
+## See also
 
 *   [[Futility of Chaos|Futility of chaos]]
 *   [[Universal Law|Universal law]]

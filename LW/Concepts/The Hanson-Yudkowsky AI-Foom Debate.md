@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:05:32.520Z'
 
 In late 2008, an extensive and long-awaited debate about the [Technological Singularity](https://wiki.lesswrong.com/wiki/Technological_Singularity) occurred on [[Overcoming Bias]], mainly between [[Robin Hanson]] and [[Eliezer Yudkowsky]]. It focused on the likelihood of [hard AI takeoff](https://wiki.lesswrong.com/wiki/hard_takeoff) (**"**[**FOOM**](https://wiki.lesswrong.com/wiki/FOOM)**"**), the need for a theory of [Friendliness](https://wiki.lesswrong.com/wiki/Friendly_AI), and the future of [AGI](https://wiki.lesswrong.com/wiki/AGI), [[Whole Brain Emulation|whole brain emulation]], and [[Recursive Self-Improvement|recursive self-improvement]] in general. A stand-up debate on the same themes took place at *Jane Street Capital* in June 2011, and Hanson made a further post in 2014.
 
-See Also
---------
+## See Also
 
 *   [AI Takeoff](/tag/ai-takeoff)
 *   [[Intelligence Explosion|Intelligence explosion]]
@@ -27,8 +26,7 @@ The best resource for most readers new to the debate will be [MIRI](https://wiki
 *   Kaj Sotala's summary and analysis of the debate, and
 *   a 2013 technical report on AI takeoff dynamics (“intelligence explosion microeconomics”) written by Yudkowsky.
 
-Prologue
---------
+## Prologue
 
 *   [Fund UberTool?](http://www.overcomingbias.com/2008/11/fund-ubertool.html) by [[Robin Hanson]]
 *   [Engelbart as UberTool?](http://www.overcomingbias.com/2008/11/engelbarts-uber.html) by [[Robin Hanson]]
@@ -40,8 +38,7 @@ Prologue
 *   [Abstraction, Not Analogy](http://www.overcomingbias.com/2008/11/abstraction-vs.html) by [[Robin Hanson]]
 *   [Whence Your Abstractions?](http://lesswrong.com/lw/w1/whence_your_abstractions/) by [[Eliezer Yudkowsky]]
 
-Main sequence
--------------
+## Main sequence
 
 *   [AI Go Foom](http://www.overcomingbias.com/2008/11/ai-go-foom.html) by [[Robin Hanson]]
 *   [Optimization and the Singularity](http://lesswrong.com/lw/rk/optimization_and_the_singularity/) by [[Eliezer Yudkowsky]]
@@ -87,23 +84,20 @@ Main sequence
 *   [Two Visions Of Heritage](http://www.overcomingbias.com/2008/12/two-visions-of.html) by [[Robin Hanson]]
 *   [The Mechanics of Disagreement](http://lesswrong.com/lw/wo/the_mechanics_of_disagreement/) by [[Eliezer Yudkowsky]]
 
-Conclusion
-----------
+## Conclusion
 
 *   [What Core Argument?](http://www.overcomingbias.com/2008/12/what-core-argument.html) by [[Robin Hanson]]
 *   [What I Think, If Not Why](http://lesswrong.com/lw/wp/what_i_think_if_not_why/) by [[Eliezer Yudkowsky]]
 *   [Not Taking Over the World](http://lesswrong.com/lw/wt/not_taking_over_the_world/) by [[Eliezer Yudkowsky]]
 
-Postscript
-----------
+## Postscript
 
 *   [We Agree: Get Froze](http://www.overcomingbias.com/2008/12/we-agree-get-froze.html) by [[Robin Hanson]]
 *   [You Only Live Twice](http://lesswrong.com/lw/wq/you_only_live_twice/) by [[Eliezer Yudkowsky]]
 *   [Debating Yudkowsky](http://www.overcomingbias.com/2011/07/debating-yudkowsky.html) by [[Robin Hanson]]
 *   [Foom Debate, Again](http://www.overcomingbias.com/2013/02/foom-debate-again.html) by [[Robin Hanson]]
 
-Jane Street debate
-------------------
+## Jane Street debate
 
 A stand-up debate between Hanson and Yudkowsky on the same themes took place on Wednesday June 30 2011 at *Jane Street Capital*.
 
@@ -113,13 +107,11 @@ A stand-up debate between Hanson and Yudkowsky on the same themes took place on 
 *   [Full transcript](https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk)
 *   [Partial transcript](http://lesswrong.com/lw/bug/partial_transcript_of_the_hansonyudkowsky_june/) by Chris Hallquist
 
-Summary and analysis
---------------------
+## Summary and analysis
 
 In Spring 2012 [[Luke Muehlhauser]] asked [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala) to write a summary and analysis of the debate; he made a [draft of that analysis](http://lesswrong.com/lw/fih/a_summary_of_the_hansonyudkowsky_foom_debate/) available in November 2012. The final version of the summary is included in the [ebook](https://intelligence.org/ai-foom-debate/).
 
-Post-book material
-------------------
+## Post-book material
 
 Not included in MIRI's 2013 book on the debate:
 

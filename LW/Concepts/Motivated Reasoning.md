@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T11:05:09.274Z'
 
 *Related*: [[Confirmation Bias]], [[Rationalization]], [[Self-Deception|Self-deception]] 
 
-Notable Posts
--------------
+## Notable Posts
 
 *   [Semantic Stopsigns](https://lessestwrong.com/lw/it/semantic_stopsigns/)
 *   [Explain/Worship/Ignore?](https://lessestwrong.com/lw/j2/explainworshipignore/)
@@ -24,8 +23,7 @@ Notable Posts
 *   [Motivated Stopping and Motivated Continuation](https://lessestwrong.com/lw/km/motivated_stopping_and_motivated_continuation/)
 *   [The Bottom Line](https://lesswrong.com/lw/js/the_bottom_line/)
 
-See also
---------
+## See also
 
 *   [Rationalization](https://lessestwrong.com/tag/rationalization)
 *   [Motivated skepticism](https://lessestwrong.com/tag/motivated-skepticism)

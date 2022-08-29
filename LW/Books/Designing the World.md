@@ -10,11 +10,12 @@ tags:
   - Book
 synchedAt: '2022-08-29T10:40:16.042Z'
 ---
+
 # Designing the World
 
 # Sequences
 
-- [[Economics and Efficiency]]
-- [[Community and Cooperation]]
-- [[Futurism and Forecasting]]
-- [[Parables and Prayers]]
+- [[Economics and Efficiency (Sequence)]]
+- [[Community and Cooperation (Sequence)]]
+- [[Futurism and Forecasting (Sequence)]]
+- [[Parables and Prayers (Sequence)]]

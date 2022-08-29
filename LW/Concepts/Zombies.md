@@ -25,16 +25,14 @@ Non-physicalists use the apparent conceivability of p-zombies to argue that it i
 
   
 
-**External links**
-------------------
+## **External links**
 
 *   [Zombies](http://plato.stanford.edu/entries/zombies/), Stanford Encyclopedia of Philosophy
 *   [Zombies on the web](http://consc.net/zombies.html) by [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
 
   
 
-**See also**
-------------
+## **See also**
 
 *   Tags: [[Consciousness]]
 *   Sequences: [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo)

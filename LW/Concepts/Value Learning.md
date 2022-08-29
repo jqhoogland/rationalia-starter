@@ -17,13 +17,11 @@ Although there are many ways to incorporate human values in an AGI (e.g.: [Coher
 
 To solve all these problems, Dewey proposes a [utility function](https://lessestwrong.com/tag/utility-functions) maximizer, who considers all possible utility functions weighted by their probabilities: "\[W\]e propose uncertainty over utility functions. Instead of providing an agent one utility function up front, we provide an agent with a pool of possible utility functions and a probability distribution P such that each utility function can be assigned probability P(Ujyxm) given a particular interaction history \[yxm\]. An agent can then calculate an expected value over possible utility functions given a particular interaction history" He concludes saying that although it solves many of the mentioned problems, this method still leaves many open questions. However it should provide a direction for future work.
 
-References
-----------
+## References
 
 *   [Dewey’s paper](http://www.danieldewey.net/learning-what-to-value.pdf)
 
-See Also
---------
+## See Also
 
 *   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 *   [Reinforcement learning](https://lessestwrong.com/tag/reinforcement-learning)

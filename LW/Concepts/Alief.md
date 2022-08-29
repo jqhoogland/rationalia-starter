@@ -19,14 +19,12 @@ Gendler (2008) also introduced a related pun of "cesire vs desire"; a desire ("D
 
 *Related tags:* [[Belief]], [[Emotions|Emotion]], 
 
-Blog posts
-----------
+## Blog posts
 
 *   [The Mystery of the Haunted Rationalist](https://www.lesswrong.com/lw/1l/the_mystery_of_the_haunted_rationalist/)
 *   [Living Luminously](https://www.lesswrong.com/lw/1xh/living_luminously/)
 
-See also
---------
+## See also
 
 *   [[Hollywood Rationality|Hollywood rationality]]
 *   [[Corrupted Hardware|Corrupted hardware]]

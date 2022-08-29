@@ -16,10 +16,10 @@ This truth thing seems pretty handy. Why, then, do we keep jumping to conclusion
 
 # Sequences
 
-- [[Overly Convenient Excuses]]
-- [[Politics and Rationality]]
-- [[Against Rationalization]]
-- [[Against Doublethink]]
-- [[Seeing with Fresh Eyes]]
-- [[Death Spirals]]
-- [[Letting Go]]
+- [[Overly Convenient Excuses (Sequence)]]
+- [[Politics and Rationality (Sequence)]]
+- [[Against Rationalization (Sequence)]]
+- [[Against Doublethink (Sequence)]]
+- [[Seeing with Fresh Eyes (Sequence)]]
+- [[Death Spirals (Sequence)]]
+- [[Letting Go (Sequence)]]

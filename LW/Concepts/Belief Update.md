@@ -15,8 +15,7 @@ What you do to your beliefs, opinions and cognitive structure when new [[Evidenc
 
 [Cox's theorem](https://wiki.lesswrong.com/wiki/Cox's_theorem) says, roughly, that if your beliefs at any given time take the form of an assignment of a numerical "plausibility score" to every proposition, and if they satisfy a few plausible axioms, then your plausibilities must effectively be probabilities obeying the usual laws of probability theory, and your updating procedure must be the one implied by [[Bayes' Theorem|Bayes' theorem]].
 
-See also
---------
+## See also
 
 *   [[Evidence]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
 *   [[Belief]]

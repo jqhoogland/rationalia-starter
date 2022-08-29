@@ -1,11 +1,14 @@
 ---
 _id: 6xgy8XYEisLk3tCjH
 title: The Laws Governing Belief
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T13:14:36.544Z'
+aliases:
+  - The Laws Governing Belief
+synchedAt: '2022-08-29T17:16:36.915Z'
 ---
 # The Laws Governing Belief
 

@@ -19,7 +19,6 @@ There is an argument that the use of willpower is undesirable. The use of willpo
   
 **Related:** [Akrasia](https://www.lessestwrong.com/tag/akrasia)
 
-Resources
----------
+## Resources
 
 *   The writings on [Minding Our Way](http://mindingourway.com/) concerning productivity.

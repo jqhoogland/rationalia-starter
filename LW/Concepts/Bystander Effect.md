@@ -15,8 +15,7 @@ synchedAt: '2022-08-29T10:48:01.431Z'
 
 —Safety Canada, January 2004, ["Don't Just Stand There - Do Something"](http://www.safety-council.org/info/community/bystander.html)
 
-See also
---------
+## See also
 
 *   [[Conformity Bias|Conformity bias]]
 *   [[Shut Up and Multiply|Shut up and multiply]]

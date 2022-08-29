@@ -15,8 +15,7 @@ A **fallacy** is generally considered to be an error in reasoning. It refers bot
 
 *Related:* [[Disagreement]], [[Heuristics & Biases]]
 
-Informal vs Formal Fallacy
---------------------------
+## Informal vs Formal Fallacy
 
 An ***informal fallacy*** refers to a flawed argument, where the premises do not support the conclusion. It can, however, have a valid logical format. This type of fallacy is commonly divided in two main groups: *material fallacies* and *verbal fallacies*.
 
@@ -30,15 +29,13 @@ Verbal fallacies, on the other hand, deal with the way the words are used. These
 
 A ***formal fallacy***, contrasting with informal fallacies, refers to a pattern of reasoning which is wrong due to a flaw in the logical structure of the argument. As such, this deductive fallacy does not imply any information about the premises or the conclusion - its their connection that's wrongly stated. Both can be correct and the argument can be wrong because the conclusion doesn't follow from the premises as it is said to.
 
-False Fallacies & Awareness
----------------------------
+## False Fallacies & Awareness
 
 Matters can be further complicated by arguing parties incorrectly claiming that an assertion is false due to a fallacy. For example, if one party was to declare “Albert Einstein has claimed that time and space are relative qualities of the Universe.”, another party might responded by saying that this is an ‘’’argument from authority’’’. However, Albert Einstein’s claims are based on detailed mathematical models that identify him as an expert in this field of inquiry, rather than a casual observer. We are thus facing a kind of meta-fallacy which is wrong by itself.
 
 Recognizing fallacies in everyday arguments can be difficult due to complicated patterns of communication that mask the logical connections between statements. At the same time, informal fallacies can also take advantage of the emotional or psychological weaknesses of the listener. It is thus important to develop the ability to recognize them in arguments, so as to reduce the likelihood of being tricked or cheated. This ability becomes even more important when dealing with today's mass media, where the intention is to influence behavior and change beliefs, from political campaigns to simple local newspapers.
 
-Further Reading & References
-----------------------------
+## Further Reading & References
 
 *   Aristotle's [On Sophistical Refutations](http://etext.library.adelaide.edu.au/a/aristotle/sophistical/)
 *   Damer, T. Edward (2008). Attacking Faulty Reasoning: A Practical Guide to Fallacy-free Arguments (6 ed.). Cengage Learning. pp. 130. ISBN 978-0-495-09506-4.
@@ -46,8 +43,7 @@ Further Reading & References
 *   [Logical Fallacies](http://www.iep.utm.edu/fallacy/) A peer-reviewed academic resource.
 *   [Infinite regression](http://en.wikipedia.org/wiki/Infinite_regress) Wikipedia entry
 
-See Also
---------
+## See Also
 
 *   [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
 *   [Disagreement](https://lessestwrong.com/tag/disagreement)

@@ -19,8 +19,7 @@ Not all signaling is about abilities. Signaling can also be about personality, c
 
 **Countersignaling** is signaling that a naive observer might take to mean that one is the *opposite* of X, when in fact, one is X, used as a means to signal that one is, in fact, X. For example, aristocrats ("old money") may forgo gaudy bling in order to signal that they are not *nouveau riche* (new money), which may lead some people to incorrectly assume that they are not rich.
 
-Blog posts
-----------
+## Blog posts
 
 by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
 
@@ -38,15 +37,13 @@ by others
 *   [Declare Your Signaling and Hidden Agendas](https://lessestwrong.com/lw/b2/declare_your_signaling_and_hidden_agendas/) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
 *   [Modularity, Signaling, and Belief in Belief](https://lessestwrong.com/lw/8ev/modularity_signaling_and_belief_in_belief/) by Kaj Sotala
 
-See also
---------
+## See also
 
 *   [Status](https://lessestwrong.com/tag/social-status)
 *   [Near/far thinking](https://lessestwrong.com/tag/near-far-thinking)
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers), [Superstimulus](https://lessestwrong.com/tag/superstimuli)
 *   [Goodhart's law](https://lessestwrong.com/tag/goodhart-s-law)
 
-External links
---------------
+## External links
 
 *   [Robin Hanson on Signaling (Econtalk Podcast)](http://www.econtalk.org/archives/2008/05/hanson_on_signa.html)

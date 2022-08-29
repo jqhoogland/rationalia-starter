@@ -23,8 +23,7 @@ Regardless of the particular decision theory, it is generally agreed that if you
 
 Eliezer listed this in his 2009 post [Timeless Decision Theory Problems I can't Solve](https://www.lesswrong.com/posts/c3wWnvgzdbRhNnNbQ/timeless-decision-theory-problems-i-can-t-solve), although that was written before [[Updateless Decision Theory]].
 
-Variants
---------
+## Variants
 
 The [Counterfactual Prisoner's Dilemma](https://www.lesswrong.com/posts/sY2rHNcWdg94RiSSR/the-counterfactual-prisoner-s-dilemma) is a symmetric variant of he original independently suggested by Chris Leong and Cousin_it:
 
@@ -36,13 +35,11 @@ In [Logical Counterfactual Mugging](https://www.lesswrong.com/posts/rqt8RSKPvh4G
 
 The [Counterfactual Mugging Poker Game](https://www.lesswrong.com/posts/g3PwPgcdcWiP33pYn/counterfactual-mugging-poker-game) is a somewhat complicated variant by Scott Garrabrant. Player A receives a single card that is either high or low, which they can then reveal if they so desire. Player B then shares their true probability estimate that player A has a high card. Player B is essentially perfect at predicting your behaviour, but doesn't get to see you after you've drawn the card. Additionally, player A loses \\(p^2\\) dollars. If you show the card if it is low, then you lose 0. However, since B can predict your behaviour, this means that if the card had been high then player B would be able to guess that you had a high card even if you hadn't revealed it. This would lose you a whole dollar and on average you'd be better if you always showed it. Garrabrant states that he prefers this scenario because Counterfactual Mugging feels like it is trying to trick you, while in this scenario you are the one creating the Counterfactual Mugging like situation to withhold information.
 
-Comparison to Other Problem
----------------------------
+## Comparison to Other Problem
 
 In [Two Types of Updatelessness](https://www.lesswrong.com/posts/pneKTZG9KqnSe2RdQ/two-types-of-updatelessness), makes a distinction between all-upside updatelessness and mixed-upside updatelessness. In all-upside case, utilising an updateless decision theory provides a better result in the current situation, while in a mixed-upside case the benefits go to other possible selves. Unlike [[Newcomb's Problem]] or [[Parfit's Hitchhiker|Parfait's Hitchhiker]], Counterfactual Mugging is a mixed-upside case.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Counterfactual Mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
 *   [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) by [[Eliezer Yudkowsky]]
@@ -50,14 +47,12 @@ Blog posts
 *   [The sin of updating when you can change whether you exist](http://lesswrong.com/lw/jrm/the_sin_of_updating_when_you_can_change_whether/) by Benya Fallenstein
 *   [Counterfactual Mugging: Why should you Pay?](https://www.lesswrong.com/posts/h9qQQA3g8dwq6RRTo/counterfactual-mugging-why-should-you-pay)\- Question by Chris Leong
 
-External links
---------------
+## External links
 
 *   [Conterfactual Blackmail (of oneself)](http://ordinaryideas.wordpress.com/2011/12/31/counterfactual-blackmail-of-oneself/) by [Paul F. Christiano](http://lesswrong.com/user/paulfchristiano)
 *   [Thoughts on Updatelessness](https://casparoesterheld.com/2016/11/21/thoughts-on-updatelessnes/) by Caspar Oesterheld
 
-See also
---------
+## See also
 
 *   [[Decision Theory|Decision theory]]
 *   [[Acausal Trade|Acausal trade]]

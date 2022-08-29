@@ -21,13 +21,11 @@ The Roadmap combines an earlier whitepaper that was circulated among workshop pa
 
 Two critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#fn2); Sandberg has acknowledged them as worthy of reply but has yet to do so.
 
-External links
---------------
+## External links
 
 *   [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 
-References
-----------
+## References
 
 1.  [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)
 2.  [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)

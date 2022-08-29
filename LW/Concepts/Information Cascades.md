@@ -13,8 +13,7 @@ synchedAt: '2022-08-29T11:05:16.244Z'
 
 An **information cascade** occurs when people update on other people's beliefs, which may individually be a [[Aumann's Agreement Theorem|rational decision]] but may still result in a self-reinforcing community opinion that does not necessarily reflect reality.
 
-See Also
---------
+## See Also
 
 *   [Groupthink](/tag/groupthink)
 *   [Egalitarianism](https://lessestwrong.com/tag/egalitarianism), [Modesty argument](https://lessestwrong.com/tag/modesty-argument)

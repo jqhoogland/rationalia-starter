@@ -19,19 +19,16 @@ For example, suppose I tell you that the original author of this paragraph wore 
 
 The [[Science|scientific method]] can be viewed as a special standard of admissible evidence protecting a pool of extra-strong beliefs. Conversely, a fact can be rationally guessable without it generating the specially strong evidence which would qualify knowledge of the fact as "scientific". Just as a police detective may rationally know the identity of the local crime boss without having the special evidence needed to prove it *in court*.
 
-Main post
----------
+## Main post
 
 *   [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
 
-Other posts
------------
+## Other posts
 
 *   [Is Molecular Nanotechnology "Scientific"?](http://lesswrong.com/lw/io/is_molecular_nanotechnology_scientific/)
 *   [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/) and [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)
 
-See also
---------
+## See also
 
 *   [[Evidence]], [[Standard of Evidence|Standard of evidence]]
 *   [[Bayes' Theorem|Bayes' theorem]], [[Conservation of Expected Evidence|Conservation of expected evidence]]

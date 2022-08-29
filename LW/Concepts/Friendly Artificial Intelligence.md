@@ -46,8 +46,7 @@ An **open problem in Friendly AI** (**OPFAI**) is a problem in mathematics, comp
 Links
 =====
 
-Blog posts
-----------
+## Blog posts
 
 *   [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
 *   [Not Taking Over the World](http://lesswrong.com/lw/wt/not_taking_over_the_world/)
@@ -58,8 +57,7 @@ Blog posts
 *   [Metaphilosophical Mysteries](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/) by Wei Dai
 *   [The Urgent Meta-Ethics of Friendly Artificial Intelligence](http://lesswrong.com/lw/43v/the_urgent_metaethics_of_friendly_artificial/) by [lukeprog](http://lukeprog.com/)
 
-External links
---------------
+## External links
 
 *   [About Friendly AI](http://friendly-ai.com/)
 *   [14 objections against AI/Friendly AI/The Singularity answered](http://www.xuenay.net/objections.html) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
@@ -76,8 +74,7 @@ See also
 *   [[Fun Theory|Fun theory]]
 *   [[Detached Lever Fallacy|Detached lever fallacy]]
 
-References
-----------
+## References
 
 *   Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press.
 *   Cindy Mason (2015). "[Engineering Kindness: Building A Machine With Compassionate Intelligence](https://www.academia.edu/15865212/Engineering_Kindness_Building_A_Machine_With_Compassionate_Intelligence)". International Journal of Synthetic Emotion. ([\[2\]](http://www.emotionalmachines.org/papers/engineeringkindnesswebcopy.pdf))

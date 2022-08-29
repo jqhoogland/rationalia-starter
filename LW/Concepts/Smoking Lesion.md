@@ -19,13 +19,11 @@ synchedAt: '2022-08-29T11:09:14.381Z'
 
 Naive [causal decision theory](http://en.wikipedia.org/wiki/Causal_decision_theory) says "yes", since smoking in this world has no causal effect on whether or not you get cancer. You either get cancer or not; in both cases, smoking is preferred. Naive [evidential decision theory](http://en.wikipedia.org/wiki/Evidential_decision_theory) says "no", because smoking is strongly *correlated* with cancer. [[Functional Decision Theory]] says "yes": your decision procedure in this problem doesn't influence whether or not you get cancer - and with or without cancer, smoking is preferred.
 
-Blog posts
-----------
+## Blog posts
 
 *   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular)
 
-See also
---------
+## See also
 
 *   [[Decision Theory|Decision theory]]
 *   [[Newcomb's Problem|Newcomb's problem]]
