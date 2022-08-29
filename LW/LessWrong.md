@@ -24,3 +24,8 @@ The [[Reading Orders]] page lists a few different ways you might want to approac
 - Look up a relevant [[Concepts (LW)|concept]] and move on from there.
 
 All of LessWrong's content depends on all the other content, so there isn't one correct way to go through everything. Just try stuff out. [[Steelmanning Divination|Embrace randomness]] and tap the random button to work your way through the content as the pseudo-random number generators wish it.
+
+
+# Structure
+
+From top to bottom, LessWrong consists of "[[Collections]]", which consist of "[[Books]]", which consist of "[[Sequences]]", which consist of "[[Posts]]". Sequences may be further divided into "[[Chapters]]".

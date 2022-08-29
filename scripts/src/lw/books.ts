@@ -8,6 +8,7 @@ export interface Book {
     subtitle: string;
     slug: string;
     number: number;
+    author: string;
     contents: {
         markdown: string
     }
@@ -27,6 +28,7 @@ export const loadBooks = async (limit?: number) => {
                 title
                 subtitle
                 number
+                author
                 contents {
                     markdown
                 }
@@ -54,6 +56,7 @@ export const booksToMD = async () => {
             "---\n"
             + yaml.dump({
                 title: book.title,
+                subtitle: book.subtitle,
                 // author: book.author,
                 type: "book",
                 tags: [
@@ -66,19 +69,21 @@ export const booksToMD = async () => {
     }
 
     for (const book of db.books) {
-        if (!!book.title && book.sequences.length > 0) {
-            let mdFile = ""
-            mdFile += getFrontmatter(book)
-            mdFile += "\n\n"
-            mdFile += await fixLinks(book.contents?.markdown ?? "");
-            mdFile += "\n\n---\n\n"
-            mdFile += book.sequences.map(sequence => `- [[${fixTitle(sequence.title)}]]`).join("\n")
-
-            const name = fixTitle(book.title);
-
-
-            fs.writeFileSync(`../LW/Jargon/${name}.md`, mdFile)
+        // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
+        if (!book.title || book.sequences.length === 0 || book.title.startsWith("Book")) {
+            continue
         }
+        let mdFile = ""
+        mdFile += getFrontmatter(book)
+        mdFile += "\n\n"
+        mdFile += await fixLinks(book.contents?.markdown ? book.contents?.markdown + "\n\n" : "");
+        mdFile += "# Sequences\n\n"
+        mdFile += book.sequences.map(sequence => `- [[${fixTitle(sequence.title)}]]`).join("\n")
+
+        const name = fixTitle(book.title);
+
+
+        fs.writeFileSync(`../LW/Books/${name}.md`, mdFile)
     }
 }
 
