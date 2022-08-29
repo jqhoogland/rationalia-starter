@@ -1,11 +1,12 @@
 ---
 _id: n945eovrA3oDueqtq
 title: 2021 MIRI Conversations
+curatedOrder: 400
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.438Z'
+synchedAt: '2022-08-29T16:28:49.352Z'
 ---
 # 2021 MIRI Conversations
 

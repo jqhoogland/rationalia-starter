@@ -1,11 +1,12 @@
 ---
 _id: PtgH6ALi5CoJnPmGS
 title: The Methods of Rationality
+curatedOrder: 502
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.072Z'
+synchedAt: '2022-08-29T16:28:49.014Z'
 ---
 # The Methods of Rationality
 

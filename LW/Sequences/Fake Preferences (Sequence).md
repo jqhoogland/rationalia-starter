@@ -1,11 +1,12 @@
 ---
 _id: fqh9TLuoquxpducDb
 title: Fake Preferences
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.603Z'
+synchedAt: '2022-08-29T16:28:47.865Z'
 ---
 # Fake Preferences
 

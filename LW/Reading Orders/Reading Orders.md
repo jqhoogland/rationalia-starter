@@ -1,6 +1,6 @@
 # Recommended Order
 
-We recommend starting with the [[Highlights from the Sequences|H]], then moving on to the rest of the [[Rationality— A-Z|Sequences]], [[The Codex]], and [[HPMOR]].
+We recommend starting with the [[Highlights from the Sequences (Collection)|H]], then moving on to the rest of the [[Rationality— A-Z|Sequences]], [[The Codex]], and [[HPMOR]].
 
 # Alternative Orders
 

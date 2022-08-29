@@ -1,6 +1,6 @@
 # Collections
 
-- [[Highlights from the Sequences]]
+- [[Highlights from the Sequences (Collection)]]
 - [[Best of LessWrong]]
 - [[Rationality— A-Z]]
 - [[The Codex]]

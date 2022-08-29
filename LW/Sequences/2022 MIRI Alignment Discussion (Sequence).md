@@ -1,11 +1,12 @@
 ---
 _id: v55BhXbpJuaExkpcD
 title: 2022 MIRI Alignment Discussion
+curatedOrder: 494
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:49.683Z'
+synchedAt: '2022-08-29T16:28:47.049Z'
 ---
 # 2022 MIRI Alignment Discussion
 

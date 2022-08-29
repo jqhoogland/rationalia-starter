@@ -1,11 +1,12 @@
 ---
 _id: ZnSMHcWjRx6yT4H92
 title: LessWrong Political Prerequisites
+curatedOrder: 101
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.469Z'
+synchedAt: '2022-08-29T16:28:49.434Z'
 ---
 # LessWrong Political Prerequisites
 

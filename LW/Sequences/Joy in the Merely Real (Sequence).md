@@ -1,11 +1,12 @@
 ---
 _id: 6BFkmEgre7uwhDxDR
 title: Joy in the Merely Real
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.604Z'
+synchedAt: '2022-08-29T16:28:47.905Z'
 ---
 # Joy in the Merely Real
 

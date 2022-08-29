@@ -1,11 +1,12 @@
 ---
 _id: 9bvAELWc8y2gYjRav
 title: Value Theory
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.603Z'
+synchedAt: '2022-08-29T16:28:47.865Z'
 ---
 # Value Theory
 

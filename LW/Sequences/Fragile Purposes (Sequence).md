@@ -1,11 +1,12 @@
 ---
 _id: 3HyeNiEpvbQQaqeoH
 title: Fragile Purposes
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:51.288Z'
+synchedAt: '2022-08-29T16:28:48.431Z'
 ---
 # Fragile Purposes
 

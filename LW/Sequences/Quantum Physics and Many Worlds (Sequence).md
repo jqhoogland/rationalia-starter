@@ -1,11 +1,12 @@
 ---
 _id: Kqs6GR7F5xziuSyGZ
 title: Quantum Physics and Many Worlds
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.604Z'
+synchedAt: '2022-08-29T16:28:47.904Z'
 ---
 # Quantum Physics and Many Worlds
 

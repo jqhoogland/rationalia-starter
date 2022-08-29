@@ -1,11 +1,12 @@
 ---
 _id: fxynfGCSHpY4FmBZy
 title: Science and Rationality
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.604Z'
+synchedAt: '2022-08-29T16:28:47.904Z'
 ---
 # Science and Rationality
 

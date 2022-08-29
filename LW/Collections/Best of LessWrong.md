@@ -6,6 +6,7 @@ tags:
   - LessWrong
   - Collection
 synchedAt: '2022-08-29T11:17:15.364Z'
+href: https://www.lesswrong.com/collections/nmk3nLpQE89dMRzzN
 ---
 # Best of LessWrong
 
@@ -17,6 +18,8 @@ Those posts are collected in these Best Of LessWrong sequences. If you'd like to
 
 # Books
 
-- [[A Map That Reflects the Territory]]
-- [[The Engines of Cognition]]
-- [[The Carving of Reality]]
+- [[A Map That Reflects the Territory]] (2018)
+- [[The Engines of Cognition]] (2019)
+- [[The Carving of Reality]] (2020)
+
+See also: [[Bonus— Best Essays of LessWrong (Sequence)]]

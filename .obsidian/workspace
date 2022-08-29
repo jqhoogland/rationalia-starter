@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9765c21c927290aa",
+        "id": "f6ac9f9aebd597aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Books/The Carving of Reality.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ff4ee61bd20cd610",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LW/Concepts/Sequences.md",
+            "file": "LW/Collections/The Codex.md",
             "mode": "source",
             "source": false
           }
@@ -75,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Books/The Carving of Reality.md"
+                "file": "LW/Collections/The Codex.md"
               }
             }
           }
@@ -83,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5074996948242
+    "width": 492.5
   },
   "right": {
     "id": "5d9113a947b0f31a",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Books/The Carving of Reality.md",
+                "file": "LW/Collections/The Codex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,17 +162,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "9765c21c927290aa",
+  "active": "f6ac9f9aebd597aa",
   "lastOpenFiles": [
-    "LW/Concepts/Sequences.md",
-    "LW/Books.md",
-    "LW/Collections.md",
-    "LW/Books/The Carving of Reality.md",
-    "LW/Books/The Engines of Cognition.md",
-    "LW/Sequences/\"Why Not Just...\".md",
-    "LW/Books/A Map That Reflects the Territory.md",
-    "LW/Sequences/Bonus— Best Essays of LessWrong.md",
-    "LW/Sequences/Bah-Humbug Sequence.md",
-    "LW/Collections/Best of LessWrong.md"
+    "LW/Collections/Best of LessWrong.md",
+    "LW/Collections/Highlights from the Sequences (Collection).md",
+    "LW/Books/Further Reading (Highlights).md",
+    "LW/Collections/The Codex.md",
+    "LW/Collections/Rationality— A-Z.md",
+    "LW/Collections/HPMOR.md",
+    "LW/Sequences/1— The Methods of Rationality.md",
+    "LW/Sequences/6— HJPEV and the Philosopher's Stone.md",
+    "LW/Sequences/5— HJPEV and the Last Enemy.md",
+    "LW/Sequences/4— HJG and the Phoenix's Call.md"
   ]
 }

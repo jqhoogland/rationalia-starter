@@ -1,11 +1,12 @@
 ---
 _id: p3TndjYbdYaiWwm9x
 title: Reductionism 101
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.604Z'
+synchedAt: '2022-08-29T16:28:47.905Z'
 ---
 # Reductionism 101
 

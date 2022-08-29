@@ -1,11 +1,12 @@
 ---
 _id: 5ZhfGb9Sw98A9HdTQ
 title: This is a new sequence
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.072Z'
+synchedAt: '2022-08-29T16:28:49.014Z'
 ---
 # This is a new sequence
 

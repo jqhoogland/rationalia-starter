@@ -1,11 +1,12 @@
 ---
 _id: QyQcBpSur9SFyRuvB
 title: Alignment
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.468Z'
+synchedAt: '2022-08-29T16:28:49.434Z'
 ---
 # Alignment
 

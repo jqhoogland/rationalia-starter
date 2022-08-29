@@ -9,7 +9,7 @@ synchedAt: '2022-08-29T11:17:15.303Z'
 ---
 # Highlights from the Sequences
 
-"**The Sequences" **is a series of essays by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky). They describe how to avoid the typical failure modes of human reason and instead think in ways that more reliably lead to true and accurate beliefs. These essays are the foundational texts of [[Welcome to LessWrong!|LessWrong]].
+"**The Sequences**" is a series of essays by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky). They describe how to avoid the typical failure modes of human reason and instead think in ways that more reliably lead to true and accurate beliefs. These essays are the foundational texts of [[Welcome to LessWrong!|LessWrong]].
 
 To provide a quick and accessible introduction to [The Sequences](https://www.lesswrong.com/rationality), we have selected 50 of the best essays that capture some of the seminal ideas. 
 
@@ -18,5 +18,5 @@ To provide a quick and accessible introduction to [The Sequences](https://www.le
 *Art by Dall-E 2*
 
 # Books
-
+- [[Highlights from the Sequences (Book)]]
 - [[Further Reading (Highlights)]]

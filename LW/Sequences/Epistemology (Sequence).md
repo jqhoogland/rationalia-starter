@@ -1,11 +1,12 @@
 ---
 _id: Pavm47mqgjDAF7XYT
 title: Epistemology
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.466Z'
+synchedAt: '2022-08-29T16:28:49.433Z'
 ---
 # Epistemology
 

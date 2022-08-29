@@ -1,11 +1,12 @@
 ---
 _id: G2GDw3m4MJ5ixSM92
 title: The Blue-Minimizing Robot
+curatedOrder: 1
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.411Z'
+synchedAt: '2022-08-29T16:28:49.351Z'
 ---
 # The Blue-Minimizing Robot
 

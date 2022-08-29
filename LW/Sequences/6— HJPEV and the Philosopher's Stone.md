@@ -1,11 +1,12 @@
 ---
 _id: u7ciTcKteyx2hqdBh
 title: '6: HJPEV and the Philosopher''s Stone'
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.071Z'
+synchedAt: '2022-08-29T16:28:49.013Z'
 ---
 # 6: HJPEV and the Philosopher's Stone
 

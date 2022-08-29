@@ -96,7 +96,7 @@ export const sequencesToMD = async () => {
             continue
         }
         let mdFile = ""
-        mdFile += getFrontmatter(sequence, ['_id', 'title'], {type: "sequence", tags: ["LessWrong", "Sequence"]})
+        mdFile += getFrontmatter(sequence, ['_id', 'title', 'curatedOrder'], {type: "sequence", tags: ["LessWrong", "Sequence"]})
         mdFile += "\n\n"
         mdFile += await fixLinks(sequence.contents?.markdown ? sequence.contents?.markdown + "\n\n" : "");
         mdFile += "## Chapters\n\n"

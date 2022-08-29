@@ -18,7 +18,7 @@ LessWrong serves these purposes with its [library of rationality writings](https
 
 The [[Reading Orders]] page lists a few different ways you might want to approach the curriculum.
 
-- Start with [[Highlights from the Sequences|the highlighted posts]] (recommended).
+- Start with [[Highlights from the Sequences (Collection)|the highlighted posts]] (recommended).
 - Read through [[Rationality— A-Z|The Sequences]], [[HPMOR]], & [[The Codex]].
 - Follow one of alternative [[Reading Orders]] proposed by various LessWrong readers over the years.
 - Look up a relevant [[Concepts|concept]] and move on from there.

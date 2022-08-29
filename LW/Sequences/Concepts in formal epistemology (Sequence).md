@@ -1,11 +1,12 @@
 ---
 _id: FYMiCeXEgMzsB5stm
 title: Concepts in formal epistemology
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.470Z'
+synchedAt: '2022-08-29T16:28:49.435Z'
 ---
 # Concepts in formal epistemology
 

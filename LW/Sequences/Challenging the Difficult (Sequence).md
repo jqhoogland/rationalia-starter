@@ -1,11 +1,12 @@
 ---
 _id: 3szfzHZr7EYGSWt92
 title: Challenging the Difficult
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:50.602Z'
+synchedAt: '2022-08-29T16:28:47.863Z'
 ---
 # Challenging the Difficult
 

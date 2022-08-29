@@ -1,11 +1,12 @@
 ---
 _id: qWoFR4ytMpQ5vw3FT
 title: Three Worlds Collide
+curatedOrder: 1
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.320Z'
+synchedAt: '2022-08-29T16:28:49.296Z'
 ---
 # Three Worlds Collide
 

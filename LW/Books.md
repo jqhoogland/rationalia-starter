@@ -6,7 +6,7 @@
 - [[The Carving of Reality]]
 - [[The Engines of Cognition]]
 
-## [[Highlights from the Sequences]]
+## [[Highlights from the Sequences (Collection)]]
 
 - [[Highlights from the Sequences (Book)]]
 - [[Further Reading (Highlights)]]

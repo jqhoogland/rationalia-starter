@@ -1,11 +1,12 @@
 ---
 _id: XsMTxdQ6fprAQMoKi
 title: Argument and Analysis
+curatedOrder: 499
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.071Z'
+synchedAt: '2022-08-29T16:28:48.988Z'
 ---
 # Argument and Analysis
 

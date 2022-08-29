@@ -1,11 +1,12 @@
 ---
 _id: MH2b8NfWv22dBtrs8
 title: The Simple Math of Evolution
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:51.289Z'
+synchedAt: '2022-08-29T16:28:48.432Z'
 ---
 # The Simple Math of Evolution
 

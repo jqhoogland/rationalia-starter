@@ -1,11 +1,12 @@
 ---
 _id: AmFb5xWbPWWQyQ244
 title: Ethical Injunctions
+curatedOrder: null
 type: sequence
 tags:
   - LessWrong
   - Sequence
-synchedAt: '2022-08-29T14:19:52.247Z'
+synchedAt: '2022-08-29T16:28:49.256Z'
 ---
 # Ethical Injunctions
 
