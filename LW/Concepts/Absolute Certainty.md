@@ -37,3 +37,17 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 - [[Antiprediction]]
 - [[Mind Projection Fallacy|Mind projection fallacy]]
 - [[Doubt]]
+
+---
+
+%%
+
+%START
+
+Close
+
+Tags: LessWrong
+
+END
+
+%%

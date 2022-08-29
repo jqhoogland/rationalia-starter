@@ -29,3 +29,14 @@ synchedAt: '2022-08-29T11:09:50.564Z'
 - [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
 - [[Prisoner's Dilemma|Prisoner's dilemma]]
 - [[Pascal's Mugging|Pascal's mugging]]
+
+---
+
+%%
+
+%START
+Close
+Tags: LessWrong
+END
+
+%%
