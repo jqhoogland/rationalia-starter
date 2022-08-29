@@ -169,3 +169,5 @@ export const fixLinks = async (md: string) => {
         return match;
     })  
 }
+
+export const fixTitle = (title: string) => title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ");

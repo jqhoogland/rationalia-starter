@@ -1,7 +1,7 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import type { Response } from "./shared";
-
+import yaml from 'js-yaml';
+import { db, fixLinks, fixTitle, Response } from "./shared";
 export interface Book {
     _id: string;
     title: string;
@@ -14,7 +14,7 @@ export interface Book {
     sequences: {
         _id: string;
         title: string;
-    }
+    }[]
     // Include posts as well?
 }
 
@@ -44,4 +44,42 @@ export const loadBooks = async (limit?: number) => {
     })
 }
 
-(await loadBooks().then(books => console.log(JSON.stringify(books, null, 2))))
+// (await loadBooks().then(books => console.log(JSON.stringify(books, null, 2))))
+
+
+export const booksToMD = async () => {
+    const getFrontmatter = (book: Book) => {
+        
+        return (
+            "---\n"
+            + yaml.dump({
+                title: book.title,
+                // author: book.author,
+                type: "book",
+                tags: [
+                    "LessWrong",
+                    "Book"
+                ],
+            })
+            + "---"
+        )
+    }
+
+    for (const book of db.books) {
+        if (!!book.title && book.sequences.length > 0) {
+            let mdFile = ""
+            mdFile += getFrontmatter(book)
+            mdFile += "\n\n"
+            mdFile += await fixLinks(book.contents?.markdown ?? "");
+            mdFile += "\n\n---\n\n"
+            mdFile += book.sequences.map(sequence => `- [[${fixTitle(sequence.title)}]]`).join("\n")
+
+            const name = fixTitle(book.title);
+
+
+            fs.writeFileSync(`../LW/Jargon/${name}.md`, mdFile)
+        }
+    }
+}
+
+await booksToMD()
