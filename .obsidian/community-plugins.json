@@ -15,8 +15,9 @@
   "obsidian-charts",
   "advanced-cursors",
   "supercharged-links-obsidian",
-  "hot-reload",
   "graph-analysis",
   "metadata-menu",
-  "breadcrumbs"
+  "breadcrumbs",
+  "hot-reload",
+  "rationalia-plugin"
 ]

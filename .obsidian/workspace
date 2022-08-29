@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c5b6e66c3723e2",
+        "id": "5057702f680a22e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "402f879634acba83",
@@ -162,8 +163,9 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "e2c5b6e66c3723e2",
+  "active": "5057702f680a22e5",
   "lastOpenFiles": [
+    "LW/Concepts/Absolute Certainty.md",
     "LW/Concepts/Absent-Minded Driver.md",
     "LW/Jargon/80-20.md",
     "LW/Jargon/Againstness.md",
@@ -172,7 +174,6 @@
     "LW/Jargon/Affect.md",
     "LW/Jargon/AFAICT.md",
     "LW/Jargon/ADBOC.md",
-    "LW/Jargon/Adaptive problem.md",
-    "LW/Concepts/Abolitionism.md"
+    "LW/Jargon/Adaptive problem.md"
   ]
 }

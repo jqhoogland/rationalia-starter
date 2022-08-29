@@ -1,0 +1,10 @@
+{
+	"id": "rationalia-plugin",
+	"name": "Rationalia",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Repull notes from the LessWrong/Effective Altruism APIs",
+	"author": "Jesse Hoogland",
+	"authorUrl": "https://jessehoogland.com",
+	"isDesktopOnly": false
+}
