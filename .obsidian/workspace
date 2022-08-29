@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Sequences.md"
+                "file": "LW/Books/The Carving of Reality.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Sequences.md",
+                "file": "LW/Books/The Carving of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +174,9 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "ff4ee61bd20cd610",
+  "active": "9765c21c927290aa",
   "lastOpenFiles": [
+    "LW/Concepts/Sequences.md",
     "LW/Books.md",
     "LW/Collections.md",
     "LW/Books/The Carving of Reality.md",
@@ -184,7 +185,6 @@
     "LW/Books/A Map That Reflects the Territory.md",
     "LW/Sequences/Bonus— Best Essays of LessWrong.md",
     "LW/Sequences/Bah-Humbug Sequence.md",
-    "LW/Collections/Best of LessWrong.md",
-    "LW/Books/Further Reading (Highlights).md"
+    "LW/Collections/Best of LessWrong.md"
   ]
 }

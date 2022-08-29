@@ -15,6 +15,7 @@ export interface Post {
     },
     voteCount: number;
     forceInclude?: boolean
+    author: string
 }
 
 /**

@@ -18,11 +18,13 @@ export interface Sequence {
         contents: {
             markdown: string
         }
-        posts: Post[]
+        posts: Omit<Post, 'content' | 'tableOfContents'>[]
     }[]
 }
 
-export const loadSequences = async () => {
+const loadSequences = () => JSON.parse(fs.readFileSync('./data/sequences.json', 'utf8')) as Sequence[]
+
+export const fetchSequences = async () => {
     const getQuery = (limit: number, offset: number) => gql`
     {
         sequences(input: { 
@@ -56,10 +58,6 @@ export const loadSequences = async () => {
                         tags {
                             name
                         }
-                        tableOfContents
-                        contents {
-                            markdown
-                        }
                         voteCount
                     }
                 }
@@ -67,36 +65,30 @@ export const loadSequences = async () => {
         }
     }`
 
-    let i = 0;
-    let lastReturnedSize = 1;
-    let allSequences: Sequence[] = [];
+    let i = 21;
+    let j = 0;
+    let allSequences: Sequence[] = loadSequences();
 
-    while (lastReturnedSize === 1) {
+    while (i < 350) {
         // We need to paginate otherwise the requests will timeout (yes, with 1-item pages)
         console.log(`Fetching sequence ${i}`);
-        const { sequences } = await request('https://www.lesswrong.com/graphql', getQuery(lastReturnedSize, i++)) as { sequences: Response<Sequence> };
+        const { sequences } = await request('https://www.lesswrong.com/graphql', getQuery(1, i++)) as { sequences: Response<Sequence> };
         
         for (const sequence of sequences.results) {
-            for (const chapter of sequence.chapters) {
-                for (const post of chapter.posts) {
-                    if (!!post.tableOfContents?.html) {
-                        delete post.tableOfContents.html;
-                    }
-                }
+            // Keep only sequences whose posts have been voted on at least 200 times (or written by Eliezer)
+            if (!sequence.chapters.flatMap(c => c.posts).some(p => p.voteCount > 200 || p.author === "Eliezer_Yudkowsky" || p.author === "Eliezer Yudkowsky")) {
+                console.error("Not included:", sequence.title, )
+                continue
             }
+            allSequences[j++] = sequence;
         }
             
-            
-        allSequences = [...allSequences, ...sequences.results];
-        lastReturnedSize = sequences.results.length;
-
-
         fs.writeFileSync('./data/sequences.json', JSON.stringify(allSequences, null, 2))
     }
     return allSequences;
 }
 
-// (await loadSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
+// (await fetchSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
 
 export const sequencesToMD = async () => {
     for (const sequence of db.sequences) {
@@ -117,4 +109,5 @@ export const sequencesToMD = async () => {
     }
 }
 
-await sequencesToMD()
+ await sequencesToMD()
+
