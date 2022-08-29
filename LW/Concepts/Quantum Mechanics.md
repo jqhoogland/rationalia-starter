@@ -1,16 +1,19 @@
 ---
+_id: nBCLy89Nqd8ouR6XT
 title: Quantum Mechanics
-href: https://lesswrong.com/tags/quantum-mechanics
+href: https://lesswrong.com/tag/quantum-mechanics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:13.615Z'
 ---
+# Quantum Mechanics
 
 **Quantum Mechanics**: the bad news: our ordinary world is made out of weird, fuzzy, unpredictable stuff. The good news: the weird, fuzzy, unpredictable stuff is made out of unfamiliar but perfectly sensible math.  
   
-**Related Pages:** [[Physics|Physics]], [Decoherence](https://www.lessestwrong.com/tag/decoherence), [Many-worlds interpretation](https://www.lessestwrong.com/tag/many-worlds-interpretation), [Configuration space](https://www.lessestwrong.com/tag/configuration-space), [](https://wiki.lesswrong.com/wiki/Egan's_law) [[Adding Up to Normality|Egan's Law]], [Timeless Physics](https://www.lesswrong.com/tag/timeless-physics)
+**Related Pages:** [[Physics]], [Decoherence](https://www.lessestwrong.com/tag/decoherence), [Many-worlds interpretation](https://www.lessestwrong.com/tag/many-worlds-interpretation), [Configuration space](https://www.lessestwrong.com/tag/configuration-space), [](https://wiki.lesswrong.com/wiki/Egan's_law) [[Adding Up to Normality|Egan's Law]], [[Timeless Physics]]
 
 The biggest conceptual difference between the world of quantum mechanics and the physical world at the level we typically interact with is that it's much harder to specify the state of a system. Classical systems like a bowling ball or a planet have well-defined positions and velocity, and the state of such a system can be completely specified by just those two quantities. Quantities like position and velocity are called vectors, and in a 3-dimensional world a vector has component along each of the 3 dimensions. The state of a classical point particle can thus be given by just 6 numbers.
 

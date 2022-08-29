@@ -1,14 +1,17 @@
 ---
+_id: be2Mh2bddQ6ZaBcti
 title: Prisoner's Dilemma
-href: https://lesswrong.com/tags/prisoner-s-dilemma
+href: https://lesswrong.com/tag/prisoner-s-dilemma
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:59.071Z'
 ---
+# Prisoner's Dilemma
 
-The **Prisoner's Dilemma** is a well-studied game in [[1 Projects/Rationalia/LW/Concepts/Game Theory|game theory]], where supposedly rational incentive following leads to both players stabbing each other in the back and being worse off than if they had cooperated.
+The **Prisoner's Dilemma** is a well-studied game in [[Game Theory|game theory]], where supposedly rational incentive following leads to both players stabbing each other in the back and being worse off than if they had cooperated.
 
 The original formulation, via [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma):
 

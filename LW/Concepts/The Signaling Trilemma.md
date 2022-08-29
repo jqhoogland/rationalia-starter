@@ -1,4 +1,5 @@
 ---
+_id: wRdzfoH39vxqtNf37
 title: The Signaling Trilemma
 href: https://lesswrong.com/tag/the-signaling-trilemma
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:17.897Z'
 ---
+# The Signaling Trilemma
 
 The **belief signaling trilemma** (or *signaling trilemma* for simplicity) points out that (a) people assign reputation based on claims; (b) people want to maintain their reputation; therefore, (c) people warp their claims. This presents a trilemma:
 

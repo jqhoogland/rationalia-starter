@@ -1,12 +1,15 @@
 ---
+_id: pJthrJDMw54JFGise
 title: Murphyjitsu
-href: https://lesswrong.com/tags/murphyjitsu
+href: https://lesswrong.com/tag/murphyjitsu
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:50.513Z'
 ---
+# Murphyjitsu
 
 > In the course of making plans, Murphyjitsu is the practice of strengthening plans by repeatedly envisioning and defending against failure modes until you would be _shocked_ to see it fail. Here’s the basic setup of Murphyjitsu:
 
@@ -23,4 +26,4 @@ tags:
 See also
 ========
 
-*   [Inner Simulator / Surprise-o-meter](https://www.lesswrong.com/tag/inner-simulator-suprise-o-meter)
+*   [[Inner Simulator / Suprise-o-meter|Inner Simulator / Surprise-o-meter]]

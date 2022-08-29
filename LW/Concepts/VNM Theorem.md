@@ -1,4 +1,5 @@
 ---
+_id: 2YcmB6SLtHnHRe3uX
 title: VNM Theorem
 href: https://lesswrong.com/tag/vnm-theorem
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:30.194Z'
 ---
+# VNM Theorem
 
 The **VNM theorem** is one of the classic results of Bayesian decision theory. It establishes that, under four assumptions known as the **VNM axioms**, a preference relation *must* be representable by maximum-expectation decision making over some real-valued utility function. (In other words, rational decision making is best-average-case decision making.)
 

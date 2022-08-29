@@ -1,12 +1,15 @@
 ---
+_id: zxmLyuTr7nujF523s
 title: Zettelkasten
-href: https://lesswrong.com/tags/zettelkasten
+href: https://lesswrong.com/tag/zettelkasten
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:09.535Z'
 ---
+# Zettelkasten
 
 **Zettelkasten** (German for "slip box") is a [[Note-Taking|note-taking]] method popular amongst some LWers, and often praised for its scalability.
 

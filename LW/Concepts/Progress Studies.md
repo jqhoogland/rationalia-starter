@@ -1,12 +1,15 @@
 ---
+_id: sPpZRaxpNNJjw55eu
 title: Progress Studies
-href: https://lesswrong.com/tags/progress-studies
+href: https://lesswrong.com/tag/progress-studies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:06.455Z'
 ---
+# Progress Studies
 
 **Progress Studies** is the study of the causes of civilizational progress, e.g., the combination of economic, technological, scientific, and cultural advancements that have transformed human life and raised standards of living over the past couple of centuries.
 
@@ -16,7 +19,7 @@ tags:
 See also:
 ---------
 
-*   [History](https://www.lesswrong.com/tag/history)
+*   [[History]]
 
 Origin of the Name
 ------------------

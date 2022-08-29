@@ -1,12 +1,15 @@
 ---
+_id: hrezrpGqXXdSe76ks
 title: Ambition
-href: https://lesswrong.com/tags/ambition
+href: https://lesswrong.com/tag/ambition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:02:44.145Z'
 ---
+# Ambition
 
 **Ambition.** Because they don't think they could have an impact. Because they were always told ambition was dangerous. To get to the other side.
 

@@ -1,4 +1,5 @@
 ---
+_id: zYPQsxiMcTiY4yE3S
 title: Values handshakes
 href: https://lesswrong.com/tag/values-handshakes
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:21.560Z'
 ---
+# Values handshakes
 
 **Values handshakes** are a proposed form of trade between superintelligences. From [The Hour I First Believed](https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/) by Scott Alexander:
 

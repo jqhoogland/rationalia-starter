@@ -1,12 +1,15 @@
 ---
+_id: cq69M9ceLNA35ShTR
 title: Causality
-href: https://lesswrong.com/tags/causality
+href: https://lesswrong.com/tag/causality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:16.098Z'
 ---
+# Causality
 
 **Causality** is the intuitive notion that some events happening "result" in other events happening. What's going on with that? What does it mean for A to cause B? How do we figure out the causal relationship between things?
 
@@ -14,7 +17,7 @@ See also
 --------
 
 *   [[Free Will|Free will]]
-*   [Teleology](https://www.lesswrong.com/tag/teleology)
+*   [[Teleology]]
 *   [[Beliefs Require Observations|Beliefs require observations]]
 
 External links

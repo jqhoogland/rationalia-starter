@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1a1
 title: Exploratory Engineering
-href: https://lesswrong.com/tags/exploratory-engineering
+href: https://lesswrong.com/tag/exploratory-engineering
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:53.293Z'
 ---
+# Exploratory Engineering
 
 **Exploratory engineering** is a process for understanding a subset of the potential capabilities of future levels of technology. This process resembles the first phase of standard design engineering (termed conceptual engineering, or conceptual design), but it serves a different purpose:
 
@@ -18,12 +21,12 @@ Exploratory engineering allows to show how some capabilities that intuitively se
 External links
 --------------
 
-*   [Exploratory Engineering: Applying the predictive power of science to future technologies](http://metamodern.com/2009/06/26/exploratory-engineering-applying-the-predictive-power-of-science-to-future-technologies/) by [[Eric Drexler|Eric Drexler]]
+*   [Exploratory Engineering: Applying the predictive power of science to future technologies](http://metamodern.com/2009/06/26/exploratory-engineering-applying-the-predictive-power-of-science-to-future-technologies/) by [[Eric Drexler]]
 
 See also
 --------
 
-*   [Rational evidence](https://www.lesswrong.com/tag/rational-evidence)
+*   [[Rational Evidence|Rational evidence]]
 *   [[Absurdity Heuristic|Absurdity heuristic]]
-*   [Future](https://www.lesswrong.com/tag/future), [[Forecast|Forecast]]
-*   [Cryonics](https://www.lesswrong.com/tag/cryonics), [[Intelligence Explosion|Intelligence explosion]]
+*   [[Future]], [[Forecast]]
+*   [[Cryonics]], [[Intelligence Explosion|Intelligence explosion]]

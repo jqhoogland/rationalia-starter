@@ -1,7 +1,6 @@
 import fs from "fs";
-import yaml from 'js-yaml';
 import { fetchPost } from "./posts";
-import { fixLinks, fixTitle } from "./shared";
+import { fixLinks, fixTitle, getFrontmatter } from "./shared";
 
 export interface ChapterOrder {
     title: string;
@@ -74,20 +73,8 @@ export const normalizeOrders = async () => (
 export const orderToMD = async (author: string) => {
     const order = loadOrder(author);
 
-    const frontmatter = (
-            "---\n"
-            + yaml.dump({
-                author: order.author,
-                type: "sequence",
-                tags: [
-                    "LessWrong",
-                    "Sequence"
-                ],
-            })
-            + "---"
-        )
     let mdFile = ""
-    mdFile += frontmatter;
+    mdFile += getFrontmatter(order, ['author'], { type: "sequence", tags: ["LessWrong", "Sequence"] });
     mdFile += "\n\n"
     mdFile += await fixLinks(order.description ?? "");
     mdFile += "# Chapters\n\n"

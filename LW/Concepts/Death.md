@@ -1,12 +1,15 @@
 ---
+_id: E9ihK6bA9YKkmJs2f
 title: Death
-href: https://lesswrong.com/tags/death
+href: https://lesswrong.com/tag/death
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:46.702Z'
 ---
+# Death
 
 First you're there, and then you're not there, and they can't change you from being not there to being there, because there's nothing there to be changed from being not there to being there. That's **death**. This tag includes post about the death of particular people, or about death in general.
 
@@ -15,7 +18,7 @@ First you're there, and then you're not there, and they can't change you from be
 See also
 --------
 
-*   [[Cryonics|Cryonics]]
-*   [Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply)
-*   [[Transhumanism|Transhumanism]]
-*   [Personal identity](https://www.lesswrong.com/tag/personal-identity)
+*   [[Cryonics]]
+*   [[Shut Up and Multiply|Shut up and multiply]]
+*   [[Transhumanism]]
+*   [[Personal Identity|Personal identity]]

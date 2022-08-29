@@ -1,12 +1,15 @@
 ---
+_id: sSNtcEQsqHgN8ZmRF
 title: Fun Theory
-href: https://lesswrong.com/tags/fun-theory
+href: https://lesswrong.com/tag/fun-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:49.418Z'
 ---
+# Fun Theory
 
 **Fun Theory** is the field of knowledge studying how to design for fun in future society: it deals in questions such as "How much fun is there in the universe?", "Will we ever run out of fun?", "Are we having fun yet?" and "Could we be having more fun?"
 
@@ -37,7 +40,7 @@ Complex values and fun theory's solution
 
 A key insight of fun theory, in its current embryonic form, is that _eudaimonia_ \- the classical framework where happiness is the ultimate human goal - is [[Complexity of Value|complicated]]. That is, there are many properties which contribute to a life worth living. We humans require many things to experience a fulfilled life: Aesthetic stimulation, pleasure, love, social interaction, learning, challenge, and much more.
 
-It is a common mistake in discussion of future society to extract only one element of the human preferences and advocate that it alone be maximized. This would neglect all other human values. For example, if we simply optimize for pleasure or happiness, ["wirehead"](https://www.lesswrong.com/tag/wireheading), we'll stimulate the relevant parts of our brain and experience bliss for eternity, but pursue no other experiences. If almost _any_ element of our value system is absent, then the human future will likely be very unpleasant.
+It is a common mistake in discussion of future society to extract only one element of the human preferences and advocate that it alone be maximized. This would neglect all other human values. For example, if we simply optimize for pleasure or happiness, [[Wireheading|"wirehead"]], we'll stimulate the relevant parts of our brain and experience bliss for eternity, but pursue no other experiences. If almost _any_ element of our value system is absent, then the human future will likely be very unpleasant.
 
 Enhanced humans are also seen to have the value system of humans today, but we may choose to change it as we self-enhance. We may want to alter our own value system, by eliminating values, like bloodlust, which on reflection we wish were absent. But there are many values which we, on reflection, want to keep, and since we humans have no basis for a value system other than our current value system, fun theory must seek to maximize the value system that we have, rather than inventing new values.
 
@@ -47,13 +50,13 @@ External links
 --------------
 
 *   George Orwell, [Why Socialists Don't Believe in Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
-*   David Pearce, [Paradise Engineering](http://paradise-engineering.com/) and [The Hedonistic Imperative](http://www.hedweb.com/hedab.htm) ([Abolitionism](https://www.lesswrong.com/tag/abolitionism)) provides a more nuanced alternative to wireheading.
+*   David Pearce, [Paradise Engineering](http://paradise-engineering.com/) and [The Hedonistic Imperative](http://www.hedweb.com/hedab.htm) ([[Abolitionism]]) provides a more nuanced alternative to wireheading.
 
 See also
 --------
 
-*   [[The Fun Theory Sequence|The Fun Theory Sequence]]
-*   [Happiness](http://lesswrong.com/tag/happiness-1)
+*   [[The Fun Theory Sequence]]
+*   [[Happiness]]
 *   [[Complexity of Value|Complexity of value]]
-*   [Metaethics sequence](https://www.lesswrong.com/tag/metaethics-sequence)
-*   [[Abolitionism|Abolitionism]]
+*   [[Metaethics Sequence|Metaethics sequence]]
+*   [[Abolitionism]]

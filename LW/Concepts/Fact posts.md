@@ -1,12 +1,15 @@
 ---
+_id: TLrqSmzoGoA3v5tNP
 title: Fact posts
-href: https://lesswrong.com/tags/fact-posts
+href: https://lesswrong.com/tag/fact-posts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:04.562Z'
 ---
+# Fact posts
 
 A **Fact post** is a piece of writing that attempts to build an understanding of the world, starting bottom up with empirical facts rather than "opinions".  Under this tag, one can find posts that present lots of basic facts about topics. *This entry requires work.*
 

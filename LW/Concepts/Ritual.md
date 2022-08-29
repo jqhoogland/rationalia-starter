@@ -1,12 +1,15 @@
 ---
+_id: hXTqT62YDTTiqJfxG
 title: Ritual
-href: https://lesswrong.com/tags/ritual
+href: https://lesswrong.com/tag/ritual
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:10.120Z'
 ---
+# Ritual
 
 **Rituals** are symbolic actions. In the context of LessWrong, it's significant that many rituals have some impact on your cognition, which makes them appropriate to be careful with. Nonetheless, some LessWrongers have worked to explore the space of ritual through a rationalist lens.
 
@@ -23,4 +26,4 @@ Two key questions relating to ritual and rationality are:
 
 *   [Rational Ritual](https://www.lesswrong.com/s/3bbvzoRA8n6ZgbiyK) by [Raemon](https://www.lesswrong.com/users/raemon)
 
-**Related Pages:** [Secular Solstice](https://www.lesswrong.com/tag/secular-solstice), [[Petrov Day|Petrov Day]], [Grieving](https://www.lesswrong.com/tag/grieving), [[Marriage|Marriage]], [Religion](https://www.lesswrong.com/tag/religion), [[Art|Art]], [Music](https://www.lesswrong.com/tag/music), [[Poetry|Poetry]], [Meditation](https://www.lesswrong.com/tag/meditation), [[Circling|Circling]]
+**Related Pages:** [[Secular Solstice]], [[Petrov Day]], [[Grieving]], [[Marriage]], [[Religion]], [[Art]], [[Music]], [[Poetry]], [[Meditation]], [[Circling]]

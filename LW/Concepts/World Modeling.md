@@ -1,19 +1,22 @@
 ---
+_id: 3uE2pXvbcnS9nnZRE
 title: World Modeling
-href: https://lesswrong.com/tags/world-modeling
+href: https://lesswrong.com/tag/world-modeling
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
 core: true
+synchedAt: '2022-08-29T11:04:08.614Z'
 ---
+# World Modeling
 
 **World Modeling** is getting curious about how the world works. It’s diving into wikipedia, it’s running a survey to get data from your friends, it’s dropping balls from different heights and measuring how long they take to fall. Empiricism, scholarship, googling, introspection, data-gathering, science. Applying your epistemology and curiosity, *finding out how the damn thing works,* and writing it down for the rest of us.
 
 > *The eleventh virtue is scholarship. Study many sciences and absorb their power as your own. Each field that you consume makes you larger. If you swallow enough sciences the gaps between them will diminish and your knowledge will become a unified whole. If you are gluttonous you will become vaster than mountains.*
 > 
-> \-\- [[Twelve Virtues of Rationality|Twelve Virtues of Rationality]]
+> \-\- [[Twelve Virtues of Rationality]]
 
 * * *
 
@@ -25,15 +28,15 @@ core: true
 A definition by elimination
 ---------------------------
 
-Properly considered, the overwhelming majority of content LessWrong is about *modeling how the world is*, including almost all posts on Rationality and all practical advice. The intended usage of World Modeling is to capture all content describing how the world is that is not captured by the more specific major tags of [Rationality](https://www.lesswrong.com/tag/rationality), [[World Optimization|World Optimization]], and [AI](https://www.lesswrong.com/tag/ai).
+Properly considered, the overwhelming majority of content LessWrong is about *modeling how the world is*, including almost all posts on Rationality and all practical advice. The intended usage of World Modeling is to capture all content describing how the world is that is not captured by the more specific major tags of [[Rationality]], [[World Optimization]], and [[AI]].
 
-*   The [[Rationality|Rationality]] tag is for content that is about *how the world is* in relation to how minds works and what one ought to do in order to reach true beliefs. The question for that category is *does this relate to how I ought to think?*
-*   The [World Optimization](https://www.lesswrong.com/tag/world-optimization) tag is for content about *how the world is* which is relevant to choosing actions in a relatively immediate way. By this definition, it encompasses most posts discussing altruistic methods and targets, as well practical personal advice. The question for that category is *is this content motivated by the desire to optimize the world?*
-*   The [[AI|AI]] tag is for content about *how the world is* which is relevant to questions of how advanced artificial intelligence will affect the world and how to ensure outcomes are good. The question is *does this help me make predictions about AI or ensure AI will have good outcomes?*
+*   The [[Rationality]] tag is for content that is about *how the world is* in relation to how minds works and what one ought to do in order to reach true beliefs. The question for that category is *does this relate to how I ought to think?*
+*   The [[World Optimization]] tag is for content about *how the world is* which is relevant to choosing actions in a relatively immediate way. By this definition, it encompasses most posts discussing altruistic methods and targets, as well practical personal advice. The question for that category is *is this content motivated by the desire to optimize the world?*
+*   The [[AI]] tag is for content about *how the world is* which is relevant to questions of how advanced artificial intelligence will affect the world and how to ensure outcomes are good. The question is *does this help me make predictions about AI or ensure AI will have good outcomes?*
 
 If content warrants a no to all of the above questions, then it is likely to be both relatively pure world modeling (not about optimizing in any direct way) and not already covered by an existing major category. It is then a good fit for the World Modeling category. Stuff like math, science, history
 
 Some more examples
 ------------------
 
-A study of how people historically exercised is World Modeling. Advice on the optimal way to exercise in the present day is [World Optimization](https://www.lesswrong.com/tag/world-optimization). A study of the Fall of Rome would be World Modeling. A review of current policies being discussed by people who want to cause changes in a present government should be classified as [[World Optimization|Optimization]]. It would be World Modeling too only if it is expected to be of interest to people with no immediate plans to try to alter government, for example a review on the effects of marijuana on productivity, driving, IQ, etc.
+A study of how people historically exercised is World Modeling. Advice on the optimal way to exercise in the present day is [[World Optimization]]. A study of the Fall of Rome would be World Modeling. A review of current policies being discussed by people who want to cause changes in a present government should be classified as [[World Optimization|Optimization]]. It would be World Modeling too only if it is expected to be of interest to people with no immediate plans to try to alter government, for example a review on the effects of marijuana on productivity, driving, IQ, etc.

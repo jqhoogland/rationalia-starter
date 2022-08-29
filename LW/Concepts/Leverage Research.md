@@ -1,4 +1,5 @@
 ---
+_id: sYbszETv5rKst6gxD
 title: Leverage Research
 href: https://lesswrong.com/tag/leverage-research
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:20.474Z'
 ---
+# Leverage Research
 
 *   Official Website: [http://leverageresearch.org/](http://leverageresearch.org/)
 *   Leverage Research quarterly newsletter: [https://www.leverageresearch.org/updates](https://www.leverageresearch.org/updates)

@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb226
 title: Robot
 href: https://lesswrong.com/tag/robot
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:44.649Z'
 ---
+# Robot
 
 An **online debate tool** facilitates the act of debating by helping to manage the structure of argumentation. This distinguishes it from general purpose communication tools such as wikis and forums. Some online debate tools provide graphical representations of arguments, but this is not a requirement.
 

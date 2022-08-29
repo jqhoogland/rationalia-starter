@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb290
 title: Malthusian Scenarios
-href: https://lesswrong.com/tags/malthusian-scenarios
+href: https://lesswrong.com/tag/malthusian-scenarios
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:45.631Z'
 ---
+# Malthusian Scenarios
 
 A **Malthusian Scenario** refers to humanity returning to an subsistence-level of existence due to population growth outpacing production. [Tomas Malthus](https://en.wikipedia.org/wiki/Thomas_Malthus) originally proposed this scenario in the 18th century, predicting that unbounded population growth would outpace food production and inevitable famine would follow. The remaining humans would be left at a level of bare subsistence.
 
@@ -14,7 +17,7 @@ Dramatic [agricultural production efficiency increases](https://en.wikipedia.org
 
 Whilst food production has expanded in the developed world, its sustainability could be jeopardized due to limited resources such as oil (which agriculture is heavily dependent upon) being rapidly depleted[3](http://en.wikipedia.org/wiki/Oil_depletion#Catastrophe). If population continues to grow a Malthusian catastrophe would appear to be inevitable as there will always be a finite amount of resources to exploit.
 
-[[Robin Hanson|Robin Hanson]] has also suggested that Singularity-level technology, such as mind-uploading, would possibly result in Malthusian scenarios. Because uploaded minds could be so easily copied, reproduction costs would fall so dramatically that population growth could outpace even the production levels of an advanced society. Hence, all wages would be reduced to upload subsistence levels[4](http://www.primitivism.com/uploads-dawn.htm).
+[[Robin Hanson]] has also suggested that Singularity-level technology, such as mind-uploading, would possibly result in Malthusian scenarios. Because uploaded minds could be so easily copied, reproduction costs would fall so dramatically that population growth could outpace even the production levels of an advanced society. Hence, all wages would be reduced to upload subsistence levels[4](http://www.primitivism.com/uploads-dawn.htm).
 
 Blog Posts
 ----------

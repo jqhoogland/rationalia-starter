@@ -1,4 +1,5 @@
 ---
+_id: rjEZWSbSffhaWYRvo
 title: Hypotheticals
 href: https://lesswrong.com/tag/hypotheticals
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:32.447Z'
 ---
+# Hypotheticals
 
 Many philosophy problems involve imagining hypothetical scenarios. At times there has been significant debate over the validity of this.
 

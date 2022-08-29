@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb298
 title: AGI Sputnik Moment
-href: https://lesswrong.com/tags/agi-sputnik-moment
+href: https://lesswrong.com/tag/agi-sputnik-moment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:45.115Z'
 ---
+# AGI Sputnik Moment
 
-An **AGI Sputnik moment** is a term coined by [[Ben Goertzel|Ben Goertzel]] during a 2011 interview. It describes a moment when some project or program makes an impressive demonstration of AGI and convinces the general public and private entitites of its feasibility. The author proposes that if that moment happens somewhere soon, the funding and investment in AGI development through computer science that would ensue would make it surpass other approaches, such as brain simulation.
+An **AGI Sputnik moment** is a term coined by [[Ben Goertzel]] during a 2011 interview. It describes a moment when some project or program makes an impressive demonstration of AGI and convinces the general public and private entitites of its feasibility. The author proposes that if that moment happens somewhere soon, the funding and investment in AGI development through computer science that would ensue would make it surpass other approaches, such as brain simulation.
 
 ![](https://wiki.lesswrong.com/images/thumb/b/be/Deep_Blue.jpg/200px-Deep_Blue.jpg)
 

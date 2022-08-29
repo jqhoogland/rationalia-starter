@@ -1,18 +1,21 @@
 ---
+_id: BXL4riEJvJJHoydjG
 title: Orthogonality Thesis
-href: https://lesswrong.com/tags/orthogonality-thesis
+href: https://lesswrong.com/tag/orthogonality-thesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:29.246Z'
 ---
+# Orthogonality Thesis
 
-The **Orthogonality Thesis** states that an agent can have any combination of intelligence level and final goal, that is, its [final goals](https://www.lesswrong.com/tag/utility-functions?showPostCount=true&useTagName=true) and [intelligence levels](https://www.lesswrong.com/tag/general-intelligence?showPostCount=true&useTagName=true) can vary independently of each other. This is in contrast to the belief that, because of their intelligence, AIs will all converge to a common goal.
+The **Orthogonality Thesis** states that an agent can have any combination of intelligence level and final goal, that is, its [[Utility Functions|final goals]] and [[General Intelligence|intelligence levels]] can vary independently of each other. This is in contrast to the belief that, because of their intelligence, AIs will all converge to a common goal.
 
 The thesis was originally defined by [Nick Bostrom](https://lessestwrong.com/tag/nick-bostrom) in the paper "[Superintelligent Will](https://nickbostrom.com/superintelligentwill.pdf)", (along with the [instrumental convergence thesis](https://wiki.lesswrong.com/wiki/instrumental_convergence_thesis)). For his purposes, Bostrom defines intelligence to be [instrumental rationality](https://wiki.lesswrong.com/wiki/instrumental_rationality).
 
-*Related:* [*Complexity of Value*](https://www.lesswrong.com/tag/complexity-of-value?showPostCount=true&useTagName=true)*,* [*Decision Theory*](https://www.lesswrong.com/tag/decision-theory?showPostCount=true&useTagName=true)*,* [*General Intelligence*](https://www.lesswrong.com/tag/general-intelligence?showPostCount=true&useTagName=true)*,* [*Utility Functions*](https://www.lesswrong.com/tag/utility-functions?showPostCount=true&useTagName=true)
+*Related:* [[Complexity of Value|*Complexity of Value*]]*,* [[Decision Theory|*Decision Theory*]]*,* [[General Intelligence|*General Intelligence*]]*,* [[Utility Functions|*Utility Functions*]]
 
 Defense of the thesis
 ---------------------

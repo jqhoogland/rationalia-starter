@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb149
 title: Inductive Bias
-href: https://lesswrong.com/tags/inductive-bias
+href: https://lesswrong.com/tag/inductive-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:12.606Z'
 ---
+# Inductive Bias
 
 **Inductive bias** refers to your suspicion that if the sun has risen for the last billion days in a row, then it may rise tomorrow as well. Since it is [logically possible](https://wiki.lesswrong.com/wiki/logically_possible) that the laws of physics will arbitrarily cease to work and that the sun will *not* rise tomorrow, coming to this conclusion requires an inductively biased [prior](https://wiki.lesswrong.com/wiki/prior).
 

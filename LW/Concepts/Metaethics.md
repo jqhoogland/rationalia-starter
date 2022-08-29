@@ -1,12 +1,15 @@
 ---
+_id: Z8wZZLeLMJ3NSK7kR
 title: Metaethics
-href: https://lesswrong.com/tags/metaethics
+href: https://lesswrong.com/tag/metaethics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:12.033Z'
 ---
+# Metaethics
 
 **Metaethics** is one of the three branches of ethics usually recognized by philosophers, the others being [normative ethics](http://en.wikipedia.org/wiki/Normative_ethics) and [applied ethics](http://en.wikipedia.org/wiki/Applied_ethics). It’s a field of study that tries to understand the metaphysical, epistemological and semantic characteristics as well as the foundations and scope of moral values. It worries about questions and problems such as "Are moral judgments objective or subjective, relative or absolute?", "Do moral facts exist?" or “How do we learn moral values?”. (As distinct from object-level moral questions like, "Ought I to steal from banks in order to give the money to the deserving poor?")
 

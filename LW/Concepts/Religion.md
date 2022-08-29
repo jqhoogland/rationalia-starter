@@ -1,25 +1,28 @@
 ---
+_id: NSMKfa8emSbGNXRKD
 title: Religion
-href: https://lesswrong.com/tags/religion
+href: https://lesswrong.com/tag/religion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:12.713Z'
 ---
+# Religion
 
 **Religion** is a complex group of human activities — involving commitment to higher power, [[Belief In Belief|belief in belief]], and a range of shared group practices such as worship meetings, rites of passage, etc.
 
 See also
 --------
 
-*   [Groupthink](https://www.lesswrong.com/tag/groupthink), [[Affective Death Spiral|Affective death spiral]]
-*   [Belief in belief](https://www.lesswrong.com/tag/belief-in-belief), [[Improper Belief|improper belief]]
-*   [Epistemic hygiene](https://www.lesswrong.com/tag/epistemic-hygiene)
+*   [[Groupthink]], [[Affective Death Spiral|Affective death spiral]]
+*   [[Belief In Belief|Belief in belief]], [[Improper Belief|improper belief]]
+*   [[Epistemic Hygiene|Epistemic hygiene]]
 *   [[Truth, Semantics, & Meaning|Truth]]
-*   [Rationalization](https://www.lesswrong.com/tag/rationalization), [[Self-Deception|self-deception]]
-*   [Magic](https://www.lesswrong.com/tag/magic), [[Fake Simplicity|fake simplicity]]
-*   [Absurdity heuristic](https://www.lesswrong.com/tag/absurdity-heuristic)
+*   [[Rationalization]], [[Self-Deception|self-deception]]
+*   [[Magic]], [[Fake Simplicity|fake simplicity]]
+*   [[Absurdity Heuristic|Absurdity heuristic]]
 *   [Third alternative](https://wiki.lesswrong.com/wiki/Third_alternative)
 *   [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
 

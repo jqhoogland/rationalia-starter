@@ -1,19 +1,22 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1d2
 title: Good-Story Bias
-href: https://lesswrong.com/tags/good-story-bias
+href: https://lesswrong.com/tag/good-story-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:45.534Z'
 ---
+# Good-Story Bias
 
-Optimizing predictions for sounding good as stories, when nature optimizes for no such thing, creates a bias that [[Nick Bostrom|Nick Bostrom]] [has termed](http://www.nickbostrom.com/existential/risks.html) **good-story bias**.
+Optimizing predictions for sounding good as stories, when nature optimizes for no such thing, creates a bias that [[Nick Bostrom]] [has termed](http://www.nickbostrom.com/existential/risks.html) **good-story bias**.
 
 Blog posts
 ----------
 
-*   [Tell Your Anti-Story](http://overcomingbias.com/2007/07/tell-your-anti-.html) by [Robin Hanson](https://www.lesswrong.com/tag/robin-hanson)
+*   [Tell Your Anti-Story](http://overcomingbias.com/2007/07/tell-your-anti-.html) by [[Robin Hanson]]
 
 External links
 --------------
@@ -23,5 +26,5 @@ External links
 See also
 --------
 
-*   [Narrative fallacy](https://www.lesswrong.com/tag/narrative-fallacy)
+*   [[Narrative Fallacy|Narrative fallacy]]
 *   [[Generalization From Fictional Evidence|Generalization from fictional evidence]]

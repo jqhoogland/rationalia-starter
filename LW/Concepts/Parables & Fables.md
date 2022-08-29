@@ -1,4 +1,5 @@
 ---
+_id: F2XfCTxXLQBGjbm8P
 title: Parables & Fables
 href: https://lesswrong.com/tag/parables-and-fables
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:27.711Z'
 ---
+# Parables & Fables
 
 **External links:**  
 [The Fable of the Dragon-Tyrant](https://nickbostrom.com/fable/dragon.html) by Nick Bostrom ([animated version](https://www.youtube.com/watch?v=cZYNADOHhVY) by CGP Grey)  

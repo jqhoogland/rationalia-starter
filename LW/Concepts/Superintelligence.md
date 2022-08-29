@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb297
 title: Superintelligence
 href: https://lesswrong.com/tag/superintelligence
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:39.933Z'
 ---
+# Superintelligence
 
 A **Superintelligence** is a being with superhuman intelligence, and a focus of the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]]'s research. Specifically, Nick Bostrom (1997) defined it as
 

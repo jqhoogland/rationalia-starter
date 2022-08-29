@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb28c
 title: Brain-Computer Interfaces
 href: https://lesswrong.com/tag/brain-computer-interfaces
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:40.974Z'
 ---
+# Brain-Computer Interfaces
 
 A **Brain Computer Interface (BCI)** is the generic term used to describe any kind of system that serves as a communication bridge between the brain (human or not) and an artificial module. It’s a field of research in which wide investment has been made since the 1970’s, especially in the clinical fields and ergonomics. Generally speaking, any kind of brain activity that can be recorded can be used as a means of communicating with another system. Through the use of statistical classification techniques it’s possible to associate certain states or characteristics of the recorded signal – which the experiment subject learns to control - to any procedure, usually mediated by a computer.
 

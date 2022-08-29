@@ -1,4 +1,5 @@
 ---
+_id: m2DsR4r4HRSaLSPW3
 title: Security Mindset
 href: https://lesswrong.com/tag/security-mindset
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:15.589Z'
 ---
+# Security Mindset
 
 Security Mindset is a predisposition for thinking about the world in a security-oriented way. A large part of this way of thinking involves always being on the lookout for exploits. 
 

@@ -1,19 +1,22 @@
 ---
+_id: fihKHQuS5WZBJgkRm
 title: Newcomb's Problem
-href: https://lesswrong.com/tags/newcomb-s-problem
+href: https://lesswrong.com/tag/newcomb-s-problem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:13.427Z'
 ---
+# Newcomb's Problem
 
 **Newcomb's Problem** is a thought experiment in decision theory exploring problems posed by having other agents in the environment who can predict your actions.
 
 The Problem
 -----------
 
-From [[Newcomb's Problem and Regret of Rationality|Newcomb's Problem and Regret of Rationality]]:
+From [[Newcomb's Problem and Regret of Rationality]]:
 
 > A superintelligence from another galaxy, whom we shall call Omega, comes to Earth and sets about playing a strange little game. In this game, Omega selects a human being, sets down two boxes in front of them, and flies away.
 
@@ -34,7 +37,7 @@ From [[Newcomb's Problem and Regret of Rationality|Newcomb's Problem and Regret 
 
 One line of reasoning about the problem says that because Omega has already left, the boxes are set and you can't change them. And if you look at the payoff matrix, you'll see that whatever decision Omega has already made, you get $1000 more for taking both boxes. This makes taking two boxes ("two-boxing") a dominant strategy and therefore the correct choice. Agents who reason this way do not make very much money playing this game. This is because this line of reasoning ignores the connection between the agent and Omega's prediction: two-boxing only makes $1000 more than one-boxing if Omega's prediction is the same in both cases, while the problem states Omega is extremely accurate in its predictions. Switching from one-boxing to two-boxing doesn't give the agent a $1000 more, it results in a loss of $999,000.
 
-Because the agent's decision in this problem can't causally affect Omega's prediction (which happened in the past), [Causal Decision Theory](https://www.lesswrong.com/tag/causal-decision-theory) two-boxes. One-boxing is correlated with getting a million dollars, whereas two-boxing is correlated with getting only $1000; therefore, [[Evidential Decision Theory|Evidential Decision Theory]] one-boxes. [Functional Decision Theory](https://www.lesswrong.com/tag/functional-decision-theory) (FDT) also one-boxes, but for a completely different reason: FDT reasons that Omega must have had a model of the agent's decision procedure in order to make the prediction. Therefore, your decision procedure is run not only by you, but also (in the past) by Omega; whatever you decide, Omega's model must have decided the same. Either both you and Omega's model two-box, or both you and Omega's model one-box; of these two options, the latter is preferable, so FDT one-boxes.
+Because the agent's decision in this problem can't causally affect Omega's prediction (which happened in the past), [[Causal Decision Theory]] two-boxes. One-boxing is correlated with getting a million dollars, whereas two-boxing is correlated with getting only $1000; therefore, [[Evidential Decision Theory]] one-boxes. [[Functional Decision Theory]] (FDT) also one-boxes, but for a completely different reason: FDT reasons that Omega must have had a model of the agent's decision procedure in order to make the prediction. Therefore, your decision procedure is run not only by you, but also (in the past) by Omega; whatever you decide, Omega's model must have decided the same. Either both you and Omega's model two-box, or both you and Omega's model one-box; of these two options, the latter is preferable, so FDT one-boxes.
 
 The general class of decision problems that involve other agents predicting your actions are called Newcomblike Problems.
 

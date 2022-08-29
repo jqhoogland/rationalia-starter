@@ -1,4 +1,5 @@
 ---
+_id: XtnxF4TsAEyWBRJZq
 title: Scoring Rules
 href: https://lesswrong.com/tag/scoring-rules
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:20.735Z'
 ---
+# Scoring Rules
 
 **Scoring Rules** are ways to score answers on a test, a prediction, or any other performance.
 

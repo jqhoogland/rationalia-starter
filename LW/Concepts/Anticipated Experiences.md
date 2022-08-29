@@ -1,14 +1,17 @@
 ---
+_id: SJFsFfFhE6m2ThAYJ
 title: Anticipated Experiences
-href: https://lesswrong.com/tags/anticipated-experiences
+href: https://lesswrong.com/tag/anticipated-experiences
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:18.038Z'
 ---
+# Anticipated Experiences
 
-One principle of rationality is that "[beliefs should pay rent in **anticipated experiences**](https://www.lesswrong.com/s/7gRSERQZbqTuLX5re/p/a7n8GdKiAZRX86T5A)." If you believe in something, what do you expect to be different as a result? What does the belief say should happen, and what does it say should _not_ happen? If you have a verbal disagreement with someone, how does your disagreement cash out in differing expectations?
+One principle of rationality is that "[[Making Beliefs Pay Rent (in Anticipated Experiences)|beliefs should pay rent in **anticipated experiences**]]." If you believe in something, what do you expect to be different as a result? What does the belief say should happen, and what does it say should _not_ happen? If you have a verbal disagreement with someone, how does your disagreement cash out in differing expectations?
 
 If two people try to get specific about the anticipated experiences driving their disagreement, one method for doing so is the [double crux](https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement) technique. The notion that beliefs are models of what we expect to experience is also one of the basic premises of [[Predictive Processing|predictive processing]] theories of how the brain works. Beliefs that do not pay rent may be related to [meaningless arguments](https://www.lesswrong.com/posts/4xKeNKFXFB458f5N8/ethnic-tension-and-meaningless-arguments) driven by [[Tribalism|coalitional instincts]].
 
@@ -18,4 +21,4 @@ If two people try to get specific about the anticipated experiences driving thei
 
 > Though the two argue, one saying “No,” and the other saying “Yes,” they do not anticipate any different experiences. The two think they have different models of the world, but they have no difference with respect to what they expect will _happen to_ them; their maps of the world do not diverge in any sensory detail.
 
-> \-\- Eliezer Yudkowsky, [Making Beliefs Pay Rent (In Anticipated Experiences)](https://www.lesswrong.com/s/7gRSERQZbqTuLX5re/p/a7n8GdKiAZRX86T5A)
+> \-\- Eliezer Yudkowsky, [[Making Beliefs Pay Rent (in Anticipated Experiences)|Making Beliefs Pay Rent (In Anticipated Experiences)]]

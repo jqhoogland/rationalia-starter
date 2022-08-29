@@ -8,8 +8,9 @@ type: book
 tags:
   - LessWrong
   - Book
-synchedAt: '2022-08-29T10:34:08.499Z'
+synchedAt: '2022-08-29T10:40:16.039Z'
 ---
+# The Engines of Cognition
 
 # Sequences
 

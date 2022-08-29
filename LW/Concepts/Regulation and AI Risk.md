@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2c7
 title: Regulation and AI Risk
 href: https://lesswrong.com/tag/regulation-and-ai-risk
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:36.377Z'
 ---
+# Regulation and AI Risk
 
 **Regulation and AI risk** is the debate on whether regulation could be used to reduce the risks of [[Unfriendly Artificial Intelligence|Unfriendly AI]], and what forms of regulation would be appropriate.
 

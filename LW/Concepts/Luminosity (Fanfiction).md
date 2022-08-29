@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb240
 title: Luminosity (Fanfiction)
-href: https://lesswrong.com/tags/luminosity-fanfiction
+href: https://lesswrong.com/tag/luminosity-fanfiction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:49.084Z'
 ---
+# Luminosity (Fanfiction)
 
 **[Luminosity](http://luminous.elcenia.com/)** is a Twilight fanfiction by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn). Requires no knowledge of or affection for Twilight canon.
 

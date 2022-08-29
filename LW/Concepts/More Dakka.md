@@ -1,12 +1,15 @@
 ---
+_id: FGfgzGpPTtKEqSrDm
 title: More Dakka
-href: https://lesswrong.com/tags/more-dakka
+href: https://lesswrong.com/tag/more-dakka
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:53.965Z'
 ---
+# More Dakka
 
 **More Dakka** is the technique of throwing more resources at a problem to see if you get better results. 
 

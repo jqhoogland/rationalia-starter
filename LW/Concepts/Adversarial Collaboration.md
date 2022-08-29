@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2fb
 title: Adversarial Collaboration
 href: https://lesswrong.com/tag/adversarial-collaboration
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:35.726Z'
 ---
+# Adversarial Collaboration
 
 **Adversarial collaboration** is a protocol developed by Daniel Kahneman for two researchers advocating competing hypotheses to collaborate on a research project with the goal of resolving their differences, designed on the assumption that this will be more effective than each researcher conducting their own experiments individually and publishing replies to each others' papers. Kahneman tested adversarial collaboration with Ralph Hertwig, aiming to resolve their dispute about whether the [[Conjunction Fallacy|conjunction fallacy]] was primarily due to the [[Representativeness Heuristic|representativeness heuristic]] (as advocated by Kahneman), or simply due to subjects interpreting the word "and" as a disjunction where the experimenters intended it to be used as a conjunction (as advocated by Hertwig). Kahneman and Hertwig collaborated on a series of experiments related to the issue, along with Barbara Mellers as an arbiter, and further refined the suggested adversarial collaboration protocol based on their experiences.
 

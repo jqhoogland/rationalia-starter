@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb124
 title: Conformity Bias
-href: https://lesswrong.com/tags/conformity-bias
+href: https://lesswrong.com/tag/conformity-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:03.872Z'
 ---
+# Conformity Bias
 
 **Conformity bias** is a tendency to behave similarly to the others in a group, even if doing so goes against your own judgment.
 
@@ -22,8 +25,8 @@ See also
 --------
 
 *   [[Affective Death Spiral|Affective death spiral]]
-*   [Groupthink](https://www.lesswrong.com/tag/groupthink)
+*   [[Groupthink]]
 *   [[In-Group Bias|In-group bias]]
-*   [Improper belief](https://www.lesswrong.com/tag/improper-belief)
-*   [[Akrasia|Akrasia]]
-*   [Death Spirals and the Cult Attractor](https://www.lesswrong.com/tag/death-spirals-and-the-cult-attractor)
+*   [[Improper Belief|Improper belief]]
+*   [[Akrasia]]
+*   [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]

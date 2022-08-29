@@ -1,4 +1,5 @@
 ---
+_id: Qyeqh8wycbSapBNsp
 title: Pomodoro Technique
 href: https://lesswrong.com/tag/pomodoro-technique
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:21.014Z'
 ---
+# Pomodoro Technique
 
 The **Pomodoro Technique** is a [[Productivity|productivity]] technique where you alternate between 25 minutes of work and 5 minutes of break time.
 

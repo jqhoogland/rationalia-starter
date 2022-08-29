@@ -1,18 +1,21 @@
 ---
+_id: YPZCAs9Axp9PtrF22
 title: Humility
-href: https://lesswrong.com/tags/humility
+href: https://lesswrong.com/tag/humility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:18.809Z'
 ---
+# Humility
 
 Outside of LessWrong, "humility" usually [refers to](https://www.google.com/search?q=humility) "a modest or low view of one's own importance". In common parlance, to be [humble](https://ahdictionary.com/word/search.html?q=%20HUMBLE) is to be meek, deferential, submissive, or unpretentious, "not arrogant or prideful". Thus, in ordinary English "humility" and "[[Humility|modesty]]" have pretty similar connotations.
 
 On LessWrong, Eliezer Yudkowsky has proposed that we instead draw a sharp distinction between two kinds of "humility" — social modesty, versus "**scientific humility**".
 
-In [The Proper Use of Humility](https://www.lesswrong.com/posts/GrDqnMjhqoxiqpQPw/the-proper-use-of-humility) (2006), Yudkowsky writes:
+In [[The Proper Use of Humility]] (2006), Yudkowsky writes:
 
 > You suggest studying harder, and the student replies: “No, it wouldn’t work for me; I’m not one of the smart kids like you; nay, one so lowly as myself can hope for no better lot.”
 > 
@@ -20,9 +23,9 @@ In [The Proper Use of Humility](https://www.lesswrong.com/posts/GrDqnMjhqoxiqpQP
 > 
 > If you ask someone to “be more humble,” by default they’ll associate the words to social modesty—which is an intuitive, everyday, ancestrally relevant concept. Scientific humility is a more recent and rarefied invention, and it is not inherently social. Scientific humility is something you would practice even if you were alone in a spacesuit, light years from Earth with no one watching. Or even if you received an absolute guarantee that no one would ever criticize you again, no matter what you said or thought of yourself. You’d still double-check your calculations if you were wise.
 
-On LW, then, we tend to follow the convention of using "humility" as a term of art for an important part of reasoning: combating [[Overconfidence|overconfidence]], recognizing and improving on your [weaknesses](https://www.lesswrong.com/tag/heuristics-and-biases), anticipating and preparing for likely errors you'll make, etc.
+On LW, then, we tend to follow the convention of using "humility" as a term of art for an important part of reasoning: combating [[Overconfidence|overconfidence]], recognizing and improving on your [[Heuristics & Biases|weaknesses]], anticipating and preparing for likely errors you'll make, etc.
 
-In contrast, "[[Humility|modesty]]" here refers to the bad habit of letting your behavior and [epistemics](https://www.lesswrong.com/tag/epistemology) be ruled by not wanting to look arrogant or conceited. Yudkowsky argues in [*Inadequate Equilibria*](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d) (2017) that psychological impulses like "[status regulation and anxious underconfidence](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d/p/o28fkhcZsBhhgfGjx)" have caused many people in the effective altruism and rationality communities to adopt a "[[Modest Epistemology|modest epistemology]]" that involves rationalizing various false world-models and invalid reasoning heuristics.
+In contrast, "[[Humility|modesty]]" here refers to the bad habit of letting your behavior and [[Epistemology|epistemics]] be ruled by not wanting to look arrogant or conceited. Yudkowsky argues in [*Inadequate Equilibria*](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d) (2017) that psychological impulses like "[status regulation and anxious underconfidence](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d/p/o28fkhcZsBhhgfGjx)" have caused many people in the effective altruism and rationality communities to adopt a "[[Modest Epistemology|modest epistemology]]" that involves rationalizing various false world-models and invalid reasoning heuristics.
 
 LW tries to create a social environment where social reward and punishment is generally less salient, and where (to the extent it persists) it incentivizes honesty and truth-seeking as much as possible. LW doesn't always *succeed* in this goal, but this is nonetheless the goal.
 
@@ -45,7 +48,7 @@ While humility is based on the general idea that you are fallible (and should tr
 
 *   Given your fallibility, you should rely heavily on various techniques associated with "[[Inside/Outside View|the outside view]]", and try to avoid using "inside views".
 *   Given the human tendency to rationalize and self-deceive, you should trust average opinions, or the average opinion of authoritative-sounding sources, more than your own opinions (including your own fine-grained opinions about which authorities have good epistemics on which topics).
-*   Given the risks and commonness of [overconfidence](https://www.lesswrong.com/tag/overconfidence), you should worry much more about overconfidence, and worry little (or not at all) about [underconfidence](https://www.lesswrong.com/s/pvim9PZJ6qHRTMqD3/p/pkFazhcTErMw7TFtT).
+*   Given the risks and commonness of [[Overconfidence|overconfidence]], you should worry much more about overconfidence, and worry little (or not at all) about [underconfidence](https://www.lesswrong.com/s/pvim9PZJ6qHRTMqD3/p/pkFazhcTErMw7TFtT).
 
 In contrast, Yudkowsky has [argued](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d/p/o28fkhcZsBhhgfGjx):
 
@@ -53,7 +56,7 @@ In contrast, Yudkowsky has [argued](https://www.lesswrong.com/s/oLGCcbnvabyibnG9
 > 
 > Yes. First of all, overcompensation after being warned about a cognitive bias is also a recognized problem in the literature; and the literature on that talks about how bad people often are at determining whether they’re undercorrecting or overcorrecting. Second, my own experience has been that while, yes, commenters on the Internet are often overconfident, it’s very different when I’m talking to people in person. My more recent experience seems more like 90% telling people to be less underconfident, to reach higher, to be more ambitious, to test themselves, and maybe 10% cautioning people against overconfidence. And yes, this ratio applies to men as well as women and nonbinary people, and to people considered high-status as well as people considered low-status.
 
-[The Sin of Underconfidence](https://www.lesswrong.com/posts/pkFazhcTErMw7TFtT/the-sin-of-underconfidence) (2009) argues that underconfidence is one of the "three great besetting sins of rationalists" (the [others](https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words) being motivated reasoning / [motivated skepticism](https://www.lesswrong.com/tag/motivated-skepticism) and "cleverness").
+[The Sin of Underconfidence](https://www.lesswrong.com/posts/pkFazhcTErMw7TFtT/the-sin-of-underconfidence) (2009) argues that underconfidence is one of the "three great besetting sins of rationalists" (the [others](https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words) being motivated reasoning / [[Motivated Skepticism|motivated skepticism]] and "cleverness").
 
 In [Taboo "Outside View"](https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view) (2021), Daniel Kokotajlo notes that the original meaning of "outside view" ([reference class forecasting](https://en.wikipedia.org/wiki/Reference_class_forecasting)) has become eroded as EAs have begun using "outside view" to refer to everything from reasoning by analogy, to trend extrapolation, to foxy aggregation, to bias correction, to "deference to wisdom of the many", to "anti-weirdness heuristics", to priors, etc.
 
@@ -66,9 +69,9 @@ Likewise, the lesson isn't "it's bad to ever worry about overconfidence", but ra
 Related pages
 -------------
 
-*   [[Calibration|Calibration]]
-*   [Chesterton's Fence](https://www.lesswrong.com/tag/chesterton-s-fence)
-*   [[Underconfidence|Underconfidence]] and [Overconfidence](https://www.lesswrong.com/tag/overconfidence)
-*   [[Modest Epistemology|Modest Epistemology]]
-*   [Modesty](https://www.lesswrong.com/tag/modesty)
-*   [[Fallacy of Gray|Fallacy of Gray]]
+*   [[Calibration]]
+*   [[Chesterton's Fence]]
+*   [[Underconfidence]] and [[Overconfidence]]
+*   [[Modest Epistemology]]
+*   [[Humility|Modesty]]
+*   [[Fallacy of Gray]]

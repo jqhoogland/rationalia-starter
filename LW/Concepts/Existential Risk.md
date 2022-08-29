@@ -1,12 +1,15 @@
 ---
+_id: Rz5jb3cYHTSRmqNnN
 title: Existential Risk
-href: https://lesswrong.com/tags/existential-risk
+href: https://lesswrong.com/tag/existential-risk
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:06.758Z'
 ---
+# Existential Risk
 
 An **existential risk** (or **x-risk**) is a risk that poses astronomically large negative consequences for humanity, such as human extinction or permanent global totalitarianism.
 
@@ -14,7 +17,7 @@ An **existential risk** (or **x-risk**) is a risk that poses astronomically larg
 
 > One where an adverse outcome would either annihilate Earth-originating intelligent life or permanently and drastically curtail its potential.
 
-The Oxford [Future of Humanity Institute](https://www.lesswrong.com/tag/future-of-humanity-institute-fhi) (FHI) was founded by Bostrom in 2005 in part to study existential risks. Other institutions with a generalist focus on existential risk include the [Centre for the Study of Existential Risk](https://www.cser.ac.uk/).
+The Oxford [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] (FHI) was founded by Bostrom in 2005 in part to study existential risks. Other institutions with a generalist focus on existential risk include the [Centre for the Study of Existential Risk](https://www.cser.ac.uk/).
 
 FHI's [existential-risk.org FAQ](https://www.existential-risk.org/faq.html) notes regarding the definition of "existential risk":
 

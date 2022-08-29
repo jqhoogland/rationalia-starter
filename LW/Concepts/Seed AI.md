@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb292
 title: Seed AI
 href: https://lesswrong.com/tag/seed-ai
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:40.736Z'
 ---
+# Seed AI
 
 A **Seed AI** (a term coined by [[Eliezer Yudkowsky]]) is an [[Artificial General Intelligence]] (AGI) which improves itself by [[Recursive Self-Improvement|recursively rewriting]] its own source code without human intervention. Initially this program would likely have a minimal intelligence, but over the course of many iterations it would evolve to human-equivalent or even trans-human reasoning. The key for successful [[AI Takeoff|AI takeoff]] would lie in creating adequate starting conditions.
 

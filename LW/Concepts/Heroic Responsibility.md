@@ -1,12 +1,15 @@
 ---
+_id: NzSTgAtKwgivkfeYm
 title: Heroic Responsibility
-href: https://lesswrong.com/tags/heroic-responsibility
+href: https://lesswrong.com/tag/heroic-responsibility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:02.840Z'
 ---
+# Heroic Responsibility
 
 **Heroic responsibility** is the responsibility to get the job done no matter what, including not shifting any responsibility for its completion on to others.
 

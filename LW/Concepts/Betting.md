@@ -1,21 +1,24 @@
 ---
+_id: E8PHMuf7tsr8teXAe
 title: Betting
-href: https://lesswrong.com/tags/betting
+href: https://lesswrong.com/tag/betting
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:23.320Z'
 ---
+# Betting
 
 **Betting** is staking money (or some other form of value) on one's beliefs. It is considered rationally virtuous to bet on one's beliefs, as the real stakes force one to actually consider precisely what they [[Making Beliefs Pay Rent (in Anticipated Experiences)|anticipate]] will really happen. LessWrong has a culture of betting.
 
-*See also:* [Prediction Markets,](https://www.lesswrong.com/tag/prediction-markets) [[Forecasting & Prediction|Forecasting & Prediction,]] [Forecasts (Specific Predictions)](https://www.lesswrong.com/tag/forecasts)
+*See also:* [[Prediction Markets|Prediction Markets,]] [[Forecasting & Prediction|Forecasting & Prediction,]] [[Forecasts (Specific Predictions)]]
 
 Why is betting important?
 -------------------------
 
-The argument in favor of betting is that one should generally either accept a proposed bet, in order to make money in expectation, or update their beliefs so the bet becomes unprofitable. There are exceptions to this rule, some theoretical, such as the example of [Omega and Omicron](https://www.lesswrong.com/posts/G7HgP9KTWAMSv6oEJ/bets-and-updating), and some practical, such as uncertainty about whether the bet will be fulfilled. Offering a bet forces someone to think more carefully and share their beliefs more precisely. Losing a bet, even small, can make it more emotionally visceral in a way that might lead to sharpening belief [calibration](https://www.lesswrong.com/tag/calibration) more. Bets can be made about beliefs that can be immediately verified or about beliefs that will only be verifiable in the future.
+The argument in favor of betting is that one should generally either accept a proposed bet, in order to make money in expectation, or update their beliefs so the bet becomes unprofitable. There are exceptions to this rule, some theoretical, such as the example of [Omega and Omicron](https://www.lesswrong.com/posts/G7HgP9KTWAMSv6oEJ/bets-and-updating), and some practical, such as uncertainty about whether the bet will be fulfilled. Offering a bet forces someone to think more carefully and share their beliefs more precisely. Losing a bet, even small, can make it more emotionally visceral in a way that might lead to sharpening belief [[Calibration|calibration]] more. Bets can be made about beliefs that can be immediately verified or about beliefs that will only be verifiable in the future.
 
 In popular culture, this idea is often referred to as "putting one's money where one's mouth is".
 
@@ -33,7 +36,7 @@ Operationalization for Bets
 Prediction Markets
 ------------------
 
-A [prediction market](https://www.lesswrong.com/tag/prediction-markets) is a way for everyone to participate in betting on a particular question. A positive externality of prediction markets, and to a lesser extent bets, is providing a reliable probability on its questions. It can also act as an insurer. [3](https://www.lesswrong.com/posts/ts4KmAR8aJoGMawLb/link-bets-do-not-necessarily-reveal-beliefs)[4](https://www.lesswrong.com/posts/JDKfPsHvBwgq4Knn9/buy-insurance-bet-against-yourself) [Truthcoin](http://www.truthcoin.info/), an idea for a decentralized prediction market, has the slogan "Making cheap talk expensive".
+A [[Prediction Markets|prediction market]] is a way for everyone to participate in betting on a particular question. A positive externality of prediction markets, and to a lesser extent bets, is providing a reliable probability on its questions. It can also act as an insurer. [3](https://www.lesswrong.com/posts/ts4KmAR8aJoGMawLb/link-bets-do-not-necessarily-reveal-beliefs)[4](https://www.lesswrong.com/posts/JDKfPsHvBwgq4Knn9/buy-insurance-bet-against-yourself) [Truthcoin](http://www.truthcoin.info/), an idea for a decentralized prediction market, has the slogan "Making cheap talk expensive".
 
 [Long Bets](http://longbets.org/) is also a useful platform to make certain bets.
 
@@ -43,7 +46,7 @@ However, Long Bets hasn't good incentives to make long term bets as explained by
 
 See also:
 
-*   [LessWiki Bets Registry](https://www.lesswrong.com/tag/bets-registry) (outdated)
+*   [[Bets Registry|LessWiki Bets Registry]] (outdated)
 
 External links:
 

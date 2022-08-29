@@ -1,4 +1,5 @@
 ---
+_id: dNNwmxdmvtxMGMFgX
 title: Air Quality
 href: https://lesswrong.com/tag/air-quality
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:14.797Z'
 ---
+# Air Quality
 
 Poor **Air Quality** can reduce cognitive functioning[^1], lifespans[^2] and the techniques to improve air quality are also useful for getting rid of aerosolized respiratory pathogens. Improving air quality can be an impactful global health intervention.[^3] Many members of the LessWrong community have also put effort into improving the air quality of their own homes or offices, as an implication of instrumental rationality.
 

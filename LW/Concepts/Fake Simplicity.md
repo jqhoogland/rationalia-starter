@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1b0
 title: Fake Simplicity
-href: https://lesswrong.com/tags/fake-simplicity
+href: https://lesswrong.com/tag/fake-simplicity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:09.682Z'
 ---
+# Fake Simplicity
 
 Blog posts
 ----------
@@ -20,8 +23,8 @@ Blog posts
 See also
 --------
 
-*   [Semantic stopsign](https://www.lesswrong.com/tag/semantic-stopsign), [[Rationalization|Rationalization]]
-*   [Narrative fallacy](https://www.lesswrong.com/tag/narrative-fallacy)
-*   [[Complexity of Value|Complexity of value]], [Magical categories](https://www.lesswrong.com/tag/magical-categories)
-*   [[Occam's Razor|Occam's razor]], [Detached lever fallacy](https://www.lesswrong.com/tag/detached-lever-fallacy)
-*   [[Phlogiston|Phlogiston]]
+*   [[Semantic Stopsign|Semantic stopsign]], [[Rationalization]]
+*   [[Narrative Fallacy|Narrative fallacy]]
+*   [[Complexity of Value|Complexity of value]], [[Magical Categories|Magical categories]]
+*   [[Occam's Razor|Occam's razor]], [[Detached Lever Fallacy|Detached lever fallacy]]
+*   [[Phlogiston]]

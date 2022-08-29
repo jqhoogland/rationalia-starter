@@ -1,4 +1,5 @@
 ---
+_id: Eha62RrqBtEbpcEza
 title: Repository
 href: https://lesswrong.com/tag/repository-1
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:20.956Z'
 ---
+# Repository
 
 **Repositories** are pages that are meant to collect information and advice of a specific type or area from the LW community. 
 

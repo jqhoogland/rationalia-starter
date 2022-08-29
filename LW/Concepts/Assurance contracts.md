@@ -1,4 +1,5 @@
 ---
+_id: EPTcHwSJxRHXAipT2
 title: Assurance contracts
 href: https://lesswrong.com/tag/assurance-contracts
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.829Z'
 ---
+# Assurance contracts
 
 An **Assurance Contract** is a contract of the form "I commit to X if Y other people do the same". for example, "I commit to come to a protest if 100K other people make the same commitment". if less than 100K sign this contract, it has no effect. if 100K or more sign it, it goes into effect and everyone who signed it is expected to come to the protest.
 

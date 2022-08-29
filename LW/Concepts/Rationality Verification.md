@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb163
 title: Rationality Verification
-href: https://lesswrong.com/tags/rationality-verification
+href: https://lesswrong.com/tag/rationality-verification
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:58.942Z'
 ---
+# Rationality Verification
 
 **Verifying rationality is possibly the single largest problem** for those desiring to create methods of systematically training for increased epistemic and instrumental [[Rationality|rationality]] \- how to verify that the training actually *worked*. Very Awful Things happen to people who set out to build training methods and schools without *strong* means of verification - two hideous historical examples being modern-day practice of martial arts (once the teachers are no longer fighting duels to the death) and the proliferating "schools" of psychotherapy (in the entire absence of any experimental evidence that one school worked better than another, and indeed, in the presence of experimental evidence that the schools did *no* have any discernible difference in effectiveness).
 
@@ -22,8 +25,8 @@ External links
 See also
 --------
 
-*   [Exercises / Problem-Sets](https://www.lesswrong.com/tag/exercises-problem-sets)
+*   [[Exercises / Problem-Sets]]
 *   [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)
-*   [Rationality](https://www.lesswrong.com/tag/rationality)
+*   [[Rationality]]
 *   [[Rationality As Martial Art|Rationality as martial art]]
-*   [Decision theory](https://www.lesswrong.com/tag/decision-theory)
+*   [[Decision Theory|Decision theory]]

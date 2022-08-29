@@ -1,12 +1,15 @@
 ---
+_id: XJjvxWB68GYpts93N
 title: Nanotechnology
-href: https://lesswrong.com/tags/nanotechnology
+href: https://lesswrong.com/tag/nanotechnology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:58.566Z'
 ---
+# Nanotechnology
 
 **Nanotechnology** is the field of study concerned with the manipulation of matter at an atomic and molecular scale. Tipically, this involves structures with sizes ranging from 1 to 100 nanometres. It is currently one of the most well-funded areas worlwide. The term was first coined in 1974 by Norio Taniguchi.
 
@@ -16,7 +19,7 @@ The field of nanotechonology has led to the development of a huge amount of new 
 
 Drexler has proposed, with his *molecular nanotechnology*, that the field could evolve to exploit more than just this scale properties, this pure nanomaterials research. His suggestions, highly speculative, include research on the ability of developing means of mechanosynthesis - such as having miniature production lines using machines to build structures. This would allow, for example, the precise control of chemical reactions, eliminating the imprecision existing in conventional chemistry.
 
-When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the development of [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), Yudkowsky proposes that the unrestricted access to nanotechnology by an [Unfriendly artificial intelligence](https://www.lesswrong.com/tag/unfriendly-artificial-intelligence) could have catastrophic results for mankind.
+When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the development of [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), Yudkowsky proposes that the unrestricted access to nanotechnology by an [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]] could have catastrophic results for mankind.
 
 Further Reading & References
 ----------------------------
@@ -29,5 +32,5 @@ Further Reading & References
 See also
 --------
 
-*   [Exploratory engineering](https://www.lesswrong.com/tag/exploratory-engineering)
-*   [[Rational Evidence|Rational evidence]], [Science](https://www.lesswrong.com/tag/science)
+*   [[Exploratory Engineering|Exploratory engineering]]
+*   [[Rational Evidence|Rational evidence]], [[Science]]

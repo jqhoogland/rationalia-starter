@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2a8
 title: Astronomical Waste
 href: https://lesswrong.com/tag/astronomical-waste
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:39.830Z'
 ---
+# Astronomical Waste
 
 **Astronomical waste** is a term introduced by [[Nick Bostrom]] for the opportunities we're losing out on by not colonizing the universe.
 

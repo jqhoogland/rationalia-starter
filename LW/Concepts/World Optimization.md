@@ -1,13 +1,16 @@
 ---
+_id: xexCWMyds6QLWognu
 title: World Optimization
-href: https://lesswrong.com/tags/world-optimization
+href: https://lesswrong.com/tag/world-optimization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
 core: true
+synchedAt: '2022-08-29T11:04:12.009Z'
 ---
+# World Optimization
 
 **World Optimization** is the full use of our agency. It is extending the reach of human civilization. It is building cities and democracies and economic systems and computers and flight and science and space rockets and the internet. World optimization is about adding to that list.   
   
@@ -24,4 +27,4 @@ But it’s not just about growth, it’s also about preservation. We are still i
 
 Content which describes *how the world is* that directly bears upon choices one makes to optimize the world fall under this tag. Examples include discussion of the moral patienthood of different animals, the potential of human civilization, and the most effective interventions against a global health threat.
 
-Some material has both immediate relevance to world optimization decisions but also can inform broader world models. This material might be included under both [[World Modeling|World Modeling]] tag and this tag.
+Some material has both immediate relevance to world optimization decisions but also can inform broader world models. This material might be included under both [[World Modeling]] tag and this tag.

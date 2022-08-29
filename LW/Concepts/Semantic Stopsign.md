@@ -1,16 +1,19 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb12b
 title: Semantic Stopsign
-href: https://lesswrong.com/tags/semantic-stopsign
+href: https://lesswrong.com/tag/semantic-stopsign
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:14.643Z'
 ---
+# Semantic Stopsign
 
-A **semantic stopsign** or **curiosity stopper** is a meaningless, generic explanation that creates the illusion of giving an answer, without actually explaining anything. Semantic stopsigns destroy [[Curiosity|curiosity]], giving surrogate answers and stopping the search for [truth](https://www.lesswrong.com/tag/truth-semantics-and-meaning) prematurely. Can preserve [[Improper Belief|incorrect beliefs]] for a long time, insisting on following [cached thought](https://www.lesswrong.com/tag/cached-thought) without rethinking anything. A tool of [[Dark Arts|dark arts]] and an important part of any [anti-epistemology](https://www.lesswrong.com/tag/anti-epistemology).
+A **semantic stopsign** or **curiosity stopper** is a meaningless, generic explanation that creates the illusion of giving an answer, without actually explaining anything. Semantic stopsigns destroy [[Curiosity|curiosity]], giving surrogate answers and stopping the search for [[Truth, Semantics, & Meaning|truth]] prematurely. Can preserve [[Improper Belief|incorrect beliefs]] for a long time, insisting on following [[Cached Thoughts|cached thought]] without rethinking anything. A tool of [[Dark Arts|dark arts]] and an important part of any [[Anti-Epistemology|anti-epistemology]].
 
-When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist taboo]] on them may help. [Epistemic hygiene](https://www.lesswrong.com/tag/epistemic-hygiene) allows excluding some of the stopsigns raised by [[Arguments As Soldiers|partial arguers]] or by your own [cognitive biases](https://wiki.lesswrong.com/wiki/cognitive_biases).
+When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist taboo]] on them may help. [[Epistemic Hygiene|Epistemic hygiene]] allows excluding some of the stopsigns raised by [[Arguments As Soldiers|partial arguers]] or by your own [cognitive biases](https://wiki.lesswrong.com/wiki/cognitive_biases).
 
 Blog posts
 ----------
@@ -26,9 +29,9 @@ Blog posts
 See also
 --------
 
-*   [Curiosity](https://www.lesswrong.com/tag/curiosity), [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
-*   [Improper belief](https://www.lesswrong.com/tag/improper-belief)
-*   [[Fake Simplicity|Fake simplicity]], [Cached thought](https://www.lesswrong.com/tag/cached-thought)
-*   [[Anti-Epistemology|Anti-epistemology]], [Logical rudeness](https://www.lesswrong.com/tag/logical-rudeness)
-*   [[Rationalist Taboo|Rationalist taboo]], [Epistemic hygiene](https://www.lesswrong.com/tag/epistemic-hygiene)
-*   [[Phlogiston|Phlogiston]]
+*   [[Curiosity]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
+*   [[Improper Belief|Improper belief]]
+*   [[Fake Simplicity|Fake simplicity]], [[Cached Thoughts|Cached thought]]
+*   [[Anti-Epistemology|Anti-epistemology]], [[Logical Rudeness|Logical rudeness]]
+*   [[Rationalist Taboo|Rationalist taboo]], [[Epistemic Hygiene|Epistemic hygiene]]
+*   [[Phlogiston]]

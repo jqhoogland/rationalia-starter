@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb118
 title: Underconfidence
-href: https://lesswrong.com/tags/underconfidence
+href: https://lesswrong.com/tag/underconfidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:04.436Z'
 ---
+# Underconfidence
 
 **Underconfidence** is the state of being more uncertain than is justified, given your [priors](https://wiki.lesswrong.com/wiki/prior) and the evidence you are aware of.
 
@@ -20,8 +23,8 @@ Blog posts
 See also
 --------
 
-*   [[Overconfidence|Overconfidence]]
-*   [Modesty](https://www.lesswrong.com/tag/modesty)
+*   [[Overconfidence]]
+*   [[Humility|Modesty]]
 *   [[Fallacy of Gray|Fallacy of gray]]
 *   [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
 *   [[Motivated Skepticism|Motivated skepticism]]

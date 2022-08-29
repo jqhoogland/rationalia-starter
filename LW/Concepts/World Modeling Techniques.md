@@ -1,12 +1,15 @@
 ---
+_id: oFpCNzqBd6tzCuxLa
 title: World Modeling Techniques
-href: https://lesswrong.com/tags/world-modeling-techniques
+href: https://lesswrong.com/tag/world-modeling-techniques
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:06.733Z'
 ---
+# World Modeling Techniques
 
 A **world-modeling technique** is a general-purpose method for generating world models \[LINK\], or a pattern which recurs in world models, across many domains.
 

@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb22c
 title: Parfit's Hitchhiker
-href: https://lesswrong.com/tags/parfits-hitchhiker
+href: https://lesswrong.com/tag/parfits-hitchhiker
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:37.882Z'
 ---
+# Parfit's Hitchhiker
 
 **Parfit's Hitchhiker** is a problem for testing [[Decision Theory|decision theories]]. It asks an agent to sacrifice utility at a later time to obtain utility at an earlier time, where the sacrifice happens *after* the benefit.
 
@@ -20,7 +23,7 @@ From [Timeless Decision Theory: Problems I Can't Solve](https://www.lesswrong.co
 > 
 > This is the dilemma of Parfit's Hitchhiker, and the above is the standard resolution according to mainstream philosophy's causal decision theory, which also two-boxes on [[Newcomb's Problem|Newcomb's problem]] and defects in the \[Twin\] Prisoner's Dilemma.
 
-MIRI's newest decision theory, [Functional Decision Theory](https://www.lesswrong.com/tag/functional-decision-theory) (FDT), notes that, while you're talking to the driver, you already know whether or not you're going to pay once you're in town (the problem specifies this). More formally, you have a model of your future decision procedure, which you run to predict what you will do once you're in town. Therefore, if you follow FDT, you pay up once you're in town: if you do so, your past model of your decision procedure also "pays" - which means "past you" predicts you'll pay and can truthfully say "Yes" to Paul Ekman. Paul reads your microexpressions, believes you, and conveys you to town. If you don't pay up once you're in town, "past you" predicts this and can't truthfully say "yes" to the driver, resulting in a lonely death in the desert.
+MIRI's newest decision theory, [[Functional Decision Theory]] (FDT), notes that, while you're talking to the driver, you already know whether or not you're going to pay once you're in town (the problem specifies this). More formally, you have a model of your future decision procedure, which you run to predict what you will do once you're in town. Therefore, if you follow FDT, you pay up once you're in town: if you do so, your past model of your decision procedure also "pays" - which means "past you" predicts you'll pay and can truthfully say "Yes" to Paul Ekman. Paul reads your microexpressions, believes you, and conveys you to town. If you don't pay up once you're in town, "past you" predicts this and can't truthfully say "yes" to the driver, resulting in a lonely death in the desert.
 
 Blog Posts
 ----------
@@ -30,11 +33,11 @@ Blog Posts
 See Also
 --------
 
-*   [Decision theory](https://www.lesswrong.com/tag/decision-theory)
+*   [[Decision Theory|Decision theory]]
 *   [[Newcomb's Problem|Newcomb's problem]]
-*   [Counterfactual mugging](https://www.lesswrong.com/tag/counterfactual-mugging)
+*   [[Counterfactual Mugging|Counterfactual mugging]]
 *   [[Smoking Lesion|Smoking lesion]]
-*   [Absent-minded driver](https://www.lesswrong.com/tag/absent-minded-driver)
+*   [[Absent-Minded Driver|Absent-minded driver]]
 *   [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
-*   [Prisoner's dilemma](https://www.lesswrong.com/tag/prisoner-s-dilemma)
+*   [[Prisoner's Dilemma|Prisoner's dilemma]]
 *   [[Pascal's Mugging|Pascal's mugging]]

@@ -1,12 +1,15 @@
 ---
+_id: 8XiMxJaWbjNtWLsEj
 title: Cost Disease
-href: https://lesswrong.com/tags/cost-disease
+href: https://lesswrong.com/tag/cost-disease
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:26.474Z'
 ---
+# Cost Disease
 
 **Cost Disease** or **Baumol's cost disease** is a name for the rise of salaries in jobs that have experienced no or low increase of labor productivity \[[1](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)\]. Some use the term generally to refer to rising costs in general \[[2](https://www.lesswrong.com/posts/BBQ5HEnL3ShefQxEj/considerations-on-cost-disease)\].
 

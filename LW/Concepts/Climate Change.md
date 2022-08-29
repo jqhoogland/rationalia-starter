@@ -1,10 +1,13 @@
 ---
+_id: frcrRgCk9PDbEScua
 title: Climate Change
-href: https://lesswrong.com/tags/climate-change
+href: https://lesswrong.com/tag/climate-change
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:59.137Z'
 ---
+# Climate Change
 

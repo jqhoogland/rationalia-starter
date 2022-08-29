@@ -1,12 +1,15 @@
 ---
+_id: rWzGNdjuep56W5u2d
 title: Inside/Outside View
-href: https://lesswrong.com/tags/inside-outside-view
+href: https://lesswrong.com/tag/inside-outside-view
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:02:43.866Z'
 ---
+# Inside/Outside View
 
 An **Inside View** on a topic involves making predictions based on your understanding of the details of the process. An **Outside View** involves ignoring these details and using an estimate based on a class of roughly similar previous cases (alternatively, this is called [reference class forecasting](http://en.wikipedia.org/wiki/Reference_class_forecasting)), though it has been [pointed out](https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view) that the possible meaning has expanded beyond that.
 
@@ -41,7 +44,7 @@ See Also
 --------
 
 *   [Planning fallacy](https://lessestwrong.com/tag/planning-fallacy)
-*   [Modest Epistemology](https://www.lesswrong.com/tag/modest-epistemology)
+*   [[Modest Epistemology]]
 *   [Near/far thinking](https://lessestwrong.com/tag/near-far-thinking)
 *   [Connotation](https://lessestwrong.com/tag/connotation), [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
 *   [Arguing by analogy](https://lessestwrong.com/tag/arguing-by-analogy)

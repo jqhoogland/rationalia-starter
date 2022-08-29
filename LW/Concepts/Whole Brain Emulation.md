@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2b1
 title: Whole Brain Emulation
 href: https://lesswrong.com/tag/whole-brain-emulation
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:38.107Z'
 ---
+# Whole Brain Emulation
 
 **Whole Brain Emulation** or **WBE** is a proposed technique which involves transferring the information contained within a brain onto a computing substrate. The brain can then be simulated, creating a machine intelligence. The concept is often discussed in context of scanning the brain of a person, known as [Mind Uploading](https://www.lesswrong.com/tag/mind-uploading).
 

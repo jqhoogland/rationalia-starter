@@ -1,12 +1,15 @@
 ---
+_id: LnEEs8xGooYmQ8iLA
 title: Truth, Semantics, & Meaning
-href: https://lesswrong.com/tags/truth-semantics-and-meaning
+href: https://lesswrong.com/tag/truth-semantics-and-meaning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:57.722Z'
 ---
+# Truth, Semantics, & Meaning
 
 **Truth, Semantics, and Meaning**: What does it mean to assert that something is true? A very popular answer is [[Map and Territory|map-territory correspondence theory]]. But the details of this theory are not clear, and there are other contenders.
 
@@ -37,7 +40,7 @@ Notable Posts
 *   [Why truth? And...](https://www.lesswrong.com/lw/go/why_truth_and/) \- You have an instrumental motive to care about the truth of your *beliefs about* anything you care about.
 *   [Guardians of the Truth](https://www.lesswrong.com/lw/lz/guardians_of_the_truth/) \- Endorsing a concept of truth is not the same as endorsing a particular belief as eternally, absolutely, knowably true.
 *   [Feeling Rational](https://www.lesswrong.com/lw/hp/feeling_rational/) \- Emotions cannot be true or false, but they can follow from true or false beliefs.
-*   [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/) \- In particular, the [[Litany of Tarski|Litany of Tarski]].
+*   [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/) \- In particular, the [[Litany of Tarski]].
 *   [Fake Norms, or "Truth" vs. Truth](https://www.lesswrong.com/lw/sf/fake_norms_or_truth_vs_truth/) \- Our society has a moral norm for applauding "truth", but actual truths get much less applause (this is a bad thing).
 
 External links
@@ -49,7 +52,7 @@ See also
 --------
 
 *   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
-*   [[Litany of Tarski|Litany of Tarski]], [Litany of Gendlin](https://www.lesswrong.com/tag/litany-of-gendlin)
+*   [[Litany of Tarski]], [[Litany of Gendlin]]
 *   [[Self-Deception|Self-deception]]
-*   [Belief](https://www.lesswrong.com/tag/belief)
+*   [[Belief]]
 *   [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]

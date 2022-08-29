@@ -1,12 +1,15 @@
 ---
+_id: SrW9iP2j6Hi8R5PmT
 title: Black Swans
-href: https://lesswrong.com/tags/black-swans
+href: https://lesswrong.com/tag/black-swans
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:12.250Z'
 ---
+# Black Swans
 
 A **black swan** is a high-impact event that is hard to predict (but not necessarily of low probability). Also, an event that is not accounted for in a model, and therefore causes the model to break down when it occurs.
 
@@ -20,7 +23,7 @@ External posts:
 See also
 --------
 
-*   [Narrative fallacy](https://www.lesswrong.com/tag/narrative-fallacy)
+*   [[Narrative Fallacy|Narrative fallacy]]
 *   [[Hindsight Bias|Hindsight bias]]
 *   [I don't know](https://www.lesswrong.com/tag/i-dont-know)
-*   [[Forecasting & Prediction|Prediction]], [prediction market](https://www.lesswrong.com/tag/prediction-markets), [[Forecast|forecast]]
+*   [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Forecast|forecast]]

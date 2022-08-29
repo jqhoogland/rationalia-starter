@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb108
 title: Priors
-href: https://lesswrong.com/tags/priors
+href: https://lesswrong.com/tag/priors
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:05.980Z'
 ---
+# Priors
 
 In the context of [Bayes's Theorem](https://wiki.lesswrong.com/wiki/Bayes's_Theorem), **priors** refer generically to the beliefs an agent holds regarding a fact, hypothesis or consequence, before being presented with evidence. Upon being presented with new evidence, the agent can multiply their prior with a [likelihood distribution](https://wiki.lesswrong.com/wiki/likelihood_distribution) to calculate a new (posterior) probability for their belief.
 
@@ -42,9 +45,9 @@ Blog posts
 See also
 --------
 
-*   [Evidence](https://www.lesswrong.com/tag/evidence)
+*   [[Evidence]]
 *   [[Inductive Bias|Inductive bias]]
-*   [Belief update](https://www.lesswrong.com/tag/belief-update)
+*   [[Belief Update|Belief update]]
 
 References
 ----------

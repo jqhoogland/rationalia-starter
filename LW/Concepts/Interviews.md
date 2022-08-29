@@ -1,13 +1,16 @@
 ---
+_id: 9DNZfxFvY5iKoZQbz
 title: Interviews
-href: https://lesswrong.com/tags/interviews
+href: https://lesswrong.com/tag/interviews
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:31.671Z'
 ---
+# Interviews
 
 **Interviews**
 
-**Related Pages:** [[Interview Series On Risks From AI|Interview Series On Risks From AI]], [Dialogue (format)](https://www.lesswrong.com/tag/dialogue-format)
+**Related Pages:** [[Interview Series On Risks From AI]], [[Dialogue (format)]]

@@ -1,4 +1,5 @@
 ---
+_id: AHK82ypfxF45rqh9D
 title: Distinctions
 href: https://lesswrong.com/tag/distinctions
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.940Z'
 ---
+# Distinctions
 
 A common [[Failure mode]] is failing to notice a **Distinction** between two or more things. on the other hand, noticing distinctions can lead to insight, dissolving confusion, and better results.
 

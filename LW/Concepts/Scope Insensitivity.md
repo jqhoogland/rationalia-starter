@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb154
 title: Scope Insensitivity
-href: https://lesswrong.com/tags/scope-insensitivity
+href: https://lesswrong.com/tag/scope-insensitivity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:00.266Z'
 ---
+# Scope Insensitivity
 
 The human brain can't *emotionally* represent large quantities; an environmental measure that will save 200,000 birds doesn't conjure anywhere near a hundred times the emotional impact and willingness-to-pay of a measure that would save 2,000 birds, even though *in fact* the former measure *is* two orders of magnitude more effective.
 
@@ -22,8 +25,8 @@ See also
 --------
 
 *   [[Shut Up and Multiply|Shut up and multiply]]
-*   [Expected utility](https://www.lesswrong.com/tag/expected-utility), [[Utilitarianism|Utilitarianism]]
-*   [Evolutionary psychology](https://www.lesswrong.com/tag/evolutionary-psychology)
-*   [[Emotions|Emotion]], [alief](https://www.lesswrong.com/tag/alief)
+*   [[Expected Utility|Expected utility]], [[Utilitarianism]]
+*   [[Evolutionary Psychology|Evolutionary psychology]]
+*   [[Emotions|Emotion]], [[Alief|alief]]
 *   [[Pascal's Mugging|Pascal's mugging]]
-*   [Existential risk](https://www.lesswrong.com/tag/existential-risk)
+*   [[Existential Risk|Existential risk]]

@@ -1,4 +1,5 @@
 ---
+_id: KRSY6MhAcgtBCC9FH
 title: 2017-2019 AI Alignment Prize
 href: https://lesswrong.com/tag/2017-2019-ai-alignment-prize
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:13.956Z'
 ---
+# 2017-2019 AI Alignment Prize
 
 The AI Alignment Prize was a contest carried out during 2017-2019, meant to encourage better work in the area. 
 

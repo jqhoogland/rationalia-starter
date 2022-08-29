@@ -1,12 +1,15 @@
 ---
+_id: sHbKQDqrSinRPcnBv
 title: Information Cascades
-href: https://lesswrong.com/tags/information-cascades
+href: https://lesswrong.com/tag/information-cascades
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:16.244Z'
 ---
+# Information Cascades
 
 An **information cascade** occurs when people update on other people's beliefs, which may individually be a [[Aumann's Agreement Theorem|rational decision]] but may still result in a self-reinforcing community opinion that does not necessarily reflect reality.
 

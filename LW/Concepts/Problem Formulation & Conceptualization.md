@@ -1,10 +1,13 @@
 ---
+_id: KNJvXJK8WaSgE6iAZ
 title: Problem Formulation & Conceptualization
-href: https://lesswrong.com/tags/problem-formulation-and-conceptualization
+href: https://lesswrong.com/tag/problem-formulation-and-conceptualization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:09.487Z'
 ---
+# Problem Formulation & Conceptualization
 

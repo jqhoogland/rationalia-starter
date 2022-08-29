@@ -1,16 +1,19 @@
 ---
+_id: nZCb9BSnmXZXSNA2u
 title: Evolution
-href: https://lesswrong.com/tags/evolution
+href: https://lesswrong.com/tag/evolution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:13.600Z'
 ---
+# Evolution
 
-**Evolution** is "*change in the heritable characteristics of biological populations over successive generations*" ([Wikipedia](https://en.wikipedia.org/wiki/Evolution)). For posts about machine learning look [here](https://www.lesswrong.com/tag/machine-learning?showPostCount=false&useTagName=false).
+**Evolution** is "*change in the heritable characteristics of biological populations over successive generations*" ([Wikipedia](https://en.wikipedia.org/wiki/Evolution)). For posts about machine learning look [[Machine Learning  (ML)|here]].
 
-*Related:* [Biology](https://www.lesswrong.com/tag/biology?showPostCount=true&useTagName=true), [Evolutionary Psychology](https://www.lesswrong.com/tag/evolutionary-psychology?showPostCount=true&useTagName=true),
+*Related:* [[Biology]], [[Evolutionary Psychology]],
 
 The sequence, [The Simple Math of Evolution](https://www.lesswrong.com/s/MH2b8NfWv22dBtrs8) provides a good introduction to LessWrong thinking about evolution.
 
@@ -23,7 +26,7 @@ Firstly, evolution is a useful case study of humans' ability (or inability) to m
 
 > *To train ourselves to see clearly, we need simple practice cases" --* Eliezer Yudkowsky*,* [*Fake Optimisation Criteria*](https://www.lesswrong.com/s/MH2b8NfWv22dBtrs8/p/i6fKszWY6gLZSX2Ey)
 
-Secondly, much of rationality necessarily revolves around the human brain ([for](https://www.lesswrong.com/tag/transhumanism?usePostCount=false&useTagName=false) [now](https://www.lesswrong.com/tag/mind-uploading?showPostCount=false&useTagName=false)). An understanding of how it came into being can be very helpful both for understanding 'bugs' in the system (like superstimuli), and for explaining [Complexity of Value](https://www.lesswrong.com/tag/complexity-of-value?showPostCount=true&useTagName=true), among others.
+Secondly, much of rationality necessarily revolves around the human brain ([[Transhumanism|for]] [now](https://www.lesswrong.com/tag/mind-uploading?showPostCount=false&useTagName=false)). An understanding of how it came into being can be very helpful both for understanding 'bugs' in the system (like superstimuli), and for explaining [[Complexity of Value]], among others.
 
 > *A candy bar is a superstimulus: it contains more concentrated sugar, salt, and fat than anything that exists in the ancestral environment.   A candy bar matches taste buds that evolved in a hunter-gatherer environment, but it matches those taste buds much more strongly than anything that actually existed in the hunter-gatherer environment.  The signal that once reliably correlated to healthy food has been hijacked, blotted out with a point in tastespace that wasn't in the training dataset - an impossibly distant outlier on the old ancestral graphs. *  
 > *\-\-* Eliezer Yudkowsky, [Superstimuli and the Collapse of Western Civilisation](https://www.lesswrong.com/s/MH2b8NfWv22dBtrs8/p/Jq73GozjsuhdwMLEG)

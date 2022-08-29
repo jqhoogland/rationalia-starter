@@ -1,12 +1,15 @@
 ---
+_id: qAvbtzdG2A2RBn7in
 title: Effective Altruism
-href: https://lesswrong.com/tags/effective-altruism
+href: https://lesswrong.com/tag/effective-altruism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:00.166Z'
 ---
+# Effective Altruism
 
 **Effective Altruism** (EA) is a movement trying to invest time and money in causes that do the most possible good per unit investment. EA was at one point called **optimal philanthropy**.
 
@@ -26,11 +29,11 @@ A fourth semi-area is:
 
 *   Does the individual have good **personal fit**?  Do they have unique skills which will make them more effective in an area.
 
-From this, we can see a vast number of charities do not meet all or indeed any of these criteria. A major issue with EA is that some areas are much easier to track progress in than others (think tracking the cost per life saved of malaria nets vs existential [AI](https://www.lesswrong.com/tag/ai?showPostCount=false) risk, for instance). What is clear, however, is that some of the more effective charities (of those which *are* easy to track) have [far more benefit over the average charity than people think](https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/)\-\- perhaps as much as 10,000% as effective.
+From this, we can see a vast number of charities do not meet all or indeed any of these criteria. A major issue with EA is that some areas are much easier to track progress in than others (think tracking the cost per life saved of malaria nets vs existential [[AI]] risk, for instance). What is clear, however, is that some of the more effective charities (of those which *are* easy to track) have [far more benefit over the average charity than people think](https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/)\-\- perhaps as much as 10,000% as effective.
 
-A large portion of the EA community are by and large, **longtermist**. This refers to the idea that, if there are many future generations (100s, 1000s or more), and their lives are as valuable as ours, then even very small impacts on all of their lives-- or things like moving good changes forwards in time or bad ones back-- far outweigh impacts on people who are currently alive. Because this concept is less broadly-accepted than charity for currently-alive people, longtermist solutions are also generally considered to be neglected. Longtermist interventions generally focus on [[Risks of Astronomical Suffering (S-risks)|S-risks]] or [X-risks](https://www.lesswrong.com/tag/existential-risk).
+A large portion of the EA community are by and large, **longtermist**. This refers to the idea that, if there are many future generations (100s, 1000s or more), and their lives are as valuable as ours, then even very small impacts on all of their lives-- or things like moving good changes forwards in time or bad ones back-- far outweigh impacts on people who are currently alive. Because this concept is less broadly-accepted than charity for currently-alive people, longtermist solutions are also generally considered to be neglected. Longtermist interventions generally focus on [[Risks of Astronomical Suffering (S-risks)|S-risks]] or [[Existential Risk|X-risks]].
 
-Examples of longtermist interventions include [[AI|AI]] safety, pandemic preparedness, and [nanotechnology](https://www.lesswrong.com/tag/nanotechnology) security. Examples of other popular EA interventions include global poverty alleviation, malaria treatments, and vitamin supplementation in sub-saharan Africa.  
+Examples of longtermist interventions include [[AI]] safety, pandemic preparedness, and [[Nanotechnology|nanotechnology]] security. Examples of other popular EA interventions include global poverty alleviation, malaria treatments, and vitamin supplementation in sub-saharan Africa.  
  
 
 The **Effective Altruism movement** also has its own forum,   [**The EA Forum**](https://forum.effectivealtruism.org/). It runs on the same software as LessWrong.
@@ -120,11 +123,11 @@ Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism]
 Related
 -------
 
-*   [Altruism](https://www.lesswrong.com/tag/altruism)
-*   [[Cause Prioritization|Cause Prioritization]]
+*   [[Altruism]]
+*   [[Cause Prioritization]]
 *   [Utilitarianism](https://lessestwrong.com/tag/utilitarianism)
 *   [[Risks of Astronomical Suffering (S-risks)|S-risk]]
-*   [X-risk](https://www.lesswrong.com/tag/existential-risk)
+*   [[Existential Risk|X-risk]]
 
 External Resources
 ------------------

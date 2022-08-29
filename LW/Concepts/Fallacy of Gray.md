@@ -1,16 +1,19 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb0e4
 title: Fallacy of Gray
-href: https://lesswrong.com/tags/fallacy-of-gray
+href: https://lesswrong.com/tag/fallacy-of-gray
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:39.443Z'
 ---
+# Fallacy of Gray
 
 The **fallacy of gray** is a common belief in people who are somewhat advanced along the path to optimal truth seeking which claims, roughly, that because nothing is [[Absolute Certainty|certain]], everything is equally uncertain. 
 
-One who commits this fallacy may reply to the statement that probability of winning a [lottery](https://www.lesswrong.com/tag/lottery) is only one in a million by saying: "There's still a chance, right?"
+One who commits this fallacy may reply to the statement that probability of winning a [[Lottery|lottery]] is only one in a million by saying: "There's still a chance, right?"
 
 This fallacy makes a lot of sense once people notice very common and predictable emotional swings proximate to a possible attachment to an emotivist ("boo vs yay") or binary ("black and white") labeling of an entity, or situation, or system, or choice.
 
@@ -32,7 +35,7 @@ However, in calling the fallacy of gray *a fallacy*, some even better thing is i
 
 The better thing, simply put, is to become quantitative and detail oriented. 
 
-A [VNM rational agent](https://www.lesswrong.com/tag/vnm-theorem) will have probabilistic beliefs, p, where 0<p<1, about what's likely to fall out of various choices, and a coherently linear model of value, v, with no behaviorally significant "natural zero".  Then every option is basically assigned the value p*v, and the agent simply always make choices in favor of what the agent calculates gives the most utility, under uncertainty.  
+A [[VNM Theorem|VNM rational agent]] will have probabilistic beliefs, p, where 0<p<1, about what's likely to fall out of various choices, and a coherently linear model of value, v, with no behaviorally significant "natural zero".  Then every option is basically assigned the value p*v, and the agent simply always make choices in favor of what the agent calculates gives the most utility, under uncertainty.  
 
 Suppose there is a choice between  
 something with p*v = -1,000,000 net utility under uncertainty or   
@@ -64,6 +67,6 @@ See also
 --------
 
 *   [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
-*   [[Humility|Humility]]
-*   [Possibility](https://www.lesswrong.com/tag/possibility)
+*   [[Humility]]
+*   [[Possibility]]
 *   [[Absolute Certainty|Absolute certainty]]

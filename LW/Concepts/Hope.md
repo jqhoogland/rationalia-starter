@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb137
 title: Hope
-href: https://lesswrong.com/tags/hope
+href: https://lesswrong.com/tag/hope
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:01.482Z'
 ---
+# Hope
 
 Persisting in clutching to a hope may be disastrous. Be ready to admit you lost, [update](https://wiki.lesswrong.com/wiki/update) on the data that says you did.
 
@@ -20,7 +23,7 @@ Blog posts
 See also
 --------
 
-*   [[Fuzzies|Fuzzies]]
-*   [Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply)
+*   [[Fuzzies]]
+*   [[Shut Up and Multiply|Shut up and multiply]]
 *   [Lotteries](https://wiki.lesswrong.com/wiki/Lotteries)
-*   [Oops](https://www.lesswrong.com/tag/oops)
+*   [[Oops]]

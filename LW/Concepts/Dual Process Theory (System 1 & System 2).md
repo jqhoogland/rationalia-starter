@@ -1,12 +1,15 @@
 ---
+_id: DLskYNGdAGDFpxBF8
 title: Dual Process Theory (System 1 & System 2)
-href: https://lesswrong.com/tags/dual-process-theory-system-1-and-system-2
+href: https://lesswrong.com/tag/dual-process-theory-system-1-and-system-2
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:20.715Z'
 ---
+# Dual Process Theory (System 1 & System 2)
 
 **Dual Process Theory** posits two types of processes in the human brain. According to one characterization, **Type 2** (also known as **System 2**) processes are those which require working memory, and **Type 1** (also known as **System 1**) are those which not.
 

@@ -8,8 +8,9 @@ type: book
 tags:
   - LessWrong
   - Book
-synchedAt: '2022-08-29T10:34:08.508Z'
+synchedAt: '2022-08-29T10:40:16.045Z'
 ---
+# How to Actually Change Your Mind
 
 This truth thing seems pretty handy. Why, then, do we keep jumping to conclusions, digging our heels in, and recapitulating the same mistakes? Why are we so bad at acquiring accurate beliefs, and how can we do better? These seven sequences discuss motivated reasoning and confirmation bias, with a special focus on hard-to-spot species of self-deception and the trap of “using arguments as soldiers”.
 

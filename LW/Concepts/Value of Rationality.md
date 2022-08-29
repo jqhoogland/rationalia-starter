@@ -1,11 +1,14 @@
 ---
+_id: 3QnDqGSdRMA5mdMM6
 title: Value of Rationality
-href: https://lesswrong.com/tags/value-of-rationality
+href: https://lesswrong.com/tag/value-of-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:13.477Z'
 ---
+# Value of Rationality
 
-**Related pages:** [[Costs of Rationality|Costs of Rationality]], [Valley of Bad Rationality](https://www.lesswrong.com/tag/valley-of-bad-rationality), [[Pitfalls of Rationality|Pitfalls of Rationality]], [Criticisms of The Rationalist Movement](https://www.lesswrong.com/tag/criticisms-of-the-rationalist-movement)
+**Related pages:** [[Costs of Rationality]], [[Valley of Bad Rationality]], [[Pitfalls of Rationality]], [[Criticisms of The Rationalist Movement]]

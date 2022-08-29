@@ -1,12 +1,15 @@
 ---
+_id: YrLoz567b553YouZ2
 title: Willpower
-href: https://lesswrong.com/tags/willpower
+href: https://lesswrong.com/tag/willpower
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:03.649Z'
 ---
+# Willpower
 
 **Willpower** is the ability to overcome urges to do or not some activity– to overcome temptation. Typically there is a sense of coercing oneself to do things despite inner resistance.   
   

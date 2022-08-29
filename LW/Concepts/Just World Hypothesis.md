@@ -1,10 +1,13 @@
 ---
+_id: 2wDMWTpP8YNxXdkQD
 title: Just World Hypothesis
-href: https://lesswrong.com/tags/just-world-hypothesis
+href: https://lesswrong.com/tag/just-world-hypothesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:16.951Z'
 ---
+# Just World Hypothesis
 

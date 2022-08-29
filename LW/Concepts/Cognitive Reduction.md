@@ -1,4 +1,5 @@
 ---
+_id: vHzreEfefos3Kqt2p
 title: Cognitive Reduction
 href: https://lesswrong.com/tag/cognitive-reduction
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:23.264Z'
 ---
+# Cognitive Reduction
 
 A **cognitive reduction** is a form of reductive analysis where, rather than reducing something to physical phenomena, we reduce something to the cognitive machinery which give rise to the idea.
 

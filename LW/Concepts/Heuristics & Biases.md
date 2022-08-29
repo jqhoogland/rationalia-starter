@@ -1,16 +1,19 @@
 ---
+_id: 4R8JYu4QF2FqzJxE5
 title: Heuristics & Biases
-href: https://lesswrong.com/tags/heuristics-and-biases
+href: https://lesswrong.com/tag/heuristics-and-biases
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:14.299Z'
 ---
+# Heuristics & Biases
 
 **Heuristics** and **Biases** are the ways human reasoning differs from a theoretical ideal agent, due to reasoning shortcuts that don't always work (heuristics) and systematic errors (biases).
 
-*See also*: [Affect Heuristic](https://www.lesswrong.com/tag/affect-heuristic?showPostCount=true&useTagName=true), [Confirmation Bias](https://www.lesswrong.com/tag/confirmation-bias), [[Fallacies|Fallacies]], [Predictably Wrong](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM), [Rationality](https://www.lesswrong.com/tag/rationality?showPostCount=true), [Your Intuitions Are Not Magic](https://www.lesswrong.com/posts/Psp8ZpYLCDJjshpRb/your-intuitions-are-not-magic), [Bias](https://lessestwrong.com/tag/bias), [Heuristic](https://lessestwrong.com/tag/heuristic)
+*See also*: [[Affect Heuristic]], [[Confirmation Bias]], [[Fallacies]], [Predictably Wrong](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM), [[Rationality]], [Your Intuitions Are Not Magic](https://www.lesswrong.com/posts/Psp8ZpYLCDJjshpRb/your-intuitions-are-not-magic), [Bias](https://lessestwrong.com/tag/bias), [Heuristic](https://lessestwrong.com/tag/heuristic)
 
 Basics
 ======
@@ -32,9 +35,9 @@ Wait a minute... fallacies, biases, heuristics... what's the difference??
 
 While a **bias** is always wrong, a **heuristic** is just a shortcut which may or may not give you an accurate answer. Just because you know complex mathematical methods for precisely calculating the flight of objects through space doesn't mean you should be using them to play volleyball. Which is to say, heuristics are necessary for actually getting anything done. But because they are just approximations they frequently *produce* biases, which is where the problem lies. "Fallacy" is often used to mean a very similar thing as bias on LessWrong. \[Needs better clarification\]
 
-A good example of a heuristic is the [affect heuristic](https://www.lesswrong.com/tag/affect-heuristic?showPostCount=true&useTagName=true)\-\- people tend to guess unknown traits about people or things *based on* the perceived goodness of badness of known traits. In some circumstances this is a useful shortcut-- you may like to assume, for instance, that people who are good singers are more likely to be good dancers, too. However, it also frequently produces (unconscious) biases-- a bias towards believing that people who are tall and good looking have better moral character, for instance.
+A good example of a heuristic is the [[Affect Heuristic|affect heuristic]]\-\- people tend to guess unknown traits about people or things *based on* the perceived goodness of badness of known traits. In some circumstances this is a useful shortcut-- you may like to assume, for instance, that people who are good singers are more likely to be good dancers, too. However, it also frequently produces (unconscious) biases-- a bias towards believing that people who are tall and good looking have better moral character, for instance.
 
 So if I learn all the biases, I can conquer the world with my superior intellect?
 =================================================================================
 
-Well, no. If it were that easy we wouldn't need a community initially dedicated to overcoming bias (the name of [the blog which this website grew out of](https://www.overcomingbias.com/)). Unfortunately, [learning about a bias alone doesn't seem to improve your ability to avoid it in real life](https://www.iejme.com/article/university-students-knowledge-and-biases-in-conditional-probability-reasoning). There's also the (major) issue that [[Knowing About Biases Can Hurt People|knowing about biases can hurt people]]. Instead of being purely focused on removing negative habits, there is now a major focus at LessWrong to implementing [positive habits](https://www.lesswrong.com/tag/techniques?showPostCount=false&useTagName=false). These are skills such as how to update (change your mind) the correct amount in response to evidence, how to resolve disagreements with others, how to introspect, and many more.
+Well, no. If it were that easy we wouldn't need a community initially dedicated to overcoming bias (the name of [the blog which this website grew out of](https://www.overcomingbias.com/)). Unfortunately, [learning about a bias alone doesn't seem to improve your ability to avoid it in real life](https://www.iejme.com/article/university-students-knowledge-and-biases-in-conditional-probability-reasoning). There's also the (major) issue that [[Knowing About Biases Can Hurt People|knowing about biases can hurt people]]. Instead of being purely focused on removing negative habits, there is now a major focus at LessWrong to implementing [[Techniques|positive habits]]. These are skills such as how to update (change your mind) the correct amount in response to evidence, how to resolve disagreements with others, how to introspect, and many more.

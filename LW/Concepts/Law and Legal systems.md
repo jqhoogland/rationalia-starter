@@ -1,12 +1,15 @@
 ---
+_id: wGGAjTfXZBatQkft5
 title: Law and Legal systems
-href: https://lesswrong.com/tags/law-and-legal-systems
+href: https://lesswrong.com/tag/law-and-legal-systems
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:49.187Z'
 ---
+# Law and Legal systems
 
 Courts, juries, lawyers, Law enforcement, justice, but also the legislative process.
 
@@ -16,4 +19,4 @@ Courts, juries, lawyers, Law enforcement, justice, but also the legislative proc
 [Slightly Skew Systems Of Government](https://slatestarcodex.com/2020/06/17/slightly-skew-systems-of-government/)  
 [A Comprehensive Reboot of Law Enforcement](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3)
 
-**Related tags:** [[Government|Government]], [Mechanism Design](https://www.lesswrong.com/tag/mechanism-design)
+**Related tags:** [[Government]], [[Mechanism Design]]

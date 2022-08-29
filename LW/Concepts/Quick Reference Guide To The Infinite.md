@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb245
 title: Quick Reference Guide To The Infinite
-href: https://lesswrong.com/tags/quick-reference-guide-to-the-infinite
+href: https://lesswrong.com/tag/quick-reference-guide-to-the-infinite
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:46.186Z'
 ---
+# Quick Reference Guide To The Infinite
 
 The purpose of this article is to act as a **quick reference to address common confusions regarding infinite quantities**, and how to measure infinite sets. Most of the detailed explanation is offloaded to Wikipedia. Remember: Sometimes inventing a new sort of answer is necessary! If you are a [[Infinite Set Atheism|finitist]], you can probably ignore this.
 

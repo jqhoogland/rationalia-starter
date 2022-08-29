@@ -1,12 +1,15 @@
 ---
+_id: eamWQNQ2dPYWEwhqr
 title: Goal Factoring
-href: https://lesswrong.com/tags/goal-factoring
+href: https://lesswrong.com/tag/goal-factoring
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:28.659Z'
 ---
+# Goal Factoring
 
 **Goal Factoring** is a rationality technique for planning which proceeds by first identifying the underlying goals motivating one or more behaviors and then searching for alternative sets of behaviors that better accomplish the goals. 
 

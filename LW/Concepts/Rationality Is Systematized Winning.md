@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1e9
 title: Rationality Is Systematized Winning
-href: https://lesswrong.com/tags/rationality-is-systematized-winning
+href: https://lesswrong.com/tag/rationality-is-systematized-winning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:53.755Z'
 ---
+# Rationality Is Systematized Winning
 
 The point of all this discussion of rationality is to actually achieve truer beliefs and more effective actions. It's not some arbitrary social fashion; there are actual criteria of success. It is for this reason that it is written that **rationalists should** ***win***. If some particular [[Rituals of Cognition|ritual of cognition]]—even one that you have long cherished as "rational"—systematically gives poorer results relative to some alternative, it is *not* rational to cling to it. The rational algorithm is to *do what works*, to get the actual *answer*—in short, to *win*, whatever the method, whatever the means. If you can *detect* a systematic mistake in your thinking, then *fix it*; if you can *see* a better method, then *adopt it*.
 
@@ -21,7 +24,7 @@ Blog posts
 See also
 --------
 
-*   [Rationality](https://www.lesswrong.com/tag/rationality)
+*   [[Rationality]]
 *   [[Challenging The Difficult|Challenging the Difficult]]
-*   [Problem of verifying rationality](https://www.lesswrong.com/tag/problem-of-verifying-rationality)
+*   [[Rationality Verification|Problem of verifying rationality]]
 *   [[Newcomb's Problem|Newcomb's problem]]

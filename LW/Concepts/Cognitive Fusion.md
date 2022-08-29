@@ -1,4 +1,5 @@
 ---
+_id: 5xyggFN9J64FskhqP
 title: Cognitive Fusion
 href: https://lesswrong.com/tag/cognitive-fusion
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:26.582Z'
 ---
+# Cognitive Fusion
 
 \[More thorough definition/description in [Prereq: Cognitive Fusion](https://www.lesswrong.com/posts/5g7oFiePGEY3h4bqX/prereq-cognitive-fusion) and [Kaj Sotala's attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)\]   
   

@@ -1,12 +1,15 @@
 ---
+_id: qoTbWwaJtTSKosRCA
 title: Taking Ideas Seriously
-href: https://lesswrong.com/tags/taking-ideas-seriously
+href: https://lesswrong.com/tag/taking-ideas-seriously
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:50.363Z'
 ---
+# Taking Ideas Seriously
 
 **Taking Ideas Seriously** is the skill/habit of noticing when a new idea should have major ramifications. 
 

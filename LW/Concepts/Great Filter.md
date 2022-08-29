@@ -1,12 +1,15 @@
 ---
+_id: 25oxqHiadqM6Hf7Gn
 title: Great Filter
-href: https://lesswrong.com/tags/great-filter
+href: https://lesswrong.com/tag/great-filter
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:58.544Z'
 ---
+# Great Filter
 
 The **Great Filter** is a proposed explanation for the [Fermi Paradox](http://en.wikipedia.org/wiki/Fermi_paradox). The development of intelligent life requires many steps, such as the emergence of single-celled life and the transition from unicellular to multicellular life forms. Since we have not observed intelligent life beyond our planet, there seems to be a developmental step that is so difficult and unlikely that it "filters out" nearly all civilizations before they can reach a space-faring stage. Robin Hanson coined the term in his 1998 essay [The Great Filter - Are We Almost Past It?](http://hanson.gmu.edu/greatfilter.html).
 

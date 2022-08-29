@@ -1,12 +1,15 @@
 ---
+_id: YSyvvi4uXvxAARX2D
 title: Slack
-href: https://lesswrong.com/tags/slack
+href: https://lesswrong.com/tag/slack
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:02.686Z'
 ---
+# Slack
 
 **Slack** is absence of binding constraints on behavior. The term is usually capitalized to distinguish it from the ordinary English meaning. Not to be confused with the communication app by the same name.
 

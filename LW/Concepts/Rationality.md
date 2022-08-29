@@ -1,21 +1,24 @@
 ---
+_id: Ng8Gice9KNkncxqcj
 title: Rationality
-href: https://lesswrong.com/tags/rationality
+href: https://lesswrong.com/tag/rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
 core: true
+synchedAt: '2022-08-29T11:04:08.832Z'
 ---
+# Rationality
 
-**Rationality** is the art of thinking in ways that result in [[World Modeling|accurate beliefs]] and [good decisions](https://www.lesswrong.com/tag/decision-theory). It is the primary topic of LessWrong.  
+**Rationality** is the art of thinking in ways that result in [[World Modeling|accurate beliefs]] and [[Decision Theory|good decisions]]. It is the primary topic of LessWrong.  
   
-Rationality is not only about avoiding the vices of [[Self-Deception|self-deception]] and obfuscation (the failure to [communicate clearly](https://www.lesswrong.com/tag/conversation-topic)), but also about the virtue of [[Curiosity|curiosity]], seeing the world more clearly than before, and [achieving things](https://www.lesswrong.com/tag/ambition) [[Skill Building|previously unreachable]] [to you](https://www.lesswrong.com/tag/coordination-cooperation). The study of rationality on LessWrong includes a theoretical understanding of ideal cognitive algorithms, as well as building a practice that uses these idealized algorithms to inform [[Heuristics & Biases|heuristics]], [habits](https://www.lesswrong.com/tag/habits), and [[Techniques|techniques]], to successfully reason and make decisions in the real world.
+Rationality is not only about avoiding the vices of [[Self-Deception|self-deception]] and obfuscation (the failure to [[Conversation (topic)|communicate clearly]]), but also about the virtue of [[Curiosity|curiosity]], seeing the world more clearly than before, and [[Ambition|achieving things]] [[Skill Building|previously unreachable]] [[Coordination / Cooperation|to you]]. The study of rationality on LessWrong includes a theoretical understanding of ideal cognitive algorithms, as well as building a practice that uses these idealized algorithms to inform [[Heuristics & Biases|heuristics]], [[Habits|habits]], and [[Techniques|techniques]], to successfully reason and make decisions in the real world.
 
-Topics covered in rationality include (but are not limited to): normative and theoretical explorations of [ideal](https://www.lesswrong.com/tag/solomonoff-induction) [[Probability & Statistics|reasoning]]; the [capabilities and limitations](https://www.lesswrong.com/tag/evolutionary-psychology) [[Neuroscience|of our brain]], [mind and psychology](https://www.lesswrong.com/tag/dual-process-theory-system-1-and-system-2); applied advice such as [[Introspection|introspection]] techniques and [how to achieve truth collaboratively](https://www.lesswrong.com/tag/group-rationality); practical techniques and methodologies for figuring out what’s true ranging from rough quantitative modeling to full research guides.
+Topics covered in rationality include (but are not limited to): normative and theoretical explorations of [[Solomonoff Induction|ideal]] [[Probability & Statistics|reasoning]]; the [[Evolutionary Psychology|capabilities and limitations]] [[Neuroscience|of our brain]], [[Dual Process Theory (System 1 & System 2)|mind and psychology]]; applied advice such as [[Introspection|introspection]] techniques and [[Group Rationality|how to achieve truth collaboratively]]; practical techniques and methodologies for figuring out what’s true ranging from rough quantitative modeling to full research guides.
 
-Note that content about *how the world is* can be found under [[World Modeling|World Modeling]], and practical advice about *how to change the world* is categorized under [World Optimization](https://www.lesswrong.com/tag/world-optimization) or [Practical](/tag/practical).
+Note that content about *how the world is* can be found under [[World Modeling]], and practical advice about *how to change the world* is categorized under [[World Optimization]] or [Practical](/tag/practical).
 
 * * *
 
@@ -32,14 +35,14 @@ A good heuristic is that rationality is about cognitive algorithms. Rather than 
 
 This is distinct from [practical advice](https://www.lesswrong.com/tag/practical-advice), such as how to improve relationships or implement productivity systems, which should not be considered "rationality" per se. Some have pushed against labeling self-help as "rational dating", etc. for reasons along these lines \[[1](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms), [2](https://www.lesswrong.com/posts/DFHhuAMexXAi8T6AY/the-rational-rationalist-s-guide-to-rationally-using)\], and they are probably correct.
 
-In accordance with this, LessWrong classifies most self-help type advice under the [[World Optimization|World Optimization]] tag and not the Rationality tag.
+In accordance with this, LessWrong classifies most self-help type advice under the [[World Optimization]] tag and not the Rationality tag.
 
-Similarly, most object-level material about *how the world is*, e.g. math, biology, history, etc. is tagged under [World Modeling](https://www.lesswrong.com/tag/world-modeling) tag, with exceptions for neuroscience and probability theory, etc., which have concrete consequences for how one ought to think.
+Similarly, most object-level material about *how the world is*, e.g. math, biology, history, etc. is tagged under [[World Modeling]] tag, with exceptions for neuroscience and probability theory, etc., which have concrete consequences for how one ought to think.
 
 Heuristics and Biases
 ---------------------
 
-Early material on LessWrong frequently describes rationality with reference to heuristics and biases \[[1,](https://www.lesswrong.com/posts/xLm9mgJRPvmPGpo7Q/the-cognitive-science-of-rationality) [2](https://www.lesswrong.com/posts/Psp8ZpYLCDJjshpRb/your-intuitions-are-not-magic)\]. Indeed, LessWrong grew out of the blog [Overcoming Bias](https://www.overcomingbias.com/) and even [Rationality: A-Z](https://www.lesswrong.com/rationality) opens with a discussion of biases \[[1](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/ptxnyfLWqRZ98wnYi)\] with the opening chapter titled [Predictably Wrong](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM). The idea is that human mind has been shown to systematically make certain errors of reasoning, like confirmation bias. Rationality then consists of overcoming these biases.
+Early material on LessWrong frequently describes rationality with reference to heuristics and biases \[[1,](https://www.lesswrong.com/posts/xLm9mgJRPvmPGpo7Q/the-cognitive-science-of-rationality) [2](https://www.lesswrong.com/posts/Psp8ZpYLCDJjshpRb/your-intuitions-are-not-magic)\]. Indeed, LessWrong grew out of the blog [Overcoming Bias](https://www.overcomingbias.com/) and even [Rationality: A-Z](https://www.lesswrong.com/rationality) opens with a discussion of biases \[[Biases: An Introduction|[1]]\] with the opening chapter titled [Predictably Wrong](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM). The idea is that human mind has been shown to systematically make certain errors of reasoning, like confirmation bias. Rationality then consists of overcoming these biases.
 
 Apart from the issue of the replication crises which discredited many examples of bias that were commonly referenced on LessWrong, e.g. priming, the "overcoming biases" frame of rationality is too limited. Rationality requires the development of many *positive* skills, not just removing *negative* biases to reveal underlying perfect reasoning. These are skills such as how to update the correct amount in response to evidence, how to resolve disagreements with others, how to introspect, and many more.
 

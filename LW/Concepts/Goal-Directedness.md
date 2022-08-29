@@ -1,12 +1,15 @@
 ---
+_id: b6tJM7Lza74rTfCBF
 title: Goal-Directedness
-href: https://lesswrong.com/tags/goal-directedness
+href: https://lesswrong.com/tag/goal-directedness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:45.121Z'
 ---
+# Goal-Directedness
 
 The property of some system to be aiming at some goal. In need of formalization, but might prove important in deciding which kind of AI to try to align.
 

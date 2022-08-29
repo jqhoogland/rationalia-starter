@@ -1,16 +1,19 @@
 ---
+_id: dJ6eJxJrCEget7Wb6
 title: Fallacies
-href: https://lesswrong.com/tags/fallacies
+href: https://lesswrong.com/tag/fallacies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:03.987Z'
 ---
+# Fallacies
 
 A **fallacy** is generally considered to be an error in reasoning. It refers both to the failure to apply logic to a line of thought, and to the use of problematic arguments. The term can be applied when dealing both with informal and formal logic, although it usual refers to the former.
 
-*Related:* [[Disagreement|Disagreement]], [Heuristics & Biases](https://www.lesswrong.com/tag/heuristics-and-biases)
+*Related:* [[Disagreement]], [[Heuristics & Biases]]
 
 Informal vs Formal Fallacy
 --------------------------

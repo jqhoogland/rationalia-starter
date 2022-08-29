@@ -1,12 +1,15 @@
 ---
+_id: iP2X4jQNHMWHRNPne
 title: Motivations
-href: https://lesswrong.com/tags/motivations
+href: https://lesswrong.com/tag/motivations
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:02.656Z'
 ---
+# Motivations
 
 **Motivations** are the reasons why we think and do the things that we do. Related: **Desire, Values**. Many questions can asked about motivation such as: i) what does/could/should motivate people? ii) which stated motivations are true motivations for belief and behavior? iii) which motivations are *valid* vs *invalid*? iv) How does motivation even work? 
 

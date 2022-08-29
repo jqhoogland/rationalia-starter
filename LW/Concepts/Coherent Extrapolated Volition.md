@@ -1,16 +1,19 @@
 ---
+_id: W6QZYSNt5FgWgvbdT
 title: Coherent Extrapolated Volition
-href: https://lesswrong.com/tags/coherent-extrapolated-volition
+href: https://lesswrong.com/tag/coherent-extrapolated-volition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:12.780Z'
 ---
+# Coherent Extrapolated Volition
 
-**Coherent Extrapolated Volition** was a term developed by [[Eliezer Yudkowsky|Eliezer Yudkowsky]] while discussing [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI) development. It’s meant as an argument that it would not be sufficient to explicitly program what we think our desires and motivations are into an AI, instead, we should find a way to program it in a way that it would act in our best interests – what we *want* it to do and not what we *tell* it to.
+**Coherent Extrapolated Volition** was a term developed by [[Eliezer Yudkowsky]] while discussing [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI) development. It’s meant as an argument that it would not be sufficient to explicitly program what we think our desires and motivations are into an AI, instead, we should find a way to program it in a way that it would act in our best interests – what we *want* it to do and not what we *tell* it to.
 
-*Related*: [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), [Metaethics Sequence](https://www.lesswrong.com/tag/metaethics-sequence), [[Complexity of Value|Complexity of Value]]
+*Related*: [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), [[Metaethics Sequence]], [[Complexity of Value]]
 
 > *In calculating CEV, an AI would predict what an idealized version of us would want, "if we knew more, thought faster, were more the people we wished we were, had grown up farther together". It would recursively iterate this prediction for humanity as a whole, and determine the desires which converge. This initial dynamic would be used to generate the AI's utility function.* 
 
@@ -47,6 +50,6 @@ See also
 
 *   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 *   [[Metaethics Sequence|Metaethics sequence]]
-*   [Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
-*   [[Coherent Aggregated Volition|Coherent Aggregated Volition]]
+*   [[Complexity of Value|Complexity of value]]
+*   [[Coherent Aggregated Volition]]
 *   [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk)

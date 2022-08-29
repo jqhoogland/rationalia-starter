@@ -1,13 +1,16 @@
 ---
+_id: izp6eeJJEg9v5zcur
 title: Community
-href: https://lesswrong.com/tags/community
+href: https://lesswrong.com/tag/community
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
 core: true
+synchedAt: '2022-08-29T11:04:10.323Z'
 ---
+# Community
 
 The **LessWrong** **Community** is the people who write on LessWrong and who contribute to its mission of refining the art of human rationality. This tag includes community events, analysis of the health, norms and direction of the community, and space to understand communities in general.  
   
@@ -29,7 +32,7 @@ This tag applies to any post about:
 *   Specific projects, orgs, and prizes \[e.g. [1](http://www.lesswrong.com/posts/xFGQdgJndLcthgWoE), [2](http://www.lesswrong.com/posts/KgFrtaajjfSnBSZoH), [3](http://www.lesswrong.com/posts/auL2gAGTb3MsYhCeN), [4](http://www.lesswrong.com/posts/cSzaxcmeYW6z7cgtc), [5](https://www.lesswrong.com/posts/nDHbgjdddG5EN6ocg)\]
 *   Requests and offers for help \[[1](http://www.lesswrong.com/posts/bSWavBThj6ebB62gD), [2](http://www.lesswrong.com/posts/LuL7LLqcdmM7TTYvW), [3](http://www.lesswrong.com/posts/x72ta8C3dKu2QRfPv)\]
 *   Announcements, retrospectives, funding requests, and AMAs from orgs \[[1](http://www.lesswrong.com/posts/XJiNtvxoiLCpBn6FH) [2](https://www.lesswrong.com/posts/96N8BT9tJvybLbn5z/we-run-the-center-for-applied-rationality-ama) [3](http://www.lesswrong.com/posts/KgFrtaajjfSnBSZoH), [4](http://www.lesswrong.com/posts/auL2gAGTb3MsYhCeN), [5](https://www.lesswrong.com/posts/tCHsm5ZyAca8HfJSG)\]
-*   Discussions of the orgs in the LessWrong, Rationalist cluster \[[1](http://www.lesswrong.com/posts/KpnyCT7CZy4Qe6kx6), [2](https://www.lesswrong.com/posts/6SGqkCgHuNr7d4yJm/thoughts-on-the-singularity-institute-si)\]
+*   Discussions of the orgs in the LessWrong, Rationalist cluster \[[1](http://www.lesswrong.com/posts/KpnyCT7CZy4Qe6kx6), [[Thoughts on the Singularity Institute (SI)|2]]\]
 *   Discussions about the LessWrong, Rationalist, and related communities \[[1](http://www.lesswrong.com/posts/2Ee5DPBxowTTXZ6zf), [2](http://www.lesswrong.com/posts/yGycR8tFA3JJbvApp), [3](https://www.lesswrong.com/posts/zAqoj79A7QuhJKKvi)\]
 
-While the [World Optimization](https://www.lesswrong.com/tag/world-optimization)  core tag is for posts discussing how to do good in general, the Community tag is for the specific, concrete efforts of our community to execute plans.
+While the [[World Optimization]]  core tag is for posts discussing how to do good in general, the Community tag is for the specific, concrete efforts of our community to execute plans.

@@ -1,12 +1,15 @@
 ---
+_id: nzvHaqwdXtvWkbonG
 title: Risks of Astronomical Suffering (S-risks)
-href: https://lesswrong.com/tags/risks-of-astronomical-suffering-s-risks
+href: https://lesswrong.com/tag/risks-of-astronomical-suffering-s-risks
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:20.428Z'
 ---
+# Risks of Astronomical Suffering (S-risks)
 
 **(Astronomical) suffering risks**, also known as **s-risks**, are risks of the creation of intense suffering in the far future on an astronomical scale, vastly exceeding all suffering that has existed on Earth so far.
 
@@ -18,7 +21,7 @@ Within the space of x-risks, we can distinguish x-risks that are s-risks, x-risk
 
 A related concept is [**hyperexistential risk**](https://arbital.com/p/hyperexistential_separation/), the risk of "fates worse than death" on an astronomical scale. It is not clear whether all hyperexistential risks are s-risks per se. But arguably all s-risks are hyperexistential, since "tiling the universe with experiences of severe suffering" would likely be worse than death.
 
-There are two [EA](https://wiki.lesswrong.com/wiki/EA) organizations with s-risk prevention research as their primary focus: the [Center on Long-Term Risk](https://www.lesswrong.com/tag/center-on-long-term-risk-clr) (CLR) and the [Center for Reducing Suffering](https://centerforreducingsuffering.org/). Much of CLR's work is on suffering-focused [AI safety](https://wiki.lesswrong.com/wiki/AI_safety) and [[Crucial Considerations|crucial considerations]]. Although to a much lesser extent, the [Machine Intelligence Research Institute](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri) and [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] have investigated strategies to prevent s-risks too. 
+There are two [EA](https://wiki.lesswrong.com/wiki/EA) organizations with s-risk prevention research as their primary focus: the [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]] (CLR) and the [Center for Reducing Suffering](https://centerforreducingsuffering.org/). Much of CLR's work is on suffering-focused [AI safety](https://wiki.lesswrong.com/wiki/AI_safety) and [[Crucial Considerations|crucial considerations]]. Although to a much lesser extent, the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] and [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] have investigated strategies to prevent s-risks too. 
 
 Another approach to reducing s-risk is to "expand the moral circle" [*together*](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/) with raising concern for suffering, so that future (post)human civilizations and AI are less likely to [[Instrumental Value|instrumentally]] cause suffering to non-human minds such as animals or digital sentience. [Sentience Institute](http://www.sentienceinstitute.org/) works on this value-spreading problem.
 
@@ -26,10 +29,10 @@ See also
 --------
 
 *   [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
-*   [Existential risk](https://www.lesswrong.com/tag/existential-risk)
-*   [[Abolitionism|Abolitionism]]
+*   [[Existential Risk|Existential risk]]
+*   [[Abolitionism]]
 *   [Mind crime](https://wiki.lesswrong.com/wiki/Mind_crime)
-*   [[Utilitarianism|Utilitarianism]], [Hedonism](https://www.lesswrong.com/tag/hedonism)
+*   [[Utilitarianism]], [[Hedonism]]
 
 External links
 --------------

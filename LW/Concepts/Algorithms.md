@@ -1,4 +1,5 @@
 ---
+_id: 9ponmAskWgC37GZKk
 title: Algorithms
 href: https://lesswrong.com/tag/algorithms
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:28.496Z'
 ---
+# Algorithms
 
 Posts that describe or demonstrate specific **Algorithms** that can be used to make decisions.
 

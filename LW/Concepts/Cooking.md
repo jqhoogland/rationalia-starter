@@ -1,10 +1,13 @@
 ---
+_id: 6bdeSR7aKmdSQLw6P
 title: Cooking
-href: https://lesswrong.com/tags/cooking
+href: https://lesswrong.com/tag/cooking
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:02:44.858Z'
 ---
+# Cooking
 

@@ -1,19 +1,22 @@
 ---
+_id: tgJoX7PGDDh2vJNqT
 title: Acausal Trade
-href: https://lesswrong.com/tags/acausal-trade
+href: https://lesswrong.com/tag/acausal-trade
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:15.539Z'
 ---
+# Acausal Trade
 
 In **acausal trade**, two agents each benefit by predicting what the other wants and doing it, even though they might have no way of communicating or affecting each other, nor even any direct evidence that the other exists.
 
 Background: Superrationality and the one-shot Prisoner's Dilemma
 ----------------------------------------------------------------
 
-This concept emerged out of the much-debated question of how to achieve cooperation on a one-shot [[Prisoner's Dilemma|Prisoner's Dilemma]], where, by design, the two players are not allowed to communicate. On the one hand, a player who is considering the causal consequences of a decision ("[Causal Decision Theory](https://www.lesswrong.com/tag/causal-decision-theory)") finds that defection always produces a better result. On the other hand, if the other player symmetrically reasons this way, the result is a Defect/Defect equilibrium, which is bad for both agents. If they could somehow converge on Cooperate, they would each individually do better. The question is what variation on decision theory would allow this beneficial equilibrium.
+This concept emerged out of the much-debated question of how to achieve cooperation on a one-shot [[Prisoner's Dilemma]], where, by design, the two players are not allowed to communicate. On the one hand, a player who is considering the causal consequences of a decision ("[[Causal Decision Theory]]") finds that defection always produces a better result. On the other hand, if the other player symmetrically reasons this way, the result is a Defect/Defect equilibrium, which is bad for both agents. If they could somehow converge on Cooperate, they would each individually do better. The question is what variation on decision theory would allow this beneficial equilibrium.
 
 Douglas Hofstadter (see references) coined the term "[[Superrationality|superrationality]]" to express this state of convergence. He illustrated it with a game in which twenty players, who do not know each other's identities, each get an offer. If exactly one player asks for the prize of a billion dollars, they get it, but if none or multiple players ask, no one gets it. Players cannot communicate, but each might reason that the others are reasoning similarly. The "correct" decision--the decision which maximizes expected utility for each player, *if* all players symmetrically make the same decision--is to randomize a one-in-20 chance of asking for the prize.
 
@@ -30,7 +33,7 @@ In an asymmetrical example, one agent may be in the other's future.
 
 Other less prosaic thought experiments can be used to emphasize that interaction may be absolutely impossible. For example, agents that are outside each other's light cones, or in separate parts of an Everett multiverse. And abstracting away from those scenarios, we can talk of counterfactual "impossible possible worlds" as a model for probability distributions.
 
-In truly *acausal* trade, the agents cannot count on reputation, retaliation, or outside enforcement to ensure cooperation. The agents cooperate because each knows that the other can somehow predict its behavior very well. (Compare Omega in [Newcomb's problem](https://www.lesswrong.com/tag/newcomb-s-problem).) Each knows that if it defects or cooperates, the other will (probabilistically) know this, and defect or cooperate, respectively.
+In truly *acausal* trade, the agents cannot count on reputation, retaliation, or outside enforcement to ensure cooperation. The agents cooperate because each knows that the other can somehow predict its behavior very well. (Compare Omega in [[Newcomb's Problem|Newcomb's problem]].) Each knows that if it defects or cooperates, the other will (probabilistically) know this, and defect or cooperate, respectively.
 
 Acausal trade can also be described in terms of [[Pre-Commitment|(pre)commitment]]: Both agents commit to cooperate, and each has reason to think that the other is also committing.
 
@@ -41,7 +44,7 @@ For acausal trade to occur, each agent must infer there is some probability that
 
 The agent might be told, exogenously (as part of the scenario), that the other exists. But more interesting is the case in which the agent surmises the probability that the other exists.
 
-A [superintelligence](https://www.lesswrong.com/tag/superintelligence) might conclude that other superintelligences would tend to exist because increased intelligence [[Instrumental Convergence|is a convergent instrumental goal]] for agents. Given the existence of a superintelligence, acausal trade is one of the tricks it would tend to use.
+A [[Superintelligence|superintelligence]] might conclude that other superintelligences would tend to exist because increased intelligence [[Instrumental Convergence|is a convergent instrumental goal]] for agents. Given the existence of a superintelligence, acausal trade is one of the tricks it would tend to use.
 
 To take a more prosaic example, we humans realize that humans tend to be alike: Even without knowing about specific trading partners, we know that there exist other people with similar situations, goals, desires, challenges, resource constraints, and mental architectures.
 
@@ -55,7 +58,7 @@ Once an agent realizes that another agent might exist, there are different ways 
 Decision Theories
 -----------------
 
-Acausal trade is a special case of [Updateless decision theory](https://www.lesswrong.com/tag/updateless-decision-theory) (or a variant like [[Functional Decision Theory|Functional Decision Theory,]] see references). Unlike better-known variations of [Decision theory](https://www.lesswrong.com/tag/decision-theory), such as [[Causal Decision Theory|Causal decision theory]], acausal trade and UDT take into account the agent's own algorithm as cause and caused.
+Acausal trade is a special case of [[Updateless Decision Theory|Updateless decision theory]] (or a variant like [[Functional Decision Theory|Functional Decision Theory,]] see references). Unlike better-known variations of [[Decision Theory|Decision theory]], such as [[Causal Decision Theory|Causal decision theory]], acausal trade and UDT take into account the agent's own algorithm as cause and caused.
 
 In Causal Decision Theory, the agent's algorithm (implementation) is treated as uncaused by the rest of the universe, so that though the agent's *decision* and subsequent action can make a difference, its internal make-up cannot (except through that decision). In contrast, in UDT, the agents' own algorithms are treated as causal nodes, influenced by other factors, such as the logical requirement of optimality in a utility-function maximizer. In UDT, as in acausal trade, the agent cannot escape the fact that its decision to defect or cooperate constitutes strong Bayesian evidence as to what the other agent will do, and so it is better off cooperating.
 
@@ -95,7 +98,7 @@ However, an agent can analyze the distribution of probabilities for the existenc
 Ordinary trade
 --------------
 
-Even ordinary trade can be analyzed acausally, using a perspective similar to that of [Updateless decision theory](https://www.lesswrong.com/tag/updateless-decision-theory). We ask: Which algorithm should an agent have to get the best expected value, summing across all possible environments weighted by their probability? The possible environments include those in which threats and promises have been made.
+Even ordinary trade can be analyzed acausally, using a perspective similar to that of [[Updateless Decision Theory|Updateless decision theory]]. We ask: Which algorithm should an agent have to get the best expected value, summing across all possible environments weighted by their probability? The possible environments include those in which threats and promises have been made.
 
 See also
 --------

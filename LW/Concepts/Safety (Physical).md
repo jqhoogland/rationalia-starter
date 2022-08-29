@@ -1,11 +1,14 @@
 ---
+_id: yAmE3StuxBmzCBPWq
 title: Safety (Physical)
-href: https://lesswrong.com/tags/safety-physical
+href: https://lesswrong.com/tag/safety-physical
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:16.249Z'
 ---
+# Safety (Physical)
 
 Posts about avoiding being violently injured.

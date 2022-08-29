@@ -1,22 +1,25 @@
 ---
+_id: SW3euSNqpozcsxXaX
 title: Litanies & Mantras
-href: https://lesswrong.com/tags/litanies-and-mantras
+href: https://lesswrong.com/tag/litanies-and-mantras
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:52.809Z'
 ---
+# Litanies & Mantras
 
 **Related Pages:** 
 
-*   [[Litany of Tarski|Litany of Tarski]] 
-*   [Litany of Gendlin](https://www.lesswrong.com/tag/litany-of-gendlin)
-*   [[Litany of Occam|Litany of Occam]]
-*   [Litany of Jai](https://www.lesswrong.com/tag/litany-of-jai)
-*   [[Litany of Hodgell|Litany of Hodgell]]
-*   [Adding Up to Normality](https://www.lesswrong.com/tag/adding-up-to-normality)
-*   [[Reality Is Normal|Reality Is Normal]]
-*   [Virtues](https://www.lesswrong.com/tag/virtues)
-*   [[Principles|Principles]]
-*   [Taking Ideas Seriously](https://www.lesswrong.com/tag/taking-ideas-seriously)
+*   [[Litany of Tarski]] 
+*   [[Litany of Gendlin]]
+*   [[Litany of Occam]]
+*   [[Litany of Jai]]
+*   [[Litany of Hodgell]]
+*   [[Adding Up to Normality]]
+*   [[Reality Is Normal]]
+*   [[Virtues]]
+*   [[Principles]]
+*   [[Taking Ideas Seriously]]

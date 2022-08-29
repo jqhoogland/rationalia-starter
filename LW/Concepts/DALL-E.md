@@ -1,4 +1,5 @@
 ---
+_id: L2cuwYAisTL3QF4TA
 title: DALL-E
 href: https://lesswrong.com/tag/dall-e
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:15.427Z'
 ---
+# DALL-E
 
 **DALL-E** is a family of [machine learning](machine-learning) models created by [OpenAI](openai) that generate images from text descriptions.
 

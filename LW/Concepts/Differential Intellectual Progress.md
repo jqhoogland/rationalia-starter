@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2dd
 title: Differential Intellectual Progress
-href: https://lesswrong.com/tags/differential-intellectual-progress
+href: https://lesswrong.com/tag/differential-intellectual-progress
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:40.159Z'
 ---
+# Differential Intellectual Progress
 
-**Differential intellectual progress** was defined by [Luke Muehlhauser and Anna Salamon](http://web.archive.org/web/20190430130748/http://intelligence.org/files/IE-EI.pdf) as "prioritizing risk-reducing intellectual progress over risk-increasing intellectual progress". They discuss differential intellectual progress in relation to [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) (AGI) development (which will also be the focus of this article):
+**Differential intellectual progress** was defined by [Luke Muehlhauser and Anna Salamon](http://web.archive.org/web/20190430130748/http://intelligence.org/files/IE-EI.pdf) as "prioritizing risk-reducing intellectual progress over risk-increasing intellectual progress". They discuss differential intellectual progress in relation to [[Artificial General Intelligence]] (AGI) development (which will also be the focus of this article):
 
 > As applied to AI risks in particular, a plan of differential intellectual progress would recommend that our progress on the philosophical, scientific, and technological problems of AI _safety_ outpace our progress on the problems of AI _capability_ such that we develop _safe_ superhuman AIs before we develop arbitrary superhuman AIs.
 
@@ -17,7 +20,7 @@ Muehlhauser and Salamon also note that [differential technological development](
 Risk-increasing Progress
 ------------------------
 
-Technological advances — without corresponding development of safety mechanisms — simultaneously increase the capacity for both [friendly](https://wiki.lesswrong.com/wiki/Friendly_AI) and [unfriendly](https://wiki.lesswrong.com/wiki/Unfriendly_AI) AGI development. Presently, most AGI research is concerned with increasing its _capacity_ rather than its _safety_ and thus, most progress increases the risk for a [widespread negative effect](https://www.lesswrong.com/tag/existential-risk).
+Technological advances — without corresponding development of safety mechanisms — simultaneously increase the capacity for both [friendly](https://wiki.lesswrong.com/wiki/Friendly_AI) and [unfriendly](https://wiki.lesswrong.com/wiki/Unfriendly_AI) AGI development. Presently, most AGI research is concerned with increasing its _capacity_ rather than its _safety_ and thus, most progress increases the risk for a [[Existential Risk|widespread negative effect]].
 
 *   _Increased computing power._ Computing power continues to rise in step with [Moore's Law](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html), providing the raw capacity for smarter AGIs. This allows for more ['brute-force'](http://dictionary.reference.com/browse/brute+force) programming, increasing the probability of someone creating an AGI without properly understanding it. Such an AGI would also be harder to control.
 
@@ -38,7 +41,7 @@ There are several areas which, when more developed, will provide a means to prod
 
 *   _AGI confinement._ Incorporating physical mechanisms which limit the AGI can prevent it from inflicting damage. Physical isolation has already been developed (such as [[AI Boxing (Containment)|AI Boxing]]) as well as embedded solutions which shut down parts of the system under certain conditions.
 
-*   _Friendly AGI goals._ Embedding an AGI with friendly [terminal values](https://www.lesswrong.com/tag/terminal-value) reduces the risk that it will take action that is harmful to humanity. [Development](http://lukeprog.com/SaveTheWorld.html#goals) in this area has lead to many questions about what _should_ be implemented. However, precise methodologies which, when executed within an AGI, would prevent it from harming humanity have not yet materialized.
+*   _Friendly AGI goals._ Embedding an AGI with friendly [[Terminal Value|terminal values]] reduces the risk that it will take action that is harmful to humanity. [Development](http://lukeprog.com/SaveTheWorld.html#goals) in this area has lead to many questions about what _should_ be implemented. However, precise methodologies which, when executed within an AGI, would prevent it from harming humanity have not yet materialized.
 
 See Also
 --------

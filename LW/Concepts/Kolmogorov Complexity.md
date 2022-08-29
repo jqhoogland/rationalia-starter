@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb25c
 title: Kolmogorov Complexity
 href: https://lesswrong.com/tag/kolmogorov-complexity
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:42.370Z'
 ---
+# Kolmogorov Complexity
 
 The **Kolmogorov Complexity** (sometimes called Algorithmic Complexity) of a set of data is the size of the shortest possible description of the data.  
   

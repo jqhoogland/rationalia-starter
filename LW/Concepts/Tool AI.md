@@ -1,12 +1,15 @@
 ---
+_id: LXk7bxNkYSjgatdAt
 title: Tool AI
-href: https://lesswrong.com/tags/tool-ai
+href: https://lesswrong.com/tag/tool-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:13.582Z'
 ---
+# Tool AI
 
 A **tool AI** is a type of Artificial Intelligence that is built to be used as a tool by the creators, rather than being an agent with its own action and goal-seeking behavior.
 
@@ -17,7 +20,7 @@ Eliezer Yudkowsky responded to this by enumerating several ways in which tool AI
 **See Also**
 ------------
 
-*   [Oracle AI](https://www.lesswrong.com/tag/oracle-ai)
+*   [[Oracle AI]]
 
 **External Links**
 ------------------

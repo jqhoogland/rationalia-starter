@@ -1,4 +1,5 @@
 ---
+_id: CbucWMrhobAmtzpMF
 title: The Problem of the Criterion
 href: https://lesswrong.com/tag/the-problem-of-the-criterion
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:18.004Z'
 ---
+# The Problem of the Criterion
 
 **The problem of the criterion** is an [[Open Problems|open problem]] in [[Epistemology|epistemology]] that creates [epistemic circularity](https://iep.utm.edu/ep-circ/) via the following loop:
 

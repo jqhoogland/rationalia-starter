@@ -1,12 +1,15 @@
 ---
+_id: Lgy35Xh222bwgeGTL
 title: Government
-href: https://lesswrong.com/tags/government
+href: https://lesswrong.com/tag/government
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:53.747Z'
 ---
+# Government
 
 Governments are institutions set up by societies to create and enforce laws and rules of conduct.
 
@@ -16,4 +19,4 @@ Since then, political philosophers have developed a myriad of different systems 
 
 Rationalists typically see government as a means to a greater utilitarian end. In a democracy, the government can act as the hand that directly enacts and restricts actions in accordance with popular opinion. Obviously, there are many ways this can go wrong.
 
-**Related Pages:** [Law and Legal systems](https://www.lesswrong.com/tag/law-and-legal-systems), [[Politics|Politics]], [Mechanism Design](https://www.lesswrong.com/tag/mechanism-design), [[Voting Theory|Voting Theory]], [Selectorate Theory](https://www.lesswrong.com/tag/selectorate-theory), [[Futarchy|Futarchy]], [Coordination / Cooperation](https://www.lesswrong.com/tag/coordination-cooperation)
+**Related Pages:** [[Law and Legal systems]], [[Politics]], [[Mechanism Design]], [[Voting Theory]], [[Selectorate Theory]], [[Futarchy]], [[Coordination / Cooperation]]

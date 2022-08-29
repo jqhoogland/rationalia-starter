@@ -1,12 +1,15 @@
 ---
+_id: HXA9WxPpzZCCEwXHT
 title: Alief
-href: https://lesswrong.com/tags/alief
+href: https://lesswrong.com/tag/alief
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:19.893Z'
 ---
+# Alief
 
 An **alief** is a belief-like attitude, behavior, or expectation that can coexist with a contradictory belief. For example, the fear felt when a monster jumps out of the darkness in a scary movie is based on the alief that the monster is about to attack you, even though you believe that it cannot.
 
@@ -14,7 +17,7 @@ Philospoher Tamar Gendler introduced the word in her 2008 paper *Alief and Belie
 
 Gendler (2008) also introduced a related pun of "cesire vs desire"; a desire ("D-zire") is an explicit want which enters into explicit planning, while a cesire ("C-zire") is an implicit one which guides reactions.
 
-*Related tags:* [Belief](https://www.lesswrong.com/tag/belief), [[Emotions|Emotion]], 
+*Related tags:* [[Belief]], [[Emotions|Emotion]], 
 
 Blog posts
 ----------
@@ -25,7 +28,7 @@ Blog posts
 See also
 --------
 
-*   [Hollywood rationality](https://www.lesswrong.com/tag/hollywood-rationality)
+*   [[Hollywood Rationality|Hollywood rationality]]
 *   [[Corrupted Hardware|Corrupted hardware]]
 *   [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 *   [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))

@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb345
 title: Criticisms of The Rationalist Movement
 href: https://lesswrong.com/tag/criticisms-of-the-rationalist-movement
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:33.912Z'
 ---
+# Criticisms of The Rationalist Movement
 
 **Criticisms of the** [[Rationalist Movement|rationalist movement]] and [LessWrong](https://www.lesswrong.com/about) have existed for most of its duration on various grounds.
 

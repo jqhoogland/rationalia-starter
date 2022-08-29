@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1d1
 title: Decoherence
-href: https://lesswrong.com/tags/decoherence
+href: https://lesswrong.com/tag/decoherence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:54.876Z'
 ---
+# Decoherence
 
 **Decoherence** happens when some quantum system interacts irreversibly with its environment, and different components of the wavefunction stop interfering. In the [[Many-Worlds Interpretation|many-worlds interpretation]], this corresponds to the splitting of worlds.
 
@@ -23,5 +26,5 @@ Blog posts
 See also
 --------
 
-*   [Quantum mechanics](https://www.lesswrong.com/tag/quantum-physics), [[Many-Worlds Interpretation|Many-worlds interpretation]]
+*   [[Quantum Mechanics|Quantum mechanics]], [[Many-Worlds Interpretation|Many-worlds interpretation]]
 *   [Thermodynamics](https://wiki.lesswrong.com/wiki/Thermodynamics)

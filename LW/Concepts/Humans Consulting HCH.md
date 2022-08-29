@@ -1,12 +1,15 @@
 ---
+_id: d2s5yH2MNwX4pveW7
 title: Humans Consulting HCH
-href: https://lesswrong.com/tags/humans-consulting-hch
+href: https://lesswrong.com/tag/humans-consulting-hch
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:12.380Z'
 ---
+# Humans Consulting HCH
 
 **Humans Consulting HCH (HCH)** is a recursive acronym describing a setup where humans can consult simulations of themselves to help answer questions. It is a concept used in discussion of the [[Iterated Amplification |iterated amplification]] proposal to solve the alignment problem.
 

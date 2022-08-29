@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1a0
 title: Conjunction Fallacy
-href: https://lesswrong.com/tags/conjunction-fallacy
+href: https://lesswrong.com/tag/conjunction-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:53.899Z'
 ---
+# Conjunction Fallacy
 
 The **conjunction fallacy** consists in assuming that specific conditions are more probable than more general ones.
 
@@ -23,5 +26,5 @@ Blog posts
 See also
 --------
 
-*   [Representativeness heuristic](https://www.lesswrong.com/tag/representativeness-heuristic)
+*   [[Representativeness Heuristic|Representativeness heuristic]]
 *   [[Burdensome Details|Burdensome details]]

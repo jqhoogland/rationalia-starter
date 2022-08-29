@@ -1,18 +1,21 @@
 ---
+_id: zCYXpx33wq8chGyEz
 title: AI Boxing (Containment)
-href: https://lesswrong.com/tags/ai-boxing-containment
+href: https://lesswrong.com/tag/ai-boxing-containment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:17.204Z'
 ---
+# AI Boxing (Containment)
 
 **AI Boxing** is attempts, experiments, or proposals to isolate ("box") a powerful AI (~AGI) where it can't interact with the world at large, save for limited communication with its human liaison. It is often proposed that so long as the AI is physically isolated and restricted, or "boxed", it will be harmless even if it is an [[Unfriendly Artificial Intelligence|unfriendly artificial intelligence]] (UAI).
 
 Challenges are: 1) can you successively prevent it from interacting with the world? And 2) can you prevent it from convincing you to let it out?
 
-**See also:** [AI](https://www.lesswrong.com/tag/ai), [AGI](https://wiki.lesswrong.com/wiki/AGI), [Oracle AI](https://www.lesswrong.com/tag/oracle-ai), [[Tool AI|Tool AI]], [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI)
+**See also:** [[AI]], [AGI](https://wiki.lesswrong.com/wiki/AGI), [[Oracle AI]], [[Tool AI]], [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI)
 
 Escaping the box
 ================
@@ -20,7 +23,7 @@ Escaping the box
 It is not regarded as likely that an AGI can be boxed in the long term. Since the AGI might be a [[Superintelligence|superintelligence]], it could persuade someone (the human liaison, most likely) to free it from its box and thus, human control. Some practical ways of achieving this goal include:
 
 *   Offering enormous wealth, power and intelligence to its liberator
-*   Claiming that only it can prevent an [existential risk](https://www.lesswrong.com/tag/existential-risk)
+*   Claiming that only it can prevent an [[Existential Risk|existential risk]]
 *   Claiming it needs outside resources to cure all diseases
 *   Predicting a real-world disaster (which then occurs), then claiming it could have been prevented had it been let out
 
@@ -37,7 +40,7 @@ Attempts to box an AGI may add some degree of safety to the development of a [fr
 *   Periodic resets of the AGI's memory
 *   A virtual world between the real world and the AI, where its unfriendly intentions would be first revealed
 *   Motivational control using a variety of techniques
-*   Creating an [Oracle AI](https://www.lesswrong.com/tag/oracle-ai): an AI that only answers questions and isn't designed to interact with the world in any other way. But even the act of the AI putting strings of text in front of humans poses some risk.
+*   Creating an [[Oracle AI]]: an AI that only answers questions and isn't designed to interact with the world in any other way. But even the act of the AI putting strings of text in front of humans poses some risk.
 
 Simulations / Experiments
 =========================

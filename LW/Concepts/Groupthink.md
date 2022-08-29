@@ -1,16 +1,19 @@
 ---
+_id: ALwRRZqvhaop8gxkT
 title: Groupthink
-href: https://lesswrong.com/tags/groupthink
+href: https://lesswrong.com/tag/groupthink
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:27.109Z'
 ---
+# Groupthink
 
 **Groupthink** is a very well-documented source of [[Bias|bias]] in cognitive psychology. It refers to the tendency of humans to tend to agree with each other, and hold back objections or dissent even when the group is wrong.
 
-There seems to be a balance of tensions between evaporative cooling of beliefs leading to groupthink, and extremely biased [color politics](https://www.lesswrong.com/tag/blues-and-greens-metaphor).
+There seems to be a balance of tensions between evaporative cooling of beliefs leading to groupthink, and extremely biased [[Blues & Greens (metaphor)|color politics]].
 
 Echo chamber
 ------------
@@ -25,11 +28,11 @@ In computer-mediated deliberation, the ideology of so-called **"virtual communit
 See also
 --------
 
-*   [Cached thought](https://www.lesswrong.com/tag/cached-thought)
-*   [[Affective Death Spiral|Affective death spiral]], [information cascade](https://www.lesswrong.com/tag/information-cascades)
-*   [[In-Group Bias|In-group bias]], [conformity bias](https://www.lesswrong.com/tag/conformity-bias)
+*   [[Cached Thoughts|Cached thought]]
+*   [[Affective Death Spiral|Affective death spiral]], [[Information Cascades|information cascade]]
+*   [[In-Group Bias|In-group bias]], [[Conformity Bias|conformity bias]]
 *   [[Goodhart's Law|Goodhart's law]]
-*   [Availability heuristic](https://www.lesswrong.com/tag/availability-heuristic)
+*   [[Availability Heuristic|Availability heuristic]]
 *   [[Group Rationality|Group rationality]]
-*   [Problem of verifying rationality](https://www.lesswrong.com/tag/problem-of-verifying-rationality)
+*   [[Rationality Verification|Problem of verifying rationality]]
 *   [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]

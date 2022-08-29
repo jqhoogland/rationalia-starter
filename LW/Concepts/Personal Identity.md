@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2fa
 title: Personal Identity
 href: https://lesswrong.com/tag/personal-identity
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:35.777Z'
 ---
+# Personal Identity
 
 Personal identity is the concept that two configurations of particles (or computations, etc), each of which is a person, can be in some sense the same person. For example, you-right-now and you-yesterday are usually considered two instances of the person “you”, instead of two different people, even though they are distinct configurations of particles.
 

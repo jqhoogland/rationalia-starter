@@ -1,4 +1,5 @@
 ---
+_id: Z5A4c4kjTgLSFEr3h
 title: Autonomous Vehicles
 href: https://lesswrong.com/tag/autonomous-vehicles
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:29.301Z'
 ---
+# Autonomous Vehicles
 
 **Autonomous vehicles**, also known as **self-driving cars**/trucks/&c., are vehicles that can make steering, pedaling, or braking decisions to some extent. They are notable for being a present-day case where [alignment](/tag/outer-alignment) and [AI safety](ai-safety) are important - for example, AI should not crash a car in order to gather data about car crashes.
 

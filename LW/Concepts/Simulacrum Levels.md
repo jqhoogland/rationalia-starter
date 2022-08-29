@@ -1,12 +1,15 @@
 ---
+_id: 5SPDtxJT6y6ZTXHBJ
 title: Simulacrum Levels
-href: https://lesswrong.com/tags/simulacrum-levels
+href: https://lesswrong.com/tag/simulacrum-levels
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:16.360Z'
 ---
+# Simulacrum Levels
 
 **Simulacrum Levels** are a framework for analyzing different motivations people can have for making statements.
 

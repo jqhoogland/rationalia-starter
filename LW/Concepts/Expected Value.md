@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb120
 title: Expected Value
-href: https://lesswrong.com/tags/expected-value
+href: https://lesswrong.com/tag/expected-value
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:47.756Z'
 ---
+# Expected Value
 
 The **expected value** or **expectation** is the (weighted) average of all the possible outcomes of an event, weighed by their [probability](https://wiki.lesswrong.com/wiki/probability). For example, when you roll a die, the expected value is (1+2+3+4+5+6)/6 = 3.5.
 

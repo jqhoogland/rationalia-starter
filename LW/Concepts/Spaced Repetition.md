@@ -1,16 +1,19 @@
 ---
+_id: H2q58pKG6xFrv8bPz
 title: Spaced Repetition
-href: https://lesswrong.com/tags/spaced-repetition
+href: https://lesswrong.com/tag/spaced-repetition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:18.151Z'
 ---
+# Spaced Repetition
 
 **Spaced Repetition** is a technique for long-term retention of learned material where instead of attempting to memorize by ‘cramming’, memorization can be done far more efficiently by instead spacing out each review, with increasing durations as one learns the item, with the scheduling done by software.  
   
-*See Also:*  [[Scholarship & Learning|Scholarship & Learning]]
+*See Also:*  [[Scholarship & Learning]]
 
 **The case for Spaced Repetition**
 ==================================

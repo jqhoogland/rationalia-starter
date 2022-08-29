@@ -1,12 +1,15 @@
 ---
+_id: etDohXtBrXd8WqCtR
 title: Fiction
-href: https://lesswrong.com/tags/fiction
+href: https://lesswrong.com/tag/fiction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:12.566Z'
 ---
+# Fiction
 
 **Fiction** isn't literal truth, but when done well it captures truths and intuitions that are difficult to explain directly. (It’s also damn fun to read.)
 
@@ -20,7 +23,7 @@ Fiction on this site also tends to have puns. I’m so sorry.
 
 Much more fiction can be found at [r/Rational](https://www.reddit.com/r/rational), which is a subreddit devoted to rationalist fiction.
 
-This is a tag for works of fiction, not for analysis or discussion of literature. For that see [Fiction (topic)](https://www.lesswrong.com/tag/fiction-topic).
+This is a tag for works of fiction, not for analysis or discussion of literature. For that see [[Fiction (Topic)|Fiction (topic)]].
 
 Fiction Sequences
 -----------------

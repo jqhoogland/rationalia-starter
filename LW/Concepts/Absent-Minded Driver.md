@@ -1,0 +1,31 @@
+---
+_id: 5f5c37ee1b5cdee568cfb22d
+title: Absent-Minded Driver
+href: https://lesswrong.com/tag/absent-minded-driver
+type: tag
+tags:
+  - LessWrong
+  - Concept
+  - Tag
+synchedAt: '2022-08-29T11:09:50.564Z'
+---
+# Absent-Minded Driver
+
+**The absent-minded driver** is a problem for testing [[Decision Theory|decision theories]] which shows a time inconsistency in classical ways of considering optimal decisions. It is entirely described in the eponymous blog post.
+
+Blog posts
+----------
+
+[The Absent-Minded Driver](http://lesswrong.com/lw/182/the_absentminded_driver/)
+
+See also
+--------
+
+*   [[Decision Theory|Decision theory]]
+*   [[Newcomb's Problem|Newcomb's problem]]
+*   [[Counterfactual Mugging|Counterfactual mugging]]
+*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
+*   [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
+*   [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+*   [[Prisoner's Dilemma|Prisoner's dilemma]]
+*   [[Pascal's Mugging|Pascal's mugging]]

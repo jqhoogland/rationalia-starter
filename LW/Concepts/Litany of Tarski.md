@@ -1,16 +1,19 @@
 ---
+_id: E6qP9r9xxM4LCxaFk
 title: Litany of Tarski
-href: https://lesswrong.com/tags/litany-of-tarski
+href: https://lesswrong.com/tag/litany-of-tarski
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:21.738Z'
 ---
+# Litany of Tarski
 
 The **Litany of Tarski** is a template to remind oneself that beliefs should stem from reality, from what actually *is*, as opposed to what we *want*, or what would be convenient. For any statement X, the litany takes the form "If X, I desire to believe that X".
 
-Quoting [[The Meditation on Curiosity|The Meditation on Curiosity]]:
+Quoting [[The Meditation on Curiosity]]:
 
 > *If the box contains a diamond,*  
 > *I desire to believe that the box contains a diamond;*  
@@ -20,7 +23,7 @@ Quoting [[The Meditation on Curiosity|The Meditation on Curiosity]]:
 
 The name refers to [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski), who sought to define [what, exactly, "truth" means](https://plato.stanford.edu/entries/tarski-truth/).
 
-See also: [Map and Territory](https://www.lesswrong.com/tag/map-and-territory), [[Litanies & Mantras|Litanies & Mantras]].
+See also: [[Map and Territory]], [[Litanies & Mantras]].
 
 Blog posts
 ----------

@@ -1,16 +1,19 @@
 ---
+_id: nvKzwpiranwy29HFJ
 title: Optimization
-href: https://lesswrong.com/tags/optimization
+href: https://lesswrong.com/tag/optimization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:13.872Z'
 ---
+# Optimization
 
 An **optimization process** is any kind of process that systematically comes up with solutions that are better than the solution used before. More technically, this kind of process moves the world into a specific and unexpected set of states by searching through a large search space, hitting small and low probability targets. When this process is gradually guided by some agent into some specific state, through searching specific targets, we can say it [[Preference|prefers]] that state.
 
-The best way to exemplify an optimization process is through a simple example: [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky) suggests natural selection is such a process. Through an implicit preference – better replicators – natural selection searches all the genetic landscape space and hit small targets: efficient mutations.
+The best way to exemplify an optimization process is through a simple example: [[Eliezer Yudkowsky]] suggests natural selection is such a process. Through an implicit preference – better replicators – natural selection searches all the genetic landscape space and hit small targets: efficient mutations.
 
 Consider the human being. We are a highly complex object with a low probability to have been created by chance - natural selection, however, over millions of years, built up the infrastructure needed to build such a functioning body. This body, as well as other organisms, had the chance (was *selected*) to develop because it is in itself a rather efficient replicator suitable for the environment where it came up.
 
@@ -19,7 +22,7 @@ Or consider the famous chessplaying computer, [Deep Blue](https://en.wikipedia.o
 Measuring Optimization Power
 ----------------------------
 
-One way to think mathematically about optimization, like [evidence](https://www.lesswrong.com/tag/amount-of-evidence), is in information-theoretic bits. The optimization power is the amount of [surprise](http://en.wikipedia.org/wiki/Self-information) we would have in the result if there were no optimization process present. Therefore we take the base-two logarithm of the reciprocal of the probability of the result. A one-in-a-million solution (a solution so good relative to your preference ordering that it would take a million random tries to find something that good or better) can be said to have log_2(1,000,000) = 19.9 bits of optimization. Compared to a random configuration of matter, any artifact you see is going to be much more optimized than this. The math describes only laws and general principles for reasoning about optimization; as with [probability theory](https://www.lesswrong.com/tag/bayesian-probability), you oftentimes can't apply the math directly.
+One way to think mathematically about optimization, like [[Amount of Evidence|evidence]], is in information-theoretic bits. The optimization power is the amount of [surprise](http://en.wikipedia.org/wiki/Self-information) we would have in the result if there were no optimization process present. Therefore we take the base-two logarithm of the reciprocal of the probability of the result. A one-in-a-million solution (a solution so good relative to your preference ordering that it would take a million random tries to find something that good or better) can be said to have log_2(1,000,000) = 19.9 bits of optimization. Compared to a random configuration of matter, any artifact you see is going to be much more optimized than this. The math describes only laws and general principles for reasoning about optimization; as with [[Bayesian Probability|probability theory]], you oftentimes can't apply the math directly.
 
 Further Reading & References
 ----------------------------
@@ -30,6 +33,6 @@ Further Reading & References
 See also
 --------
 
-*   [[Preference|Preference]]
-*   [Really powerful optimization process](https://www.lesswrong.com/tag/really-powerful-optimization-process)
+*   [[Preference]]
+*   [[Really Powerful Optimization Process|Really powerful optimization process]]
 *   [[Control Theory|Control theory]]

@@ -1,12 +1,15 @@
 ---
+_id: o9aQASibdsECTfYF6
 title: Moloch
-href: https://lesswrong.com/tags/moloch
+href: https://lesswrong.com/tag/moloch
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:07.184Z'
 ---
+# Moloch
 
 **Moloch** is the personification of the forces that coerce competing individuals to take actions which, although locally optimal, ultimately lead to situations where everyone is worse off. Moreover, no individual is able to unilaterally break out of the dynamic. The situation is a bad Nash equilibrium. A trap.
 
@@ -29,4 +32,4 @@ From Allan Ginsberg's [Howl](https://www.poetryfoundation.org/poems/49303/howl):
 > *Moloch whose eyes are a thousand blind windows! Moloch whose skyscrapers stand in the long streets like endless Jehovahs! Moloch whose factories dream and croak in the fog! Moloch whose smoke-stacks and antennae crown the cities!*  
 > *Moloch whose love is endless oil and stone! Moloch whose soul is electricity and banks! Moloch whose poverty is the specter of genius! Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!*
 
-See also: [[Eldritch Analogies|Eldritch Analogies]], [Game Theory](https://www.lesswrong.com/tag/game-theory), [Group Rationality](https://www.lesswrong.com/tag/group-rationality?showPostCount=true&useTagName=true), [Social Reality](https://www.lesswrong.com/tag/social-reality)
+See also: [[Eldritch Analogies]], [[Game Theory]], [[Group Rationality]], [[Social Reality]]

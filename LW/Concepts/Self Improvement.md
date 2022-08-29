@@ -1,13 +1,16 @@
 ---
+_id: WqLn4pAWi5hn6McHQ
 title: Self Improvement
-href: https://lesswrong.com/tags/self-improvement
+href: https://lesswrong.com/tag/self-improvement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:53.615Z'
 ---
+# Self Improvement
 
 Personal Growth, etc
 
-**Related Pages:** [[Growth Stories|Growth Stories]]
+**Related Pages:** [[Growth Stories]]

@@ -1,18 +1,21 @@
 ---
+_id: TiEFKWDvD3jsKumDx
 title: AIXI
-href: https://lesswrong.com/tags/aixi
+href: https://lesswrong.com/tag/aixi
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:02.853Z'
 ---
+# AIXI
 
 **AIXI** is a mathematical formalism for a hypothetical [[Superintelligence|(super)intelligence]], developed by Marcus Hutter (2005, 2007). AIXI is not computable, and so does not serve as a design for a real-world AI, but is considered a valuable theoretical illustration with both positive and negative aspects (things AIXI would be able to do and things it arguably couldn't do).
 
-*See also:* [Solomonoff induction](https://www.lesswrong.com/tag/solomonoff-induction), [[Decision Theory|Decision theory]], [AI](https://www.lesswrong.com/ai)
+*See also:* [[Solomonoff Induction|Solomonoff induction]], [[Decision Theory|Decision theory]], [AI](https://www.lesswrong.com/ai)
 
-The AIXI formalism says roughly to consider all possible computable models of the environment, Bayes-update them on past experiences, and use the resulting updated predictions to model the expected sensory reward of all possible strategies. This is an application of [Solomonoff Induction](https://www.lesswrong.com/tag/solomonoff-induction?useTagName=true).
+The AIXI formalism says roughly to consider all possible computable models of the environment, Bayes-update them on past experiences, and use the resulting updated predictions to model the expected sensory reward of all possible strategies. This is an application of [[Solomonoff Induction]].
 
 AIXI can be viewed as the border between AI problems that would be 'simple' to solve using unlimited computing power and problems which are structurally 'complicated'.
 
@@ -27,7 +30,7 @@ On each clock tick, the agent receives an *observation* (a bitstring/number) fro
 
 The agent then outputs an *action* (another number).
 
-To do this, AIXI guesses at a probability distribution for its environment, using [[Solomonoff Induction|Solomonoff induction]], a formalization of [Occam's razor](https://www.lesswrong.com/tag/occam-s-razor): Simpler computations are more likely *a priori* to describe the environment than more complex ones. This probability distribution is then Bayes-updated by how well each model fits the evidence (or more precisely, by throwing out all computations which have not exactly fit the environmental data so far, but for technical reasons this is roughly equivalent as a model). AIXI then calculates the expected reward of each action it might choose--weighting the likelihood of possible environments as mentioned. It chooses the best action by extrapolating its actions into its future time horizon recursively, using the assumption that at each step into the future it will again choose the best possible action using the same procedure.
+To do this, AIXI guesses at a probability distribution for its environment, using [[Solomonoff Induction|Solomonoff induction]], a formalization of [[Occam's Razor|Occam's razor]]: Simpler computations are more likely *a priori* to describe the environment than more complex ones. This probability distribution is then Bayes-updated by how well each model fits the evidence (or more precisely, by throwing out all computations which have not exactly fit the environmental data so far, but for technical reasons this is roughly equivalent as a model). AIXI then calculates the expected reward of each action it might choose--weighting the likelihood of possible environments as mentioned. It chooses the best action by extrapolating its actions into its future time horizon recursively, using the assumption that at each step into the future it will again choose the best possible action using the same procedure.
 
 Then, on each iteration, the environment provides an observation and reward as a function of the full history of the interaction; the agent likewise is choosing its action as a function of the full history.
 
@@ -40,7 +43,7 @@ For a short (half-page) technical introduction to AIXI, see [Veness et al. 2011]
 **Relevance to Friendly AI**
 ----------------------------
 
-Because it abstracts optimization power away from human mental features, AIXI is valuable in considering the possibilities for future artificial general intelligence - a compact and non-anthropomorphic specification that is technically complete and closed; either some feature of AIXI follows from the equations or it does not. In particular, it acts as a constructive demonstration of an AGI which does not have human-like [terminal values](https://www.lesswrong.com/tag/terminal-value) and will act solely to maximize its reward function. (Yampolskiy & Fox 2012).
+Because it abstracts optimization power away from human mental features, AIXI is valuable in considering the possibilities for future artificial general intelligence - a compact and non-anthropomorphic specification that is technically complete and closed; either some feature of AIXI follows from the equations or it does not. In particular, it acts as a constructive demonstration of an AGI which does not have human-like [[Terminal Value|terminal values]] and will act solely to maximize its reward function. (Yampolskiy & Fox 2012).
 
 AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem|Anvil problem]]: AIXI lacks a self-model. It extrapolates its own actions into the future indefinitely, on the assumption that it will keep working in the same way in the future. Though AIXI is an abstraction, any real AI would have a physical embodiment that could be damaged, and an implementation which could change its behavior due to bugs; and the AIXI formalism completely ignores these possibilities.
 
@@ -62,4 +65,4 @@ AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem
 ------------
 
 *   [[Solomonoff Induction|Solomonoff induction]]
-*   [Decision theory](https://www.lesswrong.com/tag/decision-theory)
+*   [[Decision Theory|Decision theory]]

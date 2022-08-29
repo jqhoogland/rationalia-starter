@@ -1,12 +1,15 @@
 ---
+_id: bTeiZr6YAEaSPQTC8
 title: Solomonoff Induction
-href: https://lesswrong.com/tags/solomonoff-induction
+href: https://lesswrong.com/tag/solomonoff-induction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:27.987Z'
 ---
+# Solomonoff Induction
 
 **Solomonoff induction** is an inference system defined by [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff) that will learn to correctly predict any computable sequence with only the absolute minimum amount of data. This system, in a certain sense, is the perfect universal prediction algorithm. 
 
@@ -15,7 +18,7 @@ To summarize it very informally, Solomonoff induction works by:
 *   Starting with all possible hypotheses (sequences) as represented by computer programs (that generate those sequences), weighted by their simplicity (2^-^**^n^**, where **n** is the program length);
 *   Discarding those hypotheses that are inconsistent with the data.
 
-Weighting hypotheses by simplicity, the system automatically incorporates a form of [Occam's razor](https://www.lesswrong.com/tag/occam-s-razor), which is why it has been playfully referred to as *Solomonoff's lightsaber*.
+Weighting hypotheses by simplicity, the system automatically incorporates a form of [[Occam's Razor|Occam's razor]], which is why it has been playfully referred to as *Solomonoff's lightsaber*.
 
 Solomonoff induction gets off the ground with a solution to the "problem of the priors". Suppose that you stand before a universal [prefix Turing machine](http://www.scholarpedia.org/article/Algorithmic_complexity#Prefix_Turing_machine) *U*. You are interested in a certain finite output string *y*~0~. In particular, you want to know the probability that *U* will produce the output *y*~0~ given a random input tape. This probability is the **Solomonoff** ***a priori*** **probability** of *y*~0~.
 
@@ -38,9 +41,9 @@ Since *x*~0~ was chosen at random from {0, 1}*^ω^*, we take the probability o
 See also
 --------
 
-*   [Kolmogorov complexity](https://www.lesswrong.com/tag/kolmogorov-complexity)
-*   [[AIXI|AIXI]]
-*   [Occam's razor](https://www.lesswrong.com/tag/occam-s-razor)
+*   [[Kolmogorov Complexity|Kolmogorov complexity]]
+*   [[AIXI]]
+*   [[Occam's Razor|Occam's razor]]
 
 References
 ----------

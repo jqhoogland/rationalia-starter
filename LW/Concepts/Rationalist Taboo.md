@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb12a
 title: Rationalist Taboo
-href: https://lesswrong.com/tags/rationalist-taboo
+href: https://lesswrong.com/tag/rationalist-taboo
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:02.099Z'
 ---
+# Rationalist Taboo
 
 **Rationalist Taboo** is a technique for fighting muddles in discussions. By prohibiting the use of a certain word and all the words synonymous to it, people are forced to elucidate the specific contextual meaning they want to express, thus removing ambiguity otherwise present in a single word.
 

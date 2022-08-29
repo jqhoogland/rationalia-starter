@@ -1,12 +1,15 @@
 ---
+_id: ntahi2tr7e9DjCYdu
 title: Chesterton's Fence
-href: https://lesswrong.com/tags/chesterton-s-fence
+href: https://lesswrong.com/tag/chesterton-s-fence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:53.549Z'
 ---
+# Chesterton's Fence
 
 **Chesterton's Fence** is the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
 

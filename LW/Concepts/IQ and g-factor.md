@@ -1,13 +1,16 @@
 ---
+_id: 4cKQgA4S7xfNeeWXg
 title: IQ and g-factor
-href: https://lesswrong.com/tags/iq-and-g-factor
+href: https://lesswrong.com/tag/iq-and-g-factor
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:58.504Z'
 ---
+# IQ and g-factor
 
 **IQ** is a score derived from a set of standardized tests designed to assess human intelligence. The **g-factor** (general intelligence factor) is the underlying psychometric construct that the IQ tests are trying to measure.
 
-This tag is specifically for discussions about these formal constructs. For discussions about artificial intelligence, see [[AI|AI]]. For discussions about human-level intelligence in a broader sense, see [General Intelligence](https://www.lesswrong.com/tag/general-intelligence).
+This tag is specifically for discussions about these formal constructs. For discussions about artificial intelligence, see [[AI]]. For discussions about human-level intelligence in a broader sense, see [[General Intelligence]].

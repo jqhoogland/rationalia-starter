@@ -1,4 +1,5 @@
 ---
+_id: bt2e3HEcZmuHo3xf7
 title: Modularity
 href: https://lesswrong.com/tag/modularity
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:15.429Z'
 ---
+# Modularity
 
 **Modularity** is the extent to which a system can be divided into clusters. It is a very broad concept which can be applied across many different domains, for example:
 

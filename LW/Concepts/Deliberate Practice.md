@@ -1,4 +1,5 @@
 ---
+_id: ux2x9RrJsuykQxT79
 title: Deliberate Practice
 href: https://lesswrong.com/tag/deliberate-practice
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:29.386Z'
 ---
+# Deliberate Practice
 
 **Deliberate practice** is the highest form of practice according to Anders Ericsson and Robert Pool (the authors of the book *Peak*). Based on the scientific study of expertise, they classify several forms of practice. From less to more effective:
 

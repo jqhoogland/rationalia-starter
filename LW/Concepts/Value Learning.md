@@ -1,12 +1,15 @@
 ---
+_id: NLwTnsH9RSotqXYLw
 title: Value Learning
-href: https://lesswrong.com/tags/value-learning
+href: https://lesswrong.com/tag/value-learning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:16.097Z'
 ---
+# Value Learning
 
 **Value learning** is a proposed method for incorporating human values in an [AGI](https://wiki.lesswrong.com/wiki/AGI). It involves the creation of an artificial learner whose actions consider many possible set of values and preferences, weighed by their likelihood. Value learning could prevent an AGI of having goals detrimental to human values, hence helping in the creation of [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI).
 

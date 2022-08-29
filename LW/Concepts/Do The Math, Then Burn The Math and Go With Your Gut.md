@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb366
 title: Do The Math, Then Burn The Math and Go With Your Gut
-href: https://lesswrong.com/tags/do-the-math-then-burn-the-math-and-go-with-your-gut
+href: https://lesswrong.com/tag/do-the-math-then-burn-the-math-and-go-with-your-gut
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:03.225Z'
 ---
+# Do The Math, Then Burn The Math and Go With Your Gut
 
-"**Do the math, then burn the math and go with your gut**"[^1^](#fn1) is a procedure for decision-making that has been described by [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky). However, in the context of economics research, the same procedure has been described by economist Alfred Marshall as early as 1906. The basic procedure is to go through the process of assigning numbers and probabilities that are relevant to some decision ("do the math") and then to throw away this calculation and instead make the final decision with one's gut feelings ("burn the math and go with your gut"). The purpose of the first step is to force oneself to think through all the details of the decision and to spot inconsistencies.
+"**Do the math, then burn the math and go with your gut**"[^1^](#fn1) is a procedure for decision-making that has been described by [[Eliezer Yudkowsky]]. However, in the context of economics research, the same procedure has been described by economist Alfred Marshall as early as 1906. The basic procedure is to go through the process of assigning numbers and probabilities that are relevant to some decision ("do the math") and then to throw away this calculation and instead make the final decision with one's gut feelings ("burn the math and go with your gut"). The purpose of the first step is to force oneself to think through all the details of the decision and to spot inconsistencies.
 
 History
 -------
@@ -25,12 +28,12 @@ In [December 2012](https://www.reddit.com/r/HPMOR/comments/b3ox5v/release_dates_
 
 > Harry was wondering if he could even *get* a Bayesian calculation out of this. Of course, the point of a subjective Bayesian calculation wasn't that, after you made up a bunch of numbers, multiplying them out would give you an exactly right answer. The real point was that the *process* of making up numbers would force you to tally all the relevant facts and weigh all the relative probabilities. Like realizing, as soon as you actually *thought* about the probability of the Dark Mark not-fading *if* You-Know-Who *was* dead, that the probability wasn't low enough for the observation to count as strong evidence. One version of the process was to tally hypotheses and list out evidence, make up all the numbers, do the calculation, and then throw out the final answer and go with your brain's gut feeling *after* you'd forced it to really *weigh* everything. The trouble was that the items of evidence weren't conditionally independent, and there were multiple interacting background facts of interest...
 
-In December 2016, [Anna Salamon](https://www.lesswrong.com/tag/anna-salamon) described the procedure parenthetically at the end of a blog post. Salamon described the procedure as follows: "Eliezer once described what I take to be the a similar ritual for avoiding bucket errors, as follows: When deciding which apartment to rent (he said), one should first do out the math, and estimate the number of dollars each would cost, the number of minutes of commute time times the rate at which one values one's time, and so on. But at the end of the day, if the math says the wrong thing, one should do the right thing anyway."[^4^](#fn4)
+In December 2016, [[Anna Salamon]] described the procedure parenthetically at the end of a blog post. Salamon described the procedure as follows: "Eliezer once described what I take to be the a similar ritual for avoiding bucket errors, as follows: When deciding which apartment to rent (he said), one should first do out the math, and estimate the number of dollars each would cost, the number of minutes of commute time times the rate at which one values one's time, and so on. But at the end of the day, if the math says the wrong thing, one should do the right thing anyway."[^4^](#fn4)
 
 See also
 --------
 
-*   [CFAR Exercise Prize](https://www.lesswrong.com/tag/cfar-exercise-prize) – Andrew Critch's Bayes game, described on this page, gives another technique for dealing with uncertainty in real-life situations
+*   [[Cfar Exercise Prize|CFAR Exercise Prize]] – Andrew Critch's Bayes game, described on this page, gives another technique for dealing with uncertainty in real-life situations
 *   [This page was shared on LessWrong](https://www.lesswrong.com/posts/mRsm8gibyuPWas7K5/gems-from-the-wiki-do-the-math-then-burn-the-math-and-go) as part of the "Gems from the Wiki" series
 
 References
@@ -40,7 +43,7 @@ External links
 --------------
 
 *   [A Facebook post by Julia Galef from May 2018 inquiring about this procedure](https://www.facebook.com/julia.galef/posts/10103884948339182)
-*   ["Why we can’t take expected value estimates literally (even when they’re unbiased)"](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) (August 2011) by [GiveWell](https://www.lesswrong.com/tag/givewell) co-founder [[Holden Karnofsky|Holden Karnofsky]] makes a similar point: "It’s my view that my brain instinctively processes huge amounts of information, coming from many different reference classes, and arrives at a prior; if I attempt to formalize my prior, counting only what I can name and justify, I can worsen the accuracy a lot relative to going with my gut. Of course there is a problem here: going with one’s gut can be an excuse for going with what one wants to believe, and a lot of what enters into my gut belief could be irrelevant to proper Bayesian analysis. There is an appeal to formulas, which is that they seem to be susceptible to outsiders’ checking them for fairness and consistency."
+*   ["Why we can’t take expected value estimates literally (even when they’re unbiased)"](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) (August 2011) by [[GiveWell]] co-founder [[Holden Karnofsky]] makes a similar point: "It’s my view that my brain instinctively processes huge amounts of information, coming from many different reference classes, and arrives at a prior; if I attempt to formalize my prior, counting only what I can name and justify, I can worsen the accuracy a lot relative to going with my gut. Of course there is a problem here: going with one’s gut can be an excuse for going with what one wants to believe, and a lot of what enters into my gut belief could be irrelevant to proper Bayesian analysis. There is an appeal to formulas, which is that they seem to be susceptible to outsiders’ checking them for fairness and consistency."
 *   ["The Optimizer’s Curse & Wrong-Way Reductions"](https://confusopoly.com/2019/04/03/the-optimizers-curse-wrong-way-reductions/) by Christian Smith discusses similar issues
 *   [Verbal overshadowing](https://en.wikipedia.org/wiki/Verbal_overshadowing) page on Wikipedia
 

@@ -1,12 +1,15 @@
 ---
+_id: ogWsaHQKwa6ddidRC
 title: Conflict vs Mistake
-href: https://lesswrong.com/tags/conflict-vs-mistake
+href: https://lesswrong.com/tag/conflict-vs-mistake
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:10.439Z'
 ---
+# Conflict vs Mistake
 
 **Conflict vs Mistake** is a framework for analyzing disagreements about policy.
 
@@ -18,7 +21,7 @@ A **conflict theorist** thinks problems are primarily due to the conflicting int
 
 A **mistake theorist** thinks problems are primarily due to mistakes. If only we knew how to run society better, there would be less problems. Jeremy Bentham was more of a mistake theorist: he thought producing a formula by which we could calculate the quality of social interventions would help improve society.
 
-[[Humans are not automatically strategic|Humans are not automatically strategic]] is a mistake theory of human (ir)rationality. Things are hard. If people are doing something dumb, it's probably because they don't know better.
+[[Humans are not automatically strategic]] is a mistake theory of human (ir)rationality. Things are hard. If people are doing something dumb, it's probably because they don't know better.
 
 [The Elephant in the Brain](https://www.lesswrong.com/posts/BgBrXpByCSmCLjpwr/book-review-the-elephant-in-the-brain) is more like a conflict theory of human (ir)rationality. Apparent irrationality is attributed mainly to humans not actually wanting what they think they want.
 

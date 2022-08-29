@@ -1,10 +1,13 @@
 ---
+_id: fH8jPjHF2R27sRTTG
 title: Education
-href: https://lesswrong.com/tags/education
+href: https://lesswrong.com/tag/education
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:21.650Z'
 ---
+# Education
 

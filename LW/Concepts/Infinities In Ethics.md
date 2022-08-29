@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2aa
 title: Infinities In Ethics
 href: https://lesswrong.com/tag/infinities-in-ethics
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:39.344Z'
 ---
+# Infinities In Ethics
 
 **Infinities in ethics** pose some difficult problems. For example, if the universe is infinite, there are already infinite numbers of good and bad things. Adding or removing finitely many of them leaves infinitely many of both. This means aggregative consequentialist theories (those that maximize the sum of the values of individual structures) will be indifferent between any acts with merely finite effects. If you save the whales, there will be infinitely many whales, but if you don't save the whales, there will also be infinitely many whales.
 

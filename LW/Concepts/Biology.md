@@ -1,10 +1,13 @@
 ---
+_id: jaf5zfcGgCB2REXGw
 title: Biology
-href: https://lesswrong.com/tags/biology
+href: https://lesswrong.com/tag/biology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:16.243Z'
 ---
+# Biology
 

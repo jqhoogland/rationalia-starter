@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1d3
 title: Burdensome Details
-href: https://lesswrong.com/tags/burdensome-details
+href: https://lesswrong.com/tag/burdensome-details
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:58.526Z'
 ---
+# Burdensome Details
 
-The conjunction rule of probability theory states that a conjunction (A and B) is necessarily less probable than one of the conjuncts alone (A). Adding more details to a theory may make it sound _more plausible_ to human ears because of the [[Representativeness Heuristic|representativeness heuristic]], even as the story becomes normatively less probable, as **burdensome details** drive the probability of the conjunction down (this is known as [conjunction fallacy](https://www.lesswrong.com/tag/conjunction-fallacy)). Any detail you add has to be pinned down by a sufficient amount of evidence; all the details you make no claim about can be summed over.
+The conjunction rule of probability theory states that a conjunction (A and B) is necessarily less probable than one of the conjuncts alone (A). Adding more details to a theory may make it sound _more plausible_ to human ears because of the [[Representativeness Heuristic|representativeness heuristic]], even as the story becomes normatively less probable, as **burdensome details** drive the probability of the conjunction down (this is known as [[Conjunction Fallacy|conjunction fallacy]]). Any detail you add has to be pinned down by a sufficient amount of evidence; all the details you make no claim about can be summed over.
 
 Blog posts
 ----------
@@ -18,6 +21,6 @@ Blog posts
 See also
 --------
 
-*   [Conjunction fallacy](https://www.lesswrong.com/tag/conjunction-fallacy)
+*   [[Conjunction Fallacy|Conjunction fallacy]]
 *   [[Representativeness Heuristic|Representativeness heuristic]]
-*   [Occam's razor](https://www.lesswrong.com/tag/occam-s-razor), [[Epistemic Hygiene|Epistemic hygiene]]
+*   [[Occam's Razor|Occam's razor]], [[Epistemic Hygiene|Epistemic hygiene]]

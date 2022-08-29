@@ -1,12 +1,15 @@
 ---
+_id: dBPou4ihoQNY4cquv
 title: Psychology
-href: https://lesswrong.com/tags/psychology
+href: https://lesswrong.com/tag/psychology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:53.938Z'
 ---
+# Psychology
 
 **Psychology** is the study of the mind. Typically, psychology focuses on the human mind, but animal minds are also sometimes studied.
 

@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb356
 title: Road To AI Safety Excellence
 href: https://lesswrong.com/tag/road-to-ai-safety-excellence
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:33.210Z'
 ---
+# Road To AI Safety Excellence
 
 **Road to AI Safety Excellence** (RAISE), previously named AASAA, was an initiative from [toonalfrink](http://lesswrong.com/user/toonalfrink/) to improve the pipeline for AI safety researchers, especially by creating an online course. See the [Post-Mortem](https://www.lesswrong.com/posts/oW6mbA3XHzcfJTwNq/raise-post-mortem).
 

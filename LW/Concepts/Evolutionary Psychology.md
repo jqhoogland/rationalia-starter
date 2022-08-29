@@ -1,12 +1,15 @@
 ---
+_id: exZi6Bing5AiM4ZQB
 title: Evolutionary Psychology
-href: https://lesswrong.com/tags/evolutionary-psychology
+href: https://lesswrong.com/tag/evolutionary-psychology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:16.161Z'
 ---
+# Evolutionary Psychology
 
 [Evolution](https://wiki.lesswrong.com/wiki/Evolution), the cause of the diversity of biological life on Earth, *does not work like humans do*, and does not design things the way a human engineer would. This [blind idiot god](https://wiki.lesswrong.com/wiki/Alienness_of_evolution) is also the source and patterner of human beings. "Nothing in biology makes sense except in the light of evolution," said Theodosius Dobzhansky. Humans brains are also biology, and nothing about our thinking makes sense except in the light of evolution.
 
@@ -38,9 +41,9 @@ External links
 See also
 --------
 
-*   [Evolution](lesswrong.com/tag/evolution)
+*   [[Evolution]]
 *   [Stupidity of evolution](https://wiki.lesswrong.com/wiki/Stupidity_of_evolution), [evolution as alien god](https://wiki.lesswrong.com/wiki/Evolution_as_alien_god)
 *   [Human universal](https://wiki.lesswrong.com/wiki/Human_universal)
-*   [Adaptation executers](https://www.lesswrong.com/tag/adaptation-executors)
+*   [[Adaptation Executors|Adaptation executers]]
 *   [Corrupted hardware](https://wiki.lesswrong.com/wiki/Corrupted_hardware)
-*   [Psychology](https://www.lesswrong.com/tag/psychology)
+*   [[Psychology]]

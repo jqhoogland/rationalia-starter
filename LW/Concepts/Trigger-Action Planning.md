@@ -1,12 +1,15 @@
 ---
+_id: CD6DGZJD4ningyzWF
 title: Trigger-Action Planning
-href: https://lesswrong.com/tags/trigger-action-planning
+href: https://lesswrong.com/tag/trigger-action-planning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:08.015Z'
 ---
+# Trigger-Action Planning
 
 **Trigger-Action Planning (**TAP), sometimes **Trigger-Action Patterns**, and formerly **Implementation Intentions** are techniques for getting oneself to successfully enact desired actions (or inactions) by training something like a "stimulus-response" pair. The technique was spread by CFAR which initially drew upon the psychology literature of Implementation Intentions. 
 

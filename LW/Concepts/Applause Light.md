@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb26b
 title: Applause Light
 href: https://lesswrong.com/tag/applause-light
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:41.905Z'
 ---
+# Applause Light
 
 An **applause light** is an empty statement which evokes positive affect without providing new information.
 

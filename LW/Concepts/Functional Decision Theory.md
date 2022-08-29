@@ -1,4 +1,5 @@
 ---
+_id: fM6pmeSEncbzxoGpr
 title: Functional Decision Theory
 href: https://lesswrong.com/tag/functional-decision-theory
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.318Z'
 ---
+# Functional Decision Theory
 
 **Functional Decision Theory** is a [[Decision Theory|decision theory]] described by Eliezer Yudkowsky and Nate Soares which says that agents should treat one’s decision as the output of a ﬁxed mathematical function that answers the question, “Which output of this very function would yield the best outcome?”. It is a replacement of [[Timeless Decision Theory]], and it outperforms other decision theories such as [[Causal Decision Theory]] (CDT) and [[Evidential Decision Theory]] (EDT). For example, it does better than CDT on [[Newcomb's Problem]], better than EDT on the [[Smoking Lesion|smoking lesion problem]], and better than both in [[Parfit's Hitchhiker|Parﬁt’s hitchhiker problem]].
 

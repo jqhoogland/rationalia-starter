@@ -185,5 +185,7 @@ export const getFrontmatter = (data: Record<string, any>, keys: string[], extra:
             synchedAt: new Date().toISOString(),
         })
         + "---"
+        + "\n"
+        + "# " + data.title
     )
 }

@@ -1,12 +1,15 @@
 ---
+_id: NZ67PZ8CkeS6xn27h
 title: Mesa-Optimization
-href: https://lesswrong.com/tags/mesa-optimization
+href: https://lesswrong.com/tag/mesa-optimization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:13.546Z'
 ---
+# Mesa-Optimization
 
 **Mesa-Optimization** is the situation that occurs when a learned model (such as a neural network) is itself an optimizer. In this situation, a *base optimizer* creates a second optimizer, called a *mesa-optimizer*. The primary reference work for this concept is Hubinger et al.'s "[Risks from Learned Optimization in Advanced Machine Learning Systems](https://www.alignmentforum.org/posts/FkgsxrGf3QxhfLWHG/risks-from-learned-optimization-introduction)".
 
@@ -23,7 +26,7 @@ Previously work under this concept was called *Inner Optimizer* or *Optimization
 
 The optimization daemons article on [Arbital](https://arbital.com/) was published probably in 2016.[^3^](https://lessestwrong.com/tag/mesa-optimization?revision=0.0.3#fn3)
 
-[Jessica Taylor](https://www.lesswrong.com/users/jessica-liu-taylor) wrote two posts about daemons while at [MIRI](https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri):
+[Jessica Taylor](https://www.lesswrong.com/users/jessica-liu-taylor) wrote two posts about daemons while at [[Machine Intelligence Research Institute (MIRI)|MIRI]]:
 
 *   ["Are daemons a problem for ideal agents?"](https://agentfoundations.org/item?id=1281) (2017-02-11)
 *   ["Maximally efficient agents will probably have an anti-daemon immune system"](https://agentfoundations.org/item?id=1290) (2017-02-23)
@@ -31,7 +34,7 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 See also
 --------
 
-*   [[Inner Alignment|Inner Alignment]]
+*   [[Inner Alignment]]
 *   [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
 *   [Thou Art Godshatter](https://lessestwrong.com/lw/l3/thou_art_godshatter/)
 

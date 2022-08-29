@@ -1,12 +1,15 @@
 ---
+_id: FdoP2PJhMz6x3gdDh
 title: Nootropics & Other Cognitive Enhancement
-href: https://lesswrong.com/tags/nootropics-and-other-cognitive-enhancement
+href: https://lesswrong.com/tag/nootropics-and-other-cognitive-enhancement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:13.678Z'
 ---
+# Nootropics & Other Cognitive Enhancement
 
 **Nootoropics** (drugs/psychoactive substances) is a form of biological **Cognitive Enhancement**, i.e., any modification in the biology of a person which increases their cognitive capacities [^1^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-enhancement?revision=0.0.17#fn1). Apart from drugs (nootropics), alternative biological cognitive enhancements include, possibly, magnetic stimulation.   
   

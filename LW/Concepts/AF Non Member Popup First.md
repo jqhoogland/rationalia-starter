@@ -1,4 +1,5 @@
 ---
+_id: DtsGBCwAbrckp6BRv
 title: AF Non Member Popup First
 href: https://lesswrong.com/tag/af-non-member-popup-first
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:20.954Z'
 ---
+# AF Non Member Popup First
 
 **Note! This is how submissions work for non-members of the AI Alignment Forum**
 

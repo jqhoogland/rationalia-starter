@@ -1,11 +1,14 @@
 ---
+_id: KN9KEMgyBHjcAyc26
 title: Trust
-href: https://lesswrong.com/tags/trust
+href: https://lesswrong.com/tag/trust
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:16.249Z'
 ---
+# Trust
 
-**Related Pages:** [[Expertise (topic)|Expertise (topic)]], [Courage](https://www.lesswrong.com/tag/courage), [[Groupthink|Groupthink]], [Relationships (Interpersonal)](https://www.lesswrong.com/tag/relationships-interpersonal), [[Social & Cultural Dynamics|Social & Cultural Dynamics]]
+**Related Pages:** [[Expertise (topic)]], [[Courage]], [[Groupthink]], [[Relationships (Interpersonal)]], [[Social & Cultural Dynamics]]

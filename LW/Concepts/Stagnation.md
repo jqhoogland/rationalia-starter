@@ -1,4 +1,5 @@
 ---
+_id: bkgy24HML6nLSLqcj
 title: Stagnation
 href: https://lesswrong.com/tag/stagnation
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:18.914Z'
 ---
+# Stagnation
 
 Quoting Jason Crawford's *Technological Stagnation: Why I came around:*
 

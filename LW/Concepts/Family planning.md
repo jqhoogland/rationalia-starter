@@ -1,4 +1,5 @@
 ---
+_id: b7ZSAGimsbzrLR5CR
 title: Family planning
 href: https://lesswrong.com/tag/family-planning
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.278Z'
 ---
+# Family planning
 
 Posts about deciding whether to have children, how many children to have, when to have children, etc. Also called parenthood decision-making.
 

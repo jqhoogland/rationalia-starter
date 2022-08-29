@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2bd
 title: Computing Overhang
 href: https://lesswrong.com/tag/computing-overhang
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:37.127Z'
 ---
+# Computing Overhang
 
 **Computing overhang** refers to a situation where new algorithms can exploit existing computing power far more efficiently than before. This can happen if previously used algorithms have been suboptimal.
 

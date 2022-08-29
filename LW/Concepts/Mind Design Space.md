@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb196
 title: Mind Design Space
-href: https://lesswrong.com/tags/mind-design-space
+href: https://lesswrong.com/tag/mind-design-space
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:10.274Z'
 ---
+# Mind Design Space
 
-**Mind design space** refers to the [[Configuration Space|configuration space]] of possible minds. As humans living in a human world, we can safely make all sorts of assumptions about the minds around us without even realizing it. Each human might have their own unique personal qualities, so it might naively seem that there's nothing you can say about people you [don't know](https://wiki.lesswrong.com/wiki/I_don't_know). But there's actually quite a lot you can say (with high or very high probability) about a random human: that they have [[Human Universal|standard]] emotions like happiness, sadness, and anger; standard senses like sight, vision, and hearing; that they speak a language; and no doubt any number of other subtle features that are even harder to [quickly explain in words](https://www.lesswrong.com/tag/inferential-distance). These things are the specific results of [[Evolutionary Psychology|adaptation pressures in the ancestral environment]] and can't be expected to be shared by a random alien or [AI](https://www.lesswrong.com/tag/artificial-general-intelligence). That is, humans are packed into a tiny dot in the configuration space: there is vast range over of other ways a mind can _be_.
+**Mind design space** refers to the [[Configuration Space|configuration space]] of possible minds. As humans living in a human world, we can safely make all sorts of assumptions about the minds around us without even realizing it. Each human might have their own unique personal qualities, so it might naively seem that there's nothing you can say about people you [don't know](https://wiki.lesswrong.com/wiki/I_don't_know). But there's actually quite a lot you can say (with high or very high probability) about a random human: that they have [[Human Universal|standard]] emotions like happiness, sadness, and anger; standard senses like sight, vision, and hearing; that they speak a language; and no doubt any number of other subtle features that are even harder to [[Inferential Distance|quickly explain in words]]. These things are the specific results of [[Evolutionary Psychology|adaptation pressures in the ancestral environment]] and can't be expected to be shared by a random alien or [[Artificial General Intelligence|AI]]. That is, humans are packed into a tiny dot in the configuration space: there is vast range over of other ways a mind can _be_.
 
 Blog posts
 ----------
@@ -18,7 +21,7 @@ Blog posts
 See also
 --------
 
-*   [Artificial general intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence)
-*   [[Anthropomorphism|Anthropomorphism]], [Alien values](https://www.lesswrong.com/tag/alien-values)
+*   [[Artificial General Intelligence|Artificial general intelligence]]
+*   [[Anthropomorphism]], [[Alien Values|Alien values]]
 *   [[Evolution As Alien God|Evolution as alien god]]
-*   [Paperclip maximizer](https://www.lesswrong.com/tag/paperclip-maximizer), [[Magical Categories|Magical categories]]
+*   [[Paperclip Maximizer|Paperclip maximizer]], [[Magical Categories|Magical categories]]

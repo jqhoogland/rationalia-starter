@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb179
 title: In-Group Bias
-href: https://lesswrong.com/tags/in-group-bias
+href: https://lesswrong.com/tag/in-group-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:11.372Z'
 ---
+# In-Group Bias
 
-**In-group bias** is the preferential treatment of people and ideas associated with your own group. Can lead to [[Blues & Greens (metaphor)|color politics]], and is a catalyst for [affective death spirals](https://www.lesswrong.com/tag/affective-death-spiral).
+**In-group bias** is the preferential treatment of people and ideas associated with your own group. Can lead to [[Blues & Greens (metaphor)|color politics]], and is a catalyst for [[Affective Death Spiral|affective death spirals]].
 
 Blog posts
 ----------
@@ -20,7 +23,7 @@ See also
 --------
 
 *   [[Conformity Bias|Conformity bias]]
-*   [Color politics](https://www.lesswrong.com/tag/blues-and-greens-metaphor)
+*   [[Blues & Greens (metaphor)|Color politics]]
 *   [[Halo Effect|Halo effect]]
-*   [Affective death spiral](https://www.lesswrong.com/tag/affective-death-spiral)
-*   [[Social Status|Status]], [signaling](https://www.lesswrong.com/tag/signaling)
+*   [[Affective Death Spiral|Affective death spiral]]
+*   [[Social Status|Status]], [[Signaling|signaling]]

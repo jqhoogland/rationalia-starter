@@ -1,4 +1,5 @@
 ---
+_id: mxSBcaTrakvCkgLzL
 title: Mind Crime
 href: https://lesswrong.com/tag/mind-crime
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:19.048Z'
 ---
+# Mind Crime
 
 **Mind Crime** occurs when a computational process which has moral value is mistreated. For example, an advanced AI trying to predict human behavior might create simulations of humans so detailed as to be conscious observers, which would then suffer through whatever hypothetical scenarios the AI wanted to test and then be discarded.
 

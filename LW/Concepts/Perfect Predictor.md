@@ -1,4 +1,5 @@
 ---
+_id: SgpwPSrHRbeRSxKus
 title: Perfect Predictor
 href: https://lesswrong.com/tag/perfect-predictor
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:30.221Z'
 ---
+# Perfect Predictor
 
 A **perfect predictor** is an agent which can predict the behaviour of an agent or the outcome of an event with perfect accuracy. It is often given the name [[Omega]], but Omega sometimes refers to an almost perfect predictor.
 

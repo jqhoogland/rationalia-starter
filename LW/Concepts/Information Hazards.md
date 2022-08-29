@@ -1,12 +1,15 @@
 ---
+_id: 7w6XkYe5YPx9YL59j
 title: Information Hazards
-href: https://lesswrong.com/tags/information-hazards
+href: https://lesswrong.com/tag/information-hazards
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:13.713Z'
 ---
+# Information Hazards
 
 An **Information Hazard** is some true information that could harm people, or other sentient beings, if known. It is tricky to determine policies on information hazards. Some information might genuinely be dangerous, but excessive controls on information has its own perils. 
 

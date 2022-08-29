@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb294
 title: Bayesian Decision Theory
 href: https://lesswrong.com/tag/bayesian-decision-theory
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:40.222Z'
 ---
+# Bayesian Decision Theory
 
 **Bayesian decision theory** refers to a [[Decision Theory|decision theory]] which is informed by [[Bayesian Probability|Bayesian probability]]. It is a statistical system that tries to quantify the tradeoff between various decisions, making use of probabilities and costs. An agent operating under such a decision theory uses the concepts of Bayesian statistics to estimate the [[Expected Value|expected value]] of its actions, and update its expectations based on new information. These agents can and are usually referred to as estimators.
 

@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb0e2
 title: Epistemic Hygiene
-href: https://lesswrong.com/tags/epistemic-hygiene
+href: https://lesswrong.com/tag/epistemic-hygiene
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:07.562Z'
 ---
+# Epistemic Hygiene
 
 **Epistemic hygiene** consists of practices meant to allow accurate beliefs to spread within a community and keep less accurate or biased beliefs contained. The practices are meant to serve an analogous purpose to normal hygiene and sanitation in containing disease. "Good cognitive citizenship" is another phrase that has been proposed for this concept[^1^](#fn1).
 
@@ -27,10 +30,10 @@ See also
 --------
 
 *   [[Least Convenient Possible World|Least convenient possible world]]
-*   [Improper belief](https://www.lesswrong.com/tag/improper-belief)
+*   [[Improper Belief|Improper belief]]
 *   [[Group Rationality|Group rationality]]
-*   [Mind-killer](https://www.lesswrong.com/tag/mind-killer)
-*   [[Filtered Evidence|Filtered evidence]], [absurdity heuristic](https://www.lesswrong.com/tag/absurdity-heuristic)
+*   [[Mind-Killer|Mind-killer]]
+*   [[Filtered Evidence|Filtered evidence]], [[Absurdity Heuristic|absurdity heuristic]]
 *   [[Rational Evidence|Rational evidence]]
-*   [Burdensome details](https://www.lesswrong.com/tag/burdensome-details)
+*   [[Burdensome Details|Burdensome details]]
 *   [[Status Quo Bias|Status quo bias]]

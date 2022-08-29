@@ -1,4 +1,5 @@
 ---
+_id: mSTmKrSkFBswHaS3T
 title: Eliciting Latent Knowledge (ELK)
 href: https://lesswrong.com/tag/eliciting-latent-knowledge-elk
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:17.340Z'
 ---
+# Eliciting Latent Knowledge (ELK)
 
 **Eliciting Latent Knowledge** is an open problem in [AI](ai) safety.
 

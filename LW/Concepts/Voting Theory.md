@@ -1,12 +1,15 @@
 ---
+_id: mPuSAzJN7CyrMiKrf
 title: Voting Theory
-href: https://lesswrong.com/tags/voting-theory
+href: https://lesswrong.com/tag/voting-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:05.755Z'
 ---
+# Voting Theory
 
 **Voting theory**, also called social choice theory, is the study of voting mechanisms. In other words, for a given list of candidates and voters, a voting method specifies a set of valid ways to fill out a ballot, and, given a valid ballot from each voter, produces an outcome.
 
@@ -14,4 +17,4 @@ tags:
 
 **Resources:** [Electowiki](https://electowiki.org/wiki/Main_Page) \- A wiki focused on voting theory and electoral systems.
 
-**related tags:** [[1 Projects/Rationalia/LW/Concepts/Game Theory|Game Theory]], [Decision Theory](https://www.lesswrong.com/tag/decision-theory), [Coordination / Cooperation](https://www.lesswrong.com/tag/coordination-cooperation?showPostCount=true&useTagName=true)
+**related tags:** [[Game Theory]], [[Decision Theory]], [[Coordination / Cooperation]]

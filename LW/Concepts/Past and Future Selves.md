@@ -1,12 +1,15 @@
 ---
+_id: Wgbgir4qzGz8Ztt3u
 title: Past and Future Selves
-href: https://lesswrong.com/tags/past-and-future-selves
+href: https://lesswrong.com/tag/past-and-future-selves
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:45.117Z'
 ---
+# Past and Future Selves
 
 Your present self has to coordinate with your **past and future selves.** You might want to consciously, on-purpose simulate those selves in your mind in order to do this more effectively. 
 

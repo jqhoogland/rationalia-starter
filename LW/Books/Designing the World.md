@@ -8,8 +8,9 @@ type: book
 tags:
   - LessWrong
   - Book
-synchedAt: '2022-08-29T10:34:08.504Z'
+synchedAt: '2022-08-29T10:40:16.042Z'
 ---
+# Designing the World
 
 # Sequences
 

@@ -1,12 +1,15 @@
 ---
+_id: 7dpiuzLNPMtdjAvNq
 title: Summoning Sapience
-href: https://lesswrong.com/tags/summoning-sapience
+href: https://lesswrong.com/tag/summoning-sapience
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:53.574Z'
 ---
+# Summoning Sapience
 
 **Summoning Sapience** is the act of noticing that you are in a situation where it'd be beneficial to *actually think*, rather than running on autopilot. 
 

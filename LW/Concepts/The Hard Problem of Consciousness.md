@@ -1,12 +1,15 @@
 ---
+_id: KqrZ5sDEyHm6JaaKp
 title: The Hard Problem of Consciousness
-href: https://lesswrong.com/tags/the-hard-problem-of-consciousness
+href: https://lesswrong.com/tag/the-hard-problem-of-consciousness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:49.205Z'
 ---
+# The Hard Problem of Consciousness
 
 The **hard problem of consciousness** is the problem of explaining why and how sentient organisms have [qualia](https://en.wikipedia.org/wiki/Qualia). how and why it is that some internal states are subjective, *felt* states, such as heat or cold, rather than objective states, as in the workings of a thermostat or a toaster ([From Wikipedia](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness))
 
@@ -20,4 +23,4 @@ The **hard problem of consciousness** is the problem of explaining why and how s
 
 the existence of the Hard Problem of Consciousness [isn't in consensus](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness#Rejection_of_the_problem) among scientists and philosophers.
 
-Related Tags: [Consciousness](https://www.lesswrong.com/tag/consciousness)
+Related Tags: [[Consciousness]]

@@ -1,12 +1,15 @@
 ---
+_id: EdDGrAxYcrXnKkDca
 title: Distillation & Pedagogy
-href: https://lesswrong.com/tags/distillation-and-pedagogy
+href: https://lesswrong.com/tag/distillation-and-pedagogy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:59.251Z'
 ---
+# Distillation & Pedagogy
 
 **Distillation** is the process of taking a complex subject, and making it easier to understand. **Pedagogy** is the method and practice of teaching. A good intellectual pipeline requires not just discovering new ideas, but making it easier for newcomers to learn them, stand on the shoulders of giants, and discover even more ideas.
 
@@ -23,4 +26,4 @@ Chris Olah, founder of [distill.pub](https://distill.pub/), writes in his essay 
 > 
 > The insidious thing about research debt is that it’s normal. Everyone takes it for granted, and doesn’t realize that things could be different. For example, it’s normal to give very mediocre explanations of research, and people perceive that to be the ceiling of explanation quality. On the rare occasions that truly excellent explanations come along, people see them as one-off miracles rather than a sign that we could systematically be doing better.
 
-See also [[Scholarship & Learning|Scholarship and Learning]], and [Good Explanations](https://www.lesswrong.com/tag/good-explanations-advice).
+See also [[Scholarship & Learning|Scholarship and Learning]], and [[Good Explanations (Advice)|Good Explanations]].

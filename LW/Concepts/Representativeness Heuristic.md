@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb19b
 title: Representativeness Heuristic
-href: https://lesswrong.com/tags/representativeness-heuristic
+href: https://lesswrong.com/tag/representativeness-heuristic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:57.539Z'
 ---
+# Representativeness Heuristic
 
 Blog posts
 ----------
@@ -22,6 +25,6 @@ External links
 See also
 --------
 
-*   [Conjunction fallacy](https://www.lesswrong.com/tag/conjunction-fallacy)
+*   [[Conjunction Fallacy|Conjunction fallacy]]
 *   [[Availability Heuristic|Availability heuristic]]
-*   [Narrative fallacy](https://www.lesswrong.com/tag/narrative-fallacy)
+*   [[Narrative Fallacy|Narrative fallacy]]

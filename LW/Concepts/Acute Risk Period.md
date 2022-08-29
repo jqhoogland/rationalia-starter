@@ -1,4 +1,5 @@
 ---
+_id: ESkc5kecgkLF235dj
 title: Acute Risk Period
 href: https://lesswrong.com/tag/acute-risk-period
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:13.953Z'
 ---
+# Acute Risk Period
 
 The Acute Risk Period is the period of human history wherein it is possible to destroy all of civilization. (i.e. we destroy ourselves in nuclear war, or build an AGI that quickly bootstraps to be much more powerful than the rest of humanity combined).
 

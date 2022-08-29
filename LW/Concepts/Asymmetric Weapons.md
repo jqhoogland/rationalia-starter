@@ -1,4 +1,5 @@
 ---
+_id: 3JnSXmK9nYxzd5Riy
 title: Asymmetric Weapons
 href: https://lesswrong.com/tag/asymmetric-weapons
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:24.502Z'
 ---
+# Asymmetric Weapons
 
 **Asymmetric Weapons** are weapons that are inherently more powerful to one side of a conflict than another - Unlike a symmetric weapon, which can used as effectively by both sides. The term was originally introduced by Scott Alexander in his essay [Guided By The Beauty Of Our Weapons](https://www.lesswrong.com/posts/qajfiXo5qRThZQG7s/guided-by-the-beauty-of-our-weapons), where he argued that truth, facts, and logic are asymmetric weapons for "the good guys":
 

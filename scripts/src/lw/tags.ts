@@ -1,7 +1,6 @@
 import fs from 'fs';
 import { gql, request } from 'graphql-request';
-import * as yaml from 'js-yaml';
-import { db, fixLinks, Response, TagPreview } from './shared';
+import { db, fixLinks, getFrontmatter, Response, TagPreview } from './shared';
 
 export interface Tag {
     _id: string,
@@ -94,29 +93,27 @@ export const fetchTag = async (slug: string) => {
 // (await loadTags().then(tags => console.log(JSON.stringify(tags, null, 2))))
     
 export const tagsToMD = async () => {
-    const getFrontmatter = (tag: Tag) => {
-        return (
-            "---\n"
-            + yaml.dump({
-                title: tag.name,
-                href: `https://lesswrong.com/tag/${tag.slug}`,
-                type: "tag",
-                tags: [
-                    "LessWrong",
-                    "Concept",
-                    "Tag"
-                ],
-                ...(tag.core ? { core: tag.core } : {}),
-                ...(tag.parentTag ? { parent: tag.parentTag.name } : {}),
-                ...(tag.subTags.length > 0 ? { children: tag.subTags.map(subtag => subtag.name) } : {}),
-            })
-            + "---"
-        )
-    }
-
-    for (const tag of db.tags) {
+    let i = 0;
+    for (const tag of db.tags.slice(956)) {
+        console.log("INDEX", i++)
         let mdFile = ""        
-        mdFile += getFrontmatter(tag)
+        mdFile += getFrontmatter({
+            title: tag.name,
+            ...tag
+        }, [
+            '_id', "title", "url"
+        ], {
+            href: `https://lesswrong.com/tag/${tag.slug}`,
+            type: "tag",
+            tags: [
+                "LessWrong",
+                "Concept",
+                "Tag"
+            ],
+            ...(tag.core ? { core: tag.core } : {}),
+            ...(tag.parentTag ? { parent: tag.parentTag.name } : {}),
+            ...(tag.subTags.length > 0 ? { children: tag.subTags.map(subtag => subtag.name) } : {}),
+        })
         mdFile += "\n\n"
         mdFile += await fixLinks(tag?.description?.markdown ?? "");
 
@@ -129,4 +126,4 @@ export const tagsToMD = async () => {
     }
 }
 
- // (await tagsToMD())
+ (await tagsToMD())

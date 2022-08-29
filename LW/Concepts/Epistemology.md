@@ -1,12 +1,15 @@
 ---
+_id: xgpBASEThXPuKRhbS
 title: Epistemology
-href: https://lesswrong.com/tags/epistemology
+href: https://lesswrong.com/tag/epistemology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:05.315Z'
 ---
+# Epistemology
 
 **Epistemology** is the study of how we know the world. It's both a topic in philosophy and a practical concern for how we come to believe things are true.
 

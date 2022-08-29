@@ -1,16 +1,19 @@
 ---
+_id: LhX3F2SvGDarZCuh6
 title: Bayes' Theorem
-href: https://lesswrong.com/tags/bayes-theorem
+href: https://lesswrong.com/tag/bayes-theorem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:23.105Z'
 ---
+# Bayes' Theorem
 
 **Bayes' Theorem** (also known as Bayes' Law) is a law of probability that describes the proper way to incorporate new evidence into prior probabilities to form an updated probability estimate. It is commonly regarded as the foundation of consistent rational reasoning under uncertainty. Bayes Theorem is named after Reverend Thomas Bayes who proved the theorem in 1763.
 
-_See also:_ [[Bayesian Probability|Bayesian probability]], [Priors](https://www.lesswrong.com/tag/priors), [[Likelihood Ratio|Likelihood ratio]], [Belief update](https://www.lesswrong.com/tag/belief-update), [[Probability & Statistics|Probability and statistics]], [Epistemology](https://www.lesswrong.com/tag/epistemology), [[1 Projects/Rationalia/LW/Concepts/Bayesianism|Bayesianism]]
+_See also:_ [[Bayesian Probability|Bayesian probability]], [[Priors]], [[Likelihood Ratio|Likelihood ratio]], [[Belief Update|Belief update]], [[Probability & Statistics|Probability and statistics]], [[Epistemology]], [[Bayesianism]]
 
 Bayes' theorem commonly takes the form:
 
@@ -18,7 +21,7 @@ Bayes' theorem commonly takes the form:
 
 where A is the proposition of interest, B is the observed evidence, P(A) and P(B) are prior probabilities, and P(A|B) is the posterior probability of A.
 
-With the posterior odds, the prior odds and the [likelihood ratio](https://www.lesswrong.com/tag/likelihood-ratio) written explicitly, the theorem reads:
+With the posterior odds, the prior odds and the [[Likelihood Ratio|likelihood ratio]] written explicitly, the theorem reads:
 
 P(A|B)P(¬A|B)=P(A)P(¬A)⋅P(B|A)P(B|¬A)
 

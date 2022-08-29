@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1be
 title: Intelligence Explosion
 href: https://lesswrong.com/tag/intelligence-explosion
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:49.430Z'
 ---
+# Intelligence Explosion
 
 An **intelligence explosion** is theoretical scenario in which an intelligent agent analyzes the processes that produce its intelligence, improves upon them, and creates a successor which does the same. This process repeats in a positive feedback loop– each successive agent more intelligent than the last and thus more able to increase the intelligence of its successor – until some limit is reached. This limit is conjectured to be much, much higher than human intelligence.
 

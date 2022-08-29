@@ -1,4 +1,5 @@
 ---
+_id: qf3kDBak4BQDDw3f2
 title: Modest Epistemology
 href: https://lesswrong.com/tag/modest-epistemology
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:21.251Z'
 ---
+# Modest Epistemology
 
 **Modest Epistemology** is the claim that average opinions are more accurate that individual opinions, and individuals should take advantage of this by moving toward average opinions, even in cases where they have strong arguments for their own views and against more typical views. (Another name for this concept is "the wisdom of crowds" -- that name is much more popular outside of LessWrong.) In terms of [[Inside/Outside View|inside view vs outside view]], we can describe modest epistemology as the belief that inside views are quite fallible and outside views much more robust; therefore, we should weigh outside-view considerations much more heavily.
 

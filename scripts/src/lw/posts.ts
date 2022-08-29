@@ -1,8 +1,7 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import yaml from 'js-yaml';
 import { ReadingOrder } from "./orders";
-import { db, TableOfContents, TagPreview } from "./shared";
+import { db, getFrontmatter, TableOfContents, TagPreview } from "./shared";
 
 export interface Post {
     _id: string;
@@ -87,35 +86,24 @@ export const fetchPost = ({ slug, _id }: { slug?: string, _id?: string }) => {
 }
 
 export const postsToMD = async () => {
-    const getFrontmatter = (post: Post) => {
-        const sequence = db.sequences.find(s => s.chapters.flatMap(c => c.posts).find(p => p._id === post._id));
-        const chapter = sequence?.chapters?.find(c => c.posts.find(p => p._id === post._id));
-        // const orders = db.orders.flatMap(o => o.chapters.flatMap(c => c.children.filter(p => p.type === "post" && p.href === post._id)));
-
-        return (
-            "---\n"
-            + yaml.dump({
-                title: post.title,
-                href: `https://www.lesswrong.com/posts/${post._id}/${post.slug}`,
-                type: "post",
-                tags: [
-                    "LessWrong",
-                    "Concept",
-                    "Post"
-                ],
-                ...(sequence ? { sequence: sequence.title } : {}),
-                ...(chapter ? { chapter: chapter.title } : {}),
-                // ...(orders ? { orders } : {}),
-            })
-            + "---"
-        )
-    }
 
     for (const post of db.posts) {
         if (post.forceInclude || post.voteCount > 200) {
-
+            const sequence = db.sequences.find(s => s.chapters.flatMap(c => c.posts).find(p => p._id === post._id));
+            const chapter = sequence?.chapters?.find(c => c.posts.find(p => p._id === post._id));
+            
             let mdFile = ""
-            mdFile += getFrontmatter(post)
+            mdFile += getFrontmatter(
+                post,
+                ['_id', 'title', 'author', 'url', 'slug'],
+                {
+                    type: "sequence",
+                    tags: ["LessWrong", "Concept", "Post", ...post.tags.map(({name}) => name)],
+                    href: `https://www.lesswrong.com/posts/${post._id}/${post.slug}`,
+                    ...(sequence ? { sequence: sequence.title } : {}),
+                    ...(chapter ? { chapter: chapter.title } : {}),
+                }
+            )
             mdFile += "\n\n"
             // mdFile += await fixLinks(post?.contents?.markdown ?? "");
 

@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1db
 title: Timeless Decision Theory
 href: https://lesswrong.com/tag/timeless-decision-theory
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:48.497Z'
 ---
+# Timeless Decision Theory
 
 **Timeless decision theory** (TDT) is a [[Decision Theory|decision theory]], [developed by Eliezer Yudkowsky](http://intelligence.org/files/TDT.pdf) which, in slogan form, says that agents should decide as if they are determining the output of the abstract computation that they implement. This theory was developed in response to the view that rationality should be about winning (that is, about agents achieving their desired ends) rather than about behaving in a manner that we would intuitively label as rational. Prominent existing decision theories (including [[Causal Decision Theory|causal decision theory]], or CDT) fail to choose the winning decision in some scenarios and so there is a need to develop a more successful theory.
 

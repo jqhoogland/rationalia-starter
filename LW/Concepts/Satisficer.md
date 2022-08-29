@@ -1,4 +1,5 @@
 ---
+_id: nYta24PsKTvg57KZy
 title: Satisficer
 href: https://lesswrong.com/tag/satisficer
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.914Z'
 ---
+# Satisficer
 
 A **Satisficer** aims to reach a set level of [[Utility Functions|utility]] rather than maximizing utility. It is a proposed optimization process to the open [Other-izer problem](https://arbital.greaterwrong.com/p/otherizer?l=2r9).
 

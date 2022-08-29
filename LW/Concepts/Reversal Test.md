@@ -1,12 +1,15 @@
 ---
+_id: DsdbQhWAnPqfzo4Yw
 title: Reversal Test
-href: https://lesswrong.com/tags/reversal-test
+href: https://lesswrong.com/tag/reversal-test
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:14.887Z'
 ---
+# Reversal Test
 
 The **reversal test** is a technique for fighting [status quo bias](https://wiki.lesswrong.com/wiki/Status_quo_bias) in judgments about the preferred value of a continuous parameter. If one deems the change of the parameter in one direction to be undesirable, the reversal test is to check that either the change of that parameter in the opposite direction (away from status quo) is deemed desirable, or that there are strong reasons to expect that the current value of the parameter is (at least locally) the optimal one.
 

@@ -1,12 +1,15 @@
 ---
+_id: 9mShmhRFzBat3523A
 title: Perceptual Control Theory
-href: https://lesswrong.com/tags/perceptual-control-theory
+href: https://lesswrong.com/tag/perceptual-control-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:29.389Z'
 ---
+# Perceptual Control Theory
 
 **Perceptual control theory (PCT)** is a psychological theory of animal and human behavior. PCT postulates that an organism's behavior is a means of controlling its perceptions. The model is based on the principles of negative feedback \[[1](https://en.wikipedia.org/wiki/Perceptual_control_theory)\]. It is to some extent an application of the ideas used in the engineering discipline of control theory to the modeling of the human mind and behavior.  
   

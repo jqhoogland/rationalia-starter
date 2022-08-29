@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb224
 title: Predictionbook
-href: https://lesswrong.com/tags/predictionbook
+href: https://lesswrong.com/tag/predictionbook
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:50.152Z'
 ---
+# Predictionbook
 
 [**PredictionBook**](http://predictionbook.com/) is a website created by Tricycle Developments to allow users to record predictions with specific end dates. Confidence is measured and used in statistics & graphs showing each user's prediction history.
 
@@ -45,4 +48,4 @@ Blog posts
 See also
 --------
 
-*   [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [Debate tools](https://www.lesswrong.com/tag/debate-tools)
+*   [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [[Robot|Debate tools]]

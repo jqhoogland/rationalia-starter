@@ -1,18 +1,21 @@
 ---
+_id: ZTRNmvQGgoYiymYnq
 title: Consequentialism
-href: https://lesswrong.com/tags/consequentialism
+href: https://lesswrong.com/tag/consequentialism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:11.984Z'
 ---
+# Consequentialism
 
 **Consequentialism** is the ethical theory that people should choose their actions based on the outcomes they expect will result. How to judge outcomes is not specified, but there are many types of consequentialism that specify how outcomes should be judged. For example, [[Utilitarianism|utilitarianism]] holds that the best outcome is that which maximizes the total welfare of all people, and ethical egoism holds that the best outcome is that which maximizes their own personal interests. Consequentialism is one of three main strands of ethical thought, along with deontology, which holds that people should choose actions which conform to a prescribed list of moral rules, and virtue ethics, which holds that people should be judged by how virtuous they are, instead of by what actions they take.
 
-Related: [Ethics & Morality](https://www.lesswrong.com/tag/ethics-and-morality), [[Deontology|Deontology]], [Moral Uncertainty](/tag/moral-uncertainty), [[Utilitarianism|Utilitarianism]]
+Related: [[Ethics & Morality]], [[Deontology]], [Moral Uncertainty](/tag/moral-uncertainty), [[Utilitarianism]]
 
-Consequentialism is often associated with maximizing the [expected value](https://www.lesswrong.com/tag/expected-utility) of a [[Utility Functions|utility function]]. However, it has been argued that consequentialism is not the same thing as having a utility function because it is possible to evaluate actions based on their consequences without obeying the [von Neuman-Morgenstern axioms](http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) necessary for having a utility function, and because utility functions can also be used to implement moral theories similar to deontology.
+Consequentialism is often associated with maximizing the [[Expected Utility|expected value]] of a [[Utility Functions|utility function]]. However, it has been argued that consequentialism is not the same thing as having a utility function because it is possible to evaluate actions based on their consequences without obeying the [von Neuman-Morgenstern axioms](http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) necessary for having a utility function, and because utility functions can also be used to implement moral theories similar to deontology.
 
 Blog posts
 ----------
@@ -33,12 +36,12 @@ External links
 See also
 --------
 
-*   [[Utilitarianism|Utilitarianism]]
-*   [Utility](https://www.lesswrong.com/tag/utility), [[Utility Functions|utility function]], [expected utility](https://www.lesswrong.com/tag/expected-utility)
+*   [[Utilitarianism]]
+*   [[Utility]], [[Utility Functions|utility function]], [[Expected Utility|expected utility]]
 *   [[Metaethics Sequence|Metaethics sequence]]
-*   [Ethical injunction](https://www.lesswrong.com/tag/ethical-injunction)
+*   [[Ethical Injunction|Ethical injunction]]
 *   [[Shut Up and Multiply|Shut up and multiply]]
-*   [Hedons](https://wiki.lesswrong.com/wiki/Hedons), [utils](https://wiki.lesswrong.com/wiki/utils), [fuzzies](https://www.lesswrong.com/tag/fuzzies)
+*   [Hedons](https://wiki.lesswrong.com/wiki/Hedons), [utils](https://wiki.lesswrong.com/wiki/utils), [[Fuzzies|fuzzies]]
 
 References
 ----------

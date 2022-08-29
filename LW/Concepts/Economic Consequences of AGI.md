@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2ac
 title: Economic Consequences of AGI
 href: https://lesswrong.com/tag/economic-consequences-of-agi
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:39.152Z'
 ---
+# Economic Consequences of AGI
 
 The **economic consequences of** [[Artificial General Intelligence|**artificial general intelligence**]] arise from their fundamentally new properties compared to the human brains currently driving the economy. Once such digital minds become generally intelligent enough to perform a wide range of economic functions, they are likely to bring radical changes, creating great wealth, but also displacing humans out of more and more types of job.
 

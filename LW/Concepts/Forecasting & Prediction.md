@@ -1,14 +1,17 @@
 ---
+_id: 8daMDi9NEShyLqxth
 title: Forecasting & Prediction
-href: https://lesswrong.com/tags/forecasting-and-prediction
+href: https://lesswrong.com/tag/forecasting-and-prediction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:16.276Z'
 ---
+# Forecasting & Prediction
 
-**Forecasting** or **Predicting** is the act of making statements about what will happen in the future (and in some cases, the past) and then scoring the predictions. Posts market with this tag is for discussion of the practice, skill, and methodology of forecasting. Posts exclusively containing object-level lists of forecasts and predictions are in [[Forecasts (Specific Predictions)|Forecasts]].  Related: [Betting](https://www.lesswrong.com/tag/betting).
+**Forecasting** or **Predicting** is the act of making statements about what will happen in the future (and in some cases, the past) and then scoring the predictions. Posts market with this tag is for discussion of the practice, skill, and methodology of forecasting. Posts exclusively containing object-level lists of forecasts and predictions are in [[Forecasts (Specific Predictions)|Forecasts]].  Related: [[Betting]].
 
 > *Above all, don’t ask what to believe—ask what to anticipate. Every question of belief should flow from a question of anticipation, and that question of anticipation should be the center of the inquiry.  –* [[Making Beliefs Pay Rent (in Anticipated Experiences)|*Making Beliefs Pay Rent*]]
 
@@ -54,7 +57,7 @@ Prediction markets/aggregators
 
 Meta forecasting orgs 
 
-*   [QURI](https://www.lesswrong.com/tag/quri), 
+*   [[QURI]], 
 
 Individuals publicly attached to the space
 ------------------------------------------

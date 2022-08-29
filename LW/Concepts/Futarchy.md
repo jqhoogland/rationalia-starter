@@ -1,4 +1,5 @@
 ---
+_id: RGPpwYoCHrPNB86TW
 title: Futarchy
 href: https://lesswrong.com/tag/futarchy
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.182Z'
 ---
+# Futarchy
 
 **Futarchy** is a proposed government system in which decisions are made based on betting markets. It was [originally proposed by Robin Hanson](http://mason.gmu.edu/~rhanson/futarchy.html), who gave the motto "Vote on Values, But Bet on Beliefs".
 

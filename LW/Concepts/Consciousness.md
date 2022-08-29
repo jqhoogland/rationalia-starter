@@ -1,12 +1,15 @@
 ---
+_id: XSryTypw5Hszpa4TS
 title: Consciousness
-href: https://lesswrong.com/tags/consciousness
+href: https://lesswrong.com/tag/consciousness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:01.901Z'
 ---
+# Consciousness
 
 The word "**consciousness**" is used in a variety of different ways, and there are large disagreements about the reality and nature (and even coherence) of some of the things people profess to mean by "consciousness."
 
@@ -24,7 +27,7 @@ Colloquially, the word "conscious" is used to pick out a few different things:
 
 Reasonably mainstream academic overviews of "consciousness" can be found in the [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/consciousness/) and the [*MIT Encyclopedia of the Cognitive Sciences*](http://www.mkdavies.net/Martin_Davies/Mind_files/ConsciousnessMITECS.pdf).
 
-This tag is *tentatively and provisionally* about the "**having experiences**" meaning(s) of "consciousness." For wakefulness and dreaming, see [[Sleep|sleep]]. For knowledge, perception, and attention, see [attention](https://www.lesswrong.com/tag/attention) and [[Cognitive Science|cognitive science]]. And for reflective awareness and self-awareness, see [identity](https://www.lesswrong.com/tag/identity), [[Personal Identity|personal identity]], and [reflective reasoning](https://www.lesswrong.com/tag/reflective-reasoning).
+This tag is *tentatively and provisionally* about the "**having experiences**" meaning(s) of "consciousness." For wakefulness and dreaming, see [[Sleep|sleep]]. For knowledge, perception, and attention, see [[Attention|attention]] and [[Cognitive Science|cognitive science]]. And for reflective awareness and self-awareness, see [[Identity|identity]], [[Personal Identity|personal identity]], and [[Reflective Reasoning|reflective reasoning]].
 
 This tag's focus is tentative and provisional because it is not altogether clear that "consciousness in the sense of having experiences" is a coherent idea, or one that's distinct from the other categories above. This tag is a practical tool for organizing discussion on a family of related topics, and isn't intended as a strong statement "this is the right way of [carving nature at its joints](https://www.lesswrong.com/posts/d5NyJ2Lf6N22AD9PB/where-to-draw-the-boundary)."
 
@@ -36,13 +39,13 @@ Suffice to say that (as of December 8, 2020) *enough LessWrongers find conscious
 Beyond sheer curiosity about how the mind works, there are several sub-questions that have caused thinkers to take a special interest in the question "what is 'having an experience'?":
 
 *   1\. When should I care about something else's welfare?
-    *   1.1. [Animal welfare](https://www.lesswrong.com/tag/animal-welfare): Pain, pleasure, desire, etc. are commonly taken to be *experiences*, and experiences of great moral importance. Knowing which species are capable of "having experiences," then, could matter decisively in assessing the morality of factory farming and the morality of policies affecting wild animals.
+    *   1.1. [[Animal Welfare|Animal welfare]]: Pain, pleasure, desire, etc. are commonly taken to be *experiences*, and experiences of great moral importance. Knowing which species are capable of "having experiences," then, could matter decisively in assessing the morality of factory farming and the morality of policies affecting wild animals.
     *   1.2. Machine welfare and [[Risks of Astronomical Suffering (S-risks)|s-risks]]: Similarly, knowing which kinds of (actual or potential) software have "[experiences](https://www.lesswrong.com/posts/wqDRRx9RqwKLzWt7R/nonperson-predicates)" could tell us a great deal about which programs are morally important.
 *   2\. When should I think of something as "me" (or "relevantly me-like")?
-    *   2.1. [[Personal Identity|Personal identity]], [whole brain emulation](https://www.lesswrong.com/tag/whole-brain-emulation), and [simulations](https://www.lesswrong.com/tag/simulation): Normally, people care about their future selves (at least in part) because they anticipate *having those selves' experiences*. Thus, one might say: "It doesn't make sense for me to sign up for [cryonics](https://www.lesswrong.com/tag/cryonics), because a cryo-revived copy of me wouldn't be *me*." (Or, replying to 1.2 above, one might say "It doesn't make sense for me to sign up for cryonics, because a cryo-revived emulation of me would be a mere automaton with no experiences.")
-    *   2.2. [[Anthropics|Anthropics]]: Anthropic questions turn on how many copies of "you" exist, or how many copies of "observers similar to you" exist. One could speculate that this is related to the question of what makes a copy of you conscious, and what "consciousness" is in the first place.
+    *   2.1. [[Personal Identity|Personal identity]], [[Whole Brain Emulation|whole brain emulation]], and [simulations](https://www.lesswrong.com/tag/simulation): Normally, people care about their future selves (at least in part) because they anticipate *having those selves' experiences*. Thus, one might say: "It doesn't make sense for me to sign up for [[Cryonics|cryonics]], because a cryo-revived copy of me wouldn't be *me*." (Or, replying to 1.2 above, one might say "It doesn't make sense for me to sign up for cryonics, because a cryo-revived emulation of me would be a mere automaton with no experiences.")
+    *   2.2. [[Anthropics]]: Anthropic questions turn on how many copies of "you" exist, or how many copies of "observers similar to you" exist. One could speculate that this is related to the question of what makes a copy of you conscious, and what "consciousness" is in the first place.
 *   3\. Does the existence or nature of subjective experience imply any major updates about the world as a whole, about scientific methodology, etc.?
-    *   3.1. [Reductionism](https://www.lesswrong.com/tag/reductionism), physicalism, and naturalism: Can experience be a mere matter of, uh, matter? If experience turned out to be irreducibly unphysical (and real), this would falsify some of the most well-established generalizations in science.
+    *   3.1. [[Reductionism]], physicalism, and naturalism: Can experience be a mere matter of, uh, matter? If experience turned out to be irreducibly unphysical (and real), this would falsify some of the most well-established generalizations in science.
 
 LessWrong writers have typically been strongly on board with physicalism (3.1), and on board with the idea that an emulation of me is "me" (and conscious) in every sense that matters (2.1). Beyond that, however, views vary. (By comparison, ~74% of Anglophone philosophers of mind endorsed "physicalism" as opposed to "non-physicalism" [in 2009](https://philpapers.org/surveys/results.pl?affil=Target+faculty&areas0=16&areas_max=1&grain=fine).)
 
@@ -55,7 +58,7 @@ For concreteness, we'll list particular years, authors, and texts, even though t
 
 Highlights:
 
-*   A long time ago BC: Someone comes up with the idea that "minds" are a pretty basic and fundamental feature of the world. Maybe gods have minds; maybe trees; maybe rivers; and so on. See also [When Anthropomorphism Became Stupid](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo/p/f4RJtHBPvDRJcCTva) and [[Mind Projection Fallacy|Mind Projection Fallacy]].
+*   A long time ago BC: Someone comes up with the idea that "minds" are a pretty basic and fundamental feature of the world. Maybe gods have minds; maybe trees; maybe rivers; and so on. See also [When Anthropomorphism Became Stupid](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo/p/f4RJtHBPvDRJcCTva) and [[Mind Projection Fallacy]].
 *   ~400 BC: Democritus proposes that all human-scale phenomena, including psychological phenomena, are the result of small physical parts bouncing off each other. From [*Encyclopedia Britannica*](https://www.britannica.com/topic/materialism-philosophy/History-of-materialism): "Democritus thought that the soul consists of smooth, round atoms and that perceptions consist of motions caused in the soul atoms by the atoms in the perceived thing."
 *   1641: René Descartes, [*Meditations on First Philosophy*](https://yale.learningu.org/download/041e9642-df02-4eed-a895-70e472df2ca4/H2665_Descartes%27%20Meditations.pdf). Descartes argues that mind and matter must be irreducibly distinct (**mind-body dualism**), because (e.g.) material things are spatially extended, while thoughts are not. Descartes speculates that minds interact with the physical world via a specific part of the brain, the pineal gland.
     *   Descartes also popularizes the idea that everyone knows their own conscious experiences with certainty: at any given moment, we are infallible about *the fact* that we are having an experience (the "cogito"), and we are also infallible about the *contents* of that experience.
@@ -82,9 +85,9 @@ Highlights:
 "Having experiences": Recent discussion
 ---------------------------------------
 
-*   2008\. Eliezer Yudkowsky, "[Zombies! Zombies?](https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies)" This and other posts from [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo) argue that we can be confident physicalism is true, even without knowing how to solve (or [dissolve](https://www.lesswrong.com/posts/Mc6QcrsbH5NRXbCRX/dissolving-the-question)) the "hard problem of consciousness".
+*   2008\. Eliezer Yudkowsky, "[[Zombies! Zombies?]]" This and other posts from [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo) argue that we can be confident physicalism is true, even without knowing how to solve (or [[Dissolving the Question|dissolve]]) the "hard problem of consciousness".
     *   In particular, Yudkowsky argues that accepting the possibility of p-zombies is tantamount to accepting epiphenomenalism, and that epiphenomenalism is crazy. If our claims about consciousness are *true* even though consciousness has no causal effect on what we claim (because a p-zombie would move its lips and pen exactly as we do), then our claims would have to be true *by coincidence*, which is absurd given the Bayesian understanding of evidence and knowledge.
-    *   More generally, LessWrong writers' views on consciousness have been heavily influenced by the intuition pumps and reasoning rules Yudkowsky writes about in the Sequences (2006–2009), such as: [[Making Beliefs Pay Rent (in Anticipated Experiences)|Making Beliefs Pay Rent]]; [Making History Available](https://www.lesswrong.com/posts/TLKPj4GDXetZuPDH5/making-history-available); [[How Much Evidence Does It Take?|How Much Evidence Does It Take?]]; [The Second Law of Thermodynamics and Engines of Cognition](https://www.lesswrong.com/posts/QkX2bAkwG2EpGvNug/the-second-law-of-thermodynamics-and-engines-of-cognition); and [My Kind of Reflection](https://www.lesswrong.com/s/9bvAELWc8y2gYjRav/p/TynBiYt6zg42StRbb).
+    *   More generally, LessWrong writers' views on consciousness have been heavily influenced by the intuition pumps and reasoning rules Yudkowsky writes about in the Sequences (2006–2009), such as: [[Making Beliefs Pay Rent (in Anticipated Experiences)|Making Beliefs Pay Rent]]; [Making History Available](https://www.lesswrong.com/posts/TLKPj4GDXetZuPDH5/making-history-available); [[How Much Evidence Does It Take?]]; [[The Second Law of Thermodynamics, and Engines of Cognition|The Second Law of Thermodynamics and Engines of Cognition]]; and [My Kind of Reflection](https://www.lesswrong.com/s/9bvAELWc8y2gYjRav/p/TynBiYt6zg42StRbb).
 *   2008\. Eliezer Yudkowsky, "[Collapse Postulates](https://www.lesswrong.com/posts/xsZnufn3cQw7tJeQ3/collapse-postulates)." This and other posts from the [Quantum Physics Sequence](https://www.lesswrong.com/posts/hc9Eg6erp6hk9bWhn/the-quantum-physics-sequence) argue that physicists' belief that observers or consciousness play a privileged role in quantum phenomena is based on a series of confusions and misunderstandings.
 *   2013\. David Chalmers, "[Panpsychism and Panprotopsychism](http://consc.net/papers/panpsychism.pdf)." Chalmers argues that everything in the universe (down to the subatomic level) is "conscious" or "proto-conscious."
 *   2014\. Benya Fallenstein. "[L-zombies! L-zombies?](https://www.lesswrong.com/posts/7nAxgQYGYrEY5ZCAD/l-zombies-l-zombies)" Fallenstein asks how we can distinguish between instantiated observers and uninstantiated ("merely logical") observers.
@@ -95,8 +98,8 @@ Highlights:
 Related pages
 -------------
 
-*   Non-tags: [[Anthropomorphism|Anthropomorphism]], [How an algorithm feels](https://www.lesswrong.com/tag/how-an-algorithm-feels), [[Zombies|Zombies]]
-*   [Identity](https://www.lesswrong.com/tag/identity), [[Personal Identity|Personal identity]], [Reflective reasoning](https://www.lesswrong.com/tag/reflective-reasoning)
-*   [[Animal Welfare|Animal welfare]], [Suffering](https://www.lesswrong.com/tag/suffering), [[Risks of Astronomical Suffering (S-risks)|Risks of astronomical suffering (s-risks)]]
-*   [Reductionism](https://www.lesswrong.com/tag/reductionism), [[Mind Projection Fallacy|Mind Projection Fallacy]]
-*   [Quantum mechanics](https://www.lesswrong.com/tag/quantum-mechanics)
+*   Non-tags: [[Anthropomorphism]], [[How An Algorithm Feels|How an algorithm feels]], [[Zombies]]
+*   [[Identity]], [[Personal Identity|Personal identity]], [[Reflective Reasoning|Reflective reasoning]]
+*   [[Animal Welfare|Animal welfare]], [[Suffering]], [[Risks of Astronomical Suffering (S-risks)|Risks of astronomical suffering (s-risks)]]
+*   [[Reductionism]], [[Mind Projection Fallacy]]
+*   [[Quantum Mechanics|Quantum mechanics]]

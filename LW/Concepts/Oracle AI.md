@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb26d
 title: Oracle AI
 href: https://lesswrong.com/tag/oracle-ai
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:41.116Z'
 ---
+# Oracle AI
 
 An **Oracle AI** is a regularly proposed solution to the problem of developing [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI). It is conceptualized as a super-intelligent system which is designed for only answering questions, and has no ability to act in the world. The name was first suggested by [[Nick Bostrom]].
 

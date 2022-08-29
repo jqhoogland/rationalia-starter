@@ -1,4 +1,5 @@
 ---
+_id: e6j9tnTfaabjCgK6d
 title: Literature Reviews
 href: https://lesswrong.com/tag/literature-reviews
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.785Z'
 ---
+# Literature Reviews
 
 A **literature review**, a **literature survey**, a **state of the art** is an extended write-up collecting, and often comparing and commenting on a set of publications addressing a specific topic/question.
 

@@ -1,4 +1,5 @@
 ---
+_id: NzpKMYopbkgEPN486
 title: Homunculus Fallacy
 href: https://lesswrong.com/tag/homunculus-fallacy
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:21.096Z'
 ---
+# Homunculus Fallacy
 
 The **homunculus fallacy** is a mistake in reasoning in which one attempts to explain agency, consciousness, or related phenomena *by appealing to a module which solves that very problem*.
 

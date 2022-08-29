@@ -1,12 +1,15 @@
 ---
+_id: xHTXnyp65X8YX6ahT
 title: Instrumental Convergence
-href: https://lesswrong.com/tags/instrumental-convergence
+href: https://lesswrong.com/tag/instrumental-convergence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:20.369Z'
 ---
+# Instrumental Convergence
 
 **Instrumental convergence** or **convergent instrumental values** is the theorized tendency for most sufficiently intelligent agents to pursue potentially unbounded instrumental goals such as self-preservation and resource acquisition \[[1](https://en.wikipedia.org/wiki/Instrumental_convergence)\]. This concept has also been discussed under the term *basic drives.*
 

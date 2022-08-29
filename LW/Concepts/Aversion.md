@@ -1,12 +1,15 @@
 ---
+_id: EuDw6uxQW2ZBRFhMo
 title: Aversion
-href: https://lesswrong.com/tags/aversion
+href: https://lesswrong.com/tag/aversion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:14.240Z'
 ---
+# Aversion
 
 CFAR's [2019 workshop participant handbook](https://www.lesswrong.com/posts/Z9cbwuevS9cqaR96h/cfar-participant-handbook-now-available-to-all) defines an **aversion** as
 
@@ -32,7 +35,7 @@ Blog posts and external links
 
 *   [Avoiding Your Belief's Real Weak Points](https://www.lesswrong.com/lw/jy/avoiding_your_beliefs_real_weak_points/)
 *   [Defeating Ugh Fields in Practice](https://www.lesswrong.com/lw/2cv/defeating_ugh_fields_in_practice/) by Psychohistorian
-*   [Learned Blankness](https://www.lesswrong.com/lw/5a9/learned_blankness/) by [[Anna Salamon|Anna Salamon]]
+*   [Learned Blankness](https://www.lesswrong.com/lw/5a9/learned_blankness/) by [[Anna Salamon]]
 *   [Don't Fear Failure](https://www.lesswrong.com/lw/4up/dont_fear_failure/) by [atucker](http://shugyoshayear.com/)
 *   Wikipedia: [Experiential Avoidance](https://en.wikipedia.org/wiki/Experiential_avoidance)
 
@@ -40,9 +43,9 @@ Related pages
 -------------
 
 *   Non-tags: [Semantic stopsign](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
-*   [Akrasia](https://www.lesswrong.com/tag/akrasia)
-*   [[Compartmentalization|Compartmentalization]]
-*   [Motivated reasoning](https://www.lesswrong.com/tag/motivated-reasoning)
-*   [[Motivations|Motivations]]
-*   [Priming](https://www.lesswrong.com/tag/priming)
+*   [[Akrasia]]
+*   [[Compartmentalization]]
+*   [[Motivated Reasoning|Motivated reasoning]]
+*   [[Motivations]]
+*   [[Priming]]
 *   [[Trivial Inconvenience|Trivial inconvenience]]

@@ -1,12 +1,15 @@
 ---
+_id: fR7QfYx4JA3BnptT9
 title: Skill Building
-href: https://lesswrong.com/tags/skill-building
+href: https://lesswrong.com/tag/skill-building
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:58.984Z'
 ---
+# Skill Building
 
 **Skill Building** is the meta-skill of getting good at things i.e. developing procedural knowledge.
 

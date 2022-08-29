@@ -1,10 +1,13 @@
 ---
+_id: uRcuHKpKA7xNnZQ2F
 title: Neurodivergence
-href: https://lesswrong.com/tags/neurodivergence
+href: https://lesswrong.com/tag/neurodivergence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:16.391Z'
 ---
+# Neurodivergence
 

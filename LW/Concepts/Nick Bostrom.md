@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1c7
 title: Nick Bostrom
-href: https://lesswrong.com/tags/nick-bostrom
+href: https://lesswrong.com/tag/nick-bostrom
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:40.287Z'
 ---
+# Nick Bostrom
 
-**Nick Bostrom** is a philosopher at the University of Oxford, director of the [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] (FHI), the main academic institution on that field. As a director he coordinates and conducts researches on crucial points to the progress and future of humanity. Among those crucial points are: [Artificial General Intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence) (AGI), [[Existential Risk|Existential risk]], [Biological Cognitive Enhancement](https://www.lesswrong.com/tag/nootropics-and-other-cognitive-enhancement) and [[Whole Brain Emulation|Whole brain emulation]]. He has personally raised more than 13 million dollars on research grants, awards and donations.
+**Nick Bostrom** is a philosopher at the University of Oxford, director of the [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] (FHI), the main academic institution on that field. As a director he coordinates and conducts researches on crucial points to the progress and future of humanity. Among those crucial points are: [[Artificial General Intelligence]] (AGI), [[Existential Risk|Existential risk]], [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]] and [[Whole Brain Emulation|Whole brain emulation]]. He has personally raised more than 13 million dollars on research grants, awards and donations.
 
 He also founded the first transhumanistic association, World Transhumanism Association (now [Humanity+](http://http://humanityplus.org/)), in 1998. Bostrom made several major contributions in relevant fields to transhumanism. His more than 200 published papers have been translated to more than 20 languages. They spread throughout topics such as:
 
@@ -19,7 +22,7 @@ He also founded the first transhumanistic association, World Transhumanism Assoc
 
 Bostrom has a BA in Philosophy, Mathematics, Mathematical Logic and in Artificial Intelligence; MA in Philosophy and in Physics; MSc in Computational Neuroscience and PhD in Philosophy. [One of his theses in philosophy](http://www.anthropic-principle.com/book/anthropicbias.pdf) entered the Routledge Hall of Fame, and made a formalization of the anthropic principle, giving birth to the Strong self-sampling assumption (SSSA): "Each observer-moment should reason as if it were randomly selected from the class of all observer-moments in its reference class". With this formalization many paradoxes emerging from intuitive versions of the anthropic principle were avoided.
 
-Later, the kind of reasoning developed in his thesis lead to many other insights, such as the [Simulation Argument](https://www.lesswrong.com/tag/simulation-argument), demonstrating that there is a considerable chance that we are living inside a computer simulation.
+Later, the kind of reasoning developed in his thesis lead to many other insights, such as the [[Simulation Argument]], demonstrating that there is a considerable chance that we are living inside a computer simulation.
 
 Blog posts
 ----------

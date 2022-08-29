@@ -1,12 +1,15 @@
 ---
+_id: gWEjzxPjitZ2JGZvM
 title: Longtermism
-href: https://lesswrong.com/tags/longtermism
+href: https://lesswrong.com/tag/longtermism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:16.952Z'
 ---
+# Longtermism
 
 Longtermism is a philosophy that future lives matter and that we have a similar obligation to them as we do to lives around currently. William Macaskill states it in three clauses: 
 

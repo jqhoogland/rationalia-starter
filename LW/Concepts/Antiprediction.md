@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb147
 title: Antiprediction
-href: https://lesswrong.com/tags/antiprediction
+href: https://lesswrong.com/tag/antiprediction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:00.287Z'
 ---
+# Antiprediction
 
 An **antiprediction** is a statement of confidence in an event that *sounds* startling, but actually isn't far from a maxentropy [prior](/tag/priors). For example, if someone thinks that our state of knowledge implies strong ignorance about the speed of some process X on a logarithmic scale from nanoseconds to centuries, they may make the startling-sounding statement that X is very *unlikely* to take 'one to three years'.
 
@@ -25,8 +28,8 @@ Blog posts
 See also
 --------
 
-*   [[Privileging The Hypothesis|Privileging the hypothesis]], [Burdensome details](https://www.lesswrong.com/tag/burdensome-details)
+*   [[Privileging The Hypothesis|Privileging the hypothesis]], [[Burdensome Details|Burdensome details]]
 *   [[Fallacy of Gray|Fallacy of gray]]
-*   [Status quo bias](https://www.lesswrong.com/tag/status-quo-bias)
-*   [[Forecasting & Prediction|Prediction]], [Possibility](https://www.lesswrong.com/tag/possibility)
+*   [[Status Quo Bias|Status quo bias]]
+*   [[Forecasting & Prediction|Prediction]], [[Possibility]]
 *   [[Absurdity Heuristic|Absurdity heuristic]]

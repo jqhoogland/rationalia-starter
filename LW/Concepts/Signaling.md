@@ -1,12 +1,15 @@
 ---
+_id: Q6P8jLn8hH7kbuXRr
 title: Signaling
-href: https://lesswrong.com/tags/signaling
+href: https://lesswrong.com/tag/signaling
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:11.982Z'
 ---
+# Signaling
 
 **Signaling** is [defined](https://lessestwrong.com/lw/did/what_is_signaling_really/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain) as "a method of conveying information among not-necessarily-trustworthy parties by performing an action which is more likely or less costly if the information is true than if it is not true". Some signaling is performed exclusively to impress others (to improve your [status](https://lessestwrong.com/tag/social-status)), and in some cases [isn't even worth that](http://www.overcomingbias.com/2007/01/excess_signalin.html). In other cases, signaling is a side-effect of an otherwise useful activity.
 

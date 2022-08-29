@@ -1,20 +1,23 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb157
 title: Correspondence Bias
-href: https://lesswrong.com/tags/correspondence-bias
+href: https://lesswrong.com/tag/correspondence-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:00.159Z'
 ---
+# Correspondence Bias
 
 **Correspondence bias** (also known as the **fundamental attribution error**) is the tendency to overestimate the the contribution of lasting traits and dispositions in determining people's behavior, as compared to situational effects. We might see someone kicking a vending machine, and conclude they're an inherently angry person. But maybe they just failed a test, had their driving license revoked, and had the machine eat their money for the third time this week. We think of the other person as an [[Human Universal|evil mutant]] and ourselves as righteous actors.
 
 See also
 --------
 
-*   [Availability heuristic](https://www.lesswrong.com/tag/availability-heuristic)
-*   [[Human Universal|Human universal]], [Typical mind fallacy](https://www.lesswrong.com/tag/typical-mind-fallacy)
+*   [[Availability Heuristic|Availability heuristic]]
+*   [[Human Universal|Human universal]], [[Typical Mind Fallacy|Typical mind fallacy]]
 
 References
 ----------

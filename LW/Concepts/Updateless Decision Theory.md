@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1dc
 title: Updateless Decision Theory
 href: https://lesswrong.com/tag/updateless-decision-theory
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:47.270Z'
 ---
+# Updateless Decision Theory
 
 Motivation
 ----------

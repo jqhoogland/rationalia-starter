@@ -1,16 +1,19 @@
 ---
+_id: LDTSbmXtokYAsEq8e
 title: Motivated Reasoning
-href: https://lesswrong.com/tags/motivated-reasoning
+href: https://lesswrong.com/tag/motivated-reasoning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:09.274Z'
 ---
+# Motivated Reasoning
 
 **Motivated Reasoning** is a label for various mental processes that lead to desired conclusions regardless of the veracity of those conclusions.
 
-*Related*: [[Confirmation Bias|Confirmation Bias]], [Rationalization](https://www.lesswrong.com/tag/rationalization), [[Self-Deception|Self-deception]] 
+*Related*: [[Confirmation Bias]], [[Rationalization]], [[Self-Deception|Self-deception]] 
 
 Notable Posts
 -------------

@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2b0
 title: Technological Forecasting
 href: https://lesswrong.com/tag/technological-forecasting
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:38.576Z'
 ---
+# Technological Forecasting
 
 **Technological forecasting** means making predictions about future technological advances.
 

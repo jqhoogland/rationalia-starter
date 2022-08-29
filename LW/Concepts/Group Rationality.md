@@ -1,12 +1,15 @@
 ---
+_id: zv7v2ziqexSn5iS9v
 title: Group Rationality
-href: https://lesswrong.com/tags/group-rationality
+href: https://lesswrong.com/tag/group-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:02:44.186Z'
 ---
+# Group Rationality
 
 In almost anything, individuals are inferior to groups. Several articles address this concern regarding rationality, i.e., the topic of **Group Rationality**.
 
@@ -20,7 +23,7 @@ External links
 See also
 --------
 
-*   [Rationality as martial art](https://www.lesswrong.com/tag/rationality-as-martial-art)
+*   [[Rationality As Martial Art|Rationality as martial art]]
 *   [[Rationality Verification|Problem of verifying rationality]]
 *   [Less Wrong meetup groups](/community)
 *   [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)

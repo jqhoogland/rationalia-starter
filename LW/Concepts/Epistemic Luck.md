@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb23b
 title: Epistemic Luck
 href: https://lesswrong.com/tag/epistemic-luck
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:44.159Z'
 ---
+# Epistemic Luck
 
 You would have different beliefs if certain events in your life were different and since you don't choose many of the events in your life, this implies that your beliefs are in large part due to **Epistemic Luck**. How should you react to this fact?
 

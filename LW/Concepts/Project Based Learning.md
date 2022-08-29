@@ -1,10 +1,13 @@
 ---
+_id: WSZifR5rmzZCwbPNJ
 title: Project Based Learning
-href: https://lesswrong.com/tags/project-based-learning
+href: https://lesswrong.com/tag/project-based-learning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:17.585Z'
 ---
+# Project Based Learning
 

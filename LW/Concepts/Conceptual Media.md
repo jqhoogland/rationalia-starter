@@ -1,4 +1,5 @@
 ---
+_id: jcegcg2mqPGWBiXHc
 title: Conceptual Media
 href: https://lesswrong.com/tag/conceptual-media
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.912Z'
 ---
+# Conceptual Media
 
 A conceptual medium is a an expressive medium that primarily serves to express abstract thoughts and ideas. It is analogous to the concept of an artistic medium (e.g., painting, poetry, violin, etc), but pertains to the expression of conceptual thought rather than artistic expression.
 

@@ -1,4 +1,5 @@
 ---
+_id: AJDHQ4mFnsNbBzPhT
 title: Gödelian Logic
 href: https://lesswrong.com/tag/goedelian-logic
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:17.349Z'
 ---
+# Gödelian Logic
 
 **Gödelian Logic** refers to logic, math, and arguments in the style of [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del). Specifically - his two incompleteness theorems, and one completeness theorem. Due to their tricky and subtle nature, his incompleteness theorems are possibly the most misunderstood theorems of all time.
 

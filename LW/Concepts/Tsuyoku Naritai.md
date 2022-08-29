@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb117
 title: Tsuyoku Naritai
-href: https://lesswrong.com/tags/tsuyoku-naritai
+href: https://lesswrong.com/tag/tsuyoku-naritai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:04.970Z'
 ---
+# Tsuyoku Naritai
 
 Blog posts
 ----------
@@ -18,7 +21,7 @@ Blog posts
 See also
 --------
 
-*   [Egalitarianism](https://www.lesswrong.com/tag/egalitarianism)
+*   [[Egalitarianism]]
 *   [[Rationality As Martial Art|Rationality as martial art]]
-*   [Challenging the Difficult](https://www.lesswrong.com/tag/challenging-the-difficult)
+*   [[Challenging The Difficult|Challenging the Difficult]]
 *   [[Rationality Is Systematized Winning|Rationality is systematized winning]]

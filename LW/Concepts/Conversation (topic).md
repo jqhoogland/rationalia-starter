@@ -1,12 +1,15 @@
 ---
+_id: ZXFpyQWPB5ideFbEG
 title: Conversation (topic)
-href: https://lesswrong.com/tags/conversation-topic
+href: https://lesswrong.com/tag/conversation-topic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:05.211Z'
 ---
+# Conversation (topic)
 
 A **conversation** is when two people talk or correspond. Most content here is about *how to have good conversations.* (*This wikitag needs work.)*  
   

@@ -1,10 +1,13 @@
 ---
+_id: KoXbd2HmbdRfqLngk
 title: Planning & Decision-Making
-href: https://lesswrong.com/tags/planning-and-decision-making
+href: https://lesswrong.com/tag/planning-and-decision-making
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:12.377Z'
 ---
+# Planning & Decision-Making
 

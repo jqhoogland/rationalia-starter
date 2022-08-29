@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb128
 title: Priming
-href: https://lesswrong.com/tags/priming
+href: https://lesswrong.com/tag/priming
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:02.665Z'
 ---
+# Priming
 
-**Priming** is a [[Psychology|psychological]] phenomenon that consists in early stimulus influencing later thoughts and behavior. The literature on Priming was heavily hit in the [replication crisis](https://www.lesswrong.com/tag/replication-crisis) of the 2010's.
+**Priming** is a [[Psychology|psychological]] phenomenon that consists in early stimulus influencing later thoughts and behavior. The literature on Priming was heavily hit in the [[Replication Crisis|replication crisis]] of the 2010's.
 
 Sequence by Scott Alexander
 ---------------------------
@@ -22,5 +25,5 @@ See also
 --------
 
 *   [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes) (sequence)
-*   [Affect heuristic](https://www.lesswrong.com/tag/affect-heuristic)
+*   [[Affect Heuristic|Affect heuristic]]
 *   [[Aversion|Ugh field]]

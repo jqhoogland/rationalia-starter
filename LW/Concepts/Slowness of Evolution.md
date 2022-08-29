@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb16c
 title: Slowness of Evolution
-href: https://lesswrong.com/tags/slowness-of-evolution
+href: https://lesswrong.com/tag/slowness-of-evolution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:06:08.000Z'
 ---
+# Slowness of Evolution
 
 **Evolution is slow**.  Suppose a beneficial mutation which conveys a fitness advantage of 3%: on average, bearers of this gene have 1.03 times as many children as non-bearers. Spreading through a population of 100,000, such a gene would require an average of 768 generations to reach universality in the gene pool. A population of 500,000 would require 875 generations. The general formula is:
 

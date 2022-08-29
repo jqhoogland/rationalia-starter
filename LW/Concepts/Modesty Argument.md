@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb0f9
 title: Modesty Argument
-href: https://lesswrong.com/tags/modesty-argument
+href: https://lesswrong.com/tag/modesty-argument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:38.820Z'
 ---
+# Modesty Argument
 
-The **modesty argument** is the claim that when two or more rational agents have [[Common Knowledge|common knowledge]] of a [disagreement](https://www.lesswrong.com/tag/disagreement) over the likelihood of an issue of simple fact, they should each adjust their probability estimates in the direction of the others'. This process should continue until the two agents are in full agreement. The name comes from the idea that rational agents should not privilege evidence they have gathered over evidence gathered by others, i.e. agents should be modest about their own estimates.
+The **modesty argument** is the claim that when two or more rational agents have [[Common Knowledge|common knowledge]] of a [[Disagreement|disagreement]] over the likelihood of an issue of simple fact, they should each adjust their probability estimates in the direction of the others'. This process should continue until the two agents are in full agreement. The name comes from the idea that rational agents should not privilege evidence they have gathered over evidence gathered by others, i.e. agents should be modest about their own estimates.
 
 The Modesty Argument is inspired by [[Aumann's Agreement Theorem|Aumann's agreement theorem]], which shows that genuine Bayesians cannot agree to disagree.
 
@@ -25,7 +28,7 @@ See also
 --------
 
 *   [[Humility|Modesty]]
-*   [Aumann's agreement theorem](https://www.lesswrong.com/tag/aumann-s-agreement-theorem)
-*   [[Disagreement|Disagreement]]
-*   [Error of crowds](https://www.lesswrong.com/tag/error-of-crowds)
+*   [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
+*   [[Disagreement]]
+*   [[Error of Crowds|Error of crowds]]
 *   [[Information Cascades|Information cascade]]

@@ -1,16 +1,19 @@
 ---
+_id: Q6hq54EXkrw8LQQE7
 title: Gears-Level
-href: https://lesswrong.com/tags/gears-level
+href: https://lesswrong.com/tag/gears-level
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:05.927Z'
 ---
+# Gears-Level
 
 A **gears-level** model is 'well-constrained' in the sense that there is a strong connection between each of the things you observe-- it would be hard for you to imagine that one of the variables could be different while all of the others remained the same.
 
-_Related Tags: [Anticipated Experiences](https://www.lesswrong.com/tag/anticipated-experiences?showPostCount=true&useTagName=true), [Double Crux](https://www.lesswrong.com/tag/anticipated-experiences?showPostCount=true&useTagName=true), [Empiricism](https://www.lesswrong.com/tag/empiricism?showPostCount=true&useTagName=true), [Falsifiability](https://www.lesswrong.com/tag/falsifiability?showPostCount=true&useTagName=true), [Map and Territory](https://www.lesswrong.com/tag/map-and-territory?showPostCount=true&useTagName=true)_
+_Related Tags: [[Anticipated Experiences]], [[Anticipated Experiences|Double Crux]], [[Empiricism]], [[Falsifiability]], [[Map and Territory]]_
 
   
 

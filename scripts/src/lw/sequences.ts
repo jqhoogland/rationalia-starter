@@ -1,8 +1,7 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import yaml from "js-yaml";
 import { Post } from "./posts";
-import { db, fixLinks, fixTitle, Response } from "./shared";
+import { db, fixLinks, fixTitle, getFrontmatter, Response } from "./shared";
 
 export interface Sequence {
     _id: string;
@@ -100,29 +99,13 @@ export const loadSequences = async () => {
 // (await loadSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
 
 export const sequencesToMD = async () => {
-    const getFrontmatter = (sequence: Sequence) => {
-        
-        return (
-            "---\n"
-            + yaml.dump({
-                title: sequence.title,
-                type: "sequence",
-                tags: [
-                    "LessWrong",
-                    "Sequence"
-                ],
-            })
-            + "---"
-        )
-    }
-
     for (const sequence of db.sequences) {
         // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
         if (!sequence.title || sequence.chapters.length === 0) {
             continue
         }
         let mdFile = ""
-        mdFile += getFrontmatter(sequence)
+        mdFile += getFrontmatter(sequence, ['_id', 'title'], {type: "sequence", tags: ["LessWrong", "Sequence"]})
         mdFile += "\n\n"
         mdFile += await fixLinks(sequence.contents?.markdown ? sequence.contents?.markdown + "\n\n" : "");
         mdFile += "# Chapters\n\n"

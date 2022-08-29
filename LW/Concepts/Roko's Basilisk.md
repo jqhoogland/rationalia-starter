@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb326
 title: Roko's Basilisk
 href: https://lesswrong.com/tag/rokos-basilisk
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:34.671Z'
 ---
+# Roko's Basilisk
 
 **Roko’s basilisk** is a thought experiment proposed in 2010 by the user Roko on the [*Less Wrong*](\"https://www.lesswrong.com/about\") community blog. Roko used ideas in [decision theory](\"https://www.lesswrong.com/tag/decision-theory\") to argue that a sufficiently powerful AI agent would have an incentive to torture anyone who imagined the agent but didn't work to bring the agent into existence. The argument was called a \\"basilisk\\" --named after the legendary reptile who can cause death with a single glance--because merely hearing the argument would supposedly put you at risk of torture from this hypothetical agent. A *basilisk* in this context is any information that harms or endangers the people who hear it.
 

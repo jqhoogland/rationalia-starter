@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb0cb
 title: Affective Death Spiral
-href: https://lesswrong.com/tags/affective-death-spiral
+href: https://lesswrong.com/tag/affective-death-spiral
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:08.833Z'
 ---
+# Affective Death Spiral
 
-An **affective death spiral** (or **happy death spiral**) occurs when positive attributes of a theory, person, or organization combine with the [[Halo Effect|Halo effect]] in a feedback loop, resulting in the subject of the affective death spiral being held in higher and higher regard. In effect, every positive thing said about the subject results in more than one additional nice thing to say about the subject on average. This cascades like a nuclear chain reaction. This process creates theories that are believed for their own sake and organizations that exist solely to perpetuate themselves, especially when combined with the social dynamics of [groupthink](https://www.lesswrong.com/tag/groupthink). Affective death spirals are thus a primary cause of cultishness.
+An **affective death spiral** (or **happy death spiral**) occurs when positive attributes of a theory, person, or organization combine with the [[Halo Effect|Halo effect]] in a feedback loop, resulting in the subject of the affective death spiral being held in higher and higher regard. In effect, every positive thing said about the subject results in more than one additional nice thing to say about the subject on average. This cascades like a nuclear chain reaction. This process creates theories that are believed for their own sake and organizations that exist solely to perpetuate themselves, especially when combined with the social dynamics of [[Groupthink|groupthink]]. Affective death spirals are thus a primary cause of cultishness.
 
 The same process can also occur with negative beliefs instead of positive, leading to a **death spiral of hate**.
 
@@ -26,8 +29,8 @@ Blog posts
 See also
 --------
 
-*   [Affect heuristic](https://www.lesswrong.com/tag/affect-heuristic), [[Halo Effect|Halo effect]], [Motivated skepticism](https://www.lesswrong.com/tag/motivated-skepticism)
-*   [[Information Cascades|Information cascade]], [Groupthink](https://www.lesswrong.com/tag/groupthink)
+*   [[Affect Heuristic|Affect heuristic]], [[Halo Effect|Halo effect]], [[Motivated Skepticism|Motivated skepticism]]
+*   [[Information Cascades|Information cascade]], [[Groupthink]]
 *   [[In-Group Bias|In-group bias]]
-*   [Religion](https://www.lesswrong.com/tag/religion)
+*   [[Religion]]
 *   [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]

@@ -1,12 +1,15 @@
 ---
+_id: YQW2DxpZFTrqrxHBJ
 title: Inferential Distance
-href: https://lesswrong.com/tags/inferential-distance
+href: https://lesswrong.com/tag/inferential-distance
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:27.962Z'
 ---
+# Inferential Distance
 
 **Inferential Distance** between two people with respect to an item of knowledge is the amount of steps or concepts a person needs to share before they can successfully communicate the [[Object level and Meta level|object level]] point. This can be thought of as the missing foundation or building block concepts needed to think clearly about a specific thing.
 
@@ -34,4 +37,4 @@ See Also
 *   [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
 *   [Illusion of transparency](https://lessestwrong.com/tag/illusion-of-transparency)
 *   [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
-*   [[Common Knowledge|Common Knowledge]]
+*   [[Common Knowledge]]

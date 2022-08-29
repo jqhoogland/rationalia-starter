@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2c2
 title: Ontological Crisis
 href: https://lesswrong.com/tag/ontological-crisis
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:36.565Z'
 ---
+# Ontological Crisis
 
 **Ontological crisis** is a term coined to describe the crisis an agent, human or not, goes through when its model - its ontology - of reality changes.
 
@@ -31,5 +34,5 @@ Notable Posts
 See also
 --------
 
-*   [[1 Projects/Rationalia/LW/Concepts/Evolution]]
+*   [[Evolution]]
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

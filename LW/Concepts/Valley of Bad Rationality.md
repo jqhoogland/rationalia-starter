@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1f2
 title: Valley of Bad Rationality
 href: https://lesswrong.com/tag/valley-of-bad-rationality
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:46.664Z'
 ---
+# Valley of Bad Rationality
 
 > Then I finally reply that my experience so far - even in this realm of merely human possibility - does seem to indicate that, once you sort yourself out a bit and you aren't doing quite so many other things wrong, striving for more rationality actually will make you better off. The long road leads out of the valley and higher than before, even in the human lands.
 > 

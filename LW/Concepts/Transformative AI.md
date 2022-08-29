@@ -1,4 +1,5 @@
 ---
+_id: KRcsSxBTLGRrSbHsW
 title: Transformative AI
 href: https://lesswrong.com/tag/transformative-ai
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:21.181Z'
 ---
+# Transformative AI
 
 **Transformative AI** is "\[...\] AI that precipitates a transition comparable to (or more significant than) the agricultural or industrial revolution."^[\[1\]](#fnhy8b4kflu8)^ The concept refers to the large effects of AI systems on our well-being, the global economy, state power, international security, etc. and not to specific capabilities that AI might have (unlike the related terms [[Superintelligence|Superintelligent AI]] and [[Artificial General Intelligence]]).
 

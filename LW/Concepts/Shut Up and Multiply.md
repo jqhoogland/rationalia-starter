@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb187
 title: Shut Up and Multiply
-href: https://lesswrong.com/tags/shut-up-and-multiply
+href: https://lesswrong.com/tag/shut-up-and-multiply
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:55.632Z'
 ---
+# Shut Up and Multiply
 
-Due to [scope neglect](https://wiki.lesswrong.com/wiki/scope_neglect), [framing effects](https://en.wikipedia.org/wiki/Framing_effect_(psychology)), and other [[Bias|cognitive biases]], the result of an [expected utility](https://www.lesswrong.com/tag/expected-utility) calculation executed correctly may produce an answer different from first intuition, making it "intuitively unappealing".  If you can tell that it's probably the intuitions that went wrong and not the calculation, the skill **shut up and multiply** is the ability to accept that, yes, sometimes the expected utility math is correct and we need to deal with that. Contrast [[Do The Math, Then Burn The Math and Go With Your Gut|do the math, then go with your gut]].  If you're not sure which of these applies, use "do the math, then go with your gut" until you've built up more experience.
+Due to [scope neglect](https://wiki.lesswrong.com/wiki/scope_neglect), [framing effects](https://en.wikipedia.org/wiki/Framing_effect_(psychology)), and other [[Bias|cognitive biases]], the result of an [[Expected Utility|expected utility]] calculation executed correctly may produce an answer different from first intuition, making it "intuitively unappealing".  If you can tell that it's probably the intuitions that went wrong and not the calculation, the skill **shut up and multiply** is the ability to accept that, yes, sometimes the expected utility math is correct and we need to deal with that. Contrast [[Do The Math, Then Burn The Math and Go With Your Gut|do the math, then go with your gut]].  If you're not sure which of these applies, use "do the math, then go with your gut" until you've built up more experience.
 
 The specific application of Shut Up and Multiply to the [Torture versus Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/) case has proven quite contentious. One reason this case was cited as an exemplar of where "shut up and multiply" *should* apply was a claim that the usual reasoning behind answering "SPECKS" can be [reduced to circular preferences](https://www.lesswrong.com/posts/4ZzefKQwAtMo5yp99/circular-altruism).
 
@@ -33,9 +36,9 @@ External links
 See also
 --------
 
-*   [Scope insensitivity](https://www.lesswrong.com/tag/scope-insensitivity)
-*   [[Fuzzies|Fuzzies]], [utils](https://wiki.lesswrong.com/wiki/utils)
+*   [[Scope Insensitivity|Scope insensitivity]]
+*   [[Fuzzies]], [utils](https://wiki.lesswrong.com/wiki/utils)
 *   [[Pascal's Mugging|Pascal's mugging]]
-*   [Bite the bullet](https://www.lesswrong.com/tag/bite-the-bullet)
-*   [[Rationality|Rationality]]
-*   [Utilitarianism](https://www.lesswrong.com/tag/utilitarianism), [[Expected Utility|expected utility]]
+*   [[Bite The Bullet|Bite the bullet]]
+*   [[Rationality]]
+*   [[Utilitarianism]], [[Expected Utility|expected utility]]

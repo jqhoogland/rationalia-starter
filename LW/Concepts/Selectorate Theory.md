@@ -1,4 +1,5 @@
 ---
+_id: nGLvnaZCH5mx8h8Mh
 title: Selectorate Theory
 href: https://lesswrong.com/tag/selectorate-theory
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:25.940Z'
 ---
+# Selectorate Theory
 
 [**Selectorate Theory**](https://en.wikipedia.org/wiki/Selectorate_theory)  is a game theoretic theory of politics and power that aims to explain political behavior and structure as a consequence of a leader's motivation to gain power and keep it as long as he can.  
   

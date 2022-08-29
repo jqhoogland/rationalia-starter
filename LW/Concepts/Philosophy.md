@@ -1,12 +1,15 @@
 ---
+_id: GLykb6NukBeBQtDvQ
 title: Philosophy
-href: https://lesswrong.com/tags/philosophy
+href: https://lesswrong.com/tag/philosophy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:18.037Z'
 ---
+# Philosophy
 
 (From Wikipedia,) _Philosophy_ is the study of general and fundamental questions about existence, knowledge, values, reason, mind, and language.
 

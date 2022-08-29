@@ -1,10 +1,14 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import yaml from 'js-yaml';
-import { db, fixLinks, fixTitle, Response } from "./shared";
+import { db, fixLinks, fixTitle, getFrontmatter, Response } from "./shared";
 export interface Collection {
     _id: string;
     title: string;
+    slug: string;
+    gridImageId: string;
+    user: {
+        username
+    }
     contents: {
         markdown: string
     }
@@ -21,8 +25,13 @@ export const loadCollections = async (limit?: number) => {
             results{
                 _id
                 title
+                slug
+                gridImageId
                 contents {
                     markdown
+                }
+                user {
+                    username
                 }
                 books {
                     _id
@@ -41,22 +50,6 @@ export const loadCollections = async (limit?: number) => {
 // (await loadCollections().then(collections => console.log(JSON.stringify(collections, null, 2))))
 
 export const booksToMD = async () => {
-    const getFrontmatter = (collection: Collection) => {
-        
-        return (
-            "---\n"
-            + yaml.dump({
-                title: collection.title,
-                type: "collection",
-                tags: [
-                    "LessWrong",
-                    "Collection"
-                ],
-            })
-            + "---"
-        )
-    }
-
     for (const collection of db.collections) {
         // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
         const books = collection.books.filter(book => book?.title)
@@ -65,7 +58,11 @@ export const booksToMD = async () => {
             continue
         }
         let mdFile = ""
-        mdFile += getFrontmatter(book, ["_id", "title", "subtitle", "number", "collectionId"], { type: "book", tags: ["LessWrong", "Book"] })
+        mdFile += getFrontmatter(
+            collection,
+            ["_id", "title", "slug", "gridImageId"],
+            { type: "collection", tags: ["LessWrong", "Collection"], author: collection?.user?.username }
+        )
 
         mdFile += "\n\n"
         mdFile += await fixLinks(collection.contents?.markdown ? collection.contents?.markdown + "\n\n" : "");

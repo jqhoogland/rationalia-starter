@@ -1,4 +1,5 @@
 ---
+_id: GKffzsk2bKssZGRva
 title: Improving the LessWrong Wiki
 href: https://lesswrong.com/tag/improving-the-lesswrong-wiki
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:13.847Z'
 ---
+# Improving the LessWrong Wiki
 
 *   This is a deliberate bastardisation and subversion of how the wiki is used
 *   In order that people don't think I'm a defector, I'm making clear what I'm doing as I'm doing it. Tell me what you think

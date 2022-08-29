@@ -1,12 +1,15 @@
 ---
+_id: yTuPAtcPHSpc9r3kA
 title: Impact Measures
-href: https://lesswrong.com/tags/impact-measures
+href: https://lesswrong.com/tag/impact-measures
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:00.441Z'
 ---
+# Impact Measures
 
 **Impact measures** penalize an AI for affecting us too much.  To reduce the risk posed by a powerful AI, you might want to make it try accomplish its goals with as little impact on the world as possible. You reward the AI for crossing a room; to maximize time-discounted total reward, the optimal policy makes a huge mess as it sprints to the other side.  
   
@@ -24,4 +27,4 @@ Sequences on impact measurement:
 *   [Reframing Impact](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW): we're impacted when we become more or less able to achieve our goals. Seemingly, goal-directed AI systems are only incentivized to catastrophically impact us in order to gain power to achieve their own goals. To avoid catastrophic impact, what if we penalize the AI for gaining power?
 *   [Subagents and Impact Measures](https://www.lesswrong.com/s/iRwYCpcAXuFD24tHh) explores how subagents can circumvent current impact measure formalizations.
 
-Related tags: [[Instrumental Convergence|Instrumental Convergence]], [Corrigibility](https://www.lesswrong.com/tag/corrigibility), [[Mild Optimization|Mild Optimization]].
+Related tags: [[Instrumental Convergence]], [[Corrigibility]], [[Mild Optimization]].

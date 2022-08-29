@@ -1,16 +1,19 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb170
 title: Group Selection
-href: https://lesswrong.com/tags/group-selection
+href: https://lesswrong.com/tag/group-selection
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:57.679Z'
 ---
+# Group Selection
 
 **Group Selection** posits that natural selection might not operate at the level of genes in individuals, and instead also operate at genes in groups of individuals, i.e. selecting for genes for the group even at the expense of the individual. For example, you might posit that human [religion is an adaptation to make human groups more cohesive](http://lesswrong.com/lw/mk/a_failed_justso_story/), since religious groups outfight nonreligious groups.
 
-*See also:* [Evolution](https://www.lesswrong.com/tag/evolution), [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)
+*See also:* [[Evolution]], [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)
 
 Consider two groups on different sides of a mountain: in group A, each mother gives birth to 2 males and 2 females; in group B, each mother gives birth to 3 females and 1 male. Group A and group B will have the same number of children, but group B will have 50% more grandchildren and 125% more great-grandchildren.
 

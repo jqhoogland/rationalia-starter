@@ -1,4 +1,5 @@
 ---
+_id: xKz23YJ7h5JZijGFs
 title: Spurious Counterfactuals
 href: https://lesswrong.com/tag/spurious-counterfactuals
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:14.656Z'
 ---
+# Spurious Counterfactuals
 
 **Spurious Counterfactuals** are spuriously low evaluations of the quality of a potential action, which are only provable because they are self-fulfilling (usually due to Lob's theorem). For example, if I know that I go left, then it is logically true that if I went right, I would get -10 utility (because in classical logic, false statements imply any statement). This suggests that if I fully believed that I went left, then I would indeed go left. By Lob's theorem, I indeed go left. 
 

@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1b8
 title: Free Will
 href: https://lesswrong.com/tag/free-will
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:50.002Z'
 ---
+# Free Will
 
 **Free will** is one of the *easiest* hard questions, as millennia-old philosophical dilemmas go. Though this [impossible question](http://lesswrong.com/lw/og/wrong_questions/) is generally considered [fully and completely dissolved](http://lesswrong.com/lw/of/dissolving_the_question/) on Less Wrong, aspiring reductionists should **try to solve it on their own**.
 

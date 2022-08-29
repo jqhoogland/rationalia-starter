@@ -1,12 +1,15 @@
 ---
+_id: wzgcQCrwKfETcBpR9
 title: Disagreement
-href: https://lesswrong.com/tags/disagreement
+href: https://lesswrong.com/tag/disagreement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:08.562Z'
 ---
+# Disagreement
 
 **Disagreement** is when two people have different beliefs.
 
@@ -35,7 +38,7 @@ See also
 *   [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
 *   [Disagreements on Less Wrong](https://lessestwrong.com/tag/disagreements-on-less-wrong)
 *   [Arguments as soldiers](https://lessestwrong.com/tag/arguments-as-soldiers)
-*   [Double-Crux](https://www.lesswrong.com/tag/double-crux)
+*   [[Double-Crux]]
 *   [[Conversation (topic)|Conversation]]
 
 References

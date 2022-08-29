@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb177
 title: Lawful Intelligence
-href: https://lesswrong.com/tags/lawful-intelligence
+href: https://lesswrong.com/tag/lawful-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:55.496Z'
 ---
+# Lawful Intelligence
 
 The startling and counterintuitive notion - contradicting both surface appearances and all [Deep Wisdom](https://wiki.lesswrong.com/wiki/Deep_Wisdom) \- that intelligence is a manifestation of Order rather than Chaos. Even creativity and [outside-the-box thinking](https://wiki.lesswrong.com/wiki/outside_the_box) are essentially lawful.
 
@@ -44,6 +47,6 @@ See also
 --------
 
 *   [[Futility of Chaos|Futility of chaos]]
-*   [Universal law](https://www.lesswrong.com/tag/universal-law)
+*   [[Universal Law|Universal law]]
 *   [[Optimization|Optimization process]]
-*   [Artificial general intelligence](https://www.lesswrong.com/tag/artificial-general-intelligence)
+*   [[Artificial General Intelligence|Artificial general intelligence]]

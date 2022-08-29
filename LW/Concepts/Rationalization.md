@@ -1,12 +1,15 @@
 ---
+_id: ZzxvopS4BwLuQy42n
 title: Rationalization
-href: https://lesswrong.com/tags/rationalization
+href: https://lesswrong.com/tag/rationalization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:09.272Z'
 ---
+# Rationalization
 
 **Rationalization** is the act of finding reasons to believe what one has already decided they want to believe. It is a decidedly terrible way to arrive at true beliefs.
 

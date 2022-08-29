@@ -1,16 +1,19 @@
 ---
+_id: DdgSyQoZXjj3KnF4N
 title: Tribalism
-href: https://lesswrong.com/tags/tribalism
+href: https://lesswrong.com/tag/tribalism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:03:19.811Z'
 ---
+# Tribalism
 
-**Tribalism** or **Coalitional Instincts** is closely connected to the concept of in/out-groups. Coalitional instincts drive humans to act in ways which cause them join, support, defend, and maintain their membership in various coalitions that are defined by sharing a common identity. An illustrative example can be found in [[A Fable of Science and Politics|A Fable of Science and Politics]].
+**Tribalism** or **Coalitional Instincts** is closely connected to the concept of in/out-groups. Coalitional instincts drive humans to act in ways which cause them join, support, defend, and maintain their membership in various coalitions that are defined by sharing a common identity. An illustrative example can be found in [[A Fable of Science and Politics]].
 
-See also: [Blues and Greens](https://www.lesswrong.com/tag/blues-and-greens), [[Groupthink|Groupthink]], [Motivated Reasoning](https://www.lesswrong.com/tag/motivated-reasoning), [[Social & Cultural Dynamics|Social and Cultural Dynamics]], [Social Reality](https://www.lesswrong.com/tag/social-reality).
+See also: [[Blues & Greens (metaphor)|Blues and Greens]], [[Groupthink]], [[Motivated Reasoning]], [[Social & Cultural Dynamics|Social and Cultural Dynamics]], [[Social Reality]].
 
 > The primary function that drove the evolution of coalitions is the amplification of the power of its members in conflicts with non-members. This function explains a number of otherwise puzzling phenomena. For example, ancestrally, if you had no coalition you were nakedly at the mercy of everyone else, so the instinct to belong to a coalition has urgency, preexisting and superseding any policy-driven basis for membership. This is why group beliefs are free to be so weird. \[...\]
 

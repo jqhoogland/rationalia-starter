@@ -1,14 +1,17 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb1bd
 title: Singleton
-href: https://lesswrong.com/tags/singleton
+href: https://lesswrong.com/tag/singleton
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:46.096Z'
 ---
+# Singleton
 
-A **singleton** refers to a world order in which there is a single decision-making agency at the highest level, capable of exerting effective control over its domain and preventing internal or external threats to its supremacy. An [[Artificial General Intelligence|artificial general intelligence]] having undergone an [intelligence explosion](https://www.lesswrong.com/tag/intelligence-explosion) could form a singleton, as could a world government armed with mind control and social surveillance technologies. A singleton doesn't have to support a civilization, and in fact may obliterate it upon coming to power.
+A **singleton** refers to a world order in which there is a single decision-making agency at the highest level, capable of exerting effective control over its domain and preventing internal or external threats to its supremacy. An [[Artificial General Intelligence|artificial general intelligence]] having undergone an [[Intelligence Explosion|intelligence explosion]] could form a singleton, as could a world government armed with mind control and social surveillance technologies. A singleton doesn't have to support a civilization, and in fact may obliterate it upon coming to power.
 
 A singleton need not directly micromanage everything in its domain; it could allow diverse forms of organization within itself, albeit guaranteed to function within strict limits. Notably, a suitable singleton could solve world coordination problems that would not otherwise be solvable, opening up otherwise unavailable developmental trajectories for civilization. For example, such a singleton could hold Darwinian evolutionary pressures in check.
 
@@ -19,8 +22,8 @@ Bostrom postulates the **singleton hypothesis**; Earth-originating life will eve
 See also
 --------
 
-*   [Existential risk](https://www.lesswrong.com/tag/existential-risk)
-*   [[Friendly Artificial Intelligence|Friendly]] and [Unfriendly](https://www.lesswrong.com/tag/unfriendly-artificial-intelligence) artificial intelligence
+*   [[Existential Risk|Existential risk]]
+*   [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]] artificial intelligence
 
 References
 ----------

@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb182
 title: Halo Effect
-href: https://lesswrong.com/tags/halo-effect
+href: https://lesswrong.com/tag/halo-effect
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:56.924Z'
 ---
+# Halo Effect
 
 > Let's say that you know someone who not only seems very intelligent, but also honest, altruistic, kindly, and serene. You should be suspicious that some of these perceived characteristics are influencing your perception of the others. Maybe the person is genuinely intelligent, honest, and altruistic, but not all that kindly or serene. You should be suspicious if the people you know seem to separate too cleanly into devils and angels.
 
@@ -20,6 +23,6 @@ Main post
 Related concepts
 ----------------
 
-*   [[Priming|Priming]], [Affect heuristic](https://www.lesswrong.com/tag/affect-heuristic)
+*   [[Priming]], [[Affect Heuristic|Affect heuristic]]
 *   [[Affective Death Spiral|Affective death spiral]]
-*   [Contagion heuristic](https://www.lesswrong.com/tag/contagion-heuristic)
+*   [[Contagion Heuristic|Contagion heuristic]]

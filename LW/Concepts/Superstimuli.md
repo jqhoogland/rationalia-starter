@@ -1,16 +1,19 @@
 ---
+_id: kEX5CzbfiAzGn4q8B
 title: Superstimuli
-href: https://lesswrong.com/tags/superstimuli
+href: https://lesswrong.com/tag/superstimuli
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:17.983Z'
 ---
+# Superstimuli
 
 Humans evolved various desires that promoted survival and reproductive success in the [ancestral environment](https://www.psychologytoday.com/intl/blog/darwins-subterranean-world/201806/3-things-we-know-about-the-ancestral-environment). **Superstimuli** are modern inventions that satisfy desires better than anything in the ancestral environment could but are detrimental to survival, reproduction, or other high-level goals.
 
-*See also:* [Evolutionary Psychology](https://www.lesswrong.com/tag/evolutionary-psychology?showPostCount=true&useTagName=true), [Goodhart's Law](https://www.lesswrong.com/tag/goodhart-s-law?showPostCount=true&useTagName=true), [Wireheading](https://www.lesswrong.com/tag/wireheading?showPostCount=true&useTagName=true)
+*See also:* [[Evolutionary Psychology]], [[Goodhart's Law]], [[Wireheading]]
 
 > *A candy bar is a* superstimulus*: it contains more concentrated sugar, salt, and fat than anything that exists in the ancestral environment.   A candy bar matches taste buds that evolved in a hunter-gatherer environment, but it matches those taste buds much more strongly than anything that actually existed in the hunter-gatherer environment. The signal that once reliably correlated to healthy food has been hijacked, blotted out with a point in tastespace that wasn't in the training dataset - an impossibly distant outlier on the old ancestral graphs. *
 

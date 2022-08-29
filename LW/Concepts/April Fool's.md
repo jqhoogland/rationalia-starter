@@ -1,12 +1,15 @@
 ---
+_id: fPRyNtDMeSMrEM9nr
 title: April Fool's
-href: https://lesswrong.com/tags/april-fool-s
+href: https://lesswrong.com/tag/april-fool-s
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:48:16.952Z'
 ---
+# April Fool's
 
 An annual event in the US, which could be thought of as "Notice Your Surprise" day. 
 

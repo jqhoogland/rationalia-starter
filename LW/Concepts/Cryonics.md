@@ -1,12 +1,15 @@
 ---
+_id: ZnHkaTkxukegSrZqE
 title: Cryonics
-href: https://lesswrong.com/tags/cryonics
+href: https://lesswrong.com/tag/cryonics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:10.411Z'
 ---
+# Cryonics
 
 **Cryonics** is the practice of preserving people who are dying in liquid nitrogen soon after their heart stops. The idea is that most of your brain's information content is still intact right after you've "died", i.e. medical death or legal death. If humans invent molecular nanotechnology or brain emulation techniques, it may be possible to reconstruct the consciousness of cryopreserved patients.
 

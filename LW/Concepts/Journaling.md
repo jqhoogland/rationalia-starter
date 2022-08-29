@@ -1,4 +1,5 @@
 ---
+_id: sJYvMHBHnR6DbJQcN
 title: Journaling
 href: https://lesswrong.com/tag/journaling
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:18.702Z'
 ---
+# Journaling
 
 **Journaling** is the practice of recording events in your life, usually by writing about it daily.
 

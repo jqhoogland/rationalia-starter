@@ -1,4 +1,5 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb2b5
 title: Recursive Self-Improvement
 href: https://lesswrong.com/tag/recursive-self-improvement
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:37.279Z'
 ---
+# Recursive Self-Improvement
 
 **Recursive self-improvement** refers to the property of making improvements on one's own ability of making self-improvements. It is an approach to [[Artificial General Intelligence]] that allows a system to make adjustments to its own functionality resulting in improved performance. The system could then feedback on itself with each cycle reaching ever higher levels of intelligence resulting in either a hard or soft [[AI Takeoff|AI takeoff]].
 

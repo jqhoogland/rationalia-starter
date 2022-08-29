@@ -1,10 +1,13 @@
 ---
+_id: rfZ6DY88ApBDXFpyW
 title: Human Bodies
-href: https://lesswrong.com/tags/human-bodies
+href: https://lesswrong.com/tag/human-bodies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:02:44.740Z'
 ---
+# Human Bodies
 

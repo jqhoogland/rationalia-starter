@@ -1,12 +1,15 @@
 ---
+_id: irYLXtT9hkPXoZqhH
 title: Growth Stories
-href: https://lesswrong.com/tags/growth-stories
+href: https://lesswrong.com/tag/growth-stories
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:58.557Z'
 ---
+# Growth Stories
 
 Recollections of personal progress, lessons learned, memorable experiences, coming of age, in autobiographical form.
 
@@ -14,4 +17,4 @@ Recollections of personal progress, lessons learned, memorable experiences, comi
 
 *   [Yudkowsky's Coming of Age](https://www.lesswrong.com/s/SXurf2mWFw8LX2mkG)
 
-**Related Pages:** [Postmortems & Retrospectives](https://www.lesswrong.com/tag/postmortems-and-retrospectives), [[Updated Beliefs (examples of)|Updated Beliefs (examples of)]], [Self Improvement](https://www.lesswrong.com/tag/self-improvement), [[Progress Studies|Progress Studies]] (society level)
+**Related Pages:** [[Postmortems & Retrospectives]], [[Updated Beliefs (examples of)]], [[Self Improvement]], [[Progress Studies]] (society level)

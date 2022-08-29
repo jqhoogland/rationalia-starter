@@ -1,12 +1,15 @@
 ---
+_id: KWFhr6A2dHEb6wmWJ
 title: Compartmentalization
-href: https://lesswrong.com/tags/compartmentalization
+href: https://lesswrong.com/tag/compartmentalization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:14.910Z'
 ---
+# Compartmentalization
 
 **Compartmentalization** is keeping information and processes within your mind segregated, especially in ways that keep knowledge possessed by some of your reasoning processes being accessed by other processes.
 
@@ -17,11 +20,11 @@ One might even have excellent epistemological performance in one domain and terr
 See also
 --------
 
-*   [[Semantic Stopsign|Semantic stopsign]], [Anti-epistemology](https://www.lesswrong.com/tag/anti-epistemology)
+*   [[Semantic Stopsign|Semantic stopsign]], [[Anti-Epistemology|Anti-epistemology]]
 *   [[Cached Thoughts|Cached thought]]
-*   [Shut up and multiply](https://www.lesswrong.com/tag/shut-up-and-multiply), [[Bite The Bullet|Bite the bullet]], [Absurdity heuristic](https://www.lesswrong.com/tag/absurdity-heuristic)
+*   [[Shut Up and Multiply|Shut up and multiply]], [[Bite The Bullet|Bite the bullet]], [[Absurdity Heuristic|Absurdity heuristic]]
 *   [[Dangerous Knowledge|Dangerous knowledge]]
-*   [General knowledge](https://www.lesswrong.com/tag/general-knowledge), [[Understanding|Understanding]]
-*   [Alief](https://www.lesswrong.com/tag/alief)
+*   [[General Knowledge|General knowledge]], [[Understanding]]
+*   [[Alief]]
 *   [[Aversion|Ugh field]]
-*   [Distinctions](https://www.lesswrong.com/tag/distinctions)
+*   [[Distinctions]]

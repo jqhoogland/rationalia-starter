@@ -1,4 +1,5 @@
 ---
+_id: QT87jxkk6DXuS8hGA
 title: Explicit Reasoning
 href: https://lesswrong.com/tag/explicit-reasoning
 type: tag
@@ -6,7 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:47:18.135Z'
 ---
+# Explicit Reasoning
 
 In the simple case, **explicit reasoning** is reasoning which:
 

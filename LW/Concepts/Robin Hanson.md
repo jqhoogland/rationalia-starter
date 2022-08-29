@@ -1,16 +1,19 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb10d
 title: Robin Hanson
-href: https://lesswrong.com/tags/robin-hanson
+href: https://lesswrong.com/tag/robin-hanson
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:45.274Z'
 ---
+# Robin Hanson
 
 **Robin Hanson** is an associate professor of economics at George Mason University.
 
-Robin Hanson was one of the two primary authors on [[Overcoming Bias|Overcoming Bias]].  After [LessWrong](https://www.lesswrong.com/about) portal was launched, he converted [[Overcoming Bias|Overcoming Bias]] into being his personal blog.
+Robin Hanson was one of the two primary authors on [[Overcoming Bias]].  After [LessWrong](https://www.lesswrong.com/about) portal was launched, he converted [[Overcoming Bias]] into being his personal blog.
 
 Links
 -----

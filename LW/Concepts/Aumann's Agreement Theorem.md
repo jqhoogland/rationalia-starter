@@ -1,16 +1,19 @@
 ---
+_id: WH5ZmNSjZmK9SMj7k
 title: Aumann's Agreement Theorem
-href: https://lesswrong.com/tags/aumann-s-agreement-theorem
+href: https://lesswrong.com/tag/aumann-s-agreement-theorem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T10:59:46.757Z'
 ---
+# Aumann's Agreement Theorem
 
-**Aumann's agreement theorem**, roughly speaking, says that two agents acting rationally (in a certain precise sense) and with [[Common Knowledge|common knowledge]] of each other's beliefs cannot agree to disagree. More specifically, if two people are genuine [Bayesians](https://www.lesswrong.com/tag/bayesianism), share common [[Priors|priors]], and have common knowledge of each other's current probability assignments, then they must have equal probability assignments.
+**Aumann's agreement theorem**, roughly speaking, says that two agents acting rationally (in a certain precise sense) and with [[Common Knowledge|common knowledge]] of each other's beliefs cannot agree to disagree. More specifically, if two people are genuine [[Bayesianism|Bayesians]], share common [[Priors|priors]], and have common knowledge of each other's current probability assignments, then they must have equal probability assignments.
 
-_Related tags and wikis:_ [Disagreement](https://www.lesswrong.com/tag/disagreement), [[Humility|Modesty]], [Modesty argument](https://www.lesswrong.com/tag/modesty-argument), [[Aumann Agreement|Aumann agreement]], [The Aumann Game](https://www.lesswrong.com/tag/the-aumann-game)
+_Related tags and wikis:_ [[Disagreement]], [[Humility|Modesty]], [[Modesty Argument|Modesty argument]], [[Aumann Agreement|Aumann agreement]], [[The Aumann Game]]
 
 Highlighted Posts
 -----------------
@@ -19,7 +22,7 @@ Highlighted Posts
 *   [Agreeing to Agree](http://www.overcomingbias.com/2006/12/agreeing_to_agr.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
 *   [The Coin Guessing Game](http://www.overcomingbias.com/2007/01/the_coin_guessi.html) by Hal Finney
 *   [The Proper Use of Humility](https://www.lesswrong.com/lw/gq/the_proper_use_of_humility/)
-*   [Meme Lineages and Expert Consensus](http://www.overcomingbias.com/2006/12/meme_lineages_a.html) by [[Carl Shulman|Carl Shulman]] (OB)
+*   [Meme Lineages and Expert Consensus](http://www.overcomingbias.com/2006/12/meme_lineages_a.html) by [[Carl Shulman]] (OB)
 *   [Probability Space & Aumann Agreement](https://www.lesswrong.com/lw/1il/probability_space_aumann_agreement/) by [Wei Dai](http://weidai.com/)
 *   [Bayesian Judo](https://www.lesswrong.com/lw/i5/bayesian_judo/)
 
@@ -31,10 +34,10 @@ External Links
 See also
 --------
 
-*   [Disagreement](https://www.lesswrong.com/tag/disagreement)
+*   [[Disagreement]]
 *   [[Modesty Argument|Modesty argument]]
-*   [Aumann agreement](https://www.lesswrong.com/tag/aumann-agreement)
-*   [[The Aumann Game|The Aumann Game]]
+*   [[Aumann Agreement|Aumann agreement]]
+*   [[The Aumann Game]]
 *   [Overcoming Bias posts on "Disagreement"](http://www.overcomingbias.com/tag/disagreement)
 
 References

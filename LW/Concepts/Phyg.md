@@ -1,12 +1,15 @@
 ---
+_id: 5f5c37ee1b5cdee568cfb343
 title: Phyg
-href: https://lesswrong.com/tags/phyg
+href: https://lesswrong.com/tag/phyg
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:05:40.947Z'
 ---
+# Phyg
 
 **Phyg** is the rot13 cipher of "cult". At some point in LessWrong's history, there was concern that discussion of cults on the site would cause "LessWrong" to rank highly in Google search results for "cult". It was therefore recommended that people instead use the word, "phyg", to discuss cults. 
 
@@ -16,9 +19,9 @@ The rest of this page is the contents of the Phyg page from the old LessWrong wi
 
 * * *
 
-[Less Wrong](https://www.lesswrong.com/about) may or may not be a ~cult~ [phyg](https://www.lesswrong.com/tag/phyg).[^1^](#fn1) [^2^](#fn2)
+[Less Wrong](https://www.lesswrong.com/about) may or may not be a ~cult~ [[Phyg|phyg]].[^1^](#fn1) [^2^](#fn2)
 
-[[Eliezer Yudkowsky|Eliezer Yudkowsky]] is not the leader[^3^](#fn3)
+[[Eliezer Yudkowsky]] is not the leader[^3^](#fn3)
 
 Nor is singularianism.[^4^](#fn4)
 

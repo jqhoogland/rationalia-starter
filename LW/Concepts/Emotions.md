@@ -1,12 +1,15 @@
 ---
+_id: 3ee9k6NJfcGzL6kMS
 title: Emotions
-href: https://lesswrong.com/tags/emotions
+href: https://lesswrong.com/tag/emotions
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
+synchedAt: '2022-08-29T11:04:05.399Z'
 ---
+# Emotions
 
 Contrary to the stereotype, [[Rationality|rationality]] doesn't mean denying **emotion**. When emotion is appropriate to the reality of the situation, it should be embraced; only when emotion isn't appropriate should it be suppressed.
 
@@ -19,7 +22,7 @@ External links
 See also
 --------
 
-*   [[Alief|Alief]]
-*   [Truth](https://www.lesswrong.com/tag/truth-semantics-and-meaning), [[Rationality|Rationality]]
-*   [Litany of Tarski](https://www.lesswrong.com/tag/litany-of-tarski)
+*   [[Alief]]
+*   [[Truth, Semantics, & Meaning|Truth]], [[Rationality]]
+*   [[Litany of Tarski]]
 *   [[Hollywood Rationality|Hollywood rationality]]
