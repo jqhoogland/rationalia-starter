@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb13f
 title: Possibility
 href: https://lesswrong.com/tag/possibility
+slug: possibility
 type: tag
 tags:
   - LessWrong

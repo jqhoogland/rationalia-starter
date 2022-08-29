@@ -2,6 +2,7 @@
 _id: wRdzfoH39vxqtNf37
 title: The Signaling Trilemma
 href: https://lesswrong.com/tag/the-signaling-trilemma
+slug: the-signaling-trilemma
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 49GPZJoXc7d2gKTDG
 title: Tradeoffs
 href: https://lesswrong.com/tag/tradeoffs
+slug: tradeoffs
 type: tag
 tags:
   - LessWrong

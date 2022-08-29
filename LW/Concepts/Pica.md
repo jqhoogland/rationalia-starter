@@ -2,6 +2,7 @@
 _id: 5BvRW4FxdD8DFhiew
 title: Pica
 href: https://lesswrong.com/tag/pica
+slug: pica
 type: tag
 tags:
   - LessWrong

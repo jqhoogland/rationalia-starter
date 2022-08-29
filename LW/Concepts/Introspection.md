@@ -2,6 +2,7 @@
 _id: Zwv9eHi7KGg5KA9oM
 title: Introspection
 href: https://lesswrong.com/tag/introspection
+slug: introspection
 type: tag
 tags:
   - LessWrong

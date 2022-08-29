@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2b5
 title: Recursive Self-Improvement
 href: https://lesswrong.com/tag/recursive-self-improvement
+slug: recursive-self-improvement
 type: tag
 tags:
   - LessWrong

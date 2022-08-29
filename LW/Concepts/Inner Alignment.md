@@ -2,6 +2,7 @@
 _id: Dw5Z6wtTgk4Fikz9f
 title: Inner Alignment
 href: https://lesswrong.com/tag/inner-alignment
+slug: inner-alignment
 type: tag
 tags:
   - LessWrong

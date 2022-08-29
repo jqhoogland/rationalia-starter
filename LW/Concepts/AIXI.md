@@ -2,6 +2,7 @@
 _id: TiEFKWDvD3jsKumDx
 title: AIXI
 href: https://lesswrong.com/tag/aixi
+slug: aixi
 type: tag
 tags:
   - LessWrong

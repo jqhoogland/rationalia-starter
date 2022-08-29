@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0cb
 title: Affective Death Spiral
 href: https://lesswrong.com/tag/affective-death-spiral
+slug: affective-death-spiral
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: R6dqPii4cyNpuecLt
 title: Prediction Markets
 href: https://lesswrong.com/tag/prediction-markets
+slug: prediction-markets
 type: tag
 tags:
   - LessWrong

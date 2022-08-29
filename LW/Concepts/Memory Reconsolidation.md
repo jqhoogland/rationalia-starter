@@ -2,6 +2,7 @@
 _id: dLfyktLWd7BqtsZBf
 title: Memory Reconsolidation
 href: https://lesswrong.com/tag/memory-reconsolidation
+slug: memory-reconsolidation
 type: tag
 tags:
   - LessWrong

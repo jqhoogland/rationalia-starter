@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1fd
 title: Standard of Evidence
 href: https://lesswrong.com/tag/standard-of-evidence
+slug: standard-of-evidence
 type: tag
 tags:
   - LessWrong

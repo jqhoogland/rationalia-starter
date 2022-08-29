@@ -2,6 +2,7 @@
 _id: KNJvXJK8WaSgE6iAZ
 title: Problem Formulation & Conceptualization
 href: https://lesswrong.com/tag/problem-formulation-and-conceptualization
+slug: problem-formulation-and-conceptualization
 type: tag
 tags:
   - LessWrong

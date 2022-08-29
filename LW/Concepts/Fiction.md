@@ -2,6 +2,7 @@
 _id: etDohXtBrXd8WqCtR
 title: Fiction
 href: https://lesswrong.com/tag/fiction
+slug: fiction
 type: tag
 tags:
   - LessWrong

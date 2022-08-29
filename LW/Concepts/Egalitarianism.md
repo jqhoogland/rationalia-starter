@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb142
 title: Egalitarianism
 href: https://lesswrong.com/tag/egalitarianism
+slug: egalitarianism
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: wGGAjTfXZBatQkft5
 title: Law and Legal systems
 href: https://lesswrong.com/tag/law-and-legal-systems
+slug: law-and-legal-systems
 type: tag
 tags:
   - LessWrong

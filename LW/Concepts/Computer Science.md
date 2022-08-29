@@ -2,6 +2,7 @@
 _id: GY5kPPpCoyt9fnTMn
 title: Computer Science
 href: https://lesswrong.com/tag/computer-science
+slug: computer-science
 type: tag
 tags:
   - LessWrong

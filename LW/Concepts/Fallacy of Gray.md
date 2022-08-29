@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0e4
 title: Fallacy of Gray
 href: https://lesswrong.com/tag/fallacy-of-gray
+slug: fallacy-of-gray
 type: tag
 tags:
   - LessWrong

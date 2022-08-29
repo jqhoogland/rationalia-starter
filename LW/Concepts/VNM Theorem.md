@@ -2,6 +2,7 @@
 _id: 2YcmB6SLtHnHRe3uX
 title: VNM Theorem
 href: https://lesswrong.com/tag/vnm-theorem
+slug: vnm-theorem
 type: tag
 tags:
   - LessWrong

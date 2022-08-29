@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1e5
 title: Carl Shulman
 href: https://lesswrong.com/tag/carl-shulman
+slug: carl-shulman
 type: tag
 tags:
   - LessWrong

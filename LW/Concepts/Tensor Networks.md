@@ -2,6 +2,7 @@
 _id: 4PDaoDFQGem3ruHbN
 title: Tensor Networks
 href: https://lesswrong.com/tag/tensor-networks
+slug: tensor-networks
 type: tag
 tags:
   - LessWrong

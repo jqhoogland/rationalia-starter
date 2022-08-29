@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb307
 title: Naturalized Induction
 href: https://lesswrong.com/tag/naturalized-induction
+slug: naturalized-induction
 type: tag
 tags:
   - LessWrong

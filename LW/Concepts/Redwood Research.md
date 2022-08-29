@@ -2,6 +2,7 @@
 _id: dHfxtPwAmrij4KEce
 title: Redwood Research
 href: https://lesswrong.com/tag/redwood-research
+slug: redwood-research
 type: tag
 tags:
   - LessWrong

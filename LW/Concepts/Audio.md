@@ -2,6 +2,7 @@
 _id: vjKs7Pvz3MbgMc75C
 title: Audio
 href: https://lesswrong.com/tag/audio
+slug: audio
 type: tag
 tags:
   - LessWrong

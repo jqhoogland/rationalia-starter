@@ -2,6 +2,7 @@
 _id: LaDu5bKDpe8LxaR7C
 title: Suffering
 href: https://lesswrong.com/tag/suffering
+slug: suffering
 type: tag
 tags:
   - LessWrong

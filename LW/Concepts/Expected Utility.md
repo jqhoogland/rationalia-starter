@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1bf
 title: Expected Utility
 href: https://lesswrong.com/tag/expected-utility
+slug: expected-utility
 type: tag
 tags:
   - LessWrong

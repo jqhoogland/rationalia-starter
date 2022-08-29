@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb156
 title: Impossibility
 href: https://lesswrong.com/tag/impossibility
+slug: impossibility
 type: tag
 tags:
   - LessWrong

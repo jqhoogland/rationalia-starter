@@ -2,6 +2,7 @@
 _id: DWWZwkxTJs4d5WrcX
 title: Exercises / Problem-Sets
 href: https://lesswrong.com/tag/exercises-problem-sets
+slug: exercises-problem-sets
 type: tag
 tags:
   - LessWrong

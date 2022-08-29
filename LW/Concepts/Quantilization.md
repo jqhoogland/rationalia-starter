@@ -2,6 +2,7 @@
 _id: LY3xMQMKSXiYr7rgw
 title: Quantilization
 href: https://lesswrong.com/tag/quantilization
+slug: quantilization
 type: tag
 tags:
   - LessWrong

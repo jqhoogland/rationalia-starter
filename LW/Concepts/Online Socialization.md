@@ -2,6 +2,7 @@
 _id: EXgFbrqoRRkCRgnDy
 title: Online Socialization
 href: https://lesswrong.com/tag/online-socialization
+slug: online-socialization
 type: tag
 tags:
   - LessWrong

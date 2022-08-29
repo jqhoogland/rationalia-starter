@@ -125,7 +125,6 @@ const getTitleFromLink = async (href: string) => {
     }
 }
 
-// TODO: REPLACE ALL not just the first match
 async function replaceAsync(str: string, regex: RegExp, replacer: (match: string, alias: string | null, href: string | null) => Promise<string>) {
     const fns = []
     str.replace(regex, (m, ...args) => {
@@ -136,10 +135,6 @@ async function replaceAsync(str: string, regex: RegExp, replacer: (match: string
         return str.replace(regex, () => replacements.shift())
     })
   }
- 
-const manualLinkTransforms = new Map([
-//     ["https://80000hours.org/", "80,000 hours"]
-])
 
 
 export const fixLinks = async (md: string) => {
@@ -147,11 +142,7 @@ export const fixLinks = async (md: string) => {
         if (!alias || !href) {
             return match
         }
-        
-        if (manualLinkTransforms.has(href)) {
-            return `[[${manualLinkTransforms.get(href)}|${alias}]]`
-        }
-        
+
         if (href.includes('lesswrong.com')) {
             const title = await getTitleFromLink(href); // TODO: check aliases
 

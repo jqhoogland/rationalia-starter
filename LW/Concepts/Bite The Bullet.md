@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b2
 title: Bite The Bullet
 href: https://lesswrong.com/tag/bite-the-bullet
+slug: bite-the-bullet
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb154
 title: Scope Insensitivity
 href: https://lesswrong.com/tag/scope-insensitivity
+slug: scope-insensitivity
 type: tag
 tags:
   - LessWrong

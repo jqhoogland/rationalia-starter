@@ -2,6 +2,7 @@
 _id: Jzm2mYuuDBCNWq8hi
 title: Happiness
 href: https://lesswrong.com/tag/happiness-1
+slug: happiness-1
 type: tag
 tags:
   - LessWrong

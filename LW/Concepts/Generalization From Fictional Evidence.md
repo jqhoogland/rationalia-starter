@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb125
 title: Generalization From Fictional Evidence
 href: https://lesswrong.com/tag/generalization-from-fictional-evidence
+slug: generalization-from-fictional-evidence
 type: tag
 tags:
   - LessWrong

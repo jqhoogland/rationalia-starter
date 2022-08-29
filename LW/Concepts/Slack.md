@@ -2,6 +2,7 @@
 _id: YSyvvi4uXvxAARX2D
 title: Slack
 href: https://lesswrong.com/tag/slack
+slug: slack
 type: tag
 tags:
   - LessWrong

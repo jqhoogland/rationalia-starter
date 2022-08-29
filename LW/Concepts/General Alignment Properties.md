@@ -2,6 +2,7 @@
 _id: woeLa6nvmhroCh3Fi
 title: General Alignment Properties
 href: https://lesswrong.com/tag/general-alignment-properties
+slug: general-alignment-properties
 type: tag
 tags:
   - LessWrong

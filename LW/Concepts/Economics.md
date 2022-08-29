@@ -2,6 +2,7 @@
 _id: PDJ6KqJBRzvKPfuS3
 title: Economics
 href: https://lesswrong.com/tag/economics
+slug: economics
 type: tag
 tags:
   - LessWrong

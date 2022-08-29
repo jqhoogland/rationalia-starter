@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2d6
 title: Empathic Inference
 href: https://lesswrong.com/tag/empathic-inference
+slug: empathic-inference
 type: tag
 tags:
   - LessWrong

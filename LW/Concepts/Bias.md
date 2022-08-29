@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0d5
 title: Bias
 href: https://lesswrong.com/tag/bias
+slug: bias
 type: tag
 tags:
   - LessWrong

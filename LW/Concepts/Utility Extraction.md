@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2dc
 title: Utility Extraction
 href: https://lesswrong.com/tag/utility-extraction
+slug: utility-extraction
 type: tag
 tags:
   - LessWrong

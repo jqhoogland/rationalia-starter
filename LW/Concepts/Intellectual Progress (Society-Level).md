@@ -2,6 +2,7 @@
 _id: aHjTRDkGypPqbXWpN
 title: Intellectual Progress (Society-Level)
 href: https://lesswrong.com/tag/intellectual-progress-society-level
+slug: intellectual-progress-society-level
 type: tag
 tags:
   - LessWrong

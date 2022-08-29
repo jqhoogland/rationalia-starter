@@ -2,6 +2,7 @@
 _id: b6tJM7Lza74rTfCBF
 title: Goal-Directedness
 href: https://lesswrong.com/tag/goal-directedness
+slug: goal-directedness
 type: tag
 tags:
   - LessWrong

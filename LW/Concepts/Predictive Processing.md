@@ -2,6 +2,7 @@
 _id: YAotJ9Le3S2rCJgf8
 title: Predictive Processing
 href: https://lesswrong.com/tag/predictive-processing
+slug: predictive-processing
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb127
 title: Hindsight Bias
 href: https://lesswrong.com/tag/hindsight-bias
+slug: hindsight-bias
 type: tag
 tags:
   - LessWrong

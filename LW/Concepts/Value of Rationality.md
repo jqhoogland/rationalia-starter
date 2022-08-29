@@ -2,6 +2,7 @@
 _id: 3QnDqGSdRMA5mdMM6
 title: Value of Rationality
 href: https://lesswrong.com/tag/value-of-rationality
+slug: value-of-rationality
 type: tag
 tags:
   - LessWrong

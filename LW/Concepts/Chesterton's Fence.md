@@ -2,6 +2,7 @@
 _id: ntahi2tr7e9DjCYdu
 title: Chesterton's Fence
 href: https://lesswrong.com/tag/chesterton-s-fence
+slug: chesterton-s-fence
 type: tag
 tags:
   - LessWrong

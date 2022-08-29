@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb336
 title: Abolitionism
 href: https://lesswrong.com/tag/abolitionism
+slug: abolitionism
 type: tag
 tags:
   - LessWrong

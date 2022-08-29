@@ -2,6 +2,7 @@
 _id: sHbKQDqrSinRPcnBv
 title: Information Cascades
 href: https://lesswrong.com/tag/information-cascades
+slug: information-cascades
 type: tag
 tags:
   - LessWrong

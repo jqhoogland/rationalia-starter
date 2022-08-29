@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1a5
 title: Conceptual Metaphor
 href: https://lesswrong.com/tag/conceptual-metaphor
+slug: conceptual-metaphor
 type: tag
 tags:
   - LessWrong

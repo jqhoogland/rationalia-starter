@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb153
 title: Defensibility
 href: https://lesswrong.com/tag/defensibility
+slug: defensibility
 type: tag
 tags:
   - LessWrong

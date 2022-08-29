@@ -2,6 +2,7 @@
 _id: Z8wZZLeLMJ3NSK7kR
 title: Metaethics
 href: https://lesswrong.com/tag/metaethics
+slug: metaethics
 type: tag
 tags:
   - LessWrong

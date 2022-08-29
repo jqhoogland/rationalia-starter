@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb242
 title: Reflective Inconsistency
 href: https://lesswrong.com/tag/reflective-inconsistency
+slug: reflective-inconsistency
 type: tag
 tags:
   - LessWrong

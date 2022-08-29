@@ -2,6 +2,7 @@
 _id: iTe27Ced8s8bGuvMK
 title: Intellectual Progress (Individual-Level)
 href: https://lesswrong.com/tag/intellectual-progress-individual-level
+slug: intellectual-progress-individual-level
 type: tag
 tags:
   - LessWrong

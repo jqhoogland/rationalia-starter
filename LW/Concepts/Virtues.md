@@ -2,6 +2,7 @@
 _id: 8uNFGxejo5hykCEez
 title: Virtues
 href: https://lesswrong.com/tag/virtues
+slug: virtues
 type: tag
 tags:
   - LessWrong

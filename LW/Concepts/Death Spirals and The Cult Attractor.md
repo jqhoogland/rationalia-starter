@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb209
 title: Death Spirals and The Cult Attractor
 href: https://lesswrong.com/tag/death-spirals-and-the-cult-attractor
+slug: death-spirals-and-the-cult-attractor
 type: tag
 tags:
   - LessWrong

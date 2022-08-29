@@ -2,6 +2,7 @@
 _id: KQP7fNjin8Zqg4N2x
 title: Double-Crux
 href: https://lesswrong.com/tag/double-crux
+slug: double-crux
 type: tag
 tags:
   - LessWrong

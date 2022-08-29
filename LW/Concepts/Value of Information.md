@@ -2,6 +2,7 @@
 _id: DbMQGrxbhLxtNkmca
 title: Value of Information
 href: https://lesswrong.com/tag/value-of-information
+slug: value-of-information
 type: tag
 tags:
   - LessWrong

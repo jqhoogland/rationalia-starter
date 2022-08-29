@@ -2,6 +2,7 @@
 _id: NX5R6eJajJFssMvDi
 title: Project Announcement
 href: https://lesswrong.com/tag/project-announcement
+slug: project-announcement
 type: tag
 tags:
   - LessWrong

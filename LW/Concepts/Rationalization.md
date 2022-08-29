@@ -2,6 +2,7 @@
 _id: ZzxvopS4BwLuQy42n
 title: Rationalization
 href: https://lesswrong.com/tag/rationalization
+slug: rationalization
 type: tag
 tags:
   - LessWrong

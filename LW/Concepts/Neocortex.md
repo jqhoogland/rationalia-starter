@@ -2,6 +2,7 @@
 _id: 8JMCse6n4eXwRtjET
 title: Neocortex
 href: https://lesswrong.com/tag/neocortex
+slug: neocortex
 type: tag
 tags:
   - LessWrong

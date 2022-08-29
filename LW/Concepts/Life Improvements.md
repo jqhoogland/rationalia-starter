@@ -2,6 +2,7 @@
 _id: Tg9aFPFCPBHxGABRr
 title: Life Improvements
 href: https://lesswrong.com/tag/life-improvements
+slug: life-improvements
 type: tag
 tags:
   - LessWrong

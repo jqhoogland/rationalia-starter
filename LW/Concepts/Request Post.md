@@ -2,6 +2,7 @@
 _id: Jj9QvYCLHEoDqvpaR
 title: Request Post
 href: https://lesswrong.com/tag/request-post
+slug: request-post
 type: tag
 tags:
   - LessWrong

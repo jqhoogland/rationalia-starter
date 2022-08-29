@@ -2,6 +2,7 @@
 _id: zCYXpx33wq8chGyEz
 title: AI Boxing (Containment)
 href: https://lesswrong.com/tag/ai-boxing-containment
+slug: ai-boxing-containment
 type: tag
 tags:
   - LessWrong

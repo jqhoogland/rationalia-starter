@@ -2,6 +2,7 @@
 _id: X2rXNCtSnTtTLBYpq
 title: Ivermectin (drug)
 href: https://lesswrong.com/tag/ivermectin-drug
+slug: ivermectin-drug
 type: tag
 tags:
   - LessWrong

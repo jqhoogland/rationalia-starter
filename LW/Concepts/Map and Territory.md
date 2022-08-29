@@ -2,6 +2,7 @@
 _id: wMPYFGmhcFg4bSb4Z
 title: Map and Territory
 href: https://lesswrong.com/tag/map-and-territory
+slug: map-and-territory
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: KJbjewaok72AS6fwn
 title: Levels of Intervention
 href: https://lesswrong.com/tag/levels-of-intervention
+slug: levels-of-intervention
 type: tag
 tags:
   - LessWrong

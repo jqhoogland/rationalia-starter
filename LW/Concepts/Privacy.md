@@ -2,6 +2,7 @@
 _id: N5JGtFnhex2DbyPvy
 title: Privacy
 href: https://lesswrong.com/tag/privacy
+slug: privacy
 type: tag
 tags:
   - LessWrong

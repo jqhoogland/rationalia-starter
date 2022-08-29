@@ -2,6 +2,7 @@
 _id: mf8wHrMrJR73uyDLQ
 title: Moral Mazes
 href: https://lesswrong.com/tag/moral-mazes
+slug: moral-mazes
 type: tag
 tags:
   - LessWrong

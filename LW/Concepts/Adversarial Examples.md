@@ -2,6 +2,7 @@
 _id: YSSNFEnW6ugFhEE6m
 title: Adversarial Examples
 href: https://lesswrong.com/tag/adversarial-examples
+slug: adversarial-examples
 type: tag
 tags:
   - LessWrong

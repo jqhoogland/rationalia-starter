@@ -2,6 +2,7 @@
 _id: YTCrHWYHAsAD74EHo
 title: Self-Deception
 href: https://lesswrong.com/tag/self-deception
+slug: self-deception
 type: tag
 tags:
   - LessWrong

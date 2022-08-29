@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb182
 title: Halo Effect
 href: https://lesswrong.com/tag/halo-effect
+slug: halo-effect
 type: tag
 tags:
   - LessWrong

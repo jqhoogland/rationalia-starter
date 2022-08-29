@@ -2,6 +2,7 @@
 _id: rWzGNdjuep56W5u2d
 title: Inside/Outside View
 href: https://lesswrong.com/tag/inside-outside-view
+slug: inside-outside-view
 type: tag
 tags:
   - LessWrong

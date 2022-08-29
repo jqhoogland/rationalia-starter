@@ -2,6 +2,7 @@
 _id: hLp77TQsRkooioj86
 title: Probabilistic Reasoning
 href: https://lesswrong.com/tag/probabilistic-reasoning
+slug: probabilistic-reasoning
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: tNsqhzTibgGJKPEWB
 title: Covid-19
 href: https://lesswrong.com/tag/covid-19
+slug: covid-19
 type: tag
 tags:
   - LessWrong

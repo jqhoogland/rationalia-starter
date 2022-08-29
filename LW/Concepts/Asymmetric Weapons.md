@@ -2,6 +2,7 @@
 _id: 3JnSXmK9nYxzd5Riy
 title: Asymmetric Weapons
 href: https://lesswrong.com/tag/asymmetric-weapons
+slug: asymmetric-weapons
 type: tag
 tags:
   - LessWrong

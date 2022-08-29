@@ -2,6 +2,7 @@
 _id: 6Qic6PwwBycopJFNN
 title: Contrarianism
 href: https://lesswrong.com/tag/contrarianism
+slug: contrarianism
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: WiMZ8obYsfJPog3Ph
 title: Apprenticeship
 href: https://lesswrong.com/tag/apprenticeship
+slug: apprenticeship
 type: tag
 tags:
   - LessWrong

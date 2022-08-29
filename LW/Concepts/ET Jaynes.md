@@ -2,6 +2,7 @@
 _id: ksWkwyKRrj582WqpN
 title: ET Jaynes
 href: https://lesswrong.com/tag/et-jaynes
+slug: et-jaynes
 type: tag
 tags:
   - LessWrong

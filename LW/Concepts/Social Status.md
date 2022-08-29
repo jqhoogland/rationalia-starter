@@ -2,6 +2,7 @@
 _id: 2EFq8dJbxKNzforjM
 title: Social Status
 href: https://lesswrong.com/tag/social-status
+slug: social-status
 type: tag
 tags:
   - LessWrong

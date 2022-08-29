@@ -2,6 +2,7 @@
 _id: d2s5yH2MNwX4pveW7
 title: Humans Consulting HCH
 href: https://lesswrong.com/tag/humans-consulting-hch
+slug: humans-consulting-hch
 type: tag
 tags:
   - LessWrong

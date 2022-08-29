@@ -2,6 +2,7 @@
 _id: 7mTviCYysGmLqiHai
 title: Writing (communication method)
 href: https://lesswrong.com/tag/writing-communication-method
+slug: writing-communication-method
 type: tag
 tags:
   - LessWrong

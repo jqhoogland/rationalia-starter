@@ -2,6 +2,7 @@
 _id: XSryTypw5Hszpa4TS
 title: Consciousness
 href: https://lesswrong.com/tag/consciousness
+slug: consciousness
 type: tag
 tags:
   - LessWrong

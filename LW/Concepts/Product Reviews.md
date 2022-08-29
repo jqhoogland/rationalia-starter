@@ -2,6 +2,7 @@
 _id: EGqrmaw8Tpr3oQ2eX
 title: Product Reviews
 href: https://lesswrong.com/tag/product-reviews
+slug: product-reviews
 type: tag
 tags:
   - LessWrong

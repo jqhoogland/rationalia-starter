@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb180
 title: Magical Categories
 href: https://lesswrong.com/tag/magical-categories
+slug: magical-categories
 type: tag
 tags:
   - LessWrong

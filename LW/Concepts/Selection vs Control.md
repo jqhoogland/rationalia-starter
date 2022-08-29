@@ -2,6 +2,7 @@
 _id: urfLuDdvfqGeTfccP
 title: Selection vs Control
 href: https://lesswrong.com/tag/selection-vs-control
+slug: selection-vs-control
 type: tag
 tags:
   - LessWrong

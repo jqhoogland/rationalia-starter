@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb20f
 title: Something To Protect
 href: https://lesswrong.com/tag/something-to-protect
+slug: something-to-protect
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: FwM9CYSSXgjX6fJvG
 title: Psychotropics
 href: https://lesswrong.com/tag/psychotropics
+slug: psychotropics
 type: tag
 tags:
   - LessWrong

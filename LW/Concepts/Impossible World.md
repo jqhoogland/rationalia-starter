@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0ec
 title: Impossible World
 href: https://lesswrong.com/tag/impossible-world
+slug: impossible-world
 type: tag
 tags:
   - LessWrong

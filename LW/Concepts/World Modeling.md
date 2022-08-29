@@ -2,6 +2,7 @@
 _id: 3uE2pXvbcnS9nnZRE
 title: World Modeling
 href: https://lesswrong.com/tag/world-modeling
+slug: world-modeling
 type: tag
 tags:
   - LessWrong

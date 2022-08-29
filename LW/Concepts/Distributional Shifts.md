@@ -2,6 +2,7 @@
 _id: HsiovoPND7mWbW5D9
 title: Distributional Shifts
 href: https://lesswrong.com/tag/distributional-shifts
+slug: distributional-shifts
 type: tag
 tags:
   - LessWrong

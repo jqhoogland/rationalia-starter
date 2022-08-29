@@ -2,6 +2,7 @@
 _id: ThuGDzi7X5YsAJfjs
 title: Aggregation
 href: https://lesswrong.com/tag/aggregation
+slug: aggregation
 type: tag
 tags:
   - LessWrong

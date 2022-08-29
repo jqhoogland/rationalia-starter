@@ -2,6 +2,7 @@
 _id: Zs4nYLkNr7Rbo4mAP
 title: Utilitarianism
 href: https://lesswrong.com/tag/utilitarianism
+slug: utilitarianism
 type: tag
 tags:
   - LessWrong

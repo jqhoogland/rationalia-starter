@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb195
 title: Improper Belief
 href: https://lesswrong.com/tag/improper-belief
+slug: improper-belief
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: u4eLsvP4kY2qxxsr4
 title: Neuralink
 href: https://lesswrong.com/tag/neuralink
+slug: neuralink
 type: tag
 tags:
   - LessWrong

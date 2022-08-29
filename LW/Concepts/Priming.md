@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb128
 title: Priming
 href: https://lesswrong.com/tag/priming
+slug: priming
 type: tag
 tags:
   - LessWrong

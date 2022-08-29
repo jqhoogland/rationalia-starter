@@ -2,6 +2,7 @@
 _id: bHGixy9hHdmENhoe6
 title: External Events
 href: https://lesswrong.com/tag/external-events
+slug: external-events
 type: tag
 tags:
   - LessWrong

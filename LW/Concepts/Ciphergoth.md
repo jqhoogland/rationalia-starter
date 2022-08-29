@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb200
 title: Ciphergoth
 href: https://lesswrong.com/tag/ciphergoth
+slug: ciphergoth
 type: tag
 tags:
   - LessWrong

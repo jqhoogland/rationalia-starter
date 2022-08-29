@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb319
 title: Mere Reality
 href: https://lesswrong.com/tag/mere-reality
+slug: mere-reality
 type: tag
 tags:
   - LessWrong

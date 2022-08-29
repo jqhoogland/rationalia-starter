@@ -2,6 +2,7 @@
 _id: 9vuoKSLDTE8kbKWEA
 title: Deconfusion
 href: https://lesswrong.com/tag/deconfusion
+slug: deconfusion
 type: tag
 tags:
   - LessWrong

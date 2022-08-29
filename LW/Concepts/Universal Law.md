@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1a4
 title: Universal Law
 href: https://lesswrong.com/tag/universal-law
+slug: universal-law
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: YhZLQQKsREKE7fC4F
 title: Principal-Agent Problems
 href: https://lesswrong.com/tag/principal-agent-problems
+slug: principal-agent-problems
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2a3
 title: Instrumental Value
 href: https://lesswrong.com/tag/instrumental-value
+slug: instrumental-value
 type: tag
 tags:
   - LessWrong

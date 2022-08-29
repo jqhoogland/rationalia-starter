@@ -2,6 +2,7 @@
 _id: Qyeqh8wycbSapBNsp
 title: Pomodoro Technique
 href: https://lesswrong.com/tag/pomodoro-technique
+slug: pomodoro-technique
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: bY5MaF2EATwDkomvu
 title: History
 href: https://lesswrong.com/tag/history
+slug: history
 type: tag
 tags:
   - LessWrong

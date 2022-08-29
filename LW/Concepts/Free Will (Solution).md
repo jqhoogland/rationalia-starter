@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b9
 title: Free Will (Solution)
 href: https://lesswrong.com/tag/free-will-solution
+slug: free-will-solution
 type: tag
 tags:
   - LessWrong

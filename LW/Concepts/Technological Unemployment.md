@@ -2,6 +2,7 @@
 _id: bFi5fzkCzBWoQSeiB
 title: Technological Unemployment
 href: https://lesswrong.com/tag/technological-unemployment
+slug: technological-unemployment
 type: tag
 tags:
   - LessWrong

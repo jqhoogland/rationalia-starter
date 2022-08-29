@@ -2,6 +2,7 @@
 _id: o9aQASibdsECTfYF6
 title: Moloch
 href: https://lesswrong.com/tag/moloch
+slug: moloch
 type: tag
 tags:
   - LessWrong

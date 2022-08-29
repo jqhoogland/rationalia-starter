@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0e5
 title: Forecast
 href: https://lesswrong.com/tag/forecast
+slug: forecast
 type: tag
 tags:
   - LessWrong

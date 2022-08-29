@@ -2,6 +2,7 @@
 _id: Xw6pxiicjuv6NJWjf
 title: History of Rationality
 href: https://lesswrong.com/tag/history-of-rationality
+slug: history-of-rationality
 type: tag
 tags:
   - LessWrong

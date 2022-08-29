@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1e3
 title: Anna Salamon
 href: https://lesswrong.com/tag/anna-salamon
+slug: anna-salamon
 type: tag
 tags:
   - LessWrong

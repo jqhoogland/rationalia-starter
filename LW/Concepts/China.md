@@ -2,6 +2,7 @@
 _id: ZWRtQgXucwzAFZqNJ
 title: China
 href: https://lesswrong.com/tag/china
+slug: china
 type: tag
 tags:
   - LessWrong

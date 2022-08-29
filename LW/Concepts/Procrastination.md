@@ -2,6 +2,7 @@
 _id: dqx5k65wjFfaiJ9sQ
 title: Procrastination
 href: https://lesswrong.com/tag/procrastination
+slug: procrastination
 type: tag
 tags:
   - LessWrong

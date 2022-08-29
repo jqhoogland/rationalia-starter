@@ -2,6 +2,7 @@
 _id: e6j9tnTfaabjCgK6d
 title: Literature Reviews
 href: https://lesswrong.com/tag/literature-reviews
+slug: literature-reviews
 type: tag
 tags:
   - LessWrong

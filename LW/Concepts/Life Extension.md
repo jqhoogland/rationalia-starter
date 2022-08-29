@@ -2,6 +2,7 @@
 _id: vmvTYnmaKA73fYDe5
 title: Life Extension
 href: https://lesswrong.com/tag/life-extension
+slug: life-extension
 type: tag
 tags:
   - LessWrong

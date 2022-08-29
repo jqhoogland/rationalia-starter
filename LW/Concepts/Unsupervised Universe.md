@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb159
 title: Unsupervised Universe
 href: https://lesswrong.com/tag/unsupervised-universe
+slug: unsupervised-universe
 type: tag
 tags:
   - LessWrong

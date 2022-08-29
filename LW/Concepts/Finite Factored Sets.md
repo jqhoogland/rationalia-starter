@@ -2,6 +2,7 @@
 _id: zFrdtg6wCuzWu6mhy
 title: Finite Factored Sets
 href: https://lesswrong.com/tag/finite-factored-sets
+slug: finite-factored-sets
 type: tag
 tags:
   - LessWrong

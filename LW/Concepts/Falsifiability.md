@@ -2,6 +2,7 @@
 _id: SbsZrDB844cENk4DQ
 title: Falsifiability
 href: https://lesswrong.com/tag/falsifiability
+slug: falsifiability
 type: tag
 tags:
   - LessWrong

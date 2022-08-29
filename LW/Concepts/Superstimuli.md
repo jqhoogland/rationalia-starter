@@ -2,6 +2,7 @@
 _id: kEX5CzbfiAzGn4q8B
 title: Superstimuli
 href: https://lesswrong.com/tag/superstimuli
+slug: superstimuli
 type: tag
 tags:
   - LessWrong

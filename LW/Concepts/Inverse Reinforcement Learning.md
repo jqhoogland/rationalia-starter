@@ -2,6 +2,7 @@
 _id: cPFuhAE7PwoKF7yTj
 title: Inverse Reinforcement Learning
 href: https://lesswrong.com/tag/inverse-reinforcement-learning
+slug: inverse-reinforcement-learning
 type: tag
 tags:
   - LessWrong

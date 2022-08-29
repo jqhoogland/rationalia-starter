@@ -2,6 +2,7 @@
 _id: udPbn9RthmgTtHMiG
 title: Productivity
 href: https://lesswrong.com/tag/productivity
+slug: productivity
 type: tag
 tags:
   - LessWrong

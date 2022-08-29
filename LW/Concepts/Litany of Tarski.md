@@ -2,6 +2,7 @@
 _id: E6qP9r9xxM4LCxaFk
 title: Litany of Tarski
 href: https://lesswrong.com/tag/litany-of-tarski
+slug: litany-of-tarski
 type: tag
 tags:
   - LessWrong

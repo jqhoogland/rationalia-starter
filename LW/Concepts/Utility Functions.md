@@ -2,6 +2,7 @@
 _id: HAFdXkW4YW4KRe2Gx
 title: Utility Functions
 href: https://lesswrong.com/tag/utility-functions
+slug: utility-functions
 type: tag
 tags:
   - LessWrong

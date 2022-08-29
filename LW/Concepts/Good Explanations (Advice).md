@@ -2,6 +2,7 @@
 _id: WPkEd3et8f488w8LT
 title: Good Explanations (Advice)
 href: https://lesswrong.com/tag/good-explanations-advice
+slug: good-explanations-advice
 type: tag
 tags:
   - LessWrong

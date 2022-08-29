@@ -2,6 +2,7 @@
 _id: hyxRtKmvhtruSAp2C
 title: Copenhagen Interpretation of Ethics
 href: https://lesswrong.com/tag/copenhagen-interpretation-of-ethics
+slug: copenhagen-interpretation-of-ethics
 type: tag
 tags:
   - LessWrong

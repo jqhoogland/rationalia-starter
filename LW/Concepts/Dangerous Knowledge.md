@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb146
 title: Dangerous Knowledge
 href: https://lesswrong.com/tag/dangerous-knowledge
+slug: dangerous-knowledge
 type: tag
 tags:
   - LessWrong

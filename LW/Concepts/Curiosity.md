@@ -2,6 +2,7 @@
 _id: moeYqrcakMgXnQNyF
 title: Curiosity
 href: https://lesswrong.com/tag/curiosity
+slug: curiosity
 type: tag
 tags:
   - LessWrong

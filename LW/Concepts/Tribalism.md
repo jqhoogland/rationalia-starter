@@ -2,6 +2,7 @@
 _id: DdgSyQoZXjj3KnF4N
 title: Tribalism
 href: https://lesswrong.com/tag/tribalism
+slug: tribalism
 type: tag
 tags:
   - LessWrong

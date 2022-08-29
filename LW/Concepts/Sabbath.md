@@ -2,6 +2,7 @@
 _id: NfMQK5kiYKgg7r9cD
 title: Sabbath
 href: https://lesswrong.com/tag/sabbath
+slug: sabbath
 type: tag
 tags:
   - LessWrong

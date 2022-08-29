@@ -2,6 +2,7 @@
 _id: io2ExA7GEeTgHFTFW
 title: Center on Long-Term Risk (CLR)
 href: https://lesswrong.com/tag/center-on-long-term-risk-clr
+slug: center-on-long-term-risk-clr
 type: tag
 tags:
   - LessWrong

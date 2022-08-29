@@ -2,6 +2,7 @@
 _id: 6v2FHy8dtyCYg9Kz4
 title: Therapy
 href: https://lesswrong.com/tag/therapy
+slug: therapy
 type: tag
 tags:
   - LessWrong

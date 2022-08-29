@@ -2,6 +2,7 @@
 _id: xXX3n22DQZuKqXEdT
 title: War
 href: https://lesswrong.com/tag/war
+slug: war
 type: tag
 tags:
   - LessWrong

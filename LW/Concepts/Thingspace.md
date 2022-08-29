@@ -2,6 +2,7 @@
 _id: dRRwDp9KRtkyd7ywZ
 title: Thingspace
 href: https://lesswrong.com/tag/thingspace
+slug: thingspace
 type: tag
 tags:
   - LessWrong

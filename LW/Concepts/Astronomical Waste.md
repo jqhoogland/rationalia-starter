@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2a8
 title: Astronomical Waste
 href: https://lesswrong.com/tag/astronomical-waste
+slug: astronomical-waste
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 6voWoNt3q3jpEcPzk
 title: Transformers
 href: https://lesswrong.com/tag/transformers
+slug: transformers
 type: tag
 tags:
   - LessWrong

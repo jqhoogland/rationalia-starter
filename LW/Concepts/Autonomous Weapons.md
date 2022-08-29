@@ -2,6 +2,7 @@
 _id: jygEZ8peqh6QRZYry
 title: Autonomous Weapons
 href: https://lesswrong.com/tag/autonomous-weapons
+slug: autonomous-weapons
 type: tag
 tags:
   - LessWrong

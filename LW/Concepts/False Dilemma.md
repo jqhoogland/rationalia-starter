@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb152
 title: False Dilemma
 href: https://lesswrong.com/tag/false-dilemma
+slug: false-dilemma
 type: tag
 tags:
   - LessWrong

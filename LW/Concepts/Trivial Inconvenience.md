@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb23e
 title: Trivial Inconvenience
 href: https://lesswrong.com/tag/trivial-inconvenience
+slug: trivial-inconvenience
 type: tag
 tags:
   - LessWrong

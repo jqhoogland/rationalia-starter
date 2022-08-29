@@ -2,6 +2,7 @@
 _id: XEo9oS2AQvS4spLco
 title: Domain Theory
 href: https://lesswrong.com/tag/domain-theory
+slug: domain-theory
 type: tag
 tags:
   - LessWrong

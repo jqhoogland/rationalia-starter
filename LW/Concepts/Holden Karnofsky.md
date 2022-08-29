@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb316
 title: Holden Karnofsky
 href: https://lesswrong.com/tag/holden-karnofsky
+slug: holden-karnofsky
 type: tag
 tags:
   - LessWrong

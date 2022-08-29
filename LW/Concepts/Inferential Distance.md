@@ -2,6 +2,7 @@
 _id: YQW2DxpZFTrqrxHBJ
 title: Inferential Distance
 href: https://lesswrong.com/tag/inferential-distance
+slug: inferential-distance
 type: tag
 tags:
   - LessWrong

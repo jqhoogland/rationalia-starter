@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb22b
 title: Nonapples
 href: https://lesswrong.com/tag/nonapples
+slug: nonapples
 type: tag
 tags:
   - LessWrong

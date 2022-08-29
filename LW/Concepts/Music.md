@@ -2,6 +2,7 @@
 _id: aLB9evWFYtfyS3WJg
 title: Music
 href: https://lesswrong.com/tag/music
+slug: music
 type: tag
 tags:
   - LessWrong

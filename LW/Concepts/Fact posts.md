@@ -2,6 +2,7 @@
 _id: TLrqSmzoGoA3v5tNP
 title: Fact posts
 href: https://lesswrong.com/tag/fact-posts
+slug: fact-posts
 type: tag
 tags:
   - LessWrong

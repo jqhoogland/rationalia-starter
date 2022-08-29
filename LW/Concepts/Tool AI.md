@@ -2,6 +2,7 @@
 _id: LXk7bxNkYSjgatdAt
 title: Tool AI
 href: https://lesswrong.com/tag/tool-ai
+slug: tool-ai
 type: tag
 tags:
   - LessWrong

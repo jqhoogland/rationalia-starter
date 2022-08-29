@@ -2,6 +2,7 @@
 _id: w2CXH4hsQtihvwT4v
 title: Crowdfunding
 href: https://lesswrong.com/tag/crowdfunding
+slug: crowdfunding
 type: tag
 tags:
   - LessWrong

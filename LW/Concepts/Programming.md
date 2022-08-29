@@ -2,6 +2,7 @@
 _id: HFou6RHqFagkyrKkW
 title: Programming
 href: https://lesswrong.com/tag/programming
+slug: programming
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: YgizoZqa7LEb3LEJn
 title: AMA
 href: https://lesswrong.com/tag/ama
+slug: ama
 type: tag
 tags:
   - LessWrong

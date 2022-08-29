@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2b0
 title: Technological Forecasting
 href: https://lesswrong.com/tag/technological-forecasting
+slug: technological-forecasting
 type: tag
 tags:
   - LessWrong

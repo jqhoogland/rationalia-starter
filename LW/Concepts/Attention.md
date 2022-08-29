@@ -2,6 +2,7 @@
 _id: XSeiautCrZGaQ78fx
 title: Attention
 href: https://lesswrong.com/tag/attention
+slug: attention
 type: tag
 tags:
   - LessWrong

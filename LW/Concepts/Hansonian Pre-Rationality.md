@@ -2,6 +2,7 @@
 _id: 5oDii8KKW53n4HSx4
 title: Hansonian Pre-Rationality
 href: https://lesswrong.com/tag/hansonian-pre-rationality
+slug: hansonian-pre-rationality
 type: tag
 tags:
   - LessWrong

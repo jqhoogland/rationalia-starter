@@ -2,6 +2,7 @@
 _id: cpBfacd22cJsm5fuL
 title: Hypocrisy
 href: https://lesswrong.com/tag/hypocrisy
+slug: hypocrisy
 type: tag
 tags:
   - LessWrong

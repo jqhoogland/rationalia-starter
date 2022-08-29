@@ -2,6 +2,7 @@
 _id: 9mShmhRFzBat3523A
 title: Perceptual Control Theory
 href: https://lesswrong.com/tag/perceptual-control-theory
+slug: perceptual-control-theory
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: frcrRgCk9PDbEScua
 title: Climate Change
 href: https://lesswrong.com/tag/climate-change
+slug: climate-change
 type: tag
 tags:
   - LessWrong

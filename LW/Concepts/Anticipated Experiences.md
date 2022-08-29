@@ -2,6 +2,7 @@
 _id: SJFsFfFhE6m2ThAYJ
 title: Anticipated Experiences
 href: https://lesswrong.com/tag/anticipated-experiences
+slug: anticipated-experiences
 type: tag
 tags:
   - LessWrong

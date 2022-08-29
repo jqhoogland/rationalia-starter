@@ -2,6 +2,7 @@
 _id: ai87fPyyT6mWb4YkT
 title: Eldritch Analogies
 href: https://lesswrong.com/tag/eldritch-analogies
+slug: eldritch-analogies
 type: tag
 tags:
   - LessWrong

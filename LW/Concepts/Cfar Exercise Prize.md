@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb284
 title: Cfar Exercise Prize
 href: https://lesswrong.com/tag/cfar-exercise-prize
+slug: cfar-exercise-prize
 type: tag
 tags:
   - LessWrong

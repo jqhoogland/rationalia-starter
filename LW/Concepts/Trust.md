@@ -2,6 +2,7 @@
 _id: KN9KEMgyBHjcAyc26
 title: Trust
 href: https://lesswrong.com/tag/trust
+slug: trust
 type: tag
 tags:
   - LessWrong

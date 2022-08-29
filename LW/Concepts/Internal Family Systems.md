@@ -2,6 +2,7 @@
 _id: 73btkq64uWfoWGfpF
 title: Internal Family Systems
 href: https://lesswrong.com/tag/internal-family-systems
+slug: internal-family-systems
 type: tag
 tags:
   - LessWrong

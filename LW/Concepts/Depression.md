@@ -2,6 +2,7 @@
 _id: BAhM42jvzuWMzTDxR
 title: Depression
 href: https://lesswrong.com/tag/depression
+slug: depression
 type: tag
 tags:
   - LessWrong

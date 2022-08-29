@@ -2,6 +2,7 @@
 _id: Q6P8jLn8hH7kbuXRr
 title: Signaling
 href: https://lesswrong.com/tag/signaling
+slug: signaling
 type: tag
 tags:
   - LessWrong

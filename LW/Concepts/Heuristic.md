@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb12f
 title: Heuristic
 href: https://lesswrong.com/tag/heuristic
+slug: heuristic
 type: tag
 tags:
   - LessWrong

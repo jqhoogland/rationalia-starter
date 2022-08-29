@@ -2,6 +2,7 @@
 _id: zPwTiHduqxnMHCMSu
 title: Epistemic Spot Check
 href: https://lesswrong.com/tag/epistemic-spot-check
+slug: epistemic-spot-check
 type: tag
 tags:
   - LessWrong

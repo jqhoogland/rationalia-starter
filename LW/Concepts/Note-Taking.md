@@ -2,6 +2,7 @@
 _id: puBcCq7aRwKoa7pXX
 title: Note-Taking
 href: https://lesswrong.com/tag/note-taking
+slug: note-taking
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1c7
 title: Nick Bostrom
 href: https://lesswrong.com/tag/nick-bostrom
+slug: nick-bostrom
 type: tag
 tags:
   - LessWrong

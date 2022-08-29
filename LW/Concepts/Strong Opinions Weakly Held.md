@@ -2,6 +2,7 @@
 _id: Wj2iipHgLnHA8ZhZH
 title: Strong Opinions Weakly Held
 href: https://lesswrong.com/tag/strong-opinions-weakly-held
+slug: strong-opinions-weakly-held
 type: tag
 tags:
   - LessWrong

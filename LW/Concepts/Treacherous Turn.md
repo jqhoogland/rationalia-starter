@@ -2,6 +2,7 @@
 _id: qNF7Ti87CLfHhbttj
 title: Treacherous Turn
 href: https://lesswrong.com/tag/treacherous-turn
+slug: treacherous-turn
 type: tag
 tags:
   - LessWrong

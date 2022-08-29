@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb178
 title: Artificial General Intelligence
 href: https://lesswrong.com/tag/artificial-general-intelligence
+slug: artificial-general-intelligence
 type: tag
 tags:
   - LessWrong

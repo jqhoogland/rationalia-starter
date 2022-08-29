@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb249
 title: Sound Argument
 href: https://lesswrong.com/tag/sound-argument
+slug: sound-argument
 type: tag
 tags:
   - LessWrong

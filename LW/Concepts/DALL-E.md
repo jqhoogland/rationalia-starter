@@ -2,6 +2,7 @@
 _id: L2cuwYAisTL3QF4TA
 title: DALL-E
 href: https://lesswrong.com/tag/dall-e
+slug: dall-e
 type: tag
 tags:
   - LessWrong

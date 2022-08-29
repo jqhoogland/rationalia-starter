@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb126
 title: Beliefs Require Observations
 href: https://lesswrong.com/tag/beliefs-require-observations
+slug: beliefs-require-observations
 type: tag
 tags:
   - LessWrong

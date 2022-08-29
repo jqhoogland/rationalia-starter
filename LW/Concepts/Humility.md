@@ -2,6 +2,7 @@
 _id: YPZCAs9Axp9PtrF22
 title: Humility
 href: https://lesswrong.com/tag/humility
+slug: humility
 type: tag
 tags:
   - LessWrong

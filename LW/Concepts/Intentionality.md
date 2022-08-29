@@ -2,6 +2,7 @@
 _id: TotjLm7Q7nabRrYpZ
 title: Intentionality
 href: https://lesswrong.com/tag/intentionality
+slug: intentionality
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: cRaweRcZcXnb9Qryt
 title: Meta-Honesty
 href: https://lesswrong.com/tag/meta-honesty
+slug: meta-honesty
 type: tag
 tags:
   - LessWrong

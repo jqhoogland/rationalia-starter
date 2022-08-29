@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb21b
 title: The Quantum Physics Sequence
 href: https://lesswrong.com/tag/the-quantum-physics-sequence
+slug: the-quantum-physics-sequence
 type: tag
 tags:
   - LessWrong

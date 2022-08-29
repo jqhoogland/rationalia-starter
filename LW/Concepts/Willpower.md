@@ -2,6 +2,7 @@
 _id: YrLoz567b553YouZ2
 title: Willpower
 href: https://lesswrong.com/tag/willpower
+slug: willpower
 type: tag
 tags:
   - LessWrong

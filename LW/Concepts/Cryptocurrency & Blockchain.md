@@ -2,6 +2,7 @@
 _id: xCXkjecsjwm8uSW3y
 title: Cryptocurrency & Blockchain
 href: https://lesswrong.com/tag/cryptocurrency-and-blockchain
+slug: cryptocurrency-and-blockchain
 type: tag
 tags:
   - LessWrong

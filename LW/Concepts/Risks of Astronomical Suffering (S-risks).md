@@ -2,6 +2,7 @@
 _id: nzvHaqwdXtvWkbonG
 title: Risks of Astronomical Suffering (S-risks)
 href: https://lesswrong.com/tag/risks-of-astronomical-suffering-s-risks
+slug: risks-of-astronomical-suffering-s-risks
 type: tag
 tags:
   - LessWrong

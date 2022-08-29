@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb137
 title: Hope
 href: https://lesswrong.com/tag/hope
+slug: hope
 type: tag
 tags:
   - LessWrong

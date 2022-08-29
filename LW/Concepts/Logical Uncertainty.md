@@ -2,6 +2,7 @@
 _id: JHYaBGQuuKHdwnrAK
 title: Logical Uncertainty
 href: https://lesswrong.com/tag/logical-uncertainty
+slug: logical-uncertainty
 type: tag
 tags:
   - LessWrong

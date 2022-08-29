@@ -2,6 +2,7 @@
 _id: 25oxqHiadqM6Hf7Gn
 title: Great Filter
 href: https://lesswrong.com/tag/great-filter
+slug: great-filter
 type: tag
 tags:
   - LessWrong

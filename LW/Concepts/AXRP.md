@@ -2,6 +2,7 @@
 _id: 8Ec9rD286qNstoiGH
 title: AXRP
 href: https://lesswrong.com/tag/axrp
+slug: axrp
 type: tag
 tags:
   - LessWrong

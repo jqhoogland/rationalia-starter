@@ -2,6 +2,7 @@
 _id: TG8zMvjnhydE7Mcue
 title: Psychology of Altruism
 href: https://lesswrong.com/tag/psychology-of-altruism
+slug: psychology-of-altruism
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb226
 title: Robot
 href: https://lesswrong.com/tag/robot
+slug: robot
 type: tag
 tags:
   - LessWrong

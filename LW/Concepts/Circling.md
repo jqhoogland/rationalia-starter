@@ -2,6 +2,7 @@
 _id: 7oXfRFCR7N22MnuY5
 title: Circling
 href: https://lesswrong.com/tag/circling
+slug: circling
 type: tag
 tags:
   - LessWrong

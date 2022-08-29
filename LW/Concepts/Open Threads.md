@@ -2,6 +2,7 @@
 _id: ABG8vt87eW4FFA6gD
 title: Open Threads
 href: https://lesswrong.com/tag/open-threads
+slug: open-threads
 type: tag
 tags:
   - LessWrong

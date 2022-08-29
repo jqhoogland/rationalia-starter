@@ -2,6 +2,7 @@
 _id: bQZAkiFgtbEcr5h6f
 title: AI Persuasion
 href: https://lesswrong.com/tag/ai-persuasion
+slug: ai-persuasion
 type: tag
 tags:
   - LessWrong

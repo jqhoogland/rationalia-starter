@@ -2,6 +2,7 @@
 _id: nANxo5C4sPG9HQHzr
 title: Honesty
 href: https://lesswrong.com/tag/honesty
+slug: honesty
 type: tag
 tags:
   - LessWrong

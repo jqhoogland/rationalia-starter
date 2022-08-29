@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1ec
 title: Illusion of Transparency
 href: https://lesswrong.com/tag/illusion-of-transparency
+slug: illusion-of-transparency
 type: tag
 tags:
   - LessWrong

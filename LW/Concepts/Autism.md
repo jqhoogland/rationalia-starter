@@ -2,6 +2,7 @@
 _id: k9pXZBsM8wMRwwK4J
 title: Autism
 href: https://lesswrong.com/tag/autism
+slug: autism
 type: tag
 tags:
   - LessWrong

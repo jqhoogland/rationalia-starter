@@ -2,6 +2,7 @@
 _id: rZCxz9XBonCFLdwja
 title: Poverty
 href: https://lesswrong.com/tag/poverty
+slug: poverty
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: BtQRRKTPxagBH6KrG
 title: Blues & Greens (metaphor)
 href: https://lesswrong.com/tag/blues-and-greens-metaphor
+slug: blues-and-greens-metaphor
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: EnFKSZYiDHqMJuvJL
 title: Social Reality
 href: https://lesswrong.com/tag/social-reality
+slug: social-reality
 type: tag
 tags:
   - LessWrong

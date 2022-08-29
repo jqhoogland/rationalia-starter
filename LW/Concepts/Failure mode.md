@@ -2,6 +2,7 @@
 _id: mmfk47obrNKhN6waD
 title: Failure mode
 href: https://lesswrong.com/tag/failure-mode
+slug: failure-mode
 type: tag
 tags:
   - LessWrong

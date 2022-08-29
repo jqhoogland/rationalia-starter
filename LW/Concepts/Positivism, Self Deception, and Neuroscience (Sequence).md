@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb251
 title: Positivism, Self Deception, and Neuroscience (Sequence)
 href: https://lesswrong.com/tag/positivism-self-deception-and-neuroscience-sequence
+slug: positivism-self-deception-and-neuroscience-sequence
 type: tag
 tags:
   - LessWrong

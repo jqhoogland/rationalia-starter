@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2b6
 title: Nanny AI
 href: https://lesswrong.com/tag/nanny-ai
+slug: nanny-ai
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 8daMDi9NEShyLqxth
 title: Forecasting & Prediction
 href: https://lesswrong.com/tag/forecasting-and-prediction
+slug: forecasting-and-prediction
 type: tag
 tags:
   - LessWrong

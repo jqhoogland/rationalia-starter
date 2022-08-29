@@ -2,6 +2,7 @@
 _id: mQbxDKHxPcKKRG4mb
 title: Changing Your Mind
 href: https://lesswrong.com/tag/changing-your-mind
+slug: changing-your-mind
 type: tag
 tags:
   - LessWrong

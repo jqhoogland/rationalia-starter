@@ -2,6 +2,7 @@
 _id: AXhEhCkTrHZbjXXu3
 title: Poetry
 href: https://lesswrong.com/tag/poetry
+slug: poetry
 type: tag
 tags:
   - LessWrong

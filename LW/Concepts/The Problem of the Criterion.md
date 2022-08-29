@@ -2,6 +2,7 @@
 _id: CbucWMrhobAmtzpMF
 title: The Problem of the Criterion
 href: https://lesswrong.com/tag/the-problem-of-the-criterion
+slug: the-problem-of-the-criterion
 type: tag
 tags:
   - LessWrong

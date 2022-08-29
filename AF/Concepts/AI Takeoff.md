@@ -2,6 +2,7 @@
 _id: oiRp4T6u5poc8r9Tj
 title: AI Takeoff
 href: https://lesswrong.com/tag/ai-takeoff
+slug: ai-takeoff
 type: tag
 tags:
   - LessWrong

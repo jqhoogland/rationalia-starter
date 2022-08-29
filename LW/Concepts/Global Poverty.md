@@ -2,6 +2,7 @@
 _id: uiWL6tGbeZbxNwpz7
 title: Global Poverty
 href: https://lesswrong.com/tag/global-poverty
+slug: global-poverty
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2b8
 title: Simulation Argument
 href: https://lesswrong.com/tag/simulation-argument
+slug: simulation-argument
 type: tag
 tags:
   - LessWrong

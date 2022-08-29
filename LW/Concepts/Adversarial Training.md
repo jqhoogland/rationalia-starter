@@ -2,6 +2,7 @@
 _id: cawGhjgJmnoLLHXMC
 title: Adversarial Training
 href: https://lesswrong.com/tag/adversarial-training
+slug: adversarial-training
 type: tag
 tags:
   - LessWrong

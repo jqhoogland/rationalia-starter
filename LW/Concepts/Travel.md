@@ -2,6 +2,7 @@
 _id: o4rMP6GJto7ccBL3a
 title: Travel
 href: https://lesswrong.com/tag/travel
+slug: travel
 type: tag
 tags:
   - LessWrong

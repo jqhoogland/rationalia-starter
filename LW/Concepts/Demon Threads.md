@@ -2,6 +2,7 @@
 _id: RqNHf9ZpPW29uMKyA
 title: Demon Threads
 href: https://lesswrong.com/tag/demon-threads
+slug: demon-threads
 type: tag
 tags:
   - LessWrong

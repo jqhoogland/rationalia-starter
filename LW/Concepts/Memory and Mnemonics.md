@@ -2,6 +2,7 @@
 _id: feSdiScf9o6zgrwgG
 title: Memory and Mnemonics
 href: https://lesswrong.com/tag/memory-and-mnemonics
+slug: memory-and-mnemonics
 type: tag
 tags:
   - LessWrong

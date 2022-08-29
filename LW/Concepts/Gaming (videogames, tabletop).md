@@ -2,6 +2,7 @@
 _id: RLQumypPQGPYg9t6G
 title: Gaming (videogames/tabletop)
 href: https://lesswrong.com/tag/gaming-videogames-tabletop
+slug: gaming-videogames-tabletop
 type: tag
 tags:
   - LessWrong

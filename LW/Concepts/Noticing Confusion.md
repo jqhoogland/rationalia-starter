@@ -2,6 +2,7 @@
 _id: sMzY3PuSfYGdtHWrE
 title: Noticing Confusion
 href: https://lesswrong.com/tag/noticing-confusion
+slug: noticing-confusion
 type: tag
 tags:
   - LessWrong

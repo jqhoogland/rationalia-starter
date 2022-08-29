@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2c0
 title: Evolutionary Algorithm
 href: https://lesswrong.com/tag/evolutionary-algorithm
+slug: evolutionary-algorithm
 type: tag
 tags:
   - LessWrong

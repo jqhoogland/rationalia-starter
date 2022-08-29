@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f2
 title: Valley of Bad Rationality
 href: https://lesswrong.com/tag/valley-of-bad-rationality
+slug: valley-of-bad-rationality
 type: tag
 tags:
   - LessWrong

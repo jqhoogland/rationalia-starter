@@ -2,6 +2,7 @@
 _id: DsdbQhWAnPqfzo4Yw
 title: Reversal Test
 href: https://lesswrong.com/tag/reversal-test
+slug: reversal-test
 type: tag
 tags:
   - LessWrong

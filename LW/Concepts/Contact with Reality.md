@@ -2,6 +2,7 @@
 _id: daguMTessgwBYvN4b
 title: Contact with Reality
 href: https://lesswrong.com/tag/contact-with-reality
+slug: contact-with-reality
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 7w6XkYe5YPx9YL59j
 title: Information Hazards
 href: https://lesswrong.com/tag/information-hazards
+slug: information-hazards
 type: tag
 tags:
   - LessWrong

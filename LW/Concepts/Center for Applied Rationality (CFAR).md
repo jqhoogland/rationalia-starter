@@ -2,6 +2,7 @@
 _id: X7v7Fyp9cgBYaMe2e
 title: Center for Applied Rationality (CFAR)
 href: https://lesswrong.com/tag/center-for-applied-rationality-cfar
+slug: center-for-applied-rationality-cfar
 type: tag
 tags:
   - LessWrong

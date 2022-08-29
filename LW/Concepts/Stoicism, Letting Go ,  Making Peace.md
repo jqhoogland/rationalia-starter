@@ -2,6 +2,7 @@
 _id: fxvP6nbd5Pjk5TP8Q
 title: Stoicism / Letting Go / Making Peace
 href: https://lesswrong.com/tag/stoicism-letting-go-making-peace
+slug: stoicism-letting-go-making-peace
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1cc
 title: Hollywood Rationality
 href: https://lesswrong.com/tag/hollywood-rationality
+slug: hollywood-rationality
 type: tag
 tags:
   - LessWrong

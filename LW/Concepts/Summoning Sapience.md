@@ -2,6 +2,7 @@
 _id: 7dpiuzLNPMtdjAvNq
 title: Summoning Sapience
 href: https://lesswrong.com/tag/summoning-sapience
+slug: summoning-sapience
 type: tag
 tags:
   - LessWrong

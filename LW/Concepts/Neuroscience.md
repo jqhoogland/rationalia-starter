@@ -2,6 +2,7 @@
 _id: Wi3EopKJ2aNdtxSWg
 title: Neuroscience
 href: https://lesswrong.com/tag/neuroscience
+slug: neuroscience
 type: tag
 tags:
   - LessWrong

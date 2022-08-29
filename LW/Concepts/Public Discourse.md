@@ -2,6 +2,7 @@
 _id: MXcpQvaPGtXpB6vkM
 title: Public Discourse
 href: https://lesswrong.com/tag/public-discourse
+slug: public-discourse
 type: tag
 tags:
   - LessWrong

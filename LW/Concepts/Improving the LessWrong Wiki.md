@@ -2,6 +2,7 @@
 _id: GKffzsk2bKssZGRva
 title: Improving the LessWrong Wiki
 href: https://lesswrong.com/tag/improving-the-lesswrong-wiki
+slug: improving-the-lesswrong-wiki
 type: tag
 tags:
   - LessWrong

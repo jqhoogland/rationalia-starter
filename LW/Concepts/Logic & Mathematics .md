@@ -2,6 +2,7 @@
 _id: 6nS8oYmSMuFMaiowF
 title: 'Logic & Mathematics '
 href: https://lesswrong.com/tag/logic-and-mathematics
+slug: logic-and-mathematics
 type: tag
 tags:
   - LessWrong

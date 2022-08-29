@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1c0
 title: Future
 href: https://lesswrong.com/tag/future
+slug: future
 type: tag
 tags:
   - LessWrong

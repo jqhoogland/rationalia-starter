@@ -2,6 +2,7 @@
 _id: sSNtcEQsqHgN8ZmRF
 title: Fun Theory
 href: https://lesswrong.com/tag/fun-theory
+slug: fun-theory
 type: tag
 tags:
   - LessWrong

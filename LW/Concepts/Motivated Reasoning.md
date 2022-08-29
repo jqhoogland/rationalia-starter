@@ -2,6 +2,7 @@
 _id: LDTSbmXtokYAsEq8e
 title: Motivated Reasoning
 href: https://lesswrong.com/tag/motivated-reasoning
+slug: motivated-reasoning
 type: tag
 tags:
   - LessWrong

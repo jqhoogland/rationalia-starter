@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb16b
 title: Teleology
 href: https://lesswrong.com/tag/teleology
+slug: teleology
 type: tag
 tags:
   - LessWrong

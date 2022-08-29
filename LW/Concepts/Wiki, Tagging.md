@@ -2,6 +2,7 @@
 _id: ZWmB62xB6uLyRuAtX
 title: Wiki/Tagging
 href: https://lesswrong.com/tag/wiki-tagging
+slug: wiki-tagging
 type: tag
 tags:
   - LessWrong

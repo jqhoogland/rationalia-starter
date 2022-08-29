@@ -2,6 +2,7 @@
 _id: CD6DGZJD4ningyzWF
 title: Trigger-Action Planning
 href: https://lesswrong.com/tag/trigger-action-planning
+slug: trigger-action-planning
 type: tag
 tags:
   - LessWrong

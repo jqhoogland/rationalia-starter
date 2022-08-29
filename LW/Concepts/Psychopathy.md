@@ -2,6 +2,7 @@
 _id: v4pviL33XGMuTpSNs
 title: Psychopathy
 href: https://lesswrong.com/tag/psychopathy
+slug: psychopathy
 type: tag
 tags:
   - LessWrong

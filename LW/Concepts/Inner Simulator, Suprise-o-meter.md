@@ -2,6 +2,7 @@
 _id: EdnFte9kTvWnRskrN
 title: Inner Simulator / Suprise-o-meter
 href: https://lesswrong.com/tag/inner-simulator-suprise-o-meter
+slug: inner-simulator-suprise-o-meter
 type: tag
 tags:
   - LessWrong

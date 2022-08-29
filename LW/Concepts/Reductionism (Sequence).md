@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb204
 title: Reductionism (Sequence)
 href: https://lesswrong.com/tag/reductionism-sequence
+slug: reductionism-sequence
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: mwKRsZuFbGr7tA5h7
 title: Delegation
 href: https://lesswrong.com/tag/delegation
+slug: delegation
 type: tag
 tags:
   - LessWrong

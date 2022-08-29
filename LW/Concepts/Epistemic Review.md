@@ -2,6 +2,7 @@
 _id: yt9Z7xdQrofW7fCN8
 title: Epistemic Review
 href: https://lesswrong.com/tag/epistemic-review
+slug: epistemic-review
 type: tag
 tags:
   - LessWrong

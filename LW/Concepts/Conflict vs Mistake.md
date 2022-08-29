@@ -2,6 +2,7 @@
 _id: ogWsaHQKwa6ddidRC
 title: Conflict vs Mistake
 href: https://lesswrong.com/tag/conflict-vs-mistake
+slug: conflict-vs-mistake
 type: tag
 tags:
   - LessWrong

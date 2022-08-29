@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb139
 title: Arguments As Soldiers
 href: https://lesswrong.com/tag/arguments-as-soldiers
+slug: arguments-as-soldiers
 type: tag
 tags:
   - LessWrong

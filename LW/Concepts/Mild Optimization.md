@@ -2,6 +2,7 @@
 _id: 8KQvnMQYGaiCAqrXv
 title: Mild Optimization
 href: https://lesswrong.com/tag/mild-optimization
+slug: mild-optimization
 type: tag
 tags:
   - LessWrong

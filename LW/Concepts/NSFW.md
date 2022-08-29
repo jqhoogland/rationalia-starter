@@ -2,6 +2,7 @@
 _id: rCChqJHkgiGxccrNw
 title: NSFW
 href: https://lesswrong.com/tag/nsfw
+slug: nsfw
 type: tag
 tags:
   - LessWrong

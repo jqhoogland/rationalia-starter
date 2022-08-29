@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb10b
 title: Rationality As Martial Art
 href: https://lesswrong.com/tag/rationality-as-martial-art
+slug: rationality-as-martial-art
 type: tag
 tags:
   - LessWrong

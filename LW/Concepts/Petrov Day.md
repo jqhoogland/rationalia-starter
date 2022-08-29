@@ -2,6 +2,7 @@
 _id: 2i3w84KCkqZzpnQ4d
 title: Petrov Day
 href: https://lesswrong.com/tag/petrov-day
+slug: petrov-day
 type: tag
 tags:
   - LessWrong

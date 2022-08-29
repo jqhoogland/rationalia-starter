@@ -2,6 +2,7 @@
 _id: nvKzwpiranwy29HFJ
 title: Optimization
 href: https://lesswrong.com/tag/optimization
+slug: optimization
 type: tag
 tags:
   - LessWrong

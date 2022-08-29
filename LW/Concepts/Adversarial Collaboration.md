@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2fb
 title: Adversarial Collaboration
 href: https://lesswrong.com/tag/adversarial-collaboration
+slug: adversarial-collaboration
 type: tag
 tags:
   - LessWrong

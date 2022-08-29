@@ -2,6 +2,7 @@
 _id: Qs5KwojJdJitjisD4
 title: Commitment Mechanisms
 href: https://lesswrong.com/tag/commitment-mechanisms
+slug: commitment-mechanisms
 type: tag
 tags:
   - LessWrong

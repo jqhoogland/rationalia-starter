@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2a2
 title: Reflective Decision Theory
 href: https://lesswrong.com/tag/reflective-decision-theory
+slug: reflective-decision-theory
 type: tag
 tags:
   - LessWrong

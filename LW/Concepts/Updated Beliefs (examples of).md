@@ -2,6 +2,7 @@
 _id: 3RnEKrsNgNEDxuNnw
 title: Updated Beliefs (examples of)
 href: https://lesswrong.com/tag/updated-beliefs-examples-of
+slug: updated-beliefs-examples-of
 type: tag
 tags:
   - LessWrong

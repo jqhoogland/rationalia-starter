@@ -223,5 +223,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "rationalia-plugin:sync-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

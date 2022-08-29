@@ -2,6 +2,7 @@
 _id: SEuoBQeHLYd9dtqpK
 title: Social Skills
 href: https://lesswrong.com/tag/social-skills
+slug: social-skills
 type: tag
 tags:
   - LessWrong

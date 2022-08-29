@@ -2,6 +2,7 @@
 _id: rfZ6DY88ApBDXFpyW
 title: Human Bodies
 href: https://lesswrong.com/tag/human-bodies
+slug: human-bodies
 type: tag
 tags:
   - LessWrong

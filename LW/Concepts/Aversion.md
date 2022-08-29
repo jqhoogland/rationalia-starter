@@ -2,6 +2,7 @@
 _id: EuDw6uxQW2ZBRFhMo
 title: Aversion
 href: https://lesswrong.com/tag/aversion
+slug: aversion
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb34a
 title: Scott Alexander
 href: https://lesswrong.com/tag/scott-alexander
+slug: scott-alexander
 type: tag
 tags:
   - LessWrong

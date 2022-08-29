@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2d4
 title: Reinforcement Learning
 href: https://lesswrong.com/tag/reinforcement-learning
+slug: reinforcement-learning
 type: tag
 tags:
   - LessWrong

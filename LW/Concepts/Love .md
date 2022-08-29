@@ -2,6 +2,7 @@
 _id: PAugtjFrmvbepCNej
 title: 'Love '
 href: https://lesswrong.com/tag/love
+slug: love
 type: tag
 tags:
   - LessWrong

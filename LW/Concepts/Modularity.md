@@ -2,6 +2,7 @@
 _id: bt2e3HEcZmuHo3xf7
 title: Modularity
 href: https://lesswrong.com/tag/modularity
+slug: modularity
 type: tag
 tags:
   - LessWrong

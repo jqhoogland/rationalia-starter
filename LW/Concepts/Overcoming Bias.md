@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb100
 title: Overcoming Bias
 href: https://lesswrong.com/tag/overcoming-bias
+slug: overcoming-bias
 type: tag
 tags:
   - LessWrong

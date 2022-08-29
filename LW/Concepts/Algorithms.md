@@ -2,6 +2,7 @@
 _id: 9ponmAskWgC37GZKk
 title: Algorithms
 href: https://lesswrong.com/tag/algorithms
+slug: algorithms
 type: tag
 tags:
   - LessWrong

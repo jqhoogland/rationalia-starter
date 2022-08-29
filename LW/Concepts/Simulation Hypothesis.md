@@ -2,6 +2,7 @@
 _id: 22z6XpWKqw3bNv4oR
 title: Simulation Hypothesis
 href: https://lesswrong.com/tag/simulation-hypothesis
+slug: simulation-hypothesis
 type: tag
 tags:
   - LessWrong

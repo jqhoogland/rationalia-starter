@@ -2,6 +2,7 @@
 _id: pnSXfWXbQihrFadeD
 title: Case Study
 href: https://lesswrong.com/tag/case-study
+slug: case-study
 type: tag
 tags:
   - LessWrong

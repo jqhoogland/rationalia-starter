@@ -2,6 +2,7 @@
 _id: 9mcR3NTzqwd3ugeRE
 title: Astronomy
 href: https://lesswrong.com/tag/astronomy
+slug: astronomy
 type: tag
 tags:
   - LessWrong

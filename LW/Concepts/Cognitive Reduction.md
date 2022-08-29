@@ -2,6 +2,7 @@
 _id: vHzreEfefos3Kqt2p
 title: Cognitive Reduction
 href: https://lesswrong.com/tag/cognitive-reduction
+slug: cognitive-reduction
 type: tag
 tags:
   - LessWrong

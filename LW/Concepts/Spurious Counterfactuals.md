@@ -2,6 +2,7 @@
 _id: xKz23YJ7h5JZijGFs
 title: Spurious Counterfactuals
 href: https://lesswrong.com/tag/spurious-counterfactuals
+slug: spurious-counterfactuals
 type: tag
 tags:
   - LessWrong

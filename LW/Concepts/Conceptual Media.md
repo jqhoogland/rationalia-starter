@@ -2,6 +2,7 @@
 _id: jcegcg2mqPGWBiXHc
 title: Conceptual Media
 href: https://lesswrong.com/tag/conceptual-media
+slug: conceptual-media
 type: tag
 tags:
   - LessWrong

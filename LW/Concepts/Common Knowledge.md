@@ -2,6 +2,7 @@
 _id: kCuRQE5Tkv9zeKyzK
 title: Common Knowledge
 href: https://lesswrong.com/tag/common-knowledge
+slug: common-knowledge
 type: tag
 tags:
   - LessWrong

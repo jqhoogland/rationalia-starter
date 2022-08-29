@@ -2,6 +2,7 @@
 _id: yS7248NQSm5J6xLvn
 title: Intellectual Fashion
 href: https://lesswrong.com/tag/intellectual-fashion
+slug: intellectual-fashion
 type: tag
 tags:
   - LessWrong

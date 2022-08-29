@@ -2,6 +2,7 @@
 _id: zv7v2ziqexSn5iS9v
 title: Group Rationality
 href: https://lesswrong.com/tag/group-rationality
+slug: group-rationality
 type: tag
 tags:
   - LessWrong

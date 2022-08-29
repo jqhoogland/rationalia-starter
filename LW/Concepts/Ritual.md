@@ -2,6 +2,7 @@
 _id: hXTqT62YDTTiqJfxG
 title: Ritual
 href: https://lesswrong.com/tag/ritual
+slug: ritual
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: KDpqtN3MxHSmD4vcB
 title: Art
 href: https://lesswrong.com/tag/art
+slug: art
 type: tag
 tags:
   - LessWrong

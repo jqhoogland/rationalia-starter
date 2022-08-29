@@ -2,6 +2,7 @@
 _id: Ximq2Bqv2B3TZ27eD
 title: Missing Moods
 href: https://lesswrong.com/tag/missing-moods
+slug: missing-moods
 type: tag
 tags:
   - LessWrong

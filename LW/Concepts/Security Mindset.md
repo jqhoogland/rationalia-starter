@@ -2,6 +2,7 @@
 _id: m2DsR4r4HRSaLSPW3
 title: Security Mindset
 href: https://lesswrong.com/tag/security-mindset
+slug: security-mindset
 type: tag
 tags:
   - LessWrong

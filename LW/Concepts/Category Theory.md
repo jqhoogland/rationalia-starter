@@ -2,6 +2,7 @@
 _id: NXn3MSft8kzmMJbeg
 title: Category Theory
 href: https://lesswrong.com/tag/category-theory
+slug: category-theory
 type: tag
 tags:
   - LessWrong

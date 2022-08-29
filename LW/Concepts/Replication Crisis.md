@@ -2,6 +2,7 @@
 _id: vg4LDxjdwHLotCm8w
 title: Replication Crisis
 href: https://lesswrong.com/tag/replication-crisis
+slug: replication-crisis
 type: tag
 tags:
   - LessWrong

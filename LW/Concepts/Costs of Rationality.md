@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0dd
 title: Costs of Rationality
 href: https://lesswrong.com/tag/costs-of-rationality
+slug: costs-of-rationality
 type: tag
 tags:
   - LessWrong

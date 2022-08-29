@@ -2,6 +2,7 @@
 _id: ookMdjJQMopfLG3wZ
 title: Intelligence Amplification
 href: https://lesswrong.com/tag/intelligence-amplification
+slug: intelligence-amplification
 type: tag
 tags:
   - LessWrong

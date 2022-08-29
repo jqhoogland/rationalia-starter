@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb253
 title: Luminosity
 href: https://lesswrong.com/tag/luminosity
+slug: luminosity
 type: tag
 tags:
   - LessWrong

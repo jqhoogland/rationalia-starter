@@ -2,6 +2,7 @@
 _id: FJ3MGb684F88BoN2o
 title: Formal Proof
 href: https://lesswrong.com/tag/formal-proof
+slug: formal-proof
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: Zz3HWyByyKF64Sfns
 title: The SF Bay Area
 href: https://lesswrong.com/tag/the-sf-bay-area
+slug: the-sf-bay-area
 type: tag
 tags:
   - LessWrong

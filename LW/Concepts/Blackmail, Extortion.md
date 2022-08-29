@@ -2,6 +2,7 @@
 _id: 2q2cK4FdnSeohTEaJ
 title: Blackmail / Extortion
 href: https://lesswrong.com/tag/blackmail-extortion
+slug: blackmail-extortion
 type: tag
 tags:
   - LessWrong

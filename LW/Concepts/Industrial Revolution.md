@@ -2,6 +2,7 @@
 _id: HkiwLtMRLxpBa6zs5
 title: Industrial Revolution
 href: https://lesswrong.com/tag/industrial-revolution
+slug: industrial-revolution
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0f1
 title: Least Convenient Possible World
 href: https://lesswrong.com/tag/least-convenient-possible-world
+slug: least-convenient-possible-world
 type: tag
 tags:
   - LessWrong

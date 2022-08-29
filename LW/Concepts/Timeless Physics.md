@@ -2,6 +2,7 @@
 _id: xjy2ZYACvYQBPJdix
 title: Timeless Physics
 href: https://lesswrong.com/tag/timeless-physics
+slug: timeless-physics
 type: tag
 tags:
   - LessWrong

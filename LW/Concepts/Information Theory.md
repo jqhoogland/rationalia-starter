@@ -2,6 +2,7 @@
 _id: DCN2zNscbMZp5aatL
 title: Information Theory
 href: https://lesswrong.com/tag/information-theory
+slug: information-theory
 type: tag
 tags:
   - LessWrong

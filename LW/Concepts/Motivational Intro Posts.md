@@ -2,6 +2,7 @@
 _id: 9DmA84e4ZvYoYu6q8
 title: Motivational Intro Posts
 href: https://lesswrong.com/tag/motivational-intro-posts
+slug: motivational-intro-posts
 type: tag
 tags:
   - LessWrong

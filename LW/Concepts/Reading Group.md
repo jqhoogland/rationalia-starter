@@ -2,6 +2,7 @@
 _id: tdt83ChxnEgwwKxi6
 title: Reading Group
 href: https://lesswrong.com/tag/reading-group
+slug: reading-group
 type: tag
 tags:
   - LessWrong

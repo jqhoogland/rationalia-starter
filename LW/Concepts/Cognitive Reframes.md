@@ -2,6 +2,7 @@
 _id: bJBJLxha2xjL4yZte
 title: Cognitive Reframes
 href: https://lesswrong.com/tag/cognitive-reframes
+slug: cognitive-reframes
 type: tag
 tags:
   - LessWrong

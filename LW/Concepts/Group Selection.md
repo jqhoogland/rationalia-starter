@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb170
 title: Group Selection
 href: https://lesswrong.com/tag/group-selection
+slug: group-selection
 type: tag
 tags:
   - LessWrong

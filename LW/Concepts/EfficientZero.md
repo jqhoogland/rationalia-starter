@@ -2,6 +2,7 @@
 _id: LkShkiJwNL2kBbWbM
 title: EfficientZero
 href: https://lesswrong.com/tag/efficientzero
+slug: efficientzero
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: nwcnHxrxcgnwJ878t
 title: Luck
 href: https://lesswrong.com/tag/luck
+slug: luck
 type: tag
 tags:
   - LessWrong

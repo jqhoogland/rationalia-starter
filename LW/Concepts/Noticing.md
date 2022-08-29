@@ -2,6 +2,7 @@
 _id: 5gcpKG2XEAZGj5DEf
 title: Noticing
 href: https://lesswrong.com/tag/noticing
+slug: noticing
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1e8
 title: No Safe Defense
 href: https://lesswrong.com/tag/no-safe-defense
+slug: no-safe-defense
 type: tag
 tags:
   - LessWrong

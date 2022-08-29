@@ -2,6 +2,7 @@
 _id: 9YFoDPFwMoWthzgkY
 title: Pitfalls of Rationality
 href: https://lesswrong.com/tag/pitfalls-of-rationality
+slug: pitfalls-of-rationality
 type: tag
 tags:
   - LessWrong

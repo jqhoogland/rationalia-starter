@@ -2,6 +2,7 @@
 _id: fpEBgFE7fgpxTm9BF
 title: Machine Learning  (ML)
 href: https://lesswrong.com/tag/machine-learning-ml
+slug: machine-learning-ml
 type: tag
 tags:
   - LessWrong

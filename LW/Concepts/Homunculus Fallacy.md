@@ -2,6 +2,7 @@
 _id: NzpKMYopbkgEPN486
 title: Homunculus Fallacy
 href: https://lesswrong.com/tag/homunculus-fallacy
+slug: homunculus-fallacy
 type: tag
 tags:
   - LessWrong

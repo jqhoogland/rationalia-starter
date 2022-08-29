@@ -2,6 +2,7 @@
 _id: fF9GEdWXKJ3z73TmB
 title: Scholarship & Learning
 href: https://lesswrong.com/tag/scholarship-and-learning
+slug: scholarship-and-learning
 type: tag
 tags:
   - LessWrong

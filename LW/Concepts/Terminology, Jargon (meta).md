@@ -2,6 +2,7 @@
 _id: p8nXWqwPH7mPSZf6p
 title: Terminology / Jargon (meta)
 href: https://lesswrong.com/tag/terminology-jargon-meta
+slug: terminology-jargon-meta
 type: tag
 tags:
   - LessWrong

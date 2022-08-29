@@ -2,6 +2,7 @@
 _id: AKvmQFvDjxJNetTuk
 title: Scaling Laws
 href: https://lesswrong.com/tag/scaling-laws
+slug: scaling-laws
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2a5
 title: Event Horizon Thesis
 href: https://lesswrong.com/tag/event-horizon-thesis
+slug: event-horizon-thesis
 type: tag
 tags:
   - LessWrong

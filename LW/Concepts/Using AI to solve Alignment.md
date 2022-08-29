@@ -2,6 +2,7 @@
 _id: c42eTtBCXyJmtpqwZ
 title: Using AI to solve Alignment
 href: https://lesswrong.com/tag/using-ai-to-solve-alignment
+slug: using-ai-to-solve-alignment
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: LSruxwjPrufsD8swY
 title: Fashion
 href: https://lesswrong.com/tag/fashion
+slug: fashion
 type: tag
 tags:
   - LessWrong

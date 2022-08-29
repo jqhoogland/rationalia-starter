@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0e0
 title: Eliezer Yudkowsky
 href: https://lesswrong.com/tag/eliezer-yudkowsky
+slug: eliezer-yudkowsky
 type: tag
 tags:
   - LessWrong
@@ -20,7 +21,7 @@ He has published several articles, including:
 - ["Creating Friendly AI"(2001)](http://intelligence.org/files/CFAI.pdf): One of the first articles to address the challenges in designing the features and cognitive architecture required to produce a benevolent — "Friendly" — Artificial Intelligence . It also gives one of the first precise definitions of terms such as Friendly AI and [[Seed AI]].
 - ["Levels of Organization in General Intelligence" (2002)](http://intelligence.org/files/LOGI.pdf): Analyzes [AGI](https://wiki.lesswrong.com/wiki/AGI) through its decomposition in five subsystems, successive levels of functional organization: Code, sensory modalities, concepts, thoughts, and deliberation. Also discusses some advantages artificial minds would have, such as the possibility of [[Recursive Self-Improvement|Recursive self-improvement]].
 - ["Coherent Extrapolated Volition"(2004)](http://intelligence.org/files/CEV.html): Presents the difficulties and possible solutions for incorporating friendliness into an AGI. It argues that making an AGI simply do what we tell it to could be dangerous, since we don't know what we want. Instead we should program the AGI to do what we want, predicting what the vectorial sum of an idealized version of what humanity would want, *"if we knew more, thought faster, were more the people we wished we were, had grown up farther together”*. He calls this the coherent extrapolated volition of humankind, or [CEV](https://wiki.lesswrong.com/wiki/CEV).
-- ["Timeless Decision Theory" (2010)](http://intelligence.org/files/TDT.pdf): Describes [[Timeless Decision Theory|Timeless decision theory]], *”an extension of causal decision networks that compactly represents uncertainty about correlated computational processes and represents the decision maker as such a process”*. It solves many problems which [[Causal Decision Theory]] or [[Evidential Decision Theory]] don't have a plausible solution: [[Newcomb's Problem|Newcomb's problem]], [[Smoking Lesion|Solomon's Problems]] and [[Prisoner's Dilemma|Prisoner's dilemma]].
+- ["Timeless Decision Theory" (2010)](http://intelligence.org/files/TDT.pdf): Describes [[Timeless Decision Theory|Timeless decision theory]], *”an extension of causal decision networks that compactly represents uncertainty about correlated computational processes and represents the decision maker as such a process”*. It solves many problems which [[Causal Decision Theory]] or [[Evidential Decision Theory]] don't have a plausible solution: [[Newcomb's Problem|Newcomb's problem]], [[LW/Concepts/Smoking Lesion|Solomon's Problems]] and [[Prisoner's Dilemma|Prisoner's dilemma]].
 - ["Complex Value Systems are Required to Realize Valuable Futures" (2011)](http://intelligence.org/files/ComplexValues.pdf): Discusses the [[Complexity of Value|Complexity of value]]: we can’t come up with a simple rule or description that sums up all human values. It analyzes how this problem makes it difficult to build a valuable future.
 
 ## Links

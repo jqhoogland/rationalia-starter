@@ -2,6 +2,7 @@
 _id: YWzByWvtXunfrBu5b
 title: GPT
 href: https://lesswrong.com/tag/gpt
+slug: gpt
 type: tag
 tags:
   - LessWrong

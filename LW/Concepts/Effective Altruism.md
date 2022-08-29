@@ -2,6 +2,7 @@
 _id: qAvbtzdG2A2RBn7in
 title: Effective Altruism
 href: https://lesswrong.com/tag/effective-altruism
+slug: effective-altruism
 type: tag
 tags:
   - LessWrong

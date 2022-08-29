@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb23a
 title: Logical Rudeness
 href: https://lesswrong.com/tag/logical-rudeness
+slug: logical-rudeness
 type: tag
 tags:
   - LessWrong

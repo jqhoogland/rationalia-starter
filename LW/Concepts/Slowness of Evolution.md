@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb16c
 title: Slowness of Evolution
 href: https://lesswrong.com/tag/slowness-of-evolution
+slug: slowness-of-evolution
 type: tag
 tags:
   - LessWrong

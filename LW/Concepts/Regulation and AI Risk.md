@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2c7
 title: Regulation and AI Risk
 href: https://lesswrong.com/tag/regulation-and-ai-risk
+slug: regulation-and-ai-risk
 type: tag
 tags:
   - LessWrong

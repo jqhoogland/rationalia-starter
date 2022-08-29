@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb117
 title: Tsuyoku Naritai
 href: https://lesswrong.com/tag/tsuyoku-naritai
+slug: tsuyoku-naritai
 type: tag
 tags:
   - LessWrong

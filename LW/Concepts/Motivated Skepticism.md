@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb145
 title: Motivated Skepticism
 href: https://lesswrong.com/tag/motivated-skepticism
+slug: motivated-skepticism
 type: tag
 tags:
   - LessWrong

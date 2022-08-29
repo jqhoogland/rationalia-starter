@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb177
 title: Lawful Intelligence
 href: https://lesswrong.com/tag/lawful-intelligence
+slug: lawful-intelligence
 type: tag
 tags:
   - LessWrong

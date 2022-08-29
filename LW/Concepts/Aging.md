@@ -2,6 +2,7 @@
 _id: t7t9nW6BtJhfGNSR6
 title: Aging
 href: https://lesswrong.com/tag/aging
+slug: aging
 type: tag
 tags:
   - LessWrong

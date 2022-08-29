@@ -2,6 +2,7 @@
 _id: hEKzJqK2NWcoZmcwz
 title: Welcome Threads
 href: https://lesswrong.com/tag/welcome-threads
+slug: welcome-threads
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: g97MMk83r5HofZLBe
 title: The Pointers Problem
 href: https://lesswrong.com/tag/the-pointers-problem
+slug: the-pointers-problem
 type: tag
 tags:
   - LessWrong

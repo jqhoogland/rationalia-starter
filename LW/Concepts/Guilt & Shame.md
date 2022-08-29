@@ -2,6 +2,7 @@
 _id: 5ueqn4r7N3WvaLfGy
 title: Guilt & Shame
 href: https://lesswrong.com/tag/guilt-and-shame
+slug: guilt-and-shame
 type: tag
 tags:
   - LessWrong

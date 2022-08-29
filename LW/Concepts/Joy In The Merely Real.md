@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb203
 title: Joy In The Merely Real
 href: https://lesswrong.com/tag/joy-in-the-merely-real
+slug: joy-in-the-merely-real
 type: tag
 tags:
   - LessWrong

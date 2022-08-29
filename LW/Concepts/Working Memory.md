@@ -2,6 +2,7 @@
 _id: 5d63AWNjtFyHprX2k
 title: Working Memory
 href: https://lesswrong.com/tag/working-memory
+slug: working-memory
 type: tag
 tags:
   - LessWrong

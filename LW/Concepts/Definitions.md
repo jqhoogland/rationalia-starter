@@ -2,6 +2,7 @@
 _id: aa3Qg7Qrp9LM7QMaz
 title: Definitions
 href: https://lesswrong.com/tag/definitions
+slug: definitions
 type: tag
 tags:
   - LessWrong

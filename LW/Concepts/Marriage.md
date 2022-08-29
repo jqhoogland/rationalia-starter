@@ -2,6 +2,7 @@
 _id: 42JnNJ8fqfdCSqdmM
 title: Marriage
 href: https://lesswrong.com/tag/marriage
+slug: marriage
 type: tag
 tags:
   - LessWrong

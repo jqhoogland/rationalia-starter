@@ -2,6 +2,7 @@
 _id: dHNS6r6LD6s2hEvZz
 title: AI Services (CAIS)
 href: https://lesswrong.com/tag/ai-services-cais
+slug: ai-services-cais
 type: tag
 tags:
   - LessWrong

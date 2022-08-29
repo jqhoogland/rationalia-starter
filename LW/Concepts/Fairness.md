@@ -2,6 +2,7 @@
 _id: 5A5ZGTQovxbay6fpr
 title: Fairness
 href: https://lesswrong.com/tag/fairness
+slug: fairness
 type: tag
 tags:
   - LessWrong

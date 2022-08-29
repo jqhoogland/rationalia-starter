@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb129
 title: Mind-Killer
 href: https://lesswrong.com/tag/mind-killer
+slug: mind-killer
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: wzgcQCrwKfETcBpR9
 title: Disagreement
 href: https://lesswrong.com/tag/disagreement
+slug: disagreement
 type: tag
 tags:
   - LessWrong

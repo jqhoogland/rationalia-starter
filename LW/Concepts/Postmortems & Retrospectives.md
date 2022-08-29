@@ -2,6 +2,7 @@
 _id: zcvsZQWJBFK6SxK4K
 title: Postmortems & Retrospectives
 href: https://lesswrong.com/tag/postmortems-and-retrospectives
+slug: postmortems-and-retrospectives
 type: tag
 tags:
   - LessWrong

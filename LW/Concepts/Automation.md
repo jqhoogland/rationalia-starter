@@ -2,6 +2,7 @@
 _id: 5Gi4NzgKtzWja8GHh
 title: Automation
 href: https://lesswrong.com/tag/automation
+slug: automation
 type: tag
 tags:
   - LessWrong

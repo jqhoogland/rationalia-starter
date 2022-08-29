@@ -2,6 +2,7 @@
 _id: qDvaStt6c3KuqLr2P
 title: AI Safety Camp
 href: https://lesswrong.com/tag/ai-safety-camp
+slug: ai-safety-camp
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: AJDHQ4mFnsNbBzPhT
 title: Gödelian Logic
 href: https://lesswrong.com/tag/goedelian-logic
+slug: goedelian-logic
 type: tag
 tags:
   - LessWrong

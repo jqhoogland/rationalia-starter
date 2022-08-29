@@ -2,6 +2,7 @@
 _id: Q6hq54EXkrw8LQQE7
 title: Gears-Level
 href: https://lesswrong.com/tag/gears-level
+slug: gears-level
 type: tag
 tags:
   - LessWrong

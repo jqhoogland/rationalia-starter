@@ -2,6 +2,7 @@
 _id: 2oWPnnnzMbiAxWfbs
 title: Checklists
 href: https://lesswrong.com/tag/checklists
+slug: checklists
 type: tag
 tags:
   - LessWrong

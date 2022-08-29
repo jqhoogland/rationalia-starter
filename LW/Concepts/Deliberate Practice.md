@@ -2,6 +2,7 @@
 _id: ux2x9RrJsuykQxT79
 title: Deliberate Practice
 href: https://lesswrong.com/tag/deliberate-practice
+slug: deliberate-practice
 type: tag
 tags:
   - LessWrong

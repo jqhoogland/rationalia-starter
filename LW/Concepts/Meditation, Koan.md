@@ -2,6 +2,7 @@
 _id: dyoihEbKvGPENjJZ7
 title: Meditation / Koan
 href: https://lesswrong.com/tag/meditation-koan
+slug: meditation-koan
 type: tag
 tags:
   - LessWrong

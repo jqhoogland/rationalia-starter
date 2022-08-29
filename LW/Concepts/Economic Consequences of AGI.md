@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2ac
 title: Economic Consequences of AGI
 href: https://lesswrong.com/tag/economic-consequences-of-agi
+slug: economic-consequences-of-agi
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5hpGj9nDLgokfghvR
 title: Confirmation Bias
 href: https://lesswrong.com/tag/confirmation-bias
+slug: confirmation-bias
 type: tag
 tags:
   - LessWrong

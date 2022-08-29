@@ -2,6 +2,7 @@
 _id: E4TozA6yTzee5oPMa
 title: Meetups (specific examples)
 href: https://lesswrong.com/tag/meetups-specific-examples
+slug: meetups-specific-examples
 type: tag
 tags:
   - LessWrong

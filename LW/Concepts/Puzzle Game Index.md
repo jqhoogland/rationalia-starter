@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb215
 title: Puzzle Game Index
 href: https://lesswrong.com/tag/puzzle-game-index
+slug: puzzle-game-index
 type: tag
 tags:
   - LessWrong

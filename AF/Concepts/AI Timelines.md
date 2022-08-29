@@ -2,6 +2,7 @@
 _id: zHjC29kkPmsdo7WTr
 title: AI Timelines
 href: https://lesswrong.com/tag/ai-timelines
+slug: ai-timelines
 type: tag
 tags:
   - LessWrong

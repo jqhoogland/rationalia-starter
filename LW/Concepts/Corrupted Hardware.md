@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb250
 title: Corrupted Hardware
 href: https://lesswrong.com/tag/corrupted-hardware
+slug: corrupted-hardware
 type: tag
 tags:
   - LessWrong

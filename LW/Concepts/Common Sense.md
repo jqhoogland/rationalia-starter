@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb33d
 title: Common Sense
 href: https://lesswrong.com/tag/common-sense
+slug: common-sense
 type: tag
 tags:
   - LessWrong

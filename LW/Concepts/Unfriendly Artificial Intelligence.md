@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb119
 title: Unfriendly Artificial Intelligence
 href: https://lesswrong.com/tag/unfriendly-artificial-intelligence
+slug: unfriendly-artificial-intelligence
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: fuZZ64fNz24BLrXnY
 title: Robotics
 href: https://lesswrong.com/tag/robotics
+slug: robotics
 type: tag
 tags:
   - LessWrong

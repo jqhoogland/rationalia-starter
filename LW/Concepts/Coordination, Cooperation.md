@@ -2,6 +2,7 @@
 _id: chuP2QqQycjD8qakL
 title: Coordination / Cooperation
 href: https://lesswrong.com/tag/coordination-cooperation
+slug: coordination-cooperation
 type: tag
 tags:
   - LessWrong

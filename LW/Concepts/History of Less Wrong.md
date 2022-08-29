@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb331
 title: History of Less Wrong
 href: https://lesswrong.com/tag/history-of-less-wrong
+slug: history-of-less-wrong
 type: tag
 tags:
   - LessWrong

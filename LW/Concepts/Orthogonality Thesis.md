@@ -2,6 +2,7 @@
 _id: BXL4riEJvJJHoydjG
 title: Orthogonality Thesis
 href: https://lesswrong.com/tag/orthogonality-thesis
+slug: orthogonality-thesis
 type: tag
 tags:
   - LessWrong

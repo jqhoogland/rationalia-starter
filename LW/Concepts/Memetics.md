@@ -2,6 +2,7 @@
 _id: T4GgauaEfp6dHsR5P
 title: Memetics
 href: https://lesswrong.com/tag/memetics
+slug: memetics
 type: tag
 tags:
   - LessWrong

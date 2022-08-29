@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb297
 title: Superintelligence
 href: https://lesswrong.com/tag/superintelligence
+slug: superintelligence
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: irYLXtT9hkPXoZqhH
 title: Growth Stories
 href: https://lesswrong.com/tag/growth-stories
+slug: growth-stories
 type: tag
 tags:
   - LessWrong

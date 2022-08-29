@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b7
 title: How An Algorithm Feels
 href: https://lesswrong.com/tag/how-an-algorithm-feels
+slug: how-an-algorithm-feels
 type: tag
 tags:
   - LessWrong

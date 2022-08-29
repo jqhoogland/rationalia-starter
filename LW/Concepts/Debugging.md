@@ -2,6 +2,7 @@
 _id: 5kwicZiaCfYrXjAwT
 title: Debugging
 href: https://lesswrong.com/tag/debugging
+slug: debugging
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: dPPATLhRmhdJtJM2t
 title: Decision Theory
 href: https://lesswrong.com/tag/decision-theory
+slug: decision-theory
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1d4
 title: Michael Anissimov
 href: https://lesswrong.com/tag/michael-anissimov
+slug: michael-anissimov
 type: tag
 tags:
   - LessWrong

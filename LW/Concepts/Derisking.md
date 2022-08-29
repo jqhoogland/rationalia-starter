@@ -2,6 +2,7 @@
 _id: syeEaqfH9buYEbanF
 title: Derisking
 href: https://lesswrong.com/tag/derisking
+slug: derisking
 type: tag
 tags:
   - LessWrong

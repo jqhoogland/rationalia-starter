@@ -2,6 +2,7 @@
 _id: wBoHTJs9iQzczNtW3
 title: Robust Agents
 href: https://lesswrong.com/tag/robust-agents
+slug: robust-agents
 type: tag
 tags:
   - LessWrong

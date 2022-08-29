@@ -2,6 +2,7 @@
 _id: tZsfB6WfpRy6kFb6q
 title: Conservation of Expected Evidence
 href: https://lesswrong.com/tag/conservation-of-expected-evidence
+slug: conservation-of-expected-evidence
 type: tag
 tags:
   - LessWrong

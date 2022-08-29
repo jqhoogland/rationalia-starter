@@ -2,6 +2,7 @@
 _id: RE6h98Ziwcfh4EP9T
 title: Steelmanning
 href: https://lesswrong.com/tag/steelmanning
+slug: steelmanning
 type: tag
 tags:
   - LessWrong

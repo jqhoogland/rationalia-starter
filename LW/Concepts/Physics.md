@@ -2,6 +2,7 @@
 _id: csMv9MvvjYJyeHqoo
 title: Physics
 href: https://lesswrong.com/tag/physics
+slug: physics
 type: tag
 tags:
   - LessWrong

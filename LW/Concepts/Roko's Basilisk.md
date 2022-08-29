@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb326
 title: Roko's Basilisk
 href: https://lesswrong.com/tag/rokos-basilisk
+slug: rokos-basilisk
 type: tag
 tags:
   - LessWrong

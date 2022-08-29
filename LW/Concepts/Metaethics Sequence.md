@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1bb
 title: Metaethics Sequence
 href: https://lesswrong.com/tag/metaethics-sequence
+slug: metaethics-sequence
 type: tag
 tags:
   - LessWrong

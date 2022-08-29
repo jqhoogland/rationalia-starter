@@ -2,6 +2,7 @@
 _id: mxSBcaTrakvCkgLzL
 title: Mind Crime
 href: https://lesswrong.com/tag/mind-crime
+slug: mind-crime
 type: tag
 tags:
   - LessWrong

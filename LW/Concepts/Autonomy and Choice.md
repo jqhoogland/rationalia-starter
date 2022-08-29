@@ -2,6 +2,7 @@
 _id: MhQk9tRaJgYM4o6iD
 title: Autonomy and Choice
 href: https://lesswrong.com/tag/autonomy-and-choice
+slug: autonomy-and-choice
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb186
 title: Hedonism
 href: https://lesswrong.com/tag/hedonism
+slug: hedonism
 type: tag
 tags:
   - LessWrong

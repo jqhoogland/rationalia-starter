@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2a7
 title: Fai-Complete
 href: https://lesswrong.com/tag/fai-complete
+slug: fai-complete
 type: tag
 tags:
   - LessWrong

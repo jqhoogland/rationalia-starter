@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2ea
 title: Highly Advanced Epistemology 101 For Beginners
 href: https://lesswrong.com/tag/highly-advanced-epistemology-101-for-beginners
+slug: highly-advanced-epistemology-101-for-beginners
 type: tag
 tags:
   - LessWrong

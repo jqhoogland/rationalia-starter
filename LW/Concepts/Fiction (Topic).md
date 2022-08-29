@@ -2,6 +2,7 @@
 _id: GBpwq8cWvaeRoE9X5
 title: Fiction (Topic)
 href: https://lesswrong.com/tag/fiction-topic
+slug: fiction-topic
 type: tag
 tags:
   - LessWrong

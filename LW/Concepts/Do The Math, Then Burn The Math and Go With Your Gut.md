@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb366
 title: Do The Math, Then Burn The Math and Go With Your Gut
 href: https://lesswrong.com/tag/do-the-math-then-burn-the-math-and-go-with-your-gut
+slug: do-the-math-then-burn-the-math-and-go-with-your-gut
 type: tag
 tags:
   - LessWrong

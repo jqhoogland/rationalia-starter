@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb205
 title: Zombies (Sequence)
 href: https://lesswrong.com/tag/zombies-sequence
+slug: zombies-sequence
 type: tag
 tags:
   - LessWrong

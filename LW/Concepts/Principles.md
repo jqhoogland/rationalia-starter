@@ -2,6 +2,7 @@
 _id: vcvfjGJwRmFbMMS3d
 title: Principles
 href: https://lesswrong.com/tag/principles
+slug: principles
 type: tag
 tags:
   - LessWrong

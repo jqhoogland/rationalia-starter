@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1ea
 title: Policy Debates Should Not Appear One-Sided
 href: https://lesswrong.com/tag/policy-debates-should-not-appear-one-sided
+slug: policy-debates-should-not-appear-one-sided
 type: tag
 tags:
   - LessWrong

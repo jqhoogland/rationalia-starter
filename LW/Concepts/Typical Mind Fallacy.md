@@ -2,6 +2,7 @@
 _id: GPhMyXoaHBLyzibxB
 title: Typical Mind Fallacy
 href: https://lesswrong.com/tag/typical-mind-fallacy
+slug: typical-mind-fallacy
 type: tag
 tags:
   - LessWrong

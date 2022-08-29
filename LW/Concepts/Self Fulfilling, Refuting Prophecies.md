@@ -2,6 +2,7 @@
 _id: YyGDbZhGtws5hEPda
 title: Self Fulfilling/Refuting Prophecies
 href: https://lesswrong.com/tag/self-fulfilling-refuting-prophecies
+slug: self-fulfilling-refuting-prophecies
 type: tag
 tags:
   - LessWrong

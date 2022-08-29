@@ -2,6 +2,7 @@
 _id: T57Qd9J3AfxmwhQtY
 title: Meetups & Local Communities (topic)
 href: https://lesswrong.com/tag/meetups-and-local-communities-topic
+slug: meetups-and-local-communities-topic
 type: tag
 tags:
   - LessWrong

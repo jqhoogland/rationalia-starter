@@ -2,6 +2,7 @@
 _id: 4fxcbJ8xSv4SAYkkx
 title: Bayesianism
 href: https://lesswrong.com/tag/bayesianism
+slug: bayesianism
 type: tag
 tags:
   - LessWrong

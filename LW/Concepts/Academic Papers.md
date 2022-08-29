@@ -2,6 +2,7 @@
 _id: ksdiAMKfgSyEeKMo6
 title: Academic Papers
 href: https://lesswrong.com/tag/academic-papers
+slug: academic-papers
 type: tag
 tags:
   - LessWrong

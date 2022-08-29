@@ -2,6 +2,7 @@
 _id: NrvXXL3iGjjxu5B7d
 title: Machine Intelligence Research Institute (MIRI)
 href: https://lesswrong.com/tag/machine-intelligence-research-institute-miri
+slug: machine-intelligence-research-institute-miri
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb161
 title: Rational Evidence
 href: https://lesswrong.com/tag/rational-evidence
+slug: rational-evidence
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb179
 title: In-Group Bias
 href: https://lesswrong.com/tag/in-group-bias
+slug: in-group-bias
 type: tag
 tags:
   - LessWrong

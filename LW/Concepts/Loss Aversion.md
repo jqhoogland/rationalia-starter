@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1c8
 title: Loss Aversion
 href: https://lesswrong.com/tag/loss-aversion
+slug: loss-aversion
 type: tag
 tags:
   - LessWrong

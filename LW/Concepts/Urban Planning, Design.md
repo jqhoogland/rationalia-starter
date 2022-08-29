@@ -2,6 +2,7 @@
 _id: b9FzogZE4pAGfo5bY
 title: Urban Planning / Design
 href: https://lesswrong.com/tag/urban-planning-design
+slug: urban-planning-design
 type: tag
 tags:
   - LessWrong

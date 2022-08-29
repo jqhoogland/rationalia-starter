@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb28c
 title: Brain-Computer Interfaces
 href: https://lesswrong.com/tag/brain-computer-interfaces
+slug: brain-computer-interfaces
 type: tag
 tags:
   - LessWrong

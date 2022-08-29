@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb248
 title: Valid Argument
 href: https://lesswrong.com/tag/valid-argument
+slug: valid-argument
 type: tag
 tags:
   - LessWrong

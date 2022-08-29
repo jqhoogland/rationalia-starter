@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0d6
 title: Cached Thoughts
 href: https://lesswrong.com/tag/cached-thoughts
+slug: cached-thoughts
 type: tag
 tags:
   - LessWrong

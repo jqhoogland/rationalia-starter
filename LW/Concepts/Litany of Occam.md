@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb361
 title: Litany of Occam
 href: https://lesswrong.com/tag/litany-of-occam
+slug: litany-of-occam
 type: tag
 tags:
   - LessWrong

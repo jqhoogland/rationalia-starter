@@ -2,6 +2,7 @@
 _id: bkgy24HML6nLSLqcj
 title: Stagnation
 href: https://lesswrong.com/tag/stagnation
+slug: stagnation
 type: tag
 tags:
   - LessWrong

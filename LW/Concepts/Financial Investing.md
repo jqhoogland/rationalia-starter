@@ -2,6 +2,7 @@
 _id: jgcAJnksReZRuvgzp
 title: Financial Investing
 href: https://lesswrong.com/tag/financial-investing
+slug: financial-investing
 type: tag
 tags:
   - LessWrong

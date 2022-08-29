@@ -2,6 +2,7 @@
 _id: YkPxg2tFDQNdaEZDJ
 title: AI Risk Concrete Stories
 href: https://lesswrong.com/tag/ai-risk-concrete-stories
+slug: ai-risk-concrete-stories
 type: tag
 tags:
   - LessWrong

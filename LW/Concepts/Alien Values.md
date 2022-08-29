@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1a8
 title: Alien Values
 href: https://lesswrong.com/tag/alien-values
+slug: alien-values
 type: tag
 tags:
   - LessWrong

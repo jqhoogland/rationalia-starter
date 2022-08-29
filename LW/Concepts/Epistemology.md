@@ -2,6 +2,7 @@
 _id: xgpBASEThXPuKRhbS
 title: Epistemology
 href: https://lesswrong.com/tag/epistemology
+slug: epistemology
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2bd
 title: Computing Overhang
 href: https://lesswrong.com/tag/computing-overhang
+slug: computing-overhang
 type: tag
 tags:
   - LessWrong

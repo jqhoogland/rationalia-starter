@@ -2,6 +2,7 @@
 _id: E8PHMuf7tsr8teXAe
 title: Betting
 href: https://lesswrong.com/tag/betting
+slug: betting
 type: tag
 tags:
   - LessWrong

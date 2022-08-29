@@ -2,6 +2,7 @@
 _id: EY623WWCXKTvN3kmj
 title: Factored Cognition
 href: https://lesswrong.com/tag/factored-cognition
+slug: factored-cognition
 type: tag
 tags:
   - LessWrong

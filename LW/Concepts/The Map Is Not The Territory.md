@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb111
 title: The Map Is Not The Territory
 href: https://lesswrong.com/tag/the-map-is-not-the-territory
+slug: the-map-is-not-the-territory
 type: tag
 tags:
   - LessWrong

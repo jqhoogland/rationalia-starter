@@ -2,6 +2,7 @@
 _id: CztjQPSTuaQcfbyh8
 title: Singularity
 href: https://lesswrong.com/tag/singularity
+slug: singularity
 type: tag
 tags:
   - LessWrong

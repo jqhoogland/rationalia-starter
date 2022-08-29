@@ -2,6 +2,7 @@
 _id: xcBbcAJrvTEkxikW9
 title: Bucket Errors
 href: https://lesswrong.com/tag/bucket-errors
+slug: bucket-errors
 type: tag
 tags:
   - LessWrong

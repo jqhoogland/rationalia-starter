@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb22d
 title: Absent-Minded Driver
 href: https://lesswrong.com/tag/absent-minded-driver
+slug: absent-minded-driver
 type: tag
 tags:
   - LessWrong
@@ -23,8 +24,8 @@ synchedAt: '2022-08-29T11:09:50.564Z'
 - [[Decision Theory|Decision theory]]
 - [[Newcomb's Problem|Newcomb's problem]]
 - [[Counterfactual Mugging|Counterfactual mugging]]
-- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
-- [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
+- [[Parfit's hitchhiker]]
+- [[Smoking lesion]]
 - [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
 - [[Prisoner's Dilemma|Prisoner's dilemma]]
 - [[Pascal's Mugging|Pascal's mugging]]

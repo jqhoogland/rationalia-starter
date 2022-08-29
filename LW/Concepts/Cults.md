@@ -2,6 +2,7 @@
 _id: PHPHovzkfjyap9FiK
 title: Cults
 href: https://lesswrong.com/tag/cults
+slug: cults
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: DigEmY3RrF3XL5cwe
 title: Q&A (format)
 href: https://lesswrong.com/tag/q-and-a-format
+slug: q-and-a-format
 type: tag
 tags:
   - LessWrong

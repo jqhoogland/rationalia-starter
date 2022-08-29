@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb26e
 title: Interview Series On Risks From AI
 href: https://lesswrong.com/tag/interview-series-on-risks-from-ai
+slug: interview-series-on-risks-from-ai
 type: tag
 tags:
   - LessWrong

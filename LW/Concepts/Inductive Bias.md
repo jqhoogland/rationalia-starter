@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb149
 title: Inductive Bias
 href: https://lesswrong.com/tag/inductive-bias
+slug: inductive-bias
 type: tag
 tags:
   - LessWrong

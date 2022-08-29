@@ -2,6 +2,7 @@
 _id: NzSTgAtKwgivkfeYm
 title: Heroic Responsibility
 href: https://lesswrong.com/tag/heroic-responsibility
+slug: heroic-responsibility
 type: tag
 tags:
   - LessWrong

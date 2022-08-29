@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb197
 title: Utility
 href: https://lesswrong.com/tag/utility
+slug: utility
 type: tag
 tags:
   - LessWrong

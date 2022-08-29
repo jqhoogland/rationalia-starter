@@ -2,6 +2,7 @@
 _id: cq69M9ceLNA35ShTR
 title: Causality
 href: https://lesswrong.com/tag/causality
+slug: causality
 type: tag
 tags:
   - LessWrong

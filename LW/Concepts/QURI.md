@@ -2,6 +2,7 @@
 _id: FxNdAsrw8qvZkPaxN
 title: QURI
 href: https://lesswrong.com/tag/quri
+slug: quri
 type: tag
 tags:
   - LessWrong

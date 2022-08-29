@@ -2,6 +2,7 @@
 _id: RGPpwYoCHrPNB86TW
 title: Futarchy
 href: https://lesswrong.com/tag/futarchy
+slug: futarchy
 type: tag
 tags:
   - LessWrong

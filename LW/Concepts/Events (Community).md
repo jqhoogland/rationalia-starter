@@ -2,6 +2,7 @@
 _id: DQHWBcKeiLnyh9za9
 title: Events (Community)
 href: https://lesswrong.com/tag/events-community
+slug: events-community
 type: tag
 tags:
   - LessWrong

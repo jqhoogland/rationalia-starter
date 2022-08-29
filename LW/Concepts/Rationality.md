@@ -2,6 +2,7 @@
 _id: Ng8Gice9KNkncxqcj
 title: Rationality
 href: https://lesswrong.com/tag/rationality
+slug: rationality
 type: tag
 tags:
   - LessWrong

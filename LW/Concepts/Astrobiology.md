@@ -2,6 +2,7 @@
 _id: zhLB7AT83YC3HCtwk
 title: Astrobiology
 href: https://lesswrong.com/tag/astrobiology
+slug: astrobiology
 type: tag
 tags:
   - LessWrong

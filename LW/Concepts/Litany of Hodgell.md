@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb362
 title: Litany of Hodgell
 href: https://lesswrong.com/tag/litany-of-hodgell
+slug: litany-of-hodgell
 type: tag
 tags:
   - LessWrong

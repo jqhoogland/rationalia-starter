@@ -2,6 +2,7 @@
 _id: 5Whwix4cZ3p5otshm
 title: Habits
 href: https://lesswrong.com/tag/habits
+slug: habits
 type: tag
 tags:
   - LessWrong

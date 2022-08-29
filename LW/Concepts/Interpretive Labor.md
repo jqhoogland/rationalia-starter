@@ -2,6 +2,7 @@
 _id: cosxPiaS8EGMnbMYf
 title: Interpretive Labor
 href: https://lesswrong.com/tag/interpretive-labor
+slug: interpretive-labor
 type: tag
 tags:
   - LessWrong

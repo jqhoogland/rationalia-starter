@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb29c
 title: Gödel Machine
 href: https://lesswrong.com/tag/gödel-machine
+slug: gödel-machine
 type: tag
 tags:
   - LessWrong

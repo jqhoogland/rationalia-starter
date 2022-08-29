@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2e2
 title: Coherent Blended Volition
 href: https://lesswrong.com/tag/coherent-blended-volition
+slug: coherent-blended-volition
 type: tag
 tags:
   - LessWrong

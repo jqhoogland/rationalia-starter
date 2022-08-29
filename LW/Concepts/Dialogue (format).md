@@ -2,6 +2,7 @@
 _id: yXNtYNHJB54T3bGm3
 title: Dialogue (format)
 href: https://lesswrong.com/tag/dialogue-format
+slug: dialogue-format
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: ipJwbLxhR83ZksN6Z
 title: Mechanism Design
 href: https://lesswrong.com/tag/mechanism-design
+slug: mechanism-design
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: tPfh8oYyG8Wgkkg8X
 title: Journalism
 href: https://lesswrong.com/tag/journalism
+slug: journalism
 type: tag
 tags:
   - LessWrong

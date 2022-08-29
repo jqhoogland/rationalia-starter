@@ -2,6 +2,7 @@
 _id: 7ngr5dCMapYsuhst7
 title: Charter Schools
 href: https://lesswrong.com/tag/charter-schools
+slug: charter-schools
 type: tag
 tags:
   - LessWrong

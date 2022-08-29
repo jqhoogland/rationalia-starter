@@ -2,6 +2,7 @@
 _id: P64rmDCvTBAehmkoi
 title: Filtered Evidence
 href: https://lesswrong.com/tag/filtered-evidence
+slug: filtered-evidence
 type: tag
 tags:
   - LessWrong

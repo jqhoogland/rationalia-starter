@@ -2,6 +2,7 @@
 _id: FpHDkuYKMNHa2dbKR
 title: Brainstorming
 href: https://lesswrong.com/tag/brainstorming
+slug: brainstorming
 type: tag
 tags:
   - LessWrong

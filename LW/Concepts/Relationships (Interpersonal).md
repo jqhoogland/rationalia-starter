@@ -2,6 +2,7 @@
 _id: mip7tdAN87Jarkcew
 title: Relationships (Interpersonal)
 href: https://lesswrong.com/tag/relationships-interpersonal
+slug: relationships-interpersonal
 type: tag
 tags:
   - LessWrong

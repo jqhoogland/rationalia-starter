@@ -2,6 +2,7 @@
 _id: dGw7KEdcLFSvbJ7bM
 title: Meta-Humor
 href: https://lesswrong.com/tag/meta-humor
+slug: meta-humor
 type: tag
 tags:
   - LessWrong

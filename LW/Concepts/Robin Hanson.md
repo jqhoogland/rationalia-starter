@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb10d
 title: Robin Hanson
 href: https://lesswrong.com/tag/robin-hanson
+slug: robin-hanson
 type: tag
 tags:
   - LessWrong

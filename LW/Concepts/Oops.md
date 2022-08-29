@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f6
 title: Oops
 href: https://lesswrong.com/tag/oops
+slug: oops
 type: tag
 tags:
   - LessWrong

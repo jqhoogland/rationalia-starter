@@ -2,6 +2,7 @@
 _id: Cx4ACNdBaGALjhCJP
 title: PaLM
 href: https://lesswrong.com/tag/palm
+slug: palm
 type: tag
 tags:
   - LessWrong

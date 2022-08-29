@@ -2,6 +2,7 @@
 _id: 8byoqYZfdwHffYLZ6
 title: Newsletters
 href: https://lesswrong.com/tag/newsletters
+slug: newsletters
 type: tag
 tags:
   - LessWrong

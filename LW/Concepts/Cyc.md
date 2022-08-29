@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2bb
 title: Cyc
 href: https://lesswrong.com/tag/cyc
+slug: cyc
 type: tag
 tags:
   - LessWrong

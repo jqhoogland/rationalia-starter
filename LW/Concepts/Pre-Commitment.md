@@ -2,6 +2,7 @@
 _id: TBPFC5fwpkzLB87xJ
 title: Pre-Commitment
 href: https://lesswrong.com/tag/pre-commitment
+slug: pre-commitment
 type: tag
 tags:
   - LessWrong

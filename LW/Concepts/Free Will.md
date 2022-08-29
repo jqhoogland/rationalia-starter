@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b8
 title: Free Will
 href: https://lesswrong.com/tag/free-will
+slug: free-will
 type: tag
 tags:
   - LessWrong

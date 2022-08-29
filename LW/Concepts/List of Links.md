@@ -2,6 +2,7 @@
 _id: GQyPQcdEQF4zXhJBq
 title: List of Links
 href: https://lesswrong.com/tag/list-of-links
+slug: list-of-links
 type: tag
 tags:
   - LessWrong

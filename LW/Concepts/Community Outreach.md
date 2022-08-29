@@ -2,6 +2,7 @@
 _id: 7ow6EFpypbH4hzFuz
 title: Community Outreach
 href: https://lesswrong.com/tag/community-outreach
+slug: community-outreach
 type: tag
 tags:
   - LessWrong

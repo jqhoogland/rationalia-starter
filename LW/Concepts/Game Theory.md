@@ -2,6 +2,7 @@
 _id: b8FHrKqyXuYGWc6vn
 title: Game Theory
 href: https://lesswrong.com/tag/game-theory
+slug: game-theory
 type: tag
 tags:
   - LessWrong

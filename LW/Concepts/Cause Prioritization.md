@@ -2,6 +2,7 @@
 _id: EeSkeTcT4wtW2fWsL
 title: Cause Prioritization
 href: https://lesswrong.com/tag/cause-prioritization
+slug: cause-prioritization
 type: tag
 tags:
   - LessWrong

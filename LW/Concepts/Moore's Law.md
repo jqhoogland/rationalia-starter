@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb285
 title: Moore's Law
 href: https://lesswrong.com/tag/moores-law
+slug: moores-law
 type: tag
 tags:
   - LessWrong

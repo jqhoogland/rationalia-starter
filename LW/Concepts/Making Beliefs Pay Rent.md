@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb18f
 title: Making Beliefs Pay Rent
 href: https://lesswrong.com/tag/making-beliefs-pay-rent
+slug: making-beliefs-pay-rent
 type: tag
 tags:
   - LessWrong

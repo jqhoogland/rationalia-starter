@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb22e
 title: Smoking Lesion
 href: https://lesswrong.com/tag/smoking-lesion
+slug: smoking-lesion
 type: tag
 tags:
   - LessWrong

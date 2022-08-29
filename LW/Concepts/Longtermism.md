@@ -2,6 +2,7 @@
 _id: gWEjzxPjitZ2JGZvM
 title: Longtermism
 href: https://lesswrong.com/tag/longtermism
+slug: longtermism
 type: tag
 tags:
   - LessWrong

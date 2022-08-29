@@ -2,6 +2,7 @@
 _id: H4n4rzs33JfEgkf8b
 title: OpenAI
 href: https://lesswrong.com/tag/openai
+slug: openai
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: v8MTECTHWs3crpnnZ
 title: Embodiment
 href: https://lesswrong.com/tag/embodiment
+slug: embodiment
 type: tag
 tags:
   - LessWrong

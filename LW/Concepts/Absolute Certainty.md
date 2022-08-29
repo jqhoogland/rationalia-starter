@@ -1,13 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb131
 title: Absolute Certainty
-href: https://lesswrong.com/tag/absolute-certainty
+href: https://www.lesswrong.com/tag/absolute-certainty
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T19:08:20.348Z'
+synchedAt: '2022-08-29T19:09:26.387Z'
+slug: absolute-certainty
 ---
 
 # Absolute Certainty

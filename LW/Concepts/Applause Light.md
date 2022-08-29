@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb26b
 title: Applause Light
 href: https://lesswrong.com/tag/applause-light
+slug: applause-light
 type: tag
 tags:
   - LessWrong

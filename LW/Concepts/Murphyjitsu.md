@@ -2,6 +2,7 @@
 _id: pJthrJDMw54JFGise
 title: Murphyjitsu
 href: https://lesswrong.com/tag/murphyjitsu
+slug: murphyjitsu
 type: tag
 tags:
   - LessWrong

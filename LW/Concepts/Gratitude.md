@@ -2,6 +2,7 @@
 _id: a65Lgr7Q5jqRWHtM6
 title: Gratitude
 href: https://lesswrong.com/tag/gratitude
+slug: gratitude
 type: tag
 tags:
   - LessWrong

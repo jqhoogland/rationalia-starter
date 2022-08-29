@@ -2,6 +2,7 @@
 _id: wFDrB47FAhkLgp4bJ
 title: Superrationality
 href: https://lesswrong.com/tag/superrationality
+slug: superrationality
 type: tag
 tags:
   - LessWrong

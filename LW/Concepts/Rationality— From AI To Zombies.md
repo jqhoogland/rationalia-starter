@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb314
 title: 'Rationality: From AI To Zombies'
 href: https://lesswrong.com/tag/rationality:-from-ai-to-zombies
+slug: rationality:-from-ai-to-zombies
 type: tag
 tags:
   - LessWrong

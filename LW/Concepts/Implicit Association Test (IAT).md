@@ -2,6 +2,7 @@
 _id: Xno6pRXizN9AmFFTa
 title: Implicit Association Test (IAT)
 href: https://lesswrong.com/tag/implicit-association-test-iat
+slug: implicit-association-test-iat
 type: tag
 tags:
   - LessWrong

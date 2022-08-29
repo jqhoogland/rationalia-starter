@@ -2,6 +2,7 @@
 _id: W9aNkPwtPhMrcfgj7
 title: Sex & Gender
 href: https://lesswrong.com/tag/sex-and-gender
+slug: sex-and-gender
 type: tag
 tags:
   - LessWrong

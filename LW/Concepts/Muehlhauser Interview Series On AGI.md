@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb27f
 title: Muehlhauser Interview Series On AGI
 href: https://lesswrong.com/tag/muehlhauser-interview-series-on-agi
+slug: muehlhauser-interview-series-on-agi
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: JsJPrdgRGRqnci8cZ
 title: Altruism
 href: https://lesswrong.com/tag/altruism
+slug: altruism
 type: tag
 tags:
   - LessWrong

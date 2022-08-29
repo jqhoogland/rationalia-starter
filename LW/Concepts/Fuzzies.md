@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0e9
 title: Fuzzies
 href: https://lesswrong.com/tag/fuzzies
+slug: fuzzies
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: Pa2SdZsLFmqhs42Do
 title: Open Problems
 href: https://lesswrong.com/tag/open-problems
+slug: open-problems
 type: tag
 tags:
   - LessWrong

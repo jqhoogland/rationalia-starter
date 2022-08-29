@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb295
 title: Subgoal Stomp
 href: https://lesswrong.com/tag/subgoal-stomp
+slug: subgoal-stomp
 type: tag
 tags:
   - LessWrong

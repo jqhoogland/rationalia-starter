@@ -2,6 +2,7 @@
 _id: ZnHkaTkxukegSrZqE
 title: Cryonics
 href: https://lesswrong.com/tag/cryonics
+slug: cryonics
 type: tag
 tags:
   - LessWrong

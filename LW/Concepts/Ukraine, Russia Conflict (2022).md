@@ -2,6 +2,7 @@
 _id: cv2dqCjh5cpkowzSp
 title: Ukraine/Russia Conflict (2022)
 href: https://lesswrong.com/tag/ukraine-russia-conflict-2022
+slug: ukraine-russia-conflict-2022
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: sPpZRaxpNNJjw55eu
 title: Progress Studies
 href: https://lesswrong.com/tag/progress-studies
+slug: progress-studies
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb212
 title: Aspiring Rationalist
 href: https://lesswrong.com/tag/aspiring-rationalist
+slug: aspiring-rationalist
 type: tag
 tags:
   - LessWrong

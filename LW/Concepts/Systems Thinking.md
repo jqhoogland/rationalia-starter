@@ -2,6 +2,7 @@
 _id: tXzozGBvkvAfP4noX
 title: Systems Thinking
 href: https://lesswrong.com/tag/systems-thinking
+slug: systems-thinking
 type: tag
 tags:
   - LessWrong

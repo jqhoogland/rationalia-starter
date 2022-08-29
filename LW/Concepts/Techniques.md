@@ -2,6 +2,7 @@
 _id: 2wjPMY34by2gXEXA2
 title: Techniques
 href: https://lesswrong.com/tag/techniques
+slug: techniques
 type: tag
 tags:
   - LessWrong

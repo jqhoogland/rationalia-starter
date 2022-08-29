@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb24e
 title: Less Wrong Meetup Group Resources
 href: https://lesswrong.com/tag/less-wrong-meetup-group-resources
+slug: less-wrong-meetup-group-resources
 type: tag
 tags:
   - LessWrong

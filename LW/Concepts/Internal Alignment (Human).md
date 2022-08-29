@@ -2,6 +2,7 @@
 _id: fuanMA7z4JqDGsN5Q
 title: Internal Alignment (Human)
 href: https://lesswrong.com/tag/internal-alignment-human
+slug: internal-alignment-human
 type: tag
 tags:
   - LessWrong

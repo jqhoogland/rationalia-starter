@@ -2,6 +2,7 @@
 _id: iP2X4jQNHMWHRNPne
 title: Motivations
 href: https://lesswrong.com/tag/motivations
+slug: motivations
 type: tag
 tags:
   - LessWrong

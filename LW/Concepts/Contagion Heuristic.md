@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb19a
 title: Contagion Heuristic
 href: https://lesswrong.com/tag/contagion-heuristic
+slug: contagion-heuristic
 type: tag
 tags:
   - LessWrong

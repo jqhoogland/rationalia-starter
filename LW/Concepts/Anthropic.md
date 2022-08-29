@@ -2,6 +2,7 @@
 _id: aHay2tebonHAYKtac
 title: Anthropic
 href: https://lesswrong.com/tag/anthropic
+slug: anthropic
 type: tag
 tags:
   - LessWrong

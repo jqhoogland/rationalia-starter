@@ -2,6 +2,7 @@
 _id: XtnxF4TsAEyWBRJZq
 title: Scoring Rules
 href: https://lesswrong.com/tag/scoring-rules
+slug: scoring-rules
 type: tag
 tags:
   - LessWrong

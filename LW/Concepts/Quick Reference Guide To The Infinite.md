@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb245
 title: Quick Reference Guide To The Infinite
 href: https://lesswrong.com/tag/quick-reference-guide-to-the-infinite
+slug: quick-reference-guide-to-the-infinite
 type: tag
 tags:
   - LessWrong

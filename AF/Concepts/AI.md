@@ -2,6 +2,7 @@
 _id: sYm3HiWcfZvrGu3ui
 title: AI
 href: https://lesswrong.com/tag/ai
+slug: ai
 type: tag
 tags:
   - LessWrong

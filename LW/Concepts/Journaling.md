@@ -2,6 +2,7 @@
 _id: sJYvMHBHnR6DbJQcN
 title: Journaling
 href: https://lesswrong.com/tag/journaling
+slug: journaling
 type: tag
 tags:
   - LessWrong

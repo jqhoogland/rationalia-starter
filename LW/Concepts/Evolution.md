@@ -2,6 +2,7 @@
 _id: nZCb9BSnmXZXSNA2u
 title: Evolution
 href: https://lesswrong.com/tag/evolution
+slug: evolution
 type: tag
 tags:
   - LessWrong

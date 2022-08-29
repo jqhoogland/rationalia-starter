@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1dd
 title: Aumann Agreement
 href: https://lesswrong.com/tag/aumann-agreement
+slug: aumann-agreement
 type: tag
 tags:
   - LessWrong

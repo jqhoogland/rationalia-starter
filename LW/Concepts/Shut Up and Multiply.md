@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb187
 title: Shut Up and Multiply
 href: https://lesswrong.com/tag/shut-up-and-multiply
+slug: shut-up-and-multiply
 type: tag
 tags:
   - LessWrong

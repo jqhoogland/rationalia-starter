@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f5
 title: Doubt
 href: https://lesswrong.com/tag/doubt
+slug: doubt
 type: tag
 tags:
   - LessWrong

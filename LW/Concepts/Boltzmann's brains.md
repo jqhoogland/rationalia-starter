@@ -2,6 +2,7 @@
 _id: cj4oev4dKKkmrpXty
 title: Boltzmann's brains
 href: https://lesswrong.com/tag/boltzmann-s-brains
+slug: boltzmann-s-brains
 type: tag
 tags:
   - LessWrong

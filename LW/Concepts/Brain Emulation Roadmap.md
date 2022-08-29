@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2fd
 title: Brain Emulation Roadmap
 href: https://lesswrong.com/tag/brain-emulation-roadmap
+slug: brain-emulation-roadmap
 type: tag
 tags:
   - LessWrong

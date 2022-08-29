@@ -2,6 +2,7 @@
 _id: SrW9iP2j6Hi8R5PmT
 title: Black Swans
 href: https://lesswrong.com/tag/black-swans
+slug: black-swans
 type: tag
 tags:
   - LessWrong

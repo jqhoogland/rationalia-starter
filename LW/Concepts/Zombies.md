@@ -2,6 +2,7 @@
 _id: uLqT8mmFiA8NeytTi
 title: Zombies
 href: https://lesswrong.com/tag/zombies
+slug: zombies
 type: tag
 tags:
   - LessWrong

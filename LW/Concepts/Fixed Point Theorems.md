@@ -2,6 +2,7 @@
 _id: HJZZxyYXWzB74M4FT
 title: Fixed Point Theorems
 href: https://lesswrong.com/tag/fixed-point-theorems
+slug: fixed-point-theorems
 type: tag
 tags:
   - LessWrong

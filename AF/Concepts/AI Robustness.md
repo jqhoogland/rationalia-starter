@@ -2,6 +2,7 @@
 _id: haiwnEEx3vhrkfmAP
 title: AI Robustness
 href: https://lesswrong.com/tag/ai-robustness
+slug: ai-robustness
 type: tag
 tags:
   - LessWrong

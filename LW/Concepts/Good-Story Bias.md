@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1d2
 title: Good-Story Bias
 href: https://lesswrong.com/tag/good-story-bias
+slug: good-story-bias
 type: tag
 tags:
   - LessWrong

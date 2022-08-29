@@ -2,6 +2,7 @@
 _id: tJv2Zbtx37mBGBJk6
 title: Symbol Grounding
 href: https://lesswrong.com/tag/symbol-grounding
+slug: symbol-grounding
 type: tag
 tags:
   - LessWrong

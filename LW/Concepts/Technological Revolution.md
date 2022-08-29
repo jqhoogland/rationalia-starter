@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2db
 title: Technological Revolution
 href: https://lesswrong.com/tag/technological-revolution
+slug: technological-revolution
 type: tag
 tags:
   - LessWrong

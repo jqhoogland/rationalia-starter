@@ -2,6 +2,7 @@
 _id: JX69nZB8tfxnx5nGH
 title: Threat Models
 href: https://lesswrong.com/tag/threat-models
+slug: threat-models
 type: tag
 tags:
   - LessWrong

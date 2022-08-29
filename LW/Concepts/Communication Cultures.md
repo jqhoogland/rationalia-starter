@@ -2,6 +2,7 @@
 _id: AADZcNS24mmSfPp2w
 title: Communication Cultures
 href: https://lesswrong.com/tag/communication-cultures
+slug: communication-cultures
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: hwHxSdrxafFTuaCJE
 title: Prompt Engineering
 href: https://lesswrong.com/tag/prompt-engineering
+slug: prompt-engineering
 type: tag
 tags:
   - LessWrong

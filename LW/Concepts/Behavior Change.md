@@ -2,6 +2,7 @@
 _id: Y3oHd7CQpy8aQFWD9
 title: Behavior Change
 href: https://lesswrong.com/tag/behavior-change
+slug: behavior-change
 type: tag
 tags:
   - LessWrong

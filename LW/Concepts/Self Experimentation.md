@@ -2,6 +2,7 @@
 _id: AodfCFefLAuwDyj7Z
 title: Self Experimentation
 href: https://lesswrong.com/tag/self-experimentation
+slug: self-experimentation
 type: tag
 tags:
   - LessWrong

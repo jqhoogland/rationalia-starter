@@ -2,6 +2,7 @@
 _id: 4Kcm4etxAJjmeDkHP
 title: Book Reviews
 href: https://lesswrong.com/tag/book-reviews
+slug: book-reviews
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 8sh6iLwYWDJ7z3fPo
 title: Startups
 href: https://lesswrong.com/tag/startups
+slug: startups
 type: tag
 tags:
   - LessWrong

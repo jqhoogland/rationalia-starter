@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb14e
 title: Magic
 href: https://lesswrong.com/tag/magic
+slug: magic
 type: tag
 tags:
   - LessWrong

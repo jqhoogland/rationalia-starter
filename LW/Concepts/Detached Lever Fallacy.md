@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb17b
 title: Detached Lever Fallacy
 href: https://lesswrong.com/tag/detached-lever-fallacy
+slug: detached-lever-fallacy
 type: tag
 tags:
   - LessWrong

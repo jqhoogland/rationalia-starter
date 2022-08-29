@@ -2,6 +2,7 @@
 _id: 7thPfS2WbD2JKizr7
 title: Try Things
 href: https://lesswrong.com/tag/try-things
+slug: try-things
 type: tag
 tags:
   - LessWrong

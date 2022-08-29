@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0e8
 title: Fully-General Counterargument
 href: https://lesswrong.com/tag/fully-general-counterargument
+slug: fully-general-counterargument
 type: tag
 tags:
   - LessWrong

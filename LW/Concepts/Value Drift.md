@@ -2,6 +2,7 @@
 _id: qQMEMrXioExa4uhTB
 title: Value Drift
 href: https://lesswrong.com/tag/value-drift
+slug: value-drift
 type: tag
 tags:
   - LessWrong

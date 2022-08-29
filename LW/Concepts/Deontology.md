@@ -2,6 +2,7 @@
 _id: yeJFqsWrP2pjYfNEr
 title: Deontology
 href: https://lesswrong.com/tag/deontology
+slug: deontology
 type: tag
 tags:
   - LessWrong

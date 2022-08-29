@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb150
 title: Bystander Effect
 href: https://lesswrong.com/tag/bystander-effect
+slug: bystander-effect
 type: tag
 tags:
   - LessWrong

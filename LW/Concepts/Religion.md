@@ -2,6 +2,7 @@
 _id: NSMKfa8emSbGNXRKD
 title: Religion
 href: https://lesswrong.com/tag/religion
+slug: religion
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: e7LAgAKaovFX2GQhg
 title: Unbounded Utilities
 href: https://lesswrong.com/tag/unbounded-utilities
+slug: unbounded-utilities
 type: tag
 tags:
   - LessWrong

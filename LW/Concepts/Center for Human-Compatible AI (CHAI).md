@@ -2,6 +2,7 @@
 _id: WafcndjLNe4x3uXPL
 title: Center for Human-Compatible AI (CHAI)
 href: https://lesswrong.com/tag/center-for-human-compatible-ai-chai
+slug: center-for-human-compatible-ai-chai
 type: tag
 tags:
   - LessWrong

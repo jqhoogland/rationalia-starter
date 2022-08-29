@@ -2,6 +2,7 @@
 _id: 4R8JYu4QF2FqzJxE5
 title: Heuristics & Biases
 href: https://lesswrong.com/tag/heuristics-and-biases
+slug: heuristics-and-biases
 type: tag
 tags:
   - LessWrong

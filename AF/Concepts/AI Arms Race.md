@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2b2
 title: AI Arms Race
 href: https://lesswrong.com/tag/ai-arms-race
+slug: ai-arms-race
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb29d
 title: Neuromorphic AI
 href: https://lesswrong.com/tag/neuromorphic-ai
+slug: neuromorphic-ai
 type: tag
 tags:
   - LessWrong

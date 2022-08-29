@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb18e
 title: Free-Floating Belief
 href: https://lesswrong.com/tag/free-floating-belief
+slug: free-floating-belief
 type: tag
 tags:
   - LessWrong

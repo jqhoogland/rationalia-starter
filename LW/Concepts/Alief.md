@@ -2,6 +2,7 @@
 _id: HXA9WxPpzZCCEwXHT
 title: Alief
 href: https://lesswrong.com/tag/alief
+slug: alief
 type: tag
 tags:
   - LessWrong

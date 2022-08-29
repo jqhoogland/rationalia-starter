@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb199
 title: Peak-End Rule
 href: https://lesswrong.com/tag/peak-end-rule
+slug: peak-end-rule
 type: tag
 tags:
   - LessWrong

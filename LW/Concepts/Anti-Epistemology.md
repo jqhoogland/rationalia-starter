@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb12d
 title: Anti-Epistemology
 href: https://lesswrong.com/tag/anti-epistemology
+slug: anti-epistemology
 type: tag
 tags:
   - LessWrong

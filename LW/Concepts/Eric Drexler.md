@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb15c
 title: Eric Drexler
 href: https://lesswrong.com/tag/eric-drexler
+slug: eric-drexler
 type: tag
 tags:
   - LessWrong

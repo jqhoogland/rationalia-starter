@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1a9
 title: The Aumann Game
 href: https://lesswrong.com/tag/the-aumann-game
+slug: the-aumann-game
 type: tag
 tags:
   - LessWrong

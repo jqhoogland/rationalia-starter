@@ -2,6 +2,7 @@
 _id: QH4LhvnyR4QkW9MG8
 title: Paperclip Maximizer
 href: https://lesswrong.com/tag/paperclip-maximizer
+slug: paperclip-maximizer
 type: tag
 tags:
   - LessWrong

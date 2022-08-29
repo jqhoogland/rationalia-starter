@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1c5
 title: Preference
 href: https://lesswrong.com/tag/preference
+slug: preference
 type: tag
 tags:
   - LessWrong

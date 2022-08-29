@@ -2,6 +2,7 @@
 _id: xHjy88N2uJvGdgzfw
 title: Health / Medicine / Disease
 href: https://lesswrong.com/tag/health-medicine-disease
+slug: health-medicine-disease
 type: tag
 tags:
   - LessWrong

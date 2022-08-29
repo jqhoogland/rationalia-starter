@@ -2,6 +2,7 @@
 _id: Y499WMAzNbrBM7Ytt
 title: Veganism
 href: https://lesswrong.com/tag/veganism
+slug: veganism
 type: tag
 tags:
   - LessWrong

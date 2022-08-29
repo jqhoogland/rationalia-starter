@@ -2,6 +2,7 @@
 _id: dJ6eJxJrCEget7Wb6
 title: Fallacies
 href: https://lesswrong.com/tag/fallacies
+slug: fallacies
 type: tag
 tags:
   - LessWrong

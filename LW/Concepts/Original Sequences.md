@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb317
 title: Original Sequences
 href: https://lesswrong.com/tag/original-sequences
+slug: original-sequences
 type: tag
 tags:
   - LessWrong

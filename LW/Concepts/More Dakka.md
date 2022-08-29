@@ -2,6 +2,7 @@
 _id: FGfgzGpPTtKEqSrDm
 title: More Dakka
 href: https://lesswrong.com/tag/more-dakka
+slug: more-dakka
 type: tag
 tags:
   - LessWrong

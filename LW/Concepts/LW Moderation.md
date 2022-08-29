@@ -2,6 +2,7 @@
 _id: hGzywXvWhSdJi5F2a
 title: LW Moderation
 href: https://lesswrong.com/tag/lw-moderation
+slug: lw-moderation
 type: tag
 tags:
   - LessWrong

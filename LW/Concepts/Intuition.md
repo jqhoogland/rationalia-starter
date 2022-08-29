@@ -2,6 +2,7 @@
 _id: z95PGFXtPpwakqkTA
 title: Intuition
 href: https://lesswrong.com/tag/intuition
+slug: intuition
 type: tag
 tags:
   - LessWrong

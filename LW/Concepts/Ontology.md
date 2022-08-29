@@ -2,6 +2,7 @@
 _id: yo4kFCNxdHFkwqhun
 title: Ontology
 href: https://lesswrong.com/tag/ontology
+slug: ontology
 type: tag
 tags:
   - LessWrong

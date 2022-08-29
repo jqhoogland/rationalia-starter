@@ -2,6 +2,7 @@
 _id: 3Y4y9Kr8e24YWAEmD
 title: Myopia
 href: https://lesswrong.com/tag/myopia
+slug: myopia
 type: tag
 tags:
   - LessWrong

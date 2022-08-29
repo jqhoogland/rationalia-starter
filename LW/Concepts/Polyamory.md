@@ -2,6 +2,7 @@
 _id: AWz5ryH8SpAgTeydh
 title: Polyamory
 href: https://lesswrong.com/tag/polyamory
+slug: polyamory
 type: tag
 tags:
   - LessWrong

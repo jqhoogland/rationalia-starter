@@ -2,6 +2,7 @@
 _id: Lgy35Xh222bwgeGTL
 title: Government
 href: https://lesswrong.com/tag/government
+slug: government
 type: tag
 tags:
   - LessWrong

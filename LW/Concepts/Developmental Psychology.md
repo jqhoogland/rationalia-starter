@@ -2,6 +2,7 @@
 _id: nxwND2hTjBeCy58hi
 title: Developmental Psychology
 href: https://lesswrong.com/tag/developmental-psychology
+slug: developmental-psychology
 type: tag
 tags:
   - LessWrong

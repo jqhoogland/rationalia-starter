@@ -2,6 +2,7 @@
 _id: BhrpjXqGuke5GnF6g
 title: Hamming Questions
 href: https://lesswrong.com/tag/hamming-questions
+slug: hamming-questions
 type: tag
 tags:
   - LessWrong

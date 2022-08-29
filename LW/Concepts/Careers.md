@@ -2,6 +2,7 @@
 _id: 4kQXps8dYsKJgaayN
 title: Careers
 href: https://lesswrong.com/tag/careers
+slug: careers
 type: tag
 tags:
   - LessWrong

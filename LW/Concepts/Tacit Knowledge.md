@@ -2,6 +2,7 @@
 _id: grDZHm8y34H9C7uui
 title: Tacit Knowledge
 href: https://lesswrong.com/tag/tacit-knowledge
+slug: tacit-knowledge
 type: tag
 tags:
   - LessWrong

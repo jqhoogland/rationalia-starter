@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb278
 title: Odds
 href: https://lesswrong.com/tag/odds
+slug: odds
 type: tag
 tags:
   - LessWrong

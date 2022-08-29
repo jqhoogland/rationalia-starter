@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2e9
 title: Self-Sampling Assumption
 href: https://lesswrong.com/tag/self-sampling-assumption
+slug: self-sampling-assumption
 type: tag
 tags:
   - LessWrong

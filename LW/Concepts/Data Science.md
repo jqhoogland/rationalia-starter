@@ -2,6 +2,7 @@
 _id: adbooNSipZtMrXbzP
 title: Data Science
 href: https://lesswrong.com/tag/data-science
+slug: data-science
 type: tag
 tags:
   - LessWrong

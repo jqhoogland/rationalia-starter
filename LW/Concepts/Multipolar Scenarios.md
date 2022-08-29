@@ -2,6 +2,7 @@
 _id: AGgktgYb72PPjET9r
 title: Multipolar Scenarios
 href: https://lesswrong.com/tag/multipolar-scenarios
+slug: multipolar-scenarios
 type: tag
 tags:
   - LessWrong

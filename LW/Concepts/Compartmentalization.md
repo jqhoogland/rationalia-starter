@@ -2,6 +2,7 @@
 _id: KWFhr6A2dHEb6wmWJ
 title: Compartmentalization
 href: https://lesswrong.com/tag/compartmentalization
+slug: compartmentalization
 type: tag
 tags:
   - LessWrong

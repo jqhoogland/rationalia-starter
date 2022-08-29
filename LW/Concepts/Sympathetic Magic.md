@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb17a
 title: Sympathetic Magic
 href: https://lesswrong.com/tag/sympathetic-magic
+slug: sympathetic-magic
 type: tag
 tags:
   - LessWrong

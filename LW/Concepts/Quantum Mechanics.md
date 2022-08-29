@@ -2,6 +2,7 @@
 _id: nBCLy89Nqd8ouR6XT
 title: Quantum Mechanics
 href: https://lesswrong.com/tag/quantum-mechanics
+slug: quantum-mechanics
 type: tag
 tags:
   - LessWrong

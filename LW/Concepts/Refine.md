@@ -2,6 +2,7 @@
 _id: siW3hDgPwAKSDmwgG
 title: Refine
 href: https://lesswrong.com/tag/refine
+slug: refine
 type: tag
 tags:
   - LessWrong

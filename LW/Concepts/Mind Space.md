@@ -2,6 +2,7 @@
 _id: QbdJ7SxLE2NT8gzr3
 title: Mind Space
 href: https://lesswrong.com/tag/mind-space
+slug: mind-space
 type: tag
 tags:
   - LessWrong

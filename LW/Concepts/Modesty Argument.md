@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0f9
 title: Modesty Argument
 href: https://lesswrong.com/tag/modesty-argument
+slug: modesty-argument
 type: tag
 tags:
   - LessWrong

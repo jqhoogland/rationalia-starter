@@ -2,6 +2,7 @@
 _id: CGpSeuhohSFFqnTYZ
 title: Conditional Consistency
 href: https://lesswrong.com/tag/conditional-consistency
+slug: conditional-consistency
 type: tag
 tags:
   - LessWrong

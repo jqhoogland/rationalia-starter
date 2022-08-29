@@ -2,6 +2,7 @@
 _id: 4mRJmYxNDnn7r2gNu
 title: 'Iterated Amplification '
 href: https://lesswrong.com/tag/iterated-amplification
+slug: iterated-amplification
 type: tag
 tags:
   - LessWrong

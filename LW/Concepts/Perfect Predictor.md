@@ -2,6 +2,7 @@
 _id: SgpwPSrHRbeRSxKus
 title: Perfect Predictor
 href: https://lesswrong.com/tag/perfect-predictor
+slug: perfect-predictor
 type: tag
 tags:
   - LessWrong

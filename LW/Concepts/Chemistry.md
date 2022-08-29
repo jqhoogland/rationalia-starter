@@ -2,6 +2,7 @@
 _id: uxmGtpeE3KoE7pzSL
 title: Chemistry
 href: https://lesswrong.com/tag/chemistry
+slug: chemistry
 type: tag
 tags:
   - LessWrong

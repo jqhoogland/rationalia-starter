@@ -2,6 +2,7 @@
 _id: KRcsSxBTLGRrSbHsW
 title: Transformative AI
 href: https://lesswrong.com/tag/transformative-ai
+slug: transformative-ai
 type: tag
 tags:
   - LessWrong

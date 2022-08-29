@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb288
 title: Ben Goertzel
 href: https://lesswrong.com/tag/ben-goertzel
+slug: ben-goertzel
 type: tag
 tags:
   - LessWrong

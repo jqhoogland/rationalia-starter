@@ -2,6 +2,7 @@
 _id: XYHzLjwYiqpeqaf4c
 title: Dark Arts
 href: https://lesswrong.com/tag/dark-arts
+slug: dark-arts
 type: tag
 tags:
   - LessWrong

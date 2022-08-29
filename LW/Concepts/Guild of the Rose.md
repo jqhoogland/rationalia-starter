@@ -2,6 +2,7 @@
 _id: p2aBoEmJhjZYpkaPZ
 title: Guild of the Rose
 href: https://lesswrong.com/tag/guild-of-the-rose
+slug: guild-of-the-rose
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: tgJoX7PGDDh2vJNqT
 title: Acausal Trade
 href: https://lesswrong.com/tag/acausal-trade
+slug: acausal-trade
 type: tag
 tags:
   - LessWrong

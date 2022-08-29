@@ -2,6 +2,7 @@
 _id: uL87Bw3TKzsYFMpZp
 title: Teamwork
 href: https://lesswrong.com/tag/teamwork
+slug: teamwork
 type: tag
 tags:
   - LessWrong

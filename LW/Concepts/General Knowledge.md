@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb15b
 title: General Knowledge
 href: https://lesswrong.com/tag/general-knowledge
+slug: general-knowledge
 type: tag
 tags:
   - LessWrong

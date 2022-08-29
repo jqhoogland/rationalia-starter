@@ -2,6 +2,7 @@
 _id: LJxkaxERSGYKBBJp2
 title: Landmark Forum
 href: https://lesswrong.com/tag/landmark-forum
+slug: landmark-forum
 type: tag
 tags:
   - LessWrong

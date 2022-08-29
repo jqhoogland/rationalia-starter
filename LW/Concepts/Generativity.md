@@ -2,6 +2,7 @@
 _id: avSCoKEHCEa5RFCRh
 title: Generativity
 href: https://lesswrong.com/tag/generativity
+slug: generativity
 type: tag
 tags:
   - LessWrong

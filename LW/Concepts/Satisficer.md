@@ -2,6 +2,7 @@
 _id: nYta24PsKTvg57KZy
 title: Satisficer
 href: https://lesswrong.com/tag/satisficer
+slug: satisficer
 type: tag
 tags:
   - LessWrong

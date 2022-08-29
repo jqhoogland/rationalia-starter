@@ -2,6 +2,7 @@
 _id: cNLSTJzaY6Gi3iYQr
 title: Five minute timers
 href: https://lesswrong.com/tag/five-minute-timers
+slug: five-minute-timers
 type: tag
 tags:
   - LessWrong

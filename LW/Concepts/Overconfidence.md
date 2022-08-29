@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb101
 title: Overconfidence
 href: https://lesswrong.com/tag/overconfidence
+slug: overconfidence
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 32DdRimdM7sB5wmKu
 title: Empiricism
 href: https://lesswrong.com/tag/empiricism
+slug: empiricism
 type: tag
 tags:
   - LessWrong

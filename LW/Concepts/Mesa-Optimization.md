@@ -2,6 +2,7 @@
 _id: NZ67PZ8CkeS6xn27h
 title: Mesa-Optimization
 href: https://lesswrong.com/tag/mesa-optimization
+slug: mesa-optimization
 type: tag
 tags:
   - LessWrong

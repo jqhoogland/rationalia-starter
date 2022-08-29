@@ -2,6 +2,7 @@
 _id: xexCWMyds6QLWognu
 title: World Optimization
 href: https://lesswrong.com/tag/world-optimization
+slug: world-optimization
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb11a
 title: Belief Update
 href: https://lesswrong.com/tag/belief-update
+slug: belief-update
 type: tag
 tags:
   - LessWrong

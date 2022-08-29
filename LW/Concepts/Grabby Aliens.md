@@ -2,6 +2,7 @@
 _id: aozxtmy7FEkkvfWzE
 title: Grabby Aliens
 href: https://lesswrong.com/tag/grabby-aliens
+slug: grabby-aliens
 type: tag
 tags:
   - LessWrong

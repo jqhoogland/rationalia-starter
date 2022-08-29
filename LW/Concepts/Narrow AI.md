@@ -2,6 +2,7 @@
 _id: ocGoDbHKBv46AwXnT
 title: Narrow AI
 href: https://lesswrong.com/tag/narrow-ai
+slug: narrow-ai
 type: tag
 tags:
   - LessWrong

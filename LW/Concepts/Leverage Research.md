@@ -2,6 +2,7 @@
 _id: sYbszETv5rKst6gxD
 title: Leverage Research
 href: https://lesswrong.com/tag/leverage-research
+slug: leverage-research
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: L3NcKBNTvQaFXwv9u
 title: Paradoxes
 href: https://lesswrong.com/tag/paradoxes
+slug: paradoxes
 type: tag
 tags:
   - LessWrong

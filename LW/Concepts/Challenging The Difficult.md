@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb206
 title: Challenging The Difficult
 href: https://lesswrong.com/tag/challenging-the-difficult
+slug: challenging-the-difficult
 type: tag
 tags:
   - LessWrong

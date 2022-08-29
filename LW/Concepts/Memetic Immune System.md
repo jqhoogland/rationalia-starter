@@ -2,6 +2,7 @@
 _id: LNsEBXoFdAy8yzvbw
 title: Memetic Immune System
 href: https://lesswrong.com/tag/memetic-immune-system
+slug: memetic-immune-system
 type: tag
 tags:
   - LessWrong

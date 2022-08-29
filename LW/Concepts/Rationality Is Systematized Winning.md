@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1e9
 title: Rationality Is Systematized Winning
 href: https://lesswrong.com/tag/rationality-is-systematized-winning
+slug: rationality-is-systematized-winning
 type: tag
 tags:
   - LessWrong

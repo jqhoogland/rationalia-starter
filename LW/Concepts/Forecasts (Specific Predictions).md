@@ -2,6 +2,7 @@
 _id: 33BrBRSrRQS4jEHdk
 title: Forecasts (Specific Predictions)
 href: https://lesswrong.com/tag/forecasts-specific-predictions
+slug: forecasts-specific-predictions
 type: tag
 tags:
   - LessWrong

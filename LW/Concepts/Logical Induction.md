@@ -2,6 +2,7 @@
 _id: 8ckoduMw3gvCMJGSB
 title: Logical Induction
 href: https://lesswrong.com/tag/logical-induction
+slug: logical-induction
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb208
 title: How To Actually Change Your Mind
 href: https://lesswrong.com/tag/how-to-actually-change-your-mind
+slug: how-to-actually-change-your-mind
 type: tag
 tags:
   - LessWrong

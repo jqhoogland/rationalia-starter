@@ -2,6 +2,7 @@
 _id: aAXgXTG7SNwfC5mr5
 title: Weirdness Points
 href: https://lesswrong.com/tag/weirdness-points
+slug: weirdness-points
 type: tag
 tags:
   - LessWrong

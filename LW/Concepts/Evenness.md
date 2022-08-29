@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb35c
 title: Evenness
 href: https://lesswrong.com/tag/evenness
+slug: evenness
 type: tag
 tags:
   - LessWrong

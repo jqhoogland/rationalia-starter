@@ -2,6 +2,7 @@
 _id: K6oowPZC6kds6LDTg
 title: Future of Humanity Institute (FHI)
 href: https://lesswrong.com/tag/future-of-humanity-institute-fhi
+slug: future-of-humanity-institute-fhi
 type: tag
 tags:
   - LessWrong

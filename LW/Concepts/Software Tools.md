@@ -2,6 +2,7 @@
 _id: TkZ7MFwCi4D63LJ5n
 title: Software Tools
 href: https://lesswrong.com/tag/software-tools
+slug: software-tools
 type: tag
 tags:
   - LessWrong

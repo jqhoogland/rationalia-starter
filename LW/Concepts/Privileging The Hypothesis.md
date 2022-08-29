@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1fb
 title: Privileging The Hypothesis
 href: https://lesswrong.com/tag/privileging-the-hypothesis
+slug: privileging-the-hypothesis
 type: tag
 tags:
   - LessWrong

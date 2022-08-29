@@ -2,6 +2,7 @@
 _id: stnsBEmuGpnSfQ5vj
 title: Sunk-Cost Fallacy
 href: https://lesswrong.com/tag/sunk-cost-fallacy
+slug: sunk-cost-fallacy
 type: tag
 tags:
   - LessWrong

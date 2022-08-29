@@ -2,6 +2,7 @@
 _id: qFcwTzAfCQSkAM8vS
 title: Frames
 href: https://lesswrong.com/tag/frames
+slug: frames
 type: tag
 tags:
   - LessWrong

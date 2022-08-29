@@ -2,6 +2,7 @@
 _id: RffCgqtwT86pNBJof
 title: Shaping Your Environment
 href: https://lesswrong.com/tag/shaping-your-environment
+slug: shaping-your-environment
 type: tag
 tags:
   - LessWrong

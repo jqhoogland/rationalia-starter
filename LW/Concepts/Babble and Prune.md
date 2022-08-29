@@ -2,6 +2,7 @@
 _id: m4zvJHAiGBTjc5ZFt
 title: Babble and Prune
 href: https://lesswrong.com/tag/babble-and-prune
+slug: babble-and-prune
 type: tag
 tags:
   - LessWrong

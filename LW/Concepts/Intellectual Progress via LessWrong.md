@@ -2,6 +2,7 @@
 _id: a3W2TSzPuxKr3Hm9j
 title: Intellectual Progress via LessWrong
 href: https://lesswrong.com/tag/intellectual-progress-via-lesswrong
+slug: intellectual-progress-via-lesswrong
 type: tag
 tags:
   - LessWrong

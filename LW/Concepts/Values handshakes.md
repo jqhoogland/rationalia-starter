@@ -2,6 +2,7 @@
 _id: zYPQsxiMcTiY4yE3S
 title: Values handshakes
 href: https://lesswrong.com/tag/values-handshakes
+slug: values-handshakes
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: ymWzfKxBchRvmCTNX
 title: Courage
 href: https://lesswrong.com/tag/courage
+slug: courage
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb144
 title: Error of Crowds
 href: https://lesswrong.com/tag/error-of-crowds
+slug: error-of-crowds
 type: tag
 tags:
   - LessWrong

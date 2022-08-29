@@ -2,6 +2,7 @@
 _id: wGaBT3HSWWFqPfXB9
 title: DIY
 href: https://lesswrong.com/tag/diy
+slug: diy
 type: tag
 tags:
   - LessWrong

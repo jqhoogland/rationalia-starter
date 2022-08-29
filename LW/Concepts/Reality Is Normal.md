@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1da
 title: Reality Is Normal
 href: https://lesswrong.com/tag/reality-is-normal
+slug: reality-is-normal
 type: tag
 tags:
   - LessWrong

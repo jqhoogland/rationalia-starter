@@ -2,6 +2,7 @@
 _id: zQw5d37qwzdpgQs5P
 title: Cognitive Science
 href: https://lesswrong.com/tag/cognitive-science
+slug: cognitive-science
 type: tag
 tags:
   - LessWrong

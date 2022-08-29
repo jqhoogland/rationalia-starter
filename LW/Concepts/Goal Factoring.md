@@ -2,6 +2,7 @@
 _id: eamWQNQ2dPYWEwhqr
 title: Goal Factoring
 href: https://lesswrong.com/tag/goal-factoring
+slug: goal-factoring
 type: tag
 tags:
   - LessWrong

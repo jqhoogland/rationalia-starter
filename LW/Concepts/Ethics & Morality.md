@@ -2,6 +2,7 @@
 _id: nSHiKwWyMZFdZg5qt
 title: Ethics & Morality
 href: https://lesswrong.com/tag/ethics-and-morality
+slug: ethics-and-morality
 type: tag
 tags:
   - LessWrong

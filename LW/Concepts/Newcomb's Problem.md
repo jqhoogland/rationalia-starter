@@ -2,6 +2,7 @@
 _id: fihKHQuS5WZBJgkRm
 title: Newcomb's Problem
 href: https://lesswrong.com/tag/newcomb-s-problem
+slug: newcomb-s-problem
 type: tag
 tags:
   - LessWrong

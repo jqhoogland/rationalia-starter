@@ -2,6 +2,7 @@
 _id: CYMR6p5iZG75QAT8a
 title: Censorship
 href: https://lesswrong.com/tag/censorship
+slug: censorship
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: xeqCTxje765k79Q78
 title: Phenomenology
 href: https://lesswrong.com/tag/phenomenology
+slug: phenomenology
 type: tag
 tags:
   - LessWrong

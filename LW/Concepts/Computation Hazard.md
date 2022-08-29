@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2de
 title: Computation Hazard
 href: https://lesswrong.com/tag/computation-hazard
+slug: computation-hazard
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb22c
 title: Parfit's Hitchhiker
 href: https://lesswrong.com/tag/parfits-hitchhiker
+slug: parfits-hitchhiker
 type: tag
 tags:
   - LessWrong
@@ -34,7 +35,7 @@ MIRI's newest decision theory, [[Functional Decision Theory]] (FDT), notes that,
 - [[Decision Theory|Decision theory]]
 - [[Newcomb's Problem|Newcomb's problem]]
 - [[Counterfactual Mugging|Counterfactual mugging]]
-- [[Smoking Lesion|Smoking lesion]]
+- [[LW/Concepts/Smoking Lesion|Smoking lesion]]
 - [[Absent-Minded Driver|Absent-minded driver]]
 - [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
 - [[Prisoner's Dilemma|Prisoner's dilemma]]

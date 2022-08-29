@@ -2,6 +2,7 @@
 _id: Aep2BhcHpPXvYCSJc
 title: Ethical Offsets
 href: https://lesswrong.com/tag/ethical-offsets
+slug: ethical-offsets
 type: tag
 tags:
   - LessWrong

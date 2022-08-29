@@ -2,6 +2,7 @@
 _id: HLoxy2feb2PYqooom
 title: Sleep
 href: https://lesswrong.com/tag/sleep
+slug: sleep
 type: tag
 tags:
   - LessWrong

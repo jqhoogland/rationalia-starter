@@ -2,6 +2,7 @@
 _id: x5TtBDjRg9egvg9gm
 title: Cultural knowledge
 href: https://lesswrong.com/tag/cultural-knowledge
+slug: cultural-knowledge
 type: tag
 tags:
   - LessWrong

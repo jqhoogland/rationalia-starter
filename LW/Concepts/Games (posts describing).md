@@ -2,6 +2,7 @@
 _id: rtha3oEP5vzkvdbbD
 title: Games (posts describing)
 href: https://lesswrong.com/tag/games-posts-describing
+slug: games-posts-describing
 type: tag
 tags:
   - LessWrong

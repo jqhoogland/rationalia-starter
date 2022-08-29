@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb14f
 title: Incredulity
 href: https://lesswrong.com/tag/incredulity
+slug: incredulity
 type: tag
 tags:
   - LessWrong

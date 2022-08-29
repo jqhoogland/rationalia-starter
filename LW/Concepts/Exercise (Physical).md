@@ -2,6 +2,7 @@
 _id: 8nAXyYLu8eT72Hwuh
 title: Exercise (Physical)
 href: https://lesswrong.com/tag/exercise-physical
+slug: exercise-physical
 type: tag
 tags:
   - LessWrong

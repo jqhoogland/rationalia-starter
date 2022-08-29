@@ -2,6 +2,7 @@
 _id: 36RkM85iDocrnaypb
 title: Aesthetics
 href: https://lesswrong.com/tag/aesthetics
+slug: aesthetics
 type: tag
 tags:
   - LessWrong

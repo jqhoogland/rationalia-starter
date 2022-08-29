@@ -2,6 +2,7 @@
 _id: e9wHzopbGCAFwp9Rw
 title: Human Genetics
 href: https://lesswrong.com/tag/human-genetics
+slug: human-genetics
 type: tag
 tags:
   - LessWrong

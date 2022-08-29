@@ -2,6 +2,7 @@
 _id: P3Wd3f2cWqqvQxDQS
 title: Carving / Clustering Reality
 href: https://lesswrong.com/tag/carving-clustering-reality
+slug: carving-clustering-reality
 type: tag
 tags:
   - LessWrong

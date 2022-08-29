@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2a6
 title: AI-Complete
 href: https://lesswrong.com/tag/ai-complete
+slug: ai-complete
 type: tag
 tags:
   - LessWrong

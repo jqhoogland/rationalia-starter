@@ -2,6 +2,7 @@
 _id: bmfs4jiLaF6HiiYkC
 title: Reductionism
 href: https://lesswrong.com/tag/reductionism
+slug: reductionism
 type: tag
 tags:
   - LessWrong

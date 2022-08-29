@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb163
 title: Rationality Verification
 href: https://lesswrong.com/tag/rationality-verification
+slug: rationality-verification
 type: tag
 tags:
   - LessWrong

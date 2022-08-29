@@ -2,6 +2,7 @@
 _id: BcnLB8PkrkqPhZ6XY
 title: Bureaucracy
 href: https://lesswrong.com/tag/bureaucracy-1
+slug: bureaucracy-1
 type: tag
 tags:
   - LessWrong

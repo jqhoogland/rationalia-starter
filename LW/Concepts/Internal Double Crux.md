@@ -2,6 +2,7 @@
 _id: 69L5E2XPqdMF2B3gw
 title: Internal Double Crux
 href: https://lesswrong.com/tag/internal-double-crux
+slug: internal-double-crux
 type: tag
 tags:
   - LessWrong

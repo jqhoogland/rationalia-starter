@@ -2,6 +2,7 @@
 _id: YYFBmLCzeFsyd27rd
 title: SERI MATS
 href: https://lesswrong.com/tag/seri-mats
+slug: seri-mats
 type: tag
 tags:
   - LessWrong

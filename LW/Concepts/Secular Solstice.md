@@ -2,6 +2,7 @@
 _id: vtozKm5BZ8gf6zd45
 title: Secular Solstice
 href: https://lesswrong.com/tag/secular-solstice
+slug: secular-solstice
 type: tag
 tags:
   - LessWrong

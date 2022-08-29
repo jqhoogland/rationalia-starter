@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1a0
 title: Conjunction Fallacy
 href: https://lesswrong.com/tag/conjunction-fallacy
+slug: conjunction-fallacy
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: ZFrgTgzwEfStg26JL
 title: AI Risk
 href: https://lesswrong.com/tag/ai-risk
+slug: ai-risk
 type: tag
 tags:
   - LessWrong

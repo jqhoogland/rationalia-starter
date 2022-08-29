@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb168
 title: Evolution As Alien God
 href: https://lesswrong.com/tag/evolution-as-alien-god
+slug: evolution-as-alien-god
 type: tag
 tags:
   - LessWrong

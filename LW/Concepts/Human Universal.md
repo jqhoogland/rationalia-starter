@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb162
 title: Human Universal
 href: https://lesswrong.com/tag/human-universal
+slug: human-universal
 type: tag
 tags:
   - LessWrong

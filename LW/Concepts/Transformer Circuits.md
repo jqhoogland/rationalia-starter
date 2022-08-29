@@ -2,6 +2,7 @@
 _id: xi9JLxEtEoPCgRXRj
 title: Transformer Circuits
 href: https://lesswrong.com/tag/transformer-circuits
+slug: transformer-circuits
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb174
 title: Likelihood Ratio
 href: https://lesswrong.com/tag/likelihood-ratio
+slug: likelihood-ratio
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb130
 title: Evidence of Absence
 href: https://lesswrong.com/tag/evidence-of-absence
+slug: evidence-of-absence
 type: tag
 tags:
   - LessWrong

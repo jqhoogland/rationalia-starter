@@ -2,6 +2,7 @@
 _id: fPRyNtDMeSMrEM9nr
 title: April Fool's
 href: https://lesswrong.com/tag/april-fool-s
+slug: april-fool-s
 type: tag
 tags:
   - LessWrong

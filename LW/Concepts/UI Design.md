@@ -2,6 +2,7 @@
 _id: ZsWDPoXcchbGneaMX
 title: UI Design
 href: https://lesswrong.com/tag/ui-design
+slug: ui-design
 type: tag
 tags:
   - LessWrong

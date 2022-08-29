@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb183
 title: Giant Cheesecake Fallacy
 href: https://lesswrong.com/tag/giant-cheesecake-fallacy
+slug: giant-cheesecake-fallacy
 type: tag
 tags:
   - LessWrong

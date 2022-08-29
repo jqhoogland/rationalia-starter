@@ -2,6 +2,7 @@
 _id: KmgkrftQuX7jmjjp5
 title: Language Models
 href: https://lesswrong.com/tag/language-models
+slug: language-models
 type: tag
 tags:
   - LessWrong

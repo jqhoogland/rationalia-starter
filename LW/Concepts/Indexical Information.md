@@ -2,6 +2,7 @@
 _id: 2eG84YuMhatBpBXPJ
 title: Indexical Information
 href: https://lesswrong.com/tag/indexical-information
+slug: indexical-information
 type: tag
 tags:
   - LessWrong

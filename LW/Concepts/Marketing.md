@@ -2,6 +2,7 @@
 _id: rnvHPB3X2TiD5NMwY
 title: Marketing
 href: https://lesswrong.com/tag/marketing
+slug: marketing
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: Q9ASuEEoJWxT3RLMT
 title: Animal Welfare
 href: https://lesswrong.com/tag/animal-welfare
+slug: animal-welfare
 type: tag
 tags:
   - LessWrong

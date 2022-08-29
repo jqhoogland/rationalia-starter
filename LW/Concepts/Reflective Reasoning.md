@@ -2,6 +2,7 @@
 _id: 6wzZZfW87aKGQ7Fwr
 title: Reflective Reasoning
 href: https://lesswrong.com/tag/reflective-reasoning
+slug: reflective-reasoning
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: jTScW3bvF3j6WoiFe
 title: Radical Probabilism
 href: https://lesswrong.com/tag/radical-probabilism
+slug: radical-probabilism
 type: tag
 tags:
   - LessWrong

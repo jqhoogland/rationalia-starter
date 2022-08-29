@@ -2,6 +2,7 @@
 _id: F6kBsuRJzi4AKJ7tL
 title: Nuclear War
 href: https://lesswrong.com/tag/nuclear-war
+slug: nuclear-war
 type: tag
 tags:
   - LessWrong

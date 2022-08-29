@@ -2,6 +2,7 @@
 _id: yTuPAtcPHSpc9r3kA
 title: Impact Measures
 href: https://lesswrong.com/tag/impact-measures
+slug: impact-measures
 type: tag
 tags:
   - LessWrong

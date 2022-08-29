@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb221
 title: Bets Registry
 href: https://lesswrong.com/tag/bets-registry
+slug: bets-registry
 type: tag
 tags:
   - LessWrong

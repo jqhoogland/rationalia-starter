@@ -2,6 +2,7 @@
 _id: C7LDCaPh9vF6TFubF
 title: Grieving
 href: https://lesswrong.com/tag/grieving
+slug: grieving
 type: tag
 tags:
   - LessWrong

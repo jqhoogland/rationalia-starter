@@ -2,6 +2,7 @@
 _id: vMeJdnoedH7iL8LiR
 title: Time (value of)
 href: https://lesswrong.com/tag/time-value-of
+slug: time-value-of
 type: tag
 tags:
   - LessWrong

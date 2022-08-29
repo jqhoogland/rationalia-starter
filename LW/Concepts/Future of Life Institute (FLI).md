@@ -2,6 +2,7 @@
 _id: CL9NePP9FejkQo6jn
 title: Future of Life Institute (FLI)
 href: https://lesswrong.com/tag/future-of-life-institute-fli
+slug: future-of-life-institute-fli
 type: tag
 tags:
   - LessWrong

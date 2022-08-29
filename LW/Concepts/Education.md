@@ -2,6 +2,7 @@
 _id: fH8jPjHF2R27sRTTG
 title: Education
 href: https://lesswrong.com/tag/education
+slug: education
 type: tag
 tags:
   - LessWrong

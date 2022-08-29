@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2fa
 title: Personal Identity
 href: https://lesswrong.com/tag/personal-identity
+slug: personal-identity
 type: tag
 tags:
   - LessWrong

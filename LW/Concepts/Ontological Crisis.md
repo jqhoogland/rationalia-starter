@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2c2
 title: Ontological Crisis
 href: https://lesswrong.com/tag/ontological-crisis
+slug: ontological-crisis
 type: tag
 tags:
   - LessWrong

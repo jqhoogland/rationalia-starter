@@ -2,6 +2,7 @@
 _id: hQiuNkBhn6xxcedTD
 title: Occam's Razor
 href: https://lesswrong.com/tag/occam-s-razor
+slug: occam-s-razor
 type: tag
 tags:
   - LessWrong

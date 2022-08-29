@@ -2,6 +2,7 @@
 _id: nGLvnaZCH5mx8h8Mh
 title: Selectorate Theory
 href: https://lesswrong.com/tag/selectorate-theory
+slug: selectorate-theory
 type: tag
 tags:
   - LessWrong

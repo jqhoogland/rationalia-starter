@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb196
 title: Mind Design Space
 href: https://lesswrong.com/tag/mind-design-space
+slug: mind-design-space
 type: tag
 tags:
   - LessWrong

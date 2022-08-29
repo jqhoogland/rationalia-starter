@@ -2,6 +2,7 @@
 _id: fkABsGCJZ6y9qConW
 title: Practical
 href: https://lesswrong.com/tag/practical
+slug: practical
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb219
 title: The Hanson-Yudkowsky AI-Foom Debate
 href: https://lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate
+slug: the-hanson-yudkowsky-ai-foom-debate
 type: tag
 tags:
   - LessWrong

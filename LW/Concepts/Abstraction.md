@@ -2,6 +2,7 @@
 _id: 5GYzBE6q89w74dqfk
 title: Abstraction
 href: https://lesswrong.com/tag/abstraction
+slug: abstraction
 type: tag
 tags:
   - LessWrong

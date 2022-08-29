@@ -2,6 +2,7 @@
 _id: KqfqD7YSMeFTLJCcs
 title: Tripwire
 href: https://lesswrong.com/tag/tripwire
+slug: tripwire
 type: tag
 tags:
   - LessWrong

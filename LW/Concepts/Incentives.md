@@ -2,6 +2,7 @@
 _id: z5uy4NcWc2JSRTGHb
 title: Incentives
 href: https://lesswrong.com/tag/incentives
+slug: incentives
 type: tag
 tags:
   - LessWrong

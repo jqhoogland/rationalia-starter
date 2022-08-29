@@ -2,6 +2,7 @@
 _id: gHCNhqxuJq2bZ2akb
 title: Social & Cultural Dynamics
 href: https://lesswrong.com/tag/social-and-cultural-dynamics
+slug: social-and-cultural-dynamics
 type: tag
 tags:
   - LessWrong

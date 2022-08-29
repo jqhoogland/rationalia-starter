@@ -2,6 +2,7 @@
 _id: kcj6MciuGPPK8rmCn
 title: References (Language)
 href: https://lesswrong.com/tag/references-language
+slug: references-language
 type: tag
 tags:
   - LessWrong

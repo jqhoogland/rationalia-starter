@@ -2,6 +2,7 @@
 _id: EmaCLRKb4baBFq4ra
 title: dath ilan
 href: https://lesswrong.com/tag/dath-ilan
+slug: dath-ilan
 type: tag
 tags:
   - LessWrong

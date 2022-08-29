@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb292
 title: Seed AI
 href: https://lesswrong.com/tag/seed-ai
+slug: seed-ai
 type: tag
 tags:
   - LessWrong

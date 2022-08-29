@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb192
 title: Adding Up to Normality
 href: https://lesswrong.com/tag/adding-up-to-normality
+slug: adding-up-to-normality
 type: tag
 tags:
   - LessWrong

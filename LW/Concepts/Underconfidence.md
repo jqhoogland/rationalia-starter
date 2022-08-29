@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb118
 title: Underconfidence
 href: https://lesswrong.com/tag/underconfidence
+slug: underconfidence
 type: tag
 tags:
   - LessWrong

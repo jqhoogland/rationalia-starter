@@ -2,6 +2,7 @@
 _id: fCA878kj7zunQHnp9
 title: Flashcards
 href: https://lesswrong.com/tag/flashcards
+slug: flashcards
 type: tag
 tags:
   - LessWrong

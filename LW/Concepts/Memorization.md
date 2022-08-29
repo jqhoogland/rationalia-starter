@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f3
 title: Memorization
 href: https://lesswrong.com/tag/memorization
+slug: memorization
 type: tag
 tags:
   - LessWrong

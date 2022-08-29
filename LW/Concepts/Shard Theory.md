@@ -2,6 +2,7 @@
 _id: zuwsLCbxbugqB7FQY
 title: Shard Theory
 href: https://lesswrong.com/tag/shard-theory
+slug: shard-theory
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb239
 title: Utilitronium
 href: https://lesswrong.com/tag/utilitronium
+slug: utilitronium
 type: tag
 tags:
   - LessWrong

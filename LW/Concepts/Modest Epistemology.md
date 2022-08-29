@@ -2,6 +2,7 @@
 _id: qf3kDBak4BQDDw3f2
 title: Modest Epistemology
 href: https://lesswrong.com/tag/modest-epistemology
+slug: modest-epistemology
 type: tag
 tags:
   - LessWrong

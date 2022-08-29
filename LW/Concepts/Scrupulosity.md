@@ -2,6 +2,7 @@
 _id: kS3QBcbwtapefkSSZ
 title: Scrupulosity
 href: https://lesswrong.com/tag/scrupulosity
+slug: scrupulosity
 type: tag
 tags:
   - LessWrong

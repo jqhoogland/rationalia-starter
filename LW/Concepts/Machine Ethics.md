@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2be
 title: Machine Ethics
 href: https://lesswrong.com/tag/machine-ethics
+slug: machine-ethics
 type: tag
 tags:
   - LessWrong

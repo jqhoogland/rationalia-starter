@@ -2,6 +2,7 @@
 _id: kJrjorSx3hXa7q7CJ
 title: Surveys
 href: https://lesswrong.com/tag/surveys
+slug: surveys
 type: tag
 tags:
   - LessWrong

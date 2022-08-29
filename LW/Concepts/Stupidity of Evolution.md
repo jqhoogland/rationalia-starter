@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb123
 title: Stupidity of Evolution
 href: https://lesswrong.com/tag/stupidity-of-evolution
+slug: stupidity-of-evolution
 type: tag
 tags:
   - LessWrong

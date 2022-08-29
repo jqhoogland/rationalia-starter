@@ -2,6 +2,7 @@
 _id: k6igEkzKYY2EpY7Su
 title: Meta-Philosophy
 href: https://lesswrong.com/tag/meta-philosophy
+slug: meta-philosophy
 type: tag
 tags:
   - LessWrong

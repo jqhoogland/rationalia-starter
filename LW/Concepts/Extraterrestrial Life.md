@@ -2,6 +2,7 @@
 _id: NGtNzdS88JtEQdRP4
 title: Extraterrestrial Life
 href: https://lesswrong.com/tag/extraterrestrial-life
+slug: extraterrestrial-life
 type: tag
 tags:
   - LessWrong

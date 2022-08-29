@@ -2,6 +2,7 @@
 _id: yrg267i4a8EsgYAXp
 title: HPMOR (discussion & meta)
 href: https://lesswrong.com/tag/hpmor-discussion-and-meta
+slug: hpmor-discussion-and-meta
 type: tag
 tags:
   - LessWrong

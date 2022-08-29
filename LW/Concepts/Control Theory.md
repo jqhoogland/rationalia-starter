@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb11d
 title: Control Theory
 href: https://lesswrong.com/tag/control-theory
+slug: control-theory
 type: tag
 tags:
   - LessWrong

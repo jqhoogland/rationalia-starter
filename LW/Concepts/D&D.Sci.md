@@ -2,6 +2,7 @@
 _id: npoWi8AYpegPcSYcw
 title: D&D.Sci
 href: https://lesswrong.com/tag/d-and-d-sci
+slug: d-and-d-sci
 type: tag
 tags:
   - LessWrong

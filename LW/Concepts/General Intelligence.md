@@ -2,6 +2,7 @@
 _id: ac84EpK6mZbPLzmqj
 title: General Intelligence
 href: https://lesswrong.com/tag/general-intelligence
+slug: general-intelligence
 type: tag
 tags:
   - LessWrong

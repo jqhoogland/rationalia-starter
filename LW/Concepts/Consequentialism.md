@@ -2,6 +2,7 @@
 _id: ZTRNmvQGgoYiymYnq
 title: Consequentialism
 href: https://lesswrong.com/tag/consequentialism
+slug: consequentialism
 type: tag
 tags:
   - LessWrong

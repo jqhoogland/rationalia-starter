@@ -2,6 +2,7 @@
 _id: xknvtHwqvqhwahW8Q
 title: Human Values
 href: https://lesswrong.com/tag/human-values
+slug: human-values
 type: tag
 tags:
   - LessWrong

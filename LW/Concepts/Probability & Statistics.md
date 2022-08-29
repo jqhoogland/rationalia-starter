@@ -2,6 +2,7 @@
 _id: bh7uxTTqmsQ8jZJdB
 title: Probability & Statistics
 href: https://lesswrong.com/tag/probability-and-statistics
+slug: probability-and-statistics
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: cA6e2WpMYZEvfsopQ
 title: GAN
 href: https://lesswrong.com/tag/gan
+slug: gan
 type: tag
 tags:
   - LessWrong

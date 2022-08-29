@@ -2,6 +2,7 @@
 _id: ALwRRZqvhaop8gxkT
 title: Groupthink
 href: https://lesswrong.com/tag/groupthink
+slug: groupthink
 type: tag
 tags:
   - LessWrong

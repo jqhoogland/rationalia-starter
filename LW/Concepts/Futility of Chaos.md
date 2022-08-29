@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb176
 title: Futility of Chaos
 href: https://lesswrong.com/tag/futility-of-chaos
+slug: futility-of-chaos
 type: tag
 tags:
   - LessWrong

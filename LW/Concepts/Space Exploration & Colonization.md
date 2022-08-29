@@ -2,6 +2,7 @@
 _id: 2JdCpTrNgBMNpJiyB
 title: Space Exploration & Colonization
 href: https://lesswrong.com/tag/space-exploration-and-colonization
+slug: space-exploration-and-colonization
 type: tag
 tags:
   - LessWrong

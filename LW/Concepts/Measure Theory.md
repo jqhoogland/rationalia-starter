@@ -2,6 +2,7 @@
 _id: kxffynF3MAK3TacL7
 title: Measure Theory
 href: https://lesswrong.com/tag/measure-theory
+slug: measure-theory
 type: tag
 tags:
   - LessWrong

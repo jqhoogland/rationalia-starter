@@ -2,6 +2,7 @@
 _id: ESkc5kecgkLF235dj
 title: Acute Risk Period
 href: https://lesswrong.com/tag/acute-risk-period
+slug: acute-risk-period
 type: tag
 tags:
   - LessWrong

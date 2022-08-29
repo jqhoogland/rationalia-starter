@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb12b
 title: Semantic Stopsign
 href: https://lesswrong.com/tag/semantic-stopsign
+slug: semantic-stopsign
 type: tag
 tags:
   - LessWrong

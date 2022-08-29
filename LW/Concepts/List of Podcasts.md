@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb34b
 title: List of Podcasts
 href: https://lesswrong.com/tag/list-of-podcasts
+slug: list-of-podcasts
 type: tag
 tags:
   - LessWrong

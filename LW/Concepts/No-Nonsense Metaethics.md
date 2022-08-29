@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb25a
 title: No-Nonsense Metaethics
 href: https://lesswrong.com/tag/no-nonsense-metaethics
+slug: no-nonsense-metaethics
 type: tag
 tags:
   - LessWrong

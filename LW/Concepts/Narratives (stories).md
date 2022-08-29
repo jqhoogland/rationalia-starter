@@ -2,6 +2,7 @@
 _id: pszEEb3ctztv3rozd
 title: Narratives (stories)
 href: https://lesswrong.com/tag/narratives-stories
+slug: narratives-stories
 type: tag
 tags:
   - LessWrong

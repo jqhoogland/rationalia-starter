@@ -2,6 +2,7 @@
 _id: zCyW4sAD7gkmAT38f
 title: Comfort Zone Expansion (CoZE)
 href: https://lesswrong.com/tag/comfort-zone-expansion-coze
+slug: comfort-zone-expansion-coze
 type: tag
 tags:
   - LessWrong

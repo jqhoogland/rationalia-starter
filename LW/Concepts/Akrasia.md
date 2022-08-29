@@ -2,6 +2,7 @@
 _id: r7qAjcbfhj2256EHH
 title: Akrasia
 href: https://lesswrong.com/tag/akrasia
+slug: akrasia
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb210
 title: Reversed Stupidity Is Not Intelligence
 href: https://lesswrong.com/tag/reversed-stupidity-is-not-intelligence
+slug: reversed-stupidity-is-not-intelligence
 type: tag
 tags:
   - LessWrong

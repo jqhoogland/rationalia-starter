@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb34e
 title: Slate Star Codex
 href: https://lesswrong.com/tag/slate-star-codex
+slug: slate-star-codex
 type: tag
 tags:
   - LessWrong

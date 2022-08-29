@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb160
 title: Evidence
 href: https://lesswrong.com/tag/evidence
+slug: evidence
 type: tag
 tags:
   - LessWrong

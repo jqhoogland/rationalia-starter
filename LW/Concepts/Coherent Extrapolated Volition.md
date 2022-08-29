@@ -2,6 +2,7 @@
 _id: W6QZYSNt5FgWgvbdT
 title: Coherent Extrapolated Volition
 href: https://lesswrong.com/tag/coherent-extrapolated-volition
+slug: coherent-extrapolated-volition
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: M9oWHR2XGLmg2DaZp
 title: Analogy
 href: https://lesswrong.com/tag/analogy
+slug: analogy
 type: tag
 tags:
   - LessWrong

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5057702f680a22e5",
+        "id": "4c510162f2032c06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Absolute Certainty.md",
+            "file": "LW/Concepts/12 Virtues.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tag",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "402f879634acba83",
@@ -64,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Absolute Certainty.md"
+                "file": "LW/Concepts/12 Virtues.md"
               }
             }
           }
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Absolute Certainty.md",
+                "file": "LW/Concepts/12 Virtues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +162,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "5057702f680a22e5",
+  "active": "4c510162f2032c06",
   "lastOpenFiles": [
-    "LW/Concepts/Absolute Certainty.md",
+    "LW/Concepts/Abstraction.md",
+    "LW/Concepts/12 Virtues.md",
+    "LW/Concepts/Twelfth Virtue (The).md",
+    "LW/Concepts/Relinquishment.md",
+    "LW/Concepts/Abolitionism.md",
+    "LW/Concepts/Acute Risk Period.md",
+    "LW/Concepts/Academic Papers.md",
     "LW/Concepts/Absent-Minded Driver.md",
-    "LW/Jargon/80-20.md",
-    "LW/Jargon/Againstness.md",
-    "LW/Jargon/Alief.md",
-    "LW/Jargon/Affordance.md",
-    "LW/Jargon/Affect.md",
-    "LW/Jargon/AFAICT.md",
-    "LW/Jargon/ADBOC.md",
-    "LW/Jargon/Adaptive problem.md"
+    "Smoking lesion.md",
+    "LW/Concepts/Absolute Certainty.md"
   ]
 }

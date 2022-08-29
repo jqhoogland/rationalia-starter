@@ -2,6 +2,7 @@
 _id: cFDQeyr8SpWuKpweq
 title: Naturalism
 href: https://lesswrong.com/tag/naturalism
+slug: naturalism
 type: tag
 tags:
   - LessWrong

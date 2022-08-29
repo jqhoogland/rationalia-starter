@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1db
 title: Timeless Decision Theory
 href: https://lesswrong.com/tag/timeless-decision-theory
+slug: timeless-decision-theory
 type: tag
 tags:
   - LessWrong
@@ -27,7 +28,7 @@ TDT will endorse one-boxing in this scenario and hence endorses the winning deci
 
 ## TDT and other decision scenarios
 
-TDT also wins in a range of other cases including [[Smoking Lesion|medical Newcomb's problems]], [Parfit's hitchhiker](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/), and [[Prisoner's Dilemma|the one-shot prisoners' dilemma]]. However, there are [other scenarios](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) where TDT does not win, including [counterfactual mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/). This suggests that TDT still requires further development if it is to become a fully adequate decision theory. Given this, there is some motivation to also consider alternative decision theories alongside TDT, like [updateless decision theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) (UDT), which also wins in a range of scenarios but has its own problem cases. It seems likely that both of these theories draw on insights which are crucial to progressing our understanding of decision theory. So while TDT requires further development to be entirely adequate, it nevertheless represents a substantial step toward developing a decision theory that always endorses the winning decision
+TDT also wins in a range of other cases including [[LW/Concepts/Smoking Lesion|medical Newcomb's problems]], [Parfit's hitchhiker](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/), and [[Prisoner's Dilemma|the one-shot prisoners' dilemma]]. However, there are [other scenarios](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) where TDT does not win, including [counterfactual mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/). This suggests that TDT still requires further development if it is to become a fully adequate decision theory. Given this, there is some motivation to also consider alternative decision theories alongside TDT, like [updateless decision theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) (UDT), which also wins in a range of scenarios but has its own problem cases. It seems likely that both of these theories draw on insights which are crucial to progressing our understanding of decision theory. So while TDT requires further development to be entirely adequate, it nevertheless represents a substantial step toward developing a decision theory that always endorses the winning decision
 
 ## Formalization of TDT
 

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2cb
 title: Terminal Value
 href: https://lesswrong.com/tag/terminal-value
+slug: terminal-value
 type: tag
 tags:
   - LessWrong

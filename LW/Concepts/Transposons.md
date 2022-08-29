@@ -2,6 +2,7 @@
 _id: FnnEaFGmG3FScvzj7
 title: Transposons
 href: https://lesswrong.com/tag/transposons
+slug: transposons
 type: tag
 tags:
   - LessWrong

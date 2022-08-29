@@ -2,6 +2,7 @@
 _id: bbdbpGWWPMfKBzk7z
 title: Gradient Hacking
 href: https://lesswrong.com/tag/gradient-hacking
+slug: gradient-hacking
 type: tag
 tags:
   - LessWrong

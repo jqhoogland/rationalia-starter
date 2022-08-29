@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2f5
 title: Doomsday Argument
 href: https://lesswrong.com/tag/doomsday-argument
+slug: doomsday-argument
 type: tag
 tags:
   - LessWrong

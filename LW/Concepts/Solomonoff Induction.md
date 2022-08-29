@@ -2,6 +2,7 @@
 _id: bTeiZr6YAEaSPQTC8
 title: Solomonoff Induction
 href: https://lesswrong.com/tag/solomonoff-induction
+slug: solomonoff-induction
 type: tag
 tags:
   - LessWrong

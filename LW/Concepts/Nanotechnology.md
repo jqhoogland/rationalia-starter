@@ -2,6 +2,7 @@
 _id: XJjvxWB68GYpts93N
 title: Nanotechnology
 href: https://lesswrong.com/tag/nanotechnology
+slug: nanotechnology
 type: tag
 tags:
   - LessWrong

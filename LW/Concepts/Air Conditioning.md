@@ -2,6 +2,7 @@
 _id: XGEumKCYarMaZh8iu
 title: Air Conditioning
 href: https://lesswrong.com/tag/air-conditioning
+slug: air-conditioning
 type: tag
 tags:
   - LessWrong

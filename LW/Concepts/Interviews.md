@@ -2,6 +2,7 @@
 _id: 9DNZfxFvY5iKoZQbz
 title: Interviews
 href: https://lesswrong.com/tag/interviews
+slug: interviews
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: y93YW7Kb6J8D5PKng
 title: Reset (technique)
 href: https://lesswrong.com/tag/reset-technique
+slug: reset-technique
 type: tag
 tags:
   - LessWrong

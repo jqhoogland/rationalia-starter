@@ -2,6 +2,7 @@
 _id: jKAkRrhnHedfowNYy
 title: Islam
 href: https://lesswrong.com/tag/islam
+slug: islam
 type: tag
 tags:
   - LessWrong

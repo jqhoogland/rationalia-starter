@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1ce
 title: Steven Kaas
 href: https://lesswrong.com/tag/steven-kaas
+slug: steven-kaas
 type: tag
 tags:
   - LessWrong

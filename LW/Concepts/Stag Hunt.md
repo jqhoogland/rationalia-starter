@@ -2,6 +2,7 @@
 _id: vmdE9sHtHqPhNDWys
 title: Stag Hunt
 href: https://lesswrong.com/tag/stag-hunt
+slug: stag-hunt
 type: tag
 tags:
   - LessWrong

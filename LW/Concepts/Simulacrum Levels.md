@@ -2,6 +2,7 @@
 _id: 5SPDtxJT6y6ZTXHBJ
 title: Simulacrum Levels
 href: https://lesswrong.com/tag/simulacrum-levels
+slug: simulacrum-levels
 type: tag
 tags:
   - LessWrong

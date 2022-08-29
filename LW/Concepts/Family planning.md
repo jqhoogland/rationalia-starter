@@ -2,6 +2,7 @@
 _id: b7ZSAGimsbzrLR5CR
 title: Family planning
 href: https://lesswrong.com/tag/family-planning
+slug: family-planning
 type: tag
 tags:
   - LessWrong

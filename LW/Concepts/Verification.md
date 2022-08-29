@@ -2,6 +2,7 @@
 _id: a78XXmCuD3eFLYzph
 title: Verification
 href: https://lesswrong.com/tag/verification
+slug: verification
 type: tag
 tags:
   - LessWrong

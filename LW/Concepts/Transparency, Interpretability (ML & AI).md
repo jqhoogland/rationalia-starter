@@ -2,6 +2,7 @@
 _id: 56yXXrcxRjrQs6z9R
 title: Transparency / Interpretability (ML & AI)
 href: https://lesswrong.com/tag/transparency-interpretability-ml-and-ai
+slug: transparency-interpretability-ml-and-ai
 type: tag
 tags:
   - LessWrong

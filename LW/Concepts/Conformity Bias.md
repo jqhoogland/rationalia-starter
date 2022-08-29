@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb124
 title: Conformity Bias
 href: https://lesswrong.com/tag/conformity-bias
+slug: conformity-bias
 type: tag
 tags:
   - LessWrong

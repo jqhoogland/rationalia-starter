@@ -2,6 +2,7 @@
 _id: GDGYkF29pxEQNWjYc
 title: Agency
 href: https://lesswrong.com/tag/agency
+slug: agency
 type: tag
 tags:
   - LessWrong

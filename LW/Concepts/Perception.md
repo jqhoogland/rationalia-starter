@@ -2,6 +2,7 @@
 _id: EgL74XM3JRu5hjQxu
 title: Perception
 href: https://lesswrong.com/tag/perception
+slug: perception
 type: tag
 tags:
   - LessWrong

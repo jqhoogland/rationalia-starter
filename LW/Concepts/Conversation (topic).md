@@ -2,6 +2,7 @@
 _id: ZXFpyQWPB5ideFbEG
 title: Conversation (topic)
 href: https://lesswrong.com/tag/conversation-topic
+slug: conversation-topic
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: PCLuivxECxsC3aNgy
 title: Lighting
 href: https://lesswrong.com/tag/lighting
+slug: lighting
 type: tag
 tags:
   - LessWrong

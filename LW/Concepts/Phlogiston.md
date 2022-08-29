@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1aa
 title: Phlogiston
 href: https://lesswrong.com/tag/phlogiston
+slug: phlogiston
 type: tag
 tags:
   - LessWrong

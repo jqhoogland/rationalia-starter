@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb294
 title: Bayesian Decision Theory
 href: https://lesswrong.com/tag/bayesian-decision-theory
+slug: bayesian-decision-theory
 type: tag
 tags:
   - LessWrong

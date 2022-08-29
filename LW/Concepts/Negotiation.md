@@ -2,6 +2,7 @@
 _id: jxMoPnsWXBnDzXBwE
 title: Negotiation
 href: https://lesswrong.com/tag/negotiation
+slug: negotiation
 type: tag
 tags:
   - LessWrong

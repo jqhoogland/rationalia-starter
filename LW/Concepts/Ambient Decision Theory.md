@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb23f
 title: Ambient Decision Theory
 href: https://lesswrong.com/tag/ambient-decision-theory
+slug: ambient-decision-theory
 type: tag
 tags:
   - LessWrong

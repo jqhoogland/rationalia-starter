@@ -2,6 +2,7 @@
 _id: T63QtRJhoTEGhZbTP
 title: Creativity
 href: https://lesswrong.com/tag/creativity
+slug: creativity
 type: tag
 tags:
   - LessWrong

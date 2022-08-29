@@ -2,6 +2,7 @@
 _id: 3ee9k6NJfcGzL6kMS
 title: Emotions
 href: https://lesswrong.com/tag/emotions
+slug: emotions
 type: tag
 tags:
   - LessWrong

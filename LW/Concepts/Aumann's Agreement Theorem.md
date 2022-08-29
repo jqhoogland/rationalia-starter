@@ -2,6 +2,7 @@
 _id: WH5ZmNSjZmK9SMj7k
 title: Aumann's Agreement Theorem
 href: https://lesswrong.com/tag/aumann-s-agreement-theorem
+slug: aumann-s-agreement-theorem
 type: tag
 tags:
   - LessWrong

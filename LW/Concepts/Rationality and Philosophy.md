@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb258
 title: Rationality and Philosophy
 href: https://lesswrong.com/tag/rationality-and-philosophy
+slug: rationality-and-philosophy
 type: tag
 tags:
   - LessWrong

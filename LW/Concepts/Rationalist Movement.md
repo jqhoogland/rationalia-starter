@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb342
 title: Rationalist Movement
 href: https://lesswrong.com/tag/rationalist-movement
+slug: rationalist-movement
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb318
 title: The Machine In The Ghost
 href: https://lesswrong.com/tag/the-machine-in-the-ghost
+slug: the-machine-in-the-ghost
 type: tag
 tags:
   - LessWrong

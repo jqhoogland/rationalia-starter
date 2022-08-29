@@ -2,6 +2,7 @@
 _id: PvridmTCj2qsugQCH
 title: Goodhart's Law
 href: https://lesswrong.com/tag/goodhart-s-law
+slug: goodhart-s-law
 type: tag
 tags:
   - LessWrong

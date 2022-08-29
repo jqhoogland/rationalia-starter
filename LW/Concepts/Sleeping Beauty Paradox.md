@@ -2,6 +2,7 @@
 _id: NZB24aR9uHmDc5GcT
 title: Sleeping Beauty Paradox
 href: https://lesswrong.com/tag/sleeping-beauty-paradox
+slug: sleeping-beauty-paradox
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: F2XfCTxXLQBGjbm8P
 title: Parables & Fables
 href: https://lesswrong.com/tag/parables-and-fables
+slug: parables-and-fables
 type: tag
 tags:
   - LessWrong

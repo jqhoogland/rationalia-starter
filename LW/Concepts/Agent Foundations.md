@@ -2,6 +2,7 @@
 _id: RyNWXFjKNcafRKvPh
 title: Agent Foundations
 href: https://lesswrong.com/tag/agent-foundations
+slug: agent-foundations
 type: tag
 tags:
   - LessWrong

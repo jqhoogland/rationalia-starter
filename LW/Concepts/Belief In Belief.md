@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb15a
 title: Belief In Belief
 href: https://lesswrong.com/tag/belief-in-belief
+slug: belief-in-belief
 type: tag
 tags:
   - LessWrong

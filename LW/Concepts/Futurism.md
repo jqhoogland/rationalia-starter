@@ -2,6 +2,7 @@
 _id: pGqRLe9bFDX2G2kXY
 title: Futurism
 href: https://lesswrong.com/tag/futurism
+slug: futurism
 type: tag
 tags:
   - LessWrong

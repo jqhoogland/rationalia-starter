@@ -2,6 +2,7 @@
 _id: GLykb6NukBeBQtDvQ
 title: Philosophy
 href: https://lesswrong.com/tag/philosophy
+slug: philosophy
 type: tag
 tags:
   - LessWrong

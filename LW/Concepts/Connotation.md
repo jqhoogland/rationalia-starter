@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0dc
 title: Connotation
 href: https://lesswrong.com/tag/connotation
+slug: connotation
 type: tag
 tags:
   - LessWrong

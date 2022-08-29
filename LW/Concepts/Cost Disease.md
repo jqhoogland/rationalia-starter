@@ -2,6 +2,7 @@
 _id: 8XiMxJaWbjNtWLsEj
 title: Cost Disease
 href: https://lesswrong.com/tag/cost-disease
+slug: cost-disease
 type: tag
 tags:
   - LessWrong

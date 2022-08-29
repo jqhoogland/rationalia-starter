@@ -2,6 +2,7 @@
 _id: Kj9q8FXoauL7mQDWt
 title: Affect Heuristic
 href: https://lesswrong.com/tag/affect-heuristic
+slug: affect-heuristic
 type: tag
 tags:
   - LessWrong

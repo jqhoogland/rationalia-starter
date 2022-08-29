@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b4
 title: Offense
 href: https://lesswrong.com/tag/offense
+slug: offense
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 7Gh5dSvySMNbA6niL
 title: Prioritization
 href: https://lesswrong.com/tag/prioritization
+slug: prioritization
 type: tag
 tags:
   - LessWrong

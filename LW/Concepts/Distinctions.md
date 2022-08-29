@@ -2,6 +2,7 @@
 _id: AHK82ypfxF45rqh9D
 title: Distinctions
 href: https://lesswrong.com/tag/distinctions
+slug: distinctions
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: emPKooKGELngMG7sP
 title: Truthful AI
 href: https://lesswrong.com/tag/truthful-ai
+slug: truthful-ai
 type: tag
 tags:
   - LessWrong

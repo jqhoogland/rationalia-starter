@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb230
 title: Rituals of Cognition
 href: https://lesswrong.com/tag/rituals-of-cognition
+slug: rituals-of-cognition
 type: tag
 tags:
   - LessWrong

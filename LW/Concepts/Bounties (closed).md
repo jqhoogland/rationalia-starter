@@ -2,6 +2,7 @@
 _id: khReijeucXJTnsyMT
 title: Bounties (closed)
 href: https://lesswrong.com/tag/bounties-closed
+slug: bounties-closed
 type: tag
 tags:
   - LessWrong

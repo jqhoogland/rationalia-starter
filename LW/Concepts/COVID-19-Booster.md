@@ -2,6 +2,7 @@
 _id: j2coh2kwvyBZc3GAe
 title: COVID-19-Booster
 href: https://lesswrong.com/tag/covid-19-booster
+slug: covid-19-booster
 type: tag
 tags:
   - LessWrong

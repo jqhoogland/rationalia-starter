@@ -2,6 +2,7 @@
 _id: wdLqQnzdgiYpDXEWH
 title: Infra-Bayesianism
 href: https://lesswrong.com/tag/infra-bayesianism
+slug: infra-bayesianism
 type: tag
 tags:
   - LessWrong

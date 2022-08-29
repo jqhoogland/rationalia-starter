@@ -2,6 +2,7 @@
 _id: tRPnS4FoZeWjRfBxN
 title: Skill / Expertise Assessment
 href: https://lesswrong.com/tag/skill-expertise-assessment
+slug: skill-expertise-assessment
 type: tag
 tags:
   - LessWrong

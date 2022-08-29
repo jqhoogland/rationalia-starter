@@ -2,6 +2,7 @@
 _id: wygybwY9SMdaPepZr
 title: Feedback & Criticism (topic)
 href: https://lesswrong.com/tag/feedback-and-criticism-topic
+slug: feedback-and-criticism-topic
 type: tag
 tags:
   - LessWrong

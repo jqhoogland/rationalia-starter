@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb13b
 title: Scales of Justice Fallacy
 href: https://lesswrong.com/tag/scales-of-justice-fallacy
+slug: scales-of-justice-fallacy
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: BzghQYM9GnkMHxZKb
 title: Problem-solving (skills and techniques)
 href: https://lesswrong.com/tag/problem-solving-skills-and-techniques
+slug: problem-solving-skills-and-techniques
 type: tag
 tags:
   - LessWrong

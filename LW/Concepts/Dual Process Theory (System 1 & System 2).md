@@ -2,6 +2,7 @@
 _id: DLskYNGdAGDFpxBF8
 title: Dual Process Theory (System 1 & System 2)
 href: https://lesswrong.com/tag/dual-process-theory-system-1-and-system-2
+slug: dual-process-theory-system-1-and-system-2
 type: tag
 tags:
   - LessWrong

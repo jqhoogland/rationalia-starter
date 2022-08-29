@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0fd
 title: Omega
 href: https://lesswrong.com/tag/omega
+slug: omega
 type: tag
 tags:
   - LessWrong

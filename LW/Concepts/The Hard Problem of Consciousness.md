@@ -2,6 +2,7 @@
 _id: KqrZ5sDEyHm6JaaKp
 title: The Hard Problem of Consciousness
 href: https://lesswrong.com/tag/the-hard-problem-of-consciousness
+slug: the-hard-problem-of-consciousness
 type: tag
 tags:
   - LessWrong

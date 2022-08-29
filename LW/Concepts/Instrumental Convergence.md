@@ -2,6 +2,7 @@
 _id: xHTXnyp65X8YX6ahT
 title: Instrumental Convergence
 href: https://lesswrong.com/tag/instrumental-convergence
+slug: instrumental-convergence
 type: tag
 tags:
   - LessWrong

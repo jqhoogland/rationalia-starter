@@ -2,6 +2,7 @@
 _id: Zwc2JcT5az4e5YpJy
 title: Rationality Quotes
 href: https://lesswrong.com/tag/rationality-quotes
+slug: rationality-quotes
 type: tag
 tags:
   - LessWrong

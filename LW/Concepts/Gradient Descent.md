@@ -2,6 +2,7 @@
 _id: Myz8DA9AghgpNei9i
 title: Gradient Descent
 href: https://lesswrong.com/tag/gradient-descent
+slug: gradient-descent
 type: tag
 tags:
   - LessWrong

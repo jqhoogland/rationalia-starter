@@ -2,6 +2,7 @@
 _id: oFpCNzqBd6tzCuxLa
 title: World Modeling Techniques
 href: https://lesswrong.com/tag/world-modeling-techniques
+slug: world-modeling-techniques
 type: tag
 tags:
   - LessWrong

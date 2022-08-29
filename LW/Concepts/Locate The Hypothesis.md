@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f9
 title: Locate The Hypothesis
 href: https://lesswrong.com/tag/locate-the-hypothesis
+slug: locate-the-hypothesis
 type: tag
 tags:
   - LessWrong

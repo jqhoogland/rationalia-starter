@@ -2,6 +2,7 @@
 _id: xv7Bg5fbF9WppYREi
 title: Buddhism
 href: https://lesswrong.com/tag/buddhism
+slug: buddhism
 type: tag
 tags:
   - LessWrong

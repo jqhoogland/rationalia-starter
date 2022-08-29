@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb354
 title: Crucial Considerations
 href: https://lesswrong.com/tag/crucial-considerations
+slug: crucial-considerations
 type: tag
 tags:
   - LessWrong

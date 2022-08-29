@@ -2,6 +2,7 @@
 _id: P2jmr8zbGbGnoMG8a
 title: Dementia
 href: https://lesswrong.com/tag/dementia
+slug: dementia
 type: tag
 tags:
   - LessWrong

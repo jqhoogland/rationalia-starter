@@ -2,6 +2,7 @@
 _id: EFoa78oNx2jskHfYt
 title: Lottery Ticket Hypothesis
 href: https://lesswrong.com/tag/lottery-ticket-hypothesis
+slug: lottery-ticket-hypothesis
 type: tag
 tags:
   - LessWrong

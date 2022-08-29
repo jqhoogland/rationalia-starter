@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f4
 title: Understanding
 href: https://lesswrong.com/tag/understanding
+slug: understanding
 type: tag
 tags:
   - LessWrong

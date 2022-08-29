@@ -2,6 +2,7 @@
 _id: dBPou4ihoQNY4cquv
 title: Psychology
 href: https://lesswrong.com/tag/psychology
+slug: psychology
 type: tag
 tags:
   - LessWrong

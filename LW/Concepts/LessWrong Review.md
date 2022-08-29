@@ -2,6 +2,7 @@
 _id: 2dz4FEXCdbk2BwDpc
 title: LessWrong Review
 href: https://lesswrong.com/tag/lesswrong-review
+slug: lesswrong-review
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: iNqgMuoewHKMhhXAp
 title: Sports
 href: https://lesswrong.com/tag/sports
+slug: sports
 type: tag
 tags:
   - LessWrong

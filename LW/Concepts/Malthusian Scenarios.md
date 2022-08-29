@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb290
 title: Malthusian Scenarios
 href: https://lesswrong.com/tag/malthusian-scenarios
+slug: malthusian-scenarios
 type: tag
 tags:
   - LessWrong

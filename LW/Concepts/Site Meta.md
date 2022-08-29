@@ -2,6 +2,7 @@
 _id: MfpEPj6kJneT9gWT6
 title: Site Meta
 href: https://lesswrong.com/tag/site-meta
+slug: site-meta
 type: tag
 tags:
   - LessWrong

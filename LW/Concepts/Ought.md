@@ -2,6 +2,7 @@
 _id: RseFyq6FqAhTycBEY
 title: Ought
 href: https://lesswrong.com/tag/ought
+slug: ought
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: Eha62RrqBtEbpcEza
 title: Repository
 href: https://lesswrong.com/tag/repository-1
+slug: repository-1
 type: tag
 tags:
   - LessWrong

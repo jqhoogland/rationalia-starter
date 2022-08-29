@@ -2,6 +2,7 @@
 _id: TDcpBdA8h7xsoWZWe
 title: Lightcone Infrastructure
 href: https://lesswrong.com/tag/lightcone-infrastructure
+slug: lightcone-infrastructure
 type: tag
 tags:
   - LessWrong

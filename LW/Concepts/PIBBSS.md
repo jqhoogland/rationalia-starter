@@ -2,6 +2,7 @@
 _id: n7qCAKXJhop8kEYxh
 title: PIBBSS
 href: https://lesswrong.com/tag/pibbss
+slug: pibbss
 type: tag
 tags:
   - LessWrong

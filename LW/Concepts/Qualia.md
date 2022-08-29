@@ -2,6 +2,7 @@
 _id: 8e9e8fzXuW5gGBS3F
 title: Qualia
 href: https://lesswrong.com/tag/qualia
+slug: qualia
 type: tag
 tags:
   - LessWrong

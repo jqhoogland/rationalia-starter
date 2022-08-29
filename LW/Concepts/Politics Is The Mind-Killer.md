@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb207
 title: Politics Is The Mind-Killer
 href: https://lesswrong.com/tag/politics-is-the-mind-killer
+slug: politics-is-the-mind-killer
 type: tag
 tags:
   - LessWrong

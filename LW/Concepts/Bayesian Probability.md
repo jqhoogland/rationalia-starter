@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0d2
 title: Bayesian Probability
 href: https://lesswrong.com/tag/bayesian-probability
+slug: bayesian-probability
 type: tag
 tags:
   - LessWrong

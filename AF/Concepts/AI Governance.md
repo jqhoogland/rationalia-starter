@@ -2,6 +2,7 @@
 _id: qHDus5MuMNqQxJbjD
 title: AI Governance
 href: https://lesswrong.com/tag/ai-governance
+slug: ai-governance
 type: tag
 tags:
   - LessWrong

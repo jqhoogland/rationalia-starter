@@ -2,6 +2,7 @@
 _id: oraLTPkETL5xKmhx3
 title: Moderation (topic)
 href: https://lesswrong.com/tag/moderation-topic
+slug: moderation-topic
 type: tag
 tags:
   - LessWrong

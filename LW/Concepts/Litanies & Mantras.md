@@ -2,6 +2,7 @@
 _id: SW3euSNqpozcsxXaX
 title: Litanies & Mantras
 href: https://lesswrong.com/tag/litanies-and-mantras
+slug: litanies-and-mantras
 type: tag
 tags:
   - LessWrong

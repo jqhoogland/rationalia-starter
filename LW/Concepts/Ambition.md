@@ -2,6 +2,7 @@
 _id: hrezrpGqXXdSe76ks
 title: Ambition
 href: https://lesswrong.com/tag/ambition
+slug: ambition
 type: tag
 tags:
   - LessWrong

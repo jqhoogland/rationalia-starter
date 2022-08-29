@@ -2,6 +2,7 @@
 _id: ZpG9rheyAkgCoEQea
 title: Practice & Philosophy of Science
 href: https://lesswrong.com/tag/practice-and-philosophy-of-science
+slug: practice-and-philosophy-of-science
 type: tag
 tags:
   - LessWrong

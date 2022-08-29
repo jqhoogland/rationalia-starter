@@ -2,6 +2,7 @@
 _id: tk4R4LrX88gmFeMmY
 title: Experiments
 href: https://lesswrong.com/tag/experiments
+slug: experiments
 type: tag
 tags:
   - LessWrong

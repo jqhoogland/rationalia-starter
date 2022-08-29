@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1c3
 title: Prospect Theory
 href: https://lesswrong.com/tag/prospect-theory
+slug: prospect-theory
 type: tag
 tags:
   - LessWrong

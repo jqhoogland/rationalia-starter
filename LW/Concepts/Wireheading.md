@@ -2,6 +2,7 @@
 _id: yEs5Tdwfw5Zw8yGWC
 title: Wireheading
 href: https://lesswrong.com/tag/wireheading
+slug: wireheading
 type: tag
 tags:
   - LessWrong

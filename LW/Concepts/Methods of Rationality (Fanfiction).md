@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb231
 title: Methods of Rationality (Fanfiction)
 href: https://lesswrong.com/tag/methods-of-rationality-fanfiction
+slug: methods-of-rationality-fanfiction
 type: tag
 tags:
   - LessWrong

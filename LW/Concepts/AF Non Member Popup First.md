@@ -2,6 +2,7 @@
 _id: DtsGBCwAbrckp6BRv
 title: AF Non Member Popup First
 href: https://lesswrong.com/tag/af-non-member-popup-first
+slug: af-non-member-popup-first
 type: tag
 tags:
   - LessWrong

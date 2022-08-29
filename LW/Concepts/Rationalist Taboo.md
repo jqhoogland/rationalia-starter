@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb12a
 title: Rationalist Taboo
 href: https://lesswrong.com/tag/rationalist-taboo
+slug: rationalist-taboo
 type: tag
 tags:
   - LessWrong

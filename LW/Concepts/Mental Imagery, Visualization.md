@@ -2,6 +2,7 @@
 _id: fmA6cA9psxibmH8MS
 title: Mental Imagery / Visualization
 href: https://lesswrong.com/tag/mental-imagery-visualization
+slug: mental-imagery-visualization
 type: tag
 tags:
   - LessWrong

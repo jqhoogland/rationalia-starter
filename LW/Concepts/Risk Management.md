@@ -2,6 +2,7 @@
 _id: xYLtnJ6keSHGfrLpe
 title: Risk Management
 href: https://lesswrong.com/tag/risk-management
+slug: risk-management
 type: tag
 tags:
   - LessWrong

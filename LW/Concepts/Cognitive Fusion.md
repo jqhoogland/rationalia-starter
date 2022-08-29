@@ -2,6 +2,7 @@
 _id: 5xyggFN9J64FskhqP
 title: Cognitive Fusion
 href: https://lesswrong.com/tag/cognitive-fusion
+slug: cognitive-fusion
 type: tag
 tags:
   - LessWrong

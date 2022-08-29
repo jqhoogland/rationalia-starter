@@ -2,6 +2,7 @@
 _id: hNFdS3rRiYgqqD8aM
 title: Humor
 href: https://lesswrong.com/tag/humor
+slug: humor
 type: tag
 tags:
   - LessWrong

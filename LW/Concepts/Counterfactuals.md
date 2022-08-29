@@ -2,6 +2,7 @@
 _id: YpHkTW27iMFR2Dkae
 title: Counterfactuals
 href: https://lesswrong.com/tag/counterfactuals
+slug: counterfactuals
 type: tag
 tags:
   - LessWrong

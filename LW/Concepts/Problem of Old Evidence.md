@@ -2,6 +2,7 @@
 _id: htgXy4gow6tHWu2bA
 title: Problem of Old Evidence
 href: https://lesswrong.com/tag/problem-of-old-evidence
+slug: problem-of-old-evidence
 type: tag
 tags:
   - LessWrong

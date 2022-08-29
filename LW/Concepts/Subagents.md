@@ -2,6 +2,7 @@
 _id: 5uHdFgR938LGGxMKQ
 title: Subagents
 href: https://lesswrong.com/tag/subagents
+slug: subagents
 type: tag
 tags:
   - LessWrong

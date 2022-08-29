@@ -2,6 +2,7 @@
 _id: EvPPocx6FHcoDfygQ
 title: Consensus
 href: https://lesswrong.com/tag/consensus
+slug: consensus
 type: tag
 tags:
   - LessWrong

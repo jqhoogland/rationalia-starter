@@ -2,6 +2,7 @@
 _id: 6zBEfFYJxhSEcchbR
 title: AI Alignment Fieldbuilding
 href: https://lesswrong.com/tag/ai-alignment-fieldbuilding
+slug: ai-alignment-fieldbuilding
 type: tag
 tags:
   - LessWrong

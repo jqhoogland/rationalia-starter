@@ -2,6 +2,7 @@
 _id: JMD7LTXTisBzGAfhX
 title: Rationality A-Z (discussion & meta)
 href: https://lesswrong.com/tag/rationality-a-z-discussion-and-meta
+slug: rationality-a-z-discussion-and-meta
 type: tag
 tags:
   - LessWrong

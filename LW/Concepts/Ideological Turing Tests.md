@@ -2,6 +2,7 @@
 _id: A4kr45wS7fBW5PBpf
 title: Ideological Turing Tests
 href: https://lesswrong.com/tag/ideological-turing-tests
+slug: ideological-turing-tests
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: ouT6wKhACJRouGokM
 title: Moral Uncertainty
 href: https://lesswrong.com/tag/moral-uncertainty
+slug: moral-uncertainty
 type: tag
 tags:
   - LessWrong

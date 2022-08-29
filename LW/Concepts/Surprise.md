@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb151
 title: Surprise
 href: https://lesswrong.com/tag/surprise
+slug: surprise
 type: tag
 tags:
   - LessWrong

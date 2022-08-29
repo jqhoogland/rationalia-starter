@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2cf
 title: Evolutionary Argument For Human-Level AI
 href: https://lesswrong.com/tag/evolutionary-argument-for-human-level-ai
+slug: evolutionary-argument-for-human-level-ai
 type: tag
 tags:
   - LessWrong

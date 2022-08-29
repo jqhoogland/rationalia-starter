@@ -2,6 +2,7 @@
 _id: QPt5ECwTCAg63mbNu
 title: Quests / Projects Someone Should Do
 href: https://lesswrong.com/tag/quests-projects-someone-should-do
+slug: quests-projects-someone-should-do
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: fWEFt4e9asdpSseqf
 title: Civilizational Collapse
 href: https://lesswrong.com/tag/civilizational-collapse
+slug: civilizational-collapse
 type: tag
 tags:
   - LessWrong

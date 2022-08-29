@@ -2,6 +2,7 @@
 _id: vmiSKxPpzMuNB5ZmJ
 title: LessWrong Event Transcripts
 href: https://lesswrong.com/tag/lesswrong-event-transcripts
+slug: lesswrong-event-transcripts
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 8SfkJYYMe75MwjHzN
 title: Summaries
 href: https://lesswrong.com/tag/summaries
+slug: summaries
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: E4wsWbWrqjovpMrYd
 title: Research Taste
 href: https://lesswrong.com/tag/research-taste
+slug: research-taste
 type: tag
 tags:
   - LessWrong

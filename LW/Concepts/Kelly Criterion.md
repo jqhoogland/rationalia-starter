@@ -2,6 +2,7 @@
 _id: HPZzE9XBy99RmbmQe
 title: Kelly Criterion
 href: https://lesswrong.com/tag/kelly-criterion
+slug: kelly-criterion
 type: tag
 tags:
   - LessWrong

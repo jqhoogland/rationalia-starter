@@ -2,6 +2,7 @@
 _id: izp6eeJJEg9v5zcur
 title: Community
 href: https://lesswrong.com/tag/community
+slug: community
 type: tag
 tags:
   - LessWrong

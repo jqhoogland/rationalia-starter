@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb28b
 title: Coherent Aggregated Volition
 href: https://lesswrong.com/tag/coherent-aggregated-volition
+slug: coherent-aggregated-volition
 type: tag
 tags:
   - LessWrong

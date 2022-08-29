@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1cd
 title: Really Powerful Optimization Process
 href: https://lesswrong.com/tag/really-powerful-optimization-process
+slug: really-powerful-optimization-process
 type: tag
 tags:
   - LessWrong

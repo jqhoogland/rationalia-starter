@@ -2,6 +2,7 @@
 _id: PbShukhzpLsWpGXkM
 title: Anthropics
 href: https://lesswrong.com/tag/anthropics
+slug: anthropics
 type: tag
 tags:
   - LessWrong

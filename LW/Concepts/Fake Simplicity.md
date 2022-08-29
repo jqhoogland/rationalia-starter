@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b0
 title: Fake Simplicity
 href: https://lesswrong.com/tag/fake-simplicity
+slug: fake-simplicity
 type: tag
 tags:
   - LessWrong

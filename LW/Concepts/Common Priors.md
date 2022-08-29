@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1ee
 title: Common Priors
 href: https://lesswrong.com/tag/common-priors
+slug: common-priors
 type: tag
 tags:
   - LessWrong

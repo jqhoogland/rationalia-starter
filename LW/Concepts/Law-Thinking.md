@@ -2,6 +2,7 @@
 _id: EewHHv3ewvQ3mqbyb
 title: Law-Thinking
 href: https://lesswrong.com/tag/law-thinking
+slug: law-thinking
 type: tag
 tags:
   - LessWrong

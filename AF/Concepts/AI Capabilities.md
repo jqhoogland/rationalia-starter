@@ -2,6 +2,7 @@
 _id: iKYWGuFx2qH2nYu6J
 title: AI Capabilities
 href: https://lesswrong.com/tag/ai-capabilities
+slug: ai-capabilities
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: x6evH6MyPK3nxsoff
 title: Identity
 href: https://lesswrong.com/tag/identity
+slug: identity
 type: tag
 tags:
   - LessWrong

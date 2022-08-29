@@ -2,6 +2,7 @@
 _id: 7jaBCxPHRDfJppYws
 title: AI Sentience
 href: https://lesswrong.com/tag/ai-sentience
+slug: ai-sentience
 type: tag
 tags:
   - LessWrong

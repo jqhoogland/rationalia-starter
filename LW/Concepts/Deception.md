@@ -2,6 +2,7 @@
 _id: cHoCqtfE9cF7aSs9d
 title: Deception
 href: https://lesswrong.com/tag/deception
+slug: deception
 type: tag
 tags:
   - LessWrong

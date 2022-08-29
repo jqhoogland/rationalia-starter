@@ -2,6 +2,7 @@
 _id: 4cKQgA4S7xfNeeWXg
 title: IQ and g-factor
 href: https://lesswrong.com/tag/iq-and-g-factor
+slug: iq-and-g-factor
 type: tag
 tags:
   - LessWrong

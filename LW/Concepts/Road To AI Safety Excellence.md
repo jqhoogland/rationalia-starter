@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb356
 title: Road To AI Safety Excellence
 href: https://lesswrong.com/tag/road-to-ai-safety-excellence
+slug: road-to-ai-safety-excellence
 type: tag
 tags:
   - LessWrong

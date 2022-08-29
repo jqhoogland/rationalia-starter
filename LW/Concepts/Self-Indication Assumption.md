@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2e8
 title: Self-Indication Assumption
 href: https://lesswrong.com/tag/self-indication-assumption
+slug: self-indication-assumption
 type: tag
 tags:
   - LessWrong

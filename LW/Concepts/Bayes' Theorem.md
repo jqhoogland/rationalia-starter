@@ -2,6 +2,7 @@
 _id: LhX3F2SvGDarZCuh6
 title: Bayes' Theorem
 href: https://lesswrong.com/tag/bayes-theorem
+slug: bayes-theorem
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b1
 title: Narrative Fallacy
 href: https://lesswrong.com/tag/narrative-fallacy
+slug: narrative-fallacy
 type: tag
 tags:
   - LessWrong

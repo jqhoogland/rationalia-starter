@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb18c
 title: Possible World
 href: https://lesswrong.com/tag/possible-world
+slug: possible-world
 type: tag
 tags:
   - LessWrong

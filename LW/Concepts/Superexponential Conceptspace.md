@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb216
 title: Superexponential Conceptspace
 href: https://lesswrong.com/tag/superexponential-conceptspace
+slug: superexponential-conceptspace
 type: tag
 tags:
   - LessWrong

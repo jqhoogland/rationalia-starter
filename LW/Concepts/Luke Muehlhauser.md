@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2fc
 title: Luke Muehlhauser
 href: https://lesswrong.com/tag/luke-muehlhauser
+slug: luke-muehlhauser
 type: tag
 tags:
   - LessWrong

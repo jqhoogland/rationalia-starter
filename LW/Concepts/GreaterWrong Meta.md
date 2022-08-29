@@ -2,6 +2,7 @@
 _id: h96z2Xt4h6zt2wiw2
 title: GreaterWrong Meta
 href: https://lesswrong.com/tag/greaterwrong-meta
+slug: greaterwrong-meta
 type: tag
 tags:
   - LessWrong

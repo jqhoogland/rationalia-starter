@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb21c
 title: The Fun Theory Sequence
 href: https://lesswrong.com/tag/the-fun-theory-sequence
+slug: the-fun-theory-sequence
 type: tag
 tags:
   - LessWrong

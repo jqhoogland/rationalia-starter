@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb0f6
 title: Litany of Gendlin
 href: https://lesswrong.com/tag/litany-of-gendlin
+slug: litany-of-gendlin
 type: tag
 tags:
   - LessWrong

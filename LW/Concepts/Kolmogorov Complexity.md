@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb25c
 title: Kolmogorov Complexity
 href: https://lesswrong.com/tag/kolmogorov-complexity
+slug: kolmogorov-complexity
 type: tag
 tags:
   - LessWrong

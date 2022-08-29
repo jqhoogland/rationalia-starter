@@ -2,6 +2,7 @@
 _id: mSTmKrSkFBswHaS3T
 title: Eliciting Latent Knowledge (ELK)
 href: https://lesswrong.com/tag/eliciting-latent-knowledge-elk
+slug: eliciting-latent-knowledge-elk
 type: tag
 tags:
   - LessWrong

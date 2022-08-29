@@ -2,6 +2,7 @@
 _id: jiuackr7B5JAetbF6
 title: Transhumanism
 href: https://lesswrong.com/tag/transhumanism
+slug: transhumanism
 type: tag
 tags:
   - LessWrong

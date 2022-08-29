@@ -2,6 +2,7 @@
 _id: E9ihK6bA9YKkmJs2f
 title: Death
 href: https://lesswrong.com/tag/death
+slug: death
 type: tag
 tags:
   - LessWrong

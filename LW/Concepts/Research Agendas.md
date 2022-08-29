@@ -2,6 +2,7 @@
 _id: Z38PqJbRyfwCxKvvL
 title: Research Agendas
 href: https://lesswrong.com/tag/research-agendas
+slug: research-agendas
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: BisjoDrd3oNatDu7X
 title: Outer Alignment
 href: https://lesswrong.com/tag/outer-alignment
+slug: outer-alignment
 type: tag
 tags:
   - LessWrong

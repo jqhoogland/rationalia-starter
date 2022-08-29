@@ -2,6 +2,7 @@
 _id: RxuepsZgBEKax9bmP
 title: Anchoring
 href: https://lesswrong.com/tag/anchoring
+slug: anchoring
 type: tag
 tags:
   - LessWrong

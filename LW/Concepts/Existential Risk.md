@@ -2,6 +2,7 @@
 _id: Rz5jb3cYHTSRmqNnN
 title: Existential Risk
 href: https://lesswrong.com/tag/existential-risk
+slug: existential-risk
 type: tag
 tags:
   - LessWrong

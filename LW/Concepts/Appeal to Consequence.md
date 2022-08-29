@@ -2,6 +2,7 @@
 _id: Yd7JES6Wmbc2PBgid
 title: Appeal to Consequence
 href: https://lesswrong.com/tag/appeal-to-consequence
+slug: appeal-to-consequence
 type: tag
 tags:
   - LessWrong

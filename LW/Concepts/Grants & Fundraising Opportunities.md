@@ -2,6 +2,7 @@
 _id: Z6DgiCrMtpSNxwuYW
 title: Grants & Fundraising Opportunities
 href: https://lesswrong.com/tag/grants-and-fundraising-opportunities
+slug: grants-and-fundraising-opportunities
 type: tag
 tags:
   - LessWrong

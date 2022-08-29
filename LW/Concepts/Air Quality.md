@@ -2,6 +2,7 @@
 _id: dNNwmxdmvtxMGMFgX
 title: Air Quality
 href: https://lesswrong.com/tag/air-quality
+slug: air-quality
 type: tag
 tags:
   - LessWrong

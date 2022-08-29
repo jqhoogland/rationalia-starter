@@ -2,6 +2,7 @@
 _id: b8nerwC3Dp2Q9MvbG
 title: Corrigibility
 href: https://lesswrong.com/tag/corrigibility
+slug: corrigibility
 type: tag
 tags:
   - LessWrong

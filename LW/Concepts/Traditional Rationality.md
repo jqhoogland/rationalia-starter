@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb114
 title: Traditional Rationality
 href: https://lesswrong.com/tag/traditional-rationality
+slug: traditional-rationality
 type: tag
 tags:
   - LessWrong

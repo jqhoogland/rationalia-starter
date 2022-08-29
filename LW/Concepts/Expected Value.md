@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb120
 title: Expected Value
 href: https://lesswrong.com/tag/expected-value
+slug: expected-value
 type: tag
 tags:
   - LessWrong

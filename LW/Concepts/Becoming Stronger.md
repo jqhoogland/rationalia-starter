@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb31a
 title: Becoming Stronger
 href: https://lesswrong.com/tag/becoming-stronger
+slug: becoming-stronger
 type: tag
 tags:
   - LessWrong

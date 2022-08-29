@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2dd
 title: Differential Intellectual Progress
 href: https://lesswrong.com/tag/differential-intellectual-progress
+slug: differential-intellectual-progress
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: fR7QfYx4JA3BnptT9
 title: Skill Building
 href: https://lesswrong.com/tag/skill-building
+slug: skill-building
 type: tag
 tags:
   - LessWrong

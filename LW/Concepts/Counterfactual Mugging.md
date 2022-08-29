@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1b6
 title: Counterfactual Mugging
 href: https://lesswrong.com/tag/counterfactual-mugging
+slug: counterfactual-mugging
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: LdhpgZDCR967hWcFt
 title: Encultured AI (org)
 href: https://lesswrong.com/tag/encultured-ai-org
+slug: encultured-ai-org
 type: tag
 tags:
   - LessWrong

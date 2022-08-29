@@ -2,6 +2,7 @@
 _id: zxmLyuTr7nujF523s
 title: Zettelkasten
 href: https://lesswrong.com/tag/zettelkasten
+slug: zettelkasten
 type: tag
 tags:
   - LessWrong

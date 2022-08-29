@@ -2,6 +2,7 @@
 _id: KADf7NFiAr9DAaQxN
 title: Social Media
 href: https://lesswrong.com/tag/social-media
+slug: social-media
 type: tag
 tags:
   - LessWrong

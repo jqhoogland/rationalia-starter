@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb105
 title: Planning Fallacy
 href: https://lesswrong.com/tag/planning-fallacy
+slug: planning-fallacy
 type: tag
 tags:
   - LessWrong

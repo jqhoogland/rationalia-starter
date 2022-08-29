@@ -2,6 +2,7 @@
 _id: Wgbgir4qzGz8Ztt3u
 title: Past and Future Selves
 href: https://lesswrong.com/tag/past-and-future-selves
+slug: past-and-future-selves
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: Z5A4c4kjTgLSFEr3h
 title: Autonomous Vehicles
 href: https://lesswrong.com/tag/autonomous-vehicles
+slug: autonomous-vehicles
 type: tag
 tags:
   - LessWrong

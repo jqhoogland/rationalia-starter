@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1f8
 title: Sequences
 href: https://lesswrong.com/tag/sequences
+slug: sequences
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: QZn3ujmgnvStbuLEc
 title: Lifelogging
 href: https://lesswrong.com/tag/lifelogging
+slug: lifelogging
 type: tag
 tags:
   - LessWrong

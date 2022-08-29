@@ -2,6 +2,7 @@
 _id: HqaByfeGvDLKSaK2W
 title: Debate (AI safety technique)
 href: https://lesswrong.com/tag/debate-ai-safety-technique-1
+slug: debate-ai-safety-technique-1
 type: tag
 tags:
   - LessWrong

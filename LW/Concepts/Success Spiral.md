@@ -2,6 +2,7 @@
 _id: YwcMcGypGWqtiBKvD
 title: Success Spiral
 href: https://lesswrong.com/tag/success-spiral
+slug: success-spiral
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: FdoP2PJhMz6x3gdDh
 title: Nootropics & Other Cognitive Enhancement
 href: https://lesswrong.com/tag/nootropics-and-other-cognitive-enhancement
+slug: nootropics-and-other-cognitive-enhancement
 type: tag
 tags:
   - LessWrong

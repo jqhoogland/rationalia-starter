@@ -2,6 +2,7 @@
 _id: 92SxJsDZ78ApAGq72
 title: Nutrition
 href: https://lesswrong.com/tag/nutrition
+slug: nutrition
 type: tag
 tags:
   - LessWrong

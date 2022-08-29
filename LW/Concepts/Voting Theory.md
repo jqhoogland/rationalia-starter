@@ -2,6 +2,7 @@
 _id: mPuSAzJN7CyrMiKrf
 title: Voting Theory
 href: https://lesswrong.com/tag/voting-theory
+slug: voting-theory
 type: tag
 tags:
   - LessWrong

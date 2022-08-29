@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2f2
 title: List of Blogs
 href: https://lesswrong.com/tag/list-of-blogs
+slug: list-of-blogs
 type: tag
 tags:
   - LessWrong

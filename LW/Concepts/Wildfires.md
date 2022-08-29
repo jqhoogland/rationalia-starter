@@ -2,6 +2,7 @@
 _id: 33sh8ktwbqP7hFtBP
 title: Wildfires
 href: https://lesswrong.com/tag/wildfires
+slug: wildfires
 type: tag
 tags:
   - LessWrong

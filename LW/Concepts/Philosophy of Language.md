@@ -2,6 +2,7 @@
 _id: FtT2T9bRbECCGYxrL
 title: Philosophy of Language
 href: https://lesswrong.com/tag/philosophy-of-language
+slug: philosophy-of-language
 type: tag
 tags:
   - LessWrong

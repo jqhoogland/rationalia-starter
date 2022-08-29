@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb222
 title: Infinite Set Atheism
 href: https://lesswrong.com/tag/infinite-set-atheism
+slug: infinite-set-atheism
 type: tag
 tags:
   - LessWrong

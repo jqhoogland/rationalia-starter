@@ -2,6 +2,7 @@
 _id: MbhipAhtifhaDEAcp
 title: Squiggle
 href: https://lesswrong.com/tag/squiggle
+slug: squiggle
 type: tag
 tags:
   - LessWrong

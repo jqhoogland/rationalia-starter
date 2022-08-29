@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb213
 title: The Utility Function Is Not Up For Grabs
 href: https://lesswrong.com/tag/the-utility-function-is-not-up-for-grabs
+slug: the-utility-function-is-not-up-for-grabs
 type: tag
 tags:
   - LessWrong

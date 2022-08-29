@@ -2,6 +2,7 @@
 _id: vH8zJLkhiqdJzK5ej
 title: Bragging Threads
 href: https://lesswrong.com/tag/bragging-threads
+slug: bragging-threads
 type: tag
 tags:
   - LessWrong

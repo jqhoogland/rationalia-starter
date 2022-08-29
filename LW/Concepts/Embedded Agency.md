@@ -2,6 +2,7 @@
 _id: MP8NqPNATMqPrij4n
 title: Embedded Agency
 href: https://lesswrong.com/tag/embedded-agency
+slug: embedded-agency
 type: tag
 tags:
   - LessWrong

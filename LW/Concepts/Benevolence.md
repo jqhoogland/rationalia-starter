@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2cc
 title: Benevolence
 href: https://lesswrong.com/tag/benevolence
+slug: benevolence
 type: tag
 tags:
   - LessWrong

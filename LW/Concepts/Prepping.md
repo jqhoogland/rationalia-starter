@@ -2,6 +2,7 @@
 _id: jzd84f2H95DeyHvxE
 title: Prepping
 href: https://lesswrong.com/tag/prepping
+slug: prepping
 type: tag
 tags:
   - LessWrong

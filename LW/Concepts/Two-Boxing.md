@@ -2,6 +2,7 @@
 _id: DzgepLrZz9ZvuFHsa
 title: Two-Boxing
 href: https://lesswrong.com/tag/two-boxing
+slug: two-boxing
 type: tag
 tags:
   - LessWrong

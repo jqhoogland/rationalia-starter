@@ -2,6 +2,7 @@
 _id: DHZhAxgE5edGxxh8d
 title: Object level and Meta level
 href: https://lesswrong.com/tag/object-level-and-meta-level
+slug: object-level-and-meta-level
 type: tag
 tags:
   - LessWrong

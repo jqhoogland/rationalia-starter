@@ -2,6 +2,7 @@
 _id: nKtyrL5u4Y5kmMWT5
 title: DeepMind
 href: https://lesswrong.com/tag/deepmind
+slug: deepmind
 type: tag
 tags:
   - LessWrong

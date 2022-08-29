@@ -2,6 +2,7 @@
 _id: wfW6iL96u26mbatep
 title: Bounded Rationality
 href: https://lesswrong.com/tag/bounded-rationality
+slug: bounded-rationality
 type: tag
 tags:
   - LessWrong

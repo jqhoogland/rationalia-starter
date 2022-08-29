@@ -2,6 +2,7 @@
 _id: QT87jxkk6DXuS8hGA
 title: Explicit Reasoning
 href: https://lesswrong.com/tag/explicit-reasoning
+slug: explicit-reasoning
 type: tag
 tags:
   - LessWrong

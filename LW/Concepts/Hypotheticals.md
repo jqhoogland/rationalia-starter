@@ -2,6 +2,7 @@
 _id: rjEZWSbSffhaWYRvo
 title: Hypotheticals
 href: https://lesswrong.com/tag/hypotheticals
+slug: hypotheticals
 type: tag
 tags:
   - LessWrong

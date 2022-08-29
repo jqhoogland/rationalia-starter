@@ -2,6 +2,7 @@
 _id: BhfefamXXee6c2CH8
 title: Transcripts
 href: https://lesswrong.com/tag/transcripts
+slug: transcripts
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: HNJiR8Jzafsv8cHrC
 title: Pascal's Mugging
 href: https://lesswrong.com/tag/pascal-s-mugging
+slug: pascal-s-mugging
 type: tag
 tags:
   - LessWrong

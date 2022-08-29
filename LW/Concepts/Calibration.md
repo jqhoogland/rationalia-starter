@@ -2,6 +2,7 @@
 _id: 8hPTCJbwJnLBmfpCX
 title: Calibration
 href: https://lesswrong.com/tag/calibration
+slug: calibration
 type: tag
 tags:
   - LessWrong

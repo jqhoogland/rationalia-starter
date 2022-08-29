@@ -2,6 +2,7 @@
 _id: LMFBzsJaCRADQqw3F
 title: Trolley Problem
 href: https://lesswrong.com/tag/trolley-problem
+slug: trolley-problem
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: JHzjkFnQgsrRrucqQ
 title: Focusing
 href: https://lesswrong.com/tag/focusing
+slug: focusing
 type: tag
 tags:
   - LessWrong

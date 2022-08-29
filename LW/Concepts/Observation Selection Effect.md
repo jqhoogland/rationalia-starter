@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2ab
 title: Observation Selection Effect
 href: https://lesswrong.com/tag/observation-selection-effect
+slug: observation-selection-effect
 type: tag
 tags:
   - LessWrong

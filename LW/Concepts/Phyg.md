@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb343
 title: Phyg
 href: https://lesswrong.com/tag/phyg
+slug: phyg
 type: tag
 tags:
   - LessWrong

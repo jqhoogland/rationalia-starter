@@ -2,6 +2,7 @@
 _id: be2Mh2bddQ6ZaBcti
 title: Prisoner's Dilemma
 href: https://lesswrong.com/tag/prisoner-s-dilemma
+slug: prisoner-s-dilemma
 type: tag
 tags:
   - LessWrong

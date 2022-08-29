@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb193
 title: Not Technically A Lie
 href: https://lesswrong.com/tag/not-technically-a-lie
+slug: not-technically-a-lie
 type: tag
 tags:
   - LessWrong

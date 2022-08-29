@@ -2,6 +2,7 @@
 _id: xEZwTHPd5AWpgQx9w
 title: GiveWell
 href: https://lesswrong.com/tag/givewell
+slug: givewell
 type: tag
 tags:
   - LessWrong

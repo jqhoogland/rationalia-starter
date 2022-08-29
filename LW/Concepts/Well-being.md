@@ -2,6 +2,7 @@
 _id: XqykXFKL9t38pbSEm
 title: Well-being
 href: https://lesswrong.com/tag/well-being
+slug: well-being
 type: tag
 tags:
   - LessWrong

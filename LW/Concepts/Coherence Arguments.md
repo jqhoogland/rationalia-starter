@@ -2,6 +2,7 @@
 _id: 6DDtyKtotNehTjmRn
 title: Coherence Arguments
 href: https://lesswrong.com/tag/coherence-arguments
+slug: coherence-arguments
 type: tag
 tags:
   - LessWrong

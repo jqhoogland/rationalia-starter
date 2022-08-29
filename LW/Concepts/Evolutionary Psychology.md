@@ -2,6 +2,7 @@
 _id: exZi6Bing5AiM4ZQB
 title: Evolutionary Psychology
 href: https://lesswrong.com/tag/evolutionary-psychology
+slug: evolutionary-psychology
 type: tag
 tags:
   - LessWrong

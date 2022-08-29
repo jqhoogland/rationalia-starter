@@ -2,6 +2,7 @@
 _id: p8W2vFMHydvfgBgPh
 title: SETI
 href: https://lesswrong.com/tag/seti
+slug: seti
 type: tag
 tags:
   - LessWrong

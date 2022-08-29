@@ -2,6 +2,7 @@
 _id: qoTbWwaJtTSKosRCA
 title: Taking Ideas Seriously
 href: https://lesswrong.com/tag/taking-ideas-seriously
+slug: taking-ideas-seriously
 type: tag
 tags:
   - LessWrong

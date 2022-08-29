@@ -2,6 +2,7 @@
 _id: KkksuGB2yBR6LDFXu
 title: Conservatism (AI)
 href: https://lesswrong.com/tag/conservatism-ai
+slug: conservatism-ai
 type: tag
 tags:
   - LessWrong

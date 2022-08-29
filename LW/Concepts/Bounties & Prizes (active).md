@@ -2,6 +2,7 @@
 _id: cCK3fDdH9vHjrf2yP
 title: Bounties & Prizes (active)
 href: https://lesswrong.com/tag/bounties-and-prizes-active
+slug: bounties-and-prizes-active
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: AeqCtS3BaY3cwzKAs
 title: Fermi Estimation
 href: https://lesswrong.com/tag/fermi-estimation
+slug: fermi-estimation
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: AiNyf5iwbpc7mehiX
 title: Meditation
 href: https://lesswrong.com/tag/meditation
+slug: meditation
 type: tag
 tags:
   - LessWrong

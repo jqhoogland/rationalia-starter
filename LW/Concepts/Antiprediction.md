@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb147
 title: Antiprediction
 href: https://lesswrong.com/tag/antiprediction
+slug: antiprediction
 type: tag
 tags:
   - LessWrong

@@ -2,6 +2,7 @@
 _id: EdDGrAxYcrXnKkDca
 title: Distillation & Pedagogy
 href: https://lesswrong.com/tag/distillation-and-pedagogy
+slug: distillation-and-pedagogy
 type: tag
 tags:
   - LessWrong

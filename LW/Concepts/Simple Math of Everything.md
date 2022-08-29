@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb18d
 title: Simple Math of Everything
 href: https://lesswrong.com/tag/simple-math-of-everything
+slug: simple-math-of-everything
 type: tag
 tags:
   - LessWrong

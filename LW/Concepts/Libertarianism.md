@@ -2,6 +2,7 @@
 _id: hMXoyTAKxvCcsQBKf
 title: Libertarianism
 href: https://lesswrong.com/tag/libertarianism
+slug: libertarianism
 type: tag
 tags:
   - LessWrong

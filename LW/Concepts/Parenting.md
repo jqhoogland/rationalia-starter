@@ -2,6 +2,7 @@
 _id: Q55STnFh6gbSezRuR
 title: Parenting
 href: https://lesswrong.com/tag/parenting
+slug: parenting
 type: tag
 tags:
   - LessWrong

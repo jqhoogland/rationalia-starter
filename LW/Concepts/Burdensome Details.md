@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1d3
 title: Burdensome Details
 href: https://lesswrong.com/tag/burdensome-details
+slug: burdensome-details
 type: tag
 tags:
   - LessWrong

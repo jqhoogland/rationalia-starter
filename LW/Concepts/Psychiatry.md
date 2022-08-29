@@ -2,6 +2,7 @@
 _id: gsv9XWbZDcnZmKuqM
 title: Psychiatry
 href: https://lesswrong.com/tag/psychiatry
+slug: psychiatry
 type: tag
 tags:
   - LessWrong

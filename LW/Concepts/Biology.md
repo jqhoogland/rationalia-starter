@@ -2,6 +2,7 @@
 _id: jaf5zfcGgCB2REXGw
 title: Biology
 href: https://lesswrong.com/tag/biology
+slug: biology
 type: tag
 tags:
   - LessWrong

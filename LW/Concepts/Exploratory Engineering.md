@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1a1
 title: Exploratory Engineering
 href: https://lesswrong.com/tag/exploratory-engineering
+slug: exploratory-engineering
 type: tag
 tags:
   - LessWrong

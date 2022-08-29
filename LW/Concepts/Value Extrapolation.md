@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb2c3
 title: Value Extrapolation
 href: https://lesswrong.com/tag/value-extrapolation
+slug: value-extrapolation
 type: tag
 tags:
   - LessWrong

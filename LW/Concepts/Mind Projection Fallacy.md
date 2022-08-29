@@ -2,6 +2,7 @@
 _id: PJKgSRkXkCqXmCk3M
 title: Mind Projection Fallacy
 href: https://lesswrong.com/tag/mind-projection-fallacy
+slug: mind-projection-fallacy
 type: tag
 tags:
   - LessWrong

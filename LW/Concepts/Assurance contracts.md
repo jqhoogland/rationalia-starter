@@ -2,6 +2,7 @@
 _id: EPTcHwSJxRHXAipT2
 title: Assurance contracts
 href: https://lesswrong.com/tag/assurance-contracts
+slug: assurance-contracts
 type: tag
 tags:
   - LessWrong

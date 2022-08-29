@@ -2,6 +2,7 @@
 _id: txkDg4aLmiRq8wsSu
 title: Organizational Culture & Design
 href: https://lesswrong.com/tag/organizational-culture-and-design
+slug: organizational-culture-and-design
 type: tag
 tags:
   - LessWrong

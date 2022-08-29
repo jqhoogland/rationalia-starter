@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb16a
 title: Adaptation Executors
 href: https://lesswrong.com/tag/adaptation-executors
+slug: adaptation-executors
 type: tag
 tags:
   - LessWrong

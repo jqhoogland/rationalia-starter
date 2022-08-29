@@ -2,6 +2,7 @@
 _id: NLwTnsH9RSotqXYLw
 title: Value Learning
 href: https://lesswrong.com/tag/value-learning
+slug: value-learning
 type: tag
 tags:
   - LessWrong

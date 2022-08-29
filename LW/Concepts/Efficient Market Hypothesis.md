@@ -2,6 +2,7 @@
 _id: pnSDArjzAjkvAF5Jo
 title: Efficient Market Hypothesis
 href: https://lesswrong.com/tag/efficient-market-hypothesis
+slug: efficient-market-hypothesis
 type: tag
 tags:
   - LessWrong

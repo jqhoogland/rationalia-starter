@@ -2,6 +2,7 @@
 _id: 5f5c37ee1b5cdee568cfb1d1
 title: Decoherence
 href: https://lesswrong.com/tag/decoherence
+slug: decoherence
 type: tag
 tags:
   - LessWrong

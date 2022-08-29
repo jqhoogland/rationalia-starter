@@ -2,6 +2,7 @@
 _id: uG75MELqjCEfciaRp
 title: Population Ethics
 href: https://lesswrong.com/tag/population-ethics
+slug: population-ethics
 type: tag
 tags:
   - LessWrong

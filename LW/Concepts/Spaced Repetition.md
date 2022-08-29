@@ -2,6 +2,7 @@
 _id: H2q58pKG6xFrv8bPz
 title: Spaced Repetition
 href: https://lesswrong.com/tag/spaced-repetition
+slug: spaced-repetition
 type: tag
 tags:
   - LessWrong
