@@ -14,4 +14,4 @@ tags:
 
 **Resources:** [Electowiki](https://electowiki.org/wiki/Main_Page) \- A wiki focused on voting theory and electoral systems.
 
-**related tags:** [[Game Theory|Game Theory]], [Decision Theory](https://www.lesswrong.com/tag/decision-theory), [Coordination / Cooperation](https://www.lesswrong.com/tag/coordination-cooperation?showPostCount=true&useTagName=true)
+**related tags:** [[1 Projects/Rationalia/LW/Concepts/Game Theory|Game Theory]], [Decision Theory](https://www.lesswrong.com/tag/decision-theory), [Coordination / Cooperation](https://www.lesswrong.com/tag/coordination-cooperation?showPostCount=true&useTagName=true)

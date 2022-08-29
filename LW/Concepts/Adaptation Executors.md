@@ -8,7 +8,7 @@ tags:
   - Tag
 ---
 
-Modeling biological systems as **Adaption Executors** is central principle of [[Evolution|evolutionary biology]] in general, and [evolutionary psychology](https://www.lesswrong.com/tag/evolutionary-psychology) in particular.
+Modeling biological systems as **Adaption Executors** is central principle of [[1 Projects/Rationalia/LW/Concepts/Evolution|evolutionary biology]] in general, and [evolutionary psychology](https://www.lesswrong.com/tag/evolutionary-psychology) in particular.
 
 If we regarded human taste buds as trying to *maximize fitness*, we might expect that, say, humans fed a diet too high in calories and too low in micronutrients, would begin to find lettuce delicious, and cheeseburgers distasteful. But it is better to regard taste buds as an *executing adaptation* \- they are adapted to an ancestral environment in which calories, not micronutrients, were the limiting factor. And now they are simply executing that adaptation - evolution operates on [[Slowness of Evolution|too slow a timescale]] to re-adapt to such a recent condition.
 

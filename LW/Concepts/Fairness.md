@@ -22,7 +22,7 @@ Several posts on LessWrong deal with this topic, and it's also a field of resear
 
 **Related pages:**
 
-*   [[Game Theory]]
+*   [[1 Projects/Rationalia/LW/Concepts/Game Theory]]
 *   [[Voting Theory]]
 *   [[Economics]]
 

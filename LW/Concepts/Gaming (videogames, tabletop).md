@@ -10,4 +10,4 @@ tags:
 
 **Gaming**
 
-See also: [[Game Theory|Game Theory]], [Puzzle Game Index](https://www.lesswrong.com/tag/puzzle-game-index), [[Games (posts describing)|Games (posts describing)]]
+See also: [[1 Projects/Rationalia/LW/Concepts/Game Theory|Game Theory]], [Puzzle Game Index](https://www.lesswrong.com/tag/puzzle-game-index), [[Games (posts describing)|Games (posts describing)]]

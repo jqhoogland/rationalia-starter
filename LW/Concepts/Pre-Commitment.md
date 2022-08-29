@@ -21,7 +21,7 @@ One distinction that it might be useful to make is between [formal and effective
 
 One issue that arises with predictors is that some scenarios may be conditionally inconsistent (or just plain inconsistent when we're dealing with logical uncertainty and oracles). Oddly enough, it seems as though it might make sense to allow pre-commitments in relation to these scenarios, although this involves pre-committing to taking an action when receiving input representing such a potentially inconsistent scenario rather than pre-committing to take an action in a particular scenario itself.
 
-[[Game Theory]]:
+[[1 Projects/Rationalia/LW/Concepts/Game Theory]]:
 ---------------------------------------------------------
 
 In game theory, commitment is often considered purely from the perspective of incentives. From this view, you are considered to have pre-committed youself to an action if any benefit you would gain from it is outweighed by the penalty you would pay.

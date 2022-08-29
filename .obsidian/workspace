@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "561c85278be41a72",
+        "id": "6c98c62169660b1d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LW/Canon.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LW/Canon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Canon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,17 +155,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "561c85278be41a72",
+  "active": "6c98c62169660b1d",
   "lastOpenFiles": [
+    "tmp/Concepts/80,000 Hours.md",
+    "About.md",
     "LW/Reading Orders/Reading Orders.md",
+    "HPMOR.md",
+    "LW/Canon.md",
     "LW/Sequences/\"Why Not Just...\".md",
     "LW/Collections/The Codex.md",
     "LW/Collections/Best of LessWrong.md",
     "LW/Collections/Highlights from the Sequences.md",
-    "LW/Books/Further Reading.md",
-    "LW/Books/A Map That Reflects the Territory.md",
-    "LW/Books/Becoming Stronger.md",
-    "LW/Canon.md",
-    "LW/Sequences/Bah-Humbug Sequence.md"
+    "LW/Books/Further Reading.md"
   ]
 }

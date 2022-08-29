@@ -10,7 +10,7 @@ tags:
 
 **Bayes' Theorem** (also known as Bayes' Law) is a law of probability that describes the proper way to incorporate new evidence into prior probabilities to form an updated probability estimate. It is commonly regarded as the foundation of consistent rational reasoning under uncertainty. Bayes Theorem is named after Reverend Thomas Bayes who proved the theorem in 1763.
 
-_See also:_ [[Bayesian Probability|Bayesian probability]], [Priors](https://www.lesswrong.com/tag/priors), [[Likelihood Ratio|Likelihood ratio]], [Belief update](https://www.lesswrong.com/tag/belief-update), [[Probability & Statistics|Probability and statistics]], [Epistemology](https://www.lesswrong.com/tag/epistemology), [[Bayesianism|Bayesianism]]
+_See also:_ [[Bayesian Probability|Bayesian probability]], [Priors](https://www.lesswrong.com/tag/priors), [[Likelihood Ratio|Likelihood ratio]], [Belief update](https://www.lesswrong.com/tag/belief-update), [[Probability & Statistics|Probability and statistics]], [Epistemology](https://www.lesswrong.com/tag/epistemology), [[1 Projects/Rationalia/LW/Concepts/Bayesianism|Bayesianism]]
 
 Bayes' theorem commonly takes the form:
 

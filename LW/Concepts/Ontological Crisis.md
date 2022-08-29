@@ -31,5 +31,5 @@ Notable Posts
 See also
 --------
 
-*   [[Evolution]]
+*   [[1 Projects/Rationalia/LW/Concepts/Evolution]]
 *   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

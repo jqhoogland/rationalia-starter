@@ -36,7 +36,7 @@ The idea of a paperclip maximizer was created to illustrate some ideas about [AI
 Conclusions
 -----------
 
-The paperclip maximizer illustrates that an entity can be a powerful optimizer—an intelligence—without sharing any of the complex mix of human [terminal values](https://www.lesswrong.com/tag/terminal-value), which developed under the particular selection pressures found in our [[Evolution|environment of evolutionary adaptation]], and that an AGI that is not specifically [programmed to be benevolent to humans](https://wiki.lesswrong.com/wiki/Friendly_AI) will be almost as dangerous as if it were designed to be malevolent.
+The paperclip maximizer illustrates that an entity can be a powerful optimizer—an intelligence—without sharing any of the complex mix of human [terminal values](https://www.lesswrong.com/tag/terminal-value), which developed under the particular selection pressures found in our [[1 Projects/Rationalia/LW/Concepts/Evolution|environment of evolutionary adaptation]], and that an AGI that is not specifically [programmed to be benevolent to humans](https://wiki.lesswrong.com/wiki/Friendly_AI) will be almost as dangerous as if it were designed to be malevolent.
 
 Any future AGI, if it is not to destroy us, must have human values as its terminal value (goal). Human values don't [[Futility of Chaos|spontaneously emerge]] in a generic optimization process. A safe AI would therefore have to be programmed explicitly with human values *or* programmed with the ability (including the goal) of inferring human values.
 

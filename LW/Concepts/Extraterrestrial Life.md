@@ -10,4 +10,4 @@ tags:
 
 **Extraterrestrial Life**
 
-Related Pages: [[Great Filter]], [[Space Exploration & Colonization]], [[Biology]], [[Evolution]]
+Related Pages: [[Great Filter]], [[Space Exploration & Colonization]], [[Biology]], [[1 Projects/Rationalia/LW/Concepts/Evolution]]

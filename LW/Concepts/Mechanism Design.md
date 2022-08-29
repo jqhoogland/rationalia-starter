@@ -15,6 +15,6 @@ tags:
 *   **Incentive Compatibility:** [Wikipedia](https://en.wikipedia.org/wiki/Incentive_compatibility), [LessWrong](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/N4gDA5HPpGC4mbTEZ)
 *   **Revelation Principle:** [Wikipedia](https://en.wikipedia.org/wiki/Revelation_principle), [LessWrong](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf/p/N4gDA5HPpGC4mbTEZ)
 
-**Related Pages:** [[Game Theory|Game Theory]], [Incentives](https://www.lesswrong.com/tag/incentives), [[Principal-Agent Problems|Principal-Agent Problems]], [Cryptocurrencies and blockchain](https://www.lesswrong.com/tag/cryptocurrency-and-blockchain), [[Public Discourse|Public discourse]]
+**Related Pages:** [[1 Projects/Rationalia/LW/Concepts/Game Theory|Game Theory]], [Incentives](https://www.lesswrong.com/tag/incentives), [[Principal-Agent Problems|Principal-Agent Problems]], [Cryptocurrencies and blockchain](https://www.lesswrong.com/tag/cryptocurrency-and-blockchain), [[Public Discourse|Public discourse]]
 
 **Related Sequences:** [Mechanism Design](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf)

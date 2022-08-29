@@ -12,4 +12,4 @@ An **Incentive** is a motivating factor, such as monetary reward, the risk of le
 
 [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d) covers many problems that arise when there are poor incentives.
 
-**Related Pages:** [[Game Theory]], [[Mechanism Design]], [[Moloch]], [[Moral Mazes]]
+**Related Pages:** [[1 Projects/Rationalia/LW/Concepts/Game Theory]], [[Mechanism Design]], [[Moloch]], [[Moral Mazes]]
