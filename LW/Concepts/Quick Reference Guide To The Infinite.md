@@ -53,11 +53,12 @@ You may be wondering how to think about something like "neither larger nor small
 `  2. For any x and y in S, if x≤y and y≤x, then x=y (antisymmetry)`  
 `  3. For any x,y,z in S, if x≤y and y≤z, then x≤z (transitivity)`
 
-If we additionally required that for any x and y in S, we have either x≤y or y≤x, we'd have a [total order](http://en.wikipedia.org/wiki/Total_order) (also called a linear order).
+If we additionally required that for any $x$ and $y$ in $S$, we have either x≤y or y≤x, we'd have a [total order](http://en.wikipedia.org/wiki/Total_order) (also called a linear order).
 
-OK, but still, what does "neither larger nor smaller, yet not the same" mean in general? How can you visualize it? Well, the canonical example of a partial order would be, if we have any set S, we can partially order its subsets by defining A≤B to mean A⊆B. So if S={1,2,3,4}, then {1,2} is larger than {1} and {2}, and smaller than {1,2,4}, but incomparable to {3} or {2,3} or {2,3,4}.
+OK, but still, what does "neither larger nor smaller, yet not the same" mean in general? How can you visualize it? Well, the canonical example of a partial order would be, if we have any set $S$, we can partially order its subsets by defining A≤B to mean $A \subseteq B$. So if $S=\{1,2,3,4\}$, then $\{1,2\}$ is larger than $\{1\}$ and $\{2\}$, and smaller than $\{1,2,4\}$, but incomparable to $\{3\}$ or $\{2,3\}$ or $\{2,3,4\}$.
 
-Another example would be, if we have ordered n-tuples of real numbers, we could define (x1,...,xn)≤(y1,...,yn) if xi≤yi for each i. You might imagine these as, say, stats of characters in a game; then x≤y would mean that character y is better than character x in every way. To say that x and y are incomparable would mean that - though in practice one might be better on the whole - neither is obviously better. More generally, in any game, you could define a partial order on strategies by x≤y if y dominates x.
+
+Another example would be, if we have ordered $n$-tuples of real numbers, we could define $(x1,...,xn)\leq(y1,...,yn)$ if $x_i\leq y_i$ for each $i$. You might imagine these as, say, stats of characters in a game; then x≤y would mean that character y is better than character x in every way. To say that x and y are incomparable would mean that - though in practice one might be better on the whole - neither is obviously better. More generally, in any game, you could define a partial order on strategies by x≤y if y dominates x.
 
 Note that partial orders are sufficiently common that for many math people the word "order" means "partial order" by default.
 

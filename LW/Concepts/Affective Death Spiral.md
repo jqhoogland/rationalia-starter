@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0cb
 title: Affective Death Spiral
-href: https://lesswrong.com/tag/affective-death-spiral
+href: https://www.lesswrong.com/tag/affective-death-spiral
 slug: affective-death-spiral
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:08.833Z'
+synchedAt: '2022-08-29T20:02:23.600Z'
 ---
 # Affective Death Spiral
 

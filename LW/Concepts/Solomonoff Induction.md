@@ -33,7 +33,7 @@ Given *p* ∈ 𝒫, we write "prog (*x*~0~) = *p*" to express the prop
 
   
 ⋁*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~(prog (*x*~0~) = *p*).  
-Since *x*~0~ was chosen at random from {0, 1}*^ω^*, we take the probability of prog (*x*~0~) = *p* to be 2^ − ℓ(^*^p^*^)^, where ℓ(*p*) is the length of *p* as a bit string. Hence, the probability of (*) is
+Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability of prog (*x*~0~) = *p* to be 2^ − ℓ(^*^p^*^)^, where ℓ(*p*) is the length of *p* as a bit string. Hence, the probability of (*) is
 
   
 *m*(*y*~0~) := ∑*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~2^ − ℓ(^*^p^*^)^.  

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4c510162f2032c06",
+        "id": "69ccac58a216501c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -162,17 +162,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "4c510162f2032c06",
+  "active": "69ccac58a216501c",
   "lastOpenFiles": [
-    "LW/Concepts/Abstraction.md",
+    "LW/Concepts/Infinite Set Atheism.md",
     "LW/Concepts/12 Virtues.md",
-    "LW/Concepts/Twelfth Virtue (The).md",
-    "LW/Concepts/Relinquishment.md",
-    "LW/Concepts/Abolitionism.md",
-    "LW/Concepts/Acute Risk Period.md",
-    "LW/Concepts/Academic Papers.md",
-    "LW/Concepts/Absent-Minded Driver.md",
-    "Smoking lesion.md",
-    "LW/Concepts/Absolute Certainty.md"
+    "LW/Collections/Best of LessWrong.md",
+    "LW/Concepts/AIXI.md",
+    "LW/Concepts/Air Quality.md",
+    "LW/Concepts/AI-Complete.md",
+    "LW/Concepts/AI Services (CAIS).md",
+    "LW/Concepts/AI Persuasion.md",
+    "LW/Concepts/AI.md",
+    "LW/Concepts/Aging.md"
   ]
 }

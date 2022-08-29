@@ -10,6 +10,32 @@ tags:
   - Tag
 synchedAt: '2022-08-29T19:59:54.531Z'
 ---
+
 # 12 Virtues
 
 **[[Twelve Virtues of Rationality|Twelve Virtues of Rationality]]** is a short essay written by [Eliezer Yudkowsky](https://www.baserates.org/users/eliezer_yudkowsky). The twelve virtues are [[Curiosity|curiosity]], relinquishment, lightness, [[Evenness|evenness]], argument, [[Empiricism|empiricism]], [simplicity](https://wiki.lesswrong.com/wiki/simplicity), [[Humility|humility]], [[Perfectionism|perfectionism]],  precision,  [[Scholarship & Learning|scholarship]], and a [[Twelfth Virtue (the)|twelfth virtue]] that is nameless, or called "the void."
+
+---
+
+%%
+
+START
+Cloze
+What are the 12 virtues of rationality?
+1. {{c1::Curiosity}}
+2. {{c2::Relinquishment}}
+3. {{c3::Lightness}}
+4. {{c4::Evenness}}
+5. {{c5::Argument}}
+6. {{c6::Empiricism}}
+7. {{c7::Simplicity}}
+8. {{c8::Humility}}
+9. {{c9::Perfectionism}}
+10. {{c10::Precision}}
+11. {{c11::Scholarship}}
+12. {{c12::The void}}
+Tags: LessWrong
+<!--ID: 1661803908975-->
+END
+
+%%

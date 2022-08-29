@@ -1,14 +1,14 @@
 ---
 _id: TiEFKWDvD3jsKumDx
 title: AIXI
-href: https://lesswrong.com/tag/aixi
+href: https://www.lesswrong.com/tag/aixi
 slug: aixi
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:02.853Z'
+synchedAt: '2022-08-29T20:05:08.289Z'
 ---
 # AIXI
 
