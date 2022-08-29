@@ -170,4 +170,4 @@ export const fixLinks = async (md: string) => {
     })  
 }
 
-export const fixTitle = (title: string) => title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ");
+export const fixTitle = (title: string) => title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ").trim();
