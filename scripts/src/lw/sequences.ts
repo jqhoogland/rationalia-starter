@@ -65,7 +65,7 @@ export const fetchSequences = async () => {
         }
     }`
 
-    let i = 21;
+    let i = 0;
     let j = 0;
     let allSequences: Sequence[] = loadSequences();
 
@@ -76,8 +76,11 @@ export const fetchSequences = async () => {
         
         for (const sequence of sequences.results) {
             // Keep only sequences whose posts have been voted on at least 200 times (or written by Eliezer)
-            if (!sequence.chapters.flatMap(c => c.posts).some(p => p.voteCount > 200 || p.author === "Eliezer_Yudkowsky" || p.author === "Eliezer Yudkowsky")) {
-                console.error("Not included:", sequence.title, )
+            if (
+                !sequence.chapters.flatMap(c => c.posts).some(p => p.voteCount > 200 || p.author === "Eliezer_Yudkowsky" || p.author === "Eliezer Yudkowsky" || p.author === "Scott Alexander")
+                && !['coordination', 'curiosity', 'trust', 'incentives', 'failure', 'coordination & constraint', 'alignment & agency', 'replacing guilt', 'cfar handbook'].includes(sequence.title?.toLowerCase())
+            ) {
+                console.error("Not included:", sequence.title, `(${sequence.chapters?.[0]?.posts?.[0]?.author})`)
                 continue
             }
             allSequences[j++] = sequence;
@@ -88,24 +91,24 @@ export const fetchSequences = async () => {
     return allSequences;
 }
 
-// (await fetchSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
+(await fetchSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
 
 export const sequencesToMD = async () => {
     for (const sequence of db.sequences) {
         if (!sequence.title || sequence.chapters.length === 0) {
             continue
         }
+        const name = fixTitle(sequence.title);
+
         let mdFile = ""
-        mdFile += getFrontmatter(sequence, ['_id', 'title', 'curatedOrder'], {type: "sequence", tags: ["LessWrong", "Sequence"]})
+        mdFile += getFrontmatter(sequence, ['_id', 'title', 'curatedOrder'], {type: "sequence", tags: ["LessWrong", "Sequence"], aliases: [name]})
         mdFile += "\n\n"
         mdFile += await fixLinks(sequence.contents?.markdown ? sequence.contents?.markdown + "\n\n" : "");
         mdFile += "## Chapters\n\n"
         mdFile += sequence.chapters.map(chapter => `### ${fixTitle(chapter.title ?? sequence.title)}\n\n` + chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")).join("\n\n\n")
 
-        const name = fixTitle(sequence.title) + " (Sequence)";
 
-
-        fs.writeFileSync(`../LW/Sequences/${name}.md`, mdFile)
+        fs.writeFileSync(`../LW/Sequences/${name} (Sequence).md`, mdFile)
     }
 }
 
