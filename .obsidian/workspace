@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Reading Orders/Reading Orders.md",
+            "file": "LW/Canon.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Reading Orders/Reading Orders.md"
+                "file": "LW/Canon.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Reading Orders/Reading Orders.md",
+                "file": "LW/Canon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +164,7 @@
   },
   "active": "561c85278be41a72",
   "lastOpenFiles": [
+    "LW/Reading Orders/Reading Orders.md",
     "LW/Sequences/\"Why Not Just...\".md",
     "LW/Collections/The Codex.md",
     "LW/Collections/Best of LessWrong.md",
@@ -172,7 +173,6 @@
     "LW/Books/A Map That Reflects the Territory.md",
     "LW/Books/Becoming Stronger.md",
     "LW/Canon.md",
-    "LW/Sequences/Bah-Humbug Sequence.md",
-    "LW/Collections/Rationality— A-Z.md"
+    "LW/Sequences/Bah-Humbug Sequence.md"
   ]
 }
