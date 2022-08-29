@@ -49,7 +49,7 @@ export const loadCollections = async (limit?: number) => {
 
 // (await loadCollections().then(collections => console.log(JSON.stringify(collections, null, 2))))
 
-export const booksToMD = async () => {
+export const collectionsToMD = async () => {
     for (const collection of db.collections) {
         // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
         const books = collection.books.filter(book => book?.title)
@@ -76,4 +76,4 @@ export const booksToMD = async () => {
     }
 }
 
-await booksToMD()
+// await collectionsToMD()

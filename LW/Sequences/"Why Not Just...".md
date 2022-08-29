@@ -1,10 +1,13 @@
 ---
+_id: TLSzP4xP42PPBctgw
 title: '"Why Not Just..."'
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.700Z'
 ---
+# "Why Not Just..."
 
 A compendium of rants about alignment proposals, of varying charitability.
 

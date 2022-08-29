@@ -93,8 +93,8 @@ export const fetchTag = async (slug: string) => {
 // (await loadTags().then(tags => console.log(JSON.stringify(tags, null, 2))))
     
 export const tagsToMD = async () => {
-    let i = 0;
-    for (const tag of db.tags.slice(956)) {
+    let i = 0; // It's roughly 1000 tags
+    for (const tag of db.tags.slice(0)) {
         console.log("INDEX", i++)
         let mdFile = ""        
         mdFile += getFrontmatter({
@@ -126,4 +126,4 @@ export const tagsToMD = async () => {
     }
 }
 
- (await tagsToMD())
+ // (await tagsToMD())

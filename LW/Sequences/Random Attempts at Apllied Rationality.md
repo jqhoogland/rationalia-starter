@@ -1,10 +1,13 @@
 ---
+_id: YiA2ukmfsLFzWTiiK
 title: Random Attempts at Apllied Rationality
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.703Z'
 ---
+# Random Attempts at Apllied Rationality
 
 # Chapters
 

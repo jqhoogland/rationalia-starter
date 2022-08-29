@@ -1,10 +1,13 @@
 ---
+_id: eqtiQjbk83JHyttrr
 title: Meetup in a box
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.701Z'
 ---
+# Meetup in a box
 
 The in-person community runs on meetups. The people who run meetups – often called organizers – often run on more Hero Power than I would prefer. The Meetup-In-A-Box sequence is intended to provide meetup activities that do not require creativity on the scale of inventing your own holiday or designing your own rationality training programs from scratch, yet give you and your group something to do in addition to general socialization. A Meetup-In-A-Box is intended to be a bit like a board game: Open the box, follow the instructions, and have a good time. You still need to gather enough people and find a place for it, but those are problems common to almost any sort of group activity. 
 

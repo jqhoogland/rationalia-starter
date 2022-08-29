@@ -1,10 +1,13 @@
 ---
+_id: ZytYxd523oTnBNnRT
 title: Law-Following AI
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.701Z'
 ---
+# Law-Following AI
 
 This Sequence of posts will argue that working to ensure that AI systems follow laws is a worthwhile way to improve the long-term future of AI. Additional relevant posts are also linked at the end of the Sequence.
 

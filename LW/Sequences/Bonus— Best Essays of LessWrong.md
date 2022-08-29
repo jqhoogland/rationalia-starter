@@ -1,10 +1,13 @@
 ---
+_id: ix7grGajtrJJYXsY3
 title: 'Bonus: Best Essays of LessWrong'
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.704Z'
 ---
+# Bonus: Best Essays of LessWrong
 
 If you've enjoyed the [Sequence Highlights](https://www.lesswrong.com/highlights), you might also like these posts. They're all-time favorites from the LessWrong archives.
 

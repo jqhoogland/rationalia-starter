@@ -1,10 +1,13 @@
 ---
+_id: 4WiyAJ2Y7Fuyz8RtM
 title: Thoughts in Philosophy of Science of AI alignment
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.699Z'
 ---
+# Thoughts in Philosophy of Science of AI alignment
 
 In this series of posts, I introduce ideas in the “*philosophy of science of AI alignment*". 
 

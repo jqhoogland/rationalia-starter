@@ -1,10 +1,14 @@
 ---
+_id: MCYp8g9EMAiTCTawk
 title: Scarcity
-href: https://www.lesswrong.com/posts/MCYp8g9EMAiTCTawk/scarcity
-type: post
+slug: scarcity
+type: sequence
 tags:
   - LessWrong
   - Concept
   - Post
+href: https://www.lesswrong.com/posts/MCYp8g9EMAiTCTawk/scarcity
+synchedAt: '2022-08-29T11:16:07.186Z'
 ---
+# Scarcity
 

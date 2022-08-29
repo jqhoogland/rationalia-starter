@@ -5,7 +5,7 @@ type: collection
 tags:
   - LessWrong
   - Collection
-synchedAt: '2022-08-29T10:40:18.521Z'
+synchedAt: '2022-08-29T11:17:15.364Z'
 ---
 # Best of LessWrong
 

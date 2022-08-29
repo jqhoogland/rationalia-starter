@@ -5,7 +5,9 @@ tags:
   - LessWrong
   - Concept
   - Jargon
+synchedAt: '2022-08-29T11:16:58.218Z'
 ---
+# System 1/System 2
 
 
 

@@ -5,7 +5,7 @@ type: collection
 tags:
   - LessWrong
   - Collection
-synchedAt: '2022-08-29T10:40:18.523Z'
+synchedAt: '2022-08-29T11:17:15.366Z'
 ---
 # Rationality: A-Z
 

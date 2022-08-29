@@ -1,10 +1,13 @@
 ---
+_id: aaTrp2g86Qo3hinXQ
 title: Why We Fight
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.705Z'
 ---
+# Why We Fight
 
 *Part 6 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*
 

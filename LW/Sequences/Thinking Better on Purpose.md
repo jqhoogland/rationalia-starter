@@ -1,10 +1,13 @@
 ---
+_id: NBDFAKt3GbFwnwzQF
 title: Thinking Better on Purpose
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.709Z'
 ---
+# Thinking Better on Purpose
 
 *Part 1 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*. *
 

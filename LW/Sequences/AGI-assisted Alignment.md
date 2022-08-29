@@ -1,10 +1,13 @@
 ---
+_id: jiqxd9ZmSSocs5Qcz
 title: AGI-assisted Alignment
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.704Z'
 ---
+# AGI-assisted Alignment
 
 Can we start out with an unaligned superintelligent AGI, and end up with an aligned AGI-system? I argue *maybe*, and discuss principles, techniques and strategies that may enable us to do so.  
   

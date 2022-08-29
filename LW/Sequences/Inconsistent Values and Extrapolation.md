@@ -1,10 +1,13 @@
 ---
+_id: kjcioCkqSSS4LiMAe
 title: 'Inconsistent Values and Extrapolation '
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.703Z'
 ---
+# Inconsistent Values and Extrapolation 
 
 We might care about making inconsistent preferences and values consistent. What exactly would that mean? How can me model inconsistent values?
 

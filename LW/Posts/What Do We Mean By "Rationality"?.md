@@ -1,13 +1,17 @@
 ---
+_id: RcZCwxFiZzE6X7nsv
 title: What do we mean by "Rationality"?
-href: >-
-  https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1
-type: post
+slug: what-do-we-mean-by-rationality-1
+type: sequence
 tags:
   - LessWrong
   - Concept
   - Post
+href: >-
+  https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1
 sequence: Thinking Better on Purpose
 chapter: null
+synchedAt: '2022-08-29T11:16:39.471Z'
 ---
+# What do we mean by "Rationality"?
 

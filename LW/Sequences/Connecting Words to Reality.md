@@ -1,10 +1,13 @@
 ---
+_id: paoDwasxFpSpzwA2f
 title: Connecting Words to Reality
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.706Z'
 ---
+# Connecting Words to Reality
 
 *Part 5 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*
 

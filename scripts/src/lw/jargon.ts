@@ -121,4 +121,4 @@ export const jargonToMD = async () => {
     }
 }
 
-// (await jargonToMD())
+// await jargonToMD()

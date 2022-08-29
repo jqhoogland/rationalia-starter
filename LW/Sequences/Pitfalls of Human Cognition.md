@@ -1,10 +1,13 @@
 ---
+_id: gFvira6tHpLXnqCLH
 title: Pitfalls of Human Cognition
 type: sequence
 tags:
   - LessWrong
   - Sequence
+synchedAt: '2022-08-29T11:15:19.710Z'
 ---
+# Pitfalls of Human Cognition
 
 *Part 2 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*  
   
