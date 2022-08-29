@@ -1,7 +1,8 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
+import yaml from "js-yaml";
 import { Post } from "./posts";
-import type { Response } from "./shared";
+import { db, fixLinks, fixTitle, Response } from "./shared";
 
 export interface Sequence {
     _id: string;
@@ -96,4 +97,42 @@ export const loadSequences = async () => {
     return allSequences;
 }
 
-(await loadSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
+// (await loadSequences().then(sequences => console.log(JSON.stringify(sequences, null, 2))))
+
+export const sequencesToMD = async () => {
+    const getFrontmatter = (sequence: Sequence) => {
+        
+        return (
+            "---\n"
+            + yaml.dump({
+                title: sequence.title,
+                type: "sequence",
+                tags: [
+                    "LessWrong",
+                    "Sequence"
+                ],
+            })
+            + "---"
+        )
+    }
+
+    for (const sequence of db.sequences) {
+        // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
+        if (!sequence.title || sequence.chapters.length === 0) {
+            continue
+        }
+        let mdFile = ""
+        mdFile += getFrontmatter(sequence)
+        mdFile += "\n\n"
+        mdFile += await fixLinks(sequence.contents?.markdown ? sequence.contents?.markdown + "\n\n" : "");
+        mdFile += "# Chapters\n\n"
+        mdFile += sequence.chapters.map(chapter => `## ${fixTitle(sequence.title)}\n\n` + chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")).join("\n\n\n")
+
+        const name = fixTitle(sequence.title);
+
+
+        fs.writeFileSync(`../LW/Sequences/${name}.md`, mdFile)
+    }
+}
+
+await sequencesToMD()

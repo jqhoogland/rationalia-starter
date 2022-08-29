@@ -6601,26 +6601,5 @@
     "_id": "5Qvvi23WT2unNCoS9",
     "slug": "a-much-better-life",
     "forceInclude": true
-  },
-  {
-    "_id": "ZYtwnKwXmEAWhm8dT",
-    "url": null,
-    "title": "An EPub of Eliezer's blog posts",
-    "slug": "an-epub-of-eliezer-s-blog-posts",
-    "author": null,
-    "question": false,
-    "tags": [
-      {
-        "name": "Site Meta"
-      },
-      {
-        "name": "Rationality A-Z (discussion & meta)"
-      }
-    ],
-    "tableOfContents": null,
-    "contents": {
-      "markdown": "Update 2015-03-21: I would now strongly recommend reading [Rationality: From AI to Zombies](https://intelligence.org/rationality-ai-zombies/) over this. Though the blog posts I collected here are the starting point for that book, considerable work has gone into selecting and arranging the essays as well as adding thoughtful new material and useful material not in this collection. Only if you've already read that should you consider starting on this; you can always skip the essays you've already read.\n\n[This is all Eliezer's posts to Less Wrong up to the end of 2010 as an EPub.](http://hacks.ciphergoth.org/lesswrong.epub) Can be read with Aldiko and other eBook readers, though you might have to jump through some hoops on the Kindle (haven't tried it). I shared it privately with a few friends in the past, but I thought it might be more generally useful.  Highlights include that all the screwed-up Unicode is fixed AFAIK.\n\n[Source code](http://hg.ciphergoth.org/scrape-sequences/).\n\nUpdate: have now made a [MOBI for the Kindle too](http://hacks.ciphergoth.org/lesswrong.mobi).\n\nUpdated 2011-08-13 17:20 BST: Now with images!"
-    },
-    "voteCount": 43
   }
 ]
