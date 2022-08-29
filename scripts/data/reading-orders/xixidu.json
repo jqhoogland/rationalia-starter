@@ -2,7 +2,7 @@
   "author": "XiXiDu",
   "chapters": [
     {
-      "name": "Introduction",
+      "title": "Introduction",
       "children": [
         {
           "name": "Twelve Virtues of Rationality",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "name": "Wisdom & Insight",
+      "title": "Wisdom & Insight",
       "children": [
         {
           "name": "Diseased thinking: dissolving questions about disease",
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "name": "Education",
+      "title": "Education",
       "children": [
         {
           "name": "Bayes' rule: Guide",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "name": "Excitement, Novelty, Fun",
+      "title": "Excitement, Novelty, Fun",
       "children": [
         {
           "name": "The Apologist and the Revolutionary",
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "name": "Other",
+      "title": "Other",
       "children": [
         {
           "name": "List of all articles from Less Wrong",

@@ -7,7 +7,7 @@ href: https://www.lesswrong.com/tag/how-to-actually-change-your-mind
 
 *How to Actually Change Your Mind* contains seven sequences of essays. These are all collected in the *Rationality: From AI to Zombies* ebook, but the essay names below are also linked to the original blog posts.
 
-The previous book in the series is [[Map and Territory|*Map and Territory*]], and the next book is [[The Machine In The Ghost|*The Machine in the Ghost*]].
+The previous book in the series is [[Map and Territory|*Map and Territory*]], and the next book is [[tmp/Concepts/The Machine In The Ghost|*The Machine in the Ghost*]].
 
  
 

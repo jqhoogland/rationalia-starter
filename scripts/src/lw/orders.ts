@@ -1,5 +1,7 @@
 import fs from "fs";
+import yaml from 'js-yaml';
 import { fetchPost } from "./posts";
+import { fixLinks, fixTitle } from "./shared";
 
 export interface ChapterOrder {
     title: string;
@@ -33,7 +35,7 @@ const getSlug = (name: string) =>
     
 
 const normalize = async (name: string) => {
-    const order = loadOrder(name);
+    const order = loadOrder(name.toLowerCase());
 
     for (const chapter of order.chapters) {
         for (const item of chapter.children) {
@@ -68,3 +70,46 @@ export const normalizeOrders = async () => (
 );
 
 // (async () => await normalizeOrders())()
+
+export const orderToMD = async (author: string) => {
+    const order = loadOrder(author);
+
+    const frontmatter = (
+            "---\n"
+            + yaml.dump({
+                author: order.author,
+                type: "sequence",
+                tags: [
+                    "LessWrong",
+                    "Sequence"
+                ],
+            })
+            + "---"
+        )
+    let mdFile = ""
+    mdFile += frontmatter;
+    mdFile += "\n\n"
+    mdFile += await fixLinks(order.description ?? "");
+    mdFile += "# Chapters\n\n"
+    mdFile += order.chapters.map(chapter => `## ${fixTitle(chapter?.title ?? "")}\n\n` + chapter.children.map(post => (
+        post.href 
+        ? `- [${post.name}](${post.href})`
+        : `- [[${fixTitle(post.name)}]]`
+    )).join("\n")).join("\n\n\n")
+
+
+    const name = `${(order.author)}'s order`
+    fs.writeFileSync(`../LW/Reading Orders/${name}.md`, mdFile)
+}
+
+export const ordersToMD = async () => (
+    Promise.all(
+        [
+            orderToMD('Academian'),
+            orderToMD('jimrandomh'),    
+            orderToMD('XiXiDu'),
+        ]
+    )
+)
+
+await ordersToMD()

@@ -8,6 +8,7 @@
     "graphql": "^16.6.0",
     "graphql-request": "^4.3.0",
     "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
     "mdast": "^3.0.0",
     "remark-parse": "^10.0.1",
     "remark-sectionize": "^1.1.1",

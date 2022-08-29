@@ -115,7 +115,7 @@ We want expertise in "rationality," as Yudkowsky puts it: "**the martial art of 
 
 =150 pgs
 
-## [[The Machine In The Ghost]]
+## [[tmp/Concepts/The Machine In The Ghost]]
 
 - The simple math of evolution (80 pgs)
 - Fragile purposes (70 pgs)

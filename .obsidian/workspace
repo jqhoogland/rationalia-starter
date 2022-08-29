@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "58aaac02c70808db",
+        "id": "561c85278be41a72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Effective Altruism.md",
-            "mode": "preview",
+            "file": "LW/Reading Orders/Reading Orders.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"of superiority\"",
+                "query": "tag:#LessWrong",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Effective Altruism.md"
+                "file": "LW/Reading Orders/Reading Orders.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Effective Altruism.md",
+                "file": "LW/Reading Orders/Reading Orders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,19 +159,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
-  "active": "58aaac02c70808db",
+  "active": "561c85278be41a72",
   "lastOpenFiles": [
-    "LW/Concepts/Absurdity Heuristic.md",
-    "LW/Concepts/2017-2019 AI Alignment Prize.md",
-    "LW/Concepts/80,000 Hours.md",
-    "LW/Concepts/Abstraction.md",
-    "LW/Concepts (LW).md",
-    "LW/LessWrong.md",
-    "LW/Posts/When Truth Isn't Enough.md",
-    "LW/Reading Orders/Reading Orders.md",
-    "LW/Reading Orders/XiXiDu's Order.md",
-    "LW/Reading Orders/Academian's Order.md"
+    "LW/Sequences/\"Why Not Just...\".md",
+    "LW/Collections/The Codex.md",
+    "LW/Collections/Best of LessWrong.md",
+    "LW/Collections/Highlights from the Sequences.md",
+    "LW/Books/Further Reading.md",
+    "LW/Books/A Map That Reflects the Territory.md",
+    "LW/Books/Becoming Stronger.md",
+    "LW/Canon.md",
+    "LW/Sequences/Bah-Humbug Sequence.md",
+    "LW/Collections/Rationality— A-Z.md"
   ]
 }

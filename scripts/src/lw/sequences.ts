@@ -126,7 +126,7 @@ export const sequencesToMD = async () => {
         mdFile += "\n\n"
         mdFile += await fixLinks(sequence.contents?.markdown ? sequence.contents?.markdown + "\n\n" : "");
         mdFile += "# Chapters\n\n"
-        mdFile += sequence.chapters.map(chapter => `## ${fixTitle(sequence.title)}\n\n` + chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")).join("\n\n\n")
+        mdFile += sequence.chapters.map(chapter => `## ${fixTitle(chapter.title ?? sequence.chapter)}\n\n` + chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")).join("\n\n\n")
 
         const name = fixTitle(sequence.title);
 
