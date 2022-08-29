@@ -1,14 +1,13 @@
 import fs from "fs";
 import request, { gql } from "graphql-request";
-import yaml from 'js-yaml';
-import { db, fixLinks, fixTitle, Response } from "./shared";
+import { db, fixLinks, fixTitle, getFrontmatter, Response } from "./shared";
 export interface Book {
     _id: string;
     title: string;
     subtitle: string;
     slug: string;
     number: number;
-    author: string;
+    collectionId: string;
     contents: {
         markdown: string
     }
@@ -28,7 +27,7 @@ export const loadBooks = async (limit?: number) => {
                 title
                 subtitle
                 number
-                author
+                collectionId
                 contents {
                     markdown
                 }
@@ -46,35 +45,14 @@ export const loadBooks = async (limit?: number) => {
     })
 }
 
-// (await loadBooks().then(books => console.log(JSON.stringify(books, null, 2))))
-
-
 export const booksToMD = async () => {
-    const getFrontmatter = (book: Book) => {
-        
-        return (
-            "---\n"
-            + yaml.dump({
-                title: book.title,
-                subtitle: book.subtitle,
-                // author: book.author,
-                type: "book",
-                tags: [
-                    "LessWrong",
-                    "Book"
-                ],
-            })
-            + "---"
-        )
-    }
-
     for (const book of db.books) {
         // There are placeholder (?) books called `Book I: ...` , `Book II: ...`, etc.
         if (!book.title || book.sequences.length === 0 || book.title.startsWith("Book")) {
             continue
         }
         let mdFile = ""
-        mdFile += getFrontmatter(book)
+        mdFile += getFrontmatter(book, ["_id", "title", "subtitle", "number", "collectionId"], { type: "book", tags: ["LessWrong", "Book"] })
         mdFile += "\n\n"
         mdFile += await fixLinks(book.contents?.markdown ? book.contents?.markdown + "\n\n" : "");
         mdFile += "# Sequences\n\n"
@@ -87,4 +65,8 @@ export const booksToMD = async () => {
     }
 }
 
-await booksToMD()
+
+await loadBooks()
+    .then(books => console.log(JSON.stringify(books, null, 2)))
+    .then(booksToMD)
+// await booksToMD()

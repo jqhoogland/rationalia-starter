@@ -1,4 +1,6 @@
 import fs from "fs";
+import yaml from "js-yaml";
+import pick from "lodash/pick";
 import { Book } from "./books";
 import { Collection } from "./collections";
 import { Jargon } from "./jargon";
@@ -171,3 +173,17 @@ export const fixLinks = async (md: string) => {
 }
 
 export const fixTitle = (title: string) => title.replaceAll(":", '—').replaceAll("/", ", ").replace(" ,", ",").replace("  ", " ").trim();
+
+
+export const getFrontmatter = (data: Record<string, any>, keys: string[], extra: Record<string, any> = {}) => {
+        
+    return (
+        "---\n"
+        + yaml.dump({
+            ...pick(data, keys),
+            ...extra,
+            synchedAt: new Date().toISOString(),
+        })
+        + "---"
+    )
+}

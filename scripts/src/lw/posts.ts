@@ -86,11 +86,6 @@ export const fetchPost = ({ slug, _id }: { slug?: string, _id?: string }) => {
         })
 }
 
-gatherPosts().then(writePosts)
-
-// console.log(JSON.stringify(gatherPosts(), null, 2))
-
-
 export const postsToMD = async () => {
     const getFrontmatter = (post: Post) => {
         const sequence = db.sequences.find(s => s.chapters.flatMap(c => c.posts).find(p => p._id === post._id));
@@ -134,4 +129,9 @@ export const postsToMD = async () => {
     }
 }
 
+
+
+
+// gatherPosts().then(writePosts)
+// console.log(JSON.stringify(gatherPosts(), null, 2))
 // await postsToMD();

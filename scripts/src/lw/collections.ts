@@ -65,7 +65,8 @@ export const booksToMD = async () => {
             continue
         }
         let mdFile = ""
-        mdFile += getFrontmatter(collection)
+        mdFile += getFrontmatter(book, ["_id", "title", "subtitle", "number", "collectionId"], { type: "book", tags: ["LessWrong", "Book"] })
+
         mdFile += "\n\n"
         mdFile += await fixLinks(collection.contents?.markdown ? collection.contents?.markdown + "\n\n" : "");
         mdFile += "# Books\n\n"

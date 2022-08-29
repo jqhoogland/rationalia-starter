@@ -4,6 +4,7 @@
     "title": "Further Reading",
     "subtitle": null,
     "number": null,
+    "collectionId": "62bf5f5dc581cd211cc67d49",
     "contents": {
       "markdown": ""
     },
@@ -27,6 +28,7 @@
     "title": null,
     "subtitle": null,
     "number": null,
+    "collectionId": "62bf5f5dc581cd211cc67d49",
     "contents": {
       "markdown": ""
     },
@@ -62,6 +64,7 @@
     "title": "The Engines of Cognition",
     "subtitle": "Best of 2019",
     "number": null,
+    "collectionId": "nmk3nLpQE89dMRzzN",
     "contents": {
       "markdown": ""
     },
@@ -89,6 +92,7 @@
     "title": "A Map That Reflects the Territory",
     "subtitle": "Best of 2018",
     "number": null,
+    "collectionId": "nmk3nLpQE89dMRzzN",
     "contents": {
       "markdown": ""
     },
@@ -120,6 +124,7 @@
     "title": "Epilogue",
     "subtitle": null,
     "number": 4,
+    "collectionId": "2izXHCrmJ684AnZ5X",
     "contents": null,
     "sequences": [
       {
@@ -133,6 +138,7 @@
     "title": "Designing the World",
     "subtitle": null,
     "number": 3,
+    "collectionId": "2izXHCrmJ684AnZ5X",
     "contents": null,
     "sequences": [
       {
@@ -158,6 +164,7 @@
     "title": "The Institution of Science",
     "subtitle": null,
     "number": 2,
+    "collectionId": "2izXHCrmJ684AnZ5X",
     "contents": null,
     "sequences": [
       {
@@ -179,6 +186,7 @@
     "title": "Good and Bad Reasoning",
     "subtitle": null,
     "number": 1,
+    "collectionId": "2izXHCrmJ684AnZ5X",
     "contents": null,
     "sequences": [
       {
@@ -200,6 +208,7 @@
     "title": null,
     "subtitle": null,
     "number": null,
+    "collectionId": "a",
     "contents": null,
     "sequences": []
   },
@@ -208,6 +217,7 @@
     "title": null,
     "subtitle": null,
     "number": null,
+    "collectionId": "ywQvGBSojSQZTMpLh",
     "contents": null,
     "sequences": [
       {
@@ -241,6 +251,7 @@
     "title": "Designing the World",
     "subtitle": "Book III",
     "number": null,
+    "collectionId": "vmd8k3v9qFRqaCxPa",
     "contents": {
       "markdown": ""
     },
@@ -268,6 +279,7 @@
     "title": "The Institution of Science",
     "subtitle": "Book II",
     "number": null,
+    "collectionId": "vmd8k3v9qFRqaCxPa",
     "contents": {
       "markdown": "The institution of Science is the greatest producer of knowledge humanity has ever built. But how reliable is this institution, and how powerful are its methods? The second book in The Codex tries to learn what science knows about a variety of important questions, and also tries to understand where science goes wrong, building up a number of general heuristics about reading academic papers along the way."
     },
@@ -287,6 +299,7 @@
     "title": "Good and Bad Reasoning",
     "subtitle": "Book I",
     "number": null,
+    "collectionId": "vmd8k3v9qFRqaCxPa",
     "contents": {
       "markdown": ""
     },
@@ -306,6 +319,7 @@
     "title": "Becoming Stronger",
     "subtitle": null,
     "number": 6,
+    "collectionId": "oneQyj4pw77ynzwAF",
     "contents": {
       "markdown": "How can individuals and communities put all this into practice? These three sequences begin with an autobiographical account of Yudkowsky’s own biggest philosophical blunders, with advice on how he thinks others might do better. The book closes with recommendations for developing evidence-based applied rationality curricula, and for forming groups and institutions to support interested students, educators, researchers, and friends."
     },
@@ -329,6 +343,7 @@
     "title": "Mere Goodness",
     "subtitle": null,
     "number": 5,
+    "collectionId": "oneQyj4pw77ynzwAF",
     "contents": {
       "markdown": "What makes something valuable—morally, or aesthetically, or prudentially? These three sequences ask how we can justify, revise, and naturalize our values and desires. The aim will be to find a way to understand our goals without compromising our efforts to actually achieve them. Here the biggest challenge is knowing when to trust your messy, complicated case-by-case impulses about what’s right and wrong, and when to replace them with simple exceptionless principles."
     },
@@ -352,6 +367,7 @@
     "title": "Mere Reality",
     "subtitle": null,
     "number": 4,
+    "collectionId": "oneQyj4pw77ynzwAF",
     "contents": {
       "markdown": "What kind of world do we live in? What is our place in that world? Building on the previous sequences’ examples of how evolutionary and cognitive models work, these six sequences explore the nature of mind and the character of physical law. In addition to applying and generalizing past lessons on scientific mysteries and parsimony, these essays raise new questions about the role science should play in individual rationality."
     },
@@ -387,6 +403,7 @@
     "title": "The Machine in the Ghost",
     "subtitle": null,
     "number": 3,
+    "collectionId": "oneQyj4pw77ynzwAF",
     "contents": {
       "markdown": "Why haven’t we evolved to be more rational? Even taking into account resource constraints, it seems like we could be getting a lot more epistemic bang for our evidential buck. To get a realistic picture of how and why our minds execute their biological functions, we need to crack open the hood and see how evolution works, and how our brains work, with more precision. These three sequences illustrate how even philosophers and scientists can be led astray when they rely on intuitive, non-technical evolutionary or psychological accounts. By locating our minds within a larger space of goal-directed systems, we can identify some of the peculiarities of human reasoning and appreciate how such systems can “lose their purpose”."
     },
@@ -410,6 +427,7 @@
     "title": "How to Actually Change Your Mind",
     "subtitle": null,
     "number": 2,
+    "collectionId": "oneQyj4pw77ynzwAF",
     "contents": {
       "markdown": "This truth thing seems pretty handy. Why, then, do we keep jumping to conclusions, digging our heels in, and recapitulating the same mistakes? Why are we so bad at acquiring accurate beliefs, and how can we do better? These seven sequences discuss motivated reasoning and confirmation bias, with a special focus on hard-to-spot species of self-deception and the trap of “using arguments as soldiers”."
     },
@@ -449,6 +467,7 @@
     "title": "Map and Territory ",
     "subtitle": null,
     "number": 1,
+    "collectionId": "oneQyj4pw77ynzwAF",
     "contents": {
       "markdown": "What is a belief, and what makes some beliefs work better than others? These four sequences explain the Bayesian notions of rationality, belief, and evidence. A running theme: the things we call “explanations” or “theories” may not always function like maps for navigating the world. As a result, we risk mixing up our mental maps with the other objects in our toolbox."
     },
@@ -476,6 +495,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -484,6 +504,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -492,6 +513,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -500,6 +522,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": [
       {
@@ -513,6 +536,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": [
       {
@@ -526,6 +550,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": [
       {
@@ -539,6 +564,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -547,6 +573,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -555,6 +582,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -563,6 +591,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -571,6 +600,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -579,6 +609,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -587,6 +618,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -595,6 +627,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -603,6 +636,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -611,6 +645,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -619,6 +654,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -627,6 +663,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -635,6 +672,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -643,6 +681,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -651,6 +690,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -659,6 +699,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -667,6 +708,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -675,6 +717,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -683,6 +726,7 @@
     "title": "Book III: The Real More Deal",
     "subtitle": null,
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -691,6 +735,7 @@
     "title": "Book II: The Real Real Deal",
     "subtitle": "And another Subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -699,6 +744,7 @@
     "title": "Book I: The Real Deal",
     "subtitle": "This is another subtitle",
     "number": null,
+    "collectionId": null,
     "contents": null,
     "sequences": []
   },
@@ -707,6 +753,7 @@
     "title": "The Carving of Reality",
     "subtitle": "Best of 2020",
     "number": null,
+    "collectionId": "nmk3nLpQE89dMRzzN",
     "contents": null,
     "sequences": [
       {
