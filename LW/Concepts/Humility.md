@@ -45,9 +45,9 @@ The most commonly cited explanation of scientific/epistemic humility on LW is fo
 
 While humility is based on the general idea that you are fallible (and should try to be calibrated and realistic about this), modest epistemology makes stronger claims such as:
 
-*   Given your fallibility, you should rely heavily on various techniques associated with "[[Inside/Outside View|the outside view]]", and try to avoid using "inside views".
-*   Given the human tendency to rationalize and self-deceive, you should trust average opinions, or the average opinion of authoritative-sounding sources, more than your own opinions (including your own fine-grained opinions about which authorities have good epistemics on which topics).
-*   Given the risks and commonness of [[Overconfidence|overconfidence]], you should worry much more about overconfidence, and worry little (or not at all) about [underconfidence](https://www.lesswrong.com/s/pvim9PZJ6qHRTMqD3/p/pkFazhcTErMw7TFtT).
+- Given your fallibility, you should rely heavily on various techniques associated with "[[Inside/Outside View|the outside view]]", and try to avoid using "inside views".
+- Given the human tendency to rationalize and self-deceive, you should trust average opinions, or the average opinion of authoritative-sounding sources, more than your own opinions (including your own fine-grained opinions about which authorities have good epistemics on which topics).
+- Given the risks and commonness of [[Overconfidence|overconfidence]], you should worry much more about overconfidence, and worry little (or not at all) about [underconfidence](https://www.lesswrong.com/s/pvim9PZJ6qHRTMqD3/p/pkFazhcTErMw7TFtT).
 
 In contrast, Yudkowsky has [argued](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d/p/o28fkhcZsBhhgfGjx):
 
@@ -67,9 +67,9 @@ Likewise, the lesson isn't "it's bad to ever worry about overconfidence", but ra
 
 ## Related pages
 
-*   [[Calibration]]
-*   [[Chesterton's Fence]]
-*   [[Underconfidence]] and [[Overconfidence]]
-*   [[Modest Epistemology]]
-*   [[Humility|Modesty]]
-*   [[Fallacy of Gray]]
+- [[Calibration]]
+- [[Chesterton's Fence]]
+- [[Underconfidence]] and [[Overconfidence]]
+- [[Modest Epistemology]]
+- [[Humility|Modesty]]
+- [[Fallacy of Gray]]

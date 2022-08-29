@@ -17,5 +17,5 @@ synchedAt: '2022-08-29T10:47:42.630Z'
 
 ## Notable Posts
 
-*   [Beware Trivial Inconveniences](http://lesswrong.com/lw/f1/beware_trivial_inconveniences/)
-*   [Celebrate Trivial Impetuses](http://lesswrong.com/lw/13z/celebrate_trivial_impetuses/)
+- [Beware Trivial Inconveniences](http://lesswrong.com/lw/f1/beware_trivial_inconveniences/)
+- [Celebrate Trivial Impetuses](http://lesswrong.com/lw/13z/celebrate_trivial_impetuses/)

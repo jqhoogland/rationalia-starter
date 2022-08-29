@@ -19,3 +19,4 @@ The institution of Science is the greatest producer of knowledge humanity has ev
 
 - [[Studies and Statistics (Sequence)]]
 - [[Research and Reviews (Sequence)]]
+- [[Hypotheses and Hunches (Sequence)]]

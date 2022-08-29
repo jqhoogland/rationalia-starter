@@ -15,10 +15,10 @@ An **Oracle AI** is a regularly proposed solution to the problem of developing [
 
 ## See also
 
-*   [[Instrumental Convergence|Basic AI drives]]
-*   [[Tool AI]]
-*   [[Utility Indifference|Utility indifference]]
-*   [[AI Boxing (Containment)|AI Boxing]]
+- [[Instrumental Convergence|Basic AI drives]]
+- [[Tool AI]]
+- [[Utility Indifference|Utility indifference]]
+- [[AI Boxing (Containment)|AI Boxing]]
 
 Safety
 ======
@@ -54,5 +54,5 @@ Finally, a *Predictor* is seen as a system that takes a corpus of data and produ
 
 ## Further reading & References
 
-*   [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
-*   [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Armstrong, Sandberg and [[Nick Bostrom|Bostrom]]
+- [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
+- [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Armstrong, Sandberg and [[Nick Bostrom|Bostrom]]

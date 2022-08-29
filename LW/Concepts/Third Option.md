@@ -15,19 +15,19 @@ A **third option** is a way to break a [[False Dilemma|false dilemma]], showing 
 
 ## Blog posts
 
-*   [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/)
-*   [Third Alternatives for Afterlife-ism](http://lesswrong.com/lw/hv/third_alternatives_for_afterlifeism/)
+- [The Third Alternative](http://lesswrong.com/lw/hu/the_third_alternative/)
+- [Third Alternatives for Afterlife-ism](http://lesswrong.com/lw/hv/third_alternatives_for_afterlifeism/)
 
 ## External links
 
-*   [Take A Third Option](http://tvtropes.org/pmwiki/pmwiki.php/Main/TakeAThirdOption) at TVTropes
+- [Take A Third Option](http://tvtropes.org/pmwiki/pmwiki.php/Main/TakeAThirdOption) at TVTropes
 
 ## See also
 
-*   [[False Dilemma|False dilemma]]
-*   [[Blues & Greens (metaphor)|Color politics]]
-*   [[Black Swans|Black swan]]
-*   [[Defensibility]]
-*   [[Arguments As Soldiers|Arguments as soldiers]]
-*   [[Motivated Reasoning|Motivated cognition]]
-*   [[Challenging The Difficult|Challenging the Difficult]]
+- [[False Dilemma|False dilemma]]
+- [[Blues & Greens (metaphor)|Color politics]]
+- [[Black Swans|Black swan]]
+- [[Defensibility]]
+- [[Arguments As Soldiers|Arguments as soldiers]]
+- [[Motivated Reasoning|Motivated cognition]]
+- [[Challenging The Difficult|Challenging the Difficult]]

@@ -17,16 +17,16 @@ Note that the fact that a belief just happens to be true doesn't mean you're rig
 
 Improper belief is one of the subjects of the [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions) sequence. Types of improper belief discussed there include:
 
-*   [[Free-Floating Belief|Free-floating belief]]
-*   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
-*   [[Belief In Belief|Belief in belief]]
-*   [Belief as cheering](https://wiki.lesswrong.com/wiki/Belief_as_cheering)
+- [[Free-Floating Belief|Free-floating belief]]
+- [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
+- [[Belief In Belief|Belief in belief]]
+- [Belief as cheering](https://wiki.lesswrong.com/wiki/Belief_as_cheering)
 
 ## Blog posts
 
-*   [Belief as Attire](http://lesswrong.com/lw/i7/belief_as_attire/)
+- [Belief as Attire](http://lesswrong.com/lw/i7/belief_as_attire/)
 
 ## See also
 
-*   [[Anti-Epistemology|Anti-epistemology]]
-*   [[Self-Deception|Self-deception]]
+- [[Anti-Epistemology|Anti-epistemology]]
+- [[Self-Deception|Self-deception]]

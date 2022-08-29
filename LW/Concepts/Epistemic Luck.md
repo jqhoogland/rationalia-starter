@@ -17,15 +17,15 @@ It has been noted that one's feelings about [Decision Theory](/tag/decision-theo
 
 ## Blog posts
 
-*   [Epistemic Luck](http://lesswrong.com/lw/1r1/epistemic_luck/) by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn)
-*   [The Litany Against Gurus](http://lesswrong.com/lw/m2/the_litany_against_gurus/)
+- [Epistemic Luck](http://lesswrong.com/lw/1r1/epistemic_luck/) by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn)
+- [The Litany Against Gurus](http://lesswrong.com/lw/m2/the_litany_against_gurus/)
 
 ## See also
 
-*   [[Information Cascades|Information cascade]]
-*   [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias)
-*   [[Privileging The Hypothesis|Privileging the hypothesis]]
+- [[Information Cascades|Information cascade]]
+- [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias)
+- [[Privileging The Hypothesis|Privileging the hypothesis]]
 
 ## External links
 
-*   [Epistemic Luck](http://www.iep.utm.edu/epi-luck/), at the Internet Encyclopedia of Philosophy
+- [Epistemic Luck](http://www.iep.utm.edu/epi-luck/), at the Internet Encyclopedia of Philosophy

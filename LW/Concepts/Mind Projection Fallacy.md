@@ -21,13 +21,13 @@ Physicist and [Bayesian](https://lessestwrong.com/tag/bayesianism) philosopher [
 
 ## Notable Posts
 
-*   [Mind Projection Fallacy](https://lessestwrong.com/lw/oi/mind_projection_fallacy/)
-*   [Probability is in the Mind](https://lessestwrong.com/lw/oj/probability_is_in_the_mind/)
-*   [Examples of the Mind Projection Fallacy?](https://lessestwrong.com/lw/8tv/examples_of_the_mind_projection_fallacy/)
+- [Mind Projection Fallacy](https://lessestwrong.com/lw/oi/mind_projection_fallacy/)
+- [Probability is in the Mind](https://lessestwrong.com/lw/oj/probability_is_in_the_mind/)
+- [Examples of the Mind Projection Fallacy?](https://lessestwrong.com/lw/8tv/examples_of_the_mind_projection_fallacy/)
 
 ## See Also
 
-*   [Bayesian probability](https://lessestwrong.com/tag/bayesian-probability)
-*   [Magic](https://lessestwrong.com/tag/magic)
-*   [The map is not the territory](https://lessestwrong.com/tag/the-map-is-not-the-territory)
-*   [2-place and 1-place words](https://lessestwrong.com/tag/2-place-and-1-place-words)
+- [Bayesian probability](https://lessestwrong.com/tag/bayesian-probability)
+- [Magic](https://lessestwrong.com/tag/magic)
+- [The map is not the territory](https://lessestwrong.com/tag/the-map-is-not-the-territory)
+- [2-place and 1-place words](https://lessestwrong.com/tag/2-place-and-1-place-words)

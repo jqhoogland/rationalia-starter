@@ -47,11 +47,11 @@ If we consider evolution as an optimization process (though not, of course, as a
 
 ## See Also
 
-*   [[Wireheading]]
+- [[Wireheading]]
 
 ## External Links
 
-*   [Creating Friendly AI](http://intelligence.org/files/CFAI.pdf)
+- [Creating Friendly AI](http://intelligence.org/files/CFAI.pdf)
 
 ## References
 

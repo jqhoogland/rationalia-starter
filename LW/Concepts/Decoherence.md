@@ -15,14 +15,14 @@ synchedAt: '2022-08-29T11:05:54.876Z'
 
 ## Blog posts
 
-*   [Decoherence](http://lesswrong.com/lw/pp/decoherence/)
-*   [On Being Decoherent](http://lesswrong.com/lw/pu/on_being_decoherent/)
-*   [Decoherence is Pointless](http://lesswrong.com/lw/pw/decoherence_is_pointless/)
-*   [Decoherent Essences](http://lesswrong.com/lw/px/decoherent_essences/)
-*   [Decoherence is Simple](http://lesswrong.com/lw/q3/decoherence_is_simple/)
-*   [Decoherence is Falsifiable and Testable](http://lesswrong.com/lw/q4/decoherence_is_falsifiable_and_testable/)
+- [Decoherence](http://lesswrong.com/lw/pp/decoherence/)
+- [On Being Decoherent](http://lesswrong.com/lw/pu/on_being_decoherent/)
+- [Decoherence is Pointless](http://lesswrong.com/lw/pw/decoherence_is_pointless/)
+- [Decoherent Essences](http://lesswrong.com/lw/px/decoherent_essences/)
+- [Decoherence is Simple](http://lesswrong.com/lw/q3/decoherence_is_simple/)
+- [Decoherence is Falsifiable and Testable](http://lesswrong.com/lw/q4/decoherence_is_falsifiable_and_testable/)
 
 ## See also
 
-*   [[Quantum Mechanics|Quantum mechanics]], [[Many-Worlds Interpretation|Many-worlds interpretation]]
-*   [Thermodynamics](https://wiki.lesswrong.com/wiki/Thermodynamics)
+- [[Quantum Mechanics|Quantum mechanics]], [[Many-Worlds Interpretation|Many-worlds interpretation]]
+- [Thermodynamics](https://wiki.lesswrong.com/wiki/Thermodynamics)

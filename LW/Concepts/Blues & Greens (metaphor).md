@@ -23,10 +23,10 @@ For a variety of reasons, Less Wrong tries to avoid political disputes: see [[Mi
 
 ## Blog posts
 
-*   [The Robbers Cave Experiment](https://www.lesswrong.com/lw/lt/the_robbers_cave_experiment/)
-*   [The Two-Party Swindle](https://www.lesswrong.com/lw/mg/the_twoparty_swindle/)
-*   [A Fable of Science and Politics](https://www.lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
-*   [Blue or Green on Regulation?](https://www.lesswrong.com/lw/h2/blue_or_green_on_regulation/) \- [Burch's law](https://wiki.lesswrong.com/wiki/Burch's_law) isn't a [[Scales of Justice Fallacy|soldier-argument]] for regulation; estimating the appropriate level of regulation in each particular case is a superior [[Third Option|third option]].
+- [The Robbers Cave Experiment](https://www.lesswrong.com/lw/lt/the_robbers_cave_experiment/)
+- [The Two-Party Swindle](https://www.lesswrong.com/lw/mg/the_twoparty_swindle/)
+- [A Fable of Science and Politics](https://www.lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
+- [Blue or Green on Regulation?](https://www.lesswrong.com/lw/h2/blue_or_green_on_regulation/) \- [Burch's law](https://wiki.lesswrong.com/wiki/Burch's_law) isn't a [[Scales of Justice Fallacy|soldier-argument]] for regulation; estimating the appropriate level of regulation in each particular case is a superior [[Third Option|third option]].
 
 ## Footnotes
 

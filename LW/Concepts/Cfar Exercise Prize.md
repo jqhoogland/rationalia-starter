@@ -15,8 +15,8 @@ synchedAt: '2022-08-29T11:10:00.401Z'
 
 The Exercise Prize is an open prize offer by the [Center for Applied Rationality](https://wiki.lesswrong.com/wiki/Center_for_Applied_Rationality) for exercises that teach a cognitive skill:
 
-*   An immediate $50 for any suggestion which seems good enough that we actually test it, whether or not it works out.
-*   An additional $500 for any suggestion adopted into an actual unit.
+- An immediate $50 for any suggestion which seems good enough that we actually test it, whether or not it works out.
+- An additional $500 for any suggestion adopted into an actual unit.
 
 * * *
 
@@ -50,9 +50,9 @@ The prize also extends to unusually good suggestions for how to verify that a sk
 
 [Past requests for exercises](http://lesswrong.com/tag/exprize/), in chronological order from oldest to newest:
 
-*   [ExPrize: Check Consequentialism](http://lesswrong.com/lw/b4f/sotw_check_consequentialism/)
-*   [ExPrize: Be Specific](http://lesswrong.com/lw/bc3/sotw_be_specific/)
-*   [ExPrize: Avoid Motivated Cognition](http://lesswrong.com/lw/bnk/sotw_avoid_motivated_cognition/)
+- [ExPrize: Check Consequentialism](http://lesswrong.com/lw/b4f/sotw_check_consequentialism/)
+- [ExPrize: Be Specific](http://lesswrong.com/lw/bc3/sotw_be_specific/)
+- [ExPrize: Avoid Motivated Cognition](http://lesswrong.com/lw/bnk/sotw_avoid_motivated_cognition/)
 
 These are still open as requests, but except for the current newest post, they may be checked infrequently. Private message [Eliezer_Yudkowsky](http://lesswrong.com/message/compose/?to=Eliezer_Yudkowsky) to remind him to look at yours, if you're posting to an old thread.
 
@@ -60,8 +60,8 @@ These are still open as requests, but except for the current newest post, they m
 
 Past winners of the Exercise Prize - suggestions that have been both tested ($50) and adopted ($500):
 
-*   $550 to Palladias for suggesting [the Monday-Tuesday game](http://lesswrong.com/lw/bc3/sotw_be_specific/681c), which was adopted into the Be Specific unit.
-*   $550 to Stefie_K for the suggestion that was mildly modified to become [the Vague Consultant game](http://lesswrong.com/lw/bc3/sotw_be_specific/686a), adopted into Be Specific.
+- $550 to Palladias for suggesting [the Monday-Tuesday game](http://lesswrong.com/lw/bc3/sotw_be_specific/681c), which was adopted into the Be Specific unit.
+- $550 to Stefie_K for the suggestion that was mildly modified to become [the Vague Consultant game](http://lesswrong.com/lw/bc3/sotw_be_specific/686a), adopted into Be Specific.
 
 Miscellaneous $50 prizes have also been awarded for suggested tweaks to major suggestions, and ideas which were promising enough to test but didn't quite work out.
 

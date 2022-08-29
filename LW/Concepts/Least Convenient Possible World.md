@@ -15,20 +15,20 @@ synchedAt: '2022-08-29T11:06:13.531Z'
 
 ## Blog posts
 
-*   [The Least Convenient Possible World](http://lesswrong.com/lw/2k/the_least_convenient_possible_world/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
-*   [Logical Rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/)
-*   [Is That Your True Rejection?](http://lesswrong.com/lw/wj/is_that_your_true_rejection/)
-*   [Better Disagreement](http://lesswrong.com/lw/85h/better_disagreement/) by [lukeprog](https://wiki.lesswrong.com/wiki/lukeprog)
+- [The Least Convenient Possible World](http://lesswrong.com/lw/2k/the_least_convenient_possible_world/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Logical Rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/)
+- [Is That Your True Rejection?](http://lesswrong.com/lw/wj/is_that_your_true_rejection/)
+- [Better Disagreement](http://lesswrong.com/lw/85h/better_disagreement/) by [lukeprog](https://wiki.lesswrong.com/wiki/lukeprog)
 
 ## External links
 
-*   [Is That Your True Rejection?](http://www.cato-unbound.org/2011/09/07/eliezer-yudkowsky/is-that-your-true-rejection/) at Cato Unbound, by [[Eliezer Yudkowsky]]
+- [Is That Your True Rejection?](http://www.cato-unbound.org/2011/09/07/eliezer-yudkowsky/is-that-your-true-rejection/) at Cato Unbound, by [[Eliezer Yudkowsky]]
 
 ## See also
 
-*   [[Rationalization]]
-*   [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Disagreement]]
-*   [[Rationalist Taboo|Rationalist taboo]]
-*   [[Reversal Test|Reversal test]]
-*   [[How To Actually Change Your Mind]]
+- [[Rationalization]]
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Disagreement]]
+- [[Rationalist Taboo|Rationalist taboo]]
+- [[Reversal Test|Reversal test]]
+- [[How To Actually Change Your Mind]]

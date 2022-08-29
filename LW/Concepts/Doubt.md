@@ -15,16 +15,16 @@ The proper purpose of a doubt is to destroy its target belief [[Litany of Tarski
 
 ## Blog posts
 
-*   [The Proper Use of Doubt](http://lesswrong.com/lw/ib/the_proper_use_of_doubt/)
-*   [Update Yourself Incrementally](http://lesswrong.com/lw/ij/update_yourself_incrementally/)
-*   [Fundamental Doubts](http://lesswrong.com/lw/s4/fundamental_doubts/)
-*   [How to Doubt](http://www.overcomingbias.com/2011/01/how-to-doubt.html) by [[Robin Hanson]]
-*   [Imagine Being Wrong](http://www.overcomingbias.com/2012/01/imagine-being-wrong.html) by Robin Hanson
+- [The Proper Use of Doubt](http://lesswrong.com/lw/ib/the_proper_use_of_doubt/)
+- [Update Yourself Incrementally](http://lesswrong.com/lw/ij/update_yourself_incrementally/)
+- [Fundamental Doubts](http://lesswrong.com/lw/s4/fundamental_doubts/)
+- [How to Doubt](http://www.overcomingbias.com/2011/01/how-to-doubt.html) by [[Robin Hanson]]
+- [Imagine Being Wrong](http://www.overcomingbias.com/2012/01/imagine-being-wrong.html) by Robin Hanson
 
 ## See also
 
-*   [[Curiosity]]
-*   [[Motivated Skepticism|Motivated skepticism]]
-*   [Update](https://wiki.lesswrong.com/wiki/Update)
-*   [[Underconfidence]]
-*   [[Humility|Modesty]]
+- [[Curiosity]]
+- [[Motivated Skepticism|Motivated skepticism]]
+- [Update](https://wiki.lesswrong.com/wiki/Update)
+- [[Underconfidence]]
+- [[Humility|Modesty]]

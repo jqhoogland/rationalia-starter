@@ -14,13 +14,13 @@ synchedAt: '2022-08-29T17:16:41.105Z'
 
 Discusses rationality groups and group rationality, raising the questions:
 
-*   Can rationality be learned and taught?
-*   If so, how much improvement is possible?
+- Can rationality be learned and taught?
+- If so, how much improvement is possible?
 
 How can we be confident we're seeing a real effect in a rationality intervention, and picking out the right cause?
 
-*   What community norms would make this process of bettering ourselves easier?
-*   Can we effectively collaborate on large-scale problems without sacrificing our freedom of thought and conduct?
+- What community norms would make this process of bettering ourselves easier?
+- Can we effectively collaborate on large-scale problems without sacrificing our freedom of thought and conduct?
 
 Above all: What’s missing? What should be in the next generation of rationality primers—the ones that replace this text, improve on its style, test its prescriptions, supplement its content, and branch out in altogether new directions?
 

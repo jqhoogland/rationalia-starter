@@ -15,6 +15,6 @@ synchedAt: '2022-08-29T11:09:22.918Z'
 
 Examples can include:
 
-*   causal decision theory in the context of Newcomb's problem
-*   statistical tools such as p-values in the context of experimental science
-*   majoritarianism in the context of arguments among would-be rationalists
+- causal decision theory in the context of Newcomb's problem
+- statistical tools such as p-values in the context of experimental science
+- majoritarianism in the context of arguments among would-be rationalists

@@ -31,9 +31,9 @@ P(A|B)P(¬A|B)=P(A)P(¬A)⋅P(B|A)P(B|¬A)
 
 ## External links
 
-*   [Arbital Guide to Bayes' Rule](https://arbital.com/p/bayes_rule_guide/)
-*   [An Intuitive Explanation of Bayes' Theorem](http://yudkowsky.net/rational/bayes) by Eliezer Yudkowsky
-*   [Visualizing Bayes' theorem](http://blog.oscarbonilla.com/2009/05/visualizing-bayes-theorem/) by Oscar Bonilla
-*   [Using Venn pies to illustrate Bayes' theorem](http://oracleaide.wordpress.com/2012/12/26/a-venn-pie/) by [oracleaide](https://www.lesswrong.com/users/oracleaide)
-*   [A Guide to Bayes’ Theorem – A few links](http://kruel.co/2010/02/27/a-guide-to-bayes-theorem-a-few-links/) by Alexander Kruel
-*   [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem), Wikipedia
+- [Arbital Guide to Bayes' Rule](https://arbital.com/p/bayes_rule_guide/)
+- [An Intuitive Explanation of Bayes' Theorem](http://yudkowsky.net/rational/bayes) by Eliezer Yudkowsky
+- [Visualizing Bayes' theorem](http://blog.oscarbonilla.com/2009/05/visualizing-bayes-theorem/) by Oscar Bonilla
+- [Using Venn pies to illustrate Bayes' theorem](http://oracleaide.wordpress.com/2012/12/26/a-venn-pie/) by [oracleaide](https://www.lesswrong.com/users/oracleaide)
+- [A Guide to Bayes’ Theorem – A few links](http://kruel.co/2010/02/27/a-guide-to-bayes-theorem-a-few-links/) by Alexander Kruel
+- [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem), Wikipedia

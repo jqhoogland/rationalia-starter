@@ -25,14 +25,14 @@ CDT uses probabilities of conditionals and contrafactual dependence to calculate
 
 ## Blog posts
 
-*   [*Smoking Lesion Steelman*](https://agentfoundations.org/item?id=1525) by Abram Demski
-*   [*Decision Theory FAQ*](http://lesswrong.com/lw/gu1/decision_theory_faq/) by Luke Muehlhauser
-*   [*On Causation and Correlation Part 1*](https://casparoesterheld.files.wordpress.com/2016/12/almond_edt_1.pdf)
-*   [*Two-boxing, smoking and chewing gum in Medical Newcomb problems*](http://lesswrong.com/lw/men/twoboxing_smoking_and_chewing_gum_in_medical/) by Caspar Oesterheld
-*   [*Did EDT get it right all along? Introducing yet another medical Newcomb problem*](http://lesswrong.com/r/discussion/lw/oih/did_edt_get_it_right_all_along_introducing_yet/) by Johannes Treutlein
-*   [*"Betting on the Past" by Arif Ahmed*](https://casparoesterheld.com/2017/02/06/betting-on-the-past-by-arif-ahmed/) by Johannes Treutlein
-*   [*Why conditioning on "the agent takes action a" isn't enough*](https://agentfoundations.org/item?id=92) by Nate Soares
+- [*Smoking Lesion Steelman*](https://agentfoundations.org/item?id=1525) by Abram Demski
+- [*Decision Theory FAQ*](http://lesswrong.com/lw/gu1/decision_theory_faq/) by Luke Muehlhauser
+- [*On Causation and Correlation Part 1*](https://casparoesterheld.files.wordpress.com/2016/12/almond_edt_1.pdf)
+- [*Two-boxing, smoking and chewing gum in Medical Newcomb problems*](http://lesswrong.com/lw/men/twoboxing_smoking_and_chewing_gum_in_medical/) by Caspar Oesterheld
+- [*Did EDT get it right all along? Introducing yet another medical Newcomb problem*](http://lesswrong.com/r/discussion/lw/oih/did_edt_get_it_right_all_along_introducing_yet/) by Johannes Treutlein
+- [*"Betting on the Past" by Arif Ahmed*](https://casparoesterheld.com/2017/02/06/betting-on-the-past-by-arif-ahmed/) by Johannes Treutlein
+- [*Why conditioning on "the agent takes action a" isn't enough*](https://agentfoundations.org/item?id=92) by Nate Soares
 
 ## See also
 
-*   [[Decision Theory|Decision theory]]
+- [[Decision Theory|Decision theory]]

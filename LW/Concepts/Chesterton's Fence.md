@@ -21,4 +21,4 @@ From Chesterton’s 1929 book, The Thing, in the chapter entitled _The Drift fro
 
 ## See also
 
-*   [Wikipedia: Chesterton's Fence](http://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence)
+- [Wikipedia: Chesterton's Fence](http://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence)

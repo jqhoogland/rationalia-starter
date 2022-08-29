@@ -15,12 +15,12 @@ A **fuzzy** is a hypothetical measurement unit for "warm fuzzy feeling" one gets
 
 ## Blog posts
 
-*   [Purchase Fuzzies and Utilons Separately](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/)
-*   [The Trouble With "Good"](http://lesswrong.com/lw/bk/the_trouble_with_good/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
-*   [Not for the Sake of Happiness (Alone)](http://lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/)
+- [Purchase Fuzzies and Utilons Separately](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/)
+- [The Trouble With "Good"](http://lesswrong.com/lw/bk/the_trouble_with_good/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Not for the Sake of Happiness (Alone)](http://lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/)
 
 ## See also
 
-*   [[Utility Functions|Utility function]]
-*   [[Shut Up and Multiply|Shut up and multiply]]
-*   [[Hedon]]
+- [[Utility Functions|Utility function]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Hedon]]

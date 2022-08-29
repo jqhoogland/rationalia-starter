@@ -27,9 +27,9 @@ As Yudkoswky [puts it](http://intelligence.org/files/LOGI.pdf), human intelligen
 
 ## References
 
-*   Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://intelligence.org/files/IE-EI.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al.. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
+- Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://intelligence.org/files/IE-EI.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al.. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
 
 ## See also
 
-*   [[Optimization|Optimization process]]
-*   [[Optimization]]
+- [[Optimization|Optimization process]]
+- [[Optimization]]

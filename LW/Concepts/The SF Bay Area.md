@@ -17,9 +17,9 @@ synchedAt: '2022-08-29T10:59:54.967Z'
 
 ## See also
 
-*   [[Rationalist Movement|Rationalist movement]]
-*   [[History of Less Wrong]]
-*   [LessWrong Meetup Groups](/community)
+- [[Rationalist Movement|Rationalist movement]]
+- [[History of Less Wrong]]
+- [LessWrong Meetup Groups](/community)
 
 ## History
 
@@ -41,8 +41,8 @@ Especially since 2016 or so (possibly earlier?), there has been a considerable a
 
 Some illustrative quotes for concern about people moving to the Bay Area:
 
-> *   "The reasons for this are not immediately apparent. From the outside, people full of energy and enthusiasm make the pilgrimage to Berkeley, go quiet on social media, and when you finally hear from them six months later they don't seem like the person you once knew. *Something* is happening to them, although it isn't particularly clear what."[[The SF Bay Area|^8^]]
-> *   "The theme of the Bay Solstice turned out to be 'Hey guys, so people keep coming to the Bay, running on a dream and a promise of community, but that community is not actually there, there's a tiny number of well-connected people who everyone is trying to get time with, and everyone seems lonely and sad. And we don't even know what to do about this.' "[[The SF Bay Area|^9^]]^,^ [[The SF Bay Area|^10^]]^,^[[The SF Bay Area|^11,^]] [[The SF Bay Area|^12^]]
+> - "The reasons for this are not immediately apparent. From the outside, people full of energy and enthusiasm make the pilgrimage to Berkeley, go quiet on social media, and when you finally hear from them six months later they don't seem like the person you once knew. *Something* is happening to them, although it isn't particularly clear what."[[The SF Bay Area|^8^]]
+> - "The theme of the Bay Solstice turned out to be 'Hey guys, so people keep coming to the Bay, running on a dream and a promise of community, but that community is not actually there, there's a tiny number of well-connected people who everyone is trying to get time with, and everyone seems lonely and sad. And we don't even know what to do about this.' "[[The SF Bay Area|^9^]]^,^ [[The SF Bay Area|^10^]]^,^[[The SF Bay Area|^11,^]] [[The SF Bay Area|^12^]]
 
 > "It's seemed to me for awhile now that the stuff that people are actually talking about in-person (e.g. at CFAR workshops) has far outstripped the pace of what's publicly available in blog post format and I'm really happy to see progress on that front." [[The SF Bay Area|^13^]]^,^ [[The SF Bay Area|^14^]]^,^ [[The SF Bay Area|^15^]][[The SF Bay Area|^,16,^]][[The SF Bay Area|^17^]]
 
@@ -56,8 +56,8 @@ Some illustrative quotes for concern about people moving to the Bay Area:
 
 ## External links
 
-*   [Informational site about Bay Area rationality](http://www.bayrationality.com/) (not sure who runs the site)
-*   [Rationalist House Games](http://www.rationalistgames.org/)
+- [Informational site about Bay Area rationality](http://www.bayrationality.com/) (not sure who runs the site)
+- [Rationalist House Games](http://www.rationalistgames.org/)
 
 ## References
 

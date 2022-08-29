@@ -21,17 +21,17 @@ Goertzel & Pitt (2012) suggest that for regulation to be enacted, there might ne
 
 ## References
 
-*   Ben Goertzel & Joel Pitt (2012): [Nine Ways to Bias Open-Source AGI Toward Friendliness](http://jetpress.org/v22/goertzel-pitt.htm). Journal of Evolution and Technology - Vol. 22 Issue 1 – pgs 116-141.
-*   Mark Gubrud (1997): [Nanotechnology and International Security](http://www.foresight.org/Conferences/MNT05/Papers/Gubrud/). Fifth Foresight Conference on Molecular Nanotechnology.
-*   John McGinnis (2010): [Accelerating AI](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1593851). Northwestern University Law Review.
-*   Matthew Scherer (2015): [Regulating Artificial Intelligence Systems: Risks, Challenges, Competencies, and Strategies](http://papers.ssrn.com/abstract=2609777). Harvard Journal of Law & Technology.
-*   Carl Shulman & Stuart Armstrong (2009): [Arms control and intelligence explosions](http://intelligence.org/files/ArmsControl.pdf). European Conference on Computing and Philosophy.
-*   Roman Yampolskiy & Joshua Fox (2012): [Safety Engineering for Artificial General Intelligence](http://intelligence.org/files/SafetyEngineering.pdf). Topoi.
-*   Mohit Kaushal & Scott Nolan (2015): [Understanding Artificial Intelligence](http://www.brookings.edu/blogs/techtank/posts/2015/04/14-understanding-artificial-intelligence). Brookings.
+- Ben Goertzel & Joel Pitt (2012): [Nine Ways to Bias Open-Source AGI Toward Friendliness](http://jetpress.org/v22/goertzel-pitt.htm). Journal of Evolution and Technology - Vol. 22 Issue 1 – pgs 116-141.
+- Mark Gubrud (1997): [Nanotechnology and International Security](http://www.foresight.org/Conferences/MNT05/Papers/Gubrud/). Fifth Foresight Conference on Molecular Nanotechnology.
+- John McGinnis (2010): [Accelerating AI](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1593851). Northwestern University Law Review.
+- Matthew Scherer (2015): [Regulating Artificial Intelligence Systems: Risks, Challenges, Competencies, and Strategies](http://papers.ssrn.com/abstract=2609777). Harvard Journal of Law & Technology.
+- Carl Shulman & Stuart Armstrong (2009): [Arms control and intelligence explosions](http://intelligence.org/files/ArmsControl.pdf). European Conference on Computing and Philosophy.
+- Roman Yampolskiy & Joshua Fox (2012): [Safety Engineering for Artificial General Intelligence](http://intelligence.org/files/SafetyEngineering.pdf). Topoi.
+- Mohit Kaushal & Scott Nolan (2015): [Understanding Artificial Intelligence](http://www.brookings.edu/blogs/techtank/posts/2015/04/14-understanding-artificial-intelligence). Brookings.
 
 ## See also
 
-*   [[AI Arms Race|AI arms race]]
-*   [[AGI Sputnik Moment|AGI Sputnik moment]]
-*   [[Existential Risk|Existential risk]]
-*   [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]]
+- [[AI Arms Race|AI arms race]]
+- [[AGI Sputnik Moment|AGI Sputnik moment]]
+- [[Existential Risk|Existential risk]]
+- [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]]

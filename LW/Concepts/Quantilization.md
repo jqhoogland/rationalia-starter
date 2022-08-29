@@ -15,5 +15,5 @@ A **Quantilizer** is a proposed AI design which aims to reduce the harms from [[
 
 ### See also
 
-*   [**Rob Miles's Quantilizers: AI That Doesn't Try Too Hard**](https://www.youtube.com/watch?v=gdKMG6kTl6Y)
-*   [**Arbital page on Quantilizers**](https://arbital.com/p/soft_optimizer?l=2r8#Quantilizing)
+- [**Rob Miles's Quantilizers: AI That Doesn't Try Too Hard**](https://www.youtube.com/watch?v=gdKMG6kTl6Y)
+- [**Arbital page on Quantilizers**](https://arbital.com/p/soft_optimizer?l=2r8#Quantilizing)

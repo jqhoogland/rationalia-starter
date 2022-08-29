@@ -27,18 +27,18 @@ Another approach to reducing s-risk is to "expand the moral circle" [*together*]
 
 ## See also
 
-*   [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
-*   [[Existential Risk|Existential risk]]
-*   [[Abolitionism]]
-*   [Mind crime](https://wiki.lesswrong.com/wiki/Mind_crime)
-*   [[Utilitarianism]], [[Hedonism]]
+- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
+- [[Existential Risk|Existential risk]]
+- [[Abolitionism]]
+- [Mind crime](https://wiki.lesswrong.com/wiki/Mind_crime)
+- [[Utilitarianism]], [[Hedonism]]
 
 ## External links
 
-*   [Reducing Risks of Astronomical Suffering: A Neglected Global Priority (FRI)](https://foundational-research.org/reducing-risks-of-astronomical-suffering-a-neglected-global-priority/)
-*   [Introductory talk on s-risks (FRI)](https://foundational-research.org/s-risks-talk-eag-boston-2017/)
-*   [Risks of Astronomical Future Suffering (FRI)](https://foundational-research.org/risks-of-astronomical-future-suffering/)
-*   [Suffering-focused AI safety: Why "fail-safe" measures might be our top intervention PDF (FRI)](https://foundational-research.org/files/suffering-focused-ai-safety.pdf)
-*   [Artificial Intelligence and Its Implications for Future Suffering (FRI)](https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering)
-*   [Expanding our moral circle to reduce suffering in the far future (Sentience Politics)](https://sentience-politics.org/expanding-moral-circle-reduce-suffering-far-future/)
-*   [The Importance of the Far Future (Sentience Politics)](https://sentience-politics.org/philosophy/the-importance-of-the-future/)
+- [Reducing Risks of Astronomical Suffering: A Neglected Global Priority (FRI)](https://foundational-research.org/reducing-risks-of-astronomical-suffering-a-neglected-global-priority/)
+- [Introductory talk on s-risks (FRI)](https://foundational-research.org/s-risks-talk-eag-boston-2017/)
+- [Risks of Astronomical Future Suffering (FRI)](https://foundational-research.org/risks-of-astronomical-future-suffering/)
+- [Suffering-focused AI safety: Why "fail-safe" measures might be our top intervention PDF (FRI)](https://foundational-research.org/files/suffering-focused-ai-safety.pdf)
+- [Artificial Intelligence and Its Implications for Future Suffering (FRI)](https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering)
+- [Expanding our moral circle to reduce suffering in the far future (Sentience Politics)](https://sentience-politics.org/expanding-moral-circle-reduce-suffering-far-future/)
+- [The Importance of the Far Future (Sentience Politics)](https://sentience-politics.org/philosophy/the-importance-of-the-future/)

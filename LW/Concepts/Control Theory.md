@@ -15,10 +15,10 @@ A control system is a device that keeps a variable at a certain value, despite o
 
 ## Blog posts
 
-*   [What is control theory, and why do you need to know about it?](http://lesswrong.com/lw/dj/what_is_control_theory_and_why_do_you_need_to/) by [RichardKennaway](https://wiki.lesswrong.com/wiki/RichardKennaway)
-*   [Without models](http://lesswrong.com/lw/ek/without_models/) by [RichardKennaway](https://wiki.lesswrong.com/wiki/RichardKennaway)
-*   [Controlling your inner control circuits](http://lesswrong.com/lw/11h/controlling_your_inner_control_circuits/) by [Kaj_Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
+- [What is control theory, and why do you need to know about it?](http://lesswrong.com/lw/dj/what_is_control_theory_and_why_do_you_need_to/) by [RichardKennaway](https://wiki.lesswrong.com/wiki/RichardKennaway)
+- [Without models](http://lesswrong.com/lw/ek/without_models/) by [RichardKennaway](https://wiki.lesswrong.com/wiki/RichardKennaway)
+- [Controlling your inner control circuits](http://lesswrong.com/lw/11h/controlling_your_inner_control_circuits/) by [Kaj_Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
 
 ## See also
 
-*   [[Perceptual Control Theory|Perceptual control theory]]
+- [[Perceptual Control Theory|Perceptual control theory]]

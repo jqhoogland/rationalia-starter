@@ -15,8 +15,8 @@ synchedAt: '2022-08-29T11:05:27.987Z'
 
 To summarize it very informally, Solomonoff induction works by:
 
-*   Starting with all possible hypotheses (sequences) as represented by computer programs (that generate those sequences), weighted by their simplicity (2^-^**^n^**, where **n** is the program length);
-*   Discarding those hypotheses that are inconsistent with the data.
+- Starting with all possible hypotheses (sequences) as represented by computer programs (that generate those sequences), weighted by their simplicity (2^-^**^n^**, where **n** is the program length);
+- Discarding those hypotheses that are inconsistent with the data.
 
 Weighting hypotheses by simplicity, the system automatically incorporates a form of [[Occam's Razor|Occam's razor]], which is why it has been playfully referred to as *Solomonoff's lightsaber*.
 
@@ -40,10 +40,10 @@ Since *x*~0~ was chosen at random from {0, 1}*^ω^*, we take the probability o
 
 ## See also
 
-*   [[Kolmogorov Complexity|Kolmogorov complexity]]
-*   [[AIXI]]
-*   [[Occam's Razor|Occam's razor]]
+- [[Kolmogorov Complexity|Kolmogorov complexity]]
+- [[AIXI]]
+- [[Occam's Razor|Occam's razor]]
 
 ## References
 
-*   [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability) on Scholarpedia
+- [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability) on Scholarpedia

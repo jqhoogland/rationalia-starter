@@ -21,10 +21,10 @@ However, this argument does not rule out all predictions. In particular, if we c
 
 ## External links
 
-*   [Knowability of FAI](http://sl4.org/wiki/KnowabilityOfFAI), by Eliezer Yudkowsky
-*   [The Coming Technological Singularity](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), by Vernor Vinge
-*   [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools), by Eliezer Yudkowsky
+- [Knowability of FAI](http://sl4.org/wiki/KnowabilityOfFAI), by Eliezer Yudkowsky
+- [The Coming Technological Singularity](http://www-rohan.sdsu.edu/faculty/vinge/misc/singularity.html), by Vernor Vinge
+- [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools), by Eliezer Yudkowsky
 
 ## See also
 
-*   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)
+- [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)

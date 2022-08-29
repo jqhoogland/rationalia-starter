@@ -17,17 +17,17 @@ Even simple facts, when learned superficially, can turn against you, for reasons
 
 ## Blog posts
 
-*   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
-*   [The Denier’s Dilemma](http://www.overcomingbias.com/2007/09/the-deniers-con.html) by [[Robin Hanson]]
+- [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
+- [The Denier’s Dilemma](http://www.overcomingbias.com/2007/09/the-deniers-con.html) by [[Robin Hanson]]
 
 ## See also
 
-*   [[Debiasing]], [[Valley of Bad Rationality|Valley of bad rationality]]
-*   [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Representativeness Heuristic|Representativeness heuristic]]
-*   [[Self-Deception|Self-deception]]
-*   [[Motivated Skepticism]]
-*   [[Information Hazards|Information hazard]]
+- [[Debiasing]], [[Valley of Bad Rationality|Valley of bad rationality]]
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Self-Deception|Self-deception]]
+- [[Motivated Skepticism]]
+- [[Information Hazards|Information hazard]]
 
 ## References
 

@@ -29,5 +29,5 @@ In spite of that, quantum mechanics is a mature field, and even if there's some 
 
 ## Resources
 
-*   [The Quantum Physics Sequence](https://www.lessestwrong.com/lw/r5/the_quantum_physics_sequence/) – this is really the best place to get started on the topic.
-*   Quantum Mechanics thing by Michael Nielsen
+- [The Quantum Physics Sequence](https://www.lessestwrong.com/lw/r5/the_quantum_physics_sequence/) – this is really the best place to get started on the topic.
+- Quantum Mechanics thing by Michael Nielsen

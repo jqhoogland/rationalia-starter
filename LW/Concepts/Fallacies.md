@@ -37,14 +37,14 @@ Recognizing fallacies in everyday arguments can be difficult due to complicated 
 
 ## Further Reading & References
 
-*   Aristotle's [On Sophistical Refutations](http://etext.library.adelaide.edu.au/a/aristotle/sophistical/)
-*   Damer, T. Edward (2008). Attacking Faulty Reasoning: A Practical Guide to Fallacy-free Arguments (6 ed.). Cengage Learning. pp. 130. ISBN 978-0-495-09506-4.
-*   John Woods (2004). The death of argument: fallacies in agent based reasoning. Springer. ISBN 978-1-4020-2663-8.
-*   [Logical Fallacies](http://www.iep.utm.edu/fallacy/) A peer-reviewed academic resource.
-*   [Infinite regression](http://en.wikipedia.org/wiki/Infinite_regress) Wikipedia entry
+- Aristotle's [On Sophistical Refutations](http://etext.library.adelaide.edu.au/a/aristotle/sophistical/)
+- Damer, T. Edward (2008). Attacking Faulty Reasoning: A Practical Guide to Fallacy-free Arguments (6 ed.). Cengage Learning. pp. 130. ISBN 978-0-495-09506-4.
+- John Woods (2004). The death of argument: fallacies in agent based reasoning. Springer. ISBN 978-1-4020-2663-8.
+- [Logical Fallacies](http://www.iep.utm.edu/fallacy/) A peer-reviewed academic resource.
+- [Infinite regression](http://en.wikipedia.org/wiki/Infinite_regress) Wikipedia entry
 
 ## See Also
 
-*   [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
-*   [Disagreement](https://lessestwrong.com/tag/disagreement)
-*   [Information cascade](https://lessestwrong.com/tag/information-cascades)
+- [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
+- [Disagreement](https://lessestwrong.com/tag/disagreement)
+- [Information cascade](https://lessestwrong.com/tag/information-cascades)

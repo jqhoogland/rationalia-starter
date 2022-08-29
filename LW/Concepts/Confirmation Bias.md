@@ -17,7 +17,7 @@ _See also:_ [[Motivated Skepticism|Motivated skepticism]], [[Availability Heuris
 
 ## External Links
 
-*   [Speculations on the Future of Science](https://www.edge.org/conversation/kevin_kelly-speculations-on-the-future-of-science) by Kevin Kelly
-*   [On the Failure to Eliminate Hypotheses in a Conceptual Task](http://psy2.ucsd.edu/~mckenzie/Wason1960QJEP.pdf) by P.C. Wason
-*   [Write Your Hypothetical Apostasy](https://www.overcomingbias.com/2009/02/write-your-hypothetical-apostasy.html) by [[Nick Bostrom]]
-*   [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias), Wikipedia
+- [Speculations on the Future of Science](https://www.edge.org/conversation/kevin_kelly-speculations-on-the-future-of-science) by Kevin Kelly
+- [On the Failure to Eliminate Hypotheses in a Conceptual Task](http://psy2.ucsd.edu/~mckenzie/Wason1960QJEP.pdf) by P.C. Wason
+- [Write Your Hypothetical Apostasy](https://www.overcomingbias.com/2009/02/write-your-hypothetical-apostasy.html) by [[Nick Bostrom]]
+- [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias), Wikipedia

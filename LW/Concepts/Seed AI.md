@@ -23,8 +23,8 @@ While these approaches have enabled machines to become better at various tasks[^
 
 A Seed AI has abilities that previous approaches lack:
 
-*   *Understanding its own source code*. It must understand the purpose, syntax and architecture of its own programming. This type of self-reflection enables the AGI to comprehend its utility and thus preserve it.
-*   *Rewriting its own source code*. The AGI must be able to overhaul the very code it uses to fulfill its utility. A critical consideration is that it must remain stable under modifications, preserving its original goals.
+- *Understanding its own source code*. It must understand the purpose, syntax and architecture of its own programming. This type of self-reflection enables the AGI to comprehend its utility and thus preserve it.
+- *Rewriting its own source code*. The AGI must be able to overhaul the very code it uses to fulfill its utility. A critical consideration is that it must remain stable under modifications, preserving its original goals.
 
 This combination of abilities would, in theory, allow an AGI to recursively improve itself by becoming *smarter* within its original purpose. A [[Gödel Machine|Gödel machine]] rigorously defines a specification for such an AGI.
 
@@ -34,11 +34,11 @@ Currently, there are no known Seed AIs in existence, but it is an active field o
 
 ## See Also
 
-*   [[Gödel Machine|Gödel machine]]
-*   [[AI Takeoff|AI takeoff]]
-*   [[Recursive Self-Improvement|Recursive self-improvement]]
-*   [[Intelligence Explosion|Intelligence explosion]]
-*   [AGI](https://wiki.lesswrong.com/wiki/AGI)
+- [[Gödel Machine|Gödel machine]]
+- [[AI Takeoff|AI takeoff]]
+- [[Recursive Self-Improvement|Recursive self-improvement]]
+- [[Intelligence Explosion|Intelligence explosion]]
+- [AGI](https://wiki.lesswrong.com/wiki/AGI)
 
 ## References
 

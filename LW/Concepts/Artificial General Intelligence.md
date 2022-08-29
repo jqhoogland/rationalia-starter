@@ -31,24 +31,24 @@ Reasons for expecting an AGI's creation in the near future include the continuat
 
 ## Blog posts
 
-*   [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
-*   [AGI Quotes](http://lesswrong.com/lw/8a9/agi_quotes/) by [lukeprog](http://lukeprog)
+- [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
+- [AGI Quotes](http://lesswrong.com/lw/8a9/agi_quotes/) by [lukeprog](http://lukeprog)
 
 ## References
 
-*   [Machine Intelligence Survey](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0015/21516/MI_survey.pdf) by Anders Sandberg and Nick Bostrom
-*   [How Long Until Human-Level AI? Results from an Expert Assessment](http://sethbaum.com/ac/2011_AI-Experts.pdf), survey at AGI-09 by Seth D. Baum, Ben Goertzel, and Ted G. Goertzel
-*   [Intelligence Explosion: Evidence and Import](http://commonsenseatheism.com/wp-content/uploads/2012/02/Muehlhauser-Salamon-Intelligence-Explosion-Evidence-and-Import.pdf) by Luke Muehlhauser and Anna Salamon
-*   [Pei Wang on the Path to Artificial General Intelligence](http://hplusmagazine.com/2011/01/27/pei-wang-path-artificial-general-intelligence/) by Ben Goertzel
-*   [Interim Report from the Panel Chairs](http://www.aaai.org/Organization/Panel/panel-note.pdf), AAAI
+- [Machine Intelligence Survey](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0015/21516/MI_survey.pdf) by Anders Sandberg and Nick Bostrom
+- [How Long Until Human-Level AI? Results from an Expert Assessment](http://sethbaum.com/ac/2011_AI-Experts.pdf), survey at AGI-09 by Seth D. Baum, Ben Goertzel, and Ted G. Goertzel
+- [Intelligence Explosion: Evidence and Import](http://commonsenseatheism.com/wp-content/uploads/2012/02/Muehlhauser-Salamon-Intelligence-Explosion-Evidence-and-Import.pdf) by Luke Muehlhauser and Anna Salamon
+- [Pei Wang on the Path to Artificial General Intelligence](http://hplusmagazine.com/2011/01/27/pei-wang-path-artificial-general-intelligence/) by Ben Goertzel
+- [Interim Report from the Panel Chairs](http://www.aaai.org/Organization/Panel/panel-note.pdf), AAAI
 
 ## See Also
 
-*   [[AGI Skepticism|AGI skepticism]]
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-*   [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI), [[Paperclip Maximizer|paperclip maximizer]]
-*   [[Really Powerful Optimization Process|Really powerful optimization process]]
-*   [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
-*   [[Mind Design Space|Mind design space]]
-*   [[Singleton]]
-*   [[Anthropomorphism]], [[Giant Cheesecake Fallacy|giant cheesecake fallacy]]
+- [[AGI Skepticism|AGI skepticism]]
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI), [[Paperclip Maximizer|paperclip maximizer]]
+- [[Really Powerful Optimization Process|Really powerful optimization process]]
+- [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
+- [[Mind Design Space|Mind design space]]
+- [[Singleton]]
+- [[Anthropomorphism]], [[Giant Cheesecake Fallacy|giant cheesecake fallacy]]

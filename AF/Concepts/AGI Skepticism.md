@@ -25,12 +25,12 @@ There are also skeptics who think that the prospect of near-term AGI seems remot
 
 ## External Links
 
-*   [A history of the AI winter](http://en.wikipedia.org/wiki/AI_winter) from Wikipedia
+- [A history of the AI winter](http://en.wikipedia.org/wiki/AI_winter) from Wikipedia
 
 ## See Also
 
-*   [[Artificial General Intelligence]]
-*   [[Technological Forecasting|Technological forecasting]]
-*   [[Unfriendly Artificial Intelligence]]
-*   [[Friendly Artificial Intelligence]]
-*   [[Economic Consequences of AGI|Economic Consequences of AI]]
+- [[Artificial General Intelligence]]
+- [[Technological Forecasting|Technological forecasting]]
+- [[Unfriendly Artificial Intelligence]]
+- [[Friendly Artificial Intelligence]]
+- [[Economic Consequences of AGI|Economic Consequences of AI]]

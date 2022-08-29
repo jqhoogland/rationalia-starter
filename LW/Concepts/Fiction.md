@@ -27,17 +27,17 @@ This is a tag for works of fiction, not for analysis or discussion of literature
 
 ## Fiction Sequences
 
-*   [HPMOR](https://www.lesswrong.com/hpmor)
-*   [Three Worlds Collide](https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT)
-*   [The Bayesian Conspiracy](https://www.lesswrong.com/s/LAop879LCQWrM5YnE)
-*   [Murphy's Quest](https://www.lesswrong.com/s/4C33PKt2cQdA7oyfJ)
-*   [Luna Lovegood and the Chamber of Secrets](https://www.lesswrong.com/s/TF77XsD5PbucbJsG3)
-*   [Bayeswatch](https://www.lesswrong.com/s/TjdhvTSptCYakw3Lc)
-*   [Short stories](https://www.lesswrong.com/s/qMtriMPLdriNkAfSJ) by lsusr
+- [HPMOR](https://www.lesswrong.com/hpmor)
+- [Three Worlds Collide](https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT)
+- [The Bayesian Conspiracy](https://www.lesswrong.com/s/LAop879LCQWrM5YnE)
+- [Murphy's Quest](https://www.lesswrong.com/s/4C33PKt2cQdA7oyfJ)
+- [Luna Lovegood and the Chamber of Secrets](https://www.lesswrong.com/s/TF77XsD5PbucbJsG3)
+- [Bayeswatch](https://www.lesswrong.com/s/TjdhvTSptCYakw3Lc)
+- [Short stories](https://www.lesswrong.com/s/qMtriMPLdriNkAfSJ) by lsusr
 
 ## External links
 
-*   [/r/rational/](https://www.reddit.com/r/rational/) on [Reddit](https://lessestwrong.com/tag/reddit)
-*   [RationalFic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic) on TV Tropes
-*   [Eliezer Yudkowsky's guide to writing intelligent characters](http://yudkowsky.tumblr.com/writing)
-*   [rationalreads.com](http://rationalreads.com/)
+- [/r/rational/](https://www.reddit.com/r/rational/) on [Reddit](https://lessestwrong.com/tag/reddit)
+- [RationalFic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic) on TV Tropes
+- [Eliezer Yudkowsky's guide to writing intelligent characters](http://yudkowsky.tumblr.com/writing)
+- [rationalreads.com](http://rationalreads.com/)

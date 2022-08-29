@@ -17,22 +17,22 @@ Simply being told about the biases rarely helps to notice and overcome them. For
 
 ## Blog posts
 
-*   [Debiasing as Non-Self-Destruction](http://lesswrong.com/lw/hf/debiasing_as_nonselfdestruction/) by [[Eliezer Yudkowsky]]
-*   [Fight Biases, or Route Around Them?](http://lesswrong.com/lw/5d/fight_biases_or_route_around_them/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
-*   [The Mistake Script](http://lesswrong.com/lw/1g/the_mistake_script/) by [jimrandomh](https://wiki.lesswrong.com/wiki/jimrandomh)
-*   [Checklists](http://lesswrong.com/lw/19/checklists/) by [Johnicholas](https://wiki.lesswrong.com/wiki/Johnicholas)
+- [Debiasing as Non-Self-Destruction](http://lesswrong.com/lw/hf/debiasing_as_nonselfdestruction/) by [[Eliezer Yudkowsky]]
+- [Fight Biases, or Route Around Them?](http://lesswrong.com/lw/5d/fight_biases_or_route_around_them/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [The Mistake Script](http://lesswrong.com/lw/1g/the_mistake_script/) by [jimrandomh](https://wiki.lesswrong.com/wiki/jimrandomh)
+- [Checklists](http://lesswrong.com/lw/19/checklists/) by [Johnicholas](https://wiki.lesswrong.com/wiki/Johnicholas)
 
 ## External links
 
-*   [Unique like everyone else](http://www.mindhacks.com/blog/2009/07/unique_like_everyone.html) by [Vaughan Bell](https://wiki.lesswrong.com/wiki/Vaughan_Bell)
-*   [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot) on Wikipedia
+- [Unique like everyone else](http://www.mindhacks.com/blog/2009/07/unique_like_everyone.html) by [Vaughan Bell](https://wiki.lesswrong.com/wiki/Vaughan_Bell)
+- [Bias blind spot](https://en.wikipedia.org/wiki/Bias_blind_spot) on Wikipedia
 
 ## See also
 
-*   [[Bias]]
-*   [[Rationality]]
-*   [[Dangerous Knowledge|Dangerous knowledge]], [[Valley of Bad Rationality|Valley of bad rationality]]
-*   [[Crisis of Faith|Crisis of faith]]
+- [[Bias]]
+- [[Rationality]]
+- [[Dangerous Knowledge|Dangerous knowledge]], [[Valley of Bad Rationality|Valley of bad rationality]]
+- [[Crisis of Faith|Crisis of faith]]
 
 ## References
 

@@ -17,8 +17,8 @@ synchedAt: '2022-08-29T10:47:23.294Z'
 
 Sometimes a question *does* have a strong answer as stated, but also needs to be dissolved. This is ([arguably](https://www.lesswrong.com/posts/NEeW7eSXThPz7o4Ne/thou-art-physics)) the case with [[Free Will]], for example:
 
-*   If we do have free will, there's still an additional question of why so many philosophers would conclude otherwise.
-*   If we don't have free will, there's still the question of why so many philosophers think we do.
+- If we do have free will, there's still an additional question of why so many philosophers would conclude otherwise.
+- If we don't have free will, there's still the question of why so many philosophers think we do.
 
 This is (probably) not just a case of "the other side is being silly": there does indeed seem to be something weird about the question which deserves scrutiny.
 

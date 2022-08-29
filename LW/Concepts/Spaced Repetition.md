@@ -36,24 +36,24 @@ Criticisms of Spaced Repetition primarily revolve around the fact that, for it t
 
 ## Supermemo material
 
-*   [Many articles on assorted related topics](http://supermemo.com/english/contents.htm#Articles)
-*   [Research on memory and learning](http://supermemo.com/english/contents.htm#Research)
-*   [Frequently asked questions about various aspects of spaced repetition](http://supermemo.com/help/faq/index.htm)
+- [Many articles on assorted related topics](http://supermemo.com/english/contents.htm#Articles)
+- [Research on memory and learning](http://supermemo.com/english/contents.htm#Research)
+- [Frequently asked questions about various aspects of spaced repetition](http://supermemo.com/help/faq/index.htm)
 
 ## Spaced Repetition Decks
 
 Decks (links, or for Anki, the names of a deck in the Anki collection) relevant to LW.
 
-*   [Anki decks by LW users](http://www.stafforini.com/blog/anki-decks-by-lesswrong-users/) by Pablo_Stafforini. Comprehensive and up-to-date (as of 2019) list.
-*   [Anki deck for biases and fallacies](https://www.lesswrong.com/lw/3px/anki_deck_for_biases_and_fallacies/) by phob
-*   [Deck for Cognitive Science in One Lesson](https://www.lesswrong.com/r/discussion/lw/74o/anki_deck_for_cognitive_science_in_one_lesson/)
-*   [LessWrong Wiki as an Anki deck](https://www.lesswrong.com/r/discussion/lw/ee6/lesswrong_wiki_as_anki_deck) by mapnoterritory
+- [Anki decks by LW users](http://www.stafforini.com/blog/anki-decks-by-lesswrong-users/) by Pablo_Stafforini. Comprehensive and up-to-date (as of 2019) list.
+- [Anki deck for biases and fallacies](https://www.lesswrong.com/lw/3px/anki_deck_for_biases_and_fallacies/) by phob
+- [Deck for Cognitive Science in One Lesson](https://www.lesswrong.com/r/discussion/lw/74o/anki_deck_for_cognitive_science_in_one_lesson/)
+- [LessWrong Wiki as an Anki deck](https://www.lesswrong.com/r/discussion/lw/ee6/lesswrong_wiki_as_anki_deck) by mapnoterritory
 
 ## SR cards for [[Sequences|LessWrong Sequences]]
 
-*   [Spaced Repetition Database for the Mysterious Answers to Mysterious Questions Sequence](https://www.lesswrong.com/lw/2e6/spaced_repetition_database_for_the_mysterious/) by divia
-*   [Spaced Repetition Database for A Human's Guide to Words](https://www.lesswrong.com/lw/3oq/spaced_repetition_database_for_a_humans_guide_to/) by divia
+- [Spaced Repetition Database for the Mysterious Answers to Mysterious Questions Sequence](https://www.lesswrong.com/lw/2e6/spaced_repetition_database_for_the_mysterious/) by divia
+- [Spaced Repetition Database for A Human's Guide to Words](https://www.lesswrong.com/lw/3oq/spaced_repetition_database_for_a_humans_guide_to/) by divia
 
 ## Other Spaced Repetition Software
 
-*   [VocApp.com](https://vocapp.com/)
+- [VocApp.com](https://vocapp.com/)

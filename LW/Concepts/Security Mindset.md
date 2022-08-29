@@ -29,8 +29,8 @@ Security Mindset is a predisposition for thinking about the world in a security-
 
 In 2017, Eliezer Yudkowsky wrote a pair of posts on the security mindset:
 
-*   [Security Mindset and Ordinary Paranoia](https://www.lesswrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia)
-*   [Security Mindset and the Logistic Success Curve](https://www.lesswrong.com/posts/cpdsMuAHSWhWnKdog/security-mindset-and-the-logistic-success-curve)
+- [Security Mindset and Ordinary Paranoia](https://www.lesswrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia)
+- [Security Mindset and the Logistic Success Curve](https://www.lesswrong.com/posts/cpdsMuAHSWhWnKdog/security-mindset-and-the-logistic-success-curve)
 
 Amongst other things, these posts forwarded the idea that true security mindset *is not just* the tendency to spot lots and lots of security flaws. Spotting security flaws is not in itself enough to build secure systems, because you could be spotting flaws with your design forever, patching specific weak points, and moving on to find yet more flaws. 
 

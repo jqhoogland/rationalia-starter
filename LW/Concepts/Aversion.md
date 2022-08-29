@@ -31,18 +31,18 @@ The ugh field forms a self-shadowing blind spot covering an area desperately in 
 
 ## Blog posts and external links
 
-*   [Avoiding Your Belief's Real Weak Points](https://www.lesswrong.com/lw/jy/avoiding_your_beliefs_real_weak_points/)
-*   [Defeating Ugh Fields in Practice](https://www.lesswrong.com/lw/2cv/defeating_ugh_fields_in_practice/) by Psychohistorian
-*   [Learned Blankness](https://www.lesswrong.com/lw/5a9/learned_blankness/) by [[Anna Salamon]]
-*   [Don't Fear Failure](https://www.lesswrong.com/lw/4up/dont_fear_failure/) by [atucker](http://shugyoshayear.com/)
-*   Wikipedia: [Experiential Avoidance](https://en.wikipedia.org/wiki/Experiential_avoidance)
+- [Avoiding Your Belief's Real Weak Points](https://www.lesswrong.com/lw/jy/avoiding_your_beliefs_real_weak_points/)
+- [Defeating Ugh Fields in Practice](https://www.lesswrong.com/lw/2cv/defeating_ugh_fields_in_practice/) by Psychohistorian
+- [Learned Blankness](https://www.lesswrong.com/lw/5a9/learned_blankness/) by [[Anna Salamon]]
+- [Don't Fear Failure](https://www.lesswrong.com/lw/4up/dont_fear_failure/) by [atucker](http://shugyoshayear.com/)
+- Wikipedia: [Experiential Avoidance](https://en.wikipedia.org/wiki/Experiential_avoidance)
 
 ## Related pages
 
-*   Non-tags: [Semantic stopsign](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
-*   [[Akrasia]]
-*   [[Compartmentalization]]
-*   [[Motivated Reasoning|Motivated reasoning]]
-*   [[Motivations]]
-*   [[Priming]]
-*   [[Trivial Inconvenience|Trivial inconvenience]]
+- Non-tags: [Semantic stopsign](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
+- [[Akrasia]]
+- [[Compartmentalization]]
+- [[Motivated Reasoning|Motivated reasoning]]
+- [[Motivations]]
+- [[Priming]]
+- [[Trivial Inconvenience|Trivial inconvenience]]

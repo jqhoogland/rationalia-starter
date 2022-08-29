@@ -17,9 +17,9 @@ The theory posits that no leader can rule alone, and thus always has to satisfy 
 
 The theory separates the rest of the population (apart from the leader) into three groups. 
 
-*   ***interchangeables** \-* are those who can influence the selection of the president (e.g, anyone who has voting rights)
-*   ***influentials** \-* are those who actually influence (e.g, those who actually end up voting)
-*   ***essentials** \-* those who's support is essential for the selection of the leader (e.g, the minimum amount of voters needed to be elected and the electoral college)
+- ***interchangeables** \-* are those who can influence the selection of the president (e.g, anyone who has voting rights)
+- ***influentials** \-* are those who actually influence (e.g, those who actually end up voting)
+- ***essentials** \-* those who's support is essential for the selection of the leader (e.g, the minimum amount of voters needed to be elected and the electoral college)
 
 ![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/1f0cd4742b265d95eb72e1df90d7cf836a3327dd8cb8fd26.png)
 

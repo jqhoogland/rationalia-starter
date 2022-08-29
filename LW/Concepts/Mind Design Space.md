@@ -15,11 +15,11 @@ synchedAt: '2022-08-29T11:06:10.274Z'
 
 ## Blog posts
 
-*   [The Design Space of Minds-In-General](http://lesswrong.com/lw/rm/the_design_space_of_mindsingeneral/)
+- [The Design Space of Minds-In-General](http://lesswrong.com/lw/rm/the_design_space_of_mindsingeneral/)
 
 ## See also
 
-*   [[Artificial General Intelligence|Artificial general intelligence]]
-*   [[Anthropomorphism]], [[Alien Values|Alien values]]
-*   [[Evolution As Alien God|Evolution as alien god]]
-*   [[Paperclip Maximizer|Paperclip maximizer]], [[Magical Categories|Magical categories]]
+- [[Artificial General Intelligence|Artificial general intelligence]]
+- [[Anthropomorphism]], [[Alien Values|Alien values]]
+- [[Evolution As Alien God|Evolution as alien god]]
+- [[Paperclip Maximizer|Paperclip maximizer]], [[Magical Categories|Magical categories]]

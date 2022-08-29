@@ -15,8 +15,8 @@ synchedAt: '2022-08-29T10:48:00.159Z'
 
 ## See also
 
-*   [[Availability Heuristic|Availability heuristic]]
-*   [[Human Universal|Human universal]], [[Typical Mind Fallacy|Typical mind fallacy]]
+- [[Availability Heuristic|Availability heuristic]]
+- [[Human Universal|Human universal]], [[Typical Mind Fallacy|Typical mind fallacy]]
 
 ## References
 

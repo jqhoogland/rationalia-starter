@@ -19,18 +19,18 @@ Occam's razor has been formalized as Minimum Description Length or Minimum Messa
 
 ## Notable Posts
 
-*   [Occam's Razor](https://www.lesswrong.com/lw/jp/occams_razor/)
-*   [A Priori](https://www.lesswrong.com/lw/k2/a_priori/)
-*   [Decoherence is Simple](https://www.lesswrong.com/lw/q3/decoherence_is_simple/)
+- [Occam's Razor](https://www.lesswrong.com/lw/jp/occams_razor/)
+- [A Priori](https://www.lesswrong.com/lw/k2/a_priori/)
+- [Decoherence is Simple](https://www.lesswrong.com/lw/q3/decoherence_is_simple/)
 
 ## See Also
 
-*   [[Solomonoff Induction|Solomonoff induction]]
-*   [Occam's imaginary razor](https://wiki.lesswrong.com/wiki/Occam's_imaginary_razor)
-*   [[Priors]]
-*   [[Burdensome Details|Burdensome details]]
-*   [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
+- [[Solomonoff Induction|Solomonoff induction]]
+- [Occam's imaginary razor](https://wiki.lesswrong.com/wiki/Occam's_imaginary_razor)
+- [[Priors]]
+- [[Burdensome Details|Burdensome details]]
+- [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
 
 ## External Links
 
-*   [Ockham’s Razor: A New Justification](http://www.andrew.cmu.edu/user/kk3n/ockham/Ockham.htm)
+- [Ockham’s Razor: A New Justification](http://www.andrew.cmu.edu/user/kk3n/ockham/Ockham.htm)

@@ -15,11 +15,11 @@ The **Sunk Cost Fallacy** is the tendency to consider costs that have already be
 
 ## External Links
 
-*   [Are sunk costs fallacies?](http://www.gwern.net/Sunk%20cost)
+- [Are sunk costs fallacies?](http://www.gwern.net/Sunk%20cost)
 
 ## See Also
 
-*   [Status quo bias](https://lessestwrong.com/tag/status-quo-bias)
-*   [Loss aversion](https://lessestwrong.com/tag/loss-aversion), [Prospect theory](https://lessestwrong.com/tag/prospect-theory)
-*   [Cached thought](https://lessestwrong.com/tag/cached-thought)
-*   [Narrative fallacy](https://lessestwrong.com/tag/narrative-fallacy)
+- [Status quo bias](https://lessestwrong.com/tag/status-quo-bias)
+- [Loss aversion](https://lessestwrong.com/tag/loss-aversion), [Prospect theory](https://lessestwrong.com/tag/prospect-theory)
+- [Cached thought](https://lessestwrong.com/tag/cached-thought)
+- [Narrative fallacy](https://lessestwrong.com/tag/narrative-fallacy)

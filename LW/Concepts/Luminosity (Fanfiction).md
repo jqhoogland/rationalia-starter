@@ -21,15 +21,15 @@ A few thousand words in, the plot is unrecognizeable.
 
 ## External links
 
-*   [Luminosity on author's site](http://luminous.elcenia.com/), [on fanfiction.net](http://www.fanfiction.net/s/6137139/1/Luminosity)
+- [Luminosity on author's site](http://luminous.elcenia.com/), [on fanfiction.net](http://www.fanfiction.net/s/6137139/1/Luminosity)
 
-*   TV Tropes page [here](http://tvtropes.org/pmwiki/pmwiki.php/FanFic/Luminosity) (warning, potential spoilers).
+- TV Tropes page [here](http://tvtropes.org/pmwiki/pmwiki.php/FanFic/Luminosity) (warning, potential spoilers).
 
 ## Blog posts
 
-*   [Luminosity (Twilight fanfic) discussion thread](http://lesswrong.com/lw/2mq/luminosity_twilight_fanfic_discussion_thread/), [part 2](http://lesswrong.com/lw/2y6/luminosity_twilight_fanfic_part_2_discussion/) [part 3](http://lesswrong.com/r/discussion/lw/3jt/luminosity_twilight_fanfic_discussion_thread_3/)
+- [Luminosity (Twilight fanfic) discussion thread](http://lesswrong.com/lw/2mq/luminosity_twilight_fanfic_discussion_thread/), [part 2](http://lesswrong.com/lw/2y6/luminosity_twilight_fanfic_part_2_discussion/) [part 3](http://lesswrong.com/r/discussion/lw/3jt/luminosity_twilight_fanfic_discussion_thread_3/)
 
 ## See also
 
-*   [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]]
-*   [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))
+- [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]]
+- [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))

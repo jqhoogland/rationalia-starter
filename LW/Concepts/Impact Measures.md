@@ -17,14 +17,14 @@ How do you rigorously define "low impact" in a way that a computer can understan
 
 Currently, impact measurement research focuses on two approaches:
 
-*   [Relative reachability](https://arxiv.org/pdf/1806.01186.pdf): the AI preserves its ability to reach many kinds of world-states. The hope is that by staying able to reach many goal states, the AI stays able to reach the correct goal state.
-*   [Attainable](https://arxiv.org/abs/2006.06547) [utility](https://arxiv.org/abs/1902.09725) [preservation](https://www.lesswrong.com/posts/75oMAADr4265AGK3L/attainable-utility-preservation-concepts): the AI preserves its ability to achieve one or more auxiliary goals. The hope is that by penalizing gaining or losing control over the future, the AI doesn't take control away from us.
+- [Relative reachability](https://arxiv.org/pdf/1806.01186.pdf): the AI preserves its ability to reach many kinds of world-states. The hope is that by staying able to reach many goal states, the AI stays able to reach the correct goal state.
+- [Attainable](https://arxiv.org/abs/2006.06547) [utility](https://arxiv.org/abs/1902.09725) [preservation](https://www.lesswrong.com/posts/75oMAADr4265AGK3L/attainable-utility-preservation-concepts): the AI preserves its ability to achieve one or more auxiliary goals. The hope is that by penalizing gaining or losing control over the future, the AI doesn't take control away from us.
 
 For a review of earlier work, see [A Survey of Early Impact Measures](https://www.lesswrong.com/s/nMGrhBYXWjPhZoyNL/p/TPy4RJvzogqqupDKk). 
 
 Sequences on impact measurement:
 
-*   [Reframing Impact](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW): we're impacted when we become more or less able to achieve our goals. Seemingly, goal-directed AI systems are only incentivized to catastrophically impact us in order to gain power to achieve their own goals. To avoid catastrophic impact, what if we penalize the AI for gaining power?
-*   [Subagents and Impact Measures](https://www.lesswrong.com/s/iRwYCpcAXuFD24tHh) explores how subagents can circumvent current impact measure formalizations.
+- [Reframing Impact](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW): we're impacted when we become more or less able to achieve our goals. Seemingly, goal-directed AI systems are only incentivized to catastrophically impact us in order to gain power to achieve their own goals. To avoid catastrophic impact, what if we penalize the AI for gaining power?
+- [Subagents and Impact Measures](https://www.lesswrong.com/s/iRwYCpcAXuFD24tHh) explores how subagents can circumvent current impact measure formalizations.
 
 Related tags: [[Instrumental Convergence]], [[Corrigibility]], [[Mild Optimization]].

@@ -17,8 +17,8 @@ What you do to your beliefs, opinions and cognitive structure when new [[Evidenc
 
 ## See also
 
-*   [[Evidence]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
-*   [[Belief]]
-*   [[Beliefs Require Observations|Beliefs require observations]]
-*   [[Bayes' Theorem|Bayes' theorem]]
-*   [[Updateless Decision Theory|Updateless decision theory]]
+- [[Evidence]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
+- [[Belief]]
+- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Bayes' Theorem|Bayes' theorem]]
+- [[Updateless Decision Theory|Updateless decision theory]]

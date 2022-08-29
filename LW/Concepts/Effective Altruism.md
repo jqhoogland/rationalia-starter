@@ -19,14 +19,14 @@ The basic concept behind EA is that you would really struggle to donate 100 time
 
 Despite a broad diversity of ideas within the EA community on which areas are most pressing, there are a handful of criteria that are generally agreed make an area potentially impactful to work on (either directly or through donation). These are:
 
-*   The area is generally **neglected,** that is, it has capacity for more support either financially or in terms of skills
-*   The area has the potential for **large impact,** either in human lives saved, animal or human suffering alleviated, catastrophic crises averted, etc. Sometimes this is called "scale"
-*   The area is **tractable**\-\- it is a solvable problem, or is solvable with minimal resource investment (relative to other   
+- The area is generally **neglected,** that is, it has capacity for more support either financially or in terms of skills
+- The area has the potential for **large impact,** either in human lives saved, animal or human suffering alleviated, catastrophic crises averted, etc. Sometimes this is called "scale"
+- The area is **tractable**\-\- it is a solvable problem, or is solvable with minimal resource investment (relative to other   
     problem areas)
 
 A fourth semi-area is:
 
-*   Does the individual have good **personal fit**?  Do they have unique skills which will make them more effective in an area.
+- Does the individual have good **personal fit**?  Do they have unique skills which will make them more effective in an area.
 
 From this, we can see a vast number of charities do not meet all or indeed any of these criteria. A major issue with EA is that some areas are much easier to track progress in than others (think tracking the cost per life saved of malaria nets vs existential [[AI]] risk, for instance). What is clear, however, is that some of the more effective charities (of those which *are* easy to track) have [far more benefit over the average charity than people think](https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/)\-\- perhaps as much as 10,000% as effective.
 
@@ -39,9 +39,9 @@ The **Effective Altruism movement** also has its own forum,   [**The EA Forum**
 
 ## Notable Posts
 
-*   [Efficient charity: do unto others...](https://lessestwrong.com/lw/3gj/efficient_charity_do_unto_others/)
-*   [Optimal philanthropy for human beings](https://lessestwrong.com/lw/6py/optimal_philanthropy_for_human_beings/)
-*   [Why we can't take expected value estimates literally (even when they're unbiased)](https://lessestwrong.com/lw/745/why_we_cant_take_expected_value_estimates/)
+- [Efficient charity: do unto others...](https://lessestwrong.com/lw/3gj/efficient_charity_do_unto_others/)
+- [Optimal philanthropy for human beings](https://lessestwrong.com/lw/6py/optimal_philanthropy_for_human_beings/)
+- [Why we can't take expected value estimates literally (even when they're unbiased)](https://lessestwrong.com/lw/745/why_we_cant_take_expected_value_estimates/)
 
 ## Total resources and how they are split
 
@@ -85,18 +85,18 @@ Some organizations in this space, like the [Center for Human-Compatible AI](http
 
 ## Criticisms 
 
-*   EA is incoherent. Consequentialism applies to one's whole life, but many EAs don’t take it this seriously
-    *   This argument applies to virtue ethics too, but no one criticises it - “why aren’t you constantly seeking to always do the virtuous action”. People in practice seem to take statements from consequentialist philosophies more seriously than they do from others
-    *   It is more intellectually honest to surface incoherence in your worldview - "I use 80% of my time as effectively as possible" 
-*   EA frames all value in terms of impact creation and this makes members sad^[\[1\]](#fnipt32j7op0s)^
-    *   How widespread is this?
-    *   Many EAs don't feel this way
-    *   Some people control orders of magnitude more resources than others. They could use their time and money to improve the lives of many other people. Whether they should is a different question, but it doesn't avoid the fact that this is true.
-*   EA supports a culture of guilt \[Kerry thread\]
-    *   How does EA compare in terms of mental wellbeing to other communities centred around "doing good" eg "Protestant Work Ethic" and "Catholic Guilt"?
-    *   If you struggle with this, consider reading[ Replacing Guilt](https://forum.effectivealtruism.org/s/a2LBRPLhvwB83DSGq), which is one of only 3 sequences with a permanent place sidebar of the EA Forum.
-*   EA is spending too much money
-    *   EA is spending *more* money but it's not immediately obvious it is spending too much. It might be spending too little. \[Will MacAskill article\]
+- EA is incoherent. Consequentialism applies to one's whole life, but many EAs don’t take it this seriously
+    - This argument applies to virtue ethics too, but no one criticises it - “why aren’t you constantly seeking to always do the virtuous action”. People in practice seem to take statements from consequentialist philosophies more seriously than they do from others
+    - It is more intellectually honest to surface incoherence in your worldview - "I use 80% of my time as effectively as possible" 
+- EA frames all value in terms of impact creation and this makes members sad^[\[1\]](#fnipt32j7op0s)^
+    - How widespread is this?
+    - Many EAs don't feel this way
+    - Some people control orders of magnitude more resources than others. They could use their time and money to improve the lives of many other people. Whether they should is a different question, but it doesn't avoid the fact that this is true.
+- EA supports a culture of guilt \[Kerry thread\]
+    - How does EA compare in terms of mental wellbeing to other communities centred around "doing good" eg "Protestant Work Ethic" and "Catholic Guilt"?
+    - If you struggle with this, consider reading[ Replacing Guilt](https://forum.effectivealtruism.org/s/a2LBRPLhvwB83DSGq), which is one of only 3 sequences with a permanent place sidebar of the EA Forum.
+- EA is spending too much money
+    - EA is spending *more* money but it's not immediately obvious it is spending too much. It might be spending too little. \[Will MacAskill article\]
 
 ### Criticisms to add
 
@@ -116,19 +116,19 @@ Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism]
 
 ## Related
 
-*   [[Altruism]]
-*   [[Cause Prioritization]]
-*   [Utilitarianism](https://lessestwrong.com/tag/utilitarianism)
-*   [[Risks of Astronomical Suffering (S-risks)|S-risk]]
-*   [[Existential Risk|X-risk]]
+- [[Altruism]]
+- [[Cause Prioritization]]
+- [Utilitarianism](https://lessestwrong.com/tag/utilitarianism)
+- [[Risks of Astronomical Suffering (S-risks)|S-risk]]
+- [[Existential Risk|X-risk]]
 
 ## External Resources
 
-*   [80,000 Hours](https://80000hours.org/), who offer advice for how to have a maximally globally impactful career
-*   [Effective Altruism,](https://www.effectivealtruism.org/) who offer support for local EA groups, as well as articles and advice surrounding EA
-*   [GiveWell,](https://www.givewell.org/) a charity doing research into the effectiveness of other charities to provide information for donors
-*   [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/?gclid=CjwKCAjwjqT5BRAPEiwAJlBuBXb3m1FKunezyfsYzYkjmgzSCHScRgZpzMH097cbAAGC5lmHUP-J3BoCcnAQAvD_BwE), a free eBook outlining reasons for donating more and more effectively
-*   [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
+- [80,000 Hours](https://80000hours.org/), who offer advice for how to have a maximally globally impactful career
+- [Effective Altruism,](https://www.effectivealtruism.org/) who offer support for local EA groups, as well as articles and advice surrounding EA
+- [GiveWell,](https://www.givewell.org/) a charity doing research into the effectiveness of other charities to provide information for donors
+- [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/?gclid=CjwKCAjwjqT5BRAPEiwAJlBuBXb3m1FKunezyfsYzYkjmgzSCHScRgZpzMH097cbAAGC5lmHUP-J3BoCcnAQAvD_BwE), a free eBook outlining reasons for donating more and more effectively
+- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
 
 1.  ^**[^](#fnrefipt32j7op0s)**^
     

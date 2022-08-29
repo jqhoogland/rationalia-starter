@@ -15,5 +15,5 @@ The **Litany of Jai**: Almost No One is Evil. Almost Everything is Broken.
 
 ## Appearances
 
-*   The header of Jai's blog (blog.jaibot.com).
-*   The [[Slate Star Codex]] essay The Toxoplasma Of Rage.
+- The header of Jai's blog (blog.jaibot.com).
+- The [[Slate Star Codex]] essay The Toxoplasma Of Rage.

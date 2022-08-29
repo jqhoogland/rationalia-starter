@@ -15,16 +15,16 @@ synchedAt: '2022-08-29T10:47:58.942Z'
 
 ## External links
 
-*   [Rational Poker](http://rationalpoker.com/) by Louie
-*   (book) [The Rationality Quotient: Toward a Test of Rational Thinking](https://mitpress.mit.edu/books/rationality-quotient) ([review](https://www.sciencedirect.com/science/article/abs/pii/S0160289616303555) by Stuart Ritchie, [review](http://www.bayesianinvestor.com/blog/index.php/2017/01/07/rationality-quotient/) by [pcm](https://www.lesswrong.com/users/pcm))
-*   [The Comprehensive Assessment of Rational Thinking](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_EdPsy_2016.pdf) (CART) by Keith E. Stanovich ([sci-hub](https://sci-hub.se/10.1080/00461520.2015.1125787))
-*   [Thinking style quiz](http://programs.clearerthinking.org/how_rational_are_you_really_take_the_test.html) by [clearerthinking.org](https://www.clearerthinking.org/) ([LW Discussion](https://www.lesswrong.com/posts/R2mPGwFvXSy4nCMgj/take-the-rationality-test-to-determine-your-rational#ChMTSFFZGPakafojF))
-*   [Cognitive Reflection Test](https://en.wikipedia.org/wiki/Cognitive_reflection_test) ([LW Discussion](https://www.lesswrong.com/posts/vk2yS8osapSch9Cz2/the-bat-and-ball-problem-revisited))
+- [Rational Poker](http://rationalpoker.com/) by Louie
+- (book) [The Rationality Quotient: Toward a Test of Rational Thinking](https://mitpress.mit.edu/books/rationality-quotient) ([review](https://www.sciencedirect.com/science/article/abs/pii/S0160289616303555) by Stuart Ritchie, [review](http://www.bayesianinvestor.com/blog/index.php/2017/01/07/rationality-quotient/) by [pcm](https://www.lesswrong.com/users/pcm))
+- [The Comprehensive Assessment of Rational Thinking](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_EdPsy_2016.pdf) (CART) by Keith E. Stanovich ([sci-hub](https://sci-hub.se/10.1080/00461520.2015.1125787))
+- [Thinking style quiz](http://programs.clearerthinking.org/how_rational_are_you_really_take_the_test.html) by [clearerthinking.org](https://www.clearerthinking.org/) ([LW Discussion](https://www.lesswrong.com/posts/R2mPGwFvXSy4nCMgj/take-the-rationality-test-to-determine-your-rational#ChMTSFFZGPakafojF))
+- [Cognitive Reflection Test](https://en.wikipedia.org/wiki/Cognitive_reflection_test) ([LW Discussion](https://www.lesswrong.com/posts/vk2yS8osapSch9Cz2/the-bat-and-ball-problem-revisited))
 
 ## See also
 
-*   [[Exercises / Problem-Sets]]
-*   [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)
-*   [[Rationality]]
-*   [[Rationality As Martial Art|Rationality as martial art]]
-*   [[Decision Theory|Decision theory]]
+- [[Exercises / Problem-Sets]]
+- [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)
+- [[Rationality]]
+- [[Rationality As Martial Art|Rationality as martial art]]
+- [[Decision Theory|Decision theory]]

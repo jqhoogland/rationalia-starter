@@ -17,10 +17,10 @@ For records of conversations, see [Interviews](Interviews (1)), Debates,...
 
 See also:
 
-*   Communication
-*   Communication Cultures
-*   Relationshops
-*   Community
+- Communication
+- Communication Cultures
+- Relationshops
+- Community
 
 ## *Conversation Halter*
 

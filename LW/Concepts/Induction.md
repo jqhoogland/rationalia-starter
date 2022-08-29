@@ -31,6 +31,6 @@ It’s possible to engage in probabilistic inductive reasoning, such as "95% of 
 
 ## See Also
 
-*   [Stanford Encyclopedia entry on the Problem of Induction](http://plato.stanford.edu/entries/induction-problem/)
-*   [[Solomonoff Induction|Solomonoff induction]]
-*   [[Rationality]]
+- [Stanford Encyclopedia entry on the Problem of Induction](http://plato.stanford.edu/entries/induction-problem/)
+- [[Solomonoff Induction|Solomonoff induction]]
+- [[Rationality]]

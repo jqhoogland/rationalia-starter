@@ -19,20 +19,20 @@ Goertzel has responded to [[Eliezer Yudkowsky]]'s [[Coherent Extrapolated Voliti
 
 ## Blog posts
 
-*   [The Singularity Institute's Scary Idea (and Why I Don't Buy It)](http://lesswrong.com/lw/2zg/ben_goertzel_the_singularity_institutes_scary/)
-*   [What Would It Take to Move Rapidly Toward Beneficial Human-Level AGI?](http://lesswrong.com/lw/2uy/ben_goertzel_what_would_it_take_to_move_rapidly/)
-*   [Mitigating the Risks of Artificial Superintelligence](http://lesswrong.com/lw/5c1/ben_goertzel_interviews_michael_anissimov/)
-*   [Does Humanity Need an AI Nanny?](http://lesswrong.com/lw/75a/link_ben_goertzel_does_humanity_need_an_ainanny/)
-*   [Muehlhauser-Goertzel Dialogue, Part 1](http://lesswrong.com/lw/aw7/muehlhausergoertzel_dialogue_part_1/), [Part 2](http://lesswrong.com/r/discussion/lw/c7h/muehlhausergoertzel_dialogue_part_2/)
-*   [Superintelligence: Fears, Promises and Potentials](http://jetpress.org/v25.2/goertzel.htm)
+- [The Singularity Institute's Scary Idea (and Why I Don't Buy It)](http://lesswrong.com/lw/2zg/ben_goertzel_the_singularity_institutes_scary/)
+- [What Would It Take to Move Rapidly Toward Beneficial Human-Level AGI?](http://lesswrong.com/lw/2uy/ben_goertzel_what_would_it_take_to_move_rapidly/)
+- [Mitigating the Risks of Artificial Superintelligence](http://lesswrong.com/lw/5c1/ben_goertzel_interviews_michael_anissimov/)
+- [Does Humanity Need an AI Nanny?](http://lesswrong.com/lw/75a/link_ben_goertzel_does_humanity_need_an_ainanny/)
+- [Muehlhauser-Goertzel Dialogue, Part 1](http://lesswrong.com/lw/aw7/muehlhausergoertzel_dialogue_part_1/), [Part 2](http://lesswrong.com/r/discussion/lw/c7h/muehlhausergoertzel_dialogue_part_2/)
+- [Superintelligence: Fears, Promises and Potentials](http://jetpress.org/v25.2/goertzel.htm)
 
 ## External Links
 
-*   Goertzel's [personal website](http://wp.goertzel.org/).
-*   [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.
-*   [OpenCog](http://en.wikipedia.org/wiki/OpenCog) on Wikipedia.
+- Goertzel's [personal website](http://wp.goertzel.org/).
+- [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.
+- [OpenCog](http://en.wikipedia.org/wiki/OpenCog) on Wikipedia.
 
 ## See also
 
-*   [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]]
-*   [[Coherent Aggregated Volition]]
+- [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]]
+- [[Coherent Aggregated Volition]]

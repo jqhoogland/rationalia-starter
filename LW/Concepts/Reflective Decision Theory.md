@@ -35,12 +35,12 @@ Eliezer Yudkowsky's has proposed a theoretical solution to the reflective decisi
 
 ## Further Reading & References
 
-*   [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) by Eliezer Yudkowsky
-*   [Interview](http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/) of Eliezer Yudkowsky by John Baez, March 7th, 2011
+- [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) by Eliezer Yudkowsky
+- [Interview](http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/) of Eliezer Yudkowsky by John Baez, March 7th, 2011
 
 ## See also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Reflective Inconsistency|Reflective inconsistency]]
-*   [[Timeless Decision Theory]]
-*   [[Complexity of Value|Complexity of value]]
+- [[Decision Theory|Decision theory]]
+- [[Reflective Inconsistency|Reflective inconsistency]]
+- [[Timeless Decision Theory]]
+- [[Complexity of Value|Complexity of value]]

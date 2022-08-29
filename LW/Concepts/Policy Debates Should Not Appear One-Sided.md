@@ -15,11 +15,11 @@ Almost any course of action has both costs and benefits: optimizing for one valu
 
 ## Blog posts
 
-*   [Policy Debates Should Not Appear One-Sided](http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)
+- [Policy Debates Should Not Appear One-Sided](http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)
 
 ## See also
 
-*   [[Preference]]
-*   [[Shut Up and Multiply|Shut up and multiply]]
-*   [[Game Theory|Game theory]]
-*   [[Blues & Greens (metaphor)|Color politics]]
+- [[Preference]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Game Theory|Game theory]]
+- [[Blues & Greens (metaphor)|Color politics]]

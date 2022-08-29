@@ -17,17 +17,17 @@ synchedAt: '2022-08-29T11:03:11.662Z'
 
 ## See Also
 
-*   [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes)
-*   [[Semantic Stopsign|Semantic stopsign]]
-*   [[Litany of Tarski]]
-*   [[Scholarship & Learning|Scholarship]]
-*   [[Doubt]]
+- [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes)
+- [[Semantic Stopsign|Semantic stopsign]]
+- [[Litany of Tarski]]
+- [[Scholarship & Learning|Scholarship]]
+- [[Doubt]]
 
 ## Notable Posts
 
-*   [A Fable of Science and Politics](https://www.lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
-*   [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/)
-*   [Use Curiosity](https://www.lesswrong.com/lw/4ku/use_curiosity/)
-*   [What Curiosity Looks Like](https://www.lesswrong.com/lw/96j/what_curiosity_looks_like/)
-*   [The Neglected Virtue of Curiosity](https://www.lesswrong.com/lw/9m2/the_neglected_virtue_of_curiosity/)
-*   [Get Curious](https://www.lesswrong.com/lw/aa7/get_curious/)
+- [A Fable of Science and Politics](https://www.lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
+- [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/)
+- [Use Curiosity](https://www.lesswrong.com/lw/4ku/use_curiosity/)
+- [What Curiosity Looks Like](https://www.lesswrong.com/lw/96j/what_curiosity_looks_like/)
+- [The Neglected Virtue of Curiosity](https://www.lesswrong.com/lw/9m2/the_neglected_virtue_of_curiosity/)
+- [Get Curious](https://www.lesswrong.com/lw/aa7/get_curious/)

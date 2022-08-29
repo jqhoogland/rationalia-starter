@@ -15,6 +15,6 @@ synchedAt: '2022-08-29T10:47:33.860Z'
 
 ## External links
 
-*   [Crucial Considerations and Wise Philanthropy - Nick Bostrom](http://www.stafforini.com/blog/bostrom/)
-*   [Crucial considerations - EA concepts](https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/)
-*   [The blog "Crucial Considerations"](http://crucialconsiderations.org/about/) (run by [[Center on Long-Term Risk (CLR)|FRI]])
+- [Crucial Considerations and Wise Philanthropy - Nick Bostrom](http://www.stafforini.com/blog/bostrom/)
+- [Crucial considerations - EA concepts](https://concepts.effectivealtruism.org/concepts/the-importance-of-crucial-considerations/)
+- [The blog "Crucial Considerations"](http://crucialconsiderations.org/about/) (run by [[Center on Long-Term Risk (CLR)|FRI]])

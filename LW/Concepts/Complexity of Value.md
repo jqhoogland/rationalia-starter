@@ -36,30 +36,30 @@ Complexity of value poses a problem for [[AI|AI alignment]]. If you can't easily
 
 ## Major posts
 
-*   [The Fun Theory Sequence](https://www.lesswrong.com/lw/xy/the_fun_theory_sequence/) describes some of the many complex considerations that determine _what sort of happiness_ we most prefer to have - given that many of us would decline to just have an electrode planted in our pleasure centers.
-*   [Thou Art Godshatter](https://www.lesswrong.com/lw/l3/thou_art_godshatter/) describes the [[Evolutionary Psychology|evolutionary psychology]] behind the complexity of human values - how they got to be complex, and why, given that origin, there is no reason in hindsight to expect them to be simple. We certainly are not built to [maximize genetic fitness](https://wiki.lesswrong.com/wiki/adaptation_executers).
-*   [Not for the Sake of Happiness (Alone)](https://www.lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/) tackles the [Hollywood Rationality](https://www.lesswrong.com/tag/hollywood-rationality) trope that "rational" preferences must reduce to selfish hedonism - caring strictly about personally experienced pleasure. An ideal Bayesian agent - implementing strict Bayesian decision theory - can have a utility function that [ranges over anything, not just internal subjective experiences](https://www.lesswrong.com/lw/l4/terminal_values_and_instrumental_values/).
-*   [Fake Utility Functions](https://www.lesswrong.com/lw/lq/fake_utility_functions/) describes the seeming fascination that many have with trying to compress morality down to a single principle. The [sequence leading up](https://www.lesswrong.com/lw/lp/fake_fake_utility_functions/) to this post tries to explain the cognitive twists whereby people [smuggle](https://www.lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/) all of their complicated _other_ preferences into their choice of _exactly_ which acts they try to _[justify using](https://www.lesswrong.com/lw/kq/fake_justification/)_ their single principle; but if they were _really_ following _only_ that single principle, they would [choose other acts to justify](https://www.lesswrong.com/lw/kz/fake_optimization_criteria/).
+- [The Fun Theory Sequence](https://www.lesswrong.com/lw/xy/the_fun_theory_sequence/) describes some of the many complex considerations that determine _what sort of happiness_ we most prefer to have - given that many of us would decline to just have an electrode planted in our pleasure centers.
+- [Thou Art Godshatter](https://www.lesswrong.com/lw/l3/thou_art_godshatter/) describes the [[Evolutionary Psychology|evolutionary psychology]] behind the complexity of human values - how they got to be complex, and why, given that origin, there is no reason in hindsight to expect them to be simple. We certainly are not built to [maximize genetic fitness](https://wiki.lesswrong.com/wiki/adaptation_executers).
+- [Not for the Sake of Happiness (Alone)](https://www.lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/) tackles the [Hollywood Rationality](https://www.lesswrong.com/tag/hollywood-rationality) trope that "rational" preferences must reduce to selfish hedonism - caring strictly about personally experienced pleasure. An ideal Bayesian agent - implementing strict Bayesian decision theory - can have a utility function that [ranges over anything, not just internal subjective experiences](https://www.lesswrong.com/lw/l4/terminal_values_and_instrumental_values/).
+- [Fake Utility Functions](https://www.lesswrong.com/lw/lq/fake_utility_functions/) describes the seeming fascination that many have with trying to compress morality down to a single principle. The [sequence leading up](https://www.lesswrong.com/lw/lp/fake_fake_utility_functions/) to this post tries to explain the cognitive twists whereby people [smuggle](https://www.lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/) all of their complicated _other_ preferences into their choice of _exactly_ which acts they try to _[justify using](https://www.lesswrong.com/lw/kq/fake_justification/)_ their single principle; but if they were _really_ following _only_ that single principle, they would [choose other acts to justify](https://www.lesswrong.com/lw/kz/fake_optimization_criteria/).
 
 ## Other posts
 
-*   [Value is Fragile](https://www.lesswrong.com/lw/y3/value_is_fragile/)
-*   [The Hidden Complexity of Wishes](https://www.lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/)
-*   [Fake Morality](https://www.lesswrong.com/lw/ky/fake_morality/)
-*   [Welcome to Heaven](https://www.lesswrong.com/lw/1o9/welcome_to_heaven/)
-*   [Complexity of Value ≠ Complexity of Outcome](https://www.lesswrong.com/lw/1oj/complexity_of_value_complexity_of_outcome/)
-*   [Not for the Sake of Pleasure Alone](https://www.lesswrong.com/lw/65w/not_for_the_sake_of_pleasure_alone/)
-*   [A Non-Comprehensive List of Human Values](https://casparoesterheld.com/2017/02/10/a-non-comprehensive-list-of-human-values/)
+- [Value is Fragile](https://www.lesswrong.com/lw/y3/value_is_fragile/)
+- [The Hidden Complexity of Wishes](https://www.lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/)
+- [Fake Morality](https://www.lesswrong.com/lw/ky/fake_morality/)
+- [Welcome to Heaven](https://www.lesswrong.com/lw/1o9/welcome_to_heaven/)
+- [Complexity of Value ≠ Complexity of Outcome](https://www.lesswrong.com/lw/1oj/complexity_of_value_complexity_of_outcome/)
+- [Not for the Sake of Pleasure Alone](https://www.lesswrong.com/lw/65w/not_for_the_sake_of_pleasure_alone/)
+- [A Non-Comprehensive List of Human Values](https://casparoesterheld.com/2017/02/10/a-non-comprehensive-list-of-human-values/)
 
 ## See also
 
-*   [Complex Value Systems are Required to Realize Valuable Futures](http://intelligence.org/files/ComplexValues.pdf)
-*   [[Human Universal|Human universal]]
-*   [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
-*   [[Metaethics Sequence|Metaethics sequence]]
-*   [Fun theory](https://www.lesswrong.com/tag/fun-theory)
-*   [[Magical Categories|Magical categories]]
-*   [Friendly Artificial Intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)
-*   [[Preference|Preference]]
-*   [Wireheading](https://www.lesswrong.com/tag/wireheading)
-*   [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]
+- [Complex Value Systems are Required to Realize Valuable Futures](http://intelligence.org/files/ComplexValues.pdf)
+- [[Human Universal|Human universal]]
+- [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
+- [[Metaethics Sequence|Metaethics sequence]]
+- [Fun theory](https://www.lesswrong.com/tag/fun-theory)
+- [[Magical Categories|Magical categories]]
+- [Friendly Artificial Intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)
+- [[Preference|Preference]]
+- [Wireheading](https://www.lesswrong.com/tag/wireheading)
+- [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]

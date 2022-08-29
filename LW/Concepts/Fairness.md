@@ -25,12 +25,12 @@ Several posts on LessWrong deal with this topic, and it's also a field of resear
 
 **Related pages:**
 
-*   [[Game Theory]]
-*   [[Voting Theory]]
-*   [[Economics]]
+- [[Game Theory]]
+- [[Voting Theory]]
+- [[Economics]]
 
 **External links:**
 
-*   [Wikipedia: Fairness](https://en.wikipedia.org/wiki/Fairness) 
-*   [Wikipedia: Fair division](https://en.wikipedia.org/wiki/Fair_division) 
-*   [Wikipedia: List of unsolved problems in fair division](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_fair_division)
+- [Wikipedia: Fairness](https://en.wikipedia.org/wiki/Fairness) 
+- [Wikipedia: Fair division](https://en.wikipedia.org/wiki/Fair_division) 
+- [Wikipedia: List of unsolved problems in fair division](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_fair_division)

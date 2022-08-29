@@ -15,14 +15,14 @@ If it hasn't happened yet but is going to, then it's part of the [[Future|future
 
 ## External links
 
-*   [Predicting the Future](http://www.imminst.org/forum/index.php?showtopic=1097&st=0&p=9104&#entry9104) by [[Eliezer Yudkowsky]]
+- [Predicting the Future](http://www.imminst.org/forum/index.php?showtopic=1097&st=0&p=9104&#entry9104) by [[Eliezer Yudkowsky]]
 
 ## See also
 
-*   [[Hindsight Bias|Hindsight bias]], [[Absurdity Heuristic|absurdity heuristic]], [[Representativeness Heuristic|representativeness heuristic]]
-*   [[Near/Far Thinking|Near/far thinking]]
-*   [[Exploratory Engineering|Exploratory engineering]]
-*   [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
-*   [[Existential Risk|Existential risk]]
-*   [[Black Swans|Black swan]], [[Narrative Fallacy|narrative fallacy]]
-*   [[Forecasting & Prediction|Prediction]]
+- [[Hindsight Bias|Hindsight bias]], [[Absurdity Heuristic|absurdity heuristic]], [[Representativeness Heuristic|representativeness heuristic]]
+- [[Near/Far Thinking|Near/far thinking]]
+- [[Exploratory Engineering|Exploratory engineering]]
+- [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
+- [[Existential Risk|Existential risk]]
+- [[Black Swans|Black swan]], [[Narrative Fallacy|narrative fallacy]]
+- [[Forecasting & Prediction|Prediction]]

@@ -19,5 +19,5 @@ Game theory is an extremely powerful and robust tool in analyzing much more comp
 
 ## References
 
-*   [Naïve introduction to Game Theory](http://levine.sscnet.ucla.edu/general/whatis.htm)
-*   [Stanford Encyclopedia entry on Game Theory](http://plato.stanford.edu/entries/game-theory/)
+- [Naïve introduction to Game Theory](http://levine.sscnet.ucla.edu/general/whatis.htm)
+- [Stanford Encyclopedia entry on Game Theory](http://plato.stanford.edu/entries/game-theory/)

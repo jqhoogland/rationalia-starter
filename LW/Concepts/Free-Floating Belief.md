@@ -15,11 +15,11 @@ A **free-floating belief** is a [[Belief|belief]] that both [[Beliefs Require Ob
 
 ## Blog posts
 
-*   [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
-*   [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)
+- [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
+- [Belief in Belief](http://lesswrong.com/lw/i4/belief_in_belief/)
 
 ## See also
 
-*   [[Belief In Belief|Belief in belief]]
-*   [[Beliefs Require Observations|Beliefs require observations]], [[Making Beliefs Pay Rent|Making beliefs pay rent]]
-*   [[Improper Belief|Improper belief]]
+- [[Belief In Belief|Belief in belief]]
+- [[Beliefs Require Observations|Beliefs require observations]], [[Making Beliefs Pay Rent|Making beliefs pay rent]]
+- [[Improper Belief|Improper belief]]

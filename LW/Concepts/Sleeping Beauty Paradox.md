@@ -25,16 +25,16 @@ A third argument tries to add rigor by considering monetary payoffs. If Beauty's
 
 ## External Links
 
-*   [Video explanation by Julia Galef](https://www.youtube.com/watch?v=zL52lG6aNIY)
-*   [Sleeping Beauty Problem on Wikipedia](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem)
+- [Video explanation by Julia Galef](https://www.youtube.com/watch?v=zL52lG6aNIY)
+- [Sleeping Beauty Problem on Wikipedia](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem)
 
 ## See Also
 
-*   [[Decision Theory]]
-*   [[Newcomb's Problem]]
-*   [[Counterfactual Mugging]]
-*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker)
-*   [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker%27s_lesion)
-*   [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-*   [[Prisoner's Dilemma]]
-*   [[Pascal's Mugging]]
+- [[Decision Theory]]
+- [[Newcomb's Problem]]
+- [[Counterfactual Mugging]]
+- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker)
+- [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker%27s_lesion)
+- [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
+- [[Prisoner's Dilemma]]
+- [[Pascal's Mugging]]

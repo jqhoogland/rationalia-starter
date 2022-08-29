@@ -19,12 +19,12 @@ It has been observed that when someone is just starting to learn rationality, th
 
 ## Non-post example:
 
-*   [This comment](http://lesswrong.com/lw/5f/bayesians_vs_barbarians/7hr) by Scott Alexander on [Bayesians vs. Barbarians](http://lesswrong.com/lw/5f/bayesians_vs_barbarians/)
+- [This comment](http://lesswrong.com/lw/5f/bayesians_vs_barbarians/7hr) by Scott Alexander on [Bayesians vs. Barbarians](http://lesswrong.com/lw/5f/bayesians_vs_barbarians/)
 
 ## See also
 
-*   [[Value of Rationality]]
-*   [[Costs of Rationality|Costs of rationality]]
-*   [[Dangerous Knowledge|Dangerous knowledge]]
-*   [[Debiasing]]
-*   [[Information Hazards]]
+- [[Value of Rationality]]
+- [[Costs of Rationality|Costs of rationality]]
+- [[Dangerous Knowledge|Dangerous knowledge]]
+- [[Debiasing]]
+- [[Information Hazards]]

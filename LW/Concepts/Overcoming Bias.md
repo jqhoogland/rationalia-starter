@@ -15,4 +15,4 @@ synchedAt: '2022-08-29T11:09:16.911Z'
 
 **See Also**
 
-*   [About Overcoming Bias](https://www.overcomingbias.com/about)
+- [About Overcoming Bias](https://www.overcomingbias.com/about)

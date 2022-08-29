@@ -21,12 +21,12 @@ Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/u
 
 ## See also
 
-*   [[Timeless Decision Theory|Timeless decision theory]]
-*   [[Ambient Decision Theory|Ambient decision theory]]
-*   [[Counterfactual Mugging|Counterfactual mugging]]
-*   [[Decision Theory|Decision theory]]
-*   [Functional Decision Theory](https://www.lesswrong.com/posts/AGAGgoWymRhJ5Rqyv/functional-decision-theory-a-new-theory-of-instrumental)
-*   [[Embedded Agency]]
+- [[Timeless Decision Theory|Timeless decision theory]]
+- [[Ambient Decision Theory|Ambient decision theory]]
+- [[Counterfactual Mugging|Counterfactual mugging]]
+- [[Decision Theory|Decision theory]]
+- [Functional Decision Theory](https://www.lesswrong.com/posts/AGAGgoWymRhJ5Rqyv/functional-decision-theory-a-new-theory-of-instrumental)
+- [[Embedded Agency]]
 
 ## Content
 
@@ -52,29 +52,29 @@ Logical uncertainty is an area which has not yet been properly formalized, and m
 
 ## Blog posts
 
-*   [Indexical uncertainty and the Axiom of Independence](http://lesswrong.com/lw/102/indexical_uncertainty_and_the_axiom_of/) by Wei Dai
-*   [Towards a New Decision Theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) by [Wei Dai](http://weidai.com/)
-*   [Anthropic Reasoning in UDT](http://lesswrong.com/lw/175/torture_vs_dust_vs_the_presumptuous_philosopher/) by Wei Dai
-*   [The Absent-Minded Driver](http://lesswrong.com/lw/182/the_absentminded_driver/) by Wei Dai
-*   [Why (and why not) Bayesian Updating?](http://lesswrong.com/lw/1fu/why_and_why_not_bayesian_updating/) by Wei Dai
-*   [What Are Probabilities, Anyway?](http://lesswrong.com/lw/1iy/what_are_probabilities_anyway/) by Wei Dai
-*   [Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/) by Wei Dai
-*   [List of Problems That Motivated UDT](http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/) by Wei Dai
-*   [Another attempt to explain UDT](http://lesswrong.com/lw/334/another_attempt_to_explain_udt/) by cousin_it
-*   [What is Wei Dai's Updateless Decision Theory?](http://lesswrong.com/lw/294/what_is_wei_dais_updateless_decision_theory/) by AlephNeil
-*   [Comparison of decision theories (with a focus on logical-counterfactual decision theories)](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical), by riceissa. (Gives a good description of UDT 1.0 vs 1.1)
-*   [All posts tagged "UDT"](http://lesswrong.com/tag/udt/)
+- [Indexical uncertainty and the Axiom of Independence](http://lesswrong.com/lw/102/indexical_uncertainty_and_the_axiom_of/) by Wei Dai
+- [Towards a New Decision Theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) by [Wei Dai](http://weidai.com/)
+- [Anthropic Reasoning in UDT](http://lesswrong.com/lw/175/torture_vs_dust_vs_the_presumptuous_philosopher/) by Wei Dai
+- [The Absent-Minded Driver](http://lesswrong.com/lw/182/the_absentminded_driver/) by Wei Dai
+- [Why (and why not) Bayesian Updating?](http://lesswrong.com/lw/1fu/why_and_why_not_bayesian_updating/) by Wei Dai
+- [What Are Probabilities, Anyway?](http://lesswrong.com/lw/1iy/what_are_probabilities_anyway/) by Wei Dai
+- [Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/) by Wei Dai
+- [List of Problems That Motivated UDT](http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/) by Wei Dai
+- [Another attempt to explain UDT](http://lesswrong.com/lw/334/another_attempt_to_explain_udt/) by cousin_it
+- [What is Wei Dai's Updateless Decision Theory?](http://lesswrong.com/lw/294/what_is_wei_dais_updateless_decision_theory/) by AlephNeil
+- [Comparison of decision theories (with a focus on logical-counterfactual decision theories)](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical), by riceissa. (Gives a good description of UDT 1.0 vs 1.1)
+- [All posts tagged "UDT"](http://lesswrong.com/tag/udt/)
 
 ## Relevant Comments
 
 In addition to whole posts on UDT, there are also a number of comments which contain important information, often on less relevant posts.
 
-*   [A comment about UDT2](http://lesswrong.com/lw/jhj/functional_side_effects/adhy)
+- [A comment about UDT2](http://lesswrong.com/lw/jhj/functional_side_effects/adhy)
 
 ## External links
 
-*   [Formal description of UDT](https://drive.google.com/file/d/0BzUiCL-Kpxc1NGxab3ZfZGZkVUE/view?usp=sharing&resourcekey=0-EuvTP8RRdpKivUtHwfqgSQ) by Tyrrell McAllister
-*   [UDT with known search order](http://intelligence.org/2014/10/30/new-report-udt-known-search-order/) by Tsvi Benson-Tilsen
-*   [Problem Class Dominance in Predictive Dilemmas](http://intelligence.org/files/ProblemClassDominance.pdf), section 3.4. (The best summary to date.)
-*   [An introduction to decision theory](https://formalisedthinking.wordpress.com/2010/08/18/an-introduction-to-decision-theory/) (series of posts)
-*   [Arbital page on updateless decision theories](https://arbital.com/p/updateless_dt/) by Eliezer Yudkowsky
+- [Formal description of UDT](https://drive.google.com/file/d/0BzUiCL-Kpxc1NGxab3ZfZGZkVUE/view?usp=sharing&resourcekey=0-EuvTP8RRdpKivUtHwfqgSQ) by Tyrrell McAllister
+- [UDT with known search order](http://intelligence.org/2014/10/30/new-report-udt-known-search-order/) by Tsvi Benson-Tilsen
+- [Problem Class Dominance in Predictive Dilemmas](http://intelligence.org/files/ProblemClassDominance.pdf), section 3.4. (The best summary to date.)
+- [An introduction to decision theory](https://formalisedthinking.wordpress.com/2010/08/18/an-introduction-to-decision-theory/) (series of posts)
+- [Arbital page on updateless decision theories](https://arbital.com/p/updateless_dt/) by Eliezer Yudkowsky

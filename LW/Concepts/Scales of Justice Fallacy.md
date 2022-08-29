@@ -15,12 +15,12 @@ The **scales of justice fallacy** refers to the error of using a simple polarize
 
 ## Blog posts
 
-*   [The Scales of Justice, the Notebook of Rationality](http://lesswrong.com/lw/h1/the_scales_of_justice_the_notebook_of_rationality/) by [[Eliezer Yudkowsky]]
-*   [Policy Tug-O-War](http://www.overcomingbias.com/2007/05/policy_tugowar.html) by [[Robin Hanson]]
+- [The Scales of Justice, the Notebook of Rationality](http://lesswrong.com/lw/h1/the_scales_of_justice_the_notebook_of_rationality/) by [[Eliezer Yudkowsky]]
+- [Policy Tug-O-War](http://www.overcomingbias.com/2007/05/policy_tugowar.html) by [[Robin Hanson]]
 
 ## See also
 
-*   [[Blues & Greens (metaphor)|Color politics]], [[Arguments As Soldiers|Arguments as soldiers]]
-*   [[Filtered Evidence|Filtered evidence]]
-*   [[Narrative Fallacy|Narrative fallacy]]
-*   [[Third Option|Third option]]
+- [[Blues & Greens (metaphor)|Color politics]], [[Arguments As Soldiers|Arguments as soldiers]]
+- [[Filtered Evidence|Filtered evidence]]
+- [[Narrative Fallacy|Narrative fallacy]]
+- [[Third Option|Third option]]

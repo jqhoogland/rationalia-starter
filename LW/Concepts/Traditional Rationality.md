@@ -17,16 +17,16 @@ There's also some popular tropes of Traditional Rationality that actually seem f
 
 ## Blog posts
 
-*   [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)
-*   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
-*   [My Wild and Reckless Youth](http://lesswrong.com/lw/iy/my_wild_and_reckless_youth/)
-*   [Science Isn't Strict Enough](http://lesswrong.com/lw/qd/science_isnt_strict_enough/)
-*   [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)
+- [No One Can Exempt You From Rationality's Laws](http://lesswrong.com/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)
+- [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
+- [My Wild and Reckless Youth](http://lesswrong.com/lw/iy/my_wild_and_reckless_youth/)
+- [Science Isn't Strict Enough](http://lesswrong.com/lw/qd/science_isnt_strict_enough/)
+- [The Failures of Eld Science](http://lesswrong.com/lw/q9/the_failures_of_eld_science/)
 
 ## See also
 
-*   [[Science]], [[Scholarship & Learning|scholarship]]
-*   [[Rational Evidence|Rational evidence]]
-*   [[Scales of Justice Fallacy|Scales of justice fallacy]]
-*   [[Epistemic Hygiene|Epistemic hygiene]], [[Absurdity Heuristic|Absurdity heuristic]]
-*   [Yudkowsky's coming of age](https://wiki.lesswrong.com/wiki/Yudkowsky's_coming_of_age)
+- [[Science]], [[Scholarship & Learning|scholarship]]
+- [[Rational Evidence|Rational evidence]]
+- [[Scales of Justice Fallacy|Scales of justice fallacy]]
+- [[Epistemic Hygiene|Epistemic hygiene]], [[Absurdity Heuristic|Absurdity heuristic]]
+- [Yudkowsky's coming of age](https://wiki.lesswrong.com/wiki/Yudkowsky's_coming_of_age)

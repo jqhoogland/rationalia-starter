@@ -17,19 +17,19 @@ When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist 
 
 ## Blog posts
 
-*   [Semantic Stopsigns](http://lesswrong.com/lw/it/semantic_stopsigns/)
-*   [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)
-*   [Fake Explanations](http://lesswrong.com/lw/ip/fake_explanations/)
-*   ["Science" as Curiosity-Stopper](http://lesswrong.com/lw/j3/science_as_curiositystopper/)
-*   [Explain/Worship/Ignore?](http://lesswrong.com/lw/j2/explainworshipignore/)
-*   [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)
-*   [Conversation Halters](http://lesswrong.com/lw/1p2/conversation_halters/)
+- [Semantic Stopsigns](http://lesswrong.com/lw/it/semantic_stopsigns/)
+- [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)
+- [Fake Explanations](http://lesswrong.com/lw/ip/fake_explanations/)
+- ["Science" as Curiosity-Stopper](http://lesswrong.com/lw/j3/science_as_curiositystopper/)
+- [Explain/Worship/Ignore?](http://lesswrong.com/lw/j2/explainworshipignore/)
+- [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)
+- [Conversation Halters](http://lesswrong.com/lw/1p2/conversation_halters/)
 
 ## See also
 
-*   [[Curiosity]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
-*   [[Improper Belief|Improper belief]]
-*   [[Fake Simplicity|Fake simplicity]], [[Cached Thoughts|Cached thought]]
-*   [[Anti-Epistemology|Anti-epistemology]], [[Logical Rudeness|Logical rudeness]]
-*   [[Rationalist Taboo|Rationalist taboo]], [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Phlogiston]]
+- [[Curiosity]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
+- [[Improper Belief|Improper belief]]
+- [[Fake Simplicity|Fake simplicity]], [[Cached Thoughts|Cached thought]]
+- [[Anti-Epistemology|Anti-epistemology]], [[Logical Rudeness|Logical rudeness]]
+- [[Rationalist Taboo|Rationalist taboo]], [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Phlogiston]]

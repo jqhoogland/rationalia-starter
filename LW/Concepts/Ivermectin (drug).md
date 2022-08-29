@@ -15,4 +15,4 @@ synchedAt: '2022-08-29T10:47:20.987Z'
 
 **External Articles:**
 
-*   [Ivermectin: Much More Than You Wanted To Know](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) by Scott Alexander
+- [Ivermectin: Much More Than You Wanted To Know](https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted) by Scott Alexander

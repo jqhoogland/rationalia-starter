@@ -33,19 +33,19 @@ The main problems with CEV include, firstly, the great difficulty of implementin
 
 ## Further Reading & References
 
-*   [Coherent Extrapolated Volition](http://intelligence.org/files/CEV.pdf) by Eliezer Yudkowsky (2004)
-*   [Coherent Extrapolated Volition: A Meta-Level Approach to Machine Ethics](http://intelligence.org/files/CEV-MachineEthics.pdf) by Nick Tarleton (2010)
-*   [A Short Introduction to Coherent Extrapolated Volition](https://web.archive.org/web/20131231151554/http://www.acceleratingfuture.com/michael/blog/2009/12/a-short-introduction-to-coherent-extrapolated-volition-cev/) by Michael Anissimov
-*   [Hacking the CEV for Fun and Profit](https://www.lesswrong.com/lw/2b7/hacking_the_cev_for_fun_and_profit/) by Wei Dai
-*   [Two questions about CEV that worry me](https://www.lesswrong.com/lw/3fn/two_questions_about_cev_that_worry_me/) by Vladimir Slepnev
-*   [Beginning resources for CEV research](https://www.lesswrong.com/lw/5l0/beginning_resources_for_cev_research/) by Luke Muehlhauser
-*   [Cognitive Neuroscience, Arrow's Impossibility Theorem, and Coherent Extrapolated Volition](https://www.lesswrong.com/lw/7sb/cognitive_neuroscience_arrows_impossibility/) by Luke Muehlhauser
-*   [Objections to Coherent Extrapolated Volition](https://www.lesswrong.com/lw/8iy/objections_to_coherent_extrapolated_volition/) by Alexander Kruel
+- [Coherent Extrapolated Volition](http://intelligence.org/files/CEV.pdf) by Eliezer Yudkowsky (2004)
+- [Coherent Extrapolated Volition: A Meta-Level Approach to Machine Ethics](http://intelligence.org/files/CEV-MachineEthics.pdf) by Nick Tarleton (2010)
+- [A Short Introduction to Coherent Extrapolated Volition](https://web.archive.org/web/20131231151554/http://www.acceleratingfuture.com/michael/blog/2009/12/a-short-introduction-to-coherent-extrapolated-volition-cev/) by Michael Anissimov
+- [Hacking the CEV for Fun and Profit](https://www.lesswrong.com/lw/2b7/hacking_the_cev_for_fun_and_profit/) by Wei Dai
+- [Two questions about CEV that worry me](https://www.lesswrong.com/lw/3fn/two_questions_about_cev_that_worry_me/) by Vladimir Slepnev
+- [Beginning resources for CEV research](https://www.lesswrong.com/lw/5l0/beginning_resources_for_cev_research/) by Luke Muehlhauser
+- [Cognitive Neuroscience, Arrow's Impossibility Theorem, and Coherent Extrapolated Volition](https://www.lesswrong.com/lw/7sb/cognitive_neuroscience_arrows_impossibility/) by Luke Muehlhauser
+- [Objections to Coherent Extrapolated Volition](https://www.lesswrong.com/lw/8iy/objections_to_coherent_extrapolated_volition/) by Alexander Kruel
 
 ## See also
 
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-*   [[Metaethics Sequence|Metaethics sequence]]
-*   [[Complexity of Value|Complexity of value]]
-*   [[Coherent Aggregated Volition]]
-*   [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk)
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [[Metaethics Sequence|Metaethics sequence]]
+- [[Complexity of Value|Complexity of value]]
+- [[Coherent Aggregated Volition]]
+- [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk)

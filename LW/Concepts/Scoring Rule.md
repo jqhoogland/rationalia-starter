@@ -31,10 +31,10 @@ where "outcome" is 1 or 0, and "prediction" is the probability on (0, 1) that th
 
 ## References
 
-*   Bickel, E.J. (2007). "Some Comparisons among Quadratic, Spherical, and Logarithmic Scoring Rules". Decision Analysis, 4, (2), 49–65.
-*   Tilmann Gneiting; Adrian E Raftery (March 2007). "Strictly Proper Scoring Rules, Prediction, and Estimation". Journal of the American Statistical Association 102 (477): 359-378. ([PDF](http://www.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf))
-*   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
+- Bickel, E.J. (2007). "Some Comparisons among Quadratic, Spherical, and Logarithmic Scoring Rules". Decision Analysis, 4, (2), 49–65.
+- Tilmann Gneiting; Adrian E Raftery (March 2007). "Strictly Proper Scoring Rules, Prediction, and Estimation". Journal of the American Statistical Association 102 (477): 359-378. ([PDF](http://www.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf))
+- [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
 
 ## See also
 
-*   [[Technical Explanation|Technical explanation]]
+- [[Technical Explanation|Technical explanation]]

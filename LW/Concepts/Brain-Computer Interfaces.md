@@ -33,25 +33,25 @@ Other attractive future application includes the [upload of the whole content of
 
 ## External Links
 
-*   [Brain content uploading](http://intelligence.org/files/CoalescingMinds.pdf)
-*   [Tech Summary: Brain-Computer Interfaces](http://intelligence.org/brain-computer-interfaces/)
-*   [ThinkTech](http://thinktechuk.wordpress.com/) A blog dedicated to BCI developements
-*   [Commercial EEG BCI System example](http://www.emotiv.com)
-*   [Paralyzed patient controls robot arm using BCI](http://www.kurzweilai.net/people-with-paralysis-control-robotic-arms-using-brain-computer-interface) Article from KurzweilAI
-*   [Demonstration of paralyzed patient using robot arm](http://www.youtube.com/watch?v=ogBX18maUiM) from Nature Magazine YouTube
-*   [Demonstration of a blind patient with a Retinal Implant reading](http://www.youtube.com/watch?v=g0rRvBd7Dew&feature=endscreen&NR=1) from Discovery Magazine YouTube
+- [Brain content uploading](http://intelligence.org/files/CoalescingMinds.pdf)
+- [Tech Summary: Brain-Computer Interfaces](http://intelligence.org/brain-computer-interfaces/)
+- [ThinkTech](http://thinktechuk.wordpress.com/) A blog dedicated to BCI developements
+- [Commercial EEG BCI System example](http://www.emotiv.com)
+- [Paralyzed patient controls robot arm using BCI](http://www.kurzweilai.net/people-with-paralysis-control-robotic-arms-using-brain-computer-interface) Article from KurzweilAI
+- [Demonstration of paralyzed patient using robot arm](http://www.youtube.com/watch?v=ogBX18maUiM) from Nature Magazine YouTube
+- [Demonstration of a blind patient with a Retinal Implant reading](http://www.youtube.com/watch?v=g0rRvBd7Dew&feature=endscreen&NR=1) from Discovery Magazine YouTube
 
 ## Further Reading & References
 
-*   Anderson, J. (1980). Neurocomputing. Cambridge: The MIT Press
-*   Muller, D. (1995). Towards brain–computer interfacing. MIT Press, Cambridge, MA, 409–422.
-*   Niedermeyer, E., & Lopes da Silva, F. (2004). Electroencephalography: Basic Principles. Clinical Applications and Related Fields. London
-*   Vidal, J. (1977). Real-Time Detection of Brain Events in EEG. IEEE Proceedings, 65 (5), 633–641
-*   Parasuraman, R. (2003). Neuroergonomics: Research and practice. Theoretical Issues in Ergonomics Science, 4, 5–20.
+- Anderson, J. (1980). Neurocomputing. Cambridge: The MIT Press
+- Muller, D. (1995). Towards brain–computer interfacing. MIT Press, Cambridge, MA, 409–422.
+- Niedermeyer, E., & Lopes da Silva, F. (2004). Electroencephalography: Basic Principles. Clinical Applications and Related Fields. London
+- Vidal, J. (1977). Real-Time Detection of Brain Events in EEG. IEEE Proceedings, 65 (5), 633–641
+- Parasuraman, R. (2003). Neuroergonomics: Research and practice. Theoretical Issues in Ergonomics Science, 4, 5–20.
 
 ## See Also
 
-*   [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]]
-*   [[Whole Brain Emulation|Whole brain emulation]]
-*   [[Wireheading]]
-*   [[Neuralink]]
+- [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]]
+- [[Whole Brain Emulation|Whole brain emulation]]
+- [[Wireheading]]
+- [[Neuralink]]

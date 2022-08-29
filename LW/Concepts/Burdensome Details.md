@@ -15,10 +15,10 @@ The conjunction rule of probability theory states that a conjunction (A and B) i
 
 ## Blog posts
 
-*   [Burdensome Details](http://lesswrong.com/lw/jk/burdensome_details/)
+- [Burdensome Details](http://lesswrong.com/lw/jk/burdensome_details/)
 
 ## See also
 
-*   [[Conjunction Fallacy|Conjunction fallacy]]
-*   [[Representativeness Heuristic|Representativeness heuristic]]
-*   [[Occam's Razor|Occam's razor]], [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Conjunction Fallacy|Conjunction fallacy]]
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Occam's Razor|Occam's razor]], [[Epistemic Hygiene|Epistemic hygiene]]

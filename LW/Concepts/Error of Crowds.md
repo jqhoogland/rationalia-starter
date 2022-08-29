@@ -17,9 +17,9 @@ A related idea is that a popular belief is likely to be wrong because the less p
 
 ## Blog posts
 
-*   [The Error of Crowds](http://lesswrong.com/lw/hc/the_error_of_crowds/)
-*   [The Majority Is Always Wrong](http://lesswrong.com/lw/hd/the_majority_is_always_wrong/)
+- [The Error of Crowds](http://lesswrong.com/lw/hc/the_error_of_crowds/)
+- [The Majority Is Always Wrong](http://lesswrong.com/lw/hd/the_majority_is_always_wrong/)
 
 ## See also
 
-*   [[Modesty Argument|Modesty argument]]
+- [[Modesty Argument|Modesty argument]]

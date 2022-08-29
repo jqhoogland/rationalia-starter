@@ -19,15 +19,15 @@ Often, it is sufficient to see the privileged possibility as but one among many 
 
 ## Blog posts
 
-*   [Disjunctions, Antipredictions, Etc.](http://lesswrong.com/lw/wm/disjunctions_antipredictions_etc/)
-*   [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
-*   [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
-*   [Your Strength as a Rationalist](http://lesswrong.com/lw/if/your_strength_as_a_rationalist/)
+- [Disjunctions, Antipredictions, Etc.](http://lesswrong.com/lw/wm/disjunctions_antipredictions_etc/)
+- [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
+- [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
+- [Your Strength as a Rationalist](http://lesswrong.com/lw/if/your_strength_as_a_rationalist/)
 
 ## See also
 
-*   [[Privileging The Hypothesis|Privileging the hypothesis]], [[Burdensome Details|Burdensome details]]
-*   [[Fallacy of Gray|Fallacy of gray]]
-*   [[Status Quo Bias|Status quo bias]]
-*   [[Forecasting & Prediction|Prediction]], [[Possibility]]
-*   [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Privileging The Hypothesis|Privileging the hypothesis]], [[Burdensome Details|Burdensome details]]
+- [[Fallacy of Gray|Fallacy of gray]]
+- [[Status Quo Bias|Status quo bias]]
+- [[Forecasting & Prediction|Prediction]], [[Possibility]]
+- [[Absurdity Heuristic|Absurdity heuristic]]

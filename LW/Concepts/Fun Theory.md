@@ -45,13 +45,13 @@ Fun theory thus seeks to let us keep our curiosity and love of learning intact, 
 
 ## External links
 
-*   George Orwell, [Why Socialists Don't Believe in Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
-*   David Pearce, [Paradise Engineering](http://paradise-engineering.com/) and [The Hedonistic Imperative](http://www.hedweb.com/hedab.htm) ([[Abolitionism]]) provides a more nuanced alternative to wireheading.
+- George Orwell, [Why Socialists Don't Believe in Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
+- David Pearce, [Paradise Engineering](http://paradise-engineering.com/) and [The Hedonistic Imperative](http://www.hedweb.com/hedab.htm) ([[Abolitionism]]) provides a more nuanced alternative to wireheading.
 
 ## See also
 
-*   [[The Fun Theory Sequence]]
-*   [[Happiness]]
-*   [[Complexity of Value|Complexity of value]]
-*   [[Metaethics Sequence|Metaethics sequence]]
-*   [[Abolitionism]]
+- [[The Fun Theory Sequence]]
+- [[Happiness]]
+- [[Complexity of Value|Complexity of value]]
+- [[Metaethics Sequence|Metaethics sequence]]
+- [[Abolitionism]]

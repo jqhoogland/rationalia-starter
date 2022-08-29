@@ -15,6 +15,6 @@ synchedAt: '2022-08-29T11:09:34.930Z'
 
 ## External links
 
-*   [Less Wrong user page](http://lesswrong.com/user/Yvain/).
-*   [slatestarcodex.com](http://slatestarcodex.com)
-*   [Account on](https://twitter.com/slatestarcodex/) [Twitter](https://www.lesswrong.com/tag/twitter)
+- [Less Wrong user page](http://lesswrong.com/user/Yvain/).
+- [slatestarcodex.com](http://slatestarcodex.com)
+- [Account on](https://twitter.com/slatestarcodex/) [Twitter](https://www.lesswrong.com/tag/twitter)

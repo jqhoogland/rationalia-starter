@@ -23,12 +23,12 @@ When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the developm
 
 ## Further Reading & References
 
-*   Binnig, G.; Rohrer, H. (1986). "Scanning tunneling microscopy". IBM Journal of Research and Development 30: 4.
-*   "Nanoscience and nanotechnologies: opportunities and uncertainties". Royal Society and Royal Academy of Engineering. July 2004. Retrieved 13 May 2011.
-*   Allhoff, Fritz; Lin, Patrick; Moore, Daniel (2010). What is nanotechnology and why does it matter?: from science to ethics. John Wiley and Sons. pp. 3–5. ISBN 1-4051-7545-1.
-*   [There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html) by Richard Feynman
+- Binnig, G.; Rohrer, H. (1986). "Scanning tunneling microscopy". IBM Journal of Research and Development 30: 4.
+- "Nanoscience and nanotechnologies: opportunities and uncertainties". Royal Society and Royal Academy of Engineering. July 2004. Retrieved 13 May 2011.
+- Allhoff, Fritz; Lin, Patrick; Moore, Daniel (2010). What is nanotechnology and why does it matter?: from science to ethics. John Wiley and Sons. pp. 3–5. ISBN 1-4051-7545-1.
+- [There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html) by Richard Feynman
 
 ## See also
 
-*   [[Exploratory Engineering|Exploratory engineering]]
-*   [[Rational Evidence|Rational evidence]], [[Science]]
+- [[Exploratory Engineering|Exploratory engineering]]
+- [[Rational Evidence|Rational evidence]], [[Science]]

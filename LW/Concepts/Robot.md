@@ -29,114 +29,114 @@ List of debate tools
 
 Summary: Tree-based mapping of beliefs, arguments, and evidence.
 
-*   first mentioned:
-    *   [a comment by Venryx](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/dw0i)
-*   pros:
-    *   Collaborative creation, editing, and evaluation of debate/argument maps.
-    *   Open source. (under the MIT license)
-    *   Developed using modern web technologies. (react-js, mobx, firestore)
-    *   Ability to enter both formal arguments (premises and conclusion), or less structured "single-premise arguments".
-    *   Rating system for the truth/probability of claims, as well as the relevance/validity of arguments.
-    *   Tree-based structure which can extend very deep without loss of clarity or usability.
-    *   Integrated term/definition system. Terms can be defined once, then used anywhere, with hover-based definition display.
-*   cons:
-    *   Has a learning curve for casual users, as content must conform to the argument<-premise structure at each level.
-    *   Not yet made usable on mobile devices.
+- first mentioned:
+    - [a comment by Venryx](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/dw0i)
+- pros:
+    - Collaborative creation, editing, and evaluation of debate/argument maps.
+    - Open source. (under the MIT license)
+    - Developed using modern web technologies. (react-js, mobx, firestore)
+    - Ability to enter both formal arguments (premises and conclusion), or less structured "single-premise arguments".
+    - Rating system for the truth/probability of claims, as well as the relevance/validity of arguments.
+    - Tree-based structure which can extend very deep without loss of clarity or usability.
+    - Integrated term/definition system. Terms can be defined once, then used anywhere, with hover-based definition display.
+- cons:
+    - Has a learning curve for casual users, as content must conform to the argument<-premise structure at each level.
+    - Not yet made usable on mobile devices.
 
 ## [DebateArt](https://www.debateart.com/)
 
 Summary: Debating platform with rich one-on-one debates functionality and advanced discussions forum.
 
-*   pros:
-    *   Clean and convenient design.
-    *   Advanced and flexible one-on-one debating system.
-    *   Separate forum for casual discussions.
-    *   Private messaging system.
-    *   Great performance.
-    *   Friendly community.
-    *   Active and thorough moderation.
-*   cons:
-    *   Has a learning curve for casual users.
-    *   No dedicated mobile version.
+- pros:
+    - Clean and convenient design.
+    - Advanced and flexible one-on-one debating system.
+    - Separate forum for casual discussions.
+    - Private messaging system.
+    - Great performance.
+    - Friendly community.
+    - Active and thorough moderation.
+- cons:
+    - Has a learning curve for casual users.
+    - No dedicated mobile version.
 
 ## [debategraph.org](http://debategraph.org/)
 
 Summary: This... is pretty much exactly what we were looking for, isn't it? Though it doesn't do anything with probabilities.
 
-*   first mentioned:
-    *   [a comment by Peer Infinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/20v5)
-*   pros:
-    *   collaboratively edit argument maps
-*   cons:
-    *   it doesn't do anything with probabilities.
-    *   *Do not zoom out too much!*
+- first mentioned:
+    - [a comment by Peer Infinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/20v5)
+- pros:
+    - collaboratively edit argument maps
+- cons:
+    - it doesn't do anything with probabilities.
+    - *Do not zoom out too much!*
 
 ## [Argunet](http://www.argunet.org/working-with-argunet/)
 
 Summary: Argunet enables you to create argument maps of complex debates online or offline, on your own or in a team.
 
-*   first mentioned:
-    *   [the original article](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/)
-*   pros:
-    *   collaboratively edit argument maps
-*   cons:
-    *   not entirely straightforward to use, Morendil had trouble figuring out how to move boxes around.
+- first mentioned:
+    - [the original article](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/)
+- pros:
+    - collaboratively edit argument maps
+- cons:
+    - not entirely straightforward to use, Morendil had trouble figuring out how to move boxes around.
 
 ## [bCisive Online](http://bcisiveonline.com/)
 
 Summary: a simple canvas for creating a tree diagram of a debate.
 
-*   first mentioned:
-    *   [the original article](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/)
-*   pros:
-    *   easy to use
-*   cons:
-    *   all it does is let you make the tree diagram, it doesn't do anything else with the data
-*   examples:
-    *   [a map of Morendil's current thinking on cryonics](http://morendil.bcisiveonline.com/spaces/989ae551bc100d0365c96a7bcc20f188d95fb58d/)
+- first mentioned:
+    - [the original article](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/)
+- pros:
+    - easy to use
+- cons:
+    - all it does is let you make the tree diagram, it doesn't do anything else with the data
+- examples:
+    - [a map of Morendil's current thinking on cryonics](http://morendil.bcisiveonline.com/spaces/989ae551bc100d0365c96a7bcc20f188d95fb58d/)
 
 ## [Flow](http://en.wikipedia.org/wiki/Flow_%28policy_debate%29)
 
 Summary: a specialized form of note taking called "flowing" within the policy/CEDA/NDT debate community.
 
-*   first mentioned:
-    *   [a comment by JenniferRM](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1kx1)
-*   pros:
-    *   lots of people have used this technique, and it has been proven to work well
-*   cons:
-    *   it requires a very specific format for the debate
+- first mentioned:
+    - [a comment by JenniferRM](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1kx1)
+- pros:
+    - lots of people have used this technique, and it has been proven to work well
+- cons:
+    - it requires a very specific format for the debate
 
 ## [PyMC](http://code.google.com/p/pymc/)
 
 Summary: a DSL in python for (non-recursive) Bayesian models and Bayesian probability computations.
 
-*   first mentioned:
-    *   [a comment by Steve_Rayhawk](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1kx3)
-*   pros:
-    *   it does Bayesian calculations
-*   cons:
-    *   requires literacy in python and bayesian statistics
+- first mentioned:
+    - [a comment by Steve_Rayhawk](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1kx3)
+- pros:
+    - it does Bayesian calculations
+- cons:
+    - requires literacy in python and bayesian statistics
 
 [MACOSPOL](http://www.demoscience.org/)
 
-*   first mentioned:
-    *   [a comment by Morendil](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1kt6)
-*   examples:
-    *   [mapped controversies](http://medialab.sciences-po.fr/controversies/)
+- first mentioned:
+    - [a comment by Morendil](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1kt6)
+- examples:
+    - [mapped controversies](http://medialab.sciences-po.fr/controversies/)
 
 ## [Scott Aaronson's worldview manager](http://projects.csail.mit.edu/worldview/)
 
 Summary: this is designed to point out hidden contradictions (or at least tensions) between one's beliefs, by using programmed in implications to exhibit (possibly long) inferential chains that demonstrate a contradiction.
 
-*   first mentioned:
-    *   [a comment by wnoise](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1ku8)
-*   pros:
-    *   it does lots of stuff
-*   cons:
-    *   it's kinda complicated
-*   examples:
-    *   [sample worldview](http://www.gitorious.org/worldview/worldview/blobs/master/topics/axiom_of_choice.wvm)
-    *   [The model of libertarian ideas](http://www.gitorious.org/worldview/worldview/blobs/master/topics/libertarianism.wvm)
+- first mentioned:
+    - [a comment by wnoise](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1ku8)
+- pros:
+    - it does lots of stuff
+- cons:
+    - it's kinda complicated
+- examples:
+    - [sample worldview](http://www.gitorious.org/worldview/worldview/blobs/master/topics/axiom_of_choice.wvm)
+    - [The model of libertarian ideas](http://www.gitorious.org/worldview/worldview/blobs/master/topics/libertarianism.wvm)
 
 ## [Canonizer.com](http://canonizer.com/)
 
@@ -144,31 +144,31 @@ Summary: Canonizer.com is a wiki system with added camp and survey capabilities.
 
 The karma or 'canonization' system enables the readers to select any algorithm they wish on the side bar to 'find the good stuff'. For example, you can compare the [mind expert](http://canonizer.com/topic.asp/53/11) scientific consensus with the default general population consensus. Each camp has a forum to discuss and debate further improvements for camps. The general idea is to debate things in the forums, or elsewhere, and summarize everyone's final / current / state of the art view in the camp statements. A history of everything is maintained, providing a dynamic quantitative measure of how well accepted any theory is, as ever more theory falsifying (when experts abandon a falsified camp) scientific data / new arguments... come in.
 
-*   first mentioned:
-    *   [a comment by PeerInfinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/2j4l?c=1)
-*   pros:
-    *   the whole canonization thing
-*   cons:
-    *   it's kinda complicated
-*   examples:
-    *   [the main list of canonized camps](http://canonizer.com)
+- first mentioned:
+    - [a comment by PeerInfinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/2j4l?c=1)
+- pros:
+    - the whole canonization thing
+- cons:
+    - it's kinda complicated
+- examples:
+    - [the main list of canonized camps](http://canonizer.com)
 
 ## [Explore-Ideas.com](http://www.explore-ideas.com/)
 
 Summary: explore-ideas.com is a graph structure forum where users start with a topic and follow arguments they agree with, creating a personalized 'story'.
 
-*   pros: users can link any two comments and merge ideas from different discussions into a single logical argument, as well as make loops in reasoning. Each user comes to his personal 'win' ending based on arguments (s)he agrees with. There is no global 'win' or 'lose' argument.
+- pros: users can link any two comments and merge ideas from different discussions into a single logical argument, as well as make loops in reasoning. Each user comes to his personal 'win' ending based on arguments (s)he agrees with. There is no global 'win' or 'lose' argument.
 
 This forum encourages dynamic debate that goes beyond pro/con binary approach, similar to that employed in [Proofs and Refutations](http://en.wikipedia.org/wiki/Proofs_and_Refutations).
 
-*   cons: UI is rudimentary.
+- cons: UI is rudimentary.
 
 ## [Debate.fm](http://www.debate.fm/)
 
 Summary: A simple platform to start a debate on any topic. Mainly focused at general user participation.
 
-*   pros: Simple structured content - side by side. Mainly focused at pro/con binary approach
-*   cons: Till now not ready for academic use.
+- pros: Simple structured content - side by side. Mainly focused at pro/con binary approach
+- cons: Till now not ready for academic use.
 
 ## [cartargrapher](http://cartargrapher.appspot.com/)
 
@@ -181,72 +181,72 @@ Graphically represents people's agreement with a statement and which arguments w
 Ideas for new tools
 ===================
 
-*   Based on MediaWiki, PHP, GraphViz, and maybe XML
-*   Summary: a tool that we make ourselves, so that it works the way we want it to work
-*   first mentioned:
-    *   [a comment by PeerInfinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1l1w)
-*   pros:
-    *   we're writing it, so we can make it work how we want
-*   cons:
-    *   we would need to write it from scratch
-*   examples:
-    *   [a conversation about AI](http://transhumanistwiki.com/wiki/Peer_Infinity/Chat_With_Fael_About_AI)
+- Based on MediaWiki, PHP, GraphViz, and maybe XML
+- Summary: a tool that we make ourselves, so that it works the way we want it to work
+- first mentioned:
+    - [a comment by PeerInfinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/1l1w)
+- pros:
+    - we're writing it, so we can make it work how we want
+- cons:
+    - we would need to write it from scratch
+- examples:
+    - [a conversation about AI](http://transhumanistwiki.com/wiki/Peer_Infinity/Chat_With_Fael_About_AI)
 
 ## Brass Tacks
 
-*   [Structured debate](http://issuepedia.org/Issuepedia:Structured_Debate): a set of rules which debate software could help enforce. Some data design is on paper, not yet transcribed. The plan is to write this first as a MediaWiki extension. [some mockups](http://issuepedia.org/Category:Debates)
+- [Structured debate](http://issuepedia.org/Issuepedia:Structured_Debate): a set of rules which debate software could help enforce. Some data design is on paper, not yet transcribed. The plan is to write this first as a MediaWiki extension. [some mockups](http://issuepedia.org/Category:Debates)
 
 Other links
 ===========
 
-*   [http://www.visualizingargumentation.info/](http://www.visualizingargumentation.info/)
-*   [http://www.tandf.co.uk/journals/tarc](http://www.tandf.co.uk/journals/tarc)
-*   [structured debate](http://issuepedia.org/Structured_debate)
-*   [dispute resolution technology](http://issuepedia.org/Issuepedia:Dispute_Resolution_Technology)
+- [http://www.visualizingargumentation.info/](http://www.visualizingargumentation.info/)
+- [http://www.tandf.co.uk/journals/tarc](http://www.tandf.co.uk/journals/tarc)
+- [structured debate](http://issuepedia.org/Structured_debate)
+- [dispute resolution technology](http://issuepedia.org/Issuepedia:Dispute_Resolution_Technology)
 
 Features that a debate tool should have
 =======================================
 
-*   from almost everyone:
-    *   an easy to use interface
-*   from [Morendil](http://lesswrong.com/user/Morendil/):
-    *   a conclusion or a decision, which is to be "tested" by the use of the tool
-    *   various hypotheses, which are offered in support or in opposition to the conclusion, with degrees of plausibility
-    *   logical structure, such as "X follows from Y"
-    *   challenges to logical structure, such as "X may not necessarily follow from Y, if you grant Z"
-    *   elements of evidence, which make hypotheses more or less probable
-    *   recursive relations between these elements
-*   from [PhilGoetz](http://lesswrong.com/user/PhilGoetz/):
-    *   an XML-based representation of the data
-*   from [PeerInfinity](http://lesswrong.com/user/PeerInfinity/)
-    *   generates its results from an annotated log of a debate
-    *   collaboratively editable, possibly using MediaWiki
-    *   multiple outfut formats: graphs, tables, the raw data
-*   from [Johnicholas](http://lesswrong.com/user/Johnicholas/):
-    *   Compose in ordinary ASCII or UTF-8
-    *   Compose primarily a running-text argument, indicating the formal structure with annotations
-    *   Export as a prettified document, still mostly running text (html and LaTeX)
-    *   Export as a diagram (automatically layed out, perhaps by graphviz)
-    *   Export as a bayes net (in possibly several bayes net formats)
-    *   Export as a machine-checkable proof (in possibly several formats)
-*   from [[Eliezer Yudkowsky]]:
-    *   prevents online arguments from retracing the same points over and over.
-    *   not just graphical with boxes, because that makes poor use of screen real estate.
-    *   not have lots of fancy argument types and patterns, because no one really uses that stuff
-    *   a karma system, because otherwise there's no way to find the good stuff.
+- from almost everyone:
+    - an easy to use interface
+- from [Morendil](http://lesswrong.com/user/Morendil/):
+    - a conclusion or a decision, which is to be "tested" by the use of the tool
+    - various hypotheses, which are offered in support or in opposition to the conclusion, with degrees of plausibility
+    - logical structure, such as "X follows from Y"
+    - challenges to logical structure, such as "X may not necessarily follow from Y, if you grant Z"
+    - elements of evidence, which make hypotheses more or less probable
+    - recursive relations between these elements
+- from [PhilGoetz](http://lesswrong.com/user/PhilGoetz/):
+    - an XML-based representation of the data
+- from [PeerInfinity](http://lesswrong.com/user/PeerInfinity/)
+    - generates its results from an annotated log of a debate
+    - collaboratively editable, possibly using MediaWiki
+    - multiple outfut formats: graphs, tables, the raw data
+- from [Johnicholas](http://lesswrong.com/user/Johnicholas/):
+    - Compose in ordinary ASCII or UTF-8
+    - Compose primarily a running-text argument, indicating the formal structure with annotations
+    - Export as a prettified document, still mostly running text (html and LaTeX)
+    - Export as a diagram (automatically layed out, perhaps by graphviz)
+    - Export as a bayes net (in possibly several bayes net formats)
+    - Export as a machine-checkable proof (in possibly several formats)
+- from [[Eliezer Yudkowsky]]:
+    - prevents online arguments from retracing the same points over and over.
+    - not just graphical with boxes, because that makes poor use of screen real estate.
+    - not have lots of fancy argument types and patterns, because no one really uses that stuff
+    - a karma system, because otherwise there's no way to find the good stuff.
 
 (So, now that everything's all neatly arranged in a list, the next step is to decide whether we want to start using any of these tools, or if we want to create our own.)
 
 LWers interested in developing debate tools
 ===========================================
 
-*   [Curtis SerVaas](http://lesswrong.com/lw/le5/welcome_to_less_wrong_7th_thread_december_2014/c64f)
-*   [.impact has discussed making argument mapping software](http://lesswrong.com/lw/jfn/introducing_impact/)
-*   The "Collaborative Argumentation Analysis" Facebook Group has a lot of links/discussion/people.
+- [Curtis SerVaas](http://lesswrong.com/lw/le5/welcome_to_less_wrong_7th_thread_december_2014/c64f)
+- [.impact has discussed making argument mapping software](http://lesswrong.com/lw/jfn/introducing_impact/)
+- The "Collaborative Argumentation Analysis" Facebook Group has a lot of links/discussion/people.
 
 See also
 ========
 
-*   [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools)
-*   [[Prediction Markets|Prediction market]]
-*   [[Predictionbook|PredictionBook]]
+- [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools)
+- [[Prediction Markets|Prediction market]]
+- [[Predictionbook|PredictionBook]]

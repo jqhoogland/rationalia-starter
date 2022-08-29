@@ -25,9 +25,9 @@ Naturalized induction is a particular angle of approach on larger Friendly AI su
 
 ## Blog posts
 
-*   [Building Phenomenological Bridges‎](http://lesswrong.com/lw/jd9/building_phenomenological_bridges/) by Rob Bensinger
-*   [Bridge Collapse: Reductionism as Engineering Problem](http://lesswrong.com/lw/jlg/bridge_collapse_reductionism_as_engineering/) by Rob Bensinger
-*   [Can We Do Without Bridge Hypotheses?](http://lesswrong.com/lw/jiu/can_we_do_without_bridge_hypotheses/) by Rob Bensinger
-*   [Solomonoff Cartesianism](http://lesswrong.com/lw/jg1/solomonoff_cartesianism/) by Rob Bensinger
-*   [The Problem with AIXI](http://lesswrong.com/lw/jti/the_problem_with_aixi/) by Rob Bensinger
-*   [Formalizing Two Problems of Realistic World-Models](https://intelligence.org/files/RealisticWorldModels.pdf) by Nate Soares
+- [Building Phenomenological Bridges‎](http://lesswrong.com/lw/jd9/building_phenomenological_bridges/) by Rob Bensinger
+- [Bridge Collapse: Reductionism as Engineering Problem](http://lesswrong.com/lw/jlg/bridge_collapse_reductionism_as_engineering/) by Rob Bensinger
+- [Can We Do Without Bridge Hypotheses?](http://lesswrong.com/lw/jiu/can_we_do_without_bridge_hypotheses/) by Rob Bensinger
+- [Solomonoff Cartesianism](http://lesswrong.com/lw/jg1/solomonoff_cartesianism/) by Rob Bensinger
+- [The Problem with AIXI](http://lesswrong.com/lw/jti/the_problem_with_aixi/) by Rob Bensinger
+- [Formalizing Two Problems of Realistic World-Models](https://intelligence.org/files/RealisticWorldModels.pdf) by Nate Soares

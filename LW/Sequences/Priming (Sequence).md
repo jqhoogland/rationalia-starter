@@ -16,8 +16,8 @@ synchedAt: '2022-08-29T17:16:37.132Z'
 
 Background:
 
-*   [Anchoring and Adjustment](http://lesswrong.com/lw/j7/anchoring_and_adjustment/)
-*   [Priming and Contamination](http://lesswrong.com/lw/k3/priming_and_contamination/)
+- [Anchoring and Adjustment](http://lesswrong.com/lw/j7/anchoring_and_adjustment/)
+- [Priming and Contamination](http://lesswrong.com/lw/k3/priming_and_contamination/)
 
 Sequence by [Scott Alexander](https://www.lesswrong.com/users/yvain), imported from the [wiki](https://wiki.lesswrong.com/wiki/Priming_and_Implicit_Association_(sequence)).
 

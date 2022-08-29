@@ -269,7 +269,7 @@ synchedAt: '2022-08-29T11:10:11.748Z'
 
 ## See Also
 
-*   [Tumblr Masterlist](https://rationalist-masterlist.tumblr.com/post/130139930539/rationalist-masterlist)
-*   [Map of the rationalist community on Slate Star Codex](http://slatestarcodex.com/2014/09/05/mapmaker-mapmaker-make-me-a-map/)
-*   [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
-*   [[List of Podcasts]]
+- [Tumblr Masterlist](https://rationalist-masterlist.tumblr.com/post/130139930539/rationalist-masterlist)
+- [Map of the rationalist community on Slate Star Codex](http://slatestarcodex.com/2014/09/05/mapmaker-mapmaker-make-me-a-map/)
+- [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
+- [[List of Podcasts]]

@@ -57,9 +57,9 @@ And:[^9^](#fn9)
 
 A crowdsourced list of traits of community:[^10^](#fn10)
 
-*   Seeing the [[Prisoner's Dilemma|Prisoner's dilemma]] and other [[Game Theory|game theory]] applications everywhere
-*   Being perpetually vigilant of personal [[Bias|biases]]
-*   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality) through constantly aligning one's beliefs as closely as possible with the actual state of the world
+- Seeing the [[Prisoner's Dilemma|Prisoner's dilemma]] and other [[Game Theory|game theory]] applications everywhere
+- Being perpetually vigilant of personal [[Bias|biases]]
+- [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality) through constantly aligning one's beliefs as closely as possible with the actual state of the world
 
 ## Individualistic vs Organizational
 
@@ -73,9 +73,9 @@ The Rationalsphere
 
 Contains key modes of thinking for the individual including:
 
-*   Truthseeking - biases, empiricism etc
-*   Impact - making the world a better place ( e.g. effective altruism, AI safety )
-*   Human - becoming a better person
+- Truthseeking - biases, empiricism etc
+- Impact - making the world a better place ( e.g. effective altruism, AI safety )
+- Human - becoming a better person
 
 On the other hand:
 
@@ -89,11 +89,11 @@ Adjacent ideas include:[^12^](#fn12)
 
 > There are people who agree on few to no rationalist positions but still like going to our parties and reading our blog posts. I coined the term “**rationalist-adjacent**” for this group before I got the idea that the names of all subdivisions of the rationalist community should begin with the letter C...A lot of Less Wrong references a lot of nerd culture, such as catgirls, anime, fanfiction, [[Methods of Rationality (Fanfiction)|Harry Potter]], My Little Pony, etc
 
-*   [[Effective Altruism|Effective altruism]]
-*   [Neoreaction movement](http://rationalwiki.org/wiki/Neoreactionary_movement),[^13^](#fn13) \- A notoriously adjacent idea whist being explicitly refuted by figures such as Eliezer[^14^](#fn14)[^15^](#fn15) and Scott,[^16^](#fn16) is often actively related by [[Criticisms of The Rationalist Movement|critics]].[^17^](#fn17)[^18^](#fn18)[^19^](#fn19)
-*   [Polyamory](https://en.wikipedia.org/wiki/Polyamory)[^20^](#fn20)[^21^](#fn21)[^22^](#fn22)
-*   The [Facebook](https://wiki.lesswrong.com/wiki/Facebook) [group](https://www.facebook.com/groups/144017955332/) formally known as 'LessWrong' now 'Brain Debugging Discussion'
-*   Wider [[Fiction|rationalist fiction]]
+- [[Effective Altruism|Effective altruism]]
+- [Neoreaction movement](http://rationalwiki.org/wiki/Neoreactionary_movement),[^13^](#fn13) \- A notoriously adjacent idea whist being explicitly refuted by figures such as Eliezer[^14^](#fn14)[^15^](#fn15) and Scott,[^16^](#fn16) is often actively related by [[Criticisms of The Rationalist Movement|critics]].[^17^](#fn17)[^18^](#fn18)[^19^](#fn19)
+- [Polyamory](https://en.wikipedia.org/wiki/Polyamory)[^20^](#fn20)[^21^](#fn21)[^22^](#fn22)
+- The [Facebook](https://wiki.lesswrong.com/wiki/Facebook) [group](https://www.facebook.com/groups/144017955332/) formally known as 'LessWrong' now 'Brain Debugging Discussion'
+- Wider [[Fiction|rationalist fiction]]
 
 ## Skepticism of term
 
@@ -105,16 +105,16 @@ The culture is often defined by its saying such as those featured in [rationalis
 
 ## Related organizations
 
-*   [Center for Applied Rationality](https://wiki.lesswrong.com/wiki/Center_for_Applied_Rationality)
-*   [MIRI](https://wiki.lesswrong.com/wiki/MIRI)
+- [Center for Applied Rationality](https://wiki.lesswrong.com/wiki/Center_for_Applied_Rationality)
+- [MIRI](https://wiki.lesswrong.com/wiki/MIRI)
 
 ## See also
 
-*   [[Criticisms of The Rationalist Movement|Criticisms of the rationalist movement]]
-*   [Diaspora](https://wiki.lesswrong.com/wiki/Diaspora)
-*   [[History of Less Wrong]]
-*   [Reddit](https://www.lesswrong.com/tag/reddit)
-*   [Twitter](https://www.lesswrong.com/tag/twitter)
+- [[Criticisms of The Rationalist Movement|Criticisms of the rationalist movement]]
+- [Diaspora](https://wiki.lesswrong.com/wiki/Diaspora)
+- [[History of Less Wrong]]
+- [Reddit](https://www.lesswrong.com/tag/reddit)
+- [Twitter](https://www.lesswrong.com/tag/twitter)
 
 ## References 
 

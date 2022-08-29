@@ -17,9 +17,9 @@ Empathic inference is often wrongly used to predict the behavior of non-human ag
 
 ## Blog Posts
 
-*   [The Comedy of Behaviorism](http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/) How Behaviorism tried to ban empathic inferences from science.
+- [The Comedy of Behaviorism](http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/) How Behaviorism tried to ban empathic inferences from science.
 
 ## See Also
 
-*   [[Anthropomorphism]]
-*   [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind)
+- [[Anthropomorphism]]
+- [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind)

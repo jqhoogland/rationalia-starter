@@ -25,10 +25,10 @@ But if that machinery isn't there - if you're writing "apple" as five ASCII lett
 
 ## Main post
 
-*   [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/)
+- [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/)
 
 ## See also
 
-*   [[Fake Simplicity|Fake simplicity]]
-*   [[Semantic Stopsign|Semantic stopsign]], [[Cached Thoughts|Cached thought]]
-*   [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password)
+- [[Fake Simplicity|Fake simplicity]]
+- [[Semantic Stopsign|Semantic stopsign]], [[Cached Thoughts|Cached thought]]
+- [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password)

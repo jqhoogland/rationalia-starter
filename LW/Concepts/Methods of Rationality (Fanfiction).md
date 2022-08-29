@@ -27,18 +27,18 @@ Discussion threads
 
 Other
 
-*   [FF.net review statistics](http://lesswrong.com/lw/fag/analyzing_ffnet_reviews_of_harry_potter_and_the/)
+- [FF.net review statistics](http://lesswrong.com/lw/fag/analyzing_ffnet_reviews_of_harry_potter_and_the/)
 
 ## External links
 
-*   [FanFiction.Net](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (primary source)
-*   [hpmor.com mirror](http://hpmor.com/) (up-to-date)
-*   [MOBI version](http://ikeran.org/rationality.mobi) (up-to-date)
-*   [ePub version](http://ikeran.org/rationality.epub) (up-to-date)
-*   [ePub version](http://rx-core.org/lesswrong/MoR.epub) (chapters 1-58)
-*   [Author's notes](http://www.evernote.com/pub/adelenedawner/Eliezer)
-*   [HPMOR Subreddit](http://reddit.com/r/hpmor)
-*   [Wiki on the HPMOR universe](https://hpmor.fandom.com/) on Wikia
-*   [YouTube adaptation](https://www.youtube.com/watch?v=PpejSWY0Wa0&list=PLC64C47A407D58AAC)
+- [FanFiction.Net](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (primary source)
+- [hpmor.com mirror](http://hpmor.com/) (up-to-date)
+- [MOBI version](http://ikeran.org/rationality.mobi) (up-to-date)
+- [ePub version](http://ikeran.org/rationality.epub) (up-to-date)
+- [ePub version](http://rx-core.org/lesswrong/MoR.epub) (chapters 1-58)
+- [Author's notes](http://www.evernote.com/pub/adelenedawner/Eliezer)
+- [HPMOR Subreddit](http://reddit.com/r/hpmor)
+- [Wiki on the HPMOR universe](https://hpmor.fandom.com/) on Wikia
+- [YouTube adaptation](https://www.youtube.com/watch?v=PpejSWY0Wa0&list=PLC64C47A407D58AAC)
 
 [Category:Rationalist-adjacent](https://wiki.lesswrong.com/wiki/Category:Rationalist-adjacent)

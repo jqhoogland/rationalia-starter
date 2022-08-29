@@ -16,10 +16,10 @@ The **many-worlds interpretation** (MWI) [[Occam's Razor|cuts away]] the latter 
 
 ## See also
 
-*   [[Quantum Mechanics|Quantum mechanics]]
-*   [[Decoherence]]
+- [[Quantum Mechanics|Quantum mechanics]]
+- [[Decoherence]]
 
 ## External links
 
-*   [Decoherence and Ontology](http://users.ox.ac.uk/~mert0130/papers/proc_dec.pdf) (David Wallace)
-*   [The Everett FAQ](http://www.hedweb.com/manworld.htm) (Michael Clive Price)
+- [Decoherence and Ontology](http://users.ox.ac.uk/~mert0130/papers/proc_dec.pdf) (David Wallace)
+- [The Everett FAQ](http://www.hedweb.com/manworld.htm) (Michael Clive Price)

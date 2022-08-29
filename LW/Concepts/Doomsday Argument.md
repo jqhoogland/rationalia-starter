@@ -19,10 +19,10 @@ The doomsday argument relies on the [[Self-Sampling Assumption|self-sampling ass
 
 ## External links
 
-*   [Was the Universe made for us?](http://www.anthropic-principle.com/?q=anthropic_principle/doomsday_argument) by Nick Bostrom
+- [Was the Universe made for us?](http://www.anthropic-principle.com/?q=anthropic_principle/doomsday_argument) by Nick Bostrom
 
 ## See also
 
-*   [[Observation Selection Effect|Observation selection effect]]
-*   [[Great Filter]]
-*   [How Many People Have Ever Lived on Earth?](https://www.prb.org/howmanypeoplehaveeverlivedonearth/)
+- [[Observation Selection Effect|Observation selection effect]]
+- [[Great Filter]]
+- [How Many People Have Ever Lived on Earth?](https://www.prb.org/howmanypeoplehaveeverlivedonearth/)

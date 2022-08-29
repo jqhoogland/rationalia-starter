@@ -29,10 +29,10 @@ FHI's [existential-risk.org FAQ](https://www.existential-risk.org/faq.html) note
 
 Bostrom[^2^](https://lessestwrong.com/tag/existential-risk?revision=0.0.39#fn2) proposes a series of classifications for existential risks:
 
-*   **Bangs** \- Earthly intelligent life is extinguished relatively suddenly by any cause; the prototypical end of humanity. Examples of bangs include deliberate or accidental misuse of nanotechnology, nuclear holocaust, [the end of our simulation](https://lessestwrong.com/tag/simulation-argument), or an [unfriendly AI](https://wiki.lesswrong.com/wiki/unfriendly_AI).
-*   **Crunches** \- The potential humanity had to enhance itself indefinitely is forever eliminated, although humanity continues. Possible crunches include an exhaustion of resources, social or governmental pressure ending technological development, and even future technological development proving an unsurpassable challenge before the creation of a [superintelligence](https://lessestwrong.com/tag/superintelligence).
-*   **Shrieks** \- Humanity enhances itself, but explores only a narrow portion of its desirable possibilities. As the [criteria for desirability haven't been defined yet](https://lessestwrong.com/tag/complexity-of-value), this category is mainly undefined. However, a flawed [friendly AI](https://wiki.lesswrong.com/wiki/friendly_AI) incorrectly interpreting our values, a superhuman [upload](https://wiki.lesswrong.com/wiki/WBE) deciding its own values and imposing them on the rest of humanity, and an intolerant government outlawing social progress would certainly qualify.
-*   **Whimpers** \- Though humanity is enduring, only a fraction of our potential is ever achieved. Spread across the galaxy and expanding at near light-speed, we might find ourselves doomed by ours or another being's catastrophic physics experimentation, destroying reality at light-speed. A prolonged galactic war leading to our extinction or severe limitation would also be a whimper. More darkly, humanity might develop until its [values](https://lessestwrong.com/tag/complexity-of-value) were disjoint with ours today, making their civilization worthless by present values.
+- **Bangs** \- Earthly intelligent life is extinguished relatively suddenly by any cause; the prototypical end of humanity. Examples of bangs include deliberate or accidental misuse of nanotechnology, nuclear holocaust, [the end of our simulation](https://lessestwrong.com/tag/simulation-argument), or an [unfriendly AI](https://wiki.lesswrong.com/wiki/unfriendly_AI).
+- **Crunches** \- The potential humanity had to enhance itself indefinitely is forever eliminated, although humanity continues. Possible crunches include an exhaustion of resources, social or governmental pressure ending technological development, and even future technological development proving an unsurpassable challenge before the creation of a [superintelligence](https://lessestwrong.com/tag/superintelligence).
+- **Shrieks** \- Humanity enhances itself, but explores only a narrow portion of its desirable possibilities. As the [criteria for desirability haven't been defined yet](https://lessestwrong.com/tag/complexity-of-value), this category is mainly undefined. However, a flawed [friendly AI](https://wiki.lesswrong.com/wiki/friendly_AI) incorrectly interpreting our values, a superhuman [upload](https://wiki.lesswrong.com/wiki/WBE) deciding its own values and imposing them on the rest of humanity, and an intolerant government outlawing social progress would certainly qualify.
+- **Whimpers** \- Though humanity is enduring, only a fraction of our potential is ever achieved. Spread across the galaxy and expanding at near light-speed, we might find ourselves doomed by ours or another being's catastrophic physics experimentation, destroying reality at light-speed. A prolonged galactic war leading to our extinction or severe limitation would also be a whimper. More darkly, humanity might develop until its [values](https://lessestwrong.com/tag/complexity-of-value) were disjoint with ours today, making their civilization worthless by present values.
 
 The total negative results of an existential risk could amount to the total of potential future lives not being realized. A rough and conservative calculation[^3^](https://lessestwrong.com/tag/existential-risk?revision=0.0.39#fn3) gives us a total of 10^54 potential future humans lives – smarter, happier and kinder then we are. Hence, almost no other task would amount to so much positive impact than existential risk reduction.
 
@@ -51,16 +51,16 @@ The concept is expanded upon in his 2012 paper [Existential Risk Prevention as G
 
 ## Organizations
 
-*   [Machine Intelligence Research Institute](http://intelligence.org/)
-*   [The Future of Humanity Institute](http://www.fhi.ox.ac.uk/)
-*   [The Oxford Martin Programme on the Impacts of Future Technology](http://www.futuretech.ox.ac.uk/)
-*   [Global Catastrophic Risk Institute](http://www.gcrinstitute.org/)
-*   [Saving Humanity from Homo Sapiens](http://shfhs.org/)
-*   [Skoll Global Threats Fund (To Safeguard Humanity from Global Threats)](http://www.skollglobalthreats.org/)
-*   [Foresight Institute](http://www.foresight.org/)
-*   [Defusing the Nuclear Threat](http://nuclearrisk.org/)
-*   [Leverage Research](http://www.leverageresearch.org/)
-*   [The Lifeboat Foundation](http://lifeboat.com/)  
+- [Machine Intelligence Research Institute](http://intelligence.org/)
+- [The Future of Humanity Institute](http://www.fhi.ox.ac.uk/)
+- [The Oxford Martin Programme on the Impacts of Future Technology](http://www.futuretech.ox.ac.uk/)
+- [Global Catastrophic Risk Institute](http://www.gcrinstitute.org/)
+- [Saving Humanity from Homo Sapiens](http://shfhs.org/)
+- [Skoll Global Threats Fund (To Safeguard Humanity from Global Threats)](http://www.skollglobalthreats.org/)
+- [Foresight Institute](http://www.foresight.org/)
+- [Defusing the Nuclear Threat](http://nuclearrisk.org/)
+- [Leverage Research](http://www.leverageresearch.org/)
+- [The Lifeboat Foundation](http://lifeboat.com/)  
      
 
 ## References

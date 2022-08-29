@@ -33,23 +33,23 @@ The study of [past mass extinctions](http://en.wikipedia.org/wiki/Extinction_eve
 
 ## Blog posts
 
-*   [Very Bad News](http://www.overcomingbias.com/2010/03/very-bad-news.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
-*   [An empirical test of anthropic principle / great filter reasoning](https://lessestwrong.com/lw/1z8/an_empirical_test_of_anthropic_principle_great/) by James Miller
-*   [SIA won't doom you](https://lessestwrong.com/lw/1zj/sia_wont_doom_you/) by Stuart Armstrong
-*   [Late Great Filter is not bad news](https://lessestwrong.com/lw/214/late_great_filter_is_not_bad_news/) by Wei Dai
-*   [Planets in the habitable zone, the Drake Equation, and the Great Filter](https://lessestwrong.com/lw/7w8/planets_in_the_habitable_zone_the_drake_equation/) by JoshuaZ
-*   [Beware Future Filters](http://www.overcomingbias.com/2010/11/beware-future-filters.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [Very Bad News](http://www.overcomingbias.com/2010/03/very-bad-news.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
+- [An empirical test of anthropic principle / great filter reasoning](https://lessestwrong.com/lw/1z8/an_empirical_test_of_anthropic_principle_great/) by James Miller
+- [SIA won't doom you](https://lessestwrong.com/lw/1zj/sia_wont_doom_you/) by Stuart Armstrong
+- [Late Great Filter is not bad news](https://lessestwrong.com/lw/214/late_great_filter_is_not_bad_news/) by Wei Dai
+- [Planets in the habitable zone, the Drake Equation, and the Great Filter](https://lessestwrong.com/lw/7w8/planets_in_the_habitable_zone_the_drake_equation/) by JoshuaZ
+- [Beware Future Filters](http://www.overcomingbias.com/2010/11/beware-future-filters.html) by [Robin Hanson](https://lessestwrong.com/tag/robin-hanson)
 
 ## External links
 
-*   Robin Hanson’s Great Filter original paper: [The Great Filter - Are We Almost Past It?](http://hanson.gmu.edu/greatfilter.html)
-*   A simulation of the hard steps distribution: [Must Early Life Be Easy? The Rhythm of Major Evolutionary Transitions](http://hanson.gmu.edu/hardstep.pdf) by Robin Hanson
-*   Strong candidates for present Great Filters: [Introduction of the book “Global Catastrophic Risks”, summarizing it](http://www.global-catastrophic-risks.com/docs/Chap01.pdf) by Nick Bostrom
-*   [SIA Doomsday: The filter is ahead](http://meteuphoric.wordpress.com/2010/03/23/sia-doomsday-the-filter-is-ahead/) by Katja Grace
-*   An audio with Bostrom talking about how finding traces of life on mars is terrible bad news: [Nick Bostrom on life on Mars](http://www.youtube.com/watch?v=_W8zu7lFmhY)
+- Robin Hanson’s Great Filter original paper: [The Great Filter - Are We Almost Past It?](http://hanson.gmu.edu/greatfilter.html)
+- A simulation of the hard steps distribution: [Must Early Life Be Easy? The Rhythm of Major Evolutionary Transitions](http://hanson.gmu.edu/hardstep.pdf) by Robin Hanson
+- Strong candidates for present Great Filters: [Introduction of the book “Global Catastrophic Risks”, summarizing it](http://www.global-catastrophic-risks.com/docs/Chap01.pdf) by Nick Bostrom
+- [SIA Doomsday: The filter is ahead](http://meteuphoric.wordpress.com/2010/03/23/sia-doomsday-the-filter-is-ahead/) by Katja Grace
+- An audio with Bostrom talking about how finding traces of life on mars is terrible bad news: [Nick Bostrom on life on Mars](http://www.youtube.com/watch?v=_W8zu7lFmhY)
 
 ## See also
 
-*   [Existential risk](https://lessestwrong.com/tag/existential-risk)
-*   [Doomsday argument](https://lessestwrong.com/tag/doomsday-argument)
-*   [Self Indication Assumption](https://lessestwrong.com/tag/self-indication-assumption)
+- [Existential risk](https://lessestwrong.com/tag/existential-risk)
+- [Doomsday argument](https://lessestwrong.com/tag/doomsday-argument)
+- [Self Indication Assumption](https://lessestwrong.com/tag/self-indication-assumption)

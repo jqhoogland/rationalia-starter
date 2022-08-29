@@ -17,5 +17,5 @@ Robin Hanson was one of the two primary authors on [[Overcoming Bias]].  After 
 
 ## Links
 
-*   Robin Hanson's bio [on his personal site](http://hanson.gmu.edu/bio.html), [on Overcoming Bias](http://www.overcomingbias.com/bio)
-*   [A list of all of Hanson's posts to Overcoming Bias with dependency graphs](http://web.archive.org/web/20161020114937/https://www.cs.auckland.ac.nz/~andwhay/hpostlist.html)
+- Robin Hanson's bio [on his personal site](http://hanson.gmu.edu/bio.html), [on Overcoming Bias](http://www.overcomingbias.com/bio)
+- [A list of all of Hanson's posts to Overcoming Bias with dependency graphs](http://web.archive.org/web/20161020114937/https://www.cs.auckland.ac.nz/~andwhay/hpostlist.html)

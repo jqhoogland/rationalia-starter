@@ -17,11 +17,11 @@ Mainstream philosophy has a parallel procedure called "unpacking". Unpacking has
 
 ## Main Posts
 
-*   [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/)
-*   [Replace the Symbol with the Substance](http://lesswrong.com/lw/nv/replace_the_symbol_with_the_substance/)
+- [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/)
+- [Replace the Symbol with the Substance](http://lesswrong.com/lw/nv/replace_the_symbol_with_the_substance/)
 
 ## Other Posts
 
-*   [Disputing Definitions](http://lesswrong.com/lw/np/disputing_definitions/) \- An example of how the technique helps.
-*   [Words as Hidden Inferences](http://lesswrong.com/lw/ng/words_as_hidden_inferences/) \- The mere presence of words can influence thinking, sometimes misleading it.
-*   [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/) \- There is a lot of machinery hidden beneath the words, and rationalist's taboo is one way to make a step towards exposing it.
+- [Disputing Definitions](http://lesswrong.com/lw/np/disputing_definitions/) \- An example of how the technique helps.
+- [Words as Hidden Inferences](http://lesswrong.com/lw/ng/words_as_hidden_inferences/) \- The mere presence of words can influence thinking, sometimes misleading it.
+- [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/) \- There is a lot of machinery hidden beneath the words, and rationalist's taboo is one way to make a step towards exposing it.

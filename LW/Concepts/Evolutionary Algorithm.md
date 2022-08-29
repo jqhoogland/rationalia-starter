@@ -29,14 +29,14 @@ It seems possible that with enough computer power we would be able to produce a 
 
 ## Further Reading & References
 
-*   [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) by Adam Marczyk
-*   [Evolutionary Algorithms 1: Introduction](http://www.geatbx.com/docu/algindex.html) by Hartmut Pohlheim
-*   [Evolutionary Computation Repository](http://dis.ijs.si/filipic/ec/)
-*   Bäck, T., Fogel, D., Michalewicz, Z. (1997), Handbook of Evolutionary Computation, Oxford Univ. Press.
-*   Yang X.-S., (2010), "Nature-Inspired Metaheuristic Algorithms", 2nd Edition, Luniver Press
+- [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) by Adam Marczyk
+- [Evolutionary Algorithms 1: Introduction](http://www.geatbx.com/docu/algindex.html) by Hartmut Pohlheim
+- [Evolutionary Computation Repository](http://dis.ijs.si/filipic/ec/)
+- Bäck, T., Fogel, D., Michalewicz, Z. (1997), Handbook of Evolutionary Computation, Oxford Univ. Press.
+- Yang X.-S., (2010), "Nature-Inspired Metaheuristic Algorithms", 2nd Edition, Luniver Press
 
 ## See Also
 
-*   [[Evolution]]
-*   [[Evolutionary Psychology|Evolutionary psychology]]
-*   [[Optimization|Optimization process]]
+- [[Evolution]]
+- [[Evolutionary Psychology|Evolutionary psychology]]
+- [[Optimization|Optimization process]]

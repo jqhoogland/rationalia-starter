@@ -15,4 +15,4 @@ An **aspiring rationalist** is one who seeks to follow the Way of Bayes, to beli
 
 ## See also
 
-*   [[Rationality]]
+- [[Rationality]]

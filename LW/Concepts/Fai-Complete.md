@@ -15,9 +15,9 @@ A problem is **Friendly AI-complete** if solving it is equivalent to creating [F
 
 The [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] argues that any safe superintelligence architecture is FAI-complete. For example, the following have been proposed as hypothetical safe AGI designs:
 
-*   [[Oracle AI]] \- an AGI which takes no action besides answering questions.
-*   [[Tool AI]] \- an AGI which isn't an independent decision-maker at all, but is rather "just a calculator".
-*   [[Nanny AI]] \- an AGI of limited superintelligence, restricted to preventing more advanced AGIs from arising until safer AGIs are developed.
+- [[Oracle AI]] \- an AGI which takes no action besides answering questions.
+- [[Tool AI]] \- an AGI which isn't an independent decision-maker at all, but is rather "just a calculator".
+- [[Nanny AI]] \- an AGI of limited superintelligence, restricted to preventing more advanced AGIs from arising until safer AGIs are developed.
 
 In ["Dreams of Friendliness"](http://lesswrong.com/lw/tj/dreams_of_friendliness/) Eliezer Yudkowsky argues that if you have an Oracle AI, then you can ask it, "What should I do?" If it can answer this question correctly, then it is FAI-complete.
 
@@ -27,16 +27,16 @@ Goertzel proposed a "Nanny AI"([Should humanity build a global AI nanny to delay
 
 ## Blog posts
 
-*   [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
-*   [Reply to Holden on 'Tool AI'](http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/)
-*   [A Taxonomy of Oracle AIs](http://lesswrong.com/lw/any/a_taxonomy_of_oracle_ais/)
+- [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
+- [Reply to Holden on 'Tool AI'](http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/)
+- [A Taxonomy of Oracle AIs](http://lesswrong.com/lw/any/a_taxonomy_of_oracle_ais/)
 
 ## References
 
-*   [Should humanity build a global AI nanny to delay the singularity until it’s better understood?](http://commonsenseatheism.com/wp-content/uploads/2012/03/Goertzel-Should-Humanity-Build-a-Global-AI-Nanny-to-Delay-the-Singularity-Until-its-Better-Understood.pdf) by Ben Goertzel
-*   [Intelligence Explosion: Evidence and Import](http://intelligence.org/files/IE-EI.pdf) by Luke Muehlhauser and Anna Salamon
+- [Should humanity build a global AI nanny to delay the singularity until it’s better understood?](http://commonsenseatheism.com/wp-content/uploads/2012/03/Goertzel-Should-Humanity-Build-a-Global-AI-Nanny-to-Delay-the-Singularity-Until-its-Better-Understood.pdf) by Ben Goertzel
+- [Intelligence Explosion: Evidence and Import](http://intelligence.org/files/IE-EI.pdf) by Luke Muehlhauser and Anna Salamon
 
 ## See also
 
-*   [FAI](https://wiki.lesswrong.com/wiki/FAI)
-*   [[AI-Complete|AI-complete]]
+- [FAI](https://wiki.lesswrong.com/wiki/FAI)
+- [[AI-Complete|AI-complete]]

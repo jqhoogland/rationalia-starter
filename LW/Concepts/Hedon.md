@@ -19,10 +19,10 @@ For example, we might say that eating an ice cream cone yields 3 hedons to a nor
 
 ## Blog Posts
 
-*   [Not for the Sake of Happiness (Alone)](http://lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/)
+- [Not for the Sake of Happiness (Alone)](http://lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/)
 
 ## See also
 
-*   [[Utilitarianism]], [[Hedonism]]
-*   [[Fuzzies]], [Utils](https://wiki.lesswrong.com/wiki/Utils)
-*   [[Complexity of Value|Complexity of value]]
+- [[Utilitarianism]], [[Hedonism]]
+- [[Fuzzies]], [Utils](https://wiki.lesswrong.com/wiki/Utils)
+- [[Complexity of Value|Complexity of value]]

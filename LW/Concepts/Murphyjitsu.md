@@ -26,4 +26,4 @@ synchedAt: '2022-08-29T10:59:50.513Z'
 See also
 ========
 
-*   [[Inner Simulator / Suprise-o-meter|Inner Simulator / Surprise-o-meter]]
+- [[Inner Simulator / Suprise-o-meter|Inner Simulator / Surprise-o-meter]]

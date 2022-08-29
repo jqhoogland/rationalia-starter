@@ -49,16 +49,16 @@ Many AI researchers criticize the Cyc project for its lack of theoretical founda
 
 ## See also
 
-*   [[Eurisko|EURISKO]]
+- [[Eurisko|EURISKO]]
 
 ## External links
 
-*   [http://www.cyc.com/](http://www.cyc.com/)
-*   [http://www.opencyc.org/](http://www.opencyc.org/)
-*   [I Heart CYC](http://www.overcomingbias.com/2008/12/i-heart-cyc.html) from Overcoming Bias
+- [http://www.cyc.com/](http://www.cyc.com/)
+- [http://www.opencyc.org/](http://www.opencyc.org/)
+- [I Heart CYC](http://www.overcomingbias.com/2008/12/i-heart-cyc.html) from Overcoming Bias
 
 ## References
 
-*   Lenat, Douglas; Guha, R. V. (1990). *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*. Addison-Wesley. ISBN 0-201-51752-3.
-*   Lenat, Douglas; Miller, George; Yokoi, Toshio (November 1995). "[CYC, WordNet, and EDR: Critiques and Responses](http://www.cs.uga.edu/~xiong/8351/lenat.pdf)". *Communications of the ACM* **38** (11): 45-48.
-*   Jared Friedman (October 2003). "[The Sole Contender for AI](http://www.scribd.com/doc/1814/An-Article-about-the-Cyc-Project)". *Harvard Science Review*.
+- Lenat, Douglas; Guha, R. V. (1990). *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*. Addison-Wesley. ISBN 0-201-51752-3.
+- Lenat, Douglas; Miller, George; Yokoi, Toshio (November 1995). "[CYC, WordNet, and EDR: Critiques and Responses](http://www.cs.uga.edu/~xiong/8351/lenat.pdf)". *Communications of the ACM* **38** (11): 45-48.
+- Jared Friedman (October 2003). "[The Sole Contender for AI](http://www.scribd.com/doc/1814/An-Article-about-the-Cyc-Project)". *Harvard Science Review*.

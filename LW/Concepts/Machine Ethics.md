@@ -21,14 +21,14 @@ As Wallach and Allen pose it, “even if full moral agency for machines is a lon
 
 ## Further Reading & References
 
-*   [Intelligence Explosion and Machine Ethics](http://intelligence.org/files/IE-ME.pdf) by Luke Muehlhauser and Louie Helm
-*   [Machine Ethics and Superintelligence](http://intelligence.org/files/MachineEthicsSuperintelligence.pdf) by Carl Shulman, Henrik Jonsson, and Nick Tarleton
-*   Moral Machines: Teaching Robots Right from Wrong by Wendell Wallach and Colin Allen
-*   [Lessons in Machine Ethics from the Perspective of Two Computational Models of Ethical Reasoning](http://commonsenseatheism.com/wp-content/uploads/2011/02/McLaren-Lessons-in-machine-ethics-from-the-perspective-of-two-computational-models-of-ethical-reasoning.pdf) by Bruce M. McLaren
-*   [Prospects for a Kantian Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Powers-Prospects-for-a-Kantian-Machine.pdf) by Thomas M. Powers
-*   [Granny and the robots: Ethical issues in robot care for the elderly](http://staffwww.dcs.shef.ac.uk/people/A.Sharkey/sharkey-granny.pdf) by Amanda Sharkey and Noel Sharkeyture
+- [Intelligence Explosion and Machine Ethics](http://intelligence.org/files/IE-ME.pdf) by Luke Muehlhauser and Louie Helm
+- [Machine Ethics and Superintelligence](http://intelligence.org/files/MachineEthicsSuperintelligence.pdf) by Carl Shulman, Henrik Jonsson, and Nick Tarleton
+- Moral Machines: Teaching Robots Right from Wrong by Wendell Wallach and Colin Allen
+- [Lessons in Machine Ethics from the Perspective of Two Computational Models of Ethical Reasoning](http://commonsenseatheism.com/wp-content/uploads/2011/02/McLaren-Lessons-in-machine-ethics-from-the-perspective-of-two-computational-models-of-ethical-reasoning.pdf) by Bruce M. McLaren
+- [Prospects for a Kantian Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Powers-Prospects-for-a-Kantian-Machine.pdf) by Thomas M. Powers
+- [Granny and the robots: Ethical issues in robot care for the elderly](http://staffwww.dcs.shef.ac.uk/people/A.Sharkey/sharkey-granny.pdf) by Amanda Sharkey and Noel Sharkeyture
 
 ## See also
 
-*   [[Utility]]
-*   [[Utilitarianism]]
+- [[Utility]]
+- [[Utilitarianism]]

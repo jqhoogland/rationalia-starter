@@ -27,18 +27,18 @@ The anti-work of [[Anti-Epistemology|anti-epistemology]] is to manufacture belie
 
 ## Blog posts
 
-*   [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
-*   [Perpetual Motion Beliefs](http://lesswrong.com/lw/o6/perpetual_motion_beliefs/)
-*   [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
-*   [The Amanda Knox Test: How an Hour on the Internet Beats a Year in the Courtroom](http://lesswrong.com/lw/1j7/the_amanda_knox_test_how_an_hour_on_the_internet/)
+- [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
+- [Perpetual Motion Beliefs](http://lesswrong.com/lw/o6/perpetual_motion_beliefs/)
+- [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
+- [The Amanda Knox Test: How an Hour on the Internet Beats a Year in the Courtroom](http://lesswrong.com/lw/1j7/the_amanda_knox_test_how_an_hour_on_the_internet/)
 
 ## See also
 
-*   [[Locate The Hypothesis|Locate the hypothesis]]
-*   [[Antiprediction]]
-*   [[Status Quo Bias|Status quo bias]], [[Reversal Test|reversal test]]
-*   [[Amount of Evidence|Amount of evidence]], [[Burdensome Details|burdensome details]]
-*   [[Filtered Evidence|Filtered evidence]], [[Arguments As Soldiers|arguments as soldiers]]
-*   [[Narrative Fallacy|Narrative fallacy]], [[Confirmation Bias|positive bias]]
-*   [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias)
-*   [[Information Cascades|Information cascade]], [[Epistemic Luck|epistemic luck]]
+- [[Locate The Hypothesis|Locate the hypothesis]]
+- [[Antiprediction]]
+- [[Status Quo Bias|Status quo bias]], [[Reversal Test|reversal test]]
+- [[Amount of Evidence|Amount of evidence]], [[Burdensome Details|burdensome details]]
+- [[Filtered Evidence|Filtered evidence]], [[Arguments As Soldiers|arguments as soldiers]]
+- [[Narrative Fallacy|Narrative fallacy]], [[Confirmation Bias|positive bias]]
+- [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias)
+- [[Information Cascades|Information cascade]], [[Epistemic Luck|epistemic luck]]

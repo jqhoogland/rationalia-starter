@@ -16,3 +16,4 @@ synchedAt: '2022-08-29T10:40:16.043Z'
 
 - [[Argument and Analysis (Sequence)]]
 - [[Categorisation and Concepts (Sequence)]]
+- [[Probability and Predictions (Sequence)]]

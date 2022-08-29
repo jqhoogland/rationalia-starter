@@ -19,9 +19,9 @@ A non-fallacious interpretation of teleology is as the study of things that happ
 
 ## Blog posts
 
-*   [Three Fallacies of Teleology](http://lesswrong.com/lw/te/three_fallacies_of_teleology/)
+- [Three Fallacies of Teleology](http://lesswrong.com/lw/te/three_fallacies_of_teleology/)
 
 ## See also
 
-*   [[Causality]]
-*   [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)
+- [[Causality]]
+- [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)

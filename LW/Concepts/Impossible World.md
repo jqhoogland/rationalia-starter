@@ -13,8 +13,8 @@ synchedAt: '2022-08-29T11:13:22.275Z'
 
 ## Blog posts
 
-*   [Why Not Impossible Worlds?](http://www.overcomingbias.com/2006/12/why_not_impossi.html) by [[Robin Hanson]]
+- [Why Not Impossible Worlds?](http://www.overcomingbias.com/2006/12/why_not_impossi.html) by [[Robin Hanson]]
 
 ## See also
 
-*   [[Possible World|Possible world]]
+- [[Possible World|Possible world]]

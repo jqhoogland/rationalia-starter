@@ -17,21 +17,21 @@ Increasing [willpower](https://www.lessestwrong.com/tag/willpower) is seen by so
 
 ## See also
 
-*   [[Attention]]
-*   [[Motivations]]
-*   [[Prioritization]]
-*   [[Procrastination]]
-*   [[Productivity]]
-*   [[Willpower]]
-*   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
-*   [[Trivial Inconvenience|Trivial inconvenience]]
-*   [[Aversion|Aversion/Ugh field]]
-*   [[Compartmentalization]]
-*   [[Preference]]
-*   [[Pica]]
+- [[Attention]]
+- [[Motivations]]
+- [[Prioritization]]
+- [[Procrastination]]
+- [[Productivity]]
+- [[Willpower]]
+- [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
+- [[Trivial Inconvenience|Trivial inconvenience]]
+- [[Aversion|Aversion/Ugh field]]
+- [[Compartmentalization]]
+- [[Preference]]
+- [[Pica]]
 
 ## External links
 
-*   [Akrasia](http://psychology.wikia.com/wiki/Akrasia) at Psychology Wiki
-*   [Weakness of Will](http://plato.stanford.edu/entries/weakness-will/), Stanford Encyclopedia of Philosophy
-*   [Beeminder](http://beeminder.com/), community-member developed tool for commitment via self-imposed financial penalties
+- [Akrasia](http://psychology.wikia.com/wiki/Akrasia) at Psychology Wiki
+- [Weakness of Will](http://plato.stanford.edu/entries/weakness-will/), Stanford Encyclopedia of Philosophy
+- [Beeminder](http://beeminder.com/), community-member developed tool for commitment via self-imposed financial penalties

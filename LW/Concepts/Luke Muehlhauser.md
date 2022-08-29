@@ -15,7 +15,7 @@ synchedAt: '2022-08-29T11:09:13.585Z'
 
 ## External links
 
-*   [Website](http://lukeprog.com/)
-*   [LW account](http://lesswrong.com/user/lukeprog/)
-*   [Twitter](https://twitter.com/lukeprog)
-*   [Open Philanthropy website page](https://www.openphilanthropy.org/about/team/luke-muehlhauser)
+- [Website](http://lukeprog.com/)
+- [LW account](http://lesswrong.com/user/lukeprog/)
+- [Twitter](https://twitter.com/lukeprog)
+- [Open Philanthropy website page](https://www.openphilanthropy.org/about/team/luke-muehlhauser)

@@ -21,14 +21,14 @@ Identifying yourself with a [[Blues & Greens (metaphor)|side]] in a political de
 
 ## Blog posts
 
-*   [Policy Debates Should Not Appear One-Sided](http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)
+- [Policy Debates Should Not Appear One-Sided](http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)
 
 ## See also
 
-*   [[Policy Debates Should Not Appear One-Sided|Policy debates should not appear one-sided]]
-*   [Adversarial process](https://wiki.lesswrong.com/wiki/Adversarial_process)
-*   [[Disagreement]]
-*   [[Filtered Evidence|Filtered evidence]]
-*   [[Blues & Greens (metaphor)|Color politics]]
-*   [[Signaling]]
-*   [[Mind-Killer|Mind-killer]]
+- [[Policy Debates Should Not Appear One-Sided|Policy debates should not appear one-sided]]
+- [Adversarial process](https://wiki.lesswrong.com/wiki/Adversarial_process)
+- [[Disagreement]]
+- [[Filtered Evidence|Filtered evidence]]
+- [[Blues & Greens (metaphor)|Color politics]]
+- [[Signaling]]
+- [[Mind-Killer|Mind-killer]]

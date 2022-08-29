@@ -17,15 +17,15 @@ synchedAt: '2022-08-29T11:08:21.488Z'
 
 ## Blog posts
 
-*   [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
-*   [Universal Law](http://lesswrong.com/lw/hr/universal_law/)
-*   [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
-*   [Leaky Generalizations](http://lesswrong.com/lw/lc/leaky_generalizations/)
+- [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
+- [Universal Law](http://lesswrong.com/lw/hr/universal_law/)
+- [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
+- [Leaky Generalizations](http://lesswrong.com/lw/lc/leaky_generalizations/)
 
 ## See also
 
-*   [[Lawful Intelligence|Lawful intelligence]]
-*   [[Reality Is Normal|Reality is normal]]
-*   [[Futility of Chaos|Futility of chaos]]
-*   [[Reductionism]]
-*   [[Magic]]
+- [[Lawful Intelligence|Lawful intelligence]]
+- [[Reality Is Normal|Reality is normal]]
+- [[Futility of Chaos|Futility of chaos]]
+- [[Reductionism]]
+- [[Magic]]

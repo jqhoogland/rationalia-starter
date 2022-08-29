@@ -29,11 +29,11 @@ There are some pairings of intelligence and goals which cannot exist. For instan
 
 ## See Also
 
-*   [Instrumental Convergence](https://lessestwrong.com/tag/instrumental-convergence)
+- [Instrumental Convergence](https://lessestwrong.com/tag/instrumental-convergence)
 
 ## External links
 
-*   Definition of the orthogonality thesis from Bostrom's [Superintelligent Will](http://www.nickbostrom.com/superintelligentwill.pdf)
-*   [Arbital orthogonality thesis article ](https://arbital.com/p/orthogonality/)
-*   [Critique](http://philosophicaldisquisitions.blogspot.com/2012/04/bostrom-on-superintelligence-and.html) of the thesis by John Danaher
-*   Superintelligent Will paper by Nick Bostrom
+- Definition of the orthogonality thesis from Bostrom's [Superintelligent Will](http://www.nickbostrom.com/superintelligentwill.pdf)
+- [Arbital orthogonality thesis article ](https://arbital.com/p/orthogonality/)
+- [Critique](http://philosophicaldisquisitions.blogspot.com/2012/04/bostrom-on-superintelligence-and.html) of the thesis by John Danaher
+- Superintelligent Will paper by Nick Bostrom

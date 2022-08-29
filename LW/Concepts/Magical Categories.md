@@ -27,13 +27,13 @@ Physical brains are not powerful enough to search all possibilities; we have to 
 
 ## Main posts
 
-*   [The Hidden Complexity of Wishes](http://lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/)
-*   [Magical Categories](http://lesswrong.com/lw/td/magical_categories/)
+- [The Hidden Complexity of Wishes](http://lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/)
+- [Magical Categories](http://lesswrong.com/lw/td/magical_categories/)
 
 ## See also
 
-*   [[Complexity of Value|Complexity of value]]
-*   [[Fake Simplicity|Fake simplicity]], [[Detached Lever Fallacy|Detached lever fallacy]]
-*   [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip maximizer]]
-*   [[Friendly Artificial Intelligence|Friendly artificial intelligence]]
-*   [[Magic]]
+- [[Complexity of Value|Complexity of value]]
+- [[Fake Simplicity|Fake simplicity]], [[Detached Lever Fallacy|Detached lever fallacy]]
+- [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip maximizer]]
+- [[Friendly Artificial Intelligence|Friendly artificial intelligence]]
+- [[Magic]]

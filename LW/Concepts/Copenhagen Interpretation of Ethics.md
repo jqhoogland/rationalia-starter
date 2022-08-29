@@ -15,4 +15,4 @@ The **Copenhagen Interpretation of Ethics** says that when you interact with a p
 
 ## External Links
 
-*   [The Copenhagen Interpretation of Ethics](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)
+- [The Copenhagen Interpretation of Ethics](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/)

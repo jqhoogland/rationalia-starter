@@ -21,13 +21,13 @@ Example: Would the twentieth century have gone differently, if Klara Pölzl and 
 
 ## Main article
 
-*   [Beyond the Reach of God](http://lesswrong.com/lw/uk/beyond_the_reach_of_god/) by [[Eliezer Yudkowsky]]
+- [Beyond the Reach of God](http://lesswrong.com/lw/uk/beyond_the_reach_of_god/) by [[Eliezer Yudkowsky]]
 
 ## Other posts
 
-*   [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/) by [[Eliezer Yudkowsky]]
+- [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/) by [[Eliezer Yudkowsky]]
 
 ## Related concepts
 
-*   [[Human Universal|Human universal]], [[Anthropomorphism]]
-*   [[Magic]], [[Reductionism]]
+- [[Human Universal|Human universal]], [[Anthropomorphism]]
+- [[Magic]], [[Reductionism]]

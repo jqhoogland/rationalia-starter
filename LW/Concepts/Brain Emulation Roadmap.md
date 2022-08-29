@@ -23,7 +23,7 @@ Two critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#f
 
 ## External links
 
-*   [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
+- [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 
 ## References
 

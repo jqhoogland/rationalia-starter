@@ -15,13 +15,13 @@ synchedAt: '2022-08-29T11:06:11.372Z'
 
 ## Blog posts
 
-*   [A Fable of Science and Politics](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
-*   [The Robbers Cave Experiment](http://lesswrong.com/lw/lt/the_robbers_cave_experiment/)
+- [A Fable of Science and Politics](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
+- [The Robbers Cave Experiment](http://lesswrong.com/lw/lt/the_robbers_cave_experiment/)
 
 ## See also
 
-*   [[Conformity Bias|Conformity bias]]
-*   [[Blues & Greens (metaphor)|Color politics]]
-*   [[Halo Effect|Halo effect]]
-*   [[Affective Death Spiral|Affective death spiral]]
-*   [[Social Status|Status]], [[Signaling|signaling]]
+- [[Conformity Bias|Conformity bias]]
+- [[Blues & Greens (metaphor)|Color politics]]
+- [[Halo Effect|Halo effect]]
+- [[Affective Death Spiral|Affective death spiral]]
+- [[Social Status|Status]], [[Signaling|signaling]]

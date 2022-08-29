@@ -17,8 +17,8 @@ The relationship between laws and approximations resembles that of between physi
 
 Some concepts which have been used as theoretical criteria in law-thinking:
 
-*   [[Bayes' Theorem|Bayes Theorem]] is a law of probability that describes the proper way to incorporate new evidence into prior probabilities to form an updated probability estimate.
-*   [[Decision Theory]] studies the general laws for choosing between actions in any given situation.
-*   [[Solomonoff Induction]] is a theoretically optimal way of arriving at true beliefs, though impossible to use directly. [[AIXI]] is an AI design based on Solomonoff Induction; it is also impossible to build directly, but some approximations exist.
+- [[Bayes' Theorem|Bayes Theorem]] is a law of probability that describes the proper way to incorporate new evidence into prior probabilities to form an updated probability estimate.
+- [[Decision Theory]] studies the general laws for choosing between actions in any given situation.
+- [[Solomonoff Induction]] is a theoretically optimal way of arriving at true beliefs, though impossible to use directly. [[AIXI]] is an AI design based on Solomonoff Induction; it is also impossible to build directly, but some approximations exist.
 
 Note that one can make use of e.g. Bayes Theorem or decision theory without being a law-thinker. Thus, articles covering the above topics do not automatically fall under this tag. A "toolbox-thinker" may use such tools if that seems warranted, _without_ considering them normative standards to compare things against. This difference is discussed in [[Toolbox-thinking and Law-thinking]].

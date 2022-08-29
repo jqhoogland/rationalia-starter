@@ -15,10 +15,10 @@ If at any point some truth should seem shocking or bizarre, [[Mind Projection Fa
 
 ## Blog posts
 
-*   [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
-*   [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/)
+- [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/)
+- [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/)
 
 ## See also
 
-*   [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
-*   [[Joy In The Merely Real|Joy in the merely real]]
+- [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
+- [[Joy In The Merely Real|Joy in the merely real]]

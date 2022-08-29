@@ -15,12 +15,12 @@ synchedAt: '2022-08-29T10:47:15.452Z'
 
 **External Links:**
 
-*   [Website](https://grabbyaliens.com/)
-*   [Original Paper](https://arxiv.org/abs/2102.01522)
-*   [Video by Rational Animations (part 1)](https://youtu.be/l3whaviTqqg)
-*   [Video by Rational Animations (part 2)](https://youtu.be/LceY7nhi6j4)
+- [Website](https://grabbyaliens.com/)
+- [Original Paper](https://arxiv.org/abs/2102.01522)
+- [Video by Rational Animations (part 1)](https://youtu.be/l3whaviTqqg)
+- [Video by Rational Animations (part 2)](https://youtu.be/LceY7nhi6j4)
 
 **Related Pages:**
 
-*   [[Great Filter]]
-*   [[Anthropics]]
+- [[Great Filter]]
+- [[Anthropics]]

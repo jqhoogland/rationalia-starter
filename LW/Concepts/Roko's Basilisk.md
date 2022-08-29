@@ -135,9 +135,9 @@ Yudkowsky subsequently went into more detail about his thought processes [on Red
 
 Several other questions are raised by Roko's basilisk, beyond the merits of Roko's original argument or *Less Wrong*'s moderation policies:
 
-*   Can formal decision agents be designed to resist blackmail?
-*   Are information hazards a serious risk, and are there better ways of handling them?
-*   Does the oversimplified coverage of Roko's argument suggest that \\"weird\\" philosophical topics are big liabilities for pedagogical or research-related activities?
+- Can formal decision agents be designed to resist blackmail?
+- Are information hazards a serious risk, and are there better ways of handling them?
+- Does the oversimplified coverage of Roko's argument suggest that \\"weird\\" philosophical topics are big liabilities for pedagogical or research-related activities?
 
 **Blackmail-resistant decision theories**
 
@@ -179,9 +179,9 @@ In \\"[The Economy of Weirdness](\"https://meteuphoric.wordpress.com/2015/03/08/
 
 ## See also
 
-*   [Decision Theory Readings](\"https://intelligence.org/research-guide/#four\") in MIRI's Research Guide
-*   [Causal Decision Theory](\"https://plato.stanford.edu/entries/decision-causal/\") in the *Stanford Encyclopedia of Philosophy*
-*   [Thinking Inside the Boxes](\"https://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.html\") in *Slate*
-*   [Newcomb's problem](\"https://www.lesswrong.com/tag/newcomb-s-problem\")
-*   [Parfit's hitchhiker](\"https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker\")
-*   [Acausal Trade](\"https://www.lesswrong.com/tag/acausal-trade\")
+- [Decision Theory Readings](\"https://intelligence.org/research-guide/#four\") in MIRI's Research Guide
+- [Causal Decision Theory](\"https://plato.stanford.edu/entries/decision-causal/\") in the *Stanford Encyclopedia of Philosophy*
+- [Thinking Inside the Boxes](\"https://www.slate.com/articles/arts/egghead/2002/02/thinkinginside_the_boxes.html\") in *Slate*
+- [Newcomb's problem](\"https://www.lesswrong.com/tag/newcomb-s-problem\")
+- [Parfit's hitchhiker](\"https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker\")
+- [Acausal Trade](\"https://www.lesswrong.com/tag/acausal-trade\")

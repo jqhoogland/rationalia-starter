@@ -15,4 +15,4 @@ A **Neuromorphic AI** ('neuron-shaped') is a form of AI where most of the functi
 
 ## External Links
 
-*   Definition from [The Uncertain Future](http://www.theuncertainfuture.com/faq.html#3)
+- Definition from [The Uncertain Future](http://www.theuncertainfuture.com/faq.html#3)

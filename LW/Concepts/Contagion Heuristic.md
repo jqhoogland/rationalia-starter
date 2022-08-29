@@ -15,11 +15,11 @@ The **contagion heuristic** is a psychological [[Heuristic|heuristic]] leading p
 
 ## Blog posts
 
-*   [The Laws of Magic](http://lesswrong.com/lw/zr/the_laws_of_magic/) by [Annoyance](https://wiki.lesswrong.com/wiki/Annoyance)
+- [The Laws of Magic](http://lesswrong.com/lw/zr/the_laws_of_magic/) by [Annoyance](https://wiki.lesswrong.com/wiki/Annoyance)
 
 ## See also
 
-*   [[Connotation]], [[Sympathetic Magic|Sympathetic magic]]
-*   [[Social Status|Status]]
-*   [[Priming]], [[Halo Effect|Halo effect]]
-*   [Crackpot](https://wiki.lesswrong.com/wiki/Crackpot)
+- [[Connotation]], [[Sympathetic Magic|Sympathetic magic]]
+- [[Social Status|Status]]
+- [[Priming]], [[Halo Effect|Halo effect]]
+- [Crackpot](https://wiki.lesswrong.com/wiki/Crackpot)

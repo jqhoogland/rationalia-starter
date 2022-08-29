@@ -33,9 +33,9 @@ The tremendously slow timescale of evolution, especially for creating new comple
 
 ## Main article
 
-*   [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/)
+- [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/)
 
 ## See also
 
-*   [[Stupidity of Evolution|Stupidity of evolution]]
-*   [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
+- [[Stupidity of Evolution|Stupidity of evolution]]
+- [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

@@ -15,15 +15,15 @@ The **availability heuristic** judges the probability of events by the ease with
 
 ## Blog posts
 
-*   [Availability](http://lesswrong.com/lw/j5/availability/)
+- [Availability](http://lesswrong.com/lw/j5/availability/)
 
 ## External links
 
-*   [Availability heuristic](http://psychology.wikia.com/wiki/Availability_heuristic) at Psychology Wiki
+- [Availability heuristic](http://psychology.wikia.com/wiki/Availability_heuristic) at Psychology Wiki
 
 ## See also
 
-*   [[Representativeness Heuristic|Representativeness heuristic]]
-*   [[Filtered Evidence|Filtered evidence]]
-*   [No one knows what science doesn't know](https://wiki.lesswrong.com/wiki/No_one_knows_what_science_doesn't_know)
-*   [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Filtered Evidence|Filtered evidence]]
+- [No one knows what science doesn't know](https://wiki.lesswrong.com/wiki/No_one_knows_what_science_doesn't_know)
+- [[Absurdity Heuristic|Absurdity heuristic]]

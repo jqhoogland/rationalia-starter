@@ -19,6 +19,6 @@ Mathematicians have well-established, sophisticated theories for reasoning about
 
 ## Blog posts
 
-*   [0 and 1 are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
-*   [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)
-*   [Yudkowsky Q&A: Video Answers](http://lesswrong.com/lw/1lq/less_wrong_qa_with_eliezer_yudkowsky_video_answers/) (Question #14)
+- [0 and 1 are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
+- [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)
+- [Yudkowsky Q&A: Video Answers](http://lesswrong.com/lw/1lq/less_wrong_qa_with_eliezer_yudkowsky_video_answers/) (Question #14)

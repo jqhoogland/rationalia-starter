@@ -33,8 +33,8 @@ If an outcome with infinite utility is presented, then it doesn't matter how sma
 
 ## Notable Posts
 
-*   [Pascal's Mugging: Tiny Probabilities of Vast Utilities](https://www.lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/)
-*   [Pascal's Muggle: Infinitesimal Priors and Strong Evidence](https://www.lesswrong.com/lw/h8k/pascals_muggle_infinitesimal_priors_and_strong/)
+- [Pascal's Mugging: Tiny Probabilities of Vast Utilities](https://www.lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/)
+- [Pascal's Muggle: Infinitesimal Priors and Strong Evidence](https://www.lesswrong.com/lw/h8k/pascals_muggle_infinitesimal_priors_and_strong/)
 
 ## References
 

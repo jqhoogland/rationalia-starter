@@ -19,13 +19,13 @@ A strong version of this idea suggests that once the positive feedback starts to
 
 Philosopher David Chalmers published a [significant analysis of the Singularity](http://consc.net/papers/singularity.pdf), focusing on intelligence explosions, in *Journal of Consciousness Studies*. [His analysis](https://wiki.lesswrong.com/wiki/Singularity#Chalmers.27_analysis) of how they could occur defends the likelihood of an intelligence explosion. He performed a very careful analysis of the main premises and arguments for the existence of the a singularity from an intelligence explosion. According to him, the main argument is:"
 
-*   1\. There will be AI (before long, absent defeaters).
-*   2\. If there is AI, there will be AI+ (soon after, absent defeaters).
-*   3\. If there is AI+, there will be AI++ (soon after, absent defeaters).
+- 1\. There will be AI (before long, absent defeaters).
+- 2\. If there is AI, there will be AI+ (soon after, absent defeaters).
+- 3\. If there is AI+, there will be AI++ (soon after, absent defeaters).
 
 —————-
 
-*   4\. There will be AI++ (before too long, absent defeaters). "
+- 4\. There will be AI++ (before too long, absent defeaters). "
 
 He also discusses the nature of general intelligence, and possible obstacles to a singularity. A good deal of discussion is given to the dangers of an intelligence explosion, and Chalmers concludes that we must negotiate it very carefully by building the correct values into the initial AIs.
 
@@ -37,24 +37,24 @@ The following is a common example of a possible path for an AI to bring about an
 
 ## Blog posts
 
-*   [Cascades, Cycles, Insight...](http://lesswrong.com/lw/w5/cascades_cycles_insight/), [...Recursion, Magic](http://lesswrong.com/lw/w6/recursion_magic/)
-*   [Recursive Self-Improvement](http://lesswrong.com/lw/we/recursive_selfimprovement/), [Hard Takeoff](http://lesswrong.com/lw/wf/hard_takeoff/), [Permitted Possibilities, & Locality](http://lesswrong.com/lw/wg/permitted_possibilities_locality/)
+- [Cascades, Cycles, Insight...](http://lesswrong.com/lw/w5/cascades_cycles_insight/), [...Recursion, Magic](http://lesswrong.com/lw/w6/recursion_magic/)
+- [Recursive Self-Improvement](http://lesswrong.com/lw/we/recursive_selfimprovement/), [Hard Takeoff](http://lesswrong.com/lw/wf/hard_takeoff/), [Permitted Possibilities, & Locality](http://lesswrong.com/lw/wg/permitted_possibilities_locality/)
 
 ## See also
 
-*   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
-*   [[Existential Risk|Existential risk]]
-*   [[Artificial General Intelligence]]
-*   [[Lawful Intelligence|Lawful intelligence]]
-*   [[The Hanson-Yudkowsky AI-Foom Debate]]
+- [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
+- [[Existential Risk|Existential risk]]
+- [[Artificial General Intelligence]]
+- [[Lawful Intelligence|Lawful intelligence]]
+- [[The Hanson-Yudkowsky AI-Foom Debate]]
 
 ## External links
 
-*   [Intelligence Explosion website](http://intelligenceexplosion.com/), a landing page for introducing the concept
-*   [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools)
+- [Intelligence Explosion website](http://intelligenceexplosion.com/), a landing page for introducing the concept
+- [Three Major Singularity Schools](http://yudkowsky.net/singularity/schools)
 
 ## References
 
-*   Good, Irving John (1965). Franz L. Alt and Morris Rubinoff. ed. "[Speculations concerning the first ultraintelligent machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf)." *Advances in computers* (New York: Academic Press) **6**: 31-88. [doi](https://wiki.lesswrong.com/index.php?title=Digital_object_identifier&action=edit&redlink=1):[10.1016/S0065-2458(08)60418-0](http://dx.doi.org/10.1016%2FS0065-2458%2808%2960418-0).
-*   David Chalmers (2010). "[The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf)." *Journal of Consciousness Studies* **17**: 7-65.
-*   Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://commonsenseatheism.com/wp-content/uploads/2012/02/Muehlhauser-Salamon-Intelligence-Explosion-Evidence-and-Import.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
+- Good, Irving John (1965). Franz L. Alt and Morris Rubinoff. ed. "[Speculations concerning the first ultraintelligent machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf)." *Advances in computers* (New York: Academic Press) **6**: 31-88. [doi](https://wiki.lesswrong.com/index.php?title=Digital_object_identifier&action=edit&redlink=1):[10.1016/S0065-2458(08)60418-0](http://dx.doi.org/10.1016%2FS0065-2458%2808%2960418-0).
+- David Chalmers (2010). "[The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf)." *Journal of Consciousness Studies* **17**: 7-65.
+- Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://commonsenseatheism.com/wp-content/uploads/2012/02/Muehlhauser-Salamon-Intelligence-Explosion-Evidence-and-Import.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.

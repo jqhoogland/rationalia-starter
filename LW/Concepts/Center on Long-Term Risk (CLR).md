@@ -15,10 +15,10 @@ The **Center on Long-Term Risk**, formerly _Foundational Research Institute,_ is
 
 ## **See also**
 
-*   [[Risks of Astronomical Suffering (S-risks)|Suffering risk]]
-*   [[Abolitionism]]
+- [[Risks of Astronomical Suffering (S-risks)|Suffering risk]]
+- [[Abolitionism]]
 
 ## **External links**
 
-*   [CLR website](https://longtermrisk.org/)
-*   [Effective Altruism Wiki article on FRI](http://archive.is/aZjiv)
+- [CLR website](https://longtermrisk.org/)
+- [Effective Altruism Wiki article on FRI](http://archive.is/aZjiv)

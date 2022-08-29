@@ -15,14 +15,14 @@ An **Unfriendly artificial intelligence** (or **UFAI**) is an [[Artificial Gener
 
 ## See also
 
-*   [[Mind Design Space|Mind design space]], [[Magical Categories|magical categories]]
-*   [[Really Powerful Optimization Process|Really powerful optimization process]]
-*   [[Instrumental Convergence|Basic AI drives]]
-*   [[Paperclip Maximizer|Paperclip maximizer]]
-*   [[Existential Risk|Existential risk]]
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [[Mind Design Space|Mind design space]], [[Magical Categories|magical categories]]
+- [[Really Powerful Optimization Process|Really powerful optimization process]]
+- [[Instrumental Convergence|Basic AI drives]]
+- [[Paperclip Maximizer|Paperclip maximizer]]
+- [[Existential Risk|Existential risk]]
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 
 ## References
 
-*   Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press. ([PDF](http://intelligence.org/files/AIPosNegFactor.pdf))
-*   Stephen M. Omohundro (2008). "[The Basic AI Drives](https://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)". Frontiers in Artificial Intelligence and Applications (IOS Press). ([PDF](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf))
+- Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press. ([PDF](http://intelligence.org/files/AIPosNegFactor.pdf))
+- Stephen M. Omohundro (2008). "[The Basic AI Drives](https://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)". Frontiers in Artificial Intelligence and Applications (IOS Press). ([PDF](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf))

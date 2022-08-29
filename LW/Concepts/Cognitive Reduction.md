@@ -19,4 +19,4 @@ In other cases, we may still think the phenomenon exists in the territory, but n
 
 ## See also
 
-*   [[How An Algorithm Feels]]
+- [[How An Algorithm Feels]]

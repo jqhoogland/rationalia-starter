@@ -11,15 +11,15 @@ tags:
 synchedAt: '2022-08-29T10:40:16.036Z'
 ---
 
-# Highlights from the Sequences
+# Highlights From the Sequences
 
 # Sequences
 
-- [[Thinking Better on Purpose]]
-- [[Pitfalls of Human Cognition]]
-- [[The Laws Governing Belief]]
-- [[Science Isn't Enough]]
-- [[Connecting Words to Reality]]
-- [[Why We Fight]]
+- [[Thinking Better on Purpose (Sequence)]]
+- [[Pitfalls of Human Cognition (Sequence)]]
+- [[The Laws Governing Belief (Sequence)]]
+- [[Science Isn't Enough (Sequence)]]
+- [[Connecting Words to Reality (Sequence)]]
+- [[Why We Fight (Sequence)]]
 
 See also: [[Further Reading (Highlights)]]

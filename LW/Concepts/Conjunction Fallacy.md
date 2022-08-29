@@ -19,10 +19,10 @@ The conjunction fallacy suggests that one should be [[Burdensome Details|very ca
 
 ## Blog posts
 
-*   [Conjunction Fallacy](http://lesswrong.com/lw/ji/conjunction_fallacy/)
-*   [Conjunction Controversy (Or, How They Nail It Down)](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)
+- [Conjunction Fallacy](http://lesswrong.com/lw/ji/conjunction_fallacy/)
+- [Conjunction Controversy (Or, How They Nail It Down)](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)
 
 ## See also
 
-*   [[Representativeness Heuristic|Representativeness heuristic]]
-*   [[Burdensome Details|Burdensome details]]
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Burdensome Details|Burdensome details]]

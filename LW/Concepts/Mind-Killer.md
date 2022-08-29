@@ -31,23 +31,23 @@ Another cause of mind-killers is social taboo. Negative [[Connotation|connotatio
 
 ## Sequences
 
-*   [[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
+- [[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
 
 ## Blog posts
 
-*   [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
-*   [The mind-killer](http://lesswrong.com/lw/ee/the_mindkiller/) by [[Ciphergoth|ciphergoth]]
-*   [Absolute denial for atheists](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/) by [taw](https://wiki.lesswrong.com/wiki/taw)
+- [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
+- [The mind-killer](http://lesswrong.com/lw/ee/the_mindkiller/) by [[Ciphergoth|ciphergoth]]
+- [Absolute denial for atheists](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/) by [taw](https://wiki.lesswrong.com/wiki/taw)
 
 ## External links
 
-*   [What You Can't Say](http://paulgraham.com/say.html) by [Paul Graham](https://wiki.lesswrong.com/wiki/Paul_Graham) \- Discusses "moral fashions" and social taboos and how they mind-kill certain topics.
+- [What You Can't Say](http://paulgraham.com/say.html) by [Paul Graham](https://wiki.lesswrong.com/wiki/Paul_Graham) \- Discusses "moral fashions" and social taboos and how they mind-kill certain topics.
 
 ## See also
 
-*   [[Blues & Greens (metaphor)|Color politics]]
-*   [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Affect Heuristic|Affect heuristic]]
-*   [[Dark Arts|Dark arts]]
-*   [[Signaling]]
-*   [[Narrative Fallacy|Narrative fallacy]]
+- [[Blues & Greens (metaphor)|Color politics]]
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Affect Heuristic|Affect heuristic]]
+- [[Dark Arts|Dark arts]]
+- [[Signaling]]
+- [[Narrative Fallacy|Narrative fallacy]]

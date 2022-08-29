@@ -17,15 +17,15 @@ A rational decision maker will, when presented with a choice, take the action wi
 
 ## Blog posts
 
-*   [Extreme risks: when not to use expected utility](http://lesswrong.com/lw/1cv/extreme_risks_when_not_to_use_expected_utility/)
-*   [Expected utility without the independence axiom](http://lesswrong.com/lw/1d5/expected_utility_without_the_independence_axiom/)
-*   [Money pumping: the axiomatic approach](http://lesswrong.com/lw/1dr/money_pumping_the_axiomatic_approach/)
-*   [In conclusion: in the land beyond money pumps lie extreme events](http://lesswrong.com/lw/1ga/in_conclusion_in_the_land_beyond_money_pumps_lie/)
-*   [VNM expected utility theory: uses, abuses, and interpretation](http://lesswrong.com/lw/244/vnm_expected_utility_theory_uses_abuses_and/)
+- [Extreme risks: when not to use expected utility](http://lesswrong.com/lw/1cv/extreme_risks_when_not_to_use_expected_utility/)
+- [Expected utility without the independence axiom](http://lesswrong.com/lw/1d5/expected_utility_without_the_independence_axiom/)
+- [Money pumping: the axiomatic approach](http://lesswrong.com/lw/1dr/money_pumping_the_axiomatic_approach/)
+- [In conclusion: in the land beyond money pumps lie extreme events](http://lesswrong.com/lw/1ga/in_conclusion_in_the_land_beyond_money_pumps_lie/)
+- [VNM expected utility theory: uses, abuses, and interpretation](http://lesswrong.com/lw/244/vnm_expected_utility_theory_uses_abuses_and/)
 
 ## See also
 
-*   [Allais paradox](https://wiki.lesswrong.com/wiki/Allais_paradox)
-*   [[Decision Theory|Decision theory]]
-*   [Instrumental rationality](https://wiki.lesswrong.com/wiki/Instrumental_rationality)
-*   [[Prospect Theory|Prospect theory]]
+- [Allais paradox](https://wiki.lesswrong.com/wiki/Allais_paradox)
+- [[Decision Theory|Decision theory]]
+- [Instrumental rationality](https://wiki.lesswrong.com/wiki/Instrumental_rationality)
+- [[Prospect Theory|Prospect theory]]

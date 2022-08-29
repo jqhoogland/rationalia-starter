@@ -19,12 +19,12 @@ It can be tempting to label as _impossible_ very difficult problems which you ha
 
 ##### By [[Eliezer Yudkowsky]]:
 
-*   [Risk-Free Bonds Aren't](http://lesswrong.com/lw/hy/riskfree_bonds_arent/)
-*   [Shut Up and Do the Impossible](http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/)
+- [Risk-Free Bonds Aren't](http://lesswrong.com/lw/hy/riskfree_bonds_arent/)
+- [Shut Up and Do the Impossible](http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/)
 
 ## See also
 
-*   [Probability](https://wiki.lesswrong.com/wiki/Probability)
-*   [[Antiprediction]]
-*   [[Black Swans|Black swan]]
-*   [[Absurdity Heuristic|Absurdity heuristic]]
+- [Probability](https://wiki.lesswrong.com/wiki/Probability)
+- [[Antiprediction]]
+- [[Black Swans|Black swan]]
+- [[Absurdity Heuristic|Absurdity heuristic]]

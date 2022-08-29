@@ -48,33 +48,33 @@ Links
 
 ## Blog posts
 
-*   [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
-*   [Not Taking Over the World](http://lesswrong.com/lw/wt/not_taking_over_the_world/)
-*   [Amputation of Destiny](http://lesswrong.com/lw/x8/amputation_of_destiny/)
-*   [Free to Optimize](http://lesswrong.com/lw/xb/free_to_optimize/)
-*   [Nonparametric Ethics](http://lesswrong.com/lw/114/nonparametric_ethics/)
-*   [Hacking the CEV for Fun and Profit](http://lesswrong.com/lw/2b7/hacking_the_cev_for_fun_and_profit/) by [Wei Dai](http://weidai.com/)
-*   [Metaphilosophical Mysteries](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/) by Wei Dai
-*   [The Urgent Meta-Ethics of Friendly Artificial Intelligence](http://lesswrong.com/lw/43v/the_urgent_metaethics_of_friendly_artificial/) by [lukeprog](http://lukeprog.com/)
+- [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
+- [Not Taking Over the World](http://lesswrong.com/lw/wt/not_taking_over_the_world/)
+- [Amputation of Destiny](http://lesswrong.com/lw/x8/amputation_of_destiny/)
+- [Free to Optimize](http://lesswrong.com/lw/xb/free_to_optimize/)
+- [Nonparametric Ethics](http://lesswrong.com/lw/114/nonparametric_ethics/)
+- [Hacking the CEV for Fun and Profit](http://lesswrong.com/lw/2b7/hacking_the_cev_for_fun_and_profit/) by [Wei Dai](http://weidai.com/)
+- [Metaphilosophical Mysteries](http://lesswrong.com/lw/2id/metaphilosophical_mysteries/) by Wei Dai
+- [The Urgent Meta-Ethics of Friendly Artificial Intelligence](http://lesswrong.com/lw/43v/the_urgent_metaethics_of_friendly_artificial/) by [lukeprog](http://lukeprog.com/)
 
 ## External links
 
-*   [About Friendly AI](http://friendly-ai.com/)
-*   [14 objections against AI/Friendly AI/The Singularity answered](http://www.xuenay.net/objections.html) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
-*   ["Proof" of Friendliness](http://ordinaryideas.wordpress.com/2011/12/31/proof-of-friendliness/) by Paul F. Christiano
+- [About Friendly AI](http://friendly-ai.com/)
+- [14 objections against AI/Friendly AI/The Singularity answered](http://www.xuenay.net/objections.html) by [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala)
+- ["Proof" of Friendliness](http://ordinaryideas.wordpress.com/2011/12/31/proof-of-friendliness/) by Paul F. Christiano
 
 See also
 ========
 
-*   [[Artificial General Intelligence|Artificial general intelligence]]
-*   [[Complexity of Value|Complexity of value]]
-*   [[Magical Categories|Magical categories]]
-*   [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [[Intelligence Explosion|intelligence explosion]]
-*   [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]], [[Paperclip Maximizer|paperclip maximizer]]
-*   [[Fun Theory|Fun theory]]
-*   [[Detached Lever Fallacy|Detached lever fallacy]]
+- [[Artificial General Intelligence|Artificial general intelligence]]
+- [[Complexity of Value|Complexity of value]]
+- [[Magical Categories|Magical categories]]
+- [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [[Intelligence Explosion|intelligence explosion]]
+- [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]], [[Paperclip Maximizer|paperclip maximizer]]
+- [[Fun Theory|Fun theory]]
+- [[Detached Lever Fallacy|Detached lever fallacy]]
 
 ## References
 
-*   Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press.
-*   Cindy Mason (2015). "[Engineering Kindness: Building A Machine With Compassionate Intelligence](https://www.academia.edu/15865212/Engineering_Kindness_Building_A_Machine_With_Compassionate_Intelligence)". International Journal of Synthetic Emotion. ([\[2\]](http://www.emotionalmachines.org/papers/engineeringkindnesswebcopy.pdf))
+- Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press.
+- Cindy Mason (2015). "[Engineering Kindness: Building A Machine With Compassionate Intelligence](https://www.academia.edu/15865212/Engineering_Kindness_Building_A_Machine_With_Compassionate_Intelligence)". International Journal of Synthetic Emotion. ([\[2\]](http://www.emotionalmachines.org/papers/engineeringkindnesswebcopy.pdf))

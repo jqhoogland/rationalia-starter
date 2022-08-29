@@ -37,21 +37,21 @@ The human species has made an enormous amount of progress since evolving around 
 
 ## Blog posts
 
-*   [Recursive Self Improvement](http://lesswrong.com/lw/we/recursive_selfimprovement/) by Eliezer Yudkowsky
-*   [Cascades, Cycles, Insight...](http://lesswrong.com/lw/w5/cascades_cycles_insight/) by Eliezer Yudkowsky
-*   [...Recursion, Magic](http://lesswrong.com/lw/w6/recursion_magic/) by Eliezer Yudkowsky
+- [Recursive Self Improvement](http://lesswrong.com/lw/we/recursive_selfimprovement/) by Eliezer Yudkowsky
+- [Cascades, Cycles, Insight...](http://lesswrong.com/lw/w5/cascades_cycles_insight/) by Eliezer Yudkowsky
+- [...Recursion, Magic](http://lesswrong.com/lw/w6/recursion_magic/) by Eliezer Yudkowsky
 
 ## See also
 
-*   [[Intelligence Explosion|Intelligence explosion]]
-*   [[Singularity]]
-*   [[Seed AI]]
-*   [[Gödel Machine|Gödel machine]]
-*   [[AI Takeoff|AI takeoff]]
+- [[Intelligence Explosion|Intelligence explosion]]
+- [[Singularity]]
+- [[Seed AI]]
+- [[Gödel Machine|Gödel machine]]
+- [[AI Takeoff|AI takeoff]]
 
 ## External links
 
-*   [Seed AI](http://intelligence.org/files/LOGI.pdf) description from MIRI.
-*   [Risks from Artificial Intelligence](http://intelligence.org/files/AIPosNegFactor.pdf) by Eliezer Yudkowsky.
-*   [Advantages of Artificial Intelligence](http://www.xuenay.net/Papers/DigitalAdvantages.pdf) by Kaj Sotala
-*   [Speculations Concerning the First Ultraintelligent Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf) by I.J. Good
+- [Seed AI](http://intelligence.org/files/LOGI.pdf) description from MIRI.
+- [Risks from Artificial Intelligence](http://intelligence.org/files/AIPosNegFactor.pdf) by Eliezer Yudkowsky.
+- [Advantages of Artificial Intelligence](http://www.xuenay.net/Papers/DigitalAdvantages.pdf) by Kaj Sotala
+- [Speculations Concerning the First Ultraintelligent Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf) by I.J. Good

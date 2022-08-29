@@ -23,17 +23,17 @@ Even with a high degree of moral uncertainty and a wide range of possible moral 
 
 ## External links
 
-*   [Moral uncertainty — towards a solution?](http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html)
+- [Moral uncertainty — towards a solution?](http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html)
 
 ## Sequences
 
-*   [Moral uncertainty](https://www.lesswrong.com/s/4NFwxwzLzpiikfkk3)
+- [Moral uncertainty](https://www.lesswrong.com/s/4NFwxwzLzpiikfkk3)
 
 ## See also
 
-*   [[Expected Utility|Expected utility]]
-*   [[Value Learning|Value learning]]
-*   [[Metaethics]]
+- [[Expected Utility|Expected utility]]
+- [[Value Learning|Value learning]]
+- [[Metaethics]]
 
 ## References
 

@@ -15,21 +15,21 @@ synchedAt: '2022-08-29T11:06:11.951Z'
 
 ## Blog posts
 
-*   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
-*   [Motivated Stopping and Motivated Continuation](http://lesswrong.com/lw/km/motivated_stopping_and_motivated_continuation/)
-*   [The Skeptic's Trilemma](http://lesswrong.com/lw/2p/the_skeptics_trilemma/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
-*   [Undiscriminating Skepticism](http://lesswrong.com/lw/1ww/undiscriminating_skepticism/)
+- [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
+- [Motivated Stopping and Motivated Continuation](http://lesswrong.com/lw/km/motivated_stopping_and_motivated_continuation/)
+- [The Skeptic's Trilemma](http://lesswrong.com/lw/2p/the_skeptics_trilemma/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [Undiscriminating Skepticism](http://lesswrong.com/lw/1ww/undiscriminating_skepticism/)
 
 ## External Links
 
-*   [From Skepticism to Technical Rationality](http://facingthesingularity.com/2011/from-skepticism-to-technical-rationality/) by [lukeprog](http://lukeprog.com/)
+- [From Skepticism to Technical Rationality](http://facingthesingularity.com/2011/from-skepticism-to-technical-rationality/) by [lukeprog](http://lukeprog.com/)
 
 ## See also
 
-*   [[Motivated Reasoning|Motivated cognition]]
-*   [[Least Convenient Possible World|Least convenient possible world]]
-*   [[Filtered Evidence|Filtered evidence]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
-*   [[Blues & Greens (metaphor)|Color politics]]
-*   [[Confirmation Bias|Positive bias]]
-*   [[Rationalization]], [[Oops]]
-*   [[Dangerous Knowledge|Dangerous knowledge]]
+- [[Motivated Reasoning|Motivated cognition]]
+- [[Least Convenient Possible World|Least convenient possible world]]
+- [[Filtered Evidence|Filtered evidence]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
+- [[Blues & Greens (metaphor)|Color politics]]
+- [[Confirmation Bias|Positive bias]]
+- [[Rationalization]], [[Oops]]
+- [[Dangerous Knowledge|Dangerous knowledge]]

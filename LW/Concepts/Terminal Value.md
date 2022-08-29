@@ -41,4 +41,4 @@ For an artificial general intelligence to have a positive and not a negative eff
 
 ## Links
 
-*   Eliezer Yudkowsky, [Terminal Values and Instrumental Values](http://lesswrong.com/lw/l4/terminal_values_and_instrumental_values/)
+- Eliezer Yudkowsky, [Terminal Values and Instrumental Values](http://lesswrong.com/lw/l4/terminal_values_and_instrumental_values/)

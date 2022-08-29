@@ -19,14 +19,14 @@ To solve all these problems, Dewey proposes a [utility function](https://lessest
 
 ## References
 
-*   [Dewey’s paper](http://www.danieldewey.net/learning-what-to-value.pdf)
+- [Dewey’s paper](http://www.danieldewey.net/learning-what-to-value.pdf)
 
 ## See Also
 
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-*   [Reinforcement learning](https://lessestwrong.com/tag/reinforcement-learning)
-*   [Value extrapolation](https://lessestwrong.com/tag/value-extrapolation)
-*   [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
-*   [Coherent Extrapolated Volition](https://lessestwrong.com/tag/coherent-extrapolated-volition)
-*   [Coherent Aggregated Volition](https://lessestwrong.com/tag/coherent-aggregated-volition)
-*   [Coherent Blended Volition](https://lessestwrong.com/tag/coherent-blended-volition)
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [Reinforcement learning](https://lessestwrong.com/tag/reinforcement-learning)
+- [Value extrapolation](https://lessestwrong.com/tag/value-extrapolation)
+- [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
+- [Coherent Extrapolated Volition](https://lessestwrong.com/tag/coherent-extrapolated-volition)
+- [Coherent Aggregated Volition](https://lessestwrong.com/tag/coherent-aggregated-volition)
+- [Coherent Blended Volition](https://lessestwrong.com/tag/coherent-blended-volition)

@@ -15,7 +15,7 @@ synchedAt: '2022-08-29T11:09:16.373Z'
 
 ## External links
 
-*   [slatestarcodex.com](http://slatestarcodex.com/)
-*   [/r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/) on [Reddit](https://www.lesswrong.com/tag/reddit)
-*   [Discord](https://discordapp.com/invite/gpaTCxh) [chat](https://wiki.lesswrong.com/wiki/Chat)
-*   [Account on](https://twitter.com/slatestarcodex/) [Twitter](https://www.lesswrong.com/tag/twitter)
+- [slatestarcodex.com](http://slatestarcodex.com/)
+- [/r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/) on [Reddit](https://www.lesswrong.com/tag/reddit)
+- [Discord](https://discordapp.com/invite/gpaTCxh) [chat](https://wiki.lesswrong.com/wiki/Chat)
+- [Account on](https://twitter.com/slatestarcodex/) [Twitter](https://www.lesswrong.com/tag/twitter)

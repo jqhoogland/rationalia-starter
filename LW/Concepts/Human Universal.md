@@ -23,18 +23,18 @@ Donald E. Brown has compiled a list of [over a hundred human universals](http://
 
 ## Blog posts
 
-*   [The Psychological Unity of Humankind](http://lesswrong.com/lw/rl/the_psychological_unity_of_humankind/) by [[Eliezer Yudkowsky]]
-*   [Humans in Funny Suits](http://lesswrong.com/lw/so/humans_in_funny_suits/) by [[Eliezer Yudkowsky]]
+- [The Psychological Unity of Humankind](http://lesswrong.com/lw/rl/the_psychological_unity_of_humankind/) by [[Eliezer Yudkowsky]]
+- [Humans in Funny Suits](http://lesswrong.com/lw/so/humans_in_funny_suits/) by [[Eliezer Yudkowsky]]
 
 ## External links
 
-*   [Human universals](http://condor.depaul.edu/~mfiddler/hyphen/humunivers.htm) by [Donald E. Brown](https://wiki.lesswrong.com/wiki/Donald_E._Brown)
+- [Human universals](http://condor.depaul.edu/~mfiddler/hyphen/humunivers.htm) by [Donald E. Brown](https://wiki.lesswrong.com/wiki/Donald_E._Brown)
 
 ## See also
 
-*   [[Evolutionary Psychology|Evolutionary psychology]]
-*   [[Typical Mind Fallacy|Typical mind fallacy]]
-*   [[Anthropomorphism]]
-*   [[Complexity of Value|Complexity of value]], [[Fake Simplicity|fake simplicity]]
-*   [[Alien Values|Alien values]]
-*   [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|paperclip maximizer]]
+- [[Evolutionary Psychology|Evolutionary psychology]]
+- [[Typical Mind Fallacy|Typical mind fallacy]]
+- [[Anthropomorphism]]
+- [[Complexity of Value|Complexity of value]], [[Fake Simplicity|fake simplicity]]
+- [[Alien Values|Alien values]]
+- [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|paperclip maximizer]]

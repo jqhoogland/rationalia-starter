@@ -23,13 +23,13 @@ Of these, "Map and Territory," "Mysterious Answers to Mysterious Questions," "Ho
 
 The Sequences have been converted to eReader-compatible formats by several projects.
 
-*   [Print ready versions](http://jb55.com/lesswrong/) by jb55 ([GitHub](https://github.com/jb55/lesswrong-print)). Has versions in Markdown, PDF, and ePub. ePubs can be converted to nearly any other format with [calibre](http://calibre-ebook.com/).
-*   [lw2ebook](http://dl.dropbox.com/u/4907943/sequences_ebooks.zip) by OneWhoFrogs ([GitHub](https://github.com/OneWhoFrogs/lw2ebook)). Includes all sequences in ePub and mobi formats.
-*   [Sequences in EPub and MOBI formats](http://lesswrong.com/lw/72m/an_epub_of_eliezers_blog_posts/) by [ciphergoth](/user/ciphergoth)
-*   [PDF version](http://dato.github.com/lesswrong-bundle/) of most sequences in a single file. Has cross-reference support for internal links (PDF links or footnotes), and page size is appropriate for tablets.
-*   [Print ready versions](http://lesswrong.com/lw/319/print_ready_version_of_the_sequences/) by Jordan. Contains all posts of each sequence in one HTML file. \[Dead link.\]
-*   [Github](https://github.com/kespindler/scrapelw) ePub, mobi, rst, and html formats available here.
-*   [Living Luminously](https://github.com/weverett/LWSeq) in ePub, mobi and html.
+- [Print ready versions](http://jb55.com/lesswrong/) by jb55 ([GitHub](https://github.com/jb55/lesswrong-print)). Has versions in Markdown, PDF, and ePub. ePubs can be converted to nearly any other format with [calibre](http://calibre-ebook.com/).
+- [lw2ebook](http://dl.dropbox.com/u/4907943/sequences_ebooks.zip) by OneWhoFrogs ([GitHub](https://github.com/OneWhoFrogs/lw2ebook)). Includes all sequences in ePub and mobi formats.
+- [Sequences in EPub and MOBI formats](http://lesswrong.com/lw/72m/an_epub_of_eliezers_blog_posts/) by [ciphergoth](/user/ciphergoth)
+- [PDF version](http://dato.github.com/lesswrong-bundle/) of most sequences in a single file. Has cross-reference support for internal links (PDF links or footnotes), and page size is appropriate for tablets.
+- [Print ready versions](http://lesswrong.com/lw/319/print_ready_version_of_the_sequences/) by Jordan. Contains all posts of each sequence in one HTML file. \[Dead link.\]
+- [Github](https://github.com/kespindler/scrapelw) ePub, mobi, rst, and html formats available here.
+- [Living Luminously](https://github.com/weverett/LWSeq) in ePub, mobi and html.
 
 Two abridged indexes of Yudkowsky's sequences are [XiXiDu's guide](http://lesswrong.com/r/discussion/lw/66u/rewriting_the_sequences/4cc0), or [Academian's guide](/user/Academian) targeted at people who already have a science background.
 

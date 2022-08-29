@@ -33,8 +33,8 @@ The following table is reproduced from Bostrom 2011 \[1\].
 
 ## See Also
 
-*   [Dangerous Knowledge](https://lessestwrong.com/tag/dangerous-knowledge)
-*   [Computation Hazards](https://wiki.lesswrong.com/wiki/Computation_Hazards)
+- [Dangerous Knowledge](https://lessestwrong.com/tag/dangerous-knowledge)
+- [Computation Hazards](https://wiki.lesswrong.com/wiki/Computation_Hazards)
 
 ## References
 

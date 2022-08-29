@@ -33,16 +33,16 @@ In informal discussion, people often talk about "updating" their priors. This is
 
 ## Blog posts
 
-*   [Priors as Mathematical Objects](http://lesswrong.com/lw/hk/priors_as_mathematical_objects/)
-*   ["Inductive Bias"](http://lesswrong.com/lw/hg/inductive_bias/)
-*   [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
-*   [Bead Jar Guesses](http://lesswrong.com/lw/em/bead_jar_guesses/) by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn) \- Applied scenario about forming priors.
+- [Priors as Mathematical Objects](http://lesswrong.com/lw/hk/priors_as_mathematical_objects/)
+- ["Inductive Bias"](http://lesswrong.com/lw/hg/inductive_bias/)
+- [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
+- [Bead Jar Guesses](http://lesswrong.com/lw/em/bead_jar_guesses/) by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn) \- Applied scenario about forming priors.
 
 ## See also
 
-*   [[Evidence]]
-*   [[Inductive Bias|Inductive bias]]
-*   [[Belief Update|Belief update]]
+- [[Evidence]]
+- [[Inductive Bias|Inductive bias]]
+- [[Belief Update|Belief update]]
 
 ## References
 

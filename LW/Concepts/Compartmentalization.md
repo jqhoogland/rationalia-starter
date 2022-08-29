@@ -19,11 +19,11 @@ One might even have excellent epistemological performance in one domain and terr
 
 ## See also
 
-*   [[Semantic Stopsign|Semantic stopsign]], [[Anti-Epistemology|Anti-epistemology]]
-*   [[Cached Thoughts|Cached thought]]
-*   [[Shut Up and Multiply|Shut up and multiply]], [[Bite The Bullet|Bite the bullet]], [[Absurdity Heuristic|Absurdity heuristic]]
-*   [[Dangerous Knowledge|Dangerous knowledge]]
-*   [[General Knowledge|General knowledge]], [[Understanding]]
-*   [[Alief]]
-*   [[Aversion|Ugh field]]
-*   [[Distinctions]]
+- [[Semantic Stopsign|Semantic stopsign]], [[Anti-Epistemology|Anti-epistemology]]
+- [[Cached Thoughts|Cached thought]]
+- [[Shut Up and Multiply|Shut up and multiply]], [[Bite The Bullet|Bite the bullet]], [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Dangerous Knowledge|Dangerous knowledge]]
+- [[General Knowledge|General knowledge]], [[Understanding]]
+- [[Alief]]
+- [[Aversion|Ugh field]]
+- [[Distinctions]]

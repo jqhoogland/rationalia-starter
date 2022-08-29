@@ -27,14 +27,14 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 
 [Jessica Taylor](https://www.lesswrong.com/users/jessica-liu-taylor) wrote two posts about daemons while at [[Machine Intelligence Research Institute (MIRI)|MIRI]]:
 
-*   ["Are daemons a problem for ideal agents?"](https://agentfoundations.org/item?id=1281) (2017-02-11)
-*   ["Maximally efficient agents will probably have an anti-daemon immune system"](https://agentfoundations.org/item?id=1290) (2017-02-23)
+- ["Are daemons a problem for ideal agents?"](https://agentfoundations.org/item?id=1281) (2017-02-11)
+- ["Maximally efficient agents will probably have an anti-daemon immune system"](https://agentfoundations.org/item?id=1290) (2017-02-23)
 
 ## See also
 
-*   [[Inner Alignment]]
-*   [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
-*   [Thou Art Godshatter](https://lessestwrong.com/lw/l3/thou_art_godshatter/)
+- [[Inner Alignment]]
+- [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
+- [Thou Art Godshatter](https://lessestwrong.com/lw/l3/thou_art_godshatter/)
 
 ## References
 
@@ -47,5 +47,5 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 
 Some posts that reference optimization daemons:
 
-*   ["Cause prioritization for downside-focused value systems"](http://effective-altruism.com/ea/1k4/draft_cause_prioritization_for_downsidefocused/): "Alternatively, perhaps goal preservation becomes more difficult the more capable AI systems become, in which case the future might be controlled by unstable goal functions taking turns over the steering wheel"
-*   ["Techniques for optimizing worst-case performance"](https://ai-alignment.com/techniques-for-optimizing-worst-case-performance-39eafec74b99): "The difficulty of optimizing worst-case performance is one of the most likely reasons that I think prosaic AI alignment might turn out to be impossible (if combined with an unlucky empirical situation)." (the phrase "unlucky empirical situation" links to the optimization daemons page on [Arbital](https://arbital.com/))
+- ["Cause prioritization for downside-focused value systems"](http://effective-altruism.com/ea/1k4/draft_cause_prioritization_for_downsidefocused/): "Alternatively, perhaps goal preservation becomes more difficult the more capable AI systems become, in which case the future might be controlled by unstable goal functions taking turns over the steering wheel"
+- ["Techniques for optimizing worst-case performance"](https://ai-alignment.com/techniques-for-optimizing-worst-case-performance-39eafec74b99): "The difficulty of optimizing worst-case performance is one of the most likely reasons that I think prosaic AI alignment might turn out to be impossible (if combined with an unlucky empirical situation)." (the phrase "unlucky empirical situation" links to the optimization daemons page on [Arbital](https://arbital.com/))

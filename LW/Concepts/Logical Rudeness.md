@@ -19,15 +19,15 @@ In the post [Logical Rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/), Y
 
 ## Blog posts
 
-*   [Logical rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/), in which [[Eliezer Yudkowsky]] broadens to the term to encompass other ways of breaking the flow of discussion, not just those which involve theories of justified dismissal.
-*   [You're Entitled to Arguments, But Not (That Particular) Proof](http://lesswrong.com/lw/1ph/youre_entitled_to_arguments_but_not_that/) and [Demands for Particular Proof: Appendices](http://lesswrong.com/lw/1rv/demands_for_particular_proof_appendices/)
+- [Logical rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/), in which [[Eliezer Yudkowsky]] broadens to the term to encompass other ways of breaking the flow of discussion, not just those which involve theories of justified dismissal.
+- [You're Entitled to Arguments, But Not (That Particular) Proof](http://lesswrong.com/lw/1ph/youre_entitled_to_arguments_but_not_that/) and [Demands for Particular Proof: Appendices](http://lesswrong.com/lw/1rv/demands_for_particular_proof_appendices/)
 
 ## External links
 
-*   [Logical Rudeness](http://www.earlham.edu/%7Epeters/writing/rudeness.htm) by Peter Suber
-*   [Estimation is the best we have](http://meteuphoric.wordpress.com/2010/12/20/estimation-is-the-best-we-have/) by Katja Grace
+- [Logical Rudeness](http://www.earlham.edu/%7Epeters/writing/rudeness.htm) by Peter Suber
+- [Estimation is the best we have](http://meteuphoric.wordpress.com/2010/12/20/estimation-is-the-best-we-have/) by Katja Grace
 
 ## See also
 
-*   [[Anti-Epistemology|Anti-epistemology]], [[Fully-General Counterargument|Fully general counterargument]]
-*   [[Semantic Stopsign|Semantic stopsign]]
+- [[Anti-Epistemology|Anti-epistemology]], [[Fully-General Counterargument|Fully general counterargument]]
+- [[Semantic Stopsign|Semantic stopsign]]

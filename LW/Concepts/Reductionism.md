@@ -15,8 +15,8 @@ synchedAt: '2022-08-29T10:59:59.299Z'
 
 ## See also
 
-*   [[Reductionism (Sequence)|Reductionism (sequence)]]
-*   [[Universal Law|Universal law]], [[Magic]]
-*   [[Mind Projection Fallacy|Mind projection fallacy]]
-*   [[How An Algorithm Feels|How an algorithm feels]]
-*   [[Free Will|Free will]]
+- [[Reductionism (Sequence)|Reductionism (sequence)]]
+- [[Universal Law|Universal law]], [[Magic]]
+- [[Mind Projection Fallacy|Mind projection fallacy]]
+- [[How An Algorithm Feels|How an algorithm feels]]
+- [[Free Will|Free will]]

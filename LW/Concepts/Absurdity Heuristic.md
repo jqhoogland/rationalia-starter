@@ -17,14 +17,14 @@ There are a number of situations in which the absurdity heuristic is wrong. A de
 
 ## See also
 
-*   [[Representativeness Heuristic|Representativeness heuristic]]
-*   [[Shut Up and Multiply|Shut up and multiply]]
-*   [[Antiprediction]]
-*   [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Exploratory Engineering|Exploratory engineering]]
-*   [[Illusion of Transparency|Illusion of transparency]]
-*   [[Status Quo Bias|Status quo bias]], [[Reversal Test|Reversal test]]
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Antiprediction]]
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Exploratory Engineering|Exploratory engineering]]
+- [[Illusion of Transparency|Illusion of transparency]]
+- [[Status Quo Bias|Status quo bias]], [[Reversal Test|Reversal test]]
 
 ## External References
 
-*   [Arbitrary Silliness](http://www.overcomingbias.com/2008/04/arbitrary-silli.html) by [[Robin Hanson]]
+- [Arbitrary Silliness](http://www.overcomingbias.com/2008/04/arbitrary-silli.html) by [[Robin Hanson]]

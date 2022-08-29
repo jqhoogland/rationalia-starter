@@ -21,15 +21,15 @@ Naive [causal decision theory](http://en.wikipedia.org/wiki/Causal_decision_theo
 
 ## Blog posts
 
-*   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular)
+- [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular)
 
 ## See also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Newcomb's Problem|Newcomb's problem]]
-*   [[Counterfactual Mugging|Counterfactual mugging]]
-*   [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
-*   [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-*   [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
-*   [[Prisoner's Dilemma|Prisoner's dilemma]]
-*   [[Pascal's Mugging|Pascal's mugging]]
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [[Counterfactual Mugging|Counterfactual mugging]]
+- [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
+- [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+- [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Pascal's Mugging|Pascal's mugging]]

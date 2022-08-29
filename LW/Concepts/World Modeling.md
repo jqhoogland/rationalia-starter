@@ -29,9 +29,9 @@ synchedAt: '2022-08-29T11:04:08.614Z'
 
 Properly considered, the overwhelming majority of content LessWrong is about *modeling how the world is*, including almost all posts on Rationality and all practical advice. The intended usage of World Modeling is to capture all content describing how the world is that is not captured by the more specific major tags of [[Rationality]], [[World Optimization]], and [[AI]].
 
-*   The [[Rationality]] tag is for content that is about *how the world is* in relation to how minds works and what one ought to do in order to reach true beliefs. The question for that category is *does this relate to how I ought to think?*
-*   The [[World Optimization]] tag is for content about *how the world is* which is relevant to choosing actions in a relatively immediate way. By this definition, it encompasses most posts discussing altruistic methods and targets, as well practical personal advice. The question for that category is *is this content motivated by the desire to optimize the world?*
-*   The [[AI]] tag is for content about *how the world is* which is relevant to questions of how advanced artificial intelligence will affect the world and how to ensure outcomes are good. The question is *does this help me make predictions about AI or ensure AI will have good outcomes?*
+- The [[Rationality]] tag is for content that is about *how the world is* in relation to how minds works and what one ought to do in order to reach true beliefs. The question for that category is *does this relate to how I ought to think?*
+- The [[World Optimization]] tag is for content about *how the world is* which is relevant to choosing actions in a relatively immediate way. By this definition, it encompasses most posts discussing altruistic methods and targets, as well practical personal advice. The question for that category is *is this content motivated by the desire to optimize the world?*
+- The [[AI]] tag is for content about *how the world is* which is relevant to questions of how advanced artificial intelligence will affect the world and how to ensure outcomes are good. The question is *does this help me make predictions about AI or ensure AI will have good outcomes?*
 
 If content warrants a no to all of the above questions, then it is likely to be both relatively pure world modeling (not about optimizing in any direct way) and not already covered by an existing major category. It is then a good fit for the World Modeling category. Stuff like math, science, history
 

@@ -15,7 +15,7 @@ synchedAt: '2022-08-29T11:05:28.154Z'
 
 [AllAmericanBreakfast suggests](https://www.lesswrong.com/posts/L6Ktf952cwdMJnzWm/motive-ambiguity?commentId=QLS75v2wdDHpo9CX3) that pica is like [[Goodhart's Law]], with the added [[Goodhart's Law|failure]] that the metric being maximized isn't even clearly related to the problem you're trying to solve, giving two examples:
 
-*   Evaluate your startup by the sheer effort you're putting in? That's Goodhart's Law. Evaluate it by [how cool the office looks](https://www.youtube.com/watch?v=zbKaPN-0NcM&ab_channel=LeslieKnopeRocks)? That's pica.
-*   Evaluate your relationship by the sheer amount of physical affection? That's Goodhart's Law. Evaluate it by how much misery you put each other through "for love?" That's pica
+- Evaluate your startup by the sheer effort you're putting in? That's Goodhart's Law. Evaluate it by [how cool the office looks](https://www.youtube.com/watch?v=zbKaPN-0NcM&ab_channel=LeslieKnopeRocks)? That's pica.
+- Evaluate your relationship by the sheer amount of physical affection? That's Goodhart's Law. Evaluate it by how much misery you put each other through "for love?" That's pica
 
 **Related Pages:** [[Akrasia]], [[Goodhart's Law]]

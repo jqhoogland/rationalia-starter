@@ -13,14 +13,14 @@ synchedAt: '2022-08-29T11:09:40.616Z'
 
 An **Evolutionary argument for human-level** [**AI**](https://wiki.lesswrong.com/wiki/AGI) is an argument that uses the fact that [[Evolution|evolution]] produced human level intelligence to argue for the feasibility of human-level [AI](https://wiki.lesswrong.com/wiki/AGI)[^1^](#fn1). Evolution is an extremely slow, random and erratic process, sometimes compared to a drunkard’s walk [^2^](#fn2) or a "fickle, and tightly shackled tinkerer"[^3^](#fn3). It has, however, produced human intelligence in this manner, so intelligent humans with a plan should produce it much faster. Bostrom and Shulman[^4^](#fn4) formalize the many steps of the argument for non-hard human level AI as follows: "
 
-*   1’. Evolution produced human intelligence.
-*   2’. If evolution produced human intelligence, then it is “non-hard” for evolutionary processes to produce human intelligence.
-*   3’. If it is “non-hard” for evolutionary processes to produce human evolution, then it is not extremely difficult for engineers to produce human-level machine intelligence.
-*   4’. If it is not extremely difficult for engineers to produce human-level machine intelligence, it will probably be done before too long.
+- 1’. Evolution produced human intelligence.
+- 2’. If evolution produced human intelligence, then it is “non-hard” for evolutionary processes to produce human intelligence.
+- 3’. If it is “non-hard” for evolutionary processes to produce human evolution, then it is not extremely difficult for engineers to produce human-level machine intelligence.
+- 4’. If it is not extremely difficult for engineers to produce human-level machine intelligence, it will probably be done before too long.
 
 \_\_\_\_\_\_\_\_\_
 
-*   5’. Engineers will (before long) produce human-level machine intelligence."
+- 5’. Engineers will (before long) produce human-level machine intelligence."
 
 There are variations of this argument, some argue for the easily feasibility of human level AI through the use of [[Evolutionary Algorithm|evolutionary algorithms]]. These arguments use estimates on the total amount of computational power needed to simulate the entire evolution of human level intelligence and argue such level of computational power is well within range. Bostrom and Shulman[^5^](#fn5) argue that, in fact, it would take more than a century of Moore’s Law progress in order to match the entire evolution of intelligence computational powers. They also make a careful analysis of Evolutionary argument for human-level AI considering [[Observation Selection Effect|observational selection effects]].
 

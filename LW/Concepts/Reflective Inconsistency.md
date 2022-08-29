@@ -33,9 +33,9 @@ Non-example:
 
 ## Related blog posts
 
-*   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular/)
-*   [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
+- [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular/)
+- [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
 
 ## See also
 
-*   [Dynamic inconsistency](https://wiki.lesswrong.com/wiki/Dynamic_inconsistency)
+- [Dynamic inconsistency](https://wiki.lesswrong.com/wiki/Dynamic_inconsistency)

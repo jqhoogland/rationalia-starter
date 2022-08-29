@@ -19,37 +19,37 @@ A typical subject for the game might be "How much maize is produced in Mexico an
 
 ## Rules
 
-*   Select player roles. In person, each player receives or selects a card from a pack of role cards. For 4 players, create a pack of role cards by combining 3 black cards with 1 red card. For 4-6 players there should be 1 red card and the rest black with the rest being enough for one card per person. For 7-9 players, 2 red cards. Some variants include a role named the Advocate, which you can designate one of the black cards to represent.
+- Select player roles. In person, each player receives or selects a card from a pack of role cards. For 4 players, create a pack of role cards by combining 3 black cards with 1 red card. For 4-6 players there should be 1 red card and the rest black with the rest being enough for one card per person. For 7-9 players, 2 red cards. Some variants include a role named the Advocate, which you can designate one of the black cards to represent.
 
 Simplest variant
 
-*   Each player receives a role. No advocate.
-*   A question is asked.
-*   Players discuss for 20 minutes, then write down their individual response on a card.
-*   The answer is researched.
-*   Scores are assigned.
+- Each player receives a role. No advocate.
+- A question is asked.
+- Players discuss for 20 minutes, then write down their individual response on a card.
+- The answer is researched.
+- Scores are assigned.
 
 Advocate variant, #1
 
-*   Each player receives a role. One advocate in the deck. The player who receives the Advocate displays it to the group.
-*   A question is asked.
-*   Players discuss for 20 minutes, attempting to convince the advocate. The advocate writes down their response on a card. This is the group's answer.
-*   The answer is researched, scores are assigned.
+- Each player receives a role. One advocate in the deck. The player who receives the Advocate displays it to the group.
+- A question is asked.
+- Players discuss for 20 minutes, attempting to convince the advocate. The advocate writes down their response on a card. This is the group's answer.
+- The answer is researched, scores are assigned.
 
 Advocate variant, #2
 
-*   Each player receives a role. One advocate in the deck. No player may display their card.
-*   A question is asked.
-*   Players discuss for 20 minutes. Anyone may say anything. At the end, the advocate writes down what they think the group's response is on a card, and the group is scored for this.
-*   Answer researched, scores assigned.
+- Each player receives a role. One advocate in the deck. No player may display their card.
+- A question is asked.
+- Players discuss for 20 minutes. Anyone may say anything. At the end, the advocate writes down what they think the group's response is on a card, and the group is scored for this.
+- Answer researched, scores assigned.
 
 Variation-by-argument variant
 
-*   Each player receives a role. No advocate. No player may display their card.
-*   A question is asked.
-*   Players have 2-5 minutes to write down their initial, individual estimate.
-*   Players discuss for 20 minutes. Anyone may say anything. At the end, players write their revised estimates on their card.
-*   Players are scored based on their delta -- the more you go toward the correct answer from your initial estimate, the more points.
+- Each player receives a role. No advocate. No player may display their card.
+- A question is asked.
+- Players have 2-5 minutes to write down their initial, individual estimate.
+- Players discuss for 20 minutes. Anyone may say anything. At the end, players write their revised estimates on their card.
+- Players are scored based on their delta -- the more you go toward the correct answer from your initial estimate, the more points.
 
 Southern California Variant #1
 
@@ -67,13 +67,13 @@ To make this easier there is now a tentative file format for representing a game
 
 ## Blog posts
 
-*   [Selecting Rationalist Groups](http://lesswrong.com/lw/77/selecting_rationalist_groups/) \- Description and account of the game.
-*   [The First London Rationalist Meetup](http://lesswrong.com/lw/7r/the_first_london_rationalist_meetup/) by [taw](https://wiki.lesswrong.com/wiki/taw) \- An account of the game.
+- [Selecting Rationalist Groups](http://lesswrong.com/lw/77/selecting_rationalist_groups/) \- Description and account of the game.
+- [The First London Rationalist Meetup](http://lesswrong.com/lw/7r/the_first_london_rationalist_meetup/) by [taw](https://wiki.lesswrong.com/wiki/taw) \- An account of the game.
 
 ## See also
 
-*   [[Group Rationality|Group rationality]]
-*   [[Less Wrong Meetup Group Resources|Less Wrong meetup group resources]]
-*   [[Bayesian Probability|Bayesian probability]]
-*   [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
-*   [[Calibration]]
+- [[Group Rationality|Group rationality]]
+- [[Less Wrong Meetup Group Resources|Less Wrong meetup group resources]]
+- [[Bayesian Probability|Bayesian probability]]
+- [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
+- [[Calibration]]

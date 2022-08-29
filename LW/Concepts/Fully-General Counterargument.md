@@ -17,11 +17,11 @@ Knowledge of cognitive biases can itself allow someone to form fully general cou
 
 ## Blog posts
 
-*   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
-*   [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
+- [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
+- [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
 
 ## See also
 
-*   [[Dangerous Knowledge|Dangerous knowledge]]
-*   [[Anti-Epistemology|Anti-epistemology]]
-*   [[Motivated Reasoning|Motivated cognition]]
+- [[Dangerous Knowledge|Dangerous knowledge]]
+- [[Anti-Epistemology|Anti-epistemology]]
+- [[Motivated Reasoning|Motivated cognition]]

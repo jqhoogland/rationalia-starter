@@ -15,6 +15,6 @@ synchedAt: '2022-08-29T11:05:16.276Z'
 
 Related:
 
-*   Communication
-*   Communication Cultures
-*   Circling
+- Communication
+- Communication Cultures
+- Circling

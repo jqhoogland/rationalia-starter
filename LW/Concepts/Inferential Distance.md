@@ -25,13 +25,13 @@ There is a short inferential distance between you and the physicist; there is a 
 
 ## External Links
 
-*   [Why It's Hard to Explain Things: Inferential Distance](http://everydayutilitarian.com/essays/why-its-hard-to-explain-things-inferential-distance/) by Peter Hurford
-*   [How all human communication fails, except by accident, or a commentary of Wiio's laws](https://jkorpela.fi/wiio.html)
+- [Why It's Hard to Explain Things: Inferential Distance](http://everydayutilitarian.com/essays/why-its-hard-to-explain-things-inferential-distance/) by Peter Hurford
+- [How all human communication fails, except by accident, or a commentary of Wiio's laws](https://jkorpela.fi/wiio.html)
 
 ## See Also
 
-*   [General knowledge](https://lessestwrong.com/tag/general-knowledge)
-*   [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
-*   [Illusion of transparency](https://lessestwrong.com/tag/illusion-of-transparency)
-*   [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
-*   [[Common Knowledge]]
+- [General knowledge](https://lessestwrong.com/tag/general-knowledge)
+- [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
+- [Illusion of transparency](https://lessestwrong.com/tag/illusion-of-transparency)
+- [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
+- [[Common Knowledge]]

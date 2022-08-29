@@ -15,15 +15,15 @@ The term **hedonism** refers to a set of philosophies which hold that the highes
 
 ## Blog posts
 
-*   [The Domain of Your Utility Function](http://lesswrong.com/lw/116/the_domain_of_your_utility_function/) by [Peter de Blanc](https://wiki.lesswrong.com/wiki/Peter_de_Blanc)
+- [The Domain of Your Utility Function](http://lesswrong.com/lw/116/the_domain_of_your_utility_function/) by [Peter de Blanc](https://wiki.lesswrong.com/wiki/Peter_de_Blanc)
 
 ## See also
 
-*   [[Utilitarianism]]
-*   [[Shut Up and Multiply|Shut up and multiply]]
-*   [[Utility Functions|Utility function]]
-*   [Wanting and liking](https://www.lesswrong.com/tag/wanting-and-liking)
-*   [[Complexity of Value|Complexity of value]]
-*   [[Wireheading]]
-*   [[Abolitionism]]
-*   [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
+- [[Utilitarianism]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Utility Functions|Utility function]]
+- [Wanting and liking](https://www.lesswrong.com/tag/wanting-and-liking)
+- [[Complexity of Value|Complexity of value]]
+- [[Wireheading]]
+- [[Abolitionism]]
+- [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)

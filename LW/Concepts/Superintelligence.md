@@ -23,16 +23,16 @@ The development of superintelligence from humans is another possibility, sometim
 
 ## Blog Posts
 
-*   [Superintelligence](http://www.acceleratingfuture.com/articles/superintelligencehowsoon.htm) by Michael Anissimov
+- [Superintelligence](http://www.acceleratingfuture.com/articles/superintelligencehowsoon.htm) by Michael Anissimov
 
 ## External Links
 
-*   [How long before Superintelligence?](http://www.nickbostrom.com/superintelligence.html) by Nick Bostrom
-*   [A discussion between Hugo de Garis and Ben Goertzel on superintelligence](http://profhugodegaris.files.wordpress.com/2011/04/nocyborgsbghugo.pdf)
-*   [Advantages of Artificial Intelligences, Uploads, And Digital Minds](http://www.xuenay.net/Papers/DigitalAdvantages.pdf) by Kaj Sotala
+- [How long before Superintelligence?](http://www.nickbostrom.com/superintelligence.html) by Nick Bostrom
+- [A discussion between Hugo de Garis and Ben Goertzel on superintelligence](http://profhugodegaris.files.wordpress.com/2011/04/nocyborgsbghugo.pdf)
+- [Advantages of Artificial Intelligences, Uploads, And Digital Minds](http://www.xuenay.net/Papers/DigitalAdvantages.pdf) by Kaj Sotala
 
 ## See Also
 
-*   [[Brain-Computer Interfaces|Brain-computer interfaces]]
-*   [[Singularity]]
-*   [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
+- [[Brain-Computer Interfaces|Brain-computer interfaces]]
+- [[Singularity]]
+- [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)

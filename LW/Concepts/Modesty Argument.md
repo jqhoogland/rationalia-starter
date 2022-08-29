@@ -17,16 +17,16 @@ The Modesty Argument is inspired by [[Aumann's Agreement Theorem|Aumann's agreem
 
 ## Blog posts
 
-*   [The Modesty Argument](http://lesswrong.com/lw/gr/the_modesty_argument/)
-*   [Does the Modesty Argument Apply to Moral Claims?](http://www.overcomingbias.com/2006/12/does_the_modest.html) by Paul Gowder
-*   [Modesty in a Disagreeable World](http://www.overcomingbias.com/2006/12/modesty_in_a_di.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
-*   [Philosophical Majoritarianism](http://www.overcomingbias.com/2007/03/on_majoritarian.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
-*   [How to use "philosophical majoritarianism"](http://lesswrong.com/lw/es/how_to_use_philisophical_majoritarianism/) by jimmy
+- [The Modesty Argument](http://lesswrong.com/lw/gr/the_modesty_argument/)
+- [Does the Modesty Argument Apply to Moral Claims?](http://www.overcomingbias.com/2006/12/does_the_modest.html) by Paul Gowder
+- [Modesty in a Disagreeable World](http://www.overcomingbias.com/2006/12/modesty_in_a_di.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
+- [Philosophical Majoritarianism](http://www.overcomingbias.com/2007/03/on_majoritarian.html) by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(cypherpunk))
+- [How to use "philosophical majoritarianism"](http://lesswrong.com/lw/es/how_to_use_philisophical_majoritarianism/) by jimmy
 
 ## See also
 
-*   [[Humility|Modesty]]
-*   [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
-*   [[Disagreement]]
-*   [[Error of Crowds|Error of crowds]]
-*   [[Information Cascades|Information cascade]]
+- [[Humility|Modesty]]
+- [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
+- [[Disagreement]]
+- [[Error of Crowds|Error of crowds]]
+- [[Information Cascades|Information cascade]]

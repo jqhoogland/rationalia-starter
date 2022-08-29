@@ -16,8 +16,8 @@ This sequence is a (chronological) series of chatroom conversation logs about ar
 
 Short summaries of each post, and links to audio versions, are available [here](https://intelligence.org/late-2021-miri-conversations/). There are also two related posts released shortly before this sequence:
 
-*   [Discussion with Eliezer Yudkowsky on AGI Interventions](https://www.lesswrong.com/posts/CpvyhFy9WvCNsifkY/discussion-with-eliezer-yudkowsky-on-agi-interventions)
-*   [Comments \[by Nate Soares\] on Joe Carlsmith's "Is power-seeking AI an existential risk?"](https://www.lesswrong.com/posts/cCMihiwtZx7kdcKgt/comments-on-carlsmith-s-is-power-seeking-ai-an-existential)
+- [Discussion with Eliezer Yudkowsky on AGI Interventions](https://www.lesswrong.com/posts/CpvyhFy9WvCNsifkY/discussion-with-eliezer-yudkowsky-on-agi-interventions)
+- [Comments \[by Nate Soares\] on Joe Carlsmith's "Is power-seeking AI an existential risk?"](https://www.lesswrong.com/posts/cCMihiwtZx7kdcKgt/comments-on-carlsmith-s-is-power-seeking-ai-an-existential)
 
 Rob Bensinger edited and posted this sequence, and Matthew Graves helped with much of the formatting.
 

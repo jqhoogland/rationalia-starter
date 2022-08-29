@@ -19,11 +19,11 @@ It's a bit tricky to define. The book [Secular Wholeness](https://www.amazon.com
 
 Two key questions relating to ritual and rationality are:
 
-*   How can we capture the value of ritual, without incurring epistemic risk?
-*   Can rituals be actively helpful for rationality?
+- How can we capture the value of ritual, without incurring epistemic risk?
+- Can rituals be actively helpful for rationality?
 
 **Sequences:**
 
-*   [Rational Ritual](https://www.lesswrong.com/s/3bbvzoRA8n6ZgbiyK) by [Raemon](https://www.lesswrong.com/users/raemon)
+- [Rational Ritual](https://www.lesswrong.com/s/3bbvzoRA8n6ZgbiyK) by [Raemon](https://www.lesswrong.com/users/raemon)
 
 **Related Pages:** [[Secular Solstice]], [[Petrov Day]], [[Grieving]], [[Marriage]], [[Religion]], [[Art]], [[Music]], [[Poetry]], [[Meditation]], [[Circling]]

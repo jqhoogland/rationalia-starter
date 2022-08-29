@@ -27,12 +27,12 @@ Parallel with an exploration implementation, it is still necessary to chose the 
 
 ## Further Reading & References
 
-*   Sutton, Richard S.; Barto, Andrew G. (1998). [Reinforcement Learning: An Introduction](http://129.2.53.113/~poeppel/dp_papers/ivry_rev.pdf). MIT Press. ISBN 0-262-19398-1.
-*   Kaelbling, L. P. , Littman, M. L. , Moore, A. W. (1996). [Reinforcement Learning: A Survey](http://arxiv.org/pdf/cs/9605103v1.pdf). Journal of Artificial Intelligence Research, Vol 4, (1996), 237-285
+- Sutton, Richard S.; Barto, Andrew G. (1998). [Reinforcement Learning: An Introduction](http://129.2.53.113/~poeppel/dp_papers/ivry_rev.pdf). MIT Press. ISBN 0-262-19398-1.
+- Kaelbling, L. P. , Littman, M. L. , Moore, A. W. (1996). [Reinforcement Learning: A Survey](http://arxiv.org/pdf/cs/9605103v1.pdf). Journal of Artificial Intelligence Research, Vol 4, (1996), 237-285
 
 ## See Also
 
-*   [Machine learning](machine-learning)
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-*   [Game theory](game-theory)
-*   [Prediction](https://wiki.lesswrong.com/wiki/Prediction)
+- [Machine learning](machine-learning)
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [Game theory](game-theory)
+- [Prediction](https://wiki.lesswrong.com/wiki/Prediction)

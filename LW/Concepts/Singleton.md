@@ -21,10 +21,10 @@ Bostrom postulates the **singleton hypothesis**; Earth-originating life will eve
 
 ## See also
 
-*   [[Existential Risk|Existential risk]]
-*   [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]] artificial intelligence
+- [[Existential Risk|Existential risk]]
+- [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]] artificial intelligence
 
 ## References
 
-*   Nick Bostrom (2006). "[What is a Singleton?](http://www.nickbostrom.com/fut/singleton.html)". *Linguistic and Philosophical Investigations* **5** (2): 48-54.
-*   Nick Bostrom (2004). "[The Future of Human Evolution](http://www.nickbostrom.com/fut/evolution.html)". *Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing*: 339-371.
+- Nick Bostrom (2006). "[What is a Singleton?](http://www.nickbostrom.com/fut/singleton.html)". *Linguistic and Philosophical Investigations* **5** (2): 48-54.
+- Nick Bostrom (2004). "[The Future of Human Evolution](http://www.nickbostrom.com/fut/evolution.html)". *Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing*: 339-371.

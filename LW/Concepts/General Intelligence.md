@@ -37,24 +37,24 @@ One could cast this definition in a possible world vocabulary, intelligence is:
 
 How many more worlds have a higher preference then the one realized by the agent, less intelligent he is. How many more worlds have a lower preference than the one realized by the agent, more intelligent he is. (Or: How much smaller is the set of worlds at least as preferable as the one realized, more intelligent the agent is). How much less paths for realizing the desired world using fewer resources than those spent by the agent, more intelligent he is. And finally, in how many more domains the agent can be more efficiently optimal, more intelligent he is. Restating it, the intelligence of an agent is directly proportional to:
 
-*   (a) the numbers of worlds with lower preference than the one realized,
-*   (b) how much smaller is the set of paths more efficient than the one taken by the agent and
-*   (c) how more wider are the domains where the agent can effectively realize his preferences;
+- (a) the numbers of worlds with lower preference than the one realized,
+- (b) how much smaller is the set of paths more efficient than the one taken by the agent and
+- (c) how more wider are the domains where the agent can effectively realize his preferences;
 
 and it is, accordingly, inversely proportional to:
 
-*   (d) the numbers of world with higher preference than the one realized,
-*   (e) how much bigger is the set of paths more efficient than the one taken by the agent and
-*   (f) how much more narrow are the domains where the agent can efficiently realize his preferences.
+- (d) the numbers of world with higher preference than the one realized,
+- (e) how much bigger is the set of paths more efficient than the one taken by the agent and
+- (f) how much more narrow are the domains where the agent can efficiently realize his preferences.
 
 This definition avoids several problems common in many others definitions, especially it avoids [anthropomorphizing](https://lessestwrong.com/tag/anthropomorphism) intelligence.
 
 ## See Also
 
-*   [Optimization process](https://lessestwrong.com/tag/optimization)
-*   [Decision theory](https://lessestwrong.com/tag/decision-theory)
-*   [Rationality](https://lessestwrong.com/tag/rationality)
-*   [Legg and Hutter paper “Universal Intelligence: A Deﬁnition of Machine Intelligence”](http://arxiv.org/pdf/0712.3329.pdf)
+- [Optimization process](https://lessestwrong.com/tag/optimization)
+- [Decision theory](https://lessestwrong.com/tag/decision-theory)
+- [Rationality](https://lessestwrong.com/tag/rationality)
+- [Legg and Hutter paper “Universal Intelligence: A Deﬁnition of Machine Intelligence”](http://arxiv.org/pdf/0712.3329.pdf)
 
 1.  ^**[^](#fnrefosnb04qur8)**^
     

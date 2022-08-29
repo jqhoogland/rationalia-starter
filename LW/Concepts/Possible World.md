@@ -15,5 +15,5 @@ In philosophy, a **possible world** is one that is internally consistent, even i
 
 ## See also
 
-*   [[Impossible World|Impossible world]]
-*   [[Least Convenient Possible World|Least convenient possible world]]
+- [[Impossible World|Impossible world]]
+- [[Least Convenient Possible World|Least convenient possible world]]

@@ -4,6 +4,7 @@
 - [[Best of LessWrong]]
 - [[Rationality— A-Z]]
 - [[The Codex]]
+- [[HPMOR]]
 
 
 See [[Books]].

@@ -15,16 +15,16 @@ synchedAt: '2022-08-29T11:05:12.713Z'
 
 ## See also
 
-*   [[Groupthink]], [[Affective Death Spiral|Affective death spiral]]
-*   [[Belief In Belief|Belief in belief]], [[Improper Belief|improper belief]]
-*   [[Epistemic Hygiene|Epistemic hygiene]]
-*   [[Truth, Semantics, & Meaning|Truth]]
-*   [[Rationalization]], [[Self-Deception|self-deception]]
-*   [[Magic]], [[Fake Simplicity|fake simplicity]]
-*   [[Absurdity Heuristic|Absurdity heuristic]]
-*   [Third alternative](https://wiki.lesswrong.com/wiki/Third_alternative)
-*   [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
+- [[Groupthink]], [[Affective Death Spiral|Affective death spiral]]
+- [[Belief In Belief|Belief in belief]], [[Improper Belief|improper belief]]
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Truth, Semantics, & Meaning|Truth]]
+- [[Rationalization]], [[Self-Deception|self-deception]]
+- [[Magic]], [[Fake Simplicity|fake simplicity]]
+- [[Absurdity Heuristic|Absurdity heuristic]]
+- [Third alternative](https://wiki.lesswrong.com/wiki/Third_alternative)
+- [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
 
 ## External links
 
-*   [BHTV: Yudkowsky & Adam Frank on "religious experience"](http://bloggingheads.tv/diavlogs/18501)
+- [BHTV: Yudkowsky & Adam Frank on "religious experience"](http://bloggingheads.tv/diavlogs/18501)

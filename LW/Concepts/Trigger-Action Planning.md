@@ -17,5 +17,5 @@ After it was clear that TAPs should be heavily applied to cognitive motions/thou
 
 ## **Resources**
 
-*   The CFAR Participant Handbook \[1\] contains a chapter on TAPs.
-*   Brienne Yudkowsky's writings on the topic of Noticing, found mostly at her blog \[[1](https://agentyduck.blogspot.com/search?q=noticing)\], are particularly good material related to training TAPs.
+- The CFAR Participant Handbook \[1\] contains a chapter on TAPs.
+- Brienne Yudkowsky's writings on the topic of Noticing, found mostly at her blog \[[1](https://agentyduck.blogspot.com/search?q=noticing)\], are particularly good material related to training TAPs.

@@ -35,10 +35,10 @@ Finally, Goertzel feels that it seems like CEV bypasses an essential aspect of b
 
 ## See also
 
-*   [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-*   [[Coherent Extrapolated Volition]]
-*   [[Utility Functions]]
+- [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
+- [[Coherent Extrapolated Volition]]
+- [[Utility Functions]]
 
 ## References
 
-*   Goertzel, Ben (2010) [Coherent Aggregated Volition: A Method for Deriving Goal System Content for Advanced, Beneficial AGIs](http://multiverseaccordingtoben.blogspot.com/2010/03/coherent-aggregated-volition-toward.html) [Consistency Measurement](http://www.aquar-system.com/catalog/pulp-consistency-measurement-and-control/)
+- Goertzel, Ben (2010) [Coherent Aggregated Volition: A Method for Deriving Goal System Content for Advanced, Beneficial AGIs](http://multiverseaccordingtoben.blogspot.com/2010/03/coherent-aggregated-volition-toward.html) [Consistency Measurement](http://www.aquar-system.com/catalog/pulp-consistency-measurement-and-control/)

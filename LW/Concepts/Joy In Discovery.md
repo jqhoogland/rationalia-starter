@@ -15,9 +15,9 @@ synchedAt: '2022-08-29T11:13:25.805Z'
 
 ## Blog posts
 
-*   [Joy in Discovery](http://lesswrong.com/lw/os/joy_in_discovery/)
+- [Joy in Discovery](http://lesswrong.com/lw/os/joy_in_discovery/)
 
 ## See also
 
-*   [[Reductionism (Sequence)|Reductionism (sequence)]], [[Joy In The Merely Real|Joy in the Merely Real]]
-*   [[Fun Theory|Fun theory]]
+- [[Reductionism (Sequence)|Reductionism (sequence)]], [[Joy In The Merely Real|Joy in the Merely Real]]
+- [[Fun Theory|Fun theory]]

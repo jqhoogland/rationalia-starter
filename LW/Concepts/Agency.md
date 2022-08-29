@@ -17,4 +17,4 @@ One might lack agency for internal reasons, e.g., one is a rock which has no goa
 
 ## See Also
 
-*   [[Robust Agents|Robust Agency]]
+- [[Robust Agents|Robust Agency]]

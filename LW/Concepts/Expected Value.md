@@ -17,9 +17,9 @@ The **expected value** or **expectation** is the (weighted) average of all the p
 
 ## See also
 
-*   [Probability](https://wiki.lesswrong.com/wiki/Probability)
-*   [[Expected Utility|Expected utility]]
+- [Probability](https://wiki.lesswrong.com/wiki/Probability)
+- [[Expected Utility|Expected utility]]
 
 ## External links
 
-*   [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
+- [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)

@@ -27,13 +27,13 @@ Non-physicalists use the apparent conceivability of p-zombies to argue that it i
 
 ## **External links**
 
-*   [Zombies](http://plato.stanford.edu/entries/zombies/), Stanford Encyclopedia of Philosophy
-*   [Zombies on the web](http://consc.net/zombies.html) by [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
+- [Zombies](http://plato.stanford.edu/entries/zombies/), Stanford Encyclopedia of Philosophy
+- [Zombies on the web](http://consc.net/zombies.html) by [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
 
   
 
 ## **See also**
 
-*   Tags: [[Consciousness]]
-*   Sequences: [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo)
-*   Wiki pages: [[How An Algorithm Feels|How an algorithm feels]], [Making beliefs pay rent‎](https://wiki.lesswrong.com/wiki/Making_beliefs_pay_rent%E2%80%8E)
+- Tags: [[Consciousness]]
+- Sequences: [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo)
+- Wiki pages: [[How An Algorithm Feels|How an algorithm feels]], [Making beliefs pay rent‎](https://wiki.lesswrong.com/wiki/Making_beliefs_pay_rent%E2%80%8E)

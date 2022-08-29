@@ -17,6 +17,6 @@ This is relevant to LessWrong both because it seems to be generally an important
 
 See Also:
 
-*   [[War]]
-*   [[Nuclear War]]
-*   [[Existential Risk]]
+- [[War]]
+- [[Nuclear War]]
+- [[Existential Risk]]

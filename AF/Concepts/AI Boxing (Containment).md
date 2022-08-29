@@ -22,10 +22,10 @@ Escaping the box
 
 It is not regarded as likely that an AGI can be boxed in the long term. Since the AGI might be a [[Superintelligence|superintelligence]], it could persuade someone (the human liaison, most likely) to free it from its box and thus, human control. Some practical ways of achieving this goal include:
 
-*   Offering enormous wealth, power and intelligence to its liberator
-*   Claiming that only it can prevent an [[Existential Risk|existential risk]]
-*   Claiming it needs outside resources to cure all diseases
-*   Predicting a real-world disaster (which then occurs), then claiming it could have been prevented had it been let out
+- Offering enormous wealth, power and intelligence to its liberator
+- Claiming that only it can prevent an [[Existential Risk|existential risk]]
+- Claiming it needs outside resources to cure all diseases
+- Predicting a real-world disaster (which then occurs), then claiming it could have been prevented had it been let out
 
 Other, more speculative ways include: threatening to torture millions of conscious copies of you for thousands of years, starting in exactly the same situation as in such a way that it seems overwhelmingly likely that [[Simulation Argument|you are a simulation]], or it might discover and exploit unknown physics to free itself.
 
@@ -34,13 +34,13 @@ Containing the AGI
 
 Attempts to box an AGI may add some degree of safety to the development of a [friendly artificial intelligence](https://wiki.lesswrong.com/wiki/FAI) (FAI). A number of strategies for keeping an AGI in its box are discussed in [Thinking inside the box](http://www.aleph.se/papers/oracleAI.pdf) and [Leakproofing the Singularity](http://dl.dropbox.com/u/5317066/2012-yampolskiy.pdf). Among them are:
 
-*   Physically isolating the AGI and permitting it zero control of any machinery
-*   Limiting the AGI’s outputs and inputs with regards to humans
-*   Programming the AGI with deliberately convoluted logic or [homomorphically encrypting](http://en.wikipedia.org/wiki/Homomorphic_encryption) portions of it
-*   Periodic resets of the AGI's memory
-*   A virtual world between the real world and the AI, where its unfriendly intentions would be first revealed
-*   Motivational control using a variety of techniques
-*   Creating an [[Oracle AI]]: an AI that only answers questions and isn't designed to interact with the world in any other way. But even the act of the AI putting strings of text in front of humans poses some risk.
+- Physically isolating the AGI and permitting it zero control of any machinery
+- Limiting the AGI’s outputs and inputs with regards to humans
+- Programming the AGI with deliberately convoluted logic or [homomorphically encrypting](http://en.wikipedia.org/wiki/Homomorphic_encryption) portions of it
+- Periodic resets of the AGI's memory
+- A virtual world between the real world and the AI, where its unfriendly intentions would be first revealed
+- Motivational control using a variety of techniques
+- Creating an [[Oracle AI]]: an AI that only answers questions and isn't designed to interact with the world in any other way. But even the act of the AI putting strings of text in front of humans poses some risk.
 
 Simulations / Experiments
 =========================
@@ -53,17 +53,17 @@ The text of Eliezer's experiments have not been made public.
 
 ## List of experiments
 
-*   [The AI-Box Experiment](http://yudkowsky.net/singularity/aibox/) [[Eliezer Yudkowsky|Eliezer Yudkowsky's]] original two tests
-*   [Shut up and do the impossible!](https://www.lesswrong.com/lw/up/shut_up_and_do_the_impossible/), three other experiments Eliezer ran
-*   [AI Boxing](http://www.sl4.org/archive/0207/4935.html), 26 trials ran by Justin Corwin
-*   [AI Box Log](https://www.lesswrong.com/lw/9ld/ai_box_log/), a log of a trial between MileyCyrus and Dorikka
+- [The AI-Box Experiment](http://yudkowsky.net/singularity/aibox/) [[Eliezer Yudkowsky|Eliezer Yudkowsky's]] original two tests
+- [Shut up and do the impossible!](https://www.lesswrong.com/lw/up/shut_up_and_do_the_impossible/), three other experiments Eliezer ran
+- [AI Boxing](http://www.sl4.org/archive/0207/4935.html), 26 trials ran by Justin Corwin
+- [AI Box Log](https://www.lesswrong.com/lw/9ld/ai_box_log/), a log of a trial between MileyCyrus and Dorikka
 
 References
 ==========
 
-*   [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Stuart Armstrong, Anders Sandberg, and Nick Bostrom
-*   [Leakproofing the Singularity: Artificial Intelligence Confinement Problem](http://dl.dropbox.com/u/5317066/2012-yampolskiy.pdf) by Roman V. Yampolskiy
-*   [On the Difficulty of AI Boxing](http://ordinaryideas.wordpress.com/2012/04/27/on-the-difficulty-of-ai-boxing/) by Paul Christiano
-*   [Cryptographic Boxes for Unfriendly AI](https://www.lesswrong.com/lw/3cz/cryptographic_boxes_for_unfriendly_ai/) by Paul Christiano
-*   [The Strangest Thing An AI Could Tell You](https://www.lesswrong.com/r/lesswrong/lw/12s/the_strangest_thing_an_ai_could_tell_you/)
-*   [The AI in a box boxes you](https://www.lesswrong.com/lw/1pz/ai_in_box_boxes_you/)
+- [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Stuart Armstrong, Anders Sandberg, and Nick Bostrom
+- [Leakproofing the Singularity: Artificial Intelligence Confinement Problem](http://dl.dropbox.com/u/5317066/2012-yampolskiy.pdf) by Roman V. Yampolskiy
+- [On the Difficulty of AI Boxing](http://ordinaryideas.wordpress.com/2012/04/27/on-the-difficulty-of-ai-boxing/) by Paul Christiano
+- [Cryptographic Boxes for Unfriendly AI](https://www.lesswrong.com/lw/3cz/cryptographic_boxes_for_unfriendly_ai/) by Paul Christiano
+- [The Strangest Thing An AI Could Tell You](https://www.lesswrong.com/r/lesswrong/lw/12s/the_strangest_thing_an_ai_could_tell_you/)
+- [The AI in a box boxes you](https://www.lesswrong.com/lw/1pz/ai_in_box_boxes_you/)

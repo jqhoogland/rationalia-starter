@@ -33,21 +33,21 @@ To understand whether a belief is true, we need (only) to understand what possib
 
 ## Notable Posts
 
-*   [The Useful Idea of Truth](https://www.lesswrong.com/lw/eqn/the_useful_idea_of_truth/) \- A basic guide to what 'truth' means.
-*   [Why truth? And...](https://www.lesswrong.com/lw/go/why_truth_and/) \- You have an instrumental motive to care about the truth of your *beliefs about* anything you care about.
-*   [Guardians of the Truth](https://www.lesswrong.com/lw/lz/guardians_of_the_truth/) \- Endorsing a concept of truth is not the same as endorsing a particular belief as eternally, absolutely, knowably true.
-*   [Feeling Rational](https://www.lesswrong.com/lw/hp/feeling_rational/) \- Emotions cannot be true or false, but they can follow from true or false beliefs.
-*   [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/) \- In particular, the [[Litany of Tarski]].
-*   [Fake Norms, or "Truth" vs. Truth](https://www.lesswrong.com/lw/sf/fake_norms_or_truth_vs_truth/) \- Our society has a moral norm for applauding "truth", but actual truths get much less applause (this is a bad thing).
+- [The Useful Idea of Truth](https://www.lesswrong.com/lw/eqn/the_useful_idea_of_truth/) \- A basic guide to what 'truth' means.
+- [Why truth? And...](https://www.lesswrong.com/lw/go/why_truth_and/) \- You have an instrumental motive to care about the truth of your *beliefs about* anything you care about.
+- [Guardians of the Truth](https://www.lesswrong.com/lw/lz/guardians_of_the_truth/) \- Endorsing a concept of truth is not the same as endorsing a particular belief as eternally, absolutely, knowably true.
+- [Feeling Rational](https://www.lesswrong.com/lw/hp/feeling_rational/) \- Emotions cannot be true or false, but they can follow from true or false beliefs.
+- [The Meditation on Curiosity](https://www.lesswrong.com/lw/jz/the_meditation_on_curiosity/) \- In particular, the [[Litany of Tarski]].
+- [Fake Norms, or "Truth" vs. Truth](https://www.lesswrong.com/lw/sf/fake_norms_or_truth_vs_truth/) \- Our society has a moral norm for applauding "truth", but actual truths get much less applause (this is a bad thing).
 
 ## External links
 
-*   [The Simple Truth](http://yudkowsky.net/rational/the-simple-truth)
+- [The Simple Truth](http://yudkowsky.net/rational/the-simple-truth)
 
 ## See also
 
-*   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
-*   [[Litany of Tarski]], [[Litany of Gendlin]]
-*   [[Self-Deception|Self-deception]]
-*   [[Belief]]
-*   [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]
+- [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
+- [[Litany of Tarski]], [[Litany of Gendlin]]
+- [[Self-Deception|Self-deception]]
+- [[Belief]]
+- [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]

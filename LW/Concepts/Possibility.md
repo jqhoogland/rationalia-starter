@@ -15,16 +15,16 @@ Words in natural language carry [[Connotation|connotations]] that may become mis
 
 ## Blog posts
 
-*   [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
-*   [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/)
-*   [Lotteries: A Waste of Hope](http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/)
-*   [Risk-Free Bonds Aren't](http://lesswrong.com/lw/hy/riskfree_bonds_arent/)
+- [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
+- [Useless Medical Disclaimers](http://lesswrong.com/lw/h4/useless_medical_disclaimers/)
+- [Lotteries: A Waste of Hope](http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/)
+- [Risk-Free Bonds Aren't](http://lesswrong.com/lw/hy/riskfree_bonds_arent/)
 
 ## See also
 
-*   [[Impossibility]]
-*   [[Privileging The Hypothesis|Privileging the hypothesis]]
-*   [[Antiprediction]]
-*   [[Absolute Certainty|Absolute certainty]], [[Fallacy of Gray|Fallacy of gray]]
-*   [[Not Technically A Lie|Not technically a lie]]
-*   [[Lottery]], [[Hope]], [[Oops]]
+- [[Impossibility]]
+- [[Privileging The Hypothesis|Privileging the hypothesis]]
+- [[Antiprediction]]
+- [[Absolute Certainty|Absolute certainty]], [[Fallacy of Gray|Fallacy of gray]]
+- [[Not Technically A Lie|Not technically a lie]]
+- [[Lottery]], [[Hope]], [[Oops]]

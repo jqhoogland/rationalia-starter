@@ -15,12 +15,12 @@ A **Gödel machine** is an approach to [[Artificial General Intelligence]] that 
 
 Schmidhuber’s design consists of a *solver*, which attempts to solve the goals set for the machine, and a *searcher*, which has access to a set of axioms which completely describe the machine. One example design[^1^](#fn1) contains:
 
-*   **Hardware axioms** describing the hardware, formally specifying how certain components of the machine state (other than environmental inputs) may change from one cycle to the next.
-*   **Reward axioms** defining the computational costs of any hardware instruction, and physical costs of output actions, such as control signals.
-*   **Environment axioms** restricting the way the environment will produce new inputs in reaction to sequences of outputs.
-*   **Uncertainty axioms** (such as standard axioms of probability theory), **string manipulation axioms**.
-*   **Initial state axioms**, with information about how to reconstruct the initial state or parts thereof.
-*   **Utility axioms** describing the overall goal in the form of a utility function.
+- **Hardware axioms** describing the hardware, formally specifying how certain components of the machine state (other than environmental inputs) may change from one cycle to the next.
+- **Reward axioms** defining the computational costs of any hardware instruction, and physical costs of output actions, such as control signals.
+- **Environment axioms** restricting the way the environment will produce new inputs in reaction to sequences of outputs.
+- **Uncertainty axioms** (such as standard axioms of probability theory), **string manipulation axioms**.
+- **Initial state axioms**, with information about how to reconstruct the initial state or parts thereof.
+- **Utility axioms** describing the overall goal in the form of a utility function.
 
 The searcher may completely rewrite any part of the machine, provided that it can produce a formal proof showing that such a rewrite will further the system’s goals, and that no other re-write can be proved to be more useful in a reasonable amount of time. According to Schmidhuber, this approach is globally optimal and it will not get stuck at local optimals. This is because the machine has to prove that it is not more useful to continue the proof search for alternative self-rewrites that could be more useful than the one just found.
 
@@ -32,12 +32,12 @@ The Gödel machine is often compared with Marcus Hutter's [[AIXI]], another form
 
 ## External Links
 
-*   [Gödel Machine Homepage](http://www.idsia.ch/~juergen/goedelmachine.html) by Jürgen Schmidhuber
-*   [Summary of Gödel Machine](http://www.idsia.ch/~juergen/gmsummary.html) by Jürgen Schmidhuber
+- [Gödel Machine Homepage](http://www.idsia.ch/~juergen/goedelmachine.html) by Jürgen Schmidhuber
+- [Summary of Gödel Machine](http://www.idsia.ch/~juergen/gmsummary.html) by Jürgen Schmidhuber
 
 ## See Also
 
-*   [[Artificial General Intelligence]]
-*   [[Recursive Self-Improvement|Recursive self-improvement]]
-*   [[Seed AI]]
-*   [[AIXI]]
+- [[Artificial General Intelligence]]
+- [[Recursive Self-Improvement|Recursive self-improvement]]
+- [[Seed AI]]
+- [[AIXI]]

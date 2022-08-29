@@ -21,4 +21,4 @@ A version of the technique is described in [Double Crux – A Strategy for Resol
 
 ## See Also
 
-*   [Gleanings from Double Crux on “The Craft is Not The Community”](https://srconstantin.wordpress.com/2017/08/30/gleanings-from-double-crux-on-the-craft-is-not-the-community/) \- a writeup of Double-Crux being used in practice.
+- [Gleanings from Double Crux on “The Craft is Not The Community”](https://srconstantin.wordpress.com/2017/08/30/gleanings-from-double-crux-on-the-craft-is-not-the-community/) \- a writeup of Double-Crux being used in practice.

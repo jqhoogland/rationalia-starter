@@ -31,17 +31,17 @@ In December 2016, [[Anna Salamon]] described the procedure parenthetically at th
 
 ## See also
 
-*   [[Cfar Exercise Prize|CFAR Exercise Prize]] – Andrew Critch's Bayes game, described on this page, gives another technique for dealing with uncertainty in real-life situations
-*   [This page was shared on LessWrong](https://www.lesswrong.com/posts/mRsm8gibyuPWas7K5/gems-from-the-wiki-do-the-math-then-burn-the-math-and-go) as part of the "Gems from the Wiki" series
+- [[Cfar Exercise Prize|CFAR Exercise Prize]] – Andrew Critch's Bayes game, described on this page, gives another technique for dealing with uncertainty in real-life situations
+- [This page was shared on LessWrong](https://www.lesswrong.com/posts/mRsm8gibyuPWas7K5/gems-from-the-wiki-do-the-math-then-burn-the-math-and-go) as part of the "Gems from the Wiki" series
 
 ## References
 
 ## External links
 
-*   [A Facebook post by Julia Galef from May 2018 inquiring about this procedure](https://www.facebook.com/julia.galef/posts/10103884948339182)
-*   ["Why we can’t take expected value estimates literally (even when they’re unbiased)"](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) (August 2011) by [[GiveWell]] co-founder [[Holden Karnofsky]] makes a similar point: "It’s my view that my brain instinctively processes huge amounts of information, coming from many different reference classes, and arrives at a prior; if I attempt to formalize my prior, counting only what I can name and justify, I can worsen the accuracy a lot relative to going with my gut. Of course there is a problem here: going with one’s gut can be an excuse for going with what one wants to believe, and a lot of what enters into my gut belief could be irrelevant to proper Bayesian analysis. There is an appeal to formulas, which is that they seem to be susceptible to outsiders’ checking them for fairness and consistency."
-*   ["The Optimizer’s Curse & Wrong-Way Reductions"](https://confusopoly.com/2019/04/03/the-optimizers-curse-wrong-way-reductions/) by Christian Smith discusses similar issues
-*   [Verbal overshadowing](https://en.wikipedia.org/wiki/Verbal_overshadowing) page on Wikipedia
+- [A Facebook post by Julia Galef from May 2018 inquiring about this procedure](https://www.facebook.com/julia.galef/posts/10103884948339182)
+- ["Why we can’t take expected value estimates literally (even when they’re unbiased)"](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) (August 2011) by [[GiveWell]] co-founder [[Holden Karnofsky]] makes a similar point: "It’s my view that my brain instinctively processes huge amounts of information, coming from many different reference classes, and arrives at a prior; if I attempt to formalize my prior, counting only what I can name and justify, I can worsen the accuracy a lot relative to going with my gut. Of course there is a problem here: going with one’s gut can be an excuse for going with what one wants to believe, and a lot of what enters into my gut belief could be irrelevant to proper Bayesian analysis. There is an appeal to formulas, which is that they seem to be susceptible to outsiders’ checking them for fairness and consistency."
+- ["The Optimizer’s Curse & Wrong-Way Reductions"](https://confusopoly.com/2019/04/03/the-optimizers-curse-wrong-way-reductions/) by Christian Smith discusses similar issues
+- [Verbal overshadowing](https://en.wikipedia.org/wiki/Verbal_overshadowing) page on Wikipedia
 
 * * *
 

@@ -17,14 +17,14 @@ synchedAt: '2022-08-29T11:05:02.656Z'
 
 See also:
 
-*   [Inspirational](www.lesswrong.com/stub)
-*   CEV
-*   Utility Functions
-*   Elephant in the Brain by Simler and Hanson
-*   Signaling
-*   Multi-Agent Theories of Mind
-*   **Rationalization** is the act of finding reasons to support a desired conclusion rather than reasoning in ways which reach the true conclusion.
-*   **Motivated Cognition** is when one's thinking does not purely follow processes for generating truth, and are instead influenced by desires/motivation to reach certain conclusion.
+- [Inspirational](www.lesswrong.com/stub)
+- CEV
+- Utility Functions
+- Elephant in the Brain by Simler and Hanson
+- Signaling
+- Multi-Agent Theories of Mind
+- **Rationalization** is the act of finding reasons to support a desired conclusion rather than reasoning in ways which reach the true conclusion.
+- **Motivated Cognition** is when one's thinking does not purely follow processes for generating truth, and are instead influenced by desires/motivation to reach certain conclusion.
 
 ## Motivation and Belief
 
@@ -40,8 +40,8 @@ The Litanies of Gendlin and Tarsky \[links\] are often invoked to elicit feels w
 
 It is no secret that often the reasons people give for their actions and beliefs are probably not the real ones driving their behavior. Is that your real objection? The work of Hanson....Signaling...
 
-*   Act of Charity
-*   Player vs Character
+- Act of Charity
+- Player vs Character
 
 ## The Cognitive Science of Motivation
 
@@ -53,14 +53,14 @@ Related to the question of Motivation is subagents. Is one's overall self actual
 
 ## Aligning Motivations
 
-*   Overcoming akrasia...
+- Overcoming akrasia...
 
 ## Practical Techniques for Motivation
 
-*   Propagating Urges
-*   Mental Contrasting (external)
-*   Propagating Urges
-*   Internal Double Crux
+- Propagating Urges
+- Mental Contrasting (external)
+- Propagating Urges
+- Internal Double Crux
 
 Habitual Productivity and Nate's Writing
 

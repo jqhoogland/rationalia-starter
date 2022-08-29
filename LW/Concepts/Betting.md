@@ -43,9 +43,9 @@ However, Long Bets hasn't good incentives to make long term bets as explained by
 
 See also:
 
-*   [[Bets Registry|LessWiki Bets Registry]] (outdated)
+- [[Bets Registry|LessWiki Bets Registry]] (outdated)
 
 External links:
 
-*   [Risk aversion does not explain people's betting behaviours](https://www.lesswrong.com/posts/msf7BHMrWTczbQckh/risk-aversion-does-not-explain-people-s-betting-behaviours)
-*   [A method for fair bargaining over odds in 2 player bets!](https://www.lesswrong.com/posts/ABMMQ5gSGHwRgExJk/a-method-for-fair-bargaining-over-odds-in-2-player-bets)
+- [Risk aversion does not explain people's betting behaviours](https://www.lesswrong.com/posts/msf7BHMrWTczbQckh/risk-aversion-does-not-explain-people-s-betting-behaviours)
+- [A method for fair bargaining over odds in 2 player bets!](https://www.lesswrong.com/posts/ABMMQ5gSGHwRgExJk/a-method-for-fair-bargaining-over-odds-in-2-player-bets)

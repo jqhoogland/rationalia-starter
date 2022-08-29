@@ -35,25 +35,25 @@ Coming to fully grasp TDT requires an understanding of how the theory is formali
 
 ## Further Reading
 
-*   [A Comparison of Decision Algorithms on Newcomblike Problems](https://intelligence.org/files/Comparison.pdf), by Alex Altair
-*   [Problem Class Dominance in Predictive Dilemmas](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf), by Danny Hintze
+- [A Comparison of Decision Algorithms on Newcomblike Problems](https://intelligence.org/files/Comparison.pdf), by Alex Altair
+- [Problem Class Dominance in Predictive Dilemmas](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf), by Danny Hintze
 
 ## Notable Posts
 
-*   [Ingredients of Timeless Decision Theory](http://lesswrong.com/lw/15z/ingredients_of_timeless_decision_theory/)
-*   [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/)
-*   [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular/)
-*   [Decision theory: Why Pearl helps reduce "could" and "would", but still leaves us with at least three alternatives](http://lesswrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/) by [[Anna Salamon]]
+- [Ingredients of Timeless Decision Theory](http://lesswrong.com/lw/15z/ingredients_of_timeless_decision_theory/)
+- [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/)
+- [Timeless Decision Theory and Meta-Circular Decision Theory](http://lesswrong.com/lw/164/timeless_decision_theory_and_metacircular/)
+- [Decision theory: Why Pearl helps reduce "could" and "would", but still leaves us with at least three alternatives](http://lesswrong.com/lw/17b/decision_theory_why_pearl_helps_reduce_could_and/) by [[Anna Salamon]]
 
 ## External Links
 
-*   [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) (2010) by [[Eliezer Yudkowsky]]
-*   [An Introduction to Timeless Decision Theory](http://formalisedthinking.wordpress.com/2010/08/19/an-introduction-to-timeless-decision-theory/) at Formalised Thinking
+- [Timeless Decision Theory](http://intelligence.org/files/TDT.pdf) (2010) by [[Eliezer Yudkowsky]]
+- [An Introduction to Timeless Decision Theory](http://formalisedthinking.wordpress.com/2010/08/19/an-introduction-to-timeless-decision-theory/) at Formalised Thinking
 
 ## See Also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Newcomb's Problem|Newcomb's problem]]
-*   [[Causality]]
-*   [[Updateless Decision Theory|Updateless decision theory]]
-*   [[Rationality Is Systematized Winning|Rationality is systematized winning]]
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [[Causality]]
+- [[Updateless Decision Theory|Updateless decision theory]]
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]]

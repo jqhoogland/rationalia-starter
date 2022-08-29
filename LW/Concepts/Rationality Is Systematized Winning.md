@@ -15,14 +15,14 @@ The point of all this discussion of rationality is to actually achieve truer bel
 
 ## Blog posts
 
-*   [Something to Protect](http://lesswrong.com/lw/nb/something_to_protect/)
-*   [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
-*   [Rationality is Systematized Winning](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/)
-*   [Whining-Based Communities](http://lesswrong.com/lw/8t/whining_vs_winning/)
+- [Something to Protect](http://lesswrong.com/lw/nb/something_to_protect/)
+- [Newcomb's Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
+- [Rationality is Systematized Winning](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/)
+- [Whining-Based Communities](http://lesswrong.com/lw/8t/whining_vs_winning/)
 
 ## See also
 
-*   [[Rationality]]
-*   [[Challenging The Difficult|Challenging the Difficult]]
-*   [[Rationality Verification|Problem of verifying rationality]]
-*   [[Newcomb's Problem|Newcomb's problem]]
+- [[Rationality]]
+- [[Challenging The Difficult|Challenging the Difficult]]
+- [[Rationality Verification|Problem of verifying rationality]]
+- [[Newcomb's Problem|Newcomb's problem]]

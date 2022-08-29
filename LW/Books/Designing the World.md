@@ -13,9 +13,9 @@ synchedAt: '2022-08-29T10:40:16.042Z'
 
 # Designing the World
 
-# Sequences
+## Sequences
 
+- [[Politics and Pragmatics (Sequence)]]
 - [[Economics and Efficiency (Sequence)]]
-- [[Community and Cooperation (Sequence)]]
 - [[Futurism and Forecasting (Sequence)]]
-- [[Parables and Prayers (Sequence)]]
+- [[Community and Cooperation (Sequence)]]

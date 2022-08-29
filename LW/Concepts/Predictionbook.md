@@ -19,29 +19,29 @@ PB has >8374 prediction topics recorded, >9239 individual predictions judged, an
 
 These Less Wrong users have accounts at PredictionBook:
 
-*   [Jack](http://predictionbook.com/users/Jack)
-*   [Eliezer_Yudkowsy](http://predictionbook.com/users/eliezeryudkowsky)
-*   [Emile](http://predictionbook.com/users/Emile)
-*   [matt](http://predictionbook.com/users/matt)
-*   [MBlume](http://predictionbook.com/users/MBlume)
-*   [Morendil](http://predictionbook.com/users/Morendil)
-*   [MrHen](http://predictionbook.com/users/MrHen)
-*   [RobinHanson](http://predictionbook.com/users/robinhanson)
-*   [rwallace](http://predictionbook.com/users/rwallace)
-*   [gwern](http://predictionbook.com/users/gwern)
-*   [lukeprog](http://predictionbook.com/users/lukeprog)
-*   [Jayson Virissimo](http://predictionbook.com/users/Jayson_Virissimo)
-*   [notsonewuser](http://predictionbook.com/users/notsonewuser)
-*   [zrkrlc](http://predictionbook.com/users/zrkrlc)
+- [Jack](http://predictionbook.com/users/Jack)
+- [Eliezer_Yudkowsy](http://predictionbook.com/users/eliezeryudkowsky)
+- [Emile](http://predictionbook.com/users/Emile)
+- [matt](http://predictionbook.com/users/matt)
+- [MBlume](http://predictionbook.com/users/MBlume)
+- [Morendil](http://predictionbook.com/users/Morendil)
+- [MrHen](http://predictionbook.com/users/MrHen)
+- [RobinHanson](http://predictionbook.com/users/robinhanson)
+- [rwallace](http://predictionbook.com/users/rwallace)
+- [gwern](http://predictionbook.com/users/gwern)
+- [lukeprog](http://predictionbook.com/users/lukeprog)
+- [Jayson Virissimo](http://predictionbook.com/users/Jayson_Virissimo)
+- [notsonewuser](http://predictionbook.com/users/notsonewuser)
+- [zrkrlc](http://predictionbook.com/users/zrkrlc)
 
 ## External links
 
-*   [PredictionBook.com](http://predictionbook.com/) \- Official website
+- [PredictionBook.com](http://predictionbook.com/) \- Official website
 
 ## Blog posts
 
-*   [PredictionBook.com - Track your calibration](http://lesswrong.com/lw/1bh/predictionbookcom_track_your_calibration/)
+- [PredictionBook.com - Track your calibration](http://lesswrong.com/lw/1bh/predictionbookcom_track_your_calibration/)
 
 ## See also
 
-*   [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [[Robot|Debate tools]]
+- [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [[Robot|Debate tools]]

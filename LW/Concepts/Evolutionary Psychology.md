@@ -23,25 +23,25 @@ The idea of evolution as the idiot designer of humans - that our brains are *not
 
 Some of the key ideas of evolutionary psychology are these:
 
-*   People's brains do not explicitly represent evolutionary reasons, *consciously or unconsciously*.
-*   We are optimized for an "ancestral environment" (often referred to as EEA, for "environment of evolutionary adaptedness") that differs significantly from the environments in which most of us live. In the ancestral environment, calories were the limiting resource, so our tastebuds are built to like sugar and fat.
-*   The brain is not built the way a human engineer would build it. A human engineer would have built our bodies to measure what it needed, so that if you already had enough calories but were lacking micronutrients, your taste buds would start liking lettuce instead of cheeseburgers.
-*   The brain is a giant hack that starts to break down when you try to do things with it that hunter-gatherers weren't doing. Like computer programming, say.
-*   Evolution's purposes also differ from our own purposes. We are built to deceive ourselves because self-deceivers were more effective liars in ancestral political disputes; and this fact about our underlying brain design doesn't change when we try to make a moral commitment to truth and rationality.
-*   Although human beings do absorb significant additional complexity in the form of culture, we don't absorb it in a fully general way, but rather, in the way that we [evolved to absorb it](https://wiki.lesswrong.com/wiki/Detached_lever_fallacy). That's why the Soviets couldn't raise perfect communist children. Children are programmed to absorb their parents' language, say, but there is no environment which evokes the response of perfect altruism in human children.
+- People's brains do not explicitly represent evolutionary reasons, *consciously or unconsciously*.
+- We are optimized for an "ancestral environment" (often referred to as EEA, for "environment of evolutionary adaptedness") that differs significantly from the environments in which most of us live. In the ancestral environment, calories were the limiting resource, so our tastebuds are built to like sugar and fat.
+- The brain is not built the way a human engineer would build it. A human engineer would have built our bodies to measure what it needed, so that if you already had enough calories but were lacking micronutrients, your taste buds would start liking lettuce instead of cheeseburgers.
+- The brain is a giant hack that starts to break down when you try to do things with it that hunter-gatherers weren't doing. Like computer programming, say.
+- Evolution's purposes also differ from our own purposes. We are built to deceive ourselves because self-deceivers were more effective liars in ancestral political disputes; and this fact about our underlying brain design doesn't change when we try to make a moral commitment to truth and rationality.
+- Although human beings do absorb significant additional complexity in the form of culture, we don't absorb it in a fully general way, but rather, in the way that we [evolved to absorb it](https://wiki.lesswrong.com/wiki/Detached_lever_fallacy). That's why the Soviets couldn't raise perfect communist children. Children are programmed to absorb their parents' language, say, but there is no environment which evokes the response of perfect altruism in human children.
 
 ## External links
 
-*   [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf) by Leda Cosmides and John Tooby.
-*   [Evolutionary Psychology: A Primer](http://www.cep.ucsb.edu/primer.html) by Leda Cosmides and John Tooby.
-*   [“Darwinian Psychologist” Straw Man’s Ass Kicked](http://hplusmagazine.com/2009/11/23/darwinian-psychologist-straw-mans-ass-kicked/)
-*   [The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology](http://www.amazon.com/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996) \- popular book by Robert Wright.
+- [The Psychological Foundations of Culture](http://www.cep.ucsb.edu/papers/pfc92.pdf) by Leda Cosmides and John Tooby.
+- [Evolutionary Psychology: A Primer](http://www.cep.ucsb.edu/primer.html) by Leda Cosmides and John Tooby.
+- [“Darwinian Psychologist” Straw Man’s Ass Kicked](http://hplusmagazine.com/2009/11/23/darwinian-psychologist-straw-mans-ass-kicked/)
+- [The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology](http://www.amazon.com/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996) \- popular book by Robert Wright.
 
 ## See also
 
-*   [[Evolution]]
-*   [Stupidity of evolution](https://wiki.lesswrong.com/wiki/Stupidity_of_evolution), [evolution as alien god](https://wiki.lesswrong.com/wiki/Evolution_as_alien_god)
-*   [Human universal](https://wiki.lesswrong.com/wiki/Human_universal)
-*   [[Adaptation Executors|Adaptation executers]]
-*   [Corrupted hardware](https://wiki.lesswrong.com/wiki/Corrupted_hardware)
-*   [[Psychology]]
+- [[Evolution]]
+- [Stupidity of evolution](https://wiki.lesswrong.com/wiki/Stupidity_of_evolution), [evolution as alien god](https://wiki.lesswrong.com/wiki/Evolution_as_alien_god)
+- [Human universal](https://wiki.lesswrong.com/wiki/Human_universal)
+- [[Adaptation Executors|Adaptation executers]]
+- [Corrupted hardware](https://wiki.lesswrong.com/wiki/Corrupted_hardware)
+- [[Psychology]]

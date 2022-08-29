@@ -27,15 +27,15 @@ MIRI's newest decision theory, [[Functional Decision Theory]] (FDT), notes that,
 
 ## Blog Posts
 
-*   [Prices or bindings?](http://lesswrong.com/lw/v2/prices_or_bindings/)
+- [Prices or bindings?](http://lesswrong.com/lw/v2/prices_or_bindings/)
 
 ## See Also
 
-*   [[Decision Theory|Decision theory]]
-*   [[Newcomb's Problem|Newcomb's problem]]
-*   [[Counterfactual Mugging|Counterfactual mugging]]
-*   [[Smoking Lesion|Smoking lesion]]
-*   [[Absent-Minded Driver|Absent-minded driver]]
-*   [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
-*   [[Prisoner's Dilemma|Prisoner's dilemma]]
-*   [[Pascal's Mugging|Pascal's mugging]]
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [[Counterfactual Mugging|Counterfactual mugging]]
+- [[Smoking Lesion|Smoking lesion]]
+- [[Absent-Minded Driver|Absent-minded driver]]
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+- [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Pascal's Mugging|Pascal's mugging]]

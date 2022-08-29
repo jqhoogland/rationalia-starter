@@ -15,4 +15,4 @@ It takes a lot of evidence and rationality just to [[Locate The Hypothesis|*loca
 
 ## Blog posts
 
-*   [Reversed Stupidity is Not Intelligence](http://lesswrong.com/lw/lw/reversed_stupidity_is_not_intelligence/)
+- [Reversed Stupidity is Not Intelligence](http://lesswrong.com/lw/lw/reversed_stupidity_is_not_intelligence/)

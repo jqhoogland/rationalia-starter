@@ -25,9 +25,9 @@ Within the LW community there are plenty of talented people that bear a sense of
 
 The field of AI safety is in an [innovator phase](https://en.wikipedia.org/wiki/Diffusion_of_innovations). Innovators are highly risk-tolerant and have a large amount of agency, which allows them to survive an environment with little guidance or supporting infrastructure. Let community organisers not fall for the typical mind fallacy, expecting risk-averse people to move into AI safety all by themselves. Unless one is particularly risk-tolerant or has a perfect safety net, they will not be able to fully take the plunge. Plenty of measures can be made to make getting into AI safety more like an ["It's a small world"-ride](https://www.youtube.com/watch?v=28123GsMzU8):
 
-*   Let there be a tested path with signposts along the way to make progress clear and measurable.
-*   Let there be social reinforcement so that we are not hindered but helped by our instinct for conformity.
-*   Let there be high-quality explanations of the material to speed up and ease the learning process, so that it is cheap.
+- Let there be a tested path with signposts along the way to make progress clear and measurable.
+- Let there be social reinforcement so that we are not hindered but helped by our instinct for conformity.
+- Let there be high-quality explanations of the material to speed up and ease the learning process, so that it is cheap.
 
 ## Becoming an AIS researcher in 2020
 
@@ -51,11 +51,11 @@ While the project originally targeted any student, it was decided that it will t
 
 There are technical (math, logic) and philosophical (Bostrom/sequences/WaitButWhy) prerequisites. Technical prerequisites identified so far:
 
-*   Probability theory
-*   Decision/game theory
-*   Computability theory
-*   Logic
-*   Linear algebra
+- Probability theory
+- Decision/game theory
+- Computability theory
+- Logic
+- Linear algebra
 
 As mentioned before, it seems best to cover this in a sequence of articles on Arbital, or to recommend [an existing course](http://web.stanford.edu/class/cs103/) that teaches this stuff well enough.
 
@@ -71,9 +71,9 @@ One particularly useful and low-bar way to contribute is to join our special stu
 
 This is (like everything) subject to debate, but for now it looks like the following broad categories will be covered:
 
-*   Agent foundations
-*   Machine learning safety
-*   AI macrostrategy
+- Agent foundations
+- Machine learning safety
+- AI macrostrategy
 
 Each of these categories will be divided into a few subcategories. The specifics of that are mostly undecided, except that the agent foundations category will contain at least corrigibility and decision theory.
 
@@ -105,14 +105,14 @@ The setup includes a [lightboard](https://www.youtube.com/watch?v=qadgqBQdqtI), 
 
 The course will be strictly digital, which limits the amount of strategies that can be used. These are some potentially useful strategies:
 
-*   Text
-*   Lecture
-*   Documentary
-*   Game
-*   Assignment
-*   Live discussion
-*   Open problem
-*   etc...
+- Text
+- Lecture
+- Documentary
+- Game
+- Assignment
+- Live discussion
+- Open problem
+- etc...
 
 **Content guides form** The best way to present an idea often depends on the nature of the idea. For example, the value alignment problem is easily explained with an illustrative story (the paperclip maximizer). This isn’t quite the case for FDT. Also, some ideas have been formalized. We can go into mathematical detail with those. Other ideas are still in the realm of philosophy and we will have to resort to things like thought experiments there. How to say depends on what to say.
 
@@ -122,20 +122,20 @@ The idea is to challenge students to think independently how they might go about
 
 **Taxonomy of content** At least three sorts of content will be delivered:
 
-*   Anecdotes/stories to illustrate problems (paperclip maximizer, filling a cauldron, ...)
-*   Unformalized philosophical considerations (intelligence explosion, convergent instrumental goals, acausal trade, ...)
-*   Technical results (corrigibility, convergent instrumental goals, FDT, ...)
+- Anecdotes/stories to illustrate problems (paperclip maximizer, filling a cauldron, ...)
+- Unformalized philosophical considerations (intelligence explosion, convergent instrumental goals, acausal trade, ...)
+- Technical results (corrigibility, convergent instrumental goals, FDT, ...)
 
 **Example course unit: value learning & corrigibility**
 
-*   Preview of unit and its structure
-*   An x-minute lecture that informally explains the value learning problem
-*   Assignments
-*   A 5-minute cutscene shows a fictional story of an agent that keeps its creators from pushing the off-button
-*   An x-minute lecture that informally explains corrigibility
-*   A piece of text that introduces the math
-*   A video of the lecturer solving example math assignments
-*   Corrigibility math assignments
+- Preview of unit and its structure
+- An x-minute lecture that informally explains the value learning problem
+- Assignments
+- A 5-minute cutscene shows a fictional story of an agent that keeps its creators from pushing the off-button
+- An x-minute lecture that informally explains corrigibility
+- A piece of text that introduces the math
+- A video of the lecturer solving example math assignments
+- Corrigibility math assignments
 
 Alternatively, we can interleave tiny bits of video with questions to keep the student engaged. A good example of this is the [Google deep learning course](https://www.udacity.com/course/deep-learning--ud730).
 
@@ -217,6 +217,6 @@ I want to note that what we are doing here *isn’t hard*. Courses at universiti
 
 ## External links
 
-*   [list of resources](https://workflowy.com/s/D0Q9.oyUe39KbLp)
-*   [facebook group](https://www.facebook.com/groups/1421511671230776/)
-*   [Announcement post on LessWrong](http://lesswrong.com/r/discussion/lw/p5e/announcing_aasaa_accelerating_ai_safety_adoption/)
+- [list of resources](https://workflowy.com/s/D0Q9.oyUe39KbLp)
+- [facebook group](https://www.facebook.com/groups/1421511671230776/)
+- [Announcement post on LessWrong](http://lesswrong.com/r/discussion/lw/p5e/announcing_aasaa_accelerating_ai_safety_adoption/)

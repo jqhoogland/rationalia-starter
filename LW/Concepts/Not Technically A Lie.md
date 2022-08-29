@@ -15,14 +15,14 @@ A statement that is literally true, but causes the listener to attain false beli
 
 ## Blog posts
 
-*   [The Bottom Line](http://lesswrong.com/lw/js/the_bottom_line/)
-*   [Entangled Truths, Contagious Lies](http://lesswrong.com/lw/uw/entangled_truths_contagious_lies/)
-*   [Not Technically Lying](http://lesswrong.com/lw/11y/not_technically_lying/) by Psychohistorian
-*   [Lies and Secrets](http://lesswrong.com/lw/1j/lies_and_secrets/) by [steven0461](https://wiki.lesswrong.com/wiki/steven0461)
+- [The Bottom Line](http://lesswrong.com/lw/js/the_bottom_line/)
+- [Entangled Truths, Contagious Lies](http://lesswrong.com/lw/uw/entangled_truths_contagious_lies/)
+- [Not Technically Lying](http://lesswrong.com/lw/11y/not_technically_lying/) by Psychohistorian
+- [Lies and Secrets](http://lesswrong.com/lw/1j/lies_and_secrets/) by [steven0461](https://wiki.lesswrong.com/wiki/steven0461)
 
 ## See also
 
-*   [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
-*   [[Dark Arts|Dark arts]], [[Filtered Evidence|Filtered evidence]]
-*   [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
-*   [[Rationalization]]
+- [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
+- [[Dark Arts|Dark arts]], [[Filtered Evidence|Filtered evidence]]
+- [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
+- [[Rationalization]]
