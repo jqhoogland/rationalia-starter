@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Jargon/YMMV.md",
-            "mode": "source",
+            "file": "LW/Concepts/Copenhagen Interpretation of Ethics.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Jargon/YMMV.md"
+                "file": "LW/Concepts/Copenhagen Interpretation of Ethics.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Jargon/YMMV.md",
+                "file": "LW/Concepts/Copenhagen Interpretation of Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "ba2d800d6187927d",
   "lastOpenFiles": [
-    "LW/Jargon/Other-optimizing.md",
-    "LW/Jargon/YMMV.md",
-    "LW/Jargon/Verbal overshadowing.md",
-    "LW/Concepts/Steelmanning.md",
-    "LW/Jargon/Weak Man.md",
-    "LW/Concepts/Whole Brain Emulation.md",
-    "LW/Jargon/WBE.md",
-    "LW/Jargon/Urge.md",
-    "LW/Concepts/Virtues.md",
-    "LW/Jargon/Virtue Ethics.md"
+    "LW/Concepts/Control Theory.md",
+    "LW/People/Ciphergoth.md",
+    "LW/Concepts/Circling.md",
+    "LW/Concepts/Cfar Exercise Prize.md",
+    "LW/Concepts/Abolitionism.md",
+    "LW/Concepts/12 Virtues.md",
+    "LW/Other Resources/AXRP.md",
+    "LW/Other Resources/List of Blogs.md",
+    "LW/Concepts/AI Services (CAIS).md",
+    "LW/People/Anna Salamon.md"
   ]
 }

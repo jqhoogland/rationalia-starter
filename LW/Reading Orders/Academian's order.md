@@ -77,7 +77,7 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[Brain Breakthrough! It's Made of Neurons!]]
 - [[Reductive Reference]]
 
-## Selected Posts From [[Zombies (Concept)]] & [[Supernaturality]]
+## Selected Posts From [[Zombies]] & [[Supernaturality]]
 
 - [[Zombies! Zombies?]]
 - [[GAZP vs. GLUT]]

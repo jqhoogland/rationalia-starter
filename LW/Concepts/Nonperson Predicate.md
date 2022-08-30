@@ -21,6 +21,6 @@ The need for such a test arises from the possibility that when an [[Artificial G
 
 Any practical implementation would likely consist of a large number of nonperson predicates of increasing complexity. For most nonpersons, a predicate will quickly return that it is not a person and conclude the test. Although any number of the predicates may be used before the test claims that something is not a person, it is crucial that any predicate in the test never claims that a person isn't a person. Unclassifiable cases being in-principle unavoidable, it is preferable that the AGI errs on the side of considering possible-persons as persons.
 
-*Related Wiki Pages: [[Computation Hazard]], [[Zombies (Concept)|Philosophical zombie]]*
+*Related Wiki Pages: [[Computation Hazard]], [[Zombies|Philosophical zombie]]*
 
 *Related Posts: [Nonperson Predicates](http://lesswrong.com/lw/x4/nonperson_predicates/), [Computational Hazards](http://lesswrong.com/lw/d2f/computation_hazards/)*

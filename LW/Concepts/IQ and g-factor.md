@@ -9,6 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:58.504Z'
+aliases
+  - g
+  - g-factor
+  - IQ
 ---
 
 # IQ and G-factor

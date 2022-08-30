@@ -9,6 +9,9 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:20.923Z'
+aliases
+  - Object-level
+  - Meta-level
 ---
 
 # Object Level and Meta Level

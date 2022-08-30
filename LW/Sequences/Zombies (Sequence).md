@@ -27,5 +27,5 @@ A [[Sequences|subsequence]] of [[Reductionism (Sequence)|Reductionism]] on the p
 
 ## See Also
 
-- [[Zombies (Concept)]]
+- [[Zombies]]
 - [[Reductionism (Sequence)|Reductionism (sequence)]]

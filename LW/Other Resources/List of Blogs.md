@@ -13,7 +13,7 @@ synchedAt: '2022-08-29T11:10:11.748Z'
 
 # List of Blogs
 
-**List of blogs from the** [**diaspora**](https://wiki.lesswrong.com/wiki/diaspora) **and** **[[Rationalist Movement|rationalist movement]]****.** Last large update: 2017-05-25
+**List of blogs from the** [**diaspora**](https://wiki.lesswrong.com/wiki/diaspora) **and** **[[Rationalist Movement|rationalist movement]]****. Last large update: 2017-05-25
 
 ## General Rationality and Philosophy
 

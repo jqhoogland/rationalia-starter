@@ -96,7 +96,7 @@ Highlights:
 
 ## Related Pages
 
-- Non-tags: [[Anthropomorphism]], [[How An Algorithm Feels|How an algorithm feels]], [[Zombies (Concept)]]
+- Non-tags: [[Anthropomorphism]], [[How An Algorithm Feels|How an algorithm feels]], [[Zombies]]
 - [[Identity]], [[Personal Identity|Personal identity]], [[Reflective Reasoning|Reflective reasoning]]
 - [[Animal Welfare|Animal welfare]], [[Suffering]], [[Risks of Astronomical Suffering (S-risks)|Risks of astronomical suffering (s-risks)]]
 - [[Reductionism]], [[Mind Projection Fallacy]]
