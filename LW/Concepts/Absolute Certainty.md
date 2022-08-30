@@ -39,15 +39,3 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 - [[Doubt]]
 
 ---
-
-%%
-
-%START
-
-Close
-
-Tags: LessWrong
-
-END
-
-%%

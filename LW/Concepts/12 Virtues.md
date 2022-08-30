@@ -36,6 +36,7 @@ What are the 12 virtues of rationality?
 11. {{c11::Scholarship}}
 12. {{c12::The void}}
 Tags: LessWrong
+ID: 1661803908975
 END
 
 %%

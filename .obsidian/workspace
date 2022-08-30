@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07f5893a8d95689a",
+        "id": "ba29b57657e8557c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Absent Minded Driver.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b00c82f14a22f6ee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LW/Posts/Twelve Virtues of Rationality.md",
+            "file": "LW/Concepts/Abolitionism.md",
             "mode": "source",
             "source": false
           }
@@ -75,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Posts/Twelve Virtues of Rationality.md"
+                "file": "LW/Concepts/Abolitionism.md"
               }
             }
           }
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Posts/Twelve Virtues of Rationality.md",
+                "file": "LW/Concepts/Abolitionism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "b00c82f14a22f6ee",
+  "active": "ba29b57657e8557c",
   "lastOpenFiles": [
-    "The Absent Minded Driver.md",
-    "LW/Posts/Twelve Virtues of Rationality.md",
+    "LW/Concepts/Abstraction.md",
+    "LW/Concepts/Absurdity Heuristic.md",
+    "LW/Concepts/Academic Papers.md",
+    "LW/Concepts/Absolute Certainty.md",
     "LW/Concepts/Absent-Minded Driver.md",
-    "LW/Posts/Serious Stories.md",
     "LW/Concepts/Abolitionism.md",
     "LW/Concepts/12 Virtues.md",
-    "LW/Posts/Church vs. Taskforce.md",
-    "LW/Posts/Chris Olah’s views on AGI safety.md",
-    "LW/Posts/Chapter 4— The Efficient Market Hypothesis.md",
-    "LW/Posts/Chapter 1— A Day of Very Low Probability.md"
+    "LW/Concepts/Heuristic.md",
+    "LW/Jargon/Heuristic.md",
+    "The Absent-Minded Driver.md"
   ]
 }

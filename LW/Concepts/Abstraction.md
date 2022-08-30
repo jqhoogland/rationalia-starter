@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:45.122Z'
 ---
+
 # Abstraction
 
 An **abstraction** is a high-level concept that groups things together while not considering some of their differences.

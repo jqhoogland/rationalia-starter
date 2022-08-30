@@ -1,11 +1,11 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-to-anki-plugin",
   "obsidian-linter",
   "supercharged-links-obsidian",
   "metadata-menu",
   "hot-reload",
   "breadcrumbs",
-  "rationalia-plugin"
+  "rationalia-plugin",
+  "obsidian-to-anki-plugin"
 ]

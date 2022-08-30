@@ -8,16 +8,17 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-30T08:18:47.514Z'
+synchedAt: '2022-08-30T08:37:09.995Z'
 status: todo
 ---
+
 # Absent-Minded Driver
 
 **The absent-minded driver** is a problem for testing [[Decision Theory|decision theories]] which shows a time inconsistency in classical ways of considering optimal decisions. It is entirely described in the eponymous blog post.
 
 ## Blog Posts
 
-[The Absent-Minded Driver](http://lesswrong.com/lw/182/the_absentminded_driver/)
+[[The Absent-Minded Driver]]
 
 ## See Also
 
@@ -32,11 +33,3 @@ status: todo
 
 ---
 
-%%
-
-%START
-Close
-Tags: LessWrong
-END
-
-%%

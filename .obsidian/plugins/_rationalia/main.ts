@@ -18,10 +18,47 @@ export default class Rationalia extends Plugin {
 				syncNote(editor, view)
 			}
 		})
+
+		this.addCommand({
+			id: 'add-flashcards',
+			name: 'Add flashcard(s) for current note.',
+			editorCallback: (editor: Editor, view: MarkdownView) => {
+				addFlashcards(editor, view)
+			}
+		})
 	}
 
 	onunload() {
 	}
+}
+
+const addFlashcards = (editor: Editor, view: MarkdownView) => {
+	// @ts-ignore titleEl
+	const title = view.titleEl.innerText;
+
+	const cardsString = `
+
+%%
+
+% START
+Basic (and reversed card)
+What is **g${title}**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	
+`
+
+	editor.replaceRange(
+		cardsString,
+		{
+			line: view.data.split("\n").length,
+			ch: 0
+		}
+	)
+
 }
 
 const syncNote = async (editor: Editor, view: MarkdownView) => {

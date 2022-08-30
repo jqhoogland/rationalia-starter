@@ -40,9 +40,10 @@ Addressing this type of objection to “paradise engineering”, Pearce [writes]
 
 %%
 
-START
-Close
-**Abolitionism** is a school of transhumanism that advocates for {{c1::the complete abolition of suffering}}.
+% START
+Basic (and reversed card)
+What is **Abolitionism**?
+Back: A school of transhumanism that advocates for the (total) eradication of suffering.
 Tags: LessWrong
 END
 
