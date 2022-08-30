@@ -16,8 +16,6 @@ synchedAt: '2022-08-29T11:04:08.832Z'
 
 **Rationality** is the art of thinking in ways that result in [[World Modeling|accurate beliefs]] and [[Decision Theory|good decisions]]. It is the primary topic of LessWrong.
 
-
-
 Rationality is not only about avoiding the vices of [[Self-Deception|self-deception]] and obfuscation (the failure to [[Conversation (topic)|communicate clearly]]), but also about the virtue of [[Curiosity|curiosity]], seeing the world more clearly than before, and [[Ambition|achieving things]] [[Skill Building|previously unreachable]] [[ Cooperation|to you]]. The study of rationality on LessWrong includes a theoretical understanding of ideal cognitive algorithms, as well as building a practice that uses these idealized algorithms to inform [[Heuristics & Biases|heuristics]], [[Habits|habits]], and [[Techniques|techniques]], to successfully reason and make decisions in the real world.
 
 Topics covered in rationality include (but are not limited to): normative and theoretical explorations of [[Solomonoff Induction|ideal]] [[Probability & Statistics|reasoning]]; the [[Evolutionary Psychology|capabilities and limitations]] [[Neuroscience|of our brain]], [[Dual Process Theory (System 1 & System 2)|mind and psychology]]; applied advice such as [[Introspection|introspection]] techniques and [[Group Rationality|how to achieve truth collaboratively]]; practical techniques and methodologies for figuring out what’s true ranging from rough quantitative modeling to full research guides.

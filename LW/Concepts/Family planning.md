@@ -18,5 +18,7 @@ Posts about deciding whether to have children, how many children to have, when t
 For how to raise children once one has decided to have them, see [[Parenting|parenting]].
 
 **External Links:**
+
 [Antinatalism](https://en.wikipedia.org/wiki/Antinatalism)
+
 [Family Planning](https://en.wikipedia.org/wiki/Family_planning)

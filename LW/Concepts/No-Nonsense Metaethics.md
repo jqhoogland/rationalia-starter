@@ -13,7 +13,7 @@ synchedAt: '2022-08-29T11:10:07.542Z'
 
 # No-Nonsense Metaethics
 
-A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://lesswrong.com/user/lukeprog/) that explains and defends a naturalistic approach to metaethics.
+A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://lesswrong.com/user/lukeprog/) that explains and defends a naturalistic approach to metaethics and what he calls [[pluralistic moral reductionism]] . We know that people can mean different things, but use the same word, e.g. sound can mean auditory experience or acoustic vibrations in the air. Pluralistic moral reductionism is the idea that we do the same thing when we talk about what it moral.
 
 ## Posts (so far)
 

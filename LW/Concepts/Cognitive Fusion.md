@@ -15,8 +15,6 @@ synchedAt: '2022-08-29T10:47:26.582Z'
 
 \[More thorough definition/description in [Prereq: Cognitive Fusion](https://www.lesswrong.com/posts/5g7oFiePGEY3h4bqX/prereq-cognitive-fusion) and [Kaj Sotala's attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)\] 
 
-
-
 From the latter:
 
 > Cognitive fusion is a term from [Acceptance and Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) (ACT), which refers to a person “fusing together” with the content of a thought or emotion, so that the content is experienced as an objective fact about the world rather than as a mental construct. The most obvious example of this might be if you get really upset with someone else and become convinced that something was *all their fault* (even if you had actually done something blameworthy too).

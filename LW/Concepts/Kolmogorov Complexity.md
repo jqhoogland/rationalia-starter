@@ -15,8 +15,6 @@ synchedAt: '2022-08-29T10:47:42.370Z'
 
 The **Kolmogorov Complexity** (sometimes called Algorithmic Complexity) of a set of data is the size of the shortest possible description of the data.
 
-
-
 *See also*: [[Solomonoff Induction]], [[AIXI]]
 
 Algorithmic complexity is an inverse measure of compressibility. If the data is complex and random, the shortest possible description of it becomes longer. This is also one of the best definitions of randomness so far[^1^](#fn1). If the data has few regular patterns, it is difficult to compress it or describe it shortly, giving it a high Kolmogorov complexity and randomness. If there isn't any way to describe the data so that the description is shorter than the data itself, the data is incompressible. [^2^](#fn2)

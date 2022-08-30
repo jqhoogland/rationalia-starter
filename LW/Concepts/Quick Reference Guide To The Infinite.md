@@ -51,7 +51,9 @@ Quick aside on partial orderings
 You may be wondering how to think about something like "neither larger nor smaller, but not the same". Formally, we say that, without choice, the ordering on the cardinal numbers is a [partial order](http://en.wikipedia.org/wiki/Partially_ordered_set). Because these are so common I'll go ahead and define this here - generally, a partial order on a set S is a relation (usually denoted "≤") on S such that:
 
 `  1. For every x in S, x≤x (reflexivity)`
+
 `  2. For any x and y in S, if x≤y and y≤x, then x=y (antisymmetry)`
+
 `  3. For any x,y,z in S, if x≤y and y≤z, then x≤z (transitivity)`
 
 If we additionally required that for any $x$ and $y$ in $S$, we have either x≤y or y≤x, we'd have a [total order](http://en.wikipedia.org/wiki/Total_order) (also called a linear order).

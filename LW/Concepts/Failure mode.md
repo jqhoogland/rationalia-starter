@@ -22,36 +22,67 @@ Knowing and understanding possible failure modes in what you attempting to do is
 ## Other Examples:
 
 [[Bias]]
+
 [[Planning Fallacy]] 
+
 [[Status Quo Bias]]
+
 [[Affect Heuristic]]
+
 [[Aversion|Aversion/Ugh Fields]]
+
 [[Bucket Errors]]
+
 [[Compartmentalization]]
+
 [[Confirmation Bias]]
+
 [[Fallacies]]
+
 [[Goodhart's Law]]
+
 [[Groupthink]]
+
 [[Heuristics & Biases]]
+
 [[Mind Projection Fallacy]]
+
 [[Motivated Reasoning]]
+
 [[Pica]]
+
 [[Pitfalls of Rationality]]
+
 [[Rationalization]]
+
 [[Self-Deception]]
+
 [[Sunk-Cost Fallacy]]
+
 [[Paperclip Maximizer]]
+
 [[Moral Mazes]]
+
 [[Replication Crisis]]
+
 [[Moloch]]
+
 [[Tribalism]]
+
 [[Simulacrum Levels]]
+
 [[Information Hazards]]
+
 [[Pascal's Mugging]]
+
 [[Akrasia]]
+
 [[Procrastination]]
+
 [[Nonapples|Nonappeals]]
 
 **Posts:**
+
 [[Guessing the Teacher's Password]]
+
 [[Expecting Short Inferential Distances]]

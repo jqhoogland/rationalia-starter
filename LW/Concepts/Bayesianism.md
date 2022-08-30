@@ -9,6 +9,8 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:38.811Z'
+aliases:
+  - Bayesian
 ---
 
 # Bayesianism
@@ -28,6 +30,7 @@ As a consequence of the subjective interpretation of probability theory, Bayesia
 ## Bayesianism & Rationality
 
 There is a conceoption of rationality for *bayesian* can be treated as technical codeword that cognitive scientists use to mean "rational". Bayesian [probability theory](https://www.lessestwrong.com/tag/probability-theory) is the math of [epistemic rationality](https://wiki.lesswrong.com/wiki/epistemic_rationality), Bayesian [decision theory](https://www.lessestwrong.com/tag/decision-theory) is the math of [instrumental rationality](https://wiki.lesswrong.com/wiki/instrumental_rationality). Right up there with [cognitive bias](https://wiki.lesswrong.com/wiki/cognitive_bias) as an absolutely fundamental concept on Less Wrong.
+
  
 
 ## Other Usages

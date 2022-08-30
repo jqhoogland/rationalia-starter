@@ -9,13 +9,14 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:11.157Z'
+aliases:
+  - Color politics
+  - Blues & Greens
 ---
 
 # Blues & Greens (metaphor)
 
 **"Blues and Greens"** is a term used to metaphorically refer to opposing political factions.
-
-
 
 *See also*: [Tribalism](/tag/tribalism), [[Mind-Killer|Mind-killer]], [[Arguments As Soldiers|Arguments as soldiers]], [[False Dilemma|False dilemma]], [[In-Group Bias|In-group bias]]
 

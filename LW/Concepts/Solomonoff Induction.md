@@ -32,14 +32,12 @@ Unfortunately, computing the exact value of *m*(*y*~0~) would require solving th
 
 Given *p* ∈ 𝒫, we write "prog (*x*~0~) = *p*" to express the proposition that *x*~0~ begins with *p*, and we write "*U*(*p*) = *y*~0~" to express the proposition that *U* produces output *y*~0~, and then halts, when fed any input beginning with *p*. Proposition (*) is then equivalent to the exclusive disjunction
 
-
-
 ⋁*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~(prog (*x*~0~) = *p*).
+
 Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability of prog (*x*~0~) = *p* to be 2^ − ℓ(^*^p^*^)^, where ℓ(*p*) is the length of *p* as a bit string. Hence, the probability of (*) is
 
-
-
 *m*(*y*~0~) := ∑*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~2^ − ℓ(^*^p^*^)^.
+
  
 
 ## See Also

@@ -19,6 +19,4 @@ synchedAt: '2022-08-29T11:05:25.967Z'
 >
 > [(Taken from here)](https://www.lesswrong.com/posts/rnFLc3E5Y4FP8TSGC/the-biggest-problem-in-your-life)
 
-
-
 See also [[Open Problems]]

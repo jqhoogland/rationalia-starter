@@ -13,6 +13,4 @@ synchedAt: '2022-08-29T11:03:15.204Z'
 
 # Terminology / Jargon (meta)
 
-
-
 See also: [[Conversation (topic)]], [[Public Discourse|Public discourse]]

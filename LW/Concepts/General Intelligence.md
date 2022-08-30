@@ -60,11 +60,8 @@ This definition avoids several problems common in many others definitions, espec
 
 1. ^**[^](#fnrefosnb04qur8)**^
 
-
     <http://arxiv.org/pdf/0712.3329.pdf>
 
-
 2. ^**[^](#fnref7hbpdfpe6x3)**^
-
 
     <http://intelligence.org/files/IE-EI.pdf>

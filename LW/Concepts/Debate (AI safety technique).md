@@ -17,17 +17,12 @@ synchedAt: '2022-08-29T11:04:06.757Z'
 
 1. ^**[^](#fnref7clr966emb9)**^
 
-
     <https://www.lesswrong.com/posts/Br4xDbYu4Frwrb64a/writeup-progress-on-ai-safety-via-debate-1>
-
 
 2. ^**[^](#fnrefvrcbanw2zz)**^
 
-
     <https://ought.org/mission>
 
-
 3. ^**[^](#fnrefnwfhnzy6a3e)**^
-
 
     <https://openai.com/blog/debate/>

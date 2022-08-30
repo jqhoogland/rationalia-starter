@@ -18,4 +18,5 @@ synchedAt: '2022-08-29T11:05:26.474Z'
 Often the questions being asked in Cost Disease discussion are why the cost healthcare and education have increased many, many times over.
 
 **External Posts:**
+
 [Book Review: Why Are The Prices So D*mn High?](https://slatestarcodex.com/2019/06/10/book-review-the-prices-are-too-dmn-high/) \- Scott Alexander

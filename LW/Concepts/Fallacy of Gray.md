@@ -9,6 +9,8 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:39.443Z'
+aliases:
+  - Continuum fallacy
 ---
 
 # Fallacy of Gray
@@ -40,7 +42,9 @@ The better thing, simply put, is to become quantitative and detail oriented. 
 A [[VNM Theorem|VNM rational agent]] will have probabilistic beliefs, p, where 0<p<1, about what's likely to fall out of various choices, and a coherently linear model of value, v, with no behaviorally significant "natural zero".  Then every option is basically assigned the value p*v, and the agent simply always make choices in favor of what the agent calculates gives the most utility, under uncertainty.  
 
 Suppose there is a choice between
+
 something with p*v = -1,000,000 net utility under uncertainty or 
+
 something with p*v = -1,000,001 net utility under uncertainty…
 
 …then the VNM agent simply chooses the option that is greater, or "less negative", and picks -1,000,000. 

@@ -15,8 +15,6 @@ synchedAt: '2022-08-29T10:47:25.940Z'
 
 [**Selectorate Theory**](https://en.wikipedia.org/wiki/Selectorate_theory) is a game theoretic theory of politics and power that aims to explain political behavior and structure as a consequence of a leader's motivation to gain power and keep it as long as he can.
 
-
-
 The theory posits that no leader can rule alone, and thus always has to satisfy some amount of key people. in autocracies that number is small, and in democracies that number is large.
 
 The theory separates the rest of the population (apart from the leader) into three groups. 

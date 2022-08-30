@@ -25,5 +25,4 @@ Holden Karnofsky gives a more detailed definition in [another OpenPhil 2016 post
 
 1. ^**[^](#fnrefhy8b4kflu8)**^
 
-
     As defined by [Open Philanthropy's Holden Karnofsky in 2016](https://www.openphilanthropy.org/research/potential-risks-from-advanced-artificial-intelligence-the-philanthropic-opportunity/), and reused by [the Center for the Governance of AI in 2018](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)

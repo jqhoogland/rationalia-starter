@@ -18,5 +18,7 @@ synchedAt: '2022-08-29T11:03:17.932Z'
 **Related Pages:** [[Public Discourse|Public discourse]], [[Consensus]], [[Inferential Distance]]
 
 **External posts:** 
+
 [The Kolmogorov option](https://www.scottaaronson.com/blog/?p=3376) by Scott Aaronson
+
 [kolmogorov complicity and-the parable of lightning](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/) by Scott Alexander

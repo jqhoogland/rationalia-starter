@@ -9,6 +9,9 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:28.146Z'
+aliases:
+  - p-zombie
+  - Philosophical zombie
 ---
 
 # Zombies
@@ -25,14 +28,10 @@ Other physicalists accept the possibility of p-zombies, but insist that *we are*
 
 Non-physicalists use the apparent conceivability of p-zombies to argue that it is impossible to explain how phenomenal consciousness arises using physical facts alone. P-zombies are presumably not possible in our universe, but they are conceivable (on this view) because a physically identical universe with different psychophysical bridging laws or different [quiddities](http://consc.net/papers/panpsychism.pdf) could indeed harbor p-zombies.
 
-
-
 ## **External links**
 
 - [Zombies](http://plato.stanford.edu/entries/zombies/), Stanford Encyclopedia of Philosophy
 - [Zombies on the web](http://consc.net/zombies.html) by [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)
-
-
 
 ## **See also**
 

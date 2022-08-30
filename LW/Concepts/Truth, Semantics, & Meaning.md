@@ -9,6 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:57.722Z'
+aliases:
+  - Truth
+  - Semantics
+  - Meaning
 ---
 
 # Truth, Semantics, & Meaning

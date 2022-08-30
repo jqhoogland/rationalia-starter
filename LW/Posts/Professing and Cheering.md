@@ -19,6 +19,8 @@ href: https://www.lesswrong.com/posts/RmCjazjupRGcHSm5N/professing-and-cheering
 sequence: Fake Beliefs
 chapter: null
 synchedAt: '2022-08-30T08:17:40.841Z'
+aliases:
+  - Belief as cheering
 ---
 
 # Professing and Cheering

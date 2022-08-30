@@ -15,8 +15,6 @@ synchedAt: '2022-08-29T11:04:13.131Z'
 
 **Pitfalls of Rationality** are frequent [[Failure mode|error modes]], obstacles or problems that arise when people try to practice rationality, or engage with rationality-related materials. Related concepts include the "valley of bad rationality".
 
-
-
 There are two threads touched in posts under this tag:
 
 1. Things that go wrong when people try to be more rational and they unintentionally end up making things worse.

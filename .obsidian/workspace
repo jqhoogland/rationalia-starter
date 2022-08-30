@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ba2d800d6187927d",
+        "id": "787cf19e126da7d7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Copenhagen Interpretation of Ethics.md",
+            "file": "LW/Concepts/Cognitive style.md",
             "mode": "preview",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Copenhagen Interpretation of Ethics.md"
+                "file": "LW/Concepts/Cognitive style.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Copenhagen Interpretation of Ethics.md",
+                "file": "LW/Concepts/Cognitive style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "ba2d800d6187927d",
+  "active": "66ed81a64e92146c",
   "lastOpenFiles": [
-    "LW/Concepts/Control Theory.md",
-    "LW/People/Ciphergoth.md",
-    "LW/Concepts/Circling.md",
-    "LW/Concepts/Cfar Exercise Prize.md",
-    "LW/Concepts/Abolitionism.md",
-    "LW/Concepts/12 Virtues.md",
-    "LW/Other Resources/AXRP.md",
-    "LW/Other Resources/List of Blogs.md",
-    "LW/Concepts/AI Services (CAIS).md",
-    "LW/People/Anna Salamon.md"
+    "LW/Canon.md",
+    "LW/Concepts/Wanting vs. liking.md",
+    "LW/Concepts/Radical honesty.md",
+    "LW/Concepts/Marginally zero-sum game.md",
+    "LW/Concepts/Intellectual roles.md",
+    "LW/Concepts/Cognitive style.md",
+    "LW/Concepts/Truth, Semantics, & Meaning.md",
+    "LW/Concepts/Tapping Out.md",
+    "LW/Concepts/Superstimuli.md",
+    "LW/Concepts/Probability theory.md"
   ]
 }

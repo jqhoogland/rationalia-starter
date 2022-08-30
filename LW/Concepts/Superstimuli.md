@@ -9,6 +9,8 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:17.983Z'
+aliases:
+  - superstimulus
 ---
 
 # Superstimuli

@@ -34,9 +34,13 @@ means "Douglas Lenat is an AI researcher." This is an example of a fact in the K
 Some sentences contain variables, and are called 'rules'. Variables begin with ?. For example, a rule about the #$isa predicate is
 
 `(#$implies`
+
 `   (#$and   `
+
 `     (#$isa ?OBJ ?SUBSET)`
+
 `     (#$genls ?SUBSET ?SUPERSET))`
+
 `   (#$isa ?OBJ ?SUPERSET))`
 
 The CycL syntax uses prefix notation and nested parentheses, unlike English. An English translation might read, "If a \[object\] is a \[subset\], and a \[subset\] is a subcollection of a \[superset\], then a \[object\] is a \[superset\]." Or, more concretely, if we let ?OBJ be "sandcat", ?SUBSET be "feline", and ?SUPERSET be "mammal", then the sentence reads, "If a sandcat is a feline, and a feline is a subcollection of mammals, then a sandcat is a mammal." In first-order logic (with set theory), this would be written as

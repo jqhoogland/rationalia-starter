@@ -16,8 +16,6 @@ synchedAt: '2022-08-29T11:04:10.323Z'
 
 The **LessWrong** **Community** is the people who write on LessWrong and who contribute to its mission of refining the art of human rationality. This tag includes community events, analysis of the health, norms and direction of the community, and space to understand communities in general.
 
-
-
 LessWrong also has many brothers and sisters like the Berkeley Rationality Community, [SlateStarCodex](https://www.reddit.com/r/slatestarcodex/), [Rational Fiction](https://www.reddit.com/r/rational/), [Effective Altruism](https://forum.effectivealtruism.org/), [AI Alignment](https://www.alignmentforum.org/), and more, who participate here. To see upcoming LessWrong events, go to the [community section](https://www.lesswrong.com/community).
 
 * * *

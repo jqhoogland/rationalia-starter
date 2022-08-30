@@ -15,8 +15,6 @@ synchedAt: '2022-08-29T11:05:05.211Z'
 
 A **conversation** is when two people talk or correspond. Most content here is about *how to have good conversations.* (*This wikitag needs work.)*
 
-
-
 For records of conversations, see [Interviews](Interviews (1)), Debates,…
 
 See also:
