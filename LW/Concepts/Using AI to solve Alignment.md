@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:13.843Z'
 ---
-# Using AI to solve Alignment
+
+# Using AI to Solve Alignment
 
 Not obviously the best name for this tag, but maybe good to explore/rename. Wiki-tags are publicly editable!

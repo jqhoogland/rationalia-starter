@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:12.012Z'
 ---
+
 # Neuralink
 
 **Neuralink** is a company founded by Elon Musk that does human-brain interfacing.

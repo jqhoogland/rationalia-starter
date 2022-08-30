@@ -15,5 +15,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.264Z'
 ---
-# An Untrollable Mathematician
 
+# An Untrollable Mathematician

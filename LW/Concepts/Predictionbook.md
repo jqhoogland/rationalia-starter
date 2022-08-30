@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:50.152Z'
 ---
+
 # Predictionbook
 
 [**PredictionBook**](http://predictionbook.com/) is a website created by Tricycle Developments to allow users to record predictions with specific end dates. Confidence is measured and used in statistics & graphs showing each user's prediction history.
 
 PB has >8374 prediction topics recorded, >9239 individual predictions judged, and >215 prediction topics [maturing in the next 2 years](http://predictionbook.com/predictions/future).
 
-## Less Wrong users
+## Less Wrong Users
 
 These Less Wrong users have accounts at PredictionBook:
 
@@ -35,14 +36,14 @@ These Less Wrong users have accounts at PredictionBook:
 - [notsonewuser](http://predictionbook.com/users/notsonewuser)
 - [zrkrlc](http://predictionbook.com/users/zrkrlc)
 
-## External links
+## External Links
 
 - [PredictionBook.com](http://predictionbook.com/) \- Official website
 
-## Blog posts
+## Blog Posts
 
 - [PredictionBook.com - Track your calibration](http://lesswrong.com/lw/1bh/predictionbookcom_track_your_calibration/)
 
-## See also
+## See Also
 
 - [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [[Robot|Debate tools]]

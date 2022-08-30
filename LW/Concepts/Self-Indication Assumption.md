@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:30.960Z'
 ---
+
 # Self-Indication Assumption
 
 The **self-indication assumption** (SIA)[^1^](#fn1), a philosophical principle defined by Nick Bostrom[^2^](#fn2), one of the two major schools of [anthropic](/tag/anthropics) probability (the other being the [[Self-Sampling Assumption|self-sampling assumption]] (SSA)), states that:
@@ -28,7 +29,7 @@ Although this anthropic principle was originally designed as a rebuttal to the D
 
 Ken Olum has written in defense of the SIA[^3^](#fn3). Nick Bostrom and Milan Cirkovic have critiqued this defense.[^4^](#fn4)
 
-1.  Nick Bostrom originally used the term SIA in a slightly different way. What is here referred to as SIA, he referred to as the combined SSA+SIA[↩](#fnref1)
-2.  Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref2)
-3.  Ken Olum, The Doomsday Argument and the Number of Possible Observers, Philosophical Quarterly (2002), Vol. 52, No. 207, pp. 164-184[↩](#fnref3)
-4.  Nick Bostrom and Milan Cirkovic, The doomsday argument and the self-indication assumption: reply to Olum, Philosophical Quarterly, (2003), Vol. 53, No. 210, pp. 83-91[↩](#fnref4)
+1. Nick Bostrom originally used the term SIA in a slightly different way. What is here referred to as SIA, he referred to as the combined SSA+SIA[↩](#fnref1)
+2. Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref2)
+3. Ken Olum, The Doomsday Argument and the Number of Possible Observers, Philosophical Quarterly (2002), Vol. 52, No. 207, pp. 164-184[↩](#fnref3)
+4. Nick Bostrom and Milan Cirkovic, The doomsday argument and the self-indication assumption: reply to Olum, Philosophical Quarterly, (2003), Vol. 53, No. 210, pp. 83-91[↩](#fnref4)

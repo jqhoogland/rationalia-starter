@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:52.172Z'
 ---
+
 # Happiness
 
 Posts about **Happiness**. one of the tricky things about Happiness is that sometimes directly pursuing it doesn't work or is even counterproductive. Happiness isn't (and can't be) [the only important thing](https://www.lesswrong.com/posts/synsRtBKDeAFuo7e3/not-for-the-sake-of-happiness-alone), but is non the less important. Thus LessWrong dealt a lot with the questions about happiness and how to pursue it.

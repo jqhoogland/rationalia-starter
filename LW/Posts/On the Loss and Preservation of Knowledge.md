@@ -19,5 +19,5 @@ sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.627Z'
 ---
-# On the Loss and Preservation of Knowledge
 
+# On the Loss and Preservation of Knowledge

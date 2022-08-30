@@ -16,5 +16,5 @@ sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.480Z'
 ---
-# Chapter 116: Aftermath, Something to Protect, Pt 0
 
+# Chapter 116: Aftermath, Something to Protect, Pt 0

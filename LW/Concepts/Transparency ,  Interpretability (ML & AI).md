@@ -1,5 +1,5 @@
 ---
-title: Transparency / Interpretability (ML & AI)
+title: Transparency, Interpretability (ML & AI)
 href: https://lesswrong.com/tags/transparency-interpretability-ml-and-ai
 type: tag
 tags:

@@ -17,5 +17,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.455Z'
 ---
-# Challenges to Christiano’s capability amplification proposal
 
+# Challenges to Christiano’s Capability Amplification Proposal

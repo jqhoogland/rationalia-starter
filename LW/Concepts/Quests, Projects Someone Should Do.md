@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:31.779Z'
 ---
+
 # Quests / Projects Someone Should Do
 
 **Quests** are when someone is like "man, someone should *totally* do this thing."

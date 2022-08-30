@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: Fighting for something
 synchedAt: '2022-08-30T08:16:32.603Z'
 ---
-# You're allowed to fight for something
 
+# You're Allowed to Fight for Something

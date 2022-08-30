@@ -10,6 +10,7 @@ aliases:
   - Reductionism 101
 synchedAt: '2022-08-29T17:16:41.108Z'
 ---
+
 # Reductionism 101
 
 ## Chapters
@@ -25,7 +26,7 @@ synchedAt: '2022-08-29T17:16:41.108Z'
 - [[Qualitatively Confused]]
 - [[Think Like Reality]]
 - [[Chaotic Inversion]]
-- [[Reductionism]]
+- [[Reductionism (Post)]]
 - [[Explaining vs. Explaining Away]]
 - [[Fake Reductionism]]
 - [[Savanna Poets]]

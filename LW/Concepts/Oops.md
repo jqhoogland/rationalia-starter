@@ -10,9 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:39.866Z'
 ---
+
 # Oops
 
-## Blog posts
+## Blog Posts
 
 - [The Importance of Saying "Oops"](http://lesswrong.com/lw/i9/the_importance_of_saying_oops/)
 - [The Crackpot Offer](http://lesswrong.com/lw/j8/the_crackpot_offer/)
@@ -20,7 +21,7 @@ synchedAt: '2022-08-29T11:09:39.866Z'
 - [Just Lose Hope Already](http://lesswrong.com/lw/gx/just_lose_hope_already/)
 - [Motivated Stopping and Motivated Continuation](http://lesswrong.com/lw/km/motivated_stopping_and_motivated_continuation/)
 
-## See also
+## See Also
 
 - [[Hope]], [[Possibility|possibility]]
 - [[Motivated Skepticism|Motivated skepticism]]

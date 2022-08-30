@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:57.679Z'
 ---
+
 # Group Selection
 
 **Group Selection** posits that natural selection might not operate at the level of genes in individuals, and instead also operate at genes in groups of individuals, i.e. selecting for genes for the group even at the expense of the individual. For example, you might posit that human [religion is an adaptation to make human groups more cohesive](http://lesswrong.com/lw/mk/a_failed_justso_story/), since religious groups outfight nonreligious groups.
@@ -32,12 +33,12 @@ It seems to be extremely popular among a certain sort of amateur evolutionary th
 
 The historical fiasco of group selectionism is relied on as a (clear-cut) case in point of the dangers of [[Anthropomorphism|anthropomorphism]].
 
-## Main posts
+## Main Posts
 
 - [Evolving to Extinction](http://lesswrong.com/lw/l5/evolving_to_extinction/)
 - [The Tragedy of Group Selectionism](http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/)
 
-## Other posts
+## Other Posts
 
 - [Conjuring An Evolution To Serve You](http://lesswrong.com/lw/l8/conjuring_an_evolution_to_serve_you/)
 - [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/)
@@ -45,6 +46,6 @@ The historical fiasco of group selectionism is relied on as a (clear-cut) case i
 - [A Failed Just-So Story](http://lesswrong.com/lw/mk/a_failed_justso_story/)
 - [Group selection update](http://lesswrong.com/lw/300/group_selection_update/)
 
-## External links
+## External Links
 
 - [The False Allure of Group Selection](http://edge.org/conversation/the-false-allure-of-group-selection) by [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker)

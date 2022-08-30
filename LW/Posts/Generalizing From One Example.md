@@ -13,5 +13,5 @@ sequence: Living Luminously
 chapter: Background Material
 synchedAt: '2022-08-30T08:17:58.501Z'
 ---
-# Generalizing From One Example
 
+# Generalizing From One Example

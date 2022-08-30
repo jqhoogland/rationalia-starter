@@ -17,5 +17,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:51.215Z'
 ---
-# The Failures of Eld Science
 
+# The Failures of Eld Science

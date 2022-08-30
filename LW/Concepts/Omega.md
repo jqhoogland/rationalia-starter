@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:40.065Z'
 ---
+
 # Omega
 
 **Omega** is a hypothetical super-intelligent being used in philosophical problems. Omega is most commonly used as the predictor in [[Newcomb's Problem|Newcomb's problem]]. Sometimes Omega is taken as a [[Perfect Predictor|perfect predictor]], while other times it is an almost perfect predictor. In some thought experiments, Omega is also taken to be super-powerful.

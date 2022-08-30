@@ -15,5 +15,5 @@ sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:40.100Z'
 ---
-# Say Not "Complexity"
 
+# Say Not "Complexity"

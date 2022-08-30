@@ -13,5 +13,5 @@ sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:57.203Z'
 ---
-# Guessing the Teacher's Password
 
+# Guessing the Teacher's Password

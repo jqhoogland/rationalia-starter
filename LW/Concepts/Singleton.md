@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:46.096Z'
 ---
+
 # Singleton
 
 A **singleton** refers to a world order in which there is a single decision-making agency at the highest level, capable of exerting effective control over its domain and preventing internal or external threats to its supremacy. An [[Artificial General Intelligence|artificial general intelligence]] having undergone an [[Intelligence Explosion|intelligence explosion]] could form a singleton, as could a world government armed with mind control and social surveillance technologies. A singleton doesn't have to support a civilization, and in fact may obliterate it upon coming to power.
@@ -20,7 +21,7 @@ Like any technological advancement, a singleton could be good or bad, depending 
 
 Bostrom postulates the **singleton hypothesis**; Earth-originating life will eventually form a singleton. He notes that this follows the historical trend of increasingly high levels of organization in the history of life and humanity. Also in favor of the hypothesis is the rise of technologies capable of aiding the creation of a singleton, such as world-wide communication, and potentially [AGI](https://wiki.lesswrong.com/wiki/AGI).
 
-## See also
+## See Also
 
 - [[Existential Risk|Existential risk]]
 - [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]] artificial intelligence

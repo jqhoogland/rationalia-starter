@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:16.244Z'
 ---
+
 # Expertise (topic)
 
 **Related Pages:** [[Social Status]], [[Practice & Philosophy of Science]]

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:52.781Z'
 ---
+
 # Moderation (topic)
 
 **Moderation**, in online communities especially, deals with what decision and limitation should be made in order for that community to thrive. 

@@ -19,5 +19,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.542Z'
 ---
-# human psycholinguists: a critical appraisal
 
+# Human Psycholinguists: a Critical Appraisal

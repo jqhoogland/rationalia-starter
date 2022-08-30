@@ -19,5 +19,5 @@ sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:40.868Z'
 ---
-# Belief as Attire
 
+# Belief as Attire

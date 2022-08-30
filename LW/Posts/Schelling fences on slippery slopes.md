@@ -18,5 +18,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:17:54.913Z'
 ---
-# Schelling fences on slippery slopes
 
+# Schelling Fences on Slippery Slopes

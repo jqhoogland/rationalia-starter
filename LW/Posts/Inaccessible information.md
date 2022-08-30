@@ -15,5 +15,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:16:32.502Z'
 ---
-# Inaccessible information
 
+# Inaccessible Information

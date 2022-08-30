@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:03.926Z'
 ---
+
 # Bias
 
 **Bias** or Cognitive Bias is a systematic deviation from [[Rationality|rationality]] committed by our cognition. They are specific, predictable error patterns in the human mind [^1^](#fn1). The [[Heuristics & Biases|heuristics and biases]] program in cognitive psychology has documented hundreds of reproducible errors - often big errors. This continues to be a highly active area of investigation in cognitive psychology.
@@ -18,7 +19,7 @@ In our evolutionary past, in order that a cognitive algorithm turned out into a 
 
 Therefore, the human brain make operations which solve cognitive tasks through ‘shortcuts’, that work well on some cases but fail in others. Since the cognitive modules that make those tasks are universals in the human species, how and where those shortcuts lead to mistakes are also regular. The study of why, how and where such errors arise is the field of cognitive bias. Understanding cognitive biases and trying to defend against their effects has been a basic theme of [Less Wrong](https://www.lesswrong.com/about) since the days it was part of [[Overcoming Bias]].
 
-## Starting points
+## Starting Points
 
 - Daniel Kahneman's [Nobel prize acceptance speech](http://nobelprize.org/nobel_prizes/economics/laureates/2002/kahneman-lecture.html), where he summarizes the work for which he won the prize;
 - [Wikipedia:List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases);
@@ -27,7 +28,7 @@ Therefore, the human brain make operations which solve cognitive tasks through �
 - Cialdini's book [Influence: Science and Practice](http://www.amazon.com/Influence-Practice-Robert-B-Cialdini/dp/0205609996/ref=sr_1_3?ie=UTF8&s=books&qid=1239074671&sr=1-3) (at once contentful and full of engaging anecdotes and cartoons, but, again, requires actually obtaining a book);
 - [Psychology Wiki's list of Cognitive Biases](http://psychology.wikia.com/wiki/Category:Cognitive_biases)
 
-## Blog posts on the concept of "bias"
+## Blog Posts on the Concept of "bias"
 
 - [What exactly is bias?](http://www.overcomingbias.com/2006/11/what_exactly_is.html) by [[Nick Bostrom]]
 - [To the barricades! Against ... what exactly?](http://www.overcomingbias.com/2006/11/to_the_barricad.html) by [[Robin Hanson]]
@@ -37,7 +38,7 @@ Therefore, the human brain make operations which solve cognitive tasks through �
 - [Seen vs. Unseen Biases](http://www.overcomingbias.com/2006/12/seen_vs_unseen_.html) by [[Robin Hanson]]
 - [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/) by [[Eliezer Yudkowsky]] \- Knowing about common biases doesn't help you obtain truth if you only use this knowledge to attack beliefs you don't like.
 
-## Blog posts about known cognitive biases
+## Blog Posts About Known Cognitive Biases
 
 - [Scope Insensitivity](http://lesswrong.com/lw/hw/scope_insensitivity/) \- The human brain can't represent large quantities: an environmental measure that will save 200,000 birds doesn't conjure anywhere near a hundred times the emotional impact and willingness-to-pay of a measure that would save 2,000 birds.
 - [Correspondence Bias](http://lesswrong.com/lw/hz/correspondence_bias/), also known as the fundamental attribution error, refers to the tendency to attribute the behavior of others to intrinsic dispositions, while excusing one's own behavior as the result of circumstance.
@@ -59,18 +60,18 @@ Therefore, the human brain make operations which solve cognitive tasks through �
 
 ## References
 
-## See also
+## See Also
 
 - [[Heuristics & Biases|Heuristics and biases]], [[Heuristic]]
 - [[Debiasing]], [[Dangerous Knowledge|Dangerous knowledge]]
 - [[No Safe Defense|No safe defense]]
 
-## Not to be confused with
+## Not to Be Confused with
 
 - [Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
 - [[Inductive Bias|Inductive bias]]
 
 * * *
 
-1.  POHL, Rüdiger (orgs.). (2005) "Cognitive Illusions: A Handbook on Fallacies and Biases in Thinking, Judgement and Memory". Psychology Press. p. 2[↩](#fnref1)
-2.  BUSS, David(orgs.). (2005) "The Handbook of Evolutionary Psychology". Wiley, New Jersey. p. 778.[↩](#fnref2)
+1. POHL, Rüdiger (orgs.). (2005) "Cognitive Illusions: A Handbook on Fallacies and Biases in Thinking, Judgement and Memory". Psychology Press. p. 2[↩](#fnref1)
+2. BUSS, David(orgs.). (2005) "The Handbook of Evolutionary Psychology". Wiley, New Jersey. p. 778.[↩](#fnref2)

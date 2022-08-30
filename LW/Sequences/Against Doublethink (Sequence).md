@@ -10,6 +10,7 @@ aliases:
   - Against Doublethink
 synchedAt: '2022-08-29T17:16:42.148Z'
 ---
+
 # Against Doublethink
 
 This short sequence explores another cognitive pattern that hinders our ability to update on evidence: George Orwell's 'doublethink' - the attempt to deceive oneself.

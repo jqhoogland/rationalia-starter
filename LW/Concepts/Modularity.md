@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:15.429Z'
 ---
+
 # Modularity
 
 **Modularity** is the extent to which a system can be divided into clusters. It is a very broad concept which can be applied across many different domains, for example:

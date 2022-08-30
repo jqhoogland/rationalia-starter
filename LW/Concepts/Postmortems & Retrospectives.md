@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:09.909Z'
 ---
+
 # Postmortems & Retrospectives
 
 A **Postmortem** or **Retrospective** is a reflection on past actions with an eye to what went well, what didn't, and the cause of any failures. Retrospectives are crucial for improving one's rationality: they are the opportunity to the grade both one's direct decisions as well as the decision-procedure and epistemic algorithms that one was employing. Sharing such accounts publicly is prosocial and allows others to learn from one's experience too.

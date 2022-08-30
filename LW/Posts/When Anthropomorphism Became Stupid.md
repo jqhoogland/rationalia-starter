@@ -17,5 +17,5 @@ sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:34.582Z'
 ---
-# When Anthropomorphism Became Stupid
 
+# When Anthropomorphism Became Stupid

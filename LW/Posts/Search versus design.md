@@ -19,5 +19,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:52.659Z'
 ---
-# Search versus design
 
+# Search Versus Design

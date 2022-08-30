@@ -10,6 +10,7 @@ aliases:
   - 3— HJPEV and the Shadows of Death
 synchedAt: '2022-08-29T17:16:42.179Z'
 ---
+
 # 3: HJPEV and the Shadows of Death
 
 Professor Flitwick had silently passed Harry a folded parchment during Charms class that Monday, and the note had said that Harry was to visit the Headmaster at his convenience and in such fashion that no one else would notice, especially not Draco Malfoy or Professor Quirrell. His one-time password for the gargoyle would be "squeamish ossifrage". This had been accompanied by a remarkably artistic ink drawing of Professor Flitwick staring at him sternly, the eyes of which occasionally blinked; and at the bottom of the note, underlined three times, was the phrase DON'T GET INTO TROUBLE.

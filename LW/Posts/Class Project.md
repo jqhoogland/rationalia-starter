@@ -16,5 +16,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:51.227Z'
 ---
-# Class Project
 
+# Class Project

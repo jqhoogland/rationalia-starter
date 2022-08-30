@@ -10,6 +10,7 @@ aliases:
   - Value Theory
 synchedAt: '2022-08-29T17:16:41.106Z'
 ---
+
 # Value Theory
 
 On obstacles to developing a new theory, and some intuitively desirable features of such a theory.

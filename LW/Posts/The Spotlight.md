@@ -16,5 +16,5 @@ sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.656Z'
 ---
-# The Spotlight
 
+# The Spotlight

@@ -12,5 +12,5 @@ sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:59.090Z'
 ---
-# Righting a Wrong Question
 
+# Righting a Wrong Question

@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/CsKboswS3z5iaiutC/less-wrong-nyc-case-study-of-a-successful-rationalist
 synchedAt: '2022-08-30T08:17:59.208Z'
 ---
-# Less Wrong NYC: Case Study of a Successful Rationalist Chapter
 
+# Less Wrong NYC: Case Study of a Successful Rationalist Chapter

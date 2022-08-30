@@ -17,5 +17,5 @@ sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:42.909Z'
 ---
-# Real World Solutions to Prisoners' Dilemmas
 
+# Real World Solutions to Prisoners' Dilemmas

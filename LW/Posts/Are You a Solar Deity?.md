@@ -17,5 +17,5 @@ sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.514Z'
 ---
-# Are You a Solar Deity?
 
+# Are You a Solar Deity?

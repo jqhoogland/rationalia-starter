@@ -10,16 +10,17 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:51.630Z'
 ---
+
 # Lottery
 
 A tax on people who are bad at math. Also, a waste of [[Hope|hope]]. You [[Antiprediction|_will not_]] win the lottery.
 
-## Blog posts
+## Blog Posts
 
 - [Lotteries: A Waste of Hope](http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/)
 - [New Improved Lottery](http://lesswrong.com/lw/hm/new_improved_lottery/)
 
-## See also
+## See Also
 
 - [[Hope]]
 - [[Shut Up and Multiply|Shut up and multiply]]

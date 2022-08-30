@@ -17,5 +17,5 @@ sequence: Fake Beliefs
 chapter: null
 synchedAt: '2022-08-30T08:17:40.902Z'
 ---
-# Pretending to be Wise
 
+# Pretending to Be Wise

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:11:28.540Z'
 ---
+
 # The Machine In The Ghost
 
 ***The Machine in the Ghost*** is the third book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It covers topics related to cognition, concepts, and the general notion of goal-oriented behavior.

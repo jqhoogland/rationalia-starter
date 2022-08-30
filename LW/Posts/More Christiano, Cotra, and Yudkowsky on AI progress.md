@@ -20,5 +20,5 @@ sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.648Z'
 ---
-# More Christiano, Cotra, and Yudkowsky on AI progress
 
+# More Christiano, Cotra, and Yudkowsky on AI Progress

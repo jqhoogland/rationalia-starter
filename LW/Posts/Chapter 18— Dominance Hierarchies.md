@@ -16,5 +16,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:45.150Z'
 ---
-# Chapter 18: Dominance Hierarchies
 
+# Chapter 18: Dominance Hierarchies

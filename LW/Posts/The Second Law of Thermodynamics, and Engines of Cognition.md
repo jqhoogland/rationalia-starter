@@ -21,5 +21,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:35.766Z'
 ---
-# The Second Law of Thermodynamics, and Engines of Cognition
 
+# The Second Law of Thermodynamics, and Engines of Cognition

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:10.180Z'
 ---
+
 # Sequences
 
 A **sequence** is a series of multiple posts on Less Wrong on the same topic, to coherently and fully explore a particular thesis. See the [Library page](/library) for a list of LessWrong sequences in their modern form.
@@ -78,7 +79,7 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Other sequences by Eliezer Yudkowsky
+## Other Sequences by Eliezer Yudkowsky
 
 The following collections of essays come from the **[[Original Sequences|original sequences]]**, an earlier version of much of the material from *Rationality: From AI to Zombies*:
 
@@ -96,7 +97,7 @@ Yudkowsky has also written a more recent sequence:
 
 - **[[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]**. These essays include a discussion of truth, formal logic, causality, and metaethics, and are a good way for more ambitious readers to quickly get up to speed.
 
-## Sequences by others
+## Sequences by Others
 
 Sequences of essays by [**Scott Alexander**](https://wiki.lesswrong.com/wiki/Yvain) include:
 
@@ -124,7 +125,7 @@ And by [**Kaj Sotala**](https://wiki.lesswrong.com/wiki/Kaj_Sotala):
 - [What Intelligence Tests Miss](http://lesswrong.com/tag/whatintelligencetestsmiss). A sequence summarizing the content of Keith Stanovich's book *What Intelligence Tests Miss*.
 - [Why Everyone (Else) Is a Hypocrite](http://lesswrong.com/tag/whyeveryonehypocrite) by [Kaj_Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala). An unfinished sequence summarizing the content of Robert Kurzban's book *Why Everyone (Else) is a Hypocrite: Evolution and the Modular Mind*.
 
-## Other resources
+## Other Resources
 
 [Benito's Guide](http://lesswrong.com/user/Benito/) aims to systematically fill the reader in on the most important ideas discussed on LessWrong (not just in the sequences). It also begins with a series of videos, which are a friendly introduction, and useful if you enjoy talks and interviews.
 

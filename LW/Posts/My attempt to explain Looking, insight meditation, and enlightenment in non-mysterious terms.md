@@ -22,5 +22,5 @@ sequence: Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:53.952Z'
 ---
-# My attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms
 
+# My Attempt to Explain Looking, Insight Meditation, and Enlightenment in Non-mysterious Terms

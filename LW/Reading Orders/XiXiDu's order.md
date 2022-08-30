@@ -6,7 +6,8 @@ tags:
   - Sequence
 synchedAt: '2022-08-29T11:16:45.948Z'
 ---
-# undefined
+
+# Undefined
 
 # Chapters
 
@@ -16,7 +17,6 @@ synchedAt: '2022-08-29T11:16:45.948Z'
 - [Interview with Eliezer Yudkowsky (Part 1)](http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/)
 - [Interview with Eliezer Yudkowsky (Part 2)](http://johncarlosbaez.wordpress.com/2011/03/14/this-weeks-finds-week-312/)
 - [Interview with Eliezer Yudkowsky (Part 3)](http://johncarlosbaez.wordpress.com/2011/03/25/this-weeks-finds-week-313/)
-
 
 ## Wisdom & Insight
 
@@ -29,11 +29,9 @@ synchedAt: '2022-08-29T11:16:45.948Z'
 - [[Occam's Razor]]
 - [[Confidence levels inside and outside an argument]]
 
-
 ## Education
 
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
-
 
 ## Excitement, Novelty, Fun
 
@@ -42,7 +40,6 @@ synchedAt: '2022-08-29T11:16:45.948Z'
 - [[The mathematical universe— the map that is the territory]]
 - [[That Alien Message]]
 - [[A Much Better Life?]]
-
 
 ## Other
 

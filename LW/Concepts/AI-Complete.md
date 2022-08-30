@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:57.762Z'
 ---
+
 # AI-Complete
 
 A problem is considered **AI-complete** or **AI-hard** if solving it is equivalent to creating [Artificial General Intelligence](https://wiki.lesswrong.com/wiki/AGI).
@@ -18,18 +19,18 @@ For example, natural language processing (or machine translation) is often consi
 
 Roman V. Yampolskiy proposed a [classification in AI-Complete, AI-Hard and AI-Easy problems](http://louisville.edu/speed/computer/tr/UL_CECS_02_2011.pdf/at_download/file):
 
-- A problem _C_ is AI-Complete if it has two properties:
+- A problem *C* is AI-Complete if it has two properties:
     - It is in the set of AI problems (Human Oracle solvable);
-    - Any AI problem can be converted into _C_ by some polynomial time algorithm.
+    - Any AI problem can be converted into *C* by some polynomial time algorithm.
 
-- A problem _H_ is AI-Hard if and only if there is an AI-Complete problem _C_ that is polynomial time Turing-reducible to _H_.
+- A problem *H* is AI-Hard if and only if there is an AI-Complete problem *C* that is polynomial time Turing-reducible to *H*.
 
-- A problem _X_ is AI-Easy if and only if there exists some AI problem _Y_ such that _X_ is polynomial-time Turing reducible to _Y_. This means that given an oracle for _Y_, there exists an algorithm that solves _X_ in polynomial time.
+- A problem *X* is AI-Easy if and only if there exists some AI problem *Y* such that *X* is polynomial-time Turing reducible to *Y*. This means that given an oracle for *Y*, there exists an algorithm that solves *X* in polynomial time.
 
 ## References
 
 - [AI-Complete, AI-Hard, or AI-Easy: Classification of Problems in Artificial Intelligence](http://louisville.edu/speed/computer/tr/UL_CECS_02_2011.pdf/at_download/file) by Roman V. Yampolskiy
 
-## See also
+## See Also
 
 - [[Fai-Complete|FAI-complete]]

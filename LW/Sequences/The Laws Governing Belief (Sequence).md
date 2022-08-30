@@ -10,10 +10,13 @@ aliases:
   - The Laws Governing Belief
 synchedAt: '2022-08-29T17:16:36.915Z'
 ---
+
 # The Laws Governing Belief
 
-*Part 3 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*  
-  
+*Part 3 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*
+
+
+
 While beliefs are subjective, that doesn't mean that one gets to choose their beliefs willy-nilly. There are laws that theoretically determine the correct belief given the evidence, and it's towards such beliefs that we should aspire.
 
 ## Chapters

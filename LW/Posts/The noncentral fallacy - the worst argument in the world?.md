@@ -19,5 +19,5 @@ sequence: Categorisation and Concepts
 chapter: null
 synchedAt: '2022-08-30T08:17:41.402Z'
 ---
-# The noncentral fallacy - the worst argument in the world?
 
+# The Noncentral Fallacy - the Worst Argument in the World?

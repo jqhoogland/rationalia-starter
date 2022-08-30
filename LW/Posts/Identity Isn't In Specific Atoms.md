@@ -17,5 +17,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.452Z'
 ---
-# Identity Isn't In Specific Atoms
 
+# Identity Isn't In Specific Atoms

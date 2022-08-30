@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/aHaqgTNnFzD7NGLMx/reason-as-memetic-immune-disorder
 synchedAt: '2022-08-30T08:17:57.896Z'
 ---
-# Reason as memetic immune disorder
 
+# Reason as Memetic Immune Disorder

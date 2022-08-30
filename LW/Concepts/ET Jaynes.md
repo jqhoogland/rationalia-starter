@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:29.335Z'
 ---
+
 # ET Jaynes
 
 **Edwin Thompson Jaynes** was a prominent bayesian mathematician and the author of *Probability Theory: The Logic of Science*.

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:25.939Z'
 ---
+
 # LessWrong Review
 
 The **LessWrong Review** is a yearly event where posts from a previous year are nominated, reviewed, and voted on.

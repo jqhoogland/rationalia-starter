@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:01.901Z'
 ---
+
 # Consciousness
 
 The word "**consciousness**" is used in a variety of different ways, and there are large disagreements about the reality and nature (and even coherence) of some of the things people profess to mean by "consciousness."
@@ -34,7 +35,7 @@ This tag's focus is tentative and provisional because it is not altogether clear
 
 Suffice to say that (as of December 8, 2020) *enough LessWrongers find consciousness confusing enough*, and disagree enough about what's going on here, for it to make sense to use this page to organize discussion of those disagreements, rather than "picking a winner" immediately and running with it.
 
-## "Having experiences": Practical implications
+## "Having experiences": Practical Implications
 
 Beyond sheer curiosity about how the mind works, there are several sub-questions that have caused thinkers to take a special interest in the question "what is 'having an experience'?":
 
@@ -49,7 +50,7 @@ Beyond sheer curiosity about how the mind works, there are several sub-questions
 
 LessWrong writers have typically been strongly on board with physicalism (3.1), and on board with the idea that an emulation of me is "me" (and conscious) in every sense that matters (2.1). Beyond that, however, views vary. (By comparison, ~74% of Anglophone philosophers of mind endorsed "physicalism" as opposed to "non-physicalism" [in 2009](https://philpapers.org/surveys/results.pl?affil=Target+faculty&areas0=16&areas_max=1&grain=fine).)
 
-## "Having experiences": Pre-LessWrong discussion
+## "Having experiences": Pre-LessWrong Discussion
 
 How does this "having experiences" thing work, then? Well, this wiki page's editors haven't agreed on an answer yet. As a cop-out, we instead provide a list of highlights from the history of other people thinking about this.
 
@@ -69,7 +70,7 @@ Highlights:
     - "The consciousness of brutes would appear to be related to the mechanism of their body simply as a collateral product of its working, and to be as completely without any power of modifying that working as the steam-whistle which accompanies the work of a locomotive engine is without influence upon its machinery. Their volition, if they have any, is an emotion indicative of physical changes, not a cause of such changes." And: "to the best of my judgment, the argumentation which applies to brutes holds equally good of men".
 - 1888: Santiago Ramón y Cajal, "Estructura de los centros nerviosos de las aves." Using Camillo Golgi's staining method, Ramón y Cajal discovers that brains are made of neurons.
 - 1903: G.E. Moore, "[The Refutation of Idealism](https://fewd.univie.ac.at/fileadmin/user_upload/inst_ethik_wiss_dialog/Moore__G._1903._The_refutation_of_Idealism._in_MInd.pdf)." The early 20th century saw sharp moves away from spiritualism and supernaturalism in intellectual circles, beginning with the "[Cambridge revolt against idealism](https://en.wikipedia.org/wiki/Bertrand_Russell%27s_philosophical_views#Analytic_philosophy)." Mysticism and metaphysical proclamations about the mind became increasingly unfashionable, as intellectuals grew more skeptical and more inclined to demand testable operationalizations of claims. Extreme manifestations of this attitude included logical positivism in the 1930s-1950s and behaviorism in the 1920s-1960s.
-- 1943: McCulloch and Pitts, "[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)." [*SEP*](https://plato.stanford.edu/entries/computational-mind/)  writes that this paper "first suggested that something resembling the Turing machine might provide a good model for the mind." Subsequent developments in this direction include the cognitive revolution and the rise of [**functionalist**](https://plato.stanford.edu/entries/functionalism/) and [**computational**](https://plato.stanford.edu/entries/computational-mind/) accounts of the mind, which supplanted behaviorism.
+- 1943: McCulloch and Pitts, "[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)." [*SEP*](https://plato.stanford.edu/entries/computational-mind/) writes that this paper "first suggested that something resembling the Turing machine might provide a good model for the mind." Subsequent developments in this direction include the cognitive revolution and the rise of [**functionalist**](https://plato.stanford.edu/entries/functionalism/) and [**computational**](https://plato.stanford.edu/entries/computational-mind/) accounts of the mind, which supplanted behaviorism.
 - 1968: David Armstrong, *A Materialist Theory of the Mind*. An early attempt to sketch a theory of consciousness (specifically, a [higher-order](https://plato.stanford.edu/entries/consciousness-higher/) theory). For an overview of popular theories or sketches-of-theories in the following decades, see *SEP*'s review article "[The Neuroscience of Consciousness](https://plato.stanford.edu/entries/consciousness-neuroscience/)."
 - 1974: Thomas Nagel, "[What Is It Like To Be A Bat?](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/What-Is-It-Like-to-Be-a-Bat-1.pdf)" Nagel writes that "fundamentally an organism has conscious mental states if and only if there is something that it is like to *be* that organism—something it is like for the organism." And:
     - "If physicalism is to be defended, the phenomenological features \[i.e., what it's like to have certain experiences\] must themselves be given a physical account. But when we examine their subjective character it seems that such a result is impossible. The reason is that every subjective phenomenon is essentially connected with a single point of view, and it seems inevitable that an objective, physical theory will abandon that point of view."
@@ -81,7 +82,7 @@ Highlights:
     - While Chalmers discussed consciousness earlier (e.g., in [1993](http://consc.net/papers/qualia.html), [1994](http://consc.net/papers/facing.pdf), and [1996](http://consc.net/papers/moving.html)), *The Conscious Mind* is the work that brought dualistic and quasi-dualistic views back into the intellectual almost-mainstream for the first time in a century. In spite of its crazy-sounding conclusions, the book is unusually clear, rigorous, and thorough, anticipating almost all of the obvious objections; and Chalmers attempts to make the irreducibility of consciousness more palatable to scientists by endorsing what he calls "naturalistic dualism": the view that consciousness is lawful, predictable, and not specific to humans. Chalmers argues that our consciousness depends on stable (but contingent) "psychophysical laws" that would also (for example) make a whole-brain emulation conscious.
 - 2003\. Max Tegmark, "[Parallel Universes](https://space.mit.edu/home/tegmark/multiverse.pdf)." Although not explicitly concerned with consciousness, Tegmark's picture raises problems for [[Anthropics|anthropics]] and our understanding of what makes an observer "real."
 
-## "Having experiences": Recent discussion
+## "Having experiences": Recent Discussion
 
 - 2008\. Eliezer Yudkowsky, "[[Zombies! Zombies?]]" This and other posts from [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo) argue that we can be confident physicalism is true, even without knowing how to solve (or [[Dissolving the Question|dissolve]]) the "hard problem of consciousness".
     - In particular, Yudkowsky argues that accepting the possibility of p-zombies is tantamount to accepting epiphenomenalism, and that epiphenomenalism is crazy. If our claims about consciousness are *true* even though consciousness has no causal effect on what we claim (because a p-zombie would move its lips and pen exactly as we do), then our claims would have to be true *by coincidence*, which is absurd given the Bayesian understanding of evidence and knowledge.
@@ -93,7 +94,7 @@ Highlights:
 - 2017: Luke Muehlhauser, "[2017 Report on Consciousness and Moral Patienthood](https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood)." The single largest work of scholarship on consciousness by the rationality community.
 - 2018: David Chalmers, "[The Meta-Problem of Consciousness](https://philpapers.org/archive/chatmo-32.pdf)." Chalmers discusses "the problem of explaining why we think consciousness poses a hard problem".
 
-## Related pages
+## Related Pages
 
 - Non-tags: [[Anthropomorphism]], [[How An Algorithm Feels|How an algorithm feels]], [[Zombies (Concept)]]
 - [[Identity]], [[Personal Identity|Personal identity]], [[Reflective Reasoning|Reflective reasoning]]

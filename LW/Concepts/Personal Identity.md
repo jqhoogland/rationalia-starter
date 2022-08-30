@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:35.777Z'
 ---
+
 # Personal Identity
 
 Personal identity is the concept that two configurations of particles (or computations, etc), each of which is a person, can be in some sense the same person. For example, you-right-now and you-yesterday are usually considered two instances of the person “you”, instead of two different people, even though they are distinct configurations of particles.
@@ -24,7 +25,7 @@ Personal identity may at first sound like just an abstract philosophical issue w
 
 ## Sequences
 
-- [quantum mechanics and personal identity](http://lesswrong.com/lw/r9/quantum_mechanics_and_personal identity)
+- [quantum mechanics and personal identity](<http://lesswrong.com/lw/r9/quantum_mechanics_and_personal> identity)
 
 ## Related Pages
 

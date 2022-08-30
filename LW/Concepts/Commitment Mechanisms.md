@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:12.681Z'
 ---
+
 # Commitment Mechanisms
 
 A **Commitment Mechanism** is a tool or technique that lets people [[Pre-Commitment|pre-commit]] to something. an [[Assurance contracts|assurance contract]] is a Pre-Commitment done between several people which is conditional on other people also pre-committing.

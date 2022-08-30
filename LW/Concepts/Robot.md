@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:44.649Z'
 ---
+
 # Robot
 
 An **online debate tool** facilitates the act of debating by helping to manage the structure of argumentation. This distinguishes it from general purpose communication tools such as wikis and forums. Some online debate tools provide graphical representations of arguments, but this is not a requirement.
@@ -62,7 +63,7 @@ Summary: Debating platform with rich one-on-one debates functionality and advanc
 
 ## [debategraph.org](http://debategraph.org/)
 
-Summary: This... is pretty much exactly what we were looking for, isn't it? Though it doesn't do anything with probabilities.
+Summary: This… is pretty much exactly what we were looking for, isn't it? Though it doesn't do anything with probabilities.
 
 - first mentioned:
     - [a comment by Peer Infinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/20v5)
@@ -143,7 +144,7 @@ Summary: this is designed to point out hidden contradictions (or at least tensio
 
 Summary: Canonizer.com is a wiki system with added camp and survey capabilities. The system provides a rigorous way to measure scientific / moral expert consensus. It is designed for collaborative development of concise descriptions of various competing scientific or moral theories, and the best arguments for such. People can join the camps representing such, giving a quantitative survey or measure of consensus compared to all others. Proposed changes to supported camps go into a review mode for one week. Any supporters of a camp can object to any such proposed change during this time. If it survives a week with no objection, it goes live, guaranteeing unanimous agreement to such changes to the petition by all current signers. If anyone does object, the camp can be forked (taking all supporters of the 'improvement'), or the info can be included in a sporting sub camp.
 
-The karma or 'canonization' system enables the readers to select any algorithm they wish on the side bar to 'find the good stuff'. For example, you can compare the [mind expert](http://canonizer.com/topic.asp/53/11) scientific consensus with the default general population consensus. Each camp has a forum to discuss and debate further improvements for camps. The general idea is to debate things in the forums, or elsewhere, and summarize everyone's final / current / state of the art view in the camp statements. A history of everything is maintained, providing a dynamic quantitative measure of how well accepted any theory is, as ever more theory falsifying (when experts abandon a falsified camp) scientific data / new arguments... come in.
+The karma or 'canonization' system enables the readers to select any algorithm they wish on the side bar to 'find the good stuff'. For example, you can compare the [mind expert](http://canonizer.com/topic.asp/53/11) scientific consensus with the default general population consensus. Each camp has a forum to discuss and debate further improvements for camps. The general idea is to debate things in the forums, or elsewhere, and summarize everyone's final / current / state of the art view in the camp statements. A history of everything is maintained, providing a dynamic quantitative measure of how well accepted any theory is, as ever more theory falsifying (when experts abandon a falsified camp) scientific data / new arguments… come in.
 
 - first mentioned:
     - [a comment by PeerInfinity](http://lesswrong.com/lw/1qq/debate_tools_an_experience_report/2j4l?c=1)

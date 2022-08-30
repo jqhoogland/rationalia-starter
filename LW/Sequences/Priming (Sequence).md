@@ -10,6 +10,7 @@ aliases:
   - Priming
 synchedAt: '2022-08-29T17:16:37.132Z'
 ---
+
 # Priming
 
 **Priming** is a psychological phenomenon that consists in early stimulus influencing later thoughts and behavior.

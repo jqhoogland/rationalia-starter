@@ -20,5 +20,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.951Z'
 ---
-# Decoherence is Falsifiable and Testable
 
+# Decoherence is Falsifiable and Testable

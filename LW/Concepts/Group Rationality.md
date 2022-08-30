@@ -10,17 +10,18 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:02:44.186Z'
 ---
+
 # Group Rationality
 
 In almost anything, individuals are inferior to groups. Several articles address this concern regarding rationality, i.e., the topic of **Group Rationality**.
 
-## External links
+## External Links
 
 - [Open Problems in Group Rationality](https://medium.com/@ThingMaker/open-problems-in-group-rationality-5636440a2cd1) is one of the main articles about the subject.
 - [Individual and Group Behavior in the Ultimatum Game](http://ratio.huji.ac.il/dp/dp154.pdf)
 - [Individual vs. Group Rationality in Inquiry](http://www.andrew.cmu.edu/user/kzollman/research/Presentations/LRR%20-%20IndividualVsSocial.pdf)
 
-## See also
+## See Also
 
 - [[Rationality As Martial Art|Rationality as martial art]]
 - [[Rationality Verification|Problem of verifying rationality]]

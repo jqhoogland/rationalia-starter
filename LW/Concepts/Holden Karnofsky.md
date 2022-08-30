@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:26.481Z'
 ---
+
 # Holden Karnofsky
 
 Holden Karnofsky is a co-founder of [[Effective Altruism|effective altruism]] pioneers [[GiveWell]].
@@ -33,6 +34,6 @@ Other discussion:
 
 - Phil Goetz, [Holden's Objection 1: Friendliness is dangerous](http://lesswrong.com/lw/chk/holdens_objection_1_friendliness_is_dangerous/)
 
-## Related pages
+## Related Pages
 
 - [[Tool AI]]

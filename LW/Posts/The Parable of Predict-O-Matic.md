@@ -20,5 +20,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.386Z'
 ---
-# The Parable of Predict-O-Matic
 
+# The Parable of Predict-O-Matic

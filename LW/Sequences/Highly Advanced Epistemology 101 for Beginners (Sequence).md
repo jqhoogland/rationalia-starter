@@ -10,6 +10,7 @@ aliases:
   - Highly Advanced Epistemology 101 for Beginners
 synchedAt: '2022-08-29T17:16:41.102Z'
 ---
+
 # Highly Advanced Epistemology 101 for Beginners
 
 These essays include a discussion of truth, formal logic, causality, and metaethics, and are a good way for more ambitious readers to quickly get up to speed.
@@ -23,7 +24,6 @@ These essays include a discussion of truth, formal logic, causality, and metaeth
 - [[Rationality— Appreciating Cognitive Algorithms]]
 - [[Firewalling the Optimal from the Rational]]
 
-
 ### Physics and Causality
 
 - [[The Fabric of Real Things]]
@@ -32,7 +32,6 @@ These essays include a discussion of truth, formal logic, causality, and metaeth
 - [[Causal Reference]]
 - [[Causal Universes]]
 
-
 ### Mathematics and Logic
 
 - [[Proofs, Implications, and Models]]
@@ -40,7 +39,6 @@ These essays include a discussion of truth, formal logic, causality, and metaeth
 - [[Standard and Nonstandard Numbers]]
 - [[Godel's Completeness and Incompleteness Theorems]]
 - [[Second-Order Logic— The Controversy]]
-
 
 ### Mixed Reference
 

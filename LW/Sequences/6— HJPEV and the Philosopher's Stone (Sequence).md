@@ -10,17 +10,18 @@ aliases:
   - 6— HJPEV and the Philosopher's Stone
 synchedAt: '2022-08-29T17:16:42.181Z'
 ---
+
 # 6: HJPEV and the Philosopher's Stone
 
 Harry stared at the bodies and tried to think. There was no time for doubts, for caveats, no brakes or second-guessing just take the first thoughts and run with them
 
 In the back of Harry's mind, fragments of abstract thought flitted past, heuristics of problem-solving that there was no time to rehearse in words. In wordless flashes they shot past, to set up the object-level problem.
 
-_\- the first place to look for a problem is whatever aspect of the situation seems most improbable_
+*\- the first place to look for a problem is whatever aspect of the situation seems most improbable*
 
-_\- simple explanations are more probable, eliminate separate improbabilities that must be postulated -_
+*\- simple explanations are more probable, eliminate separate improbabilities that must be postulated -*
 
-_\- what do I notice I am confused by -_
+*\- what do I notice I am confused by -*
 
 ## Chapters
 

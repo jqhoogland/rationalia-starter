@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.574Z'
 ---
+
 # Summoning Sapience
 
 **Summoning Sapience** is the act of noticing that you are in a situation where it'd be beneficial to *actually think*, rather than running on autopilot. 

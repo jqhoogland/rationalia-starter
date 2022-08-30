@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:29.222Z'
 ---
+
 # Prediction Markets
 
 **Prediction markets** are speculative markets created for the purpose of making predictions. Assets are created whose final cash value is tied to a particular event or parameter. The current market prices can then be interpreted as predictions of the probability of the event or the expected value of the parameter. Prediction markets are thus structured as betting exchanges, without any risk for the bookmaker. [Robin Hanson](https://lessestwrong.com/tag/robin-hanson) was the first to run a corporate prediction market - at Project Xanadu -, and has made several contributions to the field such as: conditional predictions, accuracy issues and market and media manipulation.

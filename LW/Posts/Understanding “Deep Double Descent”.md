@@ -18,5 +18,5 @@ sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.495Z'
 ---
-# Understanding “Deep Double Descent”
 
+# Understanding “Deep Double Descent”

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:29.518Z'
 ---
+
 # Ethical Injunction
 
 **Ethical injunctions** are rules not to do something even when it's the right thing to do. (That is, you refrain "even when your brain has computed it's the right thing to do", but this will just *seem like* "the right thing to do".)

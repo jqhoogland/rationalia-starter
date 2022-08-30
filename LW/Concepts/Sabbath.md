@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:16.867Z'
 ---
+
 # Sabbath
 
 **Sabbaths** are days of rest. On LessWrong this has received some discussion of how to organize and orient in your life.

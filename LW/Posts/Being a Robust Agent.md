@@ -17,5 +17,5 @@ sequence: Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:53.981Z'
 ---
-# Being a Robust Agent
 
+# Being a Robust Agent

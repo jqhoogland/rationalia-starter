@@ -16,5 +16,5 @@ sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.669Z'
 ---
-# Is Reality Ugly?
 
+# Is Reality Ugly?

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:58.566Z'
 ---
+
 # Nanotechnology
 
 **Nanotechnology** is the field of study concerned with the manipulation of matter at an atomic and molecular scale. Tipically, this involves structures with sizes ranging from 1 to 100 nanometres. It is currently one of the most well-funded areas worlwide. The term was first coined in 1974 by Norio Taniguchi.
@@ -29,7 +30,7 @@ When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the developm
 - Allhoff, Fritz; Lin, Patrick; Moore, Daniel (2010). What is nanotechnology and why does it matter?: from science to ethics. John Wiley and Sons. pp. 3–5. ISBN 1-4051-7545-1.
 - [There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html) by Richard Feynman
 
-## See also
+## See Also
 
 - [[Exploratory Engineering|Exploratory engineering]]
 - [[Rational Evidence|Rational evidence]], [[Science]]

@@ -10,6 +10,7 @@ aliases:
   - Inadequate Equilibria
 synchedAt: '2022-08-29T17:16:41.104Z'
 ---
+
 # Inadequate Equilibria
 
 Inadequate Equilibria is a book about a generalized notion of efficient markets, and how we can use this notion to guess where society will or won’t be effective at pursuing some widely desired goal.

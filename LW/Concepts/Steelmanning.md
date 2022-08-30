@@ -9,12 +9,22 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:05.708Z'
+aliases:
+  - Strong man
+  - Strongmanning
+  - Steel man
+  - Straw man
+  - Straw manning
+  - Weak man
+  - Weakmanning
 ---
+
 # Steelmanning
 
 **Steelmanning** is the act of taking a view, or opinion, or argument and constructing the strongest possible version of it. It is the opposite of strawmanning.
 
-**External Posts:**  
+**External Posts:**
+
 [Against Steelmanning](https://thingofthings.wordpress.com/2016/08/09/against-steelmanning/) by Thing of Things
 
 See also: [[Disagreement]], [[Ideological Turing Tests]], [Least convenient possible world](https://lessestwrong.com/tag/least-convenient-possible-world)

@@ -18,5 +18,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.798Z'
 ---
-# The Halo Effect
 
+# The Halo Effect

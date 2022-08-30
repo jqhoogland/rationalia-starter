@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:45.115Z'
 ---
+
 # AGI Sputnik Moment
 
 An **AGI Sputnik moment** is a term coined by [[Ben Goertzel]] during a 2011 interview. It describes a moment when some project or program makes an impressive demonstration of AGI and convinces the general public and private entitites of its feasibility. The author proposes that if that moment happens somewhere soon, the funding and investment in AGI development through computer science that would ensue would make it surpass other approaches, such as brain simulation.

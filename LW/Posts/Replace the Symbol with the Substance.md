@@ -13,5 +13,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:55.953Z'
 ---
-# Replace the Symbol with the Substance
 
+# Replace the Symbol with the Substance

@@ -18,5 +18,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.814Z'
 ---
-# Chapter 6: The Planning Fallacy
 
+# Chapter 6: The Planning Fallacy

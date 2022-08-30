@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:53.293Z'
 ---
+
 # Exploratory Engineering
 
 **Exploratory engineering** is a process for understanding a subset of the potential capabilities of future levels of technology. This process resembles the first phase of standard design engineering (termed conceptual engineering, or conceptual design), but it serves a different purpose:
@@ -19,11 +20,11 @@ synchedAt: '2022-08-29T10:47:53.293Z'
 
 Exploratory engineering allows to show how some capabilities that intuitively seem [[Absurdity Heuristic|absurd]] may actually be achieved in the future.
 
-## External links
+## External Links
 
 - [Exploratory Engineering: Applying the predictive power of science to future technologies](http://metamodern.com/2009/06/26/exploratory-engineering-applying-the-predictive-power-of-science-to-future-technologies/) by [[Eric Drexler]]
 
-## See also
+## See Also
 
 - [[Rational Evidence|Rational evidence]]
 - [[Absurdity Heuristic|Absurdity heuristic]]

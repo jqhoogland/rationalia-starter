@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:49.590Z'
 ---
+
 # Privileging The Hypothesis
 
 **Privileging the Hypothesis** is the fallacy of [[Locate The Hypothesis|singling out a particular hypothesis for attention]] when there is insufficient [[Evidence|evidence]] *already in hand* to justify such special attention.
 
 To see the problem of privileging the hypothesis, suppose that the police in Largeville, a town with a million inhabitants, are investigating a murder in which there are few or no clues - the victim was stabbed to death in an alley, and there are no fingerprints and no witnesses.
 
-Then, one of the detectives says, "Well... we have no idea who did it... no particular evidence singling out any of the million people in this city... but let's *consider the possibility* that this murder was committed by Mortimer Q. Snodgrass, who lives at 128 Ordinary Ln."
+Then, one of the detectives says, "Well… we have no idea who did it… no particular evidence singling out any of the million people in this city… but let's *consider the possibility* that this murder was committed by Mortimer Q. Snodgrass, who lives at 128 Ordinary Ln."
 
 If the detective does not have evidence *already* in hand to justify singling out Mortimer for such *special and individual attention*, then this is, or ought to be, a violation of Mortimer's civil rights.
 
@@ -26,14 +27,14 @@ This is true even if the detective is not claiming that Mortimer *did* do it, bu
 
 The anti-work of [[Anti-Epistemology|anti-epistemology]] is to manufacture belief without evidence, and in large answer spaces, attention without evidence is more than halfway to belief without evidence. Someone who spends all day pondering whether the *Trinity* does or does not exist - rather than Allah, Thor, or the Flying Spaghetti Monster - is more than halfway converted to Christianity.
 
-## Blog posts
+## Blog Posts
 
 - [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
 - [Perpetual Motion Beliefs](http://lesswrong.com/lw/o6/perpetual_motion_beliefs/)
 - [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
 - [The Amanda Knox Test: How an Hour on the Internet Beats a Year in the Courtroom](http://lesswrong.com/lw/1j7/the_amanda_knox_test_how_an_hour_on_the_internet/)
 
-## See also
+## See Also
 
 - [[Locate The Hypothesis|Locate the hypothesis]]
 - [[Antiprediction]]

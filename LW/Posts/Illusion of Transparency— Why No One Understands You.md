@@ -19,5 +19,5 @@ sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:40.670Z'
 ---
-# Illusion of Transparency:  Why No One Understands You
 
+# Illusion of Transparency: Why No One Understands You

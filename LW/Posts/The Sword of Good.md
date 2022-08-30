@@ -10,5 +10,5 @@ tags:
 href: https://www.lesswrong.com/posts/XuLG6M7sHuenYWbfC/the-sword-of-good
 synchedAt: '2022-08-30T08:17:57.230Z'
 ---
-# The Sword of Good
 
+# The Sword of Good

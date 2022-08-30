@@ -16,7 +16,9 @@
   "spellcheck": true,
   "userIgnoreFilters": [
     "scripts/",
-    "Misc/"
+    "Misc/",
+    "scripts/**/*",
+    "Misc/**/*"
   ],
   "vimMode": true
 }

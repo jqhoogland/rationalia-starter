@@ -18,5 +18,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:54.969Z'
 ---
-# The Schelling Choice is "Rabbit", not "Stag"
 
+# The Schelling Choice is "Rabbit", Not "Stag"

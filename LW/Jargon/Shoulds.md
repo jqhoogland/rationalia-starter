@@ -7,9 +7,8 @@ tags:
   - Jargon
 synchedAt: '2022-08-29T11:16:58.214Z'
 ---
+
 # Shoulds
 
-
-
-Any pressures toward some particular action, whether external or internal.  
+Any pressures toward some particular action, whether external or internal.
  

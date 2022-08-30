@@ -19,5 +19,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.428Z'
 ---
-# Historical mathematicians exhibit a birth order effect too
 
+# Historical Mathematicians Exhibit a Birth Order Effect Too

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:38.805Z'
 ---
+
 # One-Boxing
 
 In [[Newcomb's Problem]], **one-boxing** means only taking the box which could contain the million. It generally isn't used for just taking the box containing the thousand even though that would also just be taking one box, as there is no reason to do this.

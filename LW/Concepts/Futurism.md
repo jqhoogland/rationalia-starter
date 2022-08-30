@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:04.053Z'
 ---
+
 # Futurism
 
 **Futurism** is speculation about technologies or social trends that might exist in the near or distant future.

@@ -17,5 +17,5 @@ sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.743Z'
 ---
-# Don't Believe You'll Self-Deceive
 
+# Don't Believe You'll Self-Deceive

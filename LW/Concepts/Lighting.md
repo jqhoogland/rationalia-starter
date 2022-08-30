@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:29.358Z'
 ---
+
 # Lighting
 
 Posts about (artificial / indoor) lighting, especially relating to attempts to improve quality of life during winter months and at other times when insufficient natural light is available.

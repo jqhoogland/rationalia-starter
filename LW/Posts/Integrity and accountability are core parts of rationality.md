@@ -18,5 +18,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.130Z'
 ---
-# Integrity and accountability are core parts of rationality
 
+# Integrity and Accountability Are Core Parts of Rationality

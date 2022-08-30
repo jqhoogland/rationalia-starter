@@ -17,5 +17,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.930Z'
 ---
-# Power Buys You Distance From The Crime
 
+# Power Buys You Distance From The Crime

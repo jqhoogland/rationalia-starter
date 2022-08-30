@@ -21,5 +21,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.759Z'
 ---
-# The Conscious Sorites Paradox
 
+# The Conscious Sorites Paradox

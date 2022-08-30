@@ -19,5 +19,5 @@ sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.678Z'
 ---
-# Conversation on technology forecasting and gradualism
 
+# Conversation on Technology Forecasting and Gradualism

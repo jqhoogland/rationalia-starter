@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:16.244Z'
 ---
+
 # Information Cascades
 
 An **information cascade** occurs when people update on other people's beliefs, which may individually be a [[Aumann's Agreement Theorem|rational decision]] but may still result in a self-reinforcing community opinion that does not necessarily reflect reality.

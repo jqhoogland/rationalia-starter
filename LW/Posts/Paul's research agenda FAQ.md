@@ -18,5 +18,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.429Z'
 ---
-# Paul's research agenda FAQ
 
+# Paul's Research Agenda FAQ

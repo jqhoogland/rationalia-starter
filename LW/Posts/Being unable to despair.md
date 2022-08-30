@@ -16,5 +16,5 @@ sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:32.925Z'
 ---
-# Being unable to despair
 
+# Being Unable to Despair

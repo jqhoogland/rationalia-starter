@@ -15,5 +15,5 @@ sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:55.225Z'
 ---
-# Keep Your Beliefs Cruxy
 
+# Keep Your Beliefs Cruxy

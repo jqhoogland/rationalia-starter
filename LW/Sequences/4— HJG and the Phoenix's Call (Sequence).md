@@ -10,9 +10,10 @@ aliases:
   - 4— HJG and the Phoenix's Call
 synchedAt: '2022-08-29T17:16:42.178Z'
 ---
+
 # 4: HJG and the Phoenix's Call
 
-If you're five hours past your bedtime and still reading this, may I suggest getting some sleep? The fic will still be here tomorrow... unless, you know, something bad happens to it and the next morning there's just a 404 at this address and you're left with nothing but a fading memory and an eternal regret that you didn't stay awake longer and keep reading while you still had the chance... but hey, how probable is that?
+If you're five hours past your bedtime and still reading this, may I suggest getting some sleep? The fic will still be here tomorrow… unless, you know, something bad happens to it and the next morning there's just a 404 at this address and you're left with nothing but a fading memory and an eternal regret that you didn't stay awake longer and keep reading while you still had the chance… but hey, how probable is that?
 
 ## Chapters
 

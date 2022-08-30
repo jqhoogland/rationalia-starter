@@ -19,5 +19,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.372Z'
 ---
-# The Rocket Alignment Problem
 
+# The Rocket Alignment Problem

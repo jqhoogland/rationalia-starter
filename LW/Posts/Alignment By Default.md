@@ -16,5 +16,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:16:32.442Z'
 ---
-# Alignment By Default
 
+# Alignment By Default

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:52.148Z'
 ---
+
 # Logical Uncertainty
 
 **Logical Uncertainty** is probabilistic uncertainty about the implications of beliefs. (Another way of thinking about it is: uncertainty about computations.) Probability theory typically assumes **logical omniscience,** IE, perfect knowledge of logic. The easiest way to see the importance of this assumption is to consider Bayesian reasoning: to evaluate the probability of evidence given a hypothesis, \\(P(e|h)\\), it's necessary to know what the implications of the hypothesis are. However, realistic agents cannot be logically omniscient.

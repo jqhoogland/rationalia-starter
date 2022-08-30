@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:07.134Z'
 ---
+
 # Philosophy of Language
 
 **Language** is an important part of the way we frame problems, think about the world, and discuss things with others. The study of language is particularly relevant to LessWrong because [[37 Ways That Words Can Be Wrong|many very smart people confuse themselves and others by misusing words.]]

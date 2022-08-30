@@ -18,5 +18,5 @@ sequence: Concepts in formal epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:55.378Z'
 ---
-# Probability interpretations: Examples
 
+# Probability Interpretations: Examples

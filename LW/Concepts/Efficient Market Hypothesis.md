@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:10.166Z'
 ---
+
 # Efficient Market Hypothesis
 
 The **Efficient Market Hypothesis** states that existing market prices already account for all available information, and that it is therefore impossible to exploit the market unless you have information other traders don't.

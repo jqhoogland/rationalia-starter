@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:30.221Z'
 ---
+
 # Perfect Predictor
 
 A **perfect predictor** is an agent which can predict the behaviour of an agent or the outcome of an event with perfect accuracy. It is often given the name [[Omega]], but Omega sometimes refers to an almost perfect predictor.
 
-## Possibility and relevance:
+## Possibility and Relevance:
 
 Perfect predictors are generally understood to be impossible due to the [Uncertainty Principle](https://www.wikiwand.com/en/Uncertainty_principle) or just from our general experience that perfect observation or accuracy aren't a feature of our universe. Some people claim this makes them irrelevant for real decision theory problems. See the page on [[Hypotheticals|hypotheticals]] for further discussion on whether or not this is valid. Some [people](https://www.lesswrong.com/posts/AKkFh3zKGzcYBiPo7/counterfactuals-for-perfect-predictors?commentId=zZDWxYmbd6m6nDpHf) have objected on the basis of [[Free Will|free will]].
 

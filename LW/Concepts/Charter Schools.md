@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:25.309Z'
 ---
-# Charter Schools
 
+# Charter Schools

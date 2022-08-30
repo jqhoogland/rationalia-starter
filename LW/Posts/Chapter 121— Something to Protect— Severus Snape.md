@@ -17,5 +17,5 @@ sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.623Z'
 ---
-# Chapter 121: Something to Protect: Severus Snape
 
+# Chapter 121: Something to Protect: Severus Snape

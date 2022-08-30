@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:25.785Z'
 ---
+
 # Time (value of)
 
 What is the value of an hour of your time? How can you spend money to free up time? When is that the right call? Etc.

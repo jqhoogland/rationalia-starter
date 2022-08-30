@@ -20,5 +20,5 @@ sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.492Z'
 ---
-# 3 Levels of Rationality Verification
 
+# 3 Levels of Rationality Verification

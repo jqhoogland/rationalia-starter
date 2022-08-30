@@ -10,6 +10,7 @@ aliases:
   - Challenging the Difficult
 synchedAt: '2022-08-29T17:16:41.105Z'
 ---
+
 # Challenging the Difficult
 
 This sequences asks what it takes to solve a truly difficult problem—including demands that go beyond epistemic rationality.

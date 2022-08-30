@@ -17,5 +17,5 @@ sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:32.579Z'
 ---
-# The Allais Paradox
 
+# The Allais Paradox

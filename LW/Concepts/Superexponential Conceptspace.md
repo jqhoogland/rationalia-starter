@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:32.603Z'
 ---
+
 # Superexponential Conceptspace
 
 The sheer number of [[Configuration Space|distinct configurations]] in which matter could be arranged is [[Scope Insensitivity|unimaginably]] vast, but the **superexponential conceptspace** of the number of different ways to *categorize* these possible objects is even vaster.
 
-## What are concepts?
+## What Are Concepts?
 
 In order to do inference, we constantly need to make use of categories and concepts: it is neither possible nor desirable to deal with every unique arrangement of quarks and leptons on an individual basis. Fortunately, we can talk about repeatable higher-level regularities in the world instead: we can distinguish particular configurations of matter as instantiations of object concepts like *chair* or *human*, and say that these objects have particular properties, like *red* or *alive*.
 
@@ -27,7 +28,7 @@ Without an [[Inductive Bias|inductive bias]], restricting attention to only a sm
 - [Mutual Information, and Density in Thingspace](http://lesswrong.com/lw/o2/mutual_information_and_density_in_thingspace/)
 - [Superexponential Conceptspace, and Simple Words](http://lesswrong.com/lw/o3/superexponential_conceptspace_and_simple_words/)
 
-## See also
+## See Also
 
 - [[Locate The Hypothesis|Locate the hypothesis]]
 - [[Inductive Bias|Inductive bias]]

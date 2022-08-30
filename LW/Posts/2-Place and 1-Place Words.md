@@ -17,5 +17,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.379Z'
 ---
-# 2-Place and 1-Place Words
 
+# 2-Place And 1-Place Words

@@ -17,5 +17,5 @@ sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.648Z'
 ---
-# Universal Law
 
+# Universal Law

@@ -20,5 +20,5 @@ sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.809Z'
 ---
-# Terminal Values and Instrumental Values
 
+# Terminal Values and Instrumental Values

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:16.393Z'
 ---
+
 # Typical Mind Fallacy
 
 The **typical mind fallacy** is the mistake of modeling the minds inside other people's brains as exactly the same as your own mind. Humans lack insight into their own minds and what is common among everyone or unusually specific to a few. It can be often hard to see the [flaws in the lens](https://www.lesswrong.com/lw/jm/the_lens_that_sees_its_flaws/), especially when we only have one lens to look through with which to see those flaws.

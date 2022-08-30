@@ -12,5 +12,5 @@ sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:58.058Z'
 ---
-# Ureshiku Naritai
 
+# Ureshiku Naritai

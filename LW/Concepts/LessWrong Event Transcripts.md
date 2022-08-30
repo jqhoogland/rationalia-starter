@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:15.125Z'
 ---
+
 # LessWrong Event Transcripts
 
 **LessWrong Event Transcripts** are transcripts from events that were organised by the LessWrong team.

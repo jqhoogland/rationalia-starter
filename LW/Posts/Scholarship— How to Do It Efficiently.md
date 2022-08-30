@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/37sHjeisS9uJufi4u/scholarship-how-to-do-it-efficiently
 synchedAt: '2022-08-30T08:17:58.320Z'
 ---
-# Scholarship: How to Do It Efficiently
 
+# Scholarship: How to Do It Efficiently

@@ -17,5 +17,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.478Z'
 ---
-# Reframing Impact
 
+# Reframing Impact

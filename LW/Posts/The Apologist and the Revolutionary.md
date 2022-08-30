@@ -13,5 +13,5 @@ sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:17:59.562Z'
 ---
-# The Apologist and the Revolutionary
 
+# The Apologist and the Revolutionary

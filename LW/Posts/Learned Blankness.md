@@ -10,5 +10,5 @@ tags:
 href: https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness
 synchedAt: '2022-08-30T08:17:57.867Z'
 ---
-# Learned Blankness
 
+# Learned Blankness

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:02.811Z'
 ---
+
 # Communication Cultures
 
 A **Communication Culture** is a set of norms, expectations, and assumptions that a group of people adopts around communication. It is probable that some Communication Cultures are objectively better than others, but is definite that difficult clashes occur when people operating under different cultures interact.

@@ -17,5 +17,5 @@ sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:32.027Z'
 ---
-# Use the Try Harder, Luke
 
+# Use the Try Harder, Luke

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:59.070Z'
 ---
+
 # Weirdness Points
 
 **Weirdness Points** posit that the ability to convince people to believe, do, or respect something that sounds weird is a limited resource.

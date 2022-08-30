@@ -19,5 +19,5 @@ sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:34.135Z'
 ---
-# "Can you keep this confidential? How do you know?"
 
+# "Can You Keep This Confidential? How Do You know?"

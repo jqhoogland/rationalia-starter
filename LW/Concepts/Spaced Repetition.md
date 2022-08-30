@@ -10,16 +10,19 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:18.151Z'
 ---
+
 # Spaced Repetition
 
-**Spaced Repetition** is a technique for long-term retention of learned material where instead of attempting to memorize by ‘cramming’, memorization can be done far more efficiently by instead spacing out each review, with increasing durations as one learns the item, with the scheduling done by software.  
-  
-*See Also:*  [[Scholarship & Learning]]
+**Spaced Repetition** is a technique for long-term retention of learned material where instead of attempting to memorize by ‘cramming’, memorization can be done far more efficiently by instead spacing out each review, with increasing durations as one learns the item, with the scheduling done by software.
+
+
+
+*See Also:* [[Scholarship & Learning]]
 
 **The case for Spaced Repetition**
 ==================================
 
-A good place to learn more about Spaced Repetition is [**Spaced Repetition for Efficient Learning**](https://www.gwern.net/Spaced-repetition)  by [Gwern](https://www.lesswrong.com/users/gwern):
+A good place to learn more about Spaced Repetition is [**Spaced Repetition for Efficient Learning**](https://www.gwern.net/Spaced-repetition) by [Gwern](https://www.lesswrong.com/users/gwern):
 
 > *Spaced repetition is a centuries-old psychological technique for efficient memorization & practice of skills where instead of attempting to memorize by ‘cramming’, memorization can be done far more efficiently by instead spacing out each review, with increasing durations as one learns the item, with the scheduling done by software. Because of the greater efficiency of its slow but steady approach, spaced repetition can scale to memorizing hundreds of thousands of items (while crammed items are almost immediately forgotten) and is especially useful for foreign languages & medical studies.*
 
@@ -35,7 +38,7 @@ Criticisms of Spaced Repetition primarily revolve around the fact that, for it t
 **Resources**
 =============
 
-## Supermemo material
+## Supermemo Material
 
 - [Many articles on assorted related topics](http://supermemo.com/english/contents.htm#Articles)
 - [Research on memory and learning](http://supermemo.com/english/contents.htm#Research)
@@ -50,7 +53,7 @@ Decks (links, or for Anki, the names of a deck in the Anki collection) relevant 
 - [Deck for Cognitive Science in One Lesson](https://www.lesswrong.com/r/discussion/lw/74o/anki_deck_for_cognitive_science_in_one_lesson/)
 - [LessWrong Wiki as an Anki deck](https://www.lesswrong.com/r/discussion/lw/ee6/lesswrong_wiki_as_anki_deck) by mapnoterritory
 
-## SR cards for [[Sequences|LessWrong Sequences]]
+## SR Cards for [[Sequences|LessWrong Sequences]]
 
 - [Spaced Repetition Database for the Mysterious Answers to Mysterious Questions Sequence](https://www.lesswrong.com/lw/2e6/spaced_repetition_database_for_the_mysterious/) by divia
 - [Spaced Repetition Database for A Human's Guide to Words](https://www.lesswrong.com/lw/3oq/spaced_repetition_database_for_a_humans_guide_to/) by divia

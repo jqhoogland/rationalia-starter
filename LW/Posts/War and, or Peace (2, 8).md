@@ -15,5 +15,5 @@ sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.282Z'
 ---
-# War and/or Peace (2/8)
 
+# War and/or Peace (2/8)

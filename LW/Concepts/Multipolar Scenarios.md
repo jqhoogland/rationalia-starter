@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:14.683Z'
 ---
+
 # Multipolar Scenarios
 
 A **multipolar scenario** is one where no single AI or agent takes over the world.

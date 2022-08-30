@@ -16,5 +16,5 @@ sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:39.013Z'
 ---
-# Motivated Stopping and Motivated Continuation
 
+# Motivated Stopping and Motivated Continuation

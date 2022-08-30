@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:30.971Z'
 ---
+
 # Self-Sampling Assumption
 
 The **self-sampling assumption** (SSA), one of the two major schools of [anthropic](/tag/anthropics) probability[^1^](#fn1) (the other being the [[Self-Indication Assumption|self-indication assumption]] (SIA)), states that:
@@ -26,4 +27,4 @@ SSA implies the [[Doomsday Argument|doomsday argument]] if the number of total o
 
 ## References
 
-1.  Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref1)
+1. Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref1)

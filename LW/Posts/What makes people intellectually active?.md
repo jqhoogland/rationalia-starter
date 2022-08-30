@@ -20,5 +20,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.340Z'
 ---
-# What makes people intellectually active?
 
+# What Makes People Intellectually Active?

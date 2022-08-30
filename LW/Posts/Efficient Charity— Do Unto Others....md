@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/pC47ZTsPNAkjavkXs/efficient-charity-do-unto-others
 synchedAt: '2022-08-30T08:17:59.452Z'
 ---
-# Efficient Charity: Do Unto Others...
 
+# Efficient Charity: Do Unto Others…

@@ -17,5 +17,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.147Z'
 ---
-# Literature Review: Distributed Teams
 
+# Literature Review: Distributed Teams

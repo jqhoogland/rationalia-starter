@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:57.694Z'
 ---
+
 # Good Explanations (Advice)
 
-This **Good Explanations (Advice)** tag  is for advice on how to write good explanations.
+This **Good Explanations (Advice)** tag is for advice on how to write good explanations.

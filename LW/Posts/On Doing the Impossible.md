@@ -16,5 +16,5 @@ sequence: Challenging the Difficult
 chapter: null
 synchedAt: '2022-08-30T08:17:32.052Z'
 ---
-# On Doing the Impossible
 
+# On Doing the Impossible

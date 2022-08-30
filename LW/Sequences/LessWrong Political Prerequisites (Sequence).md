@@ -10,6 +10,7 @@ aliases:
   - LessWrong Political Prerequisites
 synchedAt: '2022-08-29T17:16:42.691Z'
 ---
+
 # LessWrong Political Prerequisites
 
 Politics is a hard subject to discuss rationally. Correspondingly, LessWrong has a developed a unique set of norms and habits around discussions politics that still allow for dialog while hopefully avoiding many pitfalls. The exact norms are hard to summarize, but approximately they are:

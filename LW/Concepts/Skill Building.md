@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:58.984Z'
 ---
+
 # Skill Building
 
 **Skill Building** is the meta-skill of getting good at things i.e. developing procedural knowledge.

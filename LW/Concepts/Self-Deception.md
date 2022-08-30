@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:20.579Z'
 ---
+
 # Self-Deception
 
 **Self-deception** is a state of preserving a wrong [belief](https://lessestwrong.com/tag/belief), often facilitated by denying or [rationalizing away](https://lessestwrong.com/tag/rationalization) the relevance, significance, or importance of opposing [evidence](https://lessestwrong.com/tag/evidence) and logical arguments. Beliefs supported by self-deception are often chosen for reasons other than how closely those beliefs approximate [truth](https://lessestwrong.com/tag/truth-semantics-and-meaning).
@@ -30,7 +31,7 @@ An example from [No, Really, I've Deceived Myself](https://www.lesswrong.com/pos
 
 > *On the other hand, I think she really does believe she has deceived herself.*
 
-## Blog posts
+## Blog Posts
 
 - [Self-deception: Hypocrisy or Akrasia?](http://lesswrong.com/lw/h7/selfdeception_hypocrisy_or_akrasia/)
 
@@ -44,11 +45,11 @@ An example from [No, Really, I've Deceived Myself](https://www.lesswrong.com/pos
 - [Don't Believe You'll Self-Deceive](http://lesswrong.com/lw/1o/dont_believe_youll_selfdeceive)
 - [Striving to Accept](http://lesswrong.com/lw/1r/striving_to_accept)
 
-## Other resources
+## Other Resources
 
 - [Robin Hanson](https://wiki.lesswrong.com/wiki/Robin_Hanson) (2009). "Enhancing Our Truth Orientation". in Larissa Behrendt, Nick Bostrom. *Human Enhancement*. Oxford University Press. ([PDF](http://hanson.gmu.edu/moretrue.pdf))
 
-## See also
+## See Also
 
 - [Anti-epistemology](https://wiki.lesswrong.com/wiki/Anti-epistemology), [Belief in belief](https://wiki.lesswrong.com/wiki/Belief_in_belief)
 - [Semantic stopsign](https://wiki.lesswrong.com/wiki/Semantic_stopsign), [Compartmentalization](https://wiki.lesswrong.com/wiki/Compartmentalization), [Motivated skepticism](https://wiki.lesswrong.com/wiki/Motivated_skepticism)

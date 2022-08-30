@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:07.184Z'
 ---
+
 # Moloch
 
 **Moloch** is the personification of the forces that coerce competing individuals to take actions which, although locally optimal, ultimately lead to situations where everyone is worse off. Moreover, no individual is able to unilaterally break out of the dynamic. The situation is a bad Nash equilibrium. A trap.
@@ -24,12 +25,12 @@ The topic of Moloch receives a formal treatment in the sequence [Inadequate Equi
 
 From Allan Ginsberg's [Howl](https://www.poetryfoundation.org/poems/49303/howl):
 
-> *What sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?*  
-> *Moloch! Solitude! Filth! Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!*  
-> *Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!*  
-> *Moloch the incomprehensible prison! Moloch the crossbone soulless jailhouse and Congress of sorrows! Moloch whose buildings are judgment! Moloch the vast stone of war! Moloch the stunned governments!*  
-> *Moloch whose mind is pure machinery! Moloch whose blood is running money! Moloch whose fingers are ten armies! Moloch whose breast is a cannibal dynamo! Moloch whose ear is a smoking tomb!*  
-> *Moloch whose eyes are a thousand blind windows! Moloch whose skyscrapers stand in the long streets like endless Jehovahs! Moloch whose factories dream and croak in the fog! Moloch whose smoke-stacks and antennae crown the cities!*  
+> *What sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?*
+> *Moloch! Solitude! Filth! Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!*
+> *Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!*
+> *Moloch the incomprehensible prison! Moloch the crossbone soulless jailhouse and Congress of sorrows! Moloch whose buildings are judgment! Moloch the vast stone of war! Moloch the stunned governments!*
+> *Moloch whose mind is pure machinery! Moloch whose blood is running money! Moloch whose fingers are ten armies! Moloch whose breast is a cannibal dynamo! Moloch whose ear is a smoking tomb!*
+> *Moloch whose eyes are a thousand blind windows! Moloch whose skyscrapers stand in the long streets like endless Jehovahs! Moloch whose factories dream and croak in the fog! Moloch whose smoke-stacks and antennae crown the cities!*
 > *Moloch whose love is endless oil and stone! Moloch whose soul is electricity and banks! Moloch whose poverty is the specter of genius! Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!*
 
 See also: [[Eldritch Analogies]], [[Game Theory]], [[Group Rationality]], [[Social Reality]]

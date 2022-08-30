@@ -18,5 +18,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.175Z'
 ---
-# Is Science Slowing Down?
 
+# Is Science Slowing Down?

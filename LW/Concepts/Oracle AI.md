@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:41.116Z'
 ---
+
 # Oracle AI
 
 An **Oracle AI** is a regularly proposed solution to the problem of developing [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI). It is conceptualized as a super-intelligent system which is designed for only answering questions, and has no ability to act in the world. The name was first suggested by [[Nick Bostrom]].
 
-## See also
+## See Also
 
 - [[Instrumental Convergence|Basic AI drives]]
 - [[Tool AI]]
@@ -53,7 +54,7 @@ A *Question-Answerer* is a similar system that gathers data from the real world 
 
 Finally, a *Predictor* is seen as a system that takes a corpus of data and produces a probability distribution over future possible data. There are some proposed dangers with predictors, namely exhibiting goal-seeking behavior which does not converge with humanity goals and the ability to influence us through the predictions.
 
-## Further reading & References
+## Further Reading & References
 
 - [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
 - [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Armstrong, Sandberg and [[Nick Bostrom|Bostrom]]

@@ -18,5 +18,5 @@ sequence: Priming
 chapter: null
 synchedAt: '2022-08-30T08:16:38.264Z'
 ---
-# Fight Biases, or Route Around Them?
 
+# Fight Biases, or Route Around Them?

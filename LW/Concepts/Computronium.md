@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:48.347Z'
 ---
+
 # Computronium
 
 **Computronium** is a "theoretical arrangement of matter that is the most optimal possible form of computing device for that amount of matter. "

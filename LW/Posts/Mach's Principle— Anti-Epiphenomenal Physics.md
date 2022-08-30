@@ -17,5 +17,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.049Z'
 ---
-# Mach's Principle: Anti-Epiphenomenal Physics
 
+# Mach's Principle: Anti-Epiphenomenal Physics

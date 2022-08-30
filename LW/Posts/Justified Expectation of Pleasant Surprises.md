@@ -17,5 +17,5 @@ sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:51.028Z'
 ---
-# Justified Expectation of Pleasant Surprises
 
+# Justified Expectation of Pleasant Surprises

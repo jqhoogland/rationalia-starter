@@ -12,5 +12,5 @@ sequence: Noticing Confusion
 chapter: null
 synchedAt: '2022-08-30T08:17:56.798Z'
 ---
-# Hindsight Devalues Science
 
+# Hindsight Devalues Science

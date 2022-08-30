@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.747Z'
 ---
+
 # Startups
 
 **Startups** are small, recently-founded companies that are looking to grow much larger. They generally seek funding through venture capital investors.

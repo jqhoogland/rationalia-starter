@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:18.037Z'
 ---
-# Problem-solving (skills and techniques)
 
+# Problem-solving (skills and techniques)

@@ -17,5 +17,5 @@ sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.196Z'
 ---
-# My Childhood Death Spiral
 
+# My Childhood Death Spiral

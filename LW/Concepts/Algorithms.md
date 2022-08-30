@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:28.496Z'
 ---
+
 # Algorithms
 
 Posts that describe or demonstrate specific **Algorithms** that can be used to make decisions.

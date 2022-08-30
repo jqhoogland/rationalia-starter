@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:11:27.888Z'
 ---
+
 # Rationality: From AI To Zombies
 
 ***Rationality: From AI to Zombies*** is a 2015 ebook by [[Eliezer Yudkowsky]] on human rationality and irrationality in cognitive science. The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.org](https://intelligence.org/rationality-ai-zombies) or viewed on the website [readthesequences.com](https://www.readthesequences.com/) It is an edited and reorganized version of the [[Sequences]], a series of blog posts published to *Less Wrong* and *Overcoming Bias* between 2006 and 2009. *Rationality: From AI to Zombies* serves as a long-form introduction to formative ideas behind *Less Wrong*, the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]], the Center for Applied Rationality, and substantial parts of the effective altruism community.

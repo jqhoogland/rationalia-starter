@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:02:43.145Z'
 ---
+
 # Transhumanism
 
 **Transhumanism** is the belief or movement in favour of human enhancement, especially beyond current human limitations and with advanced technology such as AI, cognitive enhancement, and life extension.
@@ -34,6 +35,6 @@ synchedAt: '2022-08-29T11:02:43.145Z'
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 - [[Abolitionism]]
 
-## External links
+## External Links
 
 - [H+Pedia, the transhumanist wiki](https://hpluspedia.org/)

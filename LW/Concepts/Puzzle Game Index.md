@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:45.526Z'
 ---
+
 # Puzzle Game Index
 
 This page was inspired by [Better thinking through experiential games](http://lesswrong.com/lw/1cu/better_thinking_through_experiential_games/), and some of the comments on this post.
@@ -169,7 +170,7 @@ Logic-based puzzles
 
 **Skills required:** Visual-spatial logic skills. General logic skills.
 
-## Platform puzzle games
+## Platform Puzzle Games
 
 ## [Aether](http://www.kongregate.com/games/Edmund/aether)
 

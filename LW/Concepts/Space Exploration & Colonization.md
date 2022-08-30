@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.639Z'
 ---
+
 # Space Exploration & Colonization
 
 **Space Exploration & Colonization** involves humans or human-built machines traveling to other planets, star systems, or galaxies.

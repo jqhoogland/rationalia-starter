@@ -18,5 +18,5 @@ sequence: 2022 MIRI Alignment Discussion
 chapter: null
 synchedAt: '2022-08-30T08:17:01.588Z'
 ---
-# The inordinately slow spread of good AGI conversations in ML
 
+# The Inordinately Slow Spread of Good AGI Conversations in ML

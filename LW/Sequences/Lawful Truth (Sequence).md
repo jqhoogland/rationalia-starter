@@ -10,6 +10,7 @@ aliases:
   - Lawful Truth
 synchedAt: '2022-08-29T17:16:41.108Z'
 ---
+
 # Lawful Truth
 
 Just as it was useful to contrast humans as goal-oriented systems with inhuman processes in evolutionary biology and artificial intelligence, it will be useful in the coming sequences of essays to contrast humans as physical systems with inhuman processes that aren’t mind-like.

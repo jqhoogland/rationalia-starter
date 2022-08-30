@@ -10,6 +10,7 @@ aliases:
   - Yudkowsky's Coming of Age
 synchedAt: '2022-08-29T17:16:41.105Z'
 ---
+
 # Yudkowsky's Coming of Age
 
 This sequence provides a last in-depth illustration of the dynamics of irrational belief, this time spotlighting the author’s own intellectual history.

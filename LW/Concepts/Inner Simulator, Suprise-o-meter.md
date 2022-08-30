@@ -1,6 +1,6 @@
 ---
 _id: EdnFte9kTvWnRskrN
-title: Inner Simulator / Suprise-o-meter
+title: Inner Simulator, Suprise-o-meter
 href: https://lesswrong.com/tag/inner-simulator-suprise-o-meter
 slug: inner-simulator-suprise-o-meter
 type: tag
@@ -9,7 +9,11 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:16.953Z'
+aliases:
+- Inner Simulator
+- Surprise-o-meter
 ---
-# Inner Simulator / Suprise-o-meter
+
+# Inner Simulator, Suprise-o-meter
 
 **Inner Simulator** is a CFAR technique where you check how surprised you'd be if you got a particular outcome. Useful for pre-mortem-ing

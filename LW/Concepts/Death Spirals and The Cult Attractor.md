@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:10.389Z'
 ---
+
 # Death Spirals and The Cult Attractor
 
 A [subsequence](https://wiki.lesswrong.com/wiki/sequence) of [[How To Actually Change Your Mind|How to Actually Change Your Mind]] on two of the huger obstacles, the [[Affective Death Spiral|affective death spiral]] and the [cultishness attractor](https://wiki.lesswrong.com/wiki/cultishness_attractor).
@@ -20,14 +21,14 @@ Cultishness is an empirical attractor in human groups, roughly an affective deat
 
 Some overlap with the [[Politics Is The Mind-Killer|Politics is the Mind-Killer]] subsequence (preferably read that first).
 
-## Blog posts
+## Blog Posts
 
 - [The Affect Heuristic](http://lesswrong.com/lw/lg/the_affect_heuristic/)
-    - _[Evaluability and Cheap Holiday Shopping](http://lesswrong.com/lw/lh/evaluability_and_cheap_holiday_shopping/)_
-    - _[Unbounded Scales, Huge Jury Awards, & Futurism](http://lesswrong.com/lw/li/unbounded_scales_huge_jury_awards_futurism/)_
+    - *[Evaluability and Cheap Holiday Shopping](http://lesswrong.com/lw/lh/evaluability_and_cheap_holiday_shopping/)*
+    - *[Unbounded Scales, Huge Jury Awards, & Futurism](http://lesswrong.com/lw/li/unbounded_scales_huge_jury_awards_futurism/)*
 - [The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
-    - _[Superhero Bias](http://lesswrong.com/lw/lk/superhero_bias/)_
-    - _[Mere Messiahs](http://lesswrong.com/lw/ll/mere_messiahs/)_
+    - *[Superhero Bias](http://lesswrong.com/lw/lk/superhero_bias/)*
+    - *[Mere Messiahs](http://lesswrong.com/lw/ll/mere_messiahs/)*
 - [Affective Death Spirals](http://lesswrong.com/lw/lm/affective_death_spirals/)
 - [Resist the Happy Death Spiral](http://lesswrong.com/lw/ln/resist_the_happy_death_spiral/)
 - [Uncritical Supercriticality](http://lesswrong.com/lw/lo/uncritical_supercriticality/)
@@ -36,19 +37,19 @@ Some overlap with the [[Politics Is The Mind-Killer|Politics is the Mind-Killer]
 - [The Robbers Cave Experiment](http://lesswrong.com/lw/lt/the_robbers_cave_experiment/)
 - [Every Cause Wants to be a Cult](http://lesswrong.com/lw/lv/every_cause_wants_to_be_a_cult/)
 - [Guardians of the Truth](http://lesswrong.com/lw/lz/guardians_of_the_truth/)
-    - _[Guardians of the Gene Pool](http://lesswrong.com/lw/m0/guardians_of_the_gene_pool/)_
+    - *[Guardians of the Gene Pool](http://lesswrong.com/lw/m0/guardians_of_the_gene_pool/)*
     - [Guardians of Ayn Rand](http://lesswrong.com/lw/m1/guardians_of_ayn_rand/)
-- _[The Litany Against Gurus](http://lesswrong.com/lw/m2/the_litany_against_gurus/)_
+- *[The Litany Against Gurus](http://lesswrong.com/lw/m2/the_litany_against_gurus/)*
 - [Two Cult Koans](http://lesswrong.com/lw/m4/two_cult_koans/)
 - [Asch's Conformity Experiment](http://lesswrong.com/lw/m9/aschs_conformity_experiment/) \- The unanimous agreement of surrounding others can make subjects disbelieve (or at least, fail to report) what's right before their eyes. The addition of just one dissenter is enough to dramatically reduce the rates of improper [[Conformity Bias|conformity]].
 - [Lonely Dissent](http://lesswrong.com/lw/mb/lonely_dissent/)
 - [Cultish Countercultishness](http://lesswrong.com/lw/md/cultish_countercultishness/)
 
-## Other formats
+## Other Formats
 
 - [Readlist](http://readlists.com/1e32079b) \- view this sequence as an eBook using Readability.
 
-## See also
+## See Also
 
 - [[Groupthink]]
 - [[Halo Effect|Halo effect]]

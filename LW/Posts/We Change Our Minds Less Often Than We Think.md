@@ -17,5 +17,5 @@ sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.534Z'
 ---
-# We Change Our Minds Less Often Than We Think
 
+# We Change Our Minds Less Often Than We Think

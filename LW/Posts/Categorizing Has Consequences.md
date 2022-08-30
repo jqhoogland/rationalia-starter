@@ -16,5 +16,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.344Z'
 ---
-# Categorizing Has Consequences
 
+# Categorizing Has Consequences

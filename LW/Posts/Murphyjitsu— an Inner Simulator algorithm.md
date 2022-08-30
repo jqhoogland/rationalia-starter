@@ -17,5 +17,5 @@ sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.513Z'
 ---
-# Murphyjitsu: an Inner Simulator algorithm
 
+# Murphyjitsu: an Inner Simulator Algorithm

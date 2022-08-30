@@ -17,5 +17,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.735Z'
 ---
-# Evaluability (And Cheap Holiday Shopping)
 
+# Evaluability (And Cheap Holiday Shopping)

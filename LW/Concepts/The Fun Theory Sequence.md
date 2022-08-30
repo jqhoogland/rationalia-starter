@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:17.774Z'
 ---
+
 # The Fun Theory Sequence
 
 A concrete theory of transhuman values. How much fun is there in the universe; will we ever run out of fun; are we having fun yet; could we be having more fun. Part of the [[Complexity of Value|complexity of value]] thesis. Also forms part of the fully general answer to religious [theodicy](https://wiki.lesswrong.com/wiki/theodicy).
@@ -43,6 +44,6 @@ A guide to this sequence is available at [The Fun Theory Sequence (post)](http:/
 - [The Uses of Fun (Theory)](http://lesswrong.com/lw/xc/the_uses_of_fun_theory/)
 - [Higher Purpose](http://lesswrong.com/lw/xw/higher_purpose/)
 
-## See also
+## See Also
 
 - [[Fun Theory|Fun theory]]

@@ -10,12 +10,13 @@ aliases:
   - Agency
 synchedAt: '2022-08-29T17:16:42.689Z'
 ---
+
 # Agency
 
-*A mind must be created already in motion.*  
-*There is no argument so compelling*  
-*that it will give dynamics to a static thing.*  
-*There is no computer program so persuasive*  
+*A mind must be created already in motion.*
+*There is no argument so compelling*
+*that it will give dynamics to a static thing.*
+*There is no computer program so persuasive*
 *that you can run it on a rock.*
 
 This second book is about agency, the ability to take action in the world and control the future.

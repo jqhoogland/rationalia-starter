@@ -12,5 +12,5 @@ sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:59.242Z'
 ---
-# Outside the Laboratory
 
+# Outside the Laboratory

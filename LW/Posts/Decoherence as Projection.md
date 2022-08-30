@@ -15,5 +15,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.857Z'
 ---
-# Decoherence as Projection
 
+# Decoherence as Projection

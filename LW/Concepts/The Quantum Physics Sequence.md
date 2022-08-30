@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:12:36.967Z'
 ---
+
 # The Quantum Physics Sequence
 
 A *non-mysterious* introduction to quantum mechanics, intended to be accessible to anyone who can grok algebra and complex numbers. Cleaning up the old confusion about QM is used to introduce basic issues in rationality (such as the technical version of [[Occam's Razor]]), epistemology, reductionism, naturalism, and philosophy of science. *Not* dispensable reading, even though the exact reasons for the digression are hard to explain in advance of reading.
@@ -90,7 +91,7 @@ A guide to this sequence is available at [The Quantum Physics Sequence (post)](h
 - [Class Project](http://lesswrong.com/lw/qt/class_project/)
 - [Why Quantum?](http://lesswrong.com/lw/qy/why_quantum/)
 
-## See also
+## See Also
 
 - [[Quantum Mechanics|Quantum mechanics]]
 - [[Decoherence]]

@@ -21,5 +21,5 @@ sequence: Reality & Reason
 chapter: null
 synchedAt: '2022-08-30T08:17:52.611Z'
 ---
-# A non-mystical explanation of "no-self" (three characteristics series)
 
+# A Non-mystical Explanation of "no-self" (three Characteristics series)

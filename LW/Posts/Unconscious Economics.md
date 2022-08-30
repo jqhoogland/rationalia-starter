@@ -16,5 +16,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.900Z'
 ---
-# Unconscious Economics
 
+# Unconscious Economics

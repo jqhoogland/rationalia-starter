@@ -18,5 +18,5 @@ sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.525Z'
 ---
-# Trigger-Action Planning
 
+# Trigger-Action Planning

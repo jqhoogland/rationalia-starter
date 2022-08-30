@@ -10,6 +10,7 @@ aliases:
   - Positivism and Self Deception
 synchedAt: '2022-08-29T17:16:37.978Z'
 ---
+
 # Positivism and Self Deception
 
 Sequence by [Scott Alexander](https://www.lesswrong.com/users/yvain) on exactly what the title says. Imported from [the wiki](https://wiki.lesswrong.com/wiki/Positivism,_Self_Deception,_and_Neuroscience_(sequence)).

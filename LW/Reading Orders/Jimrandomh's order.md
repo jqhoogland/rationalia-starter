@@ -6,7 +6,8 @@ tags:
   - Sequence
 synchedAt: '2022-08-29T11:16:45.929Z'
 ---
-# undefined
+
+# Undefined
 
 # Chapters
 
@@ -18,7 +19,6 @@ synchedAt: '2022-08-29T11:16:45.929Z'
 - [[Efficient Charity— Do Unto Others...]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
 
-
 ## Top-25
 
 - [[About Less Wrong]]
@@ -29,7 +29,7 @@ synchedAt: '2022-08-29T11:16:45.929Z'
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
 - [[Diseased thinking— dissolving questions about disease]]
 - [[Humans are not automatically strategic]]
-- [[Ugh Fields]]
+- [[Ugh Fields (Post)]]
 - [[Probability is in the Mind]]
 - [[How An Algorithm Feels From Inside]]
 - [[Knowing About Biases Can Hurt People]]
@@ -37,11 +37,10 @@ synchedAt: '2022-08-29T11:16:45.929Z'
 - [[Taboo Your Words]]
 - [[The Fallacy of Gray]]
 - [[Mind Projection Fallacy]]
-- [[Reductionism]]
+- [[Reductionism (Post)]]
 - [[Privileging the Hypothesis]]
 - [[Conservation of Expected Evidence]]
 - [[The Apologist and the Revolutionary]]
-
 
 ## Top-50
 
@@ -71,7 +70,6 @@ synchedAt: '2022-08-29T11:16:45.929Z'
 - [[Politics is the Mind-Killer]]
 - [[Newcomb's Problem and Regret of Rationality]]
 
-
 ## Top-75
 
 - [[Semantic Stopsigns]]
@@ -99,7 +97,6 @@ synchedAt: '2022-08-29T11:16:45.929Z'
 - [[The Virtue of Narrowness]]
 - [[Generalizing From One Example]]
 - [[Belief in Belief]]
-
 
 ## Top-100
 

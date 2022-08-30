@@ -16,5 +16,5 @@ sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:41.867Z'
 ---
-# Chapter 67: Self Actualization, Pt 2
 
+# Chapter 67: Self Actualization, Pt 2

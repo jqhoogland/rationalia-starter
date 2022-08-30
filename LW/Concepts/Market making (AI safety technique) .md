@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:15.426Z'
 ---
-# Market making (AI safety technique) 
 
+# Market Making (AI Safety technique)

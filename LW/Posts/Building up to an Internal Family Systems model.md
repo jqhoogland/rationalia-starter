@@ -20,5 +20,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.068Z'
 ---
-# Building up to an Internal Family Systems model
 
+# Building up to an Internal Family Systems Model

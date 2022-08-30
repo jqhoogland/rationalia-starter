@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:07.542Z'
 ---
+
 # No-Nonsense Metaethics
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://lesswrong.com/user/lukeprog/) that explains and defends a naturalistic approach to metaethics.

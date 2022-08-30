@@ -16,5 +16,5 @@ sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.166Z'
 ---
-# Varieties Of Argumentative Experience
 
+# Varieties Of Argumentative Experience

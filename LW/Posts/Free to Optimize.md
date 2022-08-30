@@ -16,5 +16,5 @@ sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.707Z'
 ---
-# Free to Optimize
 
+# Free to Optimize

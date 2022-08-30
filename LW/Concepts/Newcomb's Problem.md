@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:13.427Z'
 ---
+
 # Newcomb's Problem
 
 **Newcomb's Problem** is a thought experiment in decision theory exploring problems posed by having other agents in the environment who can predict your actions.
@@ -20,7 +21,7 @@ From [[Newcomb's Problem and Regret of Rationality]]:
 
 > A superintelligence from another galaxy, whom we shall call Omega, comes to Earth and sets about playing a strange little game. In this game, Omega selects a human being, sets down two boxes in front of them, and flies away.
 
-> Box A is transparent and contains a thousand dollars.  
+> Box A is transparent and contains a thousand dollars.
 > Box B is opaque, and contains either a million dollars, or nothing.
 
 > You can take both boxes, or take only box B.

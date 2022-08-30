@@ -15,5 +15,5 @@ sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.539Z'
 ---
-# The "Spot the Fakes" Test
 
+# The "Spot the Fakes" Test

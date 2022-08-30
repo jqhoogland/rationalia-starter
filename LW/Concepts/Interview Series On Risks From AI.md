@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:12.112Z'
 ---
+
 # Interview Series On Risks From AI
 
 In 2011, [Alexander Kruel](http://kruel.co) (XiXiDu) started a Q&A style **interview series asking various people about their perception of artificial intelligence** and possible risks associated with it.
@@ -49,28 +50,28 @@ The current set of questions:
 ## Mail Template
 
 > The exact wording of the email:
-> 
+>
 > Subject: Questions regarding possible risks from artificial intelligence
-> 
+>
 > Dear Professor/Dr NAME,
-> 
+>
 > I am currently trying to learn more about the academic perception of artificial general intelligence and possible risks associated with it. Consequently I am curious about your opinion as a noted expert.
-> 
+>
 > I would like to ask you a few questions and your permission to publish your possible answers in order to estimate the academic awareness and perception of risks from AI. I am not a journalist and do not represent any publication, nor do I maintain a formal academic relationship. I am conducting an informal interview for a community blog: lesswrong.com
-> 
+>
 > Please let me know if you have any questions or if you are interested in third-party material that does expand on various aspects of my questions.
-> 
+>
 > Here is a list of people that I had a chance to interview so far: NAMES
-> 
+>
 > QUESTIONS
-> 
+>
 > Yours sincerely,
-> 
+>
 > NAME
-> 
+>
 > ADDRESS
 
-## See also
+## See Also
 
 - [[Muehlhauser Interview Series On AGI|Muehlhauser interview series on AGI]]
 - [When Will AI Be Created?](http://intelligence.org/2013/05/15/when-will-ai-be-created/)

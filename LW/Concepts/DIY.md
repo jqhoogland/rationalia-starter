@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:25.310Z'
 ---
+
 # DIY
 
 **DIY** means **Do It Yourself**. 

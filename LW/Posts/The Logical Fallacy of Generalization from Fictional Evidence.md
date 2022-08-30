@@ -19,5 +19,5 @@ sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.505Z'
 ---
-# The Logical Fallacy of Generalization from Fictional Evidence
 
+# The Logical Fallacy of Generalization From Fictional Evidence

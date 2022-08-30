@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences
 synchedAt: '2022-08-30T08:17:57.375Z'
 ---
-# Beware Trivial Inconveniences
 
+# Beware Trivial Inconveniences

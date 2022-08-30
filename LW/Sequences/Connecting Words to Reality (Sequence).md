@@ -10,6 +10,7 @@ aliases:
   - Connecting Words to Reality
 synchedAt: '2022-08-29T17:16:36.905Z'
 ---
+
 # Connecting Words to Reality
 
 *Part 5 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*

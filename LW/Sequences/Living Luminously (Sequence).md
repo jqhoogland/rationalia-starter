@@ -10,6 +10,7 @@ aliases:
   - Living Luminously
 synchedAt: '2022-08-29T17:16:42.636Z'
 ---
+
 # Living Luminously
 
 [Luminosity](https://wiki.lesswrong.com/wiki/Luminosity), as used here, is self-awareness. A luminous mental state is one that you have and know that you have. It could be an [emotion](https://wiki.lesswrong.com/wiki/Emotion), a [belief](https://wiki.lesswrong.com/wiki/Belief) or [alief](https://wiki.lesswrong.com/wiki/Alief), a disposition, a [quale](https://wiki.lesswrong.com/index.php?title=Qualia&action=edit&redlink=1), a memory - anything that might happen or be stored in your brain. What's going on in your head?
@@ -18,15 +19,11 @@ synchedAt: '2022-08-29T17:16:42.636Z'
 
 ### Living Luminously
 
-
-
-
 ### Background Material
 
 - [[Sorting Out Sticky Brains]]
 - [[Mental Crystallography]]
 - [[Generalizing From One Example]]
-
 
 ### Living Luminously
 
@@ -39,7 +36,6 @@ synchedAt: '2022-08-29T17:16:42.636Z'
 - [[Highlights and Shadows]]
 - [[City of Lights]]
 - [[Lampshading]]
-
 
 ### Bonus Posts
 

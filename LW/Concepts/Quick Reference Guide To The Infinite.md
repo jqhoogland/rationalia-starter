@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:46.186Z'
 ---
+
 # Quick Reference Guide To The Infinite
 
 The purpose of this article is to act as a **quick reference to address common confusions regarding infinite quantities**, and how to measure infinite sets. Most of the detailed explanation is offloaded to Wikipedia. Remember: Sometimes inventing a new sort of answer is necessary! If you are a [[Infinite Set Atheism|finitist]], you can probably ignore this.
@@ -49,16 +50,15 @@ Quick aside on partial orderings
 
 You may be wondering how to think about something like "neither larger nor smaller, but not the same". Formally, we say that, without choice, the ordering on the cardinal numbers is a [partial order](http://en.wikipedia.org/wiki/Partially_ordered_set). Because these are so common I'll go ahead and define this here - generally, a partial order on a set S is a relation (usually denoted "≤") on S such that:
 
-`  1. For every x in S, x≤x (reflexivity)`  
-`  2. For any x and y in S, if x≤y and y≤x, then x=y (antisymmetry)`  
+`  1. For every x in S, x≤x (reflexivity)`
+`  2. For any x and y in S, if x≤y and y≤x, then x=y (antisymmetry)`
 `  3. For any x,y,z in S, if x≤y and y≤z, then x≤z (transitivity)`
 
 If we additionally required that for any $x$ and $y$ in $S$, we have either x≤y or y≤x, we'd have a [total order](http://en.wikipedia.org/wiki/Total_order) (also called a linear order).
 
 OK, but still, what does "neither larger nor smaller, yet not the same" mean in general? How can you visualize it? Well, the canonical example of a partial order would be, if we have any set $S$, we can partially order its subsets by defining A≤B to mean $A \subseteq B$. So if $S=\{1,2,3,4\}$, then $\{1,2\}$ is larger than $\{1\}$ and $\{2\}$, and smaller than $\{1,2,4\}$, but incomparable to $\{3\}$ or $\{2,3\}$ or $\{2,3,4\}$.
 
-
-Another example would be, if we have ordered $n$-tuples of real numbers, we could define $(x1,...,xn)\leq(y1,...,yn)$ if $x_i\leq y_i$ for each $i$. You might imagine these as, say, stats of characters in a game; then x≤y would mean that character y is better than character x in every way. To say that x and y are incomparable would mean that - though in practice one might be better on the whole - neither is obviously better. More generally, in any game, you could define a partial order on strategies by x≤y if y dominates x.
+Another example would be, if we have ordered $n$-tuples of real numbers, we could define $(x1,…,xn)\leq(y1,…,yn)$ if $x_i\leq y_i$ for each $i$. You might imagine these as, say, stats of characters in a game; then x≤y would mean that character y is better than character x in every way. To say that x and y are incomparable would mean that - though in practice one might be better on the whole - neither is obviously better. More generally, in any game, you could define a partial order on strategies by x≤y if y dominates x.
 
 Note that partial orders are sufficiently common that for many math people the word "order" means "partial order" by default.
 
@@ -80,9 +80,9 @@ Contrast the smallest infinite ordinal, denoted ω, with ℵ~0~, which is (assum
 
 **Application**: See link.
 
-## Ordinal numbers with [natural operations](http://en.wikipedia.org/wiki/Ordinal_arithmetic#Natural_operations)
+## Ordinal Numbers with [natural operations](http://en.wikipedia.org/wiki/Ordinal_arithmetic#Natural_operations)
 
-There's an alternate way of doing arithmetic on the ordinals, referred to as the "natural operations". These sacrifice the continuity properties of the ordinary operations, but in return get commutativity, distributivity, cancellation... the things we need to make the algebra nice. There's a natural addition, a natural multiplication, and apparently a natural exponentiation, though I don't know what that last one might be.
+There's an alternate way of doing arithmetic on the ordinals, referred to as the "natural operations". These sacrifice the continuity properties of the ordinary operations, but in return get commutativity, distributivity, cancellation… the things we need to make the algebra nice. There's a natural addition, a natural multiplication, and apparently a natural exponentiation, though I don't know what that last one might be.
 
 If you've heard "the ordinals embed in the surreals", and were very confused by that statement because the surreals are commutative when the ordinals are not, the answer is that the correct statement is that the ordinals with natural operations embed in the surreals, rather than the ordinals with their usual operations.
 
@@ -94,7 +94,7 @@ Sometimes, we just use the set of nonnegative real numbers with an infinity elem
 
 Fact: Sometimes such a thing just wouldn't make sense.
 
-**Application**: This is what we do in measure theory - i.e. anywhere integration or expected value (and hence, in the usual formulations, utility) is involved. If you want to claim that in your utility function, options A and B both have infinite utility, but the utility of B is more infinite than that of A... first you're going to have to make a framework in which that makes sense. Such a thing might indeed make sense, but you'll have to explain how, as our usual framework for utility doesn't allow such things. (The problem is that adding multiple distinct infinities tends to ruin the continuity properties of the real numbers that make integration possible in the first place, but I'm sure if you look someone must have come up with some method for getting around that in some cases.)
+**Application**: This is what we do in measure theory - i.e. anywhere integration or expected value (and hence, in the usual formulations, utility) is involved. If you want to claim that in your utility function, options A and B both have infinite utility, but the utility of B is more infinite than that of A… first you're going to have to make a framework in which that makes sense. Such a thing might indeed make sense, but you'll have to explain how, as our usual framework for utility doesn't allow such things. (The problem is that adding multiple distinct infinities tends to ruin the continuity properties of the real numbers that make integration possible in the first place, but I'm sure if you look someone must have come up with some method for getting around that in some cases.)
 
 Sometimes we allow negative numbers and -∞ as well, though this can cause a problem because there's no sensible way to define ∞+(-∞). (0∞, on the other hand, is just 0. We make this definition because, e.g., the area of an infinitely-long-but-infinitely-thin line should still be 0.)
 
@@ -108,57 +108,57 @@ Sometimes we don't even care about the distinction between a "positive infinity"
 
 What [nonstandard analysis](http://en.wikipedia.org/wiki/Non-standard_analysis) uses. These are more used as a means to deduce properties of the real numbers than used for their own sake. You can't even speak of "the" hypperreal numbers, because then you'd have to specify what ultrafilter you were using. Even just proving these exist requires [a form of choice](http://en.wikipedia.org/wiki/Boolean_prime_ideal_theorem#The_ultrafilter_lemma). You probably don't want to use these to represent anything.
 
-## The [surreal numbers](http://en.wikipedia.org/wiki/Surreal_number): the infinity kitchen sink
+## The [surreal numbers](http://en.wikipedia.org/wiki/Surreal_number): the Infinity Kitchen Sink
 
 For when you absolutely, positively, have to make sense of an expression involving infinite quantities. The surreal numbers are pretty much as infinite as you could possibly want. They contain the ordinals with their natural operations, but they allow for so much more. Do you need to take the natural logarithm of ω? And then divide π by it? And then raise the whole thing to the √(ω2+πω) power? And then subtract ω^√8^? In the surreal numbers, this all makes sense. Somehow. (And if you need square roots of negative numbers, you can always pass to the surcomplex numbers, which I guess is the actual kitchen sink.)
 
 **Application**: Again, kitchen sink.
 
-## ...and many more
+## …and Many More
 
 Often the thing to do is make an ad-hoc system to fit the occasion. For instance, we could simply take the real numbers **R** and tack on an element ∞, insist it obey the ordinary rules of algebra, and order appropriately. (Formally, take the ring **R**\[T\], and order lexicographically. Then perhaps extend to **R**(T), or whatever else you might like. And of course call it "∞" rather than "T".) So (∞+1)(∞-1)=∞^2^-1, etc. What is this good for? I have no idea, but it's a simple brute-force way of tossing in infinities when needed.
 
-## Also: functions, which are probably more appropriate a lot of the time
+## Also: Functions, Which Are Probably More Appropriate a Lot of the Time
 
 Let's not forget - oftentimes the appropriate thing to do is not to start tossing about infinities at all, but rather shift from thinking about numbers to thinking about functions. You know what's larger than any constant number? x. What's even larger? x². (If we only consider polynomial functions, this is equivalent to the "brute-force" system above, under the equivalence x↔∞.) Much larger? e^x^. Is x too large? Maybe you want log x. Etc.
 
 Ways of measuring infinite sets
 ===============================
 
-The thing about measuring infinite sets is that we have a trade-off between discrimination and applicability. Cardinality can be applied to any set at all, but it's a very coarse-grained way of measuring things. If you want to measure a subset of the plane, you'd be better off asking for its area... just don't think you can ask for the "area" of a set of integers.
+The thing about measuring infinite sets is that we have a trade-off between discrimination and applicability. Cardinality can be applied to any set at all, but it's a very coarse-grained way of measuring things. If you want to measure a subset of the plane, you'd be better off asking for its area… just don't think you can ask for the "area" of a set of integers.
 
-## Cardinal numbers (again)
+## Cardinal Numbers (again)
 
-The most basic method. Every set has a cardinality. But the cost of such universality is a very low resolution. The set of natural numbers has cardinality ℵ~0~, but so does the set of even numbers, the set of rational numbers, the set of algebraic numbers, the set of [computable real numbers](http://en.wikipedia.org/wiki/Computable_number)...
+The most basic method. Every set has a cardinality. But the cost of such universality is a very low resolution. The set of natural numbers has cardinality ℵ~0~, but so does the set of even numbers, the set of rational numbers, the set of algebraic numbers, the set of [computable real numbers](http://en.wikipedia.org/wiki/Computable_number)…
 
 Note that the set of real numbers is much larger and has cardinality 2^ℵ^~^0^~. (This is not to be confused with ℵ~1~, which [(assuming choice again)](http://en.wikipedia.org/wiki/Axiom_of_choice) is the second-smallest infinite cardinal. The question of whether 2^ℵ^~^0^~=ℵ~1~ is known as the [continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis).)
 
 If we are working with subsets T of a given set S, we can do a bit better by not just looking at |T|, but also at |S-T| (the size of the complement of T in S). For instance, the set of natural numbers greater than 8, and the set of even natural numbers, both have cardinality ℵ~0~, but within the context of the natural numbers, the former has finite complement (numbers at most 8), while the latter has infinite complement (all odd numbers).
 
-## Occasionally: ordinals
+## Occasionally: Ordinals
 
 If the sets you're working with come with well-orderings, you can consider the type of well-ordering as a "size", and thus measure sizes with ordinals. If they don't have well-orderings, this doesn't apply.
 
-## [Measure](http://en.wikipedia.org/wiki/Measure_%28mathematics%29): the old fallback
+## [Measure](http://en.wikipedia.org/wiki/Measure_%28mathematics%29): The Old Fallback
 
-Most commonly we use the notion of a measure to measure sizes of subsets T of a given set S. This just means that we designate some of the subsets T of S as "measurable" (with a few requirements - the whole set S must be measurable; complements of measurable sets must be measurable; a union of countably many measurable sets must be measurable) and assign them a number called their measure, which I'll denote μ(T). μ takes values in the extended positive real line (see above): It can be any nonnegative real number, or just a flat ∞. We require that the empty set have measure 0, that if A and B are disjoint sets then μ(A∪B)=μ(A)+μ(B) (called "finite additivity"), and more generally that if we have a countable collection of sets A1, A2, ..., with none of them overlapping any of the others, then the measure of their union is the sum of their measures. (Called "countable additivity"; this infinite sum automatically makes sense because all the numbers involved are nonnegative.)
+Most commonly we use the notion of a measure to measure sizes of subsets T of a given set S. This just means that we designate some of the subsets T of S as "measurable" (with a few requirements - the whole set S must be measurable; complements of measurable sets must be measurable; a union of countably many measurable sets must be measurable) and assign them a number called their measure, which I'll denote μ(T). μ takes values in the extended positive real line (see above): It can be any nonnegative real number, or just a flat ∞. We require that the empty set have measure 0, that if A and B are disjoint sets then μ(A∪B)=μ(A)+μ(B) (called "finite additivity"), and more generally that if we have a countable collection of sets A1, A2, …, with none of them overlapping any of the others, then the measure of their union is the sum of their measures. (Called "countable additivity"; this infinite sum automatically makes sense because all the numbers involved are nonnegative.)
 
 The function μ itself is called a measure on S. So if we have a set S and a measure on it, we have a way to measure the sizes of subsets of it (well, the measurable ones, anyway). Of course, this is all very non-specific; by itself, this doesn't help us much.
 
 Fortunately, the set of real numbers **R** comes equipped with a natural measure, known as [Lebesgue measure](http://en.wikipedia.org/wiki/Lebesgue_measure). So does n-dimensional Euclidean space for every n. And indeed so do a lot of the natural spaces we encounter. So while simply shouting "there's a measure!", without stating what that measure might be, does not solve any problems, in practice there's often one natural measure (up to multiplication by some positive constant). See in particular: [Haar measure](http://en.wikipedia.org/wiki/Haar_measure).
 
-If we have a set S with a measure μ such that μ(S)=1, then we have a [probability space](http://en.wikipedia.org/wiki/Probability_space). This is how we formalize probability mathematically: We have some set S of possibilities, equipped with a measure, and the measure of a set of possibilities is its probability. Except, of course, that I'm sure many here would insist only on finite additivity rather than countable additivity...
+If we have a set S with a measure μ such that μ(S)=1, then we have a [probability space](http://en.wikipedia.org/wiki/Probability_space). This is how we formalize probability mathematically: We have some set S of possibilities, equipped with a measure, and the measure of a set of possibilities is its probability. Except, of course, that I'm sure many here would insist only on finite additivity rather than countable additivity…
 
 Note that if μ(S) is finite, then μ(S-T)=μ(S)-μ(T). However, if μ(S)=∞, and μ(T)=∞ also, this doesn't work; ∞-∞ is not defined in this context, and μ(S-T) could be any extended nonnegative real number. So note that if we're working in a set of infinite measure, and we're comparing subsets which themselves have infinite measure, we can possibly gain some extra information by comparing the measures of the complements as well.
 
 Here on LessWrong, when discussing multiverse-based notions, we'll typically assume that the set of universes comes equipped in some way with a natural measure. If the universes are the many worlds of MWI, then this measure will be proportional to squared-norm-of-amplitude.
 
-## Measuring subsets of the natural numbers
+## Measuring Subsets of the Natural Numbers
 
 So it seems like 2**N** should be half the size of N, right? Well there's an easy way to accomplish this: Given a set A of natural numbers, we define its [natural density](http://en.wikipedia.org/wiki/Natural_density) to be limn→∞ A(n)/n, where A(n) denotes the number of elements of A that are at most n. At least, we can do this if the limit exists. It doesn't always. But when it does it does what we want pretty well. What if the limit doesn't exist? Well, we could use a [limsup or a liminf](http://en.wikipedia.org/wiki/Limit_superior_and_limit_inferior) instead, and get upper and lower densities. Or take some other approach, such as [Schnirelmann density](http://en.wikipedia.org/wiki/Schnirelmann_density), where we just take an inf.
 
 Of course, for sets of density 0, this may not be enough information. Here we can pull out another trick from above: Don't use numbers, use functions! We can just ask what function A(n) approximates ([asymptotically](http://en.wikipedia.org/wiki/Asymptotic_analysis)). For instance, the prime numbers have density 0, but a much more informative statement is the [prime number theorem](http://en.wikipedia.org/wiki/Prime_number_theorem), which states that if P is the set of prime numbers, then P(n)~n/(log n).
 
-## ...etc...
+## …etc…
 
-Of course, the real point of all these examples was simply to demonstrate: Depending on what sort of thing you want to measure, you'll need different tools! So there's many more tools out there, and sometimes you may just need to invent your own...
+Of course, the real point of all these examples was simply to demonstrate: Depending on what sort of thing you want to measure, you'll need different tools! So there's many more tools out there, and sometimes you may just need to invent your own…

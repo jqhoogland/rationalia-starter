@@ -10,17 +10,18 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:04.436Z'
 ---
+
 # Underconfidence
 
 **Underconfidence** is the state of being more uncertain than is justified, given your [priors](https://wiki.lesswrong.com/wiki/prior) and the evidence you are aware of.
 
-## Blog posts
+## Blog Posts
 
 - ["I don't know."](http://lesswrong.com/lw/gs/i_dont_know/)
 - [The Sin of Underconfidence](http://lesswrong.com/lw/c3/the_sin_of_underconfidence/)
 - [The Importance of Self-Doubt](http://lesswrong.com/lw/2lr/the_importance_of_selfdoubt/) by multifoliaterose
 
-## See also
+## See Also
 
 - [[Overconfidence]]
 - [[Humility|Modesty]]

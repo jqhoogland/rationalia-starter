@@ -16,5 +16,5 @@ sequence: Categorisation and Concepts
 chapter: Interlude
 synchedAt: '2022-08-30T08:17:41.440Z'
 ---
-# The Moral Of The Story
 
+# The Moral Of The Story

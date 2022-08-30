@@ -10,6 +10,7 @@ aliases:
   - Coordination
 synchedAt: '2022-08-29T17:16:37.096Z'
 ---
+
 # Coordination
 
 *"Indeed. Moving from bad equilibria to better equilibria is the whole point of having a civilization in the first place."*

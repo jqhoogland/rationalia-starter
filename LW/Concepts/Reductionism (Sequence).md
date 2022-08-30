@@ -10,9 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:42.378Z'
 ---
+
 # Reductionism (Sequence)
 
-How to take reality apart into pieces... and live in that universe, where we have always lived, without feeling disappointed about the fact that complicated things are made of simpler things.
+How to take reality apart into pieces… and live in that universe, where we have always lived, without feeling disappointed about the fact that complicated things are made of simpler things.
 
 Definitely one of the core LW sequences. Written by [[Eliezer Yudkowsky]], ran from 08 Mar 2008 to 05 Apr 2008, with scattered other posts elsewhere.
 
@@ -42,7 +43,7 @@ Early posts out of sequence:
 - [Universal Fire](http://lesswrong.com/lw/hq/universal_fire/)
 - [Universal Law](http://lesswrong.com/lw/hr/universal_law/)
 
-## Main sequence
+## Main Sequence
 
 - [Dissolving the Question](http://lesswrong.com/lw/of/dissolving_the_question/)
 - [Wrong Questions](http://lesswrong.com/lw/og/wrong_questions/)
@@ -65,11 +66,11 @@ Early posts out of sequence:
 - [Excluding the Supernatural](http://lesswrong.com/lw/tv/excluding_the_supernatural/)
 - [Psychic Powers](http://lesswrong.com/lw/tw/psychic_powers/)
 
-## See also
+## See Also
 
 - [[Reductionism]]
 
-## Alternative formats
+## Alternative Formats
 
 - Podcast: [http://castify.co/channels/43-reductionism](http://castify.co/channels/43-reductionism)
 - Readlists: This is a compilation of the sequence Reductionism available as an ebook (mobi, epub) [http://readlists.com/7afaf45e/](http://readlists.com/7afaf45e/)

@@ -12,5 +12,5 @@ sequence: Quantum Physics and Many Worlds
 chapter: null
 synchedAt: '2022-08-30T08:17:57.026Z'
 ---
-# Privileging the Hypothesis
 
+# Privileging the Hypothesis

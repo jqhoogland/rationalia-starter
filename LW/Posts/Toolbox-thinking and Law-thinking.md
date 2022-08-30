@@ -18,5 +18,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:54.251Z'
 ---
-# Toolbox-thinking and Law-thinking
 
+# Toolbox-thinking and Law-thinking

@@ -16,5 +16,5 @@ sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.103Z'
 ---
-# Chapter 104: The Truth, Pt 1, Riddles and Answers
 
+# Chapter 104: The Truth, Pt 1, Riddles and Answers

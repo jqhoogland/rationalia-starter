@@ -10,6 +10,7 @@ aliases:
   - Modularity
 synchedAt: '2022-08-29T17:16:42.660Z'
 ---
+
 # Modularity
 
 The second book is about modularity. Well designed or evolved structures are often not just made of parts, but made of parts with simple interfaces. These interfaces allow the parts to be reused in alternative contexts, and thus recombined in different ways.

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:19.442Z'
 ---
+
 # Aumann Agreement
 
 **[[Aumann's Agreement Theorem|Aumann's agreement theorem]]** states that [[Bayes' Theorem|Bayesian]] reasoners with [[Common Priors|common priors]] and [[Common Knowledge|common knowledge]] of each other's opinions *cannot* agree to [[Disagreement|disagree]]. This has enormous intuitive implication on the human practice of rationality. Consider: if *I'm* an honest seeker of truth, and *you're* an honest seeker of truth, and we *believe* each other to be honest, then we can update on each other's opinions and quickly reach **agreement**. Unless you think I'm so irredeemably irrational that my opinions *anti*correlate with truth, then the very fact that I believe something is Bayesian evidence that that something is true, and you should take that into account when forming your belief. Likewise, fellow rationalists should update their beliefs on your beliefs, *not* as a social custom or personal courtesy, but simply because your rational belief really *is* Bayesian evidence about the state of the world, in the same way that a photograph or a reference book is evidence about the state of the world.
@@ -18,11 +19,11 @@ The process of true Bayesians coming to agreement bears precious little resembla
 
 The fact that disagreements on questions of simple fact are so common amongst humans, and that people seem to think this is *normal*, is an observation that should [[No Safe Defense|strike fear into the heart]] of every aspiring rationalist.
 
-## Blog posts
+## Blog Posts
 
 - [We Can't Forsee to Disagree](http://www.overcomingbias.com/2007/01/we_cant_foresee.html) by [[Robin Hanson]]
 
-## See also
+## See Also
 
 - [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
 - [[Disagreement]]

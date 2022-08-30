@@ -17,5 +17,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.833Z'
 ---
-# Could Anything Be Right?
 
+# Could Anything Be Right?

@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.268Z'
 ---
-# There is no try
 
+# There is No Try

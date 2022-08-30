@@ -17,5 +17,5 @@ sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:34.035Z'
 ---
-# Interfaces as a Scarce Resource
 
+# Interfaces as a Scarce Resource

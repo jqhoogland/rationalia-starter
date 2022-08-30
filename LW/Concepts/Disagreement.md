@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:08.562Z'
 ---
+
 # Disagreement
 
 **Disagreement** is when two people have different beliefs.
@@ -30,7 +31,7 @@ Outside of well-functioning [prediction markets](https://lessestwrong.com/tag/pr
 - [The Seven Causes of Disagreement](http://www.spencergreenberg.com/2011/12/the-seven-causes-of-disagreement/) by Spencer Greenberg
 - [How to Disagree](http://www.paulgraham.com/disagree.html) by Paul Graham
 
-## See also
+## See Also
 
 - [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
 - [Modesty argument](https://lessestwrong.com/tag/modesty-argument)

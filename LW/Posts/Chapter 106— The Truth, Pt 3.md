@@ -15,5 +15,5 @@ sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.199Z'
 ---
-# Chapter 106: The Truth, Pt 3
 
+# Chapter 106: The Truth, Pt 3

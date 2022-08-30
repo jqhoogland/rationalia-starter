@@ -18,5 +18,5 @@ sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.864Z'
 ---
-# The Hidden Complexity of Wishes
 
+# The Hidden Complexity of Wishes

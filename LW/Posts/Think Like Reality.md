@@ -15,5 +15,5 @@ sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.417Z'
 ---
-# Think Like Reality
 
+# Think Like Reality

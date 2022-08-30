@@ -10,12 +10,13 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:22.275Z'
 ---
+
 # Impossible World
 
-## Blog posts
+## Blog Posts
 
 - [Why Not Impossible Worlds?](http://www.overcomingbias.com/2006/12/why_not_impossi.html) by [[Robin Hanson]]
 
-## See also
+## See Also
 
 - [[Possible World|Possible world]]

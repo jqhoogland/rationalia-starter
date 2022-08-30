@@ -19,5 +19,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:55.406Z'
 ---
-# Coherent decisions imply consistent utilities
 
+# Coherent Decisions Imply Consistent Utilities

@@ -10,6 +10,7 @@ aliases:
   - Fake Preferences
 synchedAt: '2022-08-29T17:16:41.106Z'
 ---
+
 # Fake Preferences
 
 On failed attempts at theories of value.

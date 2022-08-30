@@ -18,5 +18,5 @@ sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.863Z'
 ---
-# Your Rationality is My Business
 
+# Your Rationality is My Business

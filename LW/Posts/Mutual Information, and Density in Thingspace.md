@@ -17,5 +17,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.477Z'
 ---
-# Mutual Information, and Density in Thingspace
 
+# Mutual Information, and Density in Thingspace

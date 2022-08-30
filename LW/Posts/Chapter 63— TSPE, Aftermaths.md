@@ -15,5 +15,5 @@ sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:43.528Z'
 ---
-# Chapter 63: TSPE, Aftermaths
 
+# Chapter 63: TSPE, Aftermaths

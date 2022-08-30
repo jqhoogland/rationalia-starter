@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:20.846Z'
 ---
+
 # Fairness
 
 **Fairness** is a property of a system or process where no part is privileged, along some measure. A common problem is how to divide a cake between 3 people. Should every one get a third? what if one of them is hungrier? What if they don't agree about what is fair? This is an example of [fair division](https://en.wikipedia.org/wiki/Fair_division). 

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.575Z'
 ---
+
 # Case Study
 
 A post looking at a particular idea through a real-world example or examples.

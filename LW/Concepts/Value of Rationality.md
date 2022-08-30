@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:13.477Z'
 ---
+
 # Value of Rationality
 
 **Related pages:** [[Costs of Rationality]], [[Valley of Bad Rationality]], [[Pitfalls of Rationality]], [[Criticisms of The Rationalist Movement]]

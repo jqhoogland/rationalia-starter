@@ -16,5 +16,5 @@ sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.015Z'
 ---
-# Detach the grim-o-meter
 
+# Detach the Grim-o-meter

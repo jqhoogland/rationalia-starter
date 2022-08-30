@@ -1,6 +1,8 @@
 ---
 href: https://www.lesswrong.com/about
 status: done
+aliases:
+  - LW
 ---
 
 >  [LessWrong.com](https://www.lesswrong.com/) is a community blog *devoted to refining the art of human [[Rationality]] - the art of thinking*
@@ -25,8 +27,6 @@ The [[Reading Orders]] page lists a few different ways you might want to approac
 
 All of LessWrong's content depends on all the other content, so there isn't one correct way to go through everything. Just try stuff out. [[Steelmanning Divination|Embrace randomness]] and tap the random button to work your way through the content as the pseudo-random number generators wish it.
 
-
 # Structure
 
 From top to bottom, LessWrong consists of "[[Collections]]", which consist of "[[Books]]", which consist of "[[Sequences]]", which consist of "[[Posts]]". Sequences may be further divided into "[[Chapters]]".
-

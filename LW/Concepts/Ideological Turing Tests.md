@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:53.606Z'
+aliases:
+- ITT
 ---
+
 # Ideological Turing Tests
 
 The **Ideological Turing Test** is an exercise where you try to pretend to hold an opposing ideology convincingly enough that outside observers can't reliably distinguish you from a true believer.

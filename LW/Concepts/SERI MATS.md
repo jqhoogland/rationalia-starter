@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:14.630Z'
 ---
+
 # SERI MATS
 
 The **Stanford Existential Risks Initiative ML Alignment Theory Scholars** program.

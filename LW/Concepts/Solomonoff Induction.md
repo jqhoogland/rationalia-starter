@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:27.987Z'
 ---
+
 # Solomonoff Induction
 
 **Solomonoff induction** is an inference system defined by [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff) that will learn to correctly predict any computable sequence with only the absolute minimum amount of data. This system, in a certain sense, is the perfect universal prediction algorithm. 
@@ -31,15 +32,17 @@ Unfortunately, computing the exact value of *m*(*y*~0~) would require solving th
 
 Given *p* ∈ 𝒫, we write "prog (*x*~0~) = *p*" to express the proposition that *x*~0~ begins with *p*, and we write "*U*(*p*) = *y*~0~" to express the proposition that *U* produces output *y*~0~, and then halts, when fed any input beginning with *p*. Proposition (*) is then equivalent to the exclusive disjunction
 
-  
-⋁*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~(prog (*x*~0~) = *p*).  
+
+
+⋁*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~(prog (*x*~0~) = *p*).
 Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability of prog (*x*~0~) = *p* to be 2^ − ℓ(^*^p^*^)^, where ℓ(*p*) is the length of *p* as a bit string. Hence, the probability of (*) is
 
-  
-*m*(*y*~0~) := ∑*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~2^ − ℓ(^*^p^*^)^.  
+
+
+*m*(*y*~0~) := ∑*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~2^ − ℓ(^*^p^*^)^.
  
 
-## See also
+## See Also
 
 - [[Kolmogorov Complexity|Kolmogorov complexity]]
 - [[AIXI]]

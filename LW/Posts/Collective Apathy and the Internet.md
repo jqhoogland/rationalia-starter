@@ -19,5 +19,5 @@ sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.805Z'
 ---
-# Collective Apathy and the Internet
 
+# Collective Apathy and the Internet

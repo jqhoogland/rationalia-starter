@@ -10,6 +10,7 @@ aliases:
   - Fun Theory
 synchedAt: '2022-08-29T17:16:42.494Z'
 ---
+
 # Fun Theory
 
 A concrete theory of transhuman values. How much fun is there in the universe? Will we ever run out of fun? Are we having fun yet? Could we be having more fun? Part of the [complexity of value](https://wiki.lesswrong.com/wiki/Complexity_of_value) thesis.

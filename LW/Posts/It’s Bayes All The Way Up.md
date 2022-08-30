@@ -17,5 +17,5 @@ sequence: Hypotheses and Hunches
 chapter: null
 synchedAt: '2022-08-30T08:16:44.967Z'
 ---
-# It’s Bayes All The Way Up
 
+# It’s Bayes All The Way Up

@@ -20,5 +20,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.977Z'
 ---
-# When None Dare Urge Restraint
 
+# When None Dare Urge Restraint

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.575Z'
 ---
+
 # Organization Updates
 
 **Organization updates** are what you might expect - updates relating to a specific group or organization.

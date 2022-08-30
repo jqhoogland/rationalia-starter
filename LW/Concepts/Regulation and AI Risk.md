@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:36.377Z'
 ---
+
 # Regulation and AI Risk
 
 **Regulation and AI risk** is the debate on whether regulation could be used to reduce the risks of [[Unfriendly Artificial Intelligence|Unfriendly AI]], and what forms of regulation would be appropriate.
@@ -30,7 +31,7 @@ Goertzel & Pitt (2012) suggest that for regulation to be enacted, there might ne
 - Roman Yampolskiy & Joshua Fox (2012): [Safety Engineering for Artificial General Intelligence](http://intelligence.org/files/SafetyEngineering.pdf). Topoi.
 - Mohit Kaushal & Scott Nolan (2015): [Understanding Artificial Intelligence](http://www.brookings.edu/blogs/techtank/posts/2015/04/14-understanding-artificial-intelligence). Brookings.
 
-## See also
+## See Also
 
 - [[AI Arms Race|AI arms race]]
 - [[AGI Sputnik Moment|AGI Sputnik moment]]

@@ -20,5 +20,5 @@ sequence: Priming
 chapter: null
 synchedAt: '2022-08-30T08:16:38.207Z'
 ---
-# The Implicit Association Test
 
+# The Implicit Association Test

@@ -17,5 +17,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.351Z'
 ---
-# The Credit Assignment Problem
 
+# The Credit Assignment Problem

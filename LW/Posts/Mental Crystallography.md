@@ -15,5 +15,5 @@ sequence: Living Luminously
 chapter: Background Material
 synchedAt: '2022-08-30T08:17:51.459Z'
 ---
-# Mental Crystallography
 
+# Mental Crystallography

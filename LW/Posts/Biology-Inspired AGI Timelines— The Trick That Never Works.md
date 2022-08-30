@@ -21,5 +21,5 @@ sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:53.564Z'
 ---
-# Biology-Inspired AGI Timelines: The Trick That Never Works
 
+# Biology-Inspired AGI Timelines: The Trick That Never Works

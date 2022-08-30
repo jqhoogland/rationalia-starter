@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:13.870Z'
 ---
+
 # Research Taste
 
 **Research Taste** is the intuitions that guide researchers towards productive lines of inquiry.

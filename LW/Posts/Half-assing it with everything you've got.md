@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: Preliminaries
 synchedAt: '2022-08-30T08:16:32.530Z'
 ---
-# Half-assing it with everything you've got
 
+# Half-assing it with Everything You've Got

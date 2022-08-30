@@ -16,5 +16,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.730Z'
 ---
-# Chapter 3: Comparing Reality To Its Alternatives
 
+# Chapter 3: Comparing Reality To Its Alternatives

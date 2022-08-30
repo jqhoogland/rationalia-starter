@@ -17,5 +17,5 @@ sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.916Z'
 ---
-# Growing Up is Hard
 
+# Growing Up is Hard

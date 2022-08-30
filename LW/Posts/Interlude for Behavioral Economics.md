@@ -16,5 +16,5 @@ sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:42.939Z'
 ---
-# Interlude for Behavioral Economics
 
+# Interlude for Behavioral Economics

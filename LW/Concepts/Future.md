@@ -10,18 +10,19 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:37.865Z'
 ---
+
 # Future
 
-If it hasn't happened yet but is going to, then it's part of the [[Future|future]]. Checking whether or not something is going to happen is notoriously difficult. Luckily, the field of [[Heuristics & Biases|heuristics and biases]] has given us some insights into what can go wrong. Namely, one problem is that the future elicits [[Near/Far Thinking|far mode]], which isn't about truth-seeking or gritty details.
+If it hasn't happened yet but is going to, then it's part of the [[Future|future]]. Checking whether or not something is going to happen is notoriously difficult. Luckily, the field of [[Heuristics & Biases|heuristics and biases]] has given us some insights into what can go wrong. Namely, one problem is that the future elicits [[Far Thinking|far mode]], which isn't about truth-seeking or gritty details.
 
-## External links
+## External Links
 
 - [Predicting the Future](http://www.imminst.org/forum/index.php?showtopic=1097&st=0&p=9104&#entry9104) by [[Eliezer Yudkowsky]]
 
-## See also
+## See Also
 
 - [[Hindsight Bias|Hindsight bias]], [[Absurdity Heuristic|absurdity heuristic]], [[Representativeness Heuristic|representativeness heuristic]]
-- [[Near/Far Thinking|Near/far thinking]]
+- [[Far Thinking|Near, Far Thinking]]
 - [[Exploratory Engineering|Exploratory engineering]]
 - [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
 - [[Existential Risk|Existential risk]]

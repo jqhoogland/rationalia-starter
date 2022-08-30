@@ -17,5 +17,5 @@ sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:16:45.049Z'
 ---
-# The Pyramid And The Garden
 
+# The Pyramid And The Garden

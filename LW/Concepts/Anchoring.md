@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:29.336Z'
 ---
+
 # Anchoring
 
 **Anchoring** is the use of a reference value when estimating a quantitative value, and the bias that results if the reference point used isn't suitable for that purpose.

@@ -13,5 +13,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:17:59.331Z'
 ---
-# Diseased thinking: dissolving questions about disease
 
+# Diseased Thinking: Dissolving Questions About Disease

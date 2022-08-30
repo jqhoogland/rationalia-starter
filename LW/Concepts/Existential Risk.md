@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:06.758Z'
 ---
+
 # Existential Risk
 
 An **existential risk** (or **x-risk**) is a risk that poses astronomically large negative consequences for humanity, such as human extinction or permanent global totalitarianism.
@@ -22,8 +23,8 @@ The Oxford [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] (
 
 FHI's [existential-risk.org FAQ](https://www.existential-risk.org/faq.html) notes regarding the definition of "existential risk":
 
-> An existential risk is one that threatens the entire future of humanity. \[...\]
-> 
+> An existential risk is one that threatens the entire future of humanity. \[…\]
+>
 > “Humanity”, in this context, does not mean “the biological species *Homo sapiens*”. If we humans were to evolve into another species, or merge or replace ourselves with intelligent machines, this would not necessarily mean that an existential catastrophe had occurred — although it might if the quality of life enjoyed by those new life forms turns out to be far inferior to that enjoyed by humans.
 
 ## Classification of Existential Risks
@@ -45,7 +46,7 @@ Another related idea is that of a [suffering risk](https://lessestwrong.com/tag/
 
 The focus on existential risks on LessWrong dates back to Bostrom's 2002 paper [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](https://www.nickbostrom.com/astronomical/waste.html). It argues that "the chief goal for utilitarians should be to reduce existential risk". Bostrom writes:
 
-> If what we are concerned with is (something like) maximizing the expected number of worthwhile lives that we will create, then in addition to the opportunity cost of delayed colonization, we have to take into account the risk of failure to colonize at all. We might fall victim to an *existential risk*, one where an adverse outcome would either annihilate Earth-originating intelligent life or permanently and drastically curtail its potential.\[8\] Because the lifespan of galaxies is measured in billions of years, whereas the time-scale of any delays that we could realistically affect would rather be measured in years or decades, the consideration of risk trumps the consideration of opportunity cost. For example, a single percentage point of reduction of existential risks would be worth (from a utilitarian expected utility point-of-view) a delay of over 10 million years.  
+> If what we are concerned with is (something like) maximizing the expected number of worthwhile lives that we will create, then in addition to the opportunity cost of delayed colonization, we have to take into account the risk of failure to colonize at all. We might fall victim to an *existential risk*, one where an adverse outcome would either annihilate Earth-originating intelligent life or permanently and drastically curtail its potential.\[8\] Because the lifespan of galaxies is measured in billions of years, whereas the time-scale of any delays that we could realistically affect would rather be measured in years or decades, the consideration of risk trumps the consideration of opportunity cost. For example, a single percentage point of reduction of existential risks would be worth (from a utilitarian expected utility point-of-view) a delay of over 10 million years.
 > Therefore, if our actions have even the slightest effect on *the probability* of eventual colonization, this will outweigh their effect on *when* colonization takes place. For standard utilitarians, priority number one, two, three and four should consequently be to reduce existential risk. The utilitarian imperative “Maximize expected aggregate utility!” can be simplified to the maxim “Minimize existential risk!”.
 
 The concept is expanded upon in his 2012 paper [Existential Risk Prevention as Global Priority](https://www.existential-risk.org/concept.html)
@@ -61,15 +62,15 @@ The concept is expanded upon in his 2012 paper [Existential Risk Prevention as G
 - [Foresight Institute](http://www.foresight.org/)
 - [Defusing the Nuclear Threat](http://nuclearrisk.org/)
 - [Leverage Research](http://www.leverageresearch.org/)
-- [The Lifeboat Foundation](http://lifeboat.com/)  
+- [The Lifeboat Foundation](http://lifeboat.com/)
      
 
 ## References
 
-1.  BOSTROM, Nick. (2002) "[Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards](http://www.nickbostrom.com/existential/risks.pdf)". Journal of Evolution and Technology, Vol. 9, March 2002.
-2.  BOSTROM, Nick. (2012) "[Existential Risk Reduction as the Most Important Task for Humanity](http://www.existential-risk.org/concept.pdf)". Global Policy, forthcoming, 2012.
-3.  BOSTROM, Nick & SANDBERG, Anders & CIRKOVIC, Milan. (2010) "Anthropic Shadow: Observation Selection Effects and Human Extinction Risks" Risk Analysis, Vol. 30, No. 10 (2010): 1495-1506.
-4.  Nick Bostrom, Milan M. Ćirković, ed (2008). *Global Catastrophic Risks*. Oxford University Press.
-5.  Milan M. Ćirković (2008). ["Observation Selection Effects and global catastrophic risks"](http://books.google.com/books?id=-Jxc88RuJhgC&lpg=PP1&pg=PA120#v=onepage&q=&f=false). *Global Catastrophic Risks*. Oxford University Press.
-6.  Eliezer S. Yudkowsky (2008). ["Cognitive Biases Potentially Affecting Judgment of Global Risks"](http://yudkowsky.net/rational/cognitive-biases). *Global Catastrophic Risks*. Oxford University Press. ([PDF](http://intelligence.org/files/CognitiveBiases.pdf))
-7.  Richard A. Posner (2004). [*Catastrophe Risk and Response*](http://books.google.ca/books?id=SDe59lXSrY8C). Oxford University Press. ([DOC](http://www.avturchin.narod.ru/posner.doc))
+1. BOSTROM, Nick. (2002) "[Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards](http://www.nickbostrom.com/existential/risks.pdf)". Journal of Evolution and Technology, Vol. 9, March 2002.
+2. BOSTROM, Nick. (2012) "[Existential Risk Reduction as the Most Important Task for Humanity](http://www.existential-risk.org/concept.pdf)". Global Policy, forthcoming, 2012.
+3. BOSTROM, Nick & SANDBERG, Anders & CIRKOVIC, Milan. (2010) "Anthropic Shadow: Observation Selection Effects and Human Extinction Risks" Risk Analysis, Vol. 30, No. 10 (2010): 1495-1506.
+4. Nick Bostrom, Milan M. Ćirković, ed (2008). *Global Catastrophic Risks*. Oxford University Press.
+5. Milan M. Ćirković (2008). ["Observation Selection Effects and global catastrophic risks"](http://books.google.com/books?id=-Jxc88RuJhgC&lpg=PP1&pg=PA120#v=onepage&q=&f=false). *Global Catastrophic Risks*. Oxford University Press.
+6. Eliezer S. Yudkowsky (2008). ["Cognitive Biases Potentially Affecting Judgment of Global Risks"](http://yudkowsky.net/rational/cognitive-biases). *Global Catastrophic Risks*. Oxford University Press. ([PDF](http://intelligence.org/files/CognitiveBiases.pdf))
+7. Richard A. Posner (2004). [*Catastrophe Risk and Response*](http://books.google.ca/books?id=SDe59lXSrY8C). Oxford University Press. ([DOC](http://www.avturchin.narod.ru/posner.doc))

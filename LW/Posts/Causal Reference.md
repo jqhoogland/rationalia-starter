@@ -15,5 +15,5 @@ sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Physics and Causality
 synchedAt: '2022-08-30T08:17:30.684Z'
 ---
-# Causal Reference
 
+# Causal Reference

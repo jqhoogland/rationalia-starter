@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:20.708Z'
 ---
+
 # Superrationality
 
 **Superrationality** is a concept invented by Douglas Hofstadter. He thought that agents should cooperate in Prisoner's Dilemma, but the primary notion of "rationality" which had been deeply developed by economists, decision-theorists, and game-theorists disagreed. Rather than fighting over the definition of rational, Douglas Hofstadter coined the term superrational for the kind of rationality he was interested in.

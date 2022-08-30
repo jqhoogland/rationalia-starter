@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:21.561Z'
 ---
+
 # Motivational Intro Posts
 
 Posts which (we theorize) are good to show to new users, to get them excited about rationality. Posts listed here should be high-quality classics, should be accessible without having previously read the Sequences or anything else on LessWrong, and should somehow convince a certain sort of reader that rationality is important, and they want to read more about it. A good motivational intro post might argue the value of rationality directly, or it might point out a reasoning flaw which people recognize strongly in themselves, or it might introduce a rationality concept which is particularly sticky.

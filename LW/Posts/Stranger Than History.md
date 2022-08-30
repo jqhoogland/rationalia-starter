@@ -19,5 +19,5 @@ sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.481Z'
 ---
-# Stranger Than History
 
+# Stranger Than History

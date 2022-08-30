@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:09.274Z'
 ---
+
 # Motivated Reasoning
 
 **Motivated Reasoning** is a label for various mental processes that lead to desired conclusions regardless of the veracity of those conclusions.
@@ -24,7 +25,7 @@ synchedAt: '2022-08-29T11:05:09.274Z'
 - [Motivated Stopping and Motivated Continuation](https://lessestwrong.com/lw/km/motivated_stopping_and_motivated_continuation/)
 - [The Bottom Line](https://lesswrong.com/lw/js/the_bottom_line/)
 
-## See also
+## See Also
 
 - [Rationalization](https://lessestwrong.com/tag/rationalization)
 - [Motivated skepticism](https://lessestwrong.com/tag/motivated-skepticism)

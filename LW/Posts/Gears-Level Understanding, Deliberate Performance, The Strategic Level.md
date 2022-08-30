@@ -17,5 +17,5 @@ sequence: CFAR Handbook
 chapter: Flash Classes
 synchedAt: '2022-08-30T08:16:31.988Z'
 ---
-# Gears-Level Understanding, Deliberate Performance, The Strategic Level
 
+# Gears-Level Understanding, Deliberate Performance, The Strategic Level

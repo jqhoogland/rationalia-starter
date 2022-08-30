@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:40.222Z'
 ---
+
 # Bayesian Decision Theory
 
 **Bayesian decision theory** refers to a [[Decision Theory|decision theory]] which is informed by [[Bayesian Probability|Bayesian probability]]. It is a statistical system that tries to quantify the tradeoff between various decisions, making use of probabilities and costs. An agent operating under such a decision theory uses the concepts of Bayesian statistics to estimate the [[Expected Value|expected value]] of its actions, and update its expectations based on new information. These agents can and are usually referred to as estimators.
@@ -25,7 +26,7 @@ One definition of [[Rationality|rationality]], used both on Less Wrong and in ec
 - Berger, James O. (1985). Statistical decision theory and Bayesian Analysis (2nd ed.). New York: Springer-Verlag. ISBN 0-387-96098-8. MR 0804611
 - Bernardo, José M.; Smith, Adrian F. M. (1994). Bayesian Theory. Wiley. ISBN 0-471-92416-4. MR 1274699
 
-## See also
+## See Also
 
 - [[Bayesian Probability|Bayesian probability]]
 - [[Decision Theory|Decision theory]]

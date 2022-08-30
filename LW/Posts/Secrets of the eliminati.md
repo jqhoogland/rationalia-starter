@@ -16,5 +16,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.365Z'
 ---
-# Secrets of the eliminati
 
+# Secrets of the Eliminati

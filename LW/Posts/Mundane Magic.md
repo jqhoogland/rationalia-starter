@@ -12,5 +12,5 @@ sequence: Joy in the Merely Real
 chapter: null
 synchedAt: '2022-08-30T08:17:56.270Z'
 ---
-# Mundane Magic
 
+# Mundane Magic

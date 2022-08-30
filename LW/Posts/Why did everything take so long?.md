@@ -18,5 +18,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.275Z'
 ---
-# Why did everything take so long?
 
+# Why Did Everything Take so Long?

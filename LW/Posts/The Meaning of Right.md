@@ -17,5 +17,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.055Z'
 ---
-# The Meaning of Right
 
+# The Meaning of Right

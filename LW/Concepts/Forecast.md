@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:57.401Z'
 ---
+
 # Forecast
 
-## Blog posts
+## Blog Posts
 
 - [The 80% Forecasting Solution](http://www.overcomingbias.com/2006/12/the_80_forecast.html) by [[Robin Hanson]]
 
-## See also
+## See Also
 
 - [[Planning Fallacy|Planning fallacy]]
 - [[Exploratory Engineering|Exploratory engineering]]

@@ -1,6 +1,6 @@
 ---
 _id: RLQumypPQGPYg9t6G
-title: Gaming (videogames/tabletop)
+title: Gaming (videogames, tabletop)
 href: https://lesswrong.com/tag/gaming-videogames-tabletop
 slug: gaming-videogames-tabletop
 type: tag
@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:05.891Z'
 ---
-# Gaming (videogames/tabletop)
+
+# Gaming (videogames, tabletop)
 
 **Gaming**
 

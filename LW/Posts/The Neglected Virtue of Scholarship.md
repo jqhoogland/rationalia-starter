@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/64FdKLwmea8MCLWkE/the-neglected-virtue-of-scholarship
 synchedAt: '2022-08-30T08:17:58.293Z'
 ---
-# The Neglected Virtue of Scholarship
 
+# The Neglected Virtue of Scholarship

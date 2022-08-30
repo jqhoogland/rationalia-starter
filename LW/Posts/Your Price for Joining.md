@@ -17,5 +17,5 @@ sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:54.880Z'
 ---
-# Your Price for Joining
 
+# Your Price for Joining

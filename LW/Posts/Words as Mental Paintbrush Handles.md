@@ -18,5 +18,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.575Z'
 ---
-# Words as Mental Paintbrush Handles
 
+# Words as Mental Paintbrush Handles

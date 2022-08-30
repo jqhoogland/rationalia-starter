@@ -18,5 +18,5 @@ sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:42.846Z'
 ---
-# Nash Equilibria and Schelling Points
 
+# Nash Equilibria and Schelling Points

@@ -10,5 +10,5 @@ tags:
 href: https://www.lesswrong.com/posts/yKXKcyoBzWtECzXrE/you-only-live-twice
 synchedAt: '2022-08-30T08:17:59.182Z'
 ---
-# You Only Live Twice
 
+# You Only Live Twice

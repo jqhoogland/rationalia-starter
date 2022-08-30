@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:47.270Z'
 ---
+
 # Updateless Decision Theory
 
 ## Motivation
@@ -20,7 +21,7 @@ Getting this issue right is critical in building a self-improving artificial gen
 
 Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/users/wei_dai) and first described in [Towards a New Decision Theory](https://www.lesswrong.com/posts/de3xjFaACCAk6imzv/towards-a-new-decision-theory).
 
-## See also
+## See Also
 
 - [[Timeless Decision Theory|Timeless decision theory]]
 - [[Ambient Decision Theory|Ambient decision theory]]
@@ -51,7 +52,7 @@ A robust theory of [[Logical Uncertainty|logical uncertainty]] is essential to a
 
 Logical uncertainty is an area which has not yet been properly formalized, and much UDT research is focused on this area.
 
-## Blog posts
+## Blog Posts
 
 - [Indexical uncertainty and the Axiom of Independence](http://lesswrong.com/lw/102/indexical_uncertainty_and_the_axiom_of/) by Wei Dai
 - [Towards a New Decision Theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) by [Wei Dai](http://weidai.com/)
@@ -72,7 +73,7 @@ In addition to whole posts on UDT, there are also a number of comments which con
 
 - [A comment about UDT2](http://lesswrong.com/lw/jhj/functional_side_effects/adhy)
 
-## External links
+## External Links
 
 - [Formal description of UDT](https://drive.google.com/file/d/0BzUiCL-Kpxc1NGxab3ZfZGZkVUE/view?usp=sharing&resourcekey=0-EuvTP8RRdpKivUtHwfqgSQ) by Tyrrell McAllister
 - [UDT with known search order](http://intelligence.org/2014/10/30/new-report-udt-known-search-order/) by Tsvi Benson-Tilsen

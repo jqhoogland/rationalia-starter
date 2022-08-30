@@ -16,5 +16,5 @@ sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.131Z'
 ---
-# Chapter 76: Interlude with the Confessor: Sunk Costs
 
+# Chapter 76: Interlude with the Confessor: Sunk Costs

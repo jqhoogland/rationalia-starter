@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:50.510Z'
 ---
+
 # Sports
 
 **Sports** are games played with the human body, such as football, basketball, and baseball.

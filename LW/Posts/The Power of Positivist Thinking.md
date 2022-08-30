@@ -17,5 +17,5 @@ sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.600Z'
 ---
-# The Power of Positivist Thinking
 
+# The Power of Positivist Thinking

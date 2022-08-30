@@ -17,5 +17,5 @@ sequence: CFAR Handbook
 chapter: Getting Started
 synchedAt: '2022-08-30T08:16:31.464Z'
 ---
-# Opening Session Tips & Advice
 
+# Opening Session Tips & Advice

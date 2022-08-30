@@ -16,5 +16,5 @@ sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:34.469Z'
 ---
-# Hand vs. Fingers
 
+# Hand Vs. Fingers

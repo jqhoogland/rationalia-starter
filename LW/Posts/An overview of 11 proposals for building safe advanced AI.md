@@ -24,5 +24,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:52.773Z'
 ---
-# An overview of 11 proposals for building safe advanced AI
 
+# An Overview of 11 Proposals for Building Safe Advanced AI

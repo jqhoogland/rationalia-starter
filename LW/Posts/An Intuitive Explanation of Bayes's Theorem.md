@@ -19,5 +19,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:36.665Z'
 ---
-# An Intuitive Explanation of Bayes's Theorem
 
+# An Intuitive Explanation of Bayes's Theorem

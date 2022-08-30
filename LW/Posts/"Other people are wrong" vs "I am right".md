@@ -19,5 +19,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:35.407Z'
 ---
-# "Other people are wrong" vs "I am right"
 
+# "Other People Are wrong" Vs "I Am right"

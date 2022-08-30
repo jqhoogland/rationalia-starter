@@ -9,7 +9,11 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:59.134Z'
+aliases:
+  - Map
+  - Territory
 ---
+
 # Map and Territory
 
 Models of reality are often mistaken for reality itself, and clarifying the distinction is an important rationalist technique.

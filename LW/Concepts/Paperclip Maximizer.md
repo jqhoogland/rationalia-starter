@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:45.456Z'
 ---
+
 # Paperclip Maximizer
 
 A **Paperclip Maximizer** is a hypothetical [[AI|artificial intelligence]] whose [[Utility Functions|utility function]] values something that humans would consider almost worthless, like [[Optimization|maximizing]] the number of paperclips in the universe. The paperclip maximizer is the canonical thought experiment showing how an artificial general intelligence, even one designed competently and without malice, could ultimately destroy humanity. The thought experiment shows that AIs with apparently innocuous values could pose an [[Existential Risk|existential threat]].
@@ -41,7 +42,7 @@ The paperclip maximizer illustrates that an entity can be a powerful optimizerâ€
 
 Any future AGI, if it is not to destroy us, must have human values as its terminal value (goal). Human values don't [[Futility of Chaos|spontaneously emerge]] in a generic optimization process. A safe AI would therefore have to be programmed explicitly with human values *or* programmed with the ability (including the goal) of inferring human values.
 
-## Similar thought experiments
+## Similar Thought Experiments
 
 Other goals for AGIs have been used to illustrate similar concepts.
 
@@ -57,7 +58,7 @@ Some goals apparently serve as a proxy or measure of human welfare, so that maxi
 - Stephen M. Omohundro (2008). "[The Basic AI Drives](http://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)". *Frontiers in Artificial Intelligence and Applications* (IOS Press). ([PDF](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf))
 - Eliezer Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](http://intelligence.org/files/AIPosNegFactor.pdf)". *Global Catastrophic Risks, ed. Nick Bostrrom and Milan Cirkovic* (Oxford University Press): 308-345. ([\[1\]](http://intelligence.org/files/AIPosNegFactor.pdf))
 
-## See also
+## See Also
 
 - [Paperclip maximizer](https://arbital.com/p/paperclip_maximizer/) on [Arbital](https://wiki.lesswrong.com/index.php?title=Arbital&action=edit&redlink=1)
 - [[Orthogonality Thesis|Orthogonality thesis]]

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:09.884Z'
 ---
+
 # Life Extension
 
 **Life Extension** is the theory / practice of extending human lifespans – for decades, centuries. or much longer. This includes advice that applies to individuals, research projects that might extend human lifespans as a whole, or philosophical discussion of the concept. 

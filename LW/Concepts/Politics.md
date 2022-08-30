@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:07.030Z'
 ---
-# Politics
 
+# Politics

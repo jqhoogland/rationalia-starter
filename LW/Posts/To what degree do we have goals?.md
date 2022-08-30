@@ -17,5 +17,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.181Z'
 ---
-# To what degree do we have goals?
 
+# To What Degree Do We Have Goals?

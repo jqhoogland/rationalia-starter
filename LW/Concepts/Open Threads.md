@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:31.757Z'
 ---
+
 # Open Threads
 
 **Open Threads** are informal discussion areas, where users are welcome to post comments that didn't quite feel big enough to warrant a top-level post, nor fit in other posts.

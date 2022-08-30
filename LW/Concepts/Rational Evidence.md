@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:14.081Z'
 ---
+
 # Rational Evidence
 
 **Rational evidence** is the broadest possible sense of [[Evidence|evidence]], i.e., the [[Bayesianism|Bayesian]] sense. Rational evidence about a hypothesis H is *any* observation which has a different [likelihood](https://wiki.lesswrong.com/wiki/likelihood) depending on whether H holds in reality or not.
@@ -20,16 +21,16 @@ For example, suppose I tell you that the original author of this paragraph wore 
 
 The [[Science|scientific method]] can be viewed as a special standard of admissible evidence protecting a pool of extra-strong beliefs. Conversely, a fact can be rationally guessable without it generating the specially strong evidence which would qualify knowledge of the fact as "scientific". Just as a police detective may rationally know the identity of the local crime boss without having the special evidence needed to prove it *in court*.
 
-## Main post
+## Main Post
 
 - [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
 
-## Other posts
+## Other Posts
 
 - [Is Molecular Nanotechnology "Scientific"?](http://lesswrong.com/lw/io/is_molecular_nanotechnology_scientific/)
 - [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/) and [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)
 
-## See also
+## See Also
 
 - [[Evidence]], [[Standard of Evidence|Standard of evidence]]
 - [[Bayes' Theorem|Bayes' theorem]], [[Conservation of Expected Evidence|Conservation of expected evidence]]

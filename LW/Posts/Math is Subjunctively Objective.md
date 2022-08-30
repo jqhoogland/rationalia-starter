@@ -17,5 +17,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.920Z'
 ---
-# Math is Subjunctively Objective
 
+# Math is Subjunctively Objective

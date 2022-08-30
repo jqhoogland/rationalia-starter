@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/vqbieD9PHG8RRJddu/you-re-entitled-to-arguments-but-not-that-particular-proof
 synchedAt: '2022-08-30T08:17:59.421Z'
 ---
-# You're Entitled to Arguments, But Not (That Particular) Proof
 
+# You're Entitled to Arguments, But Not (That Particular) Proof

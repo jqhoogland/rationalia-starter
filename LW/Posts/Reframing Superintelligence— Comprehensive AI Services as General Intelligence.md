@@ -20,5 +20,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.041Z'
 ---
-# Reframing Superintelligence: Comprehensive AI Services as General Intelligence
 
+# Reframing Superintelligence: Comprehensive AI Services as General Intelligence

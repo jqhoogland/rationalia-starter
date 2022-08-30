@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:12.915Z'
 ---
+
 # Paranoid Debating
 
 **Paranoid Debating** is a variant of [The Aumann Game](https://web.archive.org/web/20090207153155/http://www.acceleratingfuture.com/steven/?p=96) where one player purposefully subverts the group estimate. Similar to The Aumann Game, the activity consists of a group jointly producing a confidence interval for an unknown, but verifiable quantity, which is then [[Scoring Rule|scored]] for [accuracy](https://wiki.lesswrong.com/wiki/accuracy) and [[Calibration|calibration]]. One individual is designated the spokesperson, who is responsible for choosing the final estimate. However, before the activity begins, one individual is secretly assigned the role of misleading the other members. The deceiver is scored higher the worse the final estimate is.
@@ -66,12 +67,12 @@ A not-so-trivial inconvenience to playing the game is figuring out how to score 
 
 To make this easier there is now a tentative file format for representing a game of paranoid debate and a python script for scoring games represented in this format. If you'd like to download or edit this software check out [this github project](https://github.com/JenniferRM/Paradebate). Please note that the game format and the code are very likely to evolve to remove bugs and support whatever sort of play turns out to be the most fun and/or educational.
 
-## Blog posts
+## Blog Posts
 
 - [Selecting Rationalist Groups](http://lesswrong.com/lw/77/selecting_rationalist_groups/) \- Description and account of the game.
 - [The First London Rationalist Meetup](http://lesswrong.com/lw/7r/the_first_london_rationalist_meetup/) by [taw](https://wiki.lesswrong.com/wiki/taw) \- An account of the game.
 
-## See also
+## See Also
 
 - [[Group Rationality|Group rationality]]
 - [[Less Wrong Meetup Group Resources|Less Wrong meetup group resources]]

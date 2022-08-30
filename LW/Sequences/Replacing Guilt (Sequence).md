@@ -10,6 +10,7 @@ aliases:
   - Replacing Guilt
 synchedAt: '2022-08-29T17:16:36.964Z'
 ---
+
 # Replacing Guilt
 
 > My goal is to help people remove guilt-based motivation entirely, and replace it with intrinsic motivation. I'm aiming to both reduce the frequency of Netflix binges *and* reduce the bad feelings that follow. I'm aiming to help people feel like they're still worthwhile human beings if they stop working before they literally drop.
@@ -24,16 +25,12 @@ Originally posted on [Minding Our Way](https://mindingourway.com/guilt/). There'
 
 ### Replacing Guilt
 
-
-
-
 ### Preliminaries
 
 - [[Half-assing it with everything you've got]]
 - [[Failing with abandon]]
 
-
-### Fighting for something
+### Fighting for Something
 
 - [[Replacing guilt]]
 - [[The Stamp Collector]]
@@ -41,15 +38,13 @@ Originally posted on [Minding Our Way](https://mindingourway.com/guilt/). There'
 - [[Caring about something larger than yourself]]
 - [[You don't get to know what you're fighting for]]
 
-
-### Drop your obligations
+### Drop Your Obligations
 
 - [["Should" considered harmful]]
 - [[Not because you "should"]]
 - [[Your "shoulds" are not a duty]]
 
-
-### Half monkey, half god
+### Half Monkey, Half God
 
 - [[Working yourself ragged is not a virtue]]
 - [[Rest in motion]]
@@ -63,8 +58,7 @@ Originally posted on [Minding Our Way](https://mindingourway.com/guilt/). There'
 - [[There are no "bad people"]]
 - [[Residing in the mortal realm]]
 
-
-### The dark world
+### The Dark World
 
 - [[Being unable to despair]]
 - [[See the dark world]]
@@ -77,8 +71,7 @@ Originally posted on [Minding Our Way](https://mindingourway.com/guilt/). There'
 - [[The best you can]]
 - [[Dark, not colorless]]
 
-
-### Fire within
+### Fire Within
 
 - [[Stop trying to try and try]]
 - [[There is no try]]
@@ -89,7 +82,6 @@ Originally posted on [Minding Our Way](https://mindingourway.com/guilt/). There'
 - [[Recklessness]]
 - [[Defiance]]
 - [[How we will be measured]]
-
 
 ### Related
 

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:06.514Z'
 ---
+
 # Planning Fallacy
 
 The **Planing Fallacy** is a common cognitive bias resulting in predicting absurdly short timeframes for planned projects, famously observed with, among other projects, the [Sydney Opera House](https://en.wikipedia.org/wiki/Sydney_Opera_House), completed ten years late and a hundred million dollars overbudget.
@@ -18,17 +19,17 @@ Symptomatic of the Planning Fallacy is an assumption of a best-case scenario; pe
 
 The bias also seems to be related to taking an "inside", detail-oriented view of the project to be planned; studies show that the more detailed a plan is, the more optimistically inaccurate it is likely to be.
 
-## Debiasing techniques
+## Debiasing Techniques
 
-When possible, take the [[Inside/Outside View|outside view]]. Avoid estimating the time for a project by adding time estimates for sub-tasks; instead, look for previously completed projects of similar type and scale, and base the estimate on how long those other projects took.
+When possible, take the [[Outside View|outside view]]. Avoid estimating the time for a project by adding time estimates for sub-tasks; instead, look for previously completed projects of similar type and scale, and base the estimate on how long those other projects took.
 
-## Blog posts
+## Blog Posts
 
 - [Planning Fallacy](http://lesswrong.com/lw/jg/planning_fallacy/)
 - [Surface Analogies and Deep Causes](http://lesswrong.com/lw/rj/surface_analogies_and_deep_causes/)
 
-## See also
+## See Also
 
-- [[Inside/Outside View|Outside view]]
-- [[Near/Far Thinking|Near/far thinking]]
+- [[Outside View|Outside view]]
+- [[Far Thinking|Near/far thinking]]
 - [[Forecast]]

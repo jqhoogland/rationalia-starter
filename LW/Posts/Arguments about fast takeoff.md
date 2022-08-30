@@ -15,5 +15,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.315Z'
 ---
-# Arguments about fast takeoff
 
+# Arguments About Fast Takeoff

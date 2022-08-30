@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:21.560Z'
 ---
-# Values handshakes
+
+# Values Handshakes
 
 **Values handshakes** are a proposed form of trade between superintelligences. From [The Hour I First Believed](https://slatestarcodex.com/2018/04/01/the-hour-i-first-believed/) by Scott Alexander:
 

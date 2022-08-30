@@ -10,6 +10,7 @@ aliases:
   - Science and Rationality
 synchedAt: '2022-08-29T17:16:41.106Z'
 ---
+
 # Science and Rationality
 
 The final sequence in this book tie these ideas together, and draws some conclusions on the strength of our scientific institutions.
@@ -32,7 +33,6 @@ The final sequence in this book tie these ideas together, and draws some conclus
 - [[My Childhood Role Model]]
 - [[Einstein's Superpowers]]
 - [[Class Project]]
-
 
 ### Interlude
 

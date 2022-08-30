@@ -10,6 +10,7 @@ tags:
   - Book
 synchedAt: '2022-08-29T10:40:16.040Z'
 ---
+
 # A Map That Reflects the Territory
 
 > Best of 2018

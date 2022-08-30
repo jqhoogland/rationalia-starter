@@ -16,5 +16,5 @@ sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:16:45.082Z'
 ---
-# On Overconfidence
 
+# On Overconfidence

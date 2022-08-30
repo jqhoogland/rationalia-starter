@@ -17,5 +17,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:38.197Z'
 ---
-# Cultish Countercultishness
 
+# Cultish Countercultishness

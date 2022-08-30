@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:15.277Z'
 ---
-# Logic & Mathematics 
+
+# Logic & Mathematics
 
 **Logic and Mathematics** are deductive systems, where the conclusion of a successful argument follows necessarily from its premises, given the axioms of the system you’re using: number theory, geometry, predicate logic, etc.
 
-## See also
+## See Also
 
 - [[Valid Argument|Valid argument]] \- An argument is valid when it contains no logical fallacies
 - [[Sound Argument|Sound argument]] \- an argument that is valid and whose premises are all true. In other words, the premises are true and the conclusion necessarily follows from them, making the conclusion true as well.

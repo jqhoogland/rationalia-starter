@@ -12,5 +12,5 @@ sequence: Fake Beliefs
 chapter: null
 synchedAt: '2022-08-30T08:17:58.537Z'
 ---
-# Belief in Belief
 
+# Belief in Belief

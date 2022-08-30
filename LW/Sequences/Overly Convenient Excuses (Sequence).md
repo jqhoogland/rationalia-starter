@@ -10,6 +10,7 @@ aliases:
   - Overly Convenient Excuses
 synchedAt: '2022-08-29T17:16:42.150Z'
 ---
+
 # Overly Convenient Excuses
 
 This sequence focuses on questions that are as probabilistically clear-cut as questions get. The Bayes-optimal answer is often infeasible to compute, but errors like confirmation bias can take root even in cases where the available evidence is overwhelming and we have plenty of time to think things over.

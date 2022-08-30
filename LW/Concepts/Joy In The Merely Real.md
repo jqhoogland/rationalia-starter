@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:59.478Z'
 ---
+
 # Joy In The Merely Real
 
 If dragons were common, and you could look at one in the zoo - but zebras were a rare legendary creature that had finally been decided to be mythical - then there's a certain sort of person who would ignore dragons, who would never bother to look at dragons, and chase after rumors of zebras. The grass is always greener on the other side of reality.
 
-Which is rather setting ourselves up for eternal disappointment, eh? If we cannot take _joy in the merely real_, our lives shall be empty indeed.
+Which is rather setting ourselves up for eternal disappointment, eh? If we cannot take *joy in the merely real*, our lives shall be empty indeed.
 
 A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [[Reductionism (Sequence)|Reductionism]].
 
@@ -33,7 +34,7 @@ A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [[Reductionism (Seq
 - [Initiation Ceremony](http://lesswrong.com/lw/p1/initiation_ceremony/)
 - [Awww, a Zebra](http://lesswrong.com/lw/uf/awww_a_zebra/)
 
-## See also
+## See Also
 
 - [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/) (and [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/))
 - [[Reality Is Normal|Reality is normal]], [Egan's Law](https://wiki.lesswrong.com/wiki/Egan's_Law)

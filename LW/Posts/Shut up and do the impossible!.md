@@ -18,5 +18,5 @@ sequence: Challenging the Difficult
 chapter: null
 synchedAt: '2022-08-30T08:17:32.109Z'
 ---
-# Shut up and do the impossible!
 
+# Shut up and Do the Impossible!

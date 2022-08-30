@@ -19,5 +19,5 @@ sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.296Z'
 ---
-# Against Modest Epistemology
 
+# Against Modest Epistemology

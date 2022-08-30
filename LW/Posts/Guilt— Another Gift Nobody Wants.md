@@ -11,5 +11,5 @@ href: >-
   https://www.lesswrong.com/posts/CZnBQtvDw33rmWpBD/guilt-another-gift-nobody-wants
 synchedAt: '2022-08-30T08:17:58.078Z'
 ---
-# Guilt: Another Gift Nobody Wants
 
+# Guilt: Another Gift Nobody Wants

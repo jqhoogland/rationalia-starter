@@ -17,5 +17,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.396Z'
 ---
-# Beyond Astronomical Waste
 
+# Beyond Astronomical Waste

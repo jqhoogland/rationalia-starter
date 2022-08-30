@@ -16,5 +16,5 @@ sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.358Z'
 ---
-# True Ending: Sacrificial Fire (7/8)
 
+# True Ending: Sacrificial Fire (7/8)

@@ -17,5 +17,5 @@ sequence: Value Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:33.157Z'
 ---
-# Magical Categories
 
+# Magical Categories

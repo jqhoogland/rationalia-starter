@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:13.807Z'
 ---
+
 # Inner Alignment
 
 **Inner Alignment** is the problem of ensuring [[Mesa-Optimization|mesa-optimizers]] (i.e. when a trained ML system is itself an optimizer) are aligned with the objective function of the training process. As an example, evolution is an optimization force that itself 'designed' optimizers (humans) to achieve its goals. However, humans do not primarily maximise reproductive success, they instead use birth control and then go out and have fun. This is a failure of inner alignment. 

@@ -17,5 +17,5 @@ sequence: CFAR Handbook
 chapter: Flash Classes
 synchedAt: '2022-08-30T08:16:32.029Z'
 ---
-# Pendulums, Policy-Level Decisionmaking, Saving State
 
+# Pendulums, Policy-Level Decisionmaking, Saving State

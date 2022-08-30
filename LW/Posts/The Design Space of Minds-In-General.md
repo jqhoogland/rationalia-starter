@@ -17,5 +17,5 @@ sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.612Z'
 ---
-# The Design Space of Minds-In-General
 
+# The Design Space of Minds-In-General

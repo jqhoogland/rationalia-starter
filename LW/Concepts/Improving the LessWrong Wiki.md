@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:13.847Z'
 ---
+
 # Improving the LessWrong Wiki
 
 - This is a deliberate bastardisation and subversion of how the wiki is used

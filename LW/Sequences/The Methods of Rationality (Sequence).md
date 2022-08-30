@@ -10,6 +10,7 @@ aliases:
   - The Methods of Rationality
 synchedAt: '2022-08-29T17:16:42.183Z'
 ---
+
 # The Methods of Rationality
 
 Harry: You can't DO that!

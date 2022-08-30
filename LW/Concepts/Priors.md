@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:05.980Z'
 ---
+
 # Priors
 
 In the context of [Bayes's Theorem](https://wiki.lesswrong.com/wiki/Bayes's_Theorem), **priors** refer generically to the beliefs an agent holds regarding a fact, hypothesis or consequence, before being presented with evidence. Upon being presented with new evidence, the agent can multiply their prior with a [likelihood distribution](https://wiki.lesswrong.com/wiki/likelihood_distribution) to calculate a new (posterior) probability for their belief.
@@ -26,20 +27,20 @@ As a real life example, consider two leaders from different political parties. E
 
 Because carrying out any reasoning at all seems to require a prior of some kind, ideal Bayesians would need some sort of priors from the moment that they were born. The question of where an ideal Bayesian would get this prior from has occasionally been a matter of considerable controversy in the philosophy of probability.
 
-## Updating prior probabilities
+## Updating Prior Probabilities
 
 In informal discussion, people often talk about "updating" their priors. This is technically incorrect, as one does not change their prior probability, but rather uses it to calculate a posterior probability. However, as this posterior probability then becomes the prior probability for the next inference, talking about "updating one's priors" is often a convenient shorthand.
 
 ## References
 
-## Blog posts
+## Blog Posts
 
 - [Priors as Mathematical Objects](http://lesswrong.com/lw/hk/priors_as_mathematical_objects/)
 - ["Inductive Bias"](http://lesswrong.com/lw/hg/inductive_bias/)
 - [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
 - [Bead Jar Guesses](http://lesswrong.com/lw/em/bead_jar_guesses/) by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn) \- Applied scenario about forming priors.
 
-## See also
+## See Also
 
 - [[Evidence]]
 - [[Inductive Bias|Inductive bias]]
@@ -47,4 +48,4 @@ In informal discussion, people often talk about "updating" their priors. This is
 
 ## References
 
-1.  Robin Hanson (2006). "Uncommon Priors Require Origin Disputes". Theory and Decision 61 (4) 319–328. [http://hanson.gmu.edu/prior.pdf](http://hanson.gmu.edu/prior.pdf)[↩](#fnref1)
+1. Robin Hanson (2006). "Uncommon Priors Require Origin Disputes". Theory and Decision 61 (4) 319–328. [http://hanson.gmu.edu/prior.pdf](http://hanson.gmu.edu/prior.pdf)[↩](#fnref1)

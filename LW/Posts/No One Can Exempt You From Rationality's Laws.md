@@ -19,5 +19,5 @@ sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.589Z'
 ---
-# No One Can Exempt You From Rationality's Laws
 
+# No One Can Exempt You From Rationality's Laws

@@ -12,5 +12,5 @@ sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:58.628Z'
 ---
-# Money: The Unit of Caring
 
+# Money: The Unit of Caring

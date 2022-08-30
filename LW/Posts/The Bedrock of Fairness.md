@@ -19,5 +19,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.504Z'
 ---
-# The Bedrock of Fairness
 
+# The Bedrock of Fairness

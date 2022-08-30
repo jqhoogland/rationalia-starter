@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:11.748Z'
 ---
+
 # List of Blogs
 
 **List of blogs from the** [**diaspora**](https://wiki.lesswrong.com/wiki/diaspora) **and** **[[Rationalist Movement|rationalist movement]]****.** Last large update: 2017-05-25
@@ -224,30 +225,21 @@ synchedAt: '2022-08-29T11:10:11.748Z'
 
 [Bill McGrath Music](http://billmcgrathmusic.wordpress.com/) Bill McGrath {01-2016}
 
-
 [Effective Differentials](http://effectivereaction.wordpress.com/) Dale/Dias *(Economics, Rationality, Effective Altruism)* {10-2015}
-
 
 [Kevin Reid's Blog](http://kpreid.livejournal.com/) kpreid *(programming, often game development; miscellany)* {03-2016~ 3 posts in 2015}
 
-
 [lalaithion](https://lalaithion.wordpress.com/) *Random things, social justice, and science* {07-2015}
-
 
 [Ordinary Ideas](http://ordinaryideas.wordpress.com/) Paul Christiano {11-2016~ one post in 2016}
 
-
 [The Art and Science of Cognitive Engineering](http://cognitiveengineer.blogspot.ca/) jimmy {04-2016~ 4 posts in 2015, 3 in 2015}
-
 
 [The Cafes](http://cafe.elharo.com/) Elliotte Rusty Harold {02-2016~ Sparse since 2012}
 
-
 [The Last Conformer](http://last-conformer.net/) Gilbert *(Catholic blog, occasional well-informed criticisms of LessWrong)* {08-2015}
 
-
 [The Orphan Wilde](http://orphanwilde.blogspot.com/) OrphanWilde *(libertarianism)* {07-2015}
-
 
 ## Gone But Not Forgotten
 

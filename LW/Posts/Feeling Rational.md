@@ -17,5 +17,5 @@ sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:41.289Z'
 ---
-# Feeling Rational
 
+# Feeling Rational

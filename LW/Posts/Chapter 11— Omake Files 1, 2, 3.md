@@ -15,5 +15,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.955Z'
 ---
-# Chapter 11: Omake Files 1, 2, 3
 
+# Chapter 11: Omake Files 1, 2, 3

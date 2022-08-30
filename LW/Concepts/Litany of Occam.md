@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:19.310Z'
 ---
+
 # Litany of Occam
 
 It is more probable that A, than that A and B.
 
-## See also
+## See Also
 
 - [[Occam's Razor|Occam's razor]]
 - [[Conjunction Fallacy|Conjunction fallacy]]

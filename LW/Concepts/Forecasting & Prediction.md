@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:16.276Z'
 ---
+
 # Forecasting & Prediction
 
 **Forecasting** or **Predicting** is the act of making statements about what will happen in the future (and in some cases, the past) and then scoring the predictions. Posts market with this tag is for discussion of the practice, skill, and methodology of forecasting. Posts exclusively containing object-level lists of forecasts and predictions are in [[Forecasts (Specific Predictions)|Forecasts]].  Related: [[Betting]].
@@ -18,13 +19,13 @@ synchedAt: '2022-08-29T11:05:16.276Z'
 
 Forecasting allows individuals and institutions to test their internal models of reality. A good forecaster can have confidence in future predictions and hence actions in the same area as they have a good track record in. Organisations with decision-makers with good track records can likewise be more confident in their choices.
 
-## How to get started in forecasting (many ways)
+## How to Get Started in Forecasting (many ways)
 
 - Just do it - go on [Metaculus](https://www.metaculus.com/questions/) and forecast for 30 minutes. Look back in a month and see how things have changed
 - Read a book - [Superforecasting](https://www.amazon.com/Superforecasting-audiobook/dp/B0131HGPQQ/ref=sr_1_1?crid=EIN4B0NE83W2&keywords=superforecasting&qid=1660197471&sprefix=superforecastin%2Caps%2C389&sr=8-1) by Phil Tetlock, one of the founding books in forecasting
 - Watch a video - Alex Lawson's [Intro to Forecasting](https://www.youtube.com/watch?v=e6Q7Ez3PkOw) videos
 
-## Basic forecasting tips
+## Basic Forecasting Tips
 
 - 5-second forecast - Just go with your gut. You'll probably be badly calibrated but you will learn than
 - Longer forecast
@@ -42,7 +43,7 @@ Forecasting allows individuals and institutions to test their internal models of
     - Getting enough money in prediction markets
 - Getting forecasts seen by relevant decisionmakers
 
-## Organisations in the space
+## Organisations in the Space
 
 Prediction markets/aggregators
 
@@ -56,11 +57,11 @@ Meta forecasting orgs 
 
 - [[QURI]], 
 
-## Individuals publicly attached to the space
+## Individuals Publicly Attached to the Space
 
 \[not sure how to list\] 
 
-## See also
+## See Also
 
 - [Antiprediction](https://lessestwrong.com/tag/antiprediction)
 - [Making beliefs pay rent](https://lessestwrong.com/tag/making-beliefs-pay-rent)

@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:20.664Z'
 ---
-# Suffering
 
+# Suffering

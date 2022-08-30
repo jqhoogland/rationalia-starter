@@ -12,5 +12,5 @@ sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:55.839Z'
 ---
-# The Futility of Emergence
 
+# The Futility of Emergence

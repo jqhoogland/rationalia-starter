@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:11.984Z'
 ---
+
 # Consequentialism
 
 **Consequentialism** is the ethical theory that people should choose their actions based on the outcomes they expect will result. How to judge outcomes is not specified, but there are many types of consequentialism that specify how outcomes should be judged. For example, [[Utilitarianism|utilitarianism]] holds that the best outcome is that which maximizes the total welfare of all people, and ethical egoism holds that the best outcome is that which maximizes their own personal interests. Consequentialism is one of three main strands of ethical thought, along with deontology, which holds that people should choose actions which conform to a prescribed list of moral rules, and virtue ethics, which holds that people should be judged by how virtuous they are, instead of by what actions they take.
@@ -18,7 +19,7 @@ Related: [[Ethics & Morality]], [[Deontology]], [Moral Uncertainty](/tag/moral-u
 
 Consequentialism is often associated with maximizing the [[Expected Utility|expected value]] of a [[Utility Functions|utility function]]. However, it has been argued that consequentialism is not the same thing as having a utility function because it is possible to evaluate actions based on their consequences without obeying the [von Neuman-Morgenstern axioms](http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) necessary for having a utility function, and because utility functions can also be used to implement moral theories similar to deontology.
 
-## Blog posts
+## Blog Posts
 
 - [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/)
 - [Torture vs. Dust Specks](https://www.lesswrong.com/lw/kn/torture_vs_dust_specks/)
@@ -26,13 +27,13 @@ Consequentialism is often associated with maximizing the [[Expected Utility|expe
 - [Virtue Ethics for Consequentialists](https://www.lesswrong.com/lw/2aa/virtue_ethics_for_consequentialists/)
 - [Consequentialism Need Not Be Shortsighted](https://www.lesswrong.com/lw/778/consequentialism_need_not_be_nearsighted/)
 
-## External links
+## External Links
 
 - [Consequentialism entry on Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)
 - [Consequentialism FAQ](http://www.raikoth.net/consequentialism.html)
 - [Description and discussion about trolley problems](http://people.howstuffworks.com/trolley-problem.htm)
 
-## See also
+## See Also
 
 - [[Utilitarianism]]
 - [[Utility]], [[Utility Functions|utility function]], [[Expected Utility|expected utility]]

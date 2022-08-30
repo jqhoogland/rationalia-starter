@@ -10,12 +10,13 @@ aliases:
   - Letting Go
 synchedAt: '2022-08-29T17:16:41.641Z'
 ---
+
 # Letting Go
 
 Our natural state isn’t to change our minds like a Bayesian would. Getting the people in opposing tribes to notice what they’re really seeing won’t be as easy as reciting the axioms of probability theory to them. As Luke Muehlhauser writes, in [The Power of Agency](http://lesswrong.com/lw/5i8/the_power_of_agency/):
 
 > You are not a Bayesian homunculus whose reasoning is “corrupted” by cognitive biases.
-> 
+>
 > You just are cognitive biases.
 
 Confirmation bias, status quo bias, correspondence bias, and the like are not tacked on to our reasoning; they are its very substance.

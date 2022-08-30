@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:17.983Z'
 ---
+
 # Superstimuli
 
 Humans evolved various desires that promoted survival and reproductive success in the [ancestral environment](https://www.psychologytoday.com/intl/blog/darwins-subterranean-world/201806/3-things-we-know-about-the-ancestral-environment). **Superstimuli** are modern inventions that satisfy desires better than anything in the ancestral environment could but are detrimental to survival, reproduction, or other high-level goals.

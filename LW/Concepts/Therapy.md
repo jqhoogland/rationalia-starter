@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:30.004Z'
 ---
+
 # Therapy
 
 **Therapy** is treatment intended to reduce or remove a disorder. Depression, burn wounds, and many other afflictions can be treated with therapy and time. Psychotherapy aims to treat mental disorders, while physical therapy deals with injuries, physical illnesses, and other bodily damage.

@@ -10,6 +10,7 @@ aliases:
   - 5— HJPEV and the Last Enemy
 synchedAt: '2022-08-29T17:16:42.179Z'
 ---
+
 # 5: HJPEV and the Last Enemy
 
 "Is there some amazing rational thing you do when your mind's running in all different directions?" she managed.

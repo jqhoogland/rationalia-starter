@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:11.360Z'
 ---
+
 # Rationality and Philosophy
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://lesswrong.com/user/lukeprog/) examining the implications of rationality and cognitive science for philosophical method.

@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:49.335Z'
 ---
-# Jungian Philosophy/Psychology
 
+# Jungian Philosophy/Psychology

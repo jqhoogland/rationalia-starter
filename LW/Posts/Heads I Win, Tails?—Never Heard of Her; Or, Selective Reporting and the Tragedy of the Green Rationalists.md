@@ -23,5 +23,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.045Z'
 ---
-# Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists
 
+# Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists

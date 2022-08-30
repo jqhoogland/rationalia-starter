@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:24.909Z'
 ---
+
 # Conservation of Expected Evidence
 
 **Conservation of Expected Evidence** is a consequence of probability theory which states that for every expectation of evidence, there is an equal and opposite expectation of counterevidence \[[Conservation of Expected Evidence|[1]]\]. Conservation of Expected Evidence is about both the direction of the update and its magnitude: a low probability of seeing strong evidence in one direction must be balanced by a high probability of observing weak counterevidence in the other direction \[[2](https://www.lesswrong.com/s/uLEjM2ij5y3CXXW6c/p/zTfSXQracE7TW8x4w#1___You_can_t_predict_that_you_ll_update_in_a_particular_direction__)\]. The mere *expectation* of encountering evidence–before you've actually seen it–should not shift your prior beliefs. It also goes by other names, including *the* [*law of total expectation*](https://en.wikipedia.org/wiki/Law_of_total_expectation) and *the law of iterated expectations*.

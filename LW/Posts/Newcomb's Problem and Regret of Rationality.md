@@ -13,5 +13,5 @@ sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:59.481Z'
 ---
-# Newcomb's Problem and Regret of Rationality
 
+# Newcomb's Problem and Regret of Rationality

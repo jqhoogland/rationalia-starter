@@ -17,5 +17,5 @@ sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.717Z'
 ---
-# Moore's Paradox
 
+# Moore's Paradox

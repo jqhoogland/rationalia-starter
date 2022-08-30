@@ -17,5 +17,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.977Z'
 ---
-# Quantum Non-Realism
 
+# Quantum Non-Realism

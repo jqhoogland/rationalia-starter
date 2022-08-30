@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:40.475Z'
 ---
+
 # Common Sense
 
 It is asserted that "what is generally called [[Common Sense|common sense]] is more or less a collection of [[Cached Thoughts|cached thoughts]]."

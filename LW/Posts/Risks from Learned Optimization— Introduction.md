@@ -21,5 +21,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.239Z'
 ---
-# Risks from Learned Optimization: Introduction
 
+# Risks From Learned Optimization: Introduction

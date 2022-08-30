@@ -16,5 +16,5 @@ sequence: Ethical Injunctions
 chapter: null
 synchedAt: '2022-08-30T08:17:51.088Z'
 ---
-# Why Does Power Corrupt?
 
+# Why Does Power Corrupt?

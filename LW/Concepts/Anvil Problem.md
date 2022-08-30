@@ -10,9 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:26.024Z'
 ---
+
 # Anvil Problem
 
-[[Eliezer Yudkowsky]] has [pointed out](http://lesswrong.com/lw/om/qualitatively_confused/iqd) that "Both [[AIXI]] and AIXItl will at some point drop an anvil on their own heads just to see what happens..., because they are incapable of conceiving that any event whatsoever in the outside universe could change the computational structure of their own operations."
+[[Eliezer Yudkowsky]] has [pointed out](http://lesswrong.com/lw/om/qualitatively_confused/iqd) that "Both [[AIXI]] and AIXItl will at some point drop an anvil on their own heads just to see what happens…, because they are incapable of conceiving that any event whatsoever in the outside universe could change the computational structure of their own operations."
 
 [[AIXI]], the theoretical formalism for the most intelligent possible agent, does not model itself. It is simply a calculation of the best possible action, extrapolating into the future. This calculation at each step chooses the best action, by recursively calculating the next step, and so on to the time horizon.
 
@@ -34,6 +35,6 @@ Third, an artificial general intelligence will likely choose to try to enhance i
 
 [R.V. Yampolskiy, J. Fox (2012)](http://joshuafox.com/media/YampolskiyFox__AGIAndTheHumanModel.pdf) Artificial General Intelligence and the Human Mental Model. In Amnon H. Eden, Johnny Søraker, James H. Moor, Eric Steinhart (Eds.), The Singularity Hypothesis.The Frontiers Collection. London: Springer.
 
-## Blog comment
+## Blog Comment
 
 [Eliezer Yudkowsky](http://lesswrong.com/lw/om/qualitatively_confused/iqd) on Qualitatively Confused at LessWrong, 15 March 2008.

@@ -17,5 +17,5 @@ sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.256Z'
 ---
-# Science Doesn't Trust Your Rationality
 
+# Science Doesn't Trust Your Rationality

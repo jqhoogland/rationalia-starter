@@ -10,10 +10,13 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:11.157Z'
 ---
+
 # Blues & Greens (metaphor)
 
-**"Blues and Greens"** is a term used to metaphorically refer to opposing political factions.  
-  
+**"Blues and Greens"** is a term used to metaphorically refer to opposing political factions.
+
+
+
 *See also*: [Tribalism](/tag/tribalism), [[Mind-Killer|Mind-killer]], [[Arguments As Soldiers|Arguments as soldiers]], [[False Dilemma|False dilemma]], [[In-Group Bias|In-group bias]]
 
 The term come from the names of chariot racing teams, that differed in nothing but the team colors, but the rivalry of whose fans sometimes reached the level of gang wars.[[Blues & Greens (metaphor)|^1^]] By definition, politics also deals with matters that people physically fight over in the real world -- or at least, matters that are to be enforced by the government's monopoly on violence.
@@ -22,7 +25,7 @@ Politics commonly involves an [adversarial process](https://wiki.lesswrong.com/w
 
 For a variety of reasons, Less Wrong tries to avoid political disputes: see [[Mind-Killer|Mind-killer]].
 
-## Blog posts
+## Blog Posts
 
 - [The Robbers Cave Experiment](https://www.lesswrong.com/lw/lt/the_robbers_cave_experiment/)
 - [The Two-Party Swindle](https://www.lesswrong.com/lw/mg/the_twoparty_swindle/)
@@ -31,4 +34,4 @@ For a variety of reasons, Less Wrong tries to avoid political disputes: see [[Mi
 
 ## Footnotes
 
-1.  [Wikipedia:Chariot racing#Byzantine era](https://en.wikipedia.org/wiki/Chariot_racing#Byzantine_era)[[Blues & Greens (metaphor)|↩ ]]
+1. [Wikipedia:Chariot racing#Byzantine era](https://en.wikipedia.org/wiki/Chariot_racing#Byzantine_era)[[Blues & Greens (metaphor)|↩ ]]

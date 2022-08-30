@@ -19,5 +19,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.770Z'
 ---
-# Unbounded Scales, Huge Jury Awards, & Futurism
 
+# Unbounded Scales, Huge Jury Awards, & Futurism

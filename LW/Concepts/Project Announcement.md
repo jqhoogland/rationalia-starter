@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:30.193Z'
 ---
+
 # Project Announcement
 
-A **project announcement** is what you might expect - an announcement of a project.  
+A **project announcement** is what you might expect - an announcement of a project.
 Posts that are about a project's announcement, but do not themselves announce anything, should not have this tag.

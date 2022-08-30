@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:56.468Z'
 ---
+
 # Mind-Killer
 
 **Mind-killer** is a name given to topics (such as [[Blues & Greens (metaphor)|politics]]) that tend to produce extremely [[Bias|biased]] discussions.
@@ -34,17 +35,17 @@ Another cause of mind-killers is social taboo. Negative [[Connotation|connotatio
 
 - [[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
 
-## Blog posts
+## Blog Posts
 
 - [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
 - [The mind-killer](http://lesswrong.com/lw/ee/the_mindkiller/) by [[Ciphergoth|ciphergoth]]
 - [Absolute denial for atheists](http://lesswrong.com/lw/12w/absolute_denial_for_atheists/) by [taw](https://wiki.lesswrong.com/wiki/taw)
 
-## External links
+## External Links
 
 - [What You Can't Say](http://paulgraham.com/say.html) by [Paul Graham](https://wiki.lesswrong.com/wiki/Paul_Graham) \- Discusses "moral fashions" and social taboos and how they mind-kill certain topics.
 
-## See also
+## See Also
 
 - [[Blues & Greens (metaphor)|Color politics]]
 - [[Epistemic Hygiene|Epistemic hygiene]]

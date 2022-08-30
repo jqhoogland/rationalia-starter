@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:58.957Z'
 ---
+
 # Category Theory
 
 **Category Theory** is a subfield of Mathematics studying mathematical structures and their conservation through various transformation. It emerged in the study of algebraic topology, then went on to apply to most parts of mathematics.

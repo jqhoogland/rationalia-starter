@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:08.989Z'
 ---
+
 # Rationality As Martial Art
 
 A metaphor for **rationality as the martial art** of the mind; training brains in the same fashion as muscles.
 
 The metaphor is intended to have complex connotations, rather than being strictly positive. Do modern-day martial arts suffer from being [insufficiently tested in realistic fighting](http://lesswrong.com/lw/2i/epistemic_viciousness/), and do attempts at [[Rationality|rationality]] training run into the same problem?
 
-## Blog posts
+## Blog Posts
 
 - [The Martial Art of Rationality](http://lesswrong.com/lw/gn/the_martial_art_of_rationality/)
 - [A Sense That More Is Possible](http://lesswrong.com/lw/2c/a_sense_that_more_is_possible/)
@@ -28,7 +29,7 @@ The metaphor is intended to have complex connotations, rather than being strictl
 - [Rational Me or We?](http://lesswrong.com/lw/36/rational_me_or_we/) by [[Robin Hanson]]
 - [Individual Rationality is a Matter of Life and Death](http://lesswrong.com/lw/41/individual_rationality_is_a_matter_of_life_and/) by patrissimo
 
-## See also
+## See Also
 
 - [[Rationality Verification|Problem of verifying rationality]]
 - [[Rationality]]

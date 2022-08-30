@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:29.360Z'
 ---
+
 # Factored Cognition
 
 **Factored cognition** is an approach to artificial intelligence where sophisticated learning and reasoning is broken down (or factored) into many small and mostly independent tasks \[[1](https://ought.org/research/factored-cognition)\].

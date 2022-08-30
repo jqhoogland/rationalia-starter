@@ -10,19 +10,20 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:45.534Z'
 ---
+
 # Good-Story Bias
 
 Optimizing predictions for sounding good as stories, when nature optimizes for no such thing, creates a bias that [[Nick Bostrom]] [has termed](http://www.nickbostrom.com/existential/risks.html) **good-story bias**.
 
-## Blog posts
+## Blog Posts
 
 - [Tell Your Anti-Story](http://overcomingbias.com/2007/07/tell-your-anti-.html) by [[Robin Hanson]]
 
-## External links
+## External Links
 
 - [Tyler Cowen at TEDx Mid-Atlantic 2009-11-05 talking about how our love of stories misleads us](http://www.youtube.com/watch?v=RoEEDKwzNBw) (video)
 
-## See also
+## See Also
 
 - [[Narrative Fallacy|Narrative fallacy]]
 - [[Generalization From Fictional Evidence|Generalization from fictional evidence]]

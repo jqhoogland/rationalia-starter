@@ -18,5 +18,5 @@ sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.309Z'
 ---
-# The Sheer Folly of Callow Youth
 
+# The Sheer Folly of Callow Youth

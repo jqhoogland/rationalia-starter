@@ -19,5 +19,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.037Z'
 ---
-# Living in Many Worlds
 
+# Living in Many Worlds

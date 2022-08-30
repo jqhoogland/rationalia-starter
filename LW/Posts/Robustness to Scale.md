@@ -17,5 +17,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.487Z'
 ---
-# Robustness to Scale
 
+# Robustness to Scale

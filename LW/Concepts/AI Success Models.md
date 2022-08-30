@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:18.107Z'
 ---
+
 # AI Success Models
 
 **AI Success Models** are proposed paths to an existential win via aligned AI. They are (so far) high level overviews and won't contain all the details, but present at least a sketch of what a full solution might look like. They can be contrasted with [[Threat Models|threat models]], which are stories about how AI might lead to major problems.

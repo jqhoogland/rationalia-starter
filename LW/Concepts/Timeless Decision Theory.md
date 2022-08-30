@@ -10,15 +10,16 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:48.497Z'
 ---
+
 # Timeless Decision Theory
 
 **Timeless decision theory** (TDT) is a [[Decision Theory|decision theory]], [developed by Eliezer Yudkowsky](http://intelligence.org/files/TDT.pdf) which, in slogan form, says that agents should decide as if they are determining the output of the abstract computation that they implement. This theory was developed in response to the view that rationality should be about winning (that is, about agents achieving their desired ends) rather than about behaving in a manner that we would intuitively label as rational. Prominent existing decision theories (including [[Causal Decision Theory|causal decision theory]], or CDT) fail to choose the winning decision in some scenarios and so there is a need to develop a more successful theory.
 
-## Timeless Decision Theory has been replaced by [[Functional Decision Theory]]
+## Timeless Decision Theory Has Been Replaced by [[Functional Decision Theory]]
 
 <more needed>
 
-## TDT and Newcomb's problem
+## TDT and Newcomb's Problem
 
 A better sense of the motivations behind, and form of, TDT can be gained by considering a particular decision scenario: [Newcomb's problem](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/). In Newcomb's problem, a superintelligent artificial intelligence, Omega, presents you with a transparent box and an opaque box. The transparent box contains $1000 while the opaque box contains either $1,000,000 or nothing. You are given the choice to either take both boxes (called two-boxing) or just the opaque box (one-boxing). However, things are complicated by the fact that Omega is an almost perfect predictor of human behavior and has filled the opaque box as follows: if Omega predicted that you would one-box, it filled the box with $1,000,000 whereas if Omega predicted that you would two-box it filled it with nothing.
 
@@ -26,9 +27,9 @@ Many people find it intuitive that it is rational to two-box in this case. As th
 
 TDT will endorse one-boxing in this scenario and hence endorses the winning decision. When Omega predicts your behavior, it carries out the same abstract computation as you do when you decide whether to one-box or two-box. To make this point clear, we can imagine that Omega makes this prediction by creating a simulation of you and observing its behavior in Newcomb's problem. This simulation will clearly decide according to the same abstract computation as you do as both you and it decide in the same manner. Now given that TDT says to act as if deciding the output of this computation, it tells you to act as if your decision to one-box can determine the behavior of the simulation (or, more generally, Omega's prediction) and hence the filling of the boxes. So TDT correctly endorses one-boxing in Newcomb's problem as it tells the agent to act as if doing so will lead them to get $1,000,000 instead of $1,000.
 
-## TDT and other decision scenarios
+## TDT and Other Decision Scenarios
 
-TDT also wins in a range of other cases including [[LW/Concepts/Smoking Lesion|medical Newcomb's problems]], [Parfit's hitchhiker](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/), and [[Prisoner's Dilemma|the one-shot prisoners' dilemma]]. However, there are [other scenarios](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) where TDT does not win, including [counterfactual mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/). This suggests that TDT still requires further development if it is to become a fully adequate decision theory. Given this, there is some motivation to also consider alternative decision theories alongside TDT, like [updateless decision theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) (UDT), which also wins in a range of scenarios but has its own problem cases. It seems likely that both of these theories draw on insights which are crucial to progressing our understanding of decision theory. So while TDT requires further development to be entirely adequate, it nevertheless represents a substantial step toward developing a decision theory that always endorses the winning decision
+TDT also wins in a range of other cases including [[Smoking Lesion|medical Newcomb's problems]], [Parfit's hitchhiker](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/), and [[Prisoner's Dilemma|the one-shot prisoners' dilemma]]. However, there are [other scenarios](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) where TDT does not win, including [counterfactual mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/). This suggests that TDT still requires further development if it is to become a fully adequate decision theory. Given this, there is some motivation to also consider alternative decision theories alongside TDT, like [updateless decision theory](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) (UDT), which also wins in a range of scenarios but has its own problem cases. It seems likely that both of these theories draw on insights which are crucial to progressing our understanding of decision theory. So while TDT requires further development to be entirely adequate, it nevertheless represents a substantial step toward developing a decision theory that always endorses the winning decision
 
 ## Formalization of TDT
 

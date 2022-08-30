@@ -17,5 +17,5 @@ sequence: Value Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:33.242Z'
 ---
-# The True Prisoner's Dilemma
 
+# The True Prisoner's Dilemma

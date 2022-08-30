@@ -1,6 +1,6 @@
 ---
 _id: 56yXXrcxRjrQs6z9R
-title: Transparency / Interpretability (ML & AI)
+title: Transparency, Interpretability (ML & AI)
 href: https://lesswrong.com/tag/transparency-interpretability-ml-and-ai
 slug: transparency-interpretability-ml-and-ai
 type: tag
@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:59.132Z'
 ---
-# Transparency / Interpretability (ML & AI)
+
+# Transparency, Interpretability (ML & AI)
 
 **Transparency and interpretability** is the ability for the decision processes and inner workings of AI and machine learning systems to be understood by humans or other outside observers.
 

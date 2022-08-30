@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:38.811Z'
 ---
+
 # Bayesianism
 
 **Bayesianism** is the broader philosophy inspired by [Bayes' theorem](https://www.lessestwrong.com/tag/bayes-theorem). The core claim behind all varieties of Bayesianism is that *probabilities are subjective degrees of belief --* often operationalized as willingness to bet. 
@@ -26,9 +27,9 @@ As a consequence of the subjective interpretation of probability theory, Bayesia
 
 ## Bayesianism & Rationality
 
-There is a conceoption of rationality for *bayesian* can be treated as technical codeword that cognitive scientists use to mean "rational". Bayesian [probability theory](https://www.lessestwrong.com/tag/probability-theory) is the math of [epistemic rationality](https://wiki.lesswrong.com/wiki/epistemic_rationality), Bayesian [decision theory](https://www.lessestwrong.com/tag/decision-theory) is the math of [instrumental rationality](https://wiki.lesswrong.com/wiki/instrumental_rationality). Right up there with [cognitive bias](https://wiki.lesswrong.com/wiki/cognitive_bias) as an absolutely fundamental concept on Less Wrong.  
+There is a conceoption of rationality for *bayesian* can be treated as technical codeword that cognitive scientists use to mean "rational". Bayesian [probability theory](https://www.lessestwrong.com/tag/probability-theory) is the math of [epistemic rationality](https://wiki.lesswrong.com/wiki/epistemic_rationality), Bayesian [decision theory](https://www.lessestwrong.com/tag/decision-theory) is the math of [instrumental rationality](https://wiki.lesswrong.com/wiki/instrumental_rationality). Right up there with [cognitive bias](https://wiki.lesswrong.com/wiki/cognitive_bias) as an absolutely fundamental concept on Less Wrong.
  
 
-## Other usages
+## Other Usages
 
 The term "Bayesian" may also refer to an ideal rational agent implementing precise, perfect Bayesian probability theory and decision theory (see, for example, [Aumann's agreement theorem](https://www.lessestwrong.com/tag/aumann-s-agreement-theorem)).

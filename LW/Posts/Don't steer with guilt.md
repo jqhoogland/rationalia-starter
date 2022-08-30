@@ -16,5 +16,5 @@ sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.766Z'
 ---
-# Don't steer with guilt
 
+# Don't Steer with Guilt

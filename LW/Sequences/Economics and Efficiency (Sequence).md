@@ -13,7 +13,6 @@ synchedAt: '2022-08-29T17:16:42.154Z'
 
 # Economics and Efficiency
 
-
 ## Chapters
 
 ### Marginally Important Econ Questions
@@ -26,5 +25,6 @@ synchedAt: '2022-08-29T17:16:42.154Z'
 - [How The West Was Won](https://www.lesswrong.com/s/zfXAcwLnGocsCsriG/p/m7THsgXyxxiEXgyHv)
 
 ### Interlude
+
 - [The Lizard People Of Alpha Draconis 1 Decided To Build An Ansible](https://www.lesswrong.com/s/zfXAcwLnGocsCsriG/p/iLMkKDKmfbMkDuQBm)
 - [A Modern Myth](https://www.lesswrong.com/s/zfXAcwLnGocsCsriG/p/kSiT2XjfTnDHKx44W)

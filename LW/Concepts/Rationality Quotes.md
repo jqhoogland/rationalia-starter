@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:28.661Z'
 ---
+
 # Rationality Quotes
 
 **Rationality Quotes** was a series of posts and threads on Overcoming Bias and Less Wrong, where users would post quotes that had some connection to rationality or other popular Less Wrong discussion topics.

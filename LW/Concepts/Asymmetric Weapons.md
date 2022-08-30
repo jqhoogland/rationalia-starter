@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:24.502Z'
 ---
+
 # Asymmetric Weapons
 
 **Asymmetric Weapons** are weapons that are inherently more powerful to one side of a conflict than another - Unlike a symmetric weapon, which can used as effectively by both sides. The term was originally introduced by Scott Alexander in his essay [Guided By The Beauty Of Our Weapons](https://www.lesswrong.com/posts/qajfiXo5qRThZQG7s/guided-by-the-beauty-of-our-weapons), where he argued that truth, facts, and logic are asymmetric weapons for "the good guys":
@@ -18,7 +19,7 @@ synchedAt: '2022-08-29T10:47:24.502Z'
 
 In the same essay he gave rhetoric and violence as examples of symmetric weapons.
 
-> Violence is a *symmetric weapon*; the bad guys’ punches hit just as hard as the good guys’ do. \[...\] the same is true of rhetoric. Martin Luther King was able to make persuasive emotional appeals for good things. But Hitler was able to make persuasive emotional appeals for bad things. I’ve [previously argued](https://slatestarscratchpad.tumblr.com/post/103708539246/nostalgebraist-at-various-points-bostrom-like) that Mohammed counts as the most successful persuader of all time. These three people pushed three very different ideologies, and rhetoric worked for them all. 
+> Violence is a *symmetric weapon*; the bad guys’ punches hit just as hard as the good guys’ do. \[…\] the same is true of rhetoric. Martin Luther King was able to make persuasive emotional appeals for good things. But Hitler was able to make persuasive emotional appeals for bad things. I’ve [previously argued](https://slatestarscratchpad.tumblr.com/post/103708539246/nostalgebraist-at-various-points-bostrom-like) that Mohammed counts as the most successful persuader of all time. These three people pushed three very different ideologies, and rhetoric worked for them all. 
 
 Scott uses this terminology mainly to separate strategies that work especially well for "the good guys" and strategies that work equally well for both sides. Davis Kingsley [warns](https://www.lesswrong.com/posts/Nd5KiuN8pPBrMT82Z/asymmetric-weapons-aren-t-always-on-your-side-1) that strategies can also be asymmetric in favor of "the bad guys".
 

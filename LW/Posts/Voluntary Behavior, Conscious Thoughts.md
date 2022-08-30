@@ -17,5 +17,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.103Z'
 ---
-# Voluntary Behavior, Conscious Thoughts
 
+# Voluntary Behavior, Conscious Thoughts

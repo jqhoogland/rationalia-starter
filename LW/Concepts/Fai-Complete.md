@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:48.380Z'
 ---
+
 # Fai-Complete
 
 A problem is **Friendly AI-complete** if solving it is equivalent to creating [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI).
@@ -26,7 +27,7 @@ Similarly, if you have a tool AI, it must make extremely complex decisions about
 
 Goertzel proposed a "Nanny AI"([Should humanity build a global AI nanny to delay the singularity until it’s better understood?](http://commonsenseatheism.com/wp-content/uploads/2012/03/Goertzel-Should-Humanity-Build-a-Global-AI-Nanny-to-Delay-the-Singularity-Until-its-Better-Understood.pdf)) with moderate superhuman intelligence, able to forestall Singularity eternally, or to delay it. However, it has been argued by Luke Muehlhauser and Anna Salamon ([Intelligence Explosion: Evidence and Import](http://intelligence.org/files/IE-EI.pdf)) that a Nanny AI is FAI-complete. They claim that building it could require solving all the problems required to build [[Friendly Artificial Intelligence]].
 
-## Blog posts
+## Blog Posts
 
 - [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
 - [Reply to Holden on 'Tool AI'](http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/)
@@ -37,7 +38,7 @@ Goertzel proposed a "Nanny AI"([Should humanity build a global AI nanny to delay
 - [Should humanity build a global AI nanny to delay the singularity until it’s better understood?](http://commonsenseatheism.com/wp-content/uploads/2012/03/Goertzel-Should-Humanity-Build-a-Global-AI-Nanny-to-Delay-the-Singularity-Until-its-Better-Understood.pdf) by Ben Goertzel
 - [Intelligence Explosion: Evidence and Import](http://intelligence.org/files/IE-EI.pdf) by Luke Muehlhauser and Anna Salamon
 
-## See also
+## See Also
 
 - [FAI](https://wiki.lesswrong.com/wiki/FAI)
 - [[AI-Complete|AI-complete]]

@@ -17,5 +17,5 @@ sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.279Z'
 ---
-# Prune
 
+# Prune

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:17.043Z'
 ---
+
 # Writing (communication method)
 
 About the art and science of using **writing** to think and communicate.

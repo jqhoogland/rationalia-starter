@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:02.665Z'
 ---
+
 # Priming
 
 **Priming** is a [[Psychology|psychological]] phenomenon that consists in early stimulus influencing later thoughts and behavior. The literature on Priming was heavily hit in the [[Replication Crisis|replication crisis]] of the 2010's.
@@ -21,7 +22,7 @@ synchedAt: '2022-08-29T10:48:02.665Z'
 - [The Implicit Association Test](http://lesswrong.com/lw/53/the_implicit_association_test/)
 - [Fight Biases, or Route Around Them?](http://lesswrong.com/lw/5d/fight_biases_or_route_around_them/)
 
-## See also
+## See Also
 
 - [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes) (sequence)
 - [[Affect Heuristic|Affect heuristic]]

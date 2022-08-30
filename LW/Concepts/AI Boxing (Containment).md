@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:17.204Z'
 ---
+
 # AI Boxing (Containment)
 
 **AI Boxing** is attempts, experiments, or proposals to isolate ("box") a powerful AI (~AGI) where it can't interact with the world at large, save for limited communication with its human liaison. It is often proposed that so long as the AI is physically isolated and restricted, or "boxed", it will be harmless even if it is an [[Unfriendly Artificial Intelligence|unfriendly artificial intelligence]] (UAI).
@@ -52,7 +53,7 @@ Both Eliezer Yudkowsky and Justin Corwin have ran simulations, pretending to be 
 
 The text of Eliezer's experiments have not been made public.
 
-## List of experiments
+## List of Experiments
 
 - [The AI-Box Experiment](http://yudkowsky.net/singularity/aibox/) [[Eliezer Yudkowsky|Eliezer Yudkowsky's]] original two tests
 - [Shut up and do the impossible!](https://www.lesswrong.com/lw/up/shut_up_and_do_the_impossible/), three other experiments Eliezer ran

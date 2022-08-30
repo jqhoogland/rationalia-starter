@@ -12,5 +12,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:58.415Z'
 ---
-# Affective Death Spirals
 
+# Affective Death Spirals

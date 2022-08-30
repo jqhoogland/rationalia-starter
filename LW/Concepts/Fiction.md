@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:12.566Z'
 ---
+
 # Fiction
 
 **Fiction** isn't literal truth, but when done well it captures truths and intuitions that are difficult to explain directly. (It’s also damn fun to read.)
@@ -36,7 +37,7 @@ This is a tag for works of fiction, not for analysis or discussion of literature
 - [Bayeswatch](https://www.lesswrong.com/s/TjdhvTSptCYakw3Lc)
 - [Short stories](https://www.lesswrong.com/s/qMtriMPLdriNkAfSJ) by lsusr
 
-## External links
+## External Links
 
 - [/r/rational/](https://www.reddit.com/r/rational/) on [Reddit](https://lessestwrong.com/tag/reddit)
 - [RationalFic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic) on TV Tropes

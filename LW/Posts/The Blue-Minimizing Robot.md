@@ -17,5 +17,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:51.891Z'
 ---
-# The Blue-Minimizing Robot
 
+# The Blue-Minimizing Robot

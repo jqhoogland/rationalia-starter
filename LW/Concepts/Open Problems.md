@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:02:44.178Z'
 ---
+
 # Open Problems
 
 [**Open problems**](http://en.wikipedia.org/wiki/Open_problems) (or open questions) are the things in a field that haven't yet been figured out. Gathering them all in the same place can help to see on what's the frontier of that field or find things to work on.

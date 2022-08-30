@@ -17,5 +17,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.486Z'
 ---
-# My Childhood Role Model
 
+# My Childhood Role Model

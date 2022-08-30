@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:13.596Z'
 ---
+
 # Circling
 
 **Circling** is a group "meditative", "relational" practice. Typically, a group of people sit in a circle and deliberately focus their attention the emotions and experiences of each participant in the group. Communication is usually restricted to the topic of what the individuals in the Circle are experiencing in the present moment, particular their attitudes, feelings, and reactions to others in the group.

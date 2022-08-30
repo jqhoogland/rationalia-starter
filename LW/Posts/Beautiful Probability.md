@@ -19,5 +19,5 @@ sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.698Z'
 ---
-# Beautiful Probability
 
+# Beautiful Probability

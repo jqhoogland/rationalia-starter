@@ -19,5 +19,5 @@ sequence: Reality & Reason
 chapter: null
 synchedAt: '2022-08-30T08:17:52.465Z'
 ---
-# To listen well, get curious
 
+# To Listen Well, Get Curious

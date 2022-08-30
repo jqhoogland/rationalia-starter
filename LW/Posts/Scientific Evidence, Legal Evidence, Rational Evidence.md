@@ -13,5 +13,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:57.169Z'
 ---
-# Scientific Evidence, Legal Evidence, Rational Evidence
 
+# Scientific Evidence, Legal Evidence, Rational Evidence

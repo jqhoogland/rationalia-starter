@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:29.302Z'
 ---
+
 # Radical Probabilism
 
 **Radical Probabilism** is a newer form of [[Bayesianism]] invented by [Richard Jeffrey](https://en.wikipedia.org/wiki/Richard_Jeffrey). The primary point of departure from other forms of Bayesianism is its rejection of the strong connection between conditional probability and updates. Radical Probabilism therefore rejects the strong connection between [[Bayes' Theorem|Bayes' Rule]] and updating.

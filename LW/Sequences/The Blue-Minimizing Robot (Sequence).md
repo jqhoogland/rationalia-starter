@@ -10,6 +10,7 @@ aliases:
   - The Blue-Minimizing Robot
 synchedAt: '2022-08-29T17:16:42.659Z'
 ---
+
 # The Blue-Minimizing Robot
 
 A sequence on models of the human mind, drawing on psychology and neuroscience to discuss motivation, learning and behaviour.
@@ -17,9 +18,6 @@ A sequence on models of the human mind, drawing on psychology and neuroscience t
 ## Chapters
 
 ### The Blue-Minimizing Robot
-
-
-
 
 ### The Blue-Minimizing Robot
 

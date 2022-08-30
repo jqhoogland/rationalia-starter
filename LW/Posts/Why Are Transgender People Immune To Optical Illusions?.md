@@ -16,5 +16,5 @@ sequence: Hypotheses and Hunches
 chapter: null
 synchedAt: '2022-08-30T08:16:44.994Z'
 ---
-# Why Are Transgender People Immune To Optical Illusions?
 
+# Why Are Transgender People Immune To Optical Illusions?

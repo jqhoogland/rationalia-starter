@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:19.235Z'
 ---
+
 # Subgoal Stomp
 
 **Subgoal stomp** is Eliezer Yudkowsky's term (see "[Creating Friendly AI](http://intelligence.org/files/CFAI.pdf)") for the replacement of a supergoal by a subgoal. (A subgoal is a goal created for the purpose of achieving a supergoal.)
@@ -22,7 +23,7 @@ In Friendly AI research, a subgoal stomp is a failure mode to be avoided.
 
 A subgoal stomp in an artificial general intelligence may occur in one of two ways:
 
-## 1\. Supergoal replacement
+## 1\. Supergoal Replacement
 
 One failure mode occurs when subgoals replace supergoals in an agent because of a bug.
 
@@ -32,7 +33,7 @@ Most changes in an agent's [[Terminal Value|terminal values]] reduces the chance
 
 In humans, this can happen when the long-term dedication towards a subgoal makes one forget the original goal. For example, a person may seek to get rich so as to lead a better life, but after long years of hard effort become a workaholic who cares only about money as an end in itself and takes little pleasure in the things that money can buy.
 
-## 2\. Subgoal specified as supergoal
+## 2\. Subgoal Specified as Supergoal
 
 A designer of goal systems may mistakenly assign a goal that is not what the designer really wants.
 
@@ -40,7 +41,7 @@ The designer of an artificial general intelligence may give it a supergoal (term
 
 To take an example from human organizations: If a software development manager gives a bonus to workers for finding and fixing bugs, she may find that quality and development engineers collaborate to generate as many easy-to-find-and-fix bugs as possible. In this case, they are correctly and flawlessly executing on the goals which the manager gave them, but her actual terminal value, software quality, is not being maximized.
 
-## Humans as adaptation executors
+## Humans as Adaptation Executors
 
 Humans, forged by evolution, provide another example of subgoal stomp. Their terminal values, such as survival, health, social status, curiosity, etc., originally served instrumentally for the (implicit) goal of evolution, namely inclusive genetic fitness. Humans do *not* have inclusive genetic fitness as a goal: We are adaptation executors rather than fitness maximizers (Tooby and Cosmides, 1992).
 

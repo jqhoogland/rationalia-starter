@@ -17,5 +17,5 @@ sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.386Z'
 ---
-# Qualitatively Confused
 
+# Qualitatively Confused

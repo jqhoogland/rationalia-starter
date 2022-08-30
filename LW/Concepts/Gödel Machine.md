@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:45.324Z'
 ---
+
 # Gödel Machine
 
 A **Gödel machine** is an approach to [[Artificial General Intelligence]] that uses a [[Recursive Self-Improvement|recursive self-improvement]] architecture proposed by Jürgen Schmidhuber. It was inspired by the mathematical theories of Kurt Gödel, where one could always find a mathematical truth or axiom that if attached to a formal system would make it stronger. A Gödel Machine is a universal problem solver that will make provably optimal self-improvements – self-improvements which can be proved to better maximize its [[Utility|utility]].
@@ -29,7 +30,7 @@ The Gödel machine is often compared with Marcus Hutter's [[AIXI]], another form
 
 ## References
 
-1.  Jürgen Schmidhuber (2009) [Ultimate Cognition à la Gödel](http://www.idsia.ch/~juergen/ultimatecognition.pdf↩). Cogn Comput (2009) 1:177–193.
+1. Jürgen Schmidhuber (2009) [Ultimate Cognition à la Gödel](http://www.idsia.ch/~juergen/ultimatecognition.pdf↩). Cogn Comput (2009) 1:177–193.
 
 ## External Links
 

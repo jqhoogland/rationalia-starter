@@ -17,5 +17,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.045Z'
 ---
-# Prospect Theory: A Framework for Understanding Cognitive Biases
 
+# Prospect Theory: A Framework for Understanding Cognitive Biases

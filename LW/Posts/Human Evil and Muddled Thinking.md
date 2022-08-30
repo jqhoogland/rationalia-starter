@@ -16,5 +16,5 @@ sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:54.786Z'
 ---
-# Human Evil and Muddled Thinking
 
+# Human Evil and Muddled Thinking

@@ -15,5 +15,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:51.985Z'
 ---
-# Time and Effort Discounting
 
+# Time and Effort Discounting

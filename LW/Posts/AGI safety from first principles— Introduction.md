@@ -17,5 +17,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:16:32.518Z'
 ---
-# AGI safety from first principles: Introduction
 
+# AGI Safety From First Principles: Introduction

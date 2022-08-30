@@ -17,5 +17,5 @@ sequence: Joy in the Merely Real
 chapter: null
 synchedAt: '2022-08-30T08:17:34.926Z'
 ---
-# Joy in Discovery
 
+# Joy in Discovery

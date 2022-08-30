@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:14.728Z'
 ---
+
 # Book Reviews
 
 **Book Reviews** on LessWrong are different from normal book reviews; they summarize and respond to a book's core ideas first, and judge whether you should read it second. A good book review sometimes distills the book's ideas so well that you no longer need to read the book.

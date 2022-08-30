@@ -18,5 +18,5 @@ sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.777Z'
 ---
-# How to Convince Me That 2 + 2 = 3
 
+# How to Convince Me That 2 + 2 = 3

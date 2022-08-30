@@ -21,5 +21,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.512Z'
 ---
-# Coherence arguments do not entail goal-directed behavior
 
+# Coherence Arguments Do Not Entail Goal-directed Behavior

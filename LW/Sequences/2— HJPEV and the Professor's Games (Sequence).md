@@ -10,6 +10,7 @@ aliases:
   - 2— HJPEV and the Professor's Games
 synchedAt: '2022-08-29T17:16:42.180Z'
 ---
+
 # 2: HJPEV and the Professor's Games
 
 "Hey, did you think going to the Moon was easy? Be glad this just involves changing your mind sometimes, and not a human sacrifice!"

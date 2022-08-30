@@ -10,6 +10,7 @@ aliases:
   - Physicalism 201
 synchedAt: '2022-08-29T17:16:41.107Z'
 ---
+
 # Physicalism 201
 
 Can we ever know what it’s like to be a bat? Traditional dualism, with its immaterial souls freely floating around violating physical laws, may be false; but what about the weaker thesis, that consciousness is a “further fact” not fully explainable by the physical facts? A number of philosophers and scientists have found this line of reasoning persuasive. If we feel this argument’s intuitive force, should we grant its conclusion and ditch physicalism?

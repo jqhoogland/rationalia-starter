@@ -10,9 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:43.486Z'
 ---
+
 # Induction
 
-**Induction** usually refers to a form of reasoning that has specific examples as premises and general propositions as conclusions. For example, arguments such as "Swans 1,2,3, …,_n_ are white, hence all swans are white", take the specific observations of a finite number (_n_) of swans been white to a general conclusion that all swan are whites.
+**Induction** usually refers to a form of reasoning that has specific examples as premises and general propositions as conclusions. For example, arguments such as "Swans 1,2,3, …,*n* are white, hence all swans are white", take the specific observations of a finite number (*n*) of swans been white to a general conclusion that all swan are whites.
 
 Modern views of induction state that any form of reasoning where the conclusion isn't necessarily entailed in the premises is a form of inductive reasoning. Therefore, even inferences which proceed from general premises to specific conclusions can be inductive, for example "The sun has always risen, so it will also rise tomorrow". In contrast, in deductive reasoning the conclusions are logically entailed by the premises. Contrary to deduction, induction can be wrong since the conclusions depend on the way the world actually is, not merely on the logical structure of the argument.
 
@@ -28,7 +29,7 @@ It’s possible to engage in probabilistic inductive reasoning, such as "95% of 
 
 ## Mathematical Induction
 
-[Mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction) is method of mathematical proof where one proves a statement holds for all possible n by showing it holds for the lowest _n_ and then that this statement if preserved by any operation which increases the value of _n_. For sets with finite members - or infinities members than can be indexed in the natural numbers -, it suffices to show the statement is preserved by the successor operation (If it is true for _n_, then it is true for'' n+1''). Because the conclusion is necessary given the premises, mathematical induction is taken to be a form of deductive reasoning and it isn't affected by the problem of induction.
+[Mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction) is method of mathematical proof where one proves a statement holds for all possible n by showing it holds for the lowest *n* and then that this statement if preserved by any operation which increases the value of *n*. For sets with finite members - or infinities members than can be indexed in the natural numbers -, it suffices to show the statement is preserved by the successor operation (If it is true for *n*, then it is true for'' n+1''). Because the conclusion is necessary given the premises, mathematical induction is taken to be a form of deductive reasoning and it isn't affected by the problem of induction.
 
 ## See Also
 

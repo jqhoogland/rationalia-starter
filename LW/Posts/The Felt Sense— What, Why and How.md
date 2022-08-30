@@ -19,5 +19,5 @@ sequence: Reality & Reason
 chapter: null
 synchedAt: '2022-08-30T08:17:52.496Z'
 ---
-# The Felt Sense: What, Why and How
 
+# The Felt Sense: What, Why and How

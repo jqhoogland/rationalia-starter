@@ -20,5 +20,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.555Z'
 ---
-# [Answer] Why wasn't science invented in China?
 
+# [Answer] Why Wasn't Science Invented in China?

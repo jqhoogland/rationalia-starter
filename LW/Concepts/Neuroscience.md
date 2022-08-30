@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:03.513Z'
 ---
+
 # Neuroscience
 
-**Neuroscience** is a field of study dealing with the structure or function of the brain. It is of particular interest to LessWrong both because it can shed light on [[AI]], and because it is often helpful for [[Rationality|rationality]]. For example, understanding how [[Attention control is critical for changing/increasing/altering motivation|attentional control]] works can inform possible solutions.
+**Neuroscience** is a field of study dealing with the structure or function of the brain. It is of particular interest to LessWrong both because it can shed light on [[AI]], and because it is often helpful for [[Rationality|rationality]]. For example, understanding how [[altering motivation|attentional control]] works can inform possible solutions.

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:40.974Z'
 ---
+
 # Brain-Computer Interfaces
 
 A **Brain Computer Interface (BCI)** is the generic term used to describe any kind of system that serves as a communication bridge between the brain (human or not) and an artificial module. It’s a field of research in which wide investment has been made since the 1970’s, especially in the clinical fields and ergonomics. Generally speaking, any kind of brain activity that can be recorded can be used as a means of communicating with another system. Through the use of statistical classification techniques it’s possible to associate certain states or characteristics of the recorded signal – which the experiment subject learns to control - to any procedure, usually mediated by a computer.
@@ -24,7 +25,7 @@ The field of BCIs has followed closely the developments in signal processing and
 
 Currently we have available a considerable range of both research and commercial applications of EEG based BCI systems with a wide list of applications. It has shown to be a field due to receive increased attention in the next years, especially through the developing of increasingly efficient classification algorithms and computer power, and the fascination with the cognitive augmentation it might bring.
 
-## Potential applications
+## Potential Applications
 
 Although the EEG has been the main technique used for the development of such systems, it has been shown to be possible to integrate electronic controllers directly in the functioning of single cells or even networks. The [permanent implant of devices for interpretation](http://www.wired.com/wired/archive/10.09/vision.html) and regulation of cortical activity has also been demonstrated.
 

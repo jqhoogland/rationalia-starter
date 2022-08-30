@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:36.565Z'
 ---
+
 # Ontological Crisis
 
 **Ontological crisis** is a term coined to describe the crisis an agent, human or not, goes through when its model - its ontology - of reality changes.
@@ -30,7 +31,7 @@ This crisis, in the context of an [AGI](https://wiki.lesswrong.com/wiki/AGI), co
 - [Eutopia is Scary](http://lesswrong.com/lw/xl/eutopia_is_scary/) by Eliezer Yudkowsky
 - [Ontological Crisis in Humans](http://lesswrong.com/lw/fyb/ontological_crisis_in_humans/) by Wei Dai
 
-## See also
+## See Also
 
 - [[Evolution]]
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

@@ -18,5 +18,5 @@ sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.554Z'
 ---
-# Detached Lever Fallacy
 
+# Detached Lever Fallacy

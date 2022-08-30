@@ -10,6 +10,7 @@ aliases:
   - Hypotheses and Hunches
 synchedAt: '2022-08-29T17:16:38.566Z'
 ---
+
 # Hypotheses and Hunches
 
 ## Chapters
@@ -19,7 +20,6 @@ synchedAt: '2022-08-29T17:16:38.566Z'
 - [[The Atomic Bomb Considered As Hungarian High School Science Fair Project]]
 - [[It’s Bayes All The Way Up]]
 - [[Why Are Transgender People Immune To Optical Illusions?]]
-
 
 ### Interlude
 

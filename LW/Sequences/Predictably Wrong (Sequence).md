@@ -10,6 +10,7 @@ aliases:
   - Predictably Wrong
 synchedAt: '2022-08-29T17:16:42.153Z'
 ---
+
 # Predictably Wrong
 
 This, the first book of "Rationality: AI to Zombies" (also known as "The Sequences"), begins with cognitive bias. The rest of the book won’t stick to just this topic; bad habits and bad ideas matter, even when they arise from our minds’ contents as opposed to our minds’ structure.
@@ -22,7 +23,7 @@ It is cognitive bias, however, that provides the clearest and most direct glimps
 
 - [[Preface]]
 - [[Biases— An Introduction]]
-- [[Scope Insensitivity]]
+- [[Scope Insensitivity (Post)]]
 - [[The Martial Art of Rationality]]
 - [[Availability]]
 - [[What's a Bias?]]

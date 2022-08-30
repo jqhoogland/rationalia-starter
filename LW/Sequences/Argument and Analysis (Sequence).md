@@ -10,6 +10,7 @@ aliases:
   - Argument and Analysis
 synchedAt: '2022-08-29T17:16:42.156Z'
 ---
+
 # Argument and Analysis
 
 A sequence of essays by Scott Alexander on how arguments work, how to use them, and how to misuse them.
@@ -26,7 +27,6 @@ A sequence of essays by Scott Alexander on how arguments work, how to use them, 
 - [[The Virtue of Silence]]
 - [[Proving Too Much]]
 - [[Beware Isolated Demands For Rigor]]
-
 
 ### Interlude
 

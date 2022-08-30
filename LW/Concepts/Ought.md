@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:11.176Z'
 ---
+
 # Ought
 
 **Ought** is an AI alignment research non-profit focused on the problem of [[Factored Cognition]].

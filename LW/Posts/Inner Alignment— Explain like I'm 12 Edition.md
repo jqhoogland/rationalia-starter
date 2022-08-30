@@ -18,5 +18,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:16:32.490Z'
 ---
-# Inner Alignment: Explain like I'm 12 Edition
 
+# Inner Alignment: Explain Like I'm 12 Edition

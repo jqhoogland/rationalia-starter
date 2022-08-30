@@ -18,5 +18,5 @@ sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.668Z'
 ---
-# Do you fear the rock or the hard place?
 
+# Do You Fear the Rock or the Hard Place?

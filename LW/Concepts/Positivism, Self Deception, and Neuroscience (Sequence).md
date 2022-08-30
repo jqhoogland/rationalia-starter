@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:10.410Z'
 ---
+
 # Positivism, Self Deception, and Neuroscience (Sequence)
 
 A sequence of posts by [Yvain](https://wiki.lesswrong.com/wiki/Yvain).
@@ -28,7 +29,7 @@ A sequence of posts by [Yvain](https://wiki.lesswrong.com/wiki/Yvain).
 - [The Power of Positivist Thinking](http://lesswrong.com/lw/48/the_power_of_positivist_thinking)
 - [When Truth Isn't Enough](http://lesswrong.com/lw/4h/when_truth_isnt_enough)
 
-## See also
+## See Also
 
 - [[Priming]]
 - [The Science of Winning at Life](https://www.lesswrong.com/tag/the-science-of-winning-at-life) (sequence)

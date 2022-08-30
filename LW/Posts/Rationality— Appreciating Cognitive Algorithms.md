@@ -18,5 +18,5 @@ sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Introduction
 synchedAt: '2022-08-30T08:17:30.544Z'
 ---
-# Rationality: Appreciating Cognitive Algorithms
 
+# Rationality: Appreciating Cognitive Algorithms

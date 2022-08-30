@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:31.107Z'
 ---
+
 # Less Wrong Meetup Group Resources
 
 Less Wrong members sometimes arrange [meetups](http://lesswrong.com/tag/meetup/?sort=new) (or "dojos") to meet each other in [meatspace](http://www.urbandictionary.com/define.php?term=meatspace). Some geographic areas have groups that do this [regularly](http://wiki.lesswrong.com/wiki/Less_Wrong_meetup_groups). This page lists tips and resources for Less Wrong meetup groups.
@@ -22,7 +23,7 @@ There is also a [facebook group](https://www.facebook.com/groups/LesswrongOrgani
 
 Most of this data comes from the post [Less Wrong NYC: Case Study of a Successful Rationalist Chapter](http://lesswrong.com/lw/4ul/less_wrong_nyc_case_study_of_a_successful/). (For more on Less Wrong NYC, see [Epistle to the New York Less Wrongians](http://lesswrong.com/lw/5c0/epistle_to_the_new_york_less_wrongians/).)
 
-## Organization tips
+## Organization Tips
 
 - **Communities need heroes**. Most people will be passively attending. Step up.
 - **Commitment works**. Announce regular dates and times, and stay for a minimum length of time, regardless of attendance.
@@ -34,7 +35,7 @@ Most of this data comes from the post [Less Wrong NYC: Case Study of a Successfu
 - **Congregate in the area nearby with the most Less Wrongers**.
 - **Use good meetup descriptions.** Here is an [example meetup description](https://www.lesswrong.com/posts/Y3KCuqJSbpGs62Hvp/example-meetup-description).
 
-## Meetup activities
+## Meetup Activities
 
 - **Social / unfocused discussions**. Attendance is usually poor; members report that hanging out is harder to justify than having a specific purpose.
 - **Specific discussion topics**. Attendance is good. Break into small groups to make better progress. Here are some resources for finding discussion topics:
@@ -47,7 +48,7 @@ Most of this data comes from the post [Less Wrong NYC: Case Study of a Successfu
 - **Structured exercises**. Attendance varies. Example from NYC Less Wrong: [Fun and Games with Cognitive Biases](http://lesswrong.com/lw/4fp/fun_and_games_with_cognitive_biases/).
 - **Party time**.
 
-## Discussion topics
+## Discussion Topics
 
 - Tell your rationalist success story.
 - Basics of rationality.
@@ -56,6 +57,6 @@ Most of this data comes from the post [Less Wrong NYC: Case Study of a Successfu
 - Decision theory.
 - Friendly AI.
 
-## Need help?
+## Need Help?
 
 Feel free to contact lesswrong user [Elo](http://lesswrong.com/user/Elo) to ask questions about planning or running a meetup.

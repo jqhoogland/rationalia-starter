@@ -13,5 +13,5 @@ sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:57.438Z'
 ---
-# Hold Off On Proposing Solutions
 
+# Hold Off On Proposing Solutions

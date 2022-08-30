@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:45.631Z'
 ---
+
 # Malthusian Scenarios
 
 A **Malthusian Scenario** refers to humanity returning to an subsistence-level of existence due to population growth outpacing production. [Tomas Malthus](https://en.wikipedia.org/wiki/Thomas_Malthus) originally proposed this scenario in the 18th century, predicting that unbounded population growth would outpace food production and inevitable famine would follow. The remaining humans would be left at a level of bare subsistence.

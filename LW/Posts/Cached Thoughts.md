@@ -16,5 +16,5 @@ sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:38.294Z'
 ---
-# Cached Thoughts
 
+# Cached Thoughts

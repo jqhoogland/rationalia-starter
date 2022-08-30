@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:23.294Z'
 ---
+
 # Dissolving the Question
 
 **Dissolving the question** is the act of making a question no longer necessary: satisfying all associated curiosity, resolving all related confusions, but without answering the question. The classic example is the question "If a tree falls in a forest and no one hears it, does it make a sound?". The apparent paradox of the question is, in this case, resolved by pointing out the ambiguity of the term "sound". The question can be dissolved by [[Distinctions|distinguishing]] between "Sound" as referring to auditory experience and "Sound" as referring to vibrations in the air. 

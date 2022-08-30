@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:11.183Z'
 ---
+
 # Center for Human-Compatible AI (CHAI)
 
 The **Center for Human-Compatible AI** is a research institute at UC Berkeley lead and founded by Stuart Russell. Its stated objective is to prevent building [[Unfriendly Artificial Intelligence|unfriendly AI]] by focusing research on provably beneficial behaviour.

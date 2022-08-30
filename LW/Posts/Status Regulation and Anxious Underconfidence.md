@@ -21,5 +21,5 @@ sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.328Z'
 ---
-# Status Regulation and Anxious Underconfidence
 
+# Status Regulation and Anxious Underconfidence

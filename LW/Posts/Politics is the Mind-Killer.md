@@ -12,5 +12,5 @@ sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:57.746Z'
 ---
-# Politics is the Mind-Killer
 
+# Politics is the Mind-Killer

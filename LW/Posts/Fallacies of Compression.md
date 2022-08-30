@@ -19,5 +19,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.305Z'
 ---
-# Fallacies of Compression
 
+# Fallacies of Compression

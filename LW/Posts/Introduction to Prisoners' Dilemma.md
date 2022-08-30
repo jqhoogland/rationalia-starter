@@ -17,5 +17,5 @@ sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:42.875Z'
 ---
-# Introduction to Prisoners' Dilemma
 
+# Introduction to Prisoners' Dilemma

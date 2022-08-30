@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:33.210Z'
 ---
+
 # Road To AI Safety Excellence
 
 **Road to AI Safety Excellence** (RAISE), previously named AASAA, was an initiative from [toonalfrink](http://lesswrong.com/user/toonalfrink/) to improve the pipeline for AI safety researchers, especially by creating an online course. See the [Post-Mortem](https://www.lesswrong.com/posts/oW6mbA3XHzcfJTwNq/raise-post-mortem).
@@ -30,7 +31,7 @@ The field of AI safety is in an [innovator phase](https://en.wikipedia.org/wiki/
 - Let there be social reinforcement so that we are not hindered but helped by our instinct for conformity.
 - Let there be high-quality explanations of the material to speed up and ease the learning process, so that it is cheap.
 
-## Becoming an AIS researcher in 2020
+## Becoming an AIS Researcher in 2020
 
 What follows is a vision of how things \*could\* be, should this project come to fruition.
 
@@ -46,7 +47,7 @@ What follows is a vision of how things \*could\* be, should this project come to
 
 When it comes to motivation, nothing beats the physical presence of people that share your goal. A clear and well-polished path is one major thing, social reinforcement is another. Some local study groups already exist, but there is no way for outsiders to find them. RAISE seems like a most natural place to index study groups and facilitate hosting them. You can see and edit the current list here: [https://bit.ly/AISafetyLocalGroups](https://bit.ly/AISafetyLocalGroups).
 
-## Course prerequisites & target audience
+## Course Prerequisites & Target Audience
 
 While the project originally targeted any student, it was decided that it will target those that are philosophically aligned first. The next step could be to persuade academics to model a course after this one, so that we will reach a broader audience too.
 
@@ -60,13 +61,13 @@ There are technical (math, logic) and philosophical (Bostrom/sequences/WaitButWh
 
 As mentioned before, it seems best to cover this in a sequence of articles on Arbital, or to recommend [an existing course](http://web.stanford.edu/class/cs103/) that teaches this stuff well enough.
 
-## The state of the project & getting involved
+## The State of the Project & Getting Involved
 
 If you're enthusiastic about volunteering, fill in [this form](https://goo.gl/forms/m38tKbmDBFMgSyMz1)
 
 To be low-key notified of progress, join [this Facebook group](https://www.facebook.com/groups/1421511671230776/)
 
-One particularly useful and low-bar way to contribute is to join our special study group, in which you will be asked to summarize AIS resources (papers, talks, ...), and create mind maps of subjects. You can find it in the Facebook group.
+One particularly useful and low-bar way to contribute is to join our special study group, in which you will be asked to summarize AIS resources (papers, talks, …), and create mind maps of subjects. You can find it in the Facebook group.
 
 ## Curriculum
 
@@ -80,7 +81,7 @@ Each of these categories will be divided into a few subcategories. The specifics
 
 We are making efforts to list all available resources [here](https://workflowy.com/s/D0Q9.oyUe39KbLp) and [here](https://bit.ly/AISafetyResources)
 
-## Course development process
+## Course Development Process
 
 Now volunteers and capital are largely in place, we are doing an [iterative development process](https://en.wikipedia.org/wiki/Iterative_and_incremental_development) with the first unit on corrigibility. When we are satisfied with the quality of this unit, we will use the process we developed to create the other units.
 
@@ -102,7 +103,7 @@ We enlisted [Rob Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg
 
 The setup includes a [lightboard](https://www.youtube.com/watch?v=qadgqBQdqtI), which is a neat educational innovation that allows a lecturer to look at the camera while writing on a board simultaneously.
 
-## Instruction strategy
+## Instruction Strategy
 
 The course will be strictly digital, which limits the amount of strategies that can be used. These are some potentially useful strategies:
 
@@ -113,7 +114,7 @@ The course will be strictly digital, which limits the amount of strategies that 
 - Assignment
 - Live discussion
 - Open problem
-- etc...
+- etc…
 
 **Content guides form** The best way to present an idea often depends on the nature of the idea. For example, the value alignment problem is easily explained with an illustrative story (the paperclip maximizer). This isn’t quite the case for FDT. Also, some ideas have been formalized. We can go into mathematical detail with those. Other ideas are still in the realm of philosophy and we will have to resort to things like thought experiments there. How to say depends on what to say.
 
@@ -123,9 +124,9 @@ The idea is to challenge students to think independently how they might go about
 
 **Taxonomy of content** At least three sorts of content will be delivered:
 
-- Anecdotes/stories to illustrate problems (paperclip maximizer, filling a cauldron, ...)
-- Unformalized philosophical considerations (intelligence explosion, convergent instrumental goals, acausal trade, ...)
-- Technical results (corrigibility, convergent instrumental goals, FDT, ...)
+- Anecdotes/stories to illustrate problems (paperclip maximizer, filling a cauldron, …)
+- Unformalized philosophical considerations (intelligence explosion, convergent instrumental goals, acausal trade, …)
+- Technical results (corrigibility, convergent instrumental goals, FDT, …)
 
 **Example course unit: value learning & corrigibility**
 
@@ -140,7 +141,7 @@ The idea is to challenge students to think independently how they might go about
 
 Alternatively, we can interleave tiny bits of video with questions to keep the student engaged. A good example of this is the [Google deep learning course](https://www.udacity.com/course/deep-learning--ud730).
 
-## Task allocation
+## Task Allocation
 
 The following is a reply to the common remark that “I’d like to help, but I’m not sure what I can do”.
 
@@ -216,7 +217,7 @@ Good animation can make a course twice as polished and engaging, and this matter
 
 I want to note that what we are doing here *isn’t hard*. Courses at universities are often created on the fly by one person in a matter of weeks. They get away with it. There is little risk. The worst that can reasonably happen is that we waste some time and money on creating an unpopular course that doesn’t get much traction. On the other hand, there is a lot of opportunity. If we do this well, we might just double the amount of FAI researchers. If that's not impact, I don't know what is.
 
-## External links
+## External Links
 
 - [list of resources](https://workflowy.com/s/D0Q9.oyUe39KbLp)
 - [facebook group](https://www.facebook.com/groups/1421511671230776/)

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:06.733Z'
 ---
+
 # World Modeling Techniques
 
 A **world-modeling technique** is a general-purpose method for generating world models \[LINK\], or a pattern which recurs in world models, across many domains.

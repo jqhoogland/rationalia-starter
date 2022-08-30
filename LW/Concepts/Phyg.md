@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:40.947Z'
 ---
+
 # Phyg
 
 **Phyg** is the rot13 cipher of "cult". At some point in LessWrong's history, there was concern that discussion of cults on the site would cause "LessWrong" to rank highly in Google search results for "cult". It was therefore recommended that people instead use the word, "phyg", to discuss cults. 
@@ -30,7 +31,7 @@ Well maybe [RationalWiki disagrees](http://rationalwiki.org/wiki/LessWrong)
 
 ## References
 
-1.  [http://lesswrong.com/lw/bql/our\_phyg\_is\_not\_exclusive_enough/](http://lesswrong.com/lw/bql/our_phyg_is_not_exclusive_enough/)[↩](#fnref1)
-2.  [https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what\_is\_lesswrong\_and\_why\_do\_people\_say\_it\_is\_a/](https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what_is_lesswrong_and_why_do_people_say_it_is_a/)[↩](#fnref2)
-3.  [http://lesswrong.com/lw/4d/youre\_calling\_who\_a\_cult_leader/](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/)[↩](#fnref3)
-4.  [http://lesswrong.com/lw/atm/cult\_impressions\_of\_less\_wrongsingularity/](http://lesswrong.com/lw/atm/cult_impressions_of_less_wrongsingularity/)[↩](#fnref4)
+1. [http://lesswrong.com/lw/bql/our\_phyg\_is\_not\_exclusive_enough/](http://lesswrong.com/lw/bql/our_phyg_is_not_exclusive_enough/)[↩](#fnref1)
+2. [https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what\_is\_lesswrong\_and\_why\_do\_people\_say\_it\_is\_a/](https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what_is_lesswrong_and_why_do_people_say_it_is_a/)[↩](#fnref2)
+3. [http://lesswrong.com/lw/4d/youre\_calling\_who\_a\_cult_leader/](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/)[↩](#fnref3)
+4. [http://lesswrong.com/lw/atm/cult\_impressions\_of\_less\_wrongsingularity/](http://lesswrong.com/lw/atm/cult_impressions_of_less_wrongsingularity/)[↩](#fnref4)

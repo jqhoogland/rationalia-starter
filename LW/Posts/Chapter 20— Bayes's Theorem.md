@@ -15,5 +15,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:45.204Z'
 ---
-# Chapter 20: Bayes's Theorem
 
+# Chapter 20: Bayes's Theorem

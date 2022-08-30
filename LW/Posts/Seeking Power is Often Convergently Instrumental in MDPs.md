@@ -18,5 +18,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.962Z'
 ---
-# Seeking Power is Often Convergently Instrumental in MDPs
 
+# Seeking Power is Often Convergently Instrumental in MDPs

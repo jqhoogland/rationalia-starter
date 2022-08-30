@@ -15,5 +15,5 @@ sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.279Z'
 ---
-# When Science Can't Help
 
+# When Science Can't Help

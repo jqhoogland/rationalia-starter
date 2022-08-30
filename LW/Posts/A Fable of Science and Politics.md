@@ -13,5 +13,5 @@ sequence: Fake Beliefs
 chapter: null
 synchedAt: '2022-08-30T08:17:56.935Z'
 ---
-# A Fable of Science and Politics
 
+# A Fable of Science and Politics

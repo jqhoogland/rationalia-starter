@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.780Z'
 ---
-# Update from the suckerpunch
 
+# Update From the Suckerpunch

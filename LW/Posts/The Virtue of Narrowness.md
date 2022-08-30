@@ -12,5 +12,5 @@ sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:58.472Z'
 ---
-# The Virtue of Narrowness
 
+# The Virtue of Narrowness

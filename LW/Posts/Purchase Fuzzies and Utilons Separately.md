@@ -19,5 +19,5 @@ sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.745Z'
 ---
-# Purchase Fuzzies and Utilons Separately
 
+# Purchase Fuzzies and Utilons Separately

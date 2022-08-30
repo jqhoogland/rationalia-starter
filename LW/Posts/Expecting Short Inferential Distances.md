@@ -21,5 +21,5 @@ sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:40.701Z'
 ---
-# Expecting Short Inferential Distances
 
+# Expecting Short Inferential Distances

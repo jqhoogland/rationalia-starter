@@ -10,14 +10,15 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:52.064Z'
 ---
+
 # Offense
 
 It is hypothesized that the [[Emotions|emotion]] of **offense** appears when one perceives an attempt to gain [[Social Status|status]].
 
-## Blog posts
+## Blog Posts
 
 - [The Nature of Offense](http://lesswrong.com/lw/13s/the_nature_of_offense/) by [Wei Dai](https://wiki.lesswrong.com/wiki/Wei_Dai)
 
-## See also
+## See Also
 
 - [[Social Status|Status]]

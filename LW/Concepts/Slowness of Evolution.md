@@ -10,9 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:08.000Z'
 ---
+
 # Slowness of Evolution
 
-**Evolution is slow**.  Suppose a beneficial mutation which conveys a fitness advantage of 3%: on average, bearers of this gene have 1.03 times as many children as non-bearers. Spreading through a population of 100,000, such a gene would require an average of 768 generations to reach universality in the gene pool. A population of 500,000 would require 875 generations. The general formula is:
+**Evolution is slow**. Suppose a beneficial mutation which conveys a fitness advantage of 3%: on average, bearers of this gene have 1.03 times as many children as non-bearers. Spreading through a population of 100,000, such a gene would require an average of 768 generations to reach universality in the gene pool. A population of 500,000 would require 875 generations. The general formula is:
 
 `   * Generations to fixation = 2 ln(**N**) / **s**`
 
@@ -32,11 +33,11 @@ Contrast to a human programmer, who can design a new complex mechanism with a hu
 
 The tremendously slow timescale of evolution, especially for creating new complex machinery (as opposed to selecting on *existing* variance), is why the behavior of evolved organisms is often better interpreted [in terms of what did in fact work yesterday, rather than what will work in the future](https://wiki.lesswrong.com/wiki/adaptation_executers).
 
-## Main article
+## Main Article
 
 - [Evolutions Are Stupid (But Work Anyway)](http://lesswrong.com/lw/kt/evolutions_are_stupid_but_work_anyway/)
 
-## See also
+## See Also
 
 - [[Stupidity of Evolution|Stupidity of evolution]]
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)

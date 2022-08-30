@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:11.817Z'
 ---
+
 # Common Priors
 
 A precondition of Aumann's agreement theorem and its numerous generalizations is that the agents must have the same priors. Without **common priors**, the agents can disagree easily. One can justify the assumption of common priors by noting that it would be awfully strange if rational beliefs could depend on seemingly arbitrary starting features of the agent.
 
-## See also
+## See Also
 
 - [[Aumann's Agreement Theorem]]
 - [[Bayes' Theorem]]

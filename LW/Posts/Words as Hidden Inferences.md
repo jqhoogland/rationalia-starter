@@ -17,5 +17,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:35.908Z'
 ---
-# Words as Hidden Inferences
 
+# Words as Hidden Inferences

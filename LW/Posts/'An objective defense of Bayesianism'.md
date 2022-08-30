@@ -15,5 +15,5 @@ sequence: This is a new sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:45.260Z'
 ---
-# 'An objective defense of Bayesianism'
 
+# 'An Objective Defense of Bayesianism'

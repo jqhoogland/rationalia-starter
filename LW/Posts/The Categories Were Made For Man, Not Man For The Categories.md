@@ -19,5 +19,5 @@ sequence: Categorisation and Concepts
 chapter: null
 synchedAt: '2022-08-30T08:17:41.379Z'
 ---
-# The Categories Were Made For Man, Not Man For The Categories
 
+# The Categories Were Made For Man, Not Man For The Categories

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:17.573Z'
 ---
+
 # Machine Ethics
 
 **Machine Ethics** is the emerging field that tries to understand how machines which consider the moral implications of their actions and act accordingly can be created. That is, how humanity can ensure that the minds created through AI can reason morally about other minds - thus creating Artificial Moral Agents (AMAs).
@@ -29,7 +30,7 @@ As Wallach and Allen pose it, “even if full moral agency for machines is a lon
 - [Prospects for a Kantian Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Powers-Prospects-for-a-Kantian-Machine.pdf) by Thomas M. Powers
 - [Granny and the robots: Ethical issues in robot care for the elderly](http://staffwww.dcs.shef.ac.uk/people/A.Sharkey/sharkey-granny.pdf) by Amanda Sharkey and Noel Sharkeyture
 
-## See also
+## See Also
 
 - [[Utility]]
 - [[Utilitarianism]]

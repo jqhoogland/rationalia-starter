@@ -17,5 +17,5 @@ sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.598Z'
 ---
-# The ABC's of Luminosity
 
+# The ABC's of Luminosity

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:36.298Z'
 ---
+
 # Reinforcement Learning
 
 Within the field of Machine Learning, **reinforcement learning** refers to the study of how an agent should choose its actions within an environment in order to maximize some kind of reward. Strongly inspired by the work developed in behavioral psychology it is essentially a trial and error approach to find the best strategy.

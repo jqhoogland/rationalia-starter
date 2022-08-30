@@ -10,10 +10,13 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:25.940Z'
 ---
+
 # Selectorate Theory
 
-[**Selectorate Theory**](https://en.wikipedia.org/wiki/Selectorate_theory)  is a game theoretic theory of politics and power that aims to explain political behavior and structure as a consequence of a leader's motivation to gain power and keep it as long as he can.  
-  
+[**Selectorate Theory**](https://en.wikipedia.org/wiki/Selectorate_theory) is a game theoretic theory of politics and power that aims to explain political behavior and structure as a consequence of a leader's motivation to gain power and keep it as long as he can.
+
+
+
 The theory posits that no leader can rule alone, and thus always has to satisfy some amount of key people. in autocracies that number is small, and in democracies that number is large.
 
 The theory separates the rest of the population (apart from the leader) into three groups. 
@@ -38,4 +41,4 @@ In the dictator's handbook the authors describe 5 rules which every leader must 
 
 > (1) The smaller the winning coalition the fewer people to satisfy to remain in control. (2) Having a large nominal selectorate gives a pool of potential people to replace dissenters in coalition. (3) Maintain control of revenue flows to redistribute to your friends. (4) But only pay friends enough that they will not consider overthrowing you and at the same time little enough so that they depend on you. (5) Don't take your friends' money and redistribute it to the masses. *(Wikipedia)*
 
-The theory was developed by [Bruce Bueno de Mesquita](https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita), Alastair Smith, Randolph M. Siverson, [James D. Morrow](https://en.wikipedia.org/wiki/James_D._Morrow), and introduced in [*The Logic of Political Survival*](https://en.wikipedia.org/wiki/The_Logic_of_Political_Survival)  and [*The Dictator's Handbook*](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook)*.*
+The theory was developed by [Bruce Bueno de Mesquita](https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita), Alastair Smith, Randolph M. Siverson, [James D. Morrow](https://en.wikipedia.org/wiki/James_D._Morrow), and introduced in [*The Logic of Political Survival*](https://en.wikipedia.org/wiki/The_Logic_of_Political_Survival) and [*The Dictator's Handbook*](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook)*.*

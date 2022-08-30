@@ -17,5 +17,5 @@ sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.737Z'
 ---
-# Ngo and Yudkowsky on scientific reasoning and pivotal acts
 
+# Ngo and Yudkowsky on Scientific Reasoning and Pivotal Acts

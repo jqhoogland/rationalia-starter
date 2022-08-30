@@ -16,5 +16,5 @@ sequence: 2022 MIRI Alignment Discussion
 chapter: null
 synchedAt: '2022-08-30T08:17:01.628Z'
 ---
-# Brainstorm of things that could force an AI team to burn their lead
 
+# Brainstorm of Things That Could Force an AI Team to Burn Their Lead

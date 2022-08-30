@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:29.357Z'
 ---
+
 # Social Media
 
 **Social media** are digital tools that let users share content with many others, quickly and easily. Prominent examples include Facebook, Twitter, TikTok, and many others.

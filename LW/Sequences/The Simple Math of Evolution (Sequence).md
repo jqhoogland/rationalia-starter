@@ -10,9 +10,10 @@ aliases:
   - The Simple Math of Evolution
 synchedAt: '2022-08-29T17:16:41.641Z'
 ---
+
 # The Simple Math of Evolution
 
-The first sequence of _The Machine in the Ghost_ aims to communicate the dissonance and divergence between our hereditary history, our present-day biology, and our ultimate aspirations. This will require digging deeper than is common in introductions to evolution for non-biologists, which often restrict their attention to surface-level features of natural selection.
+The first sequence of *The Machine in the Ghost* aims to communicate the dissonance and divergence between our hereditary history, our present-day biology, and our ultimate aspirations. This will require digging deeper than is common in introductions to evolution for non-biologists, which often restrict their attention to surface-level features of natural selection.
 
 ## Chapters
 

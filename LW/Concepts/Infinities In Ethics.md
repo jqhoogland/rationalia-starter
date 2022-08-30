@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:39.344Z'
 ---
+
 # Infinities In Ethics
 
 **Infinities in ethics** pose some difficult problems. For example, if the universe is infinite, there are already infinite numbers of good and bad things. Adding or removing finitely many of them leaves infinitely many of both. This means aggregative consequentialist theories (those that maximize the sum of the values of individual structures) will be indifferent between any acts with merely finite effects. If you save the whales, there will be infinitely many whales, but if you don't save the whales, there will also be infinitely many whales.
@@ -22,16 +23,16 @@ synchedAt: '2022-08-29T10:47:39.344Z'
 
 The best-known use of infinity in ethics is probably [Pascal's wager](http://en.wikipedia.org/wiki/Pascal's_Wager), which has a finite variant in [[Pascal's Mugging|Pascal's mugging]].
 
-## Blog posts
+## Blog Posts
 
 - [The Pascal's Wager Fallacy Fallacy](http://lesswrong.com/lw/z0/the_pascals_wager_fallacy_fallacy/), by [[Eliezer Yudkowsky]]
 
-## External links
+## External Links
 
 - [Infinite Ethics](http://www.nickbostrom.com/ethics/infinite.pdf), by Nick Bostrom
 - [Philosophical implications of inflationary cosmology](http://philsci-archive.pitt.edu/1341/)
 
-## See also
+## See Also
 
 - [[Pascal's Mugging|Pascal's mugging]]
 - [[Utilitarianism]]

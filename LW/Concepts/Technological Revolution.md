@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:15.244Z'
 ---
+
 # Technological Revolution
 
 **Technological revolution** is a dramatic social change in important structures brought about relatively quickly by the introduction of some new technology. Past examples are the [introduction of agriculture](https://en.wikipedia.org/wiki/_Neolithic_Revolution), [the invention of the movable type printing process](https://en.wikipedia.org/wiki/_Printing_press#The_Printing_Revolution), the atomic bomb and [the Internet](https://en.wikipedia.org/wiki/Internet#Social_Impacts). Since technological revolutions have brought many of the major revolutions in human history and have very large long-term consequences, ethical assessment of the desirability of possible future technological revolutions is a very important topic. [[Nick Bostrom]] shows that since the [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment), freedom from society judgment and ethical evaluations has been seen as a necessary condition for science and technological developments[^1^](#fn1). Recently, as negative impacts of technological developments became evident, many theorists have expressed concern with this view. Henceforth, an ethical analysis of technological development has been called for and this gave birth to new research fields such as bioethics, computer ethics, neuroethics and nanoethics.
@@ -20,9 +21,9 @@ Many economists and sociologists have dedicated several papers to try to model a
 
 ## References
 
-1.  Bostrom, Nick. (2010) "Technological Revolutions: Ethics and Policy in the Dark" Nanoscale: Issues and Perspectives for the Nano Century, eds. Nigel M. de S. Cameron and M. Ellen Mitchell (John Wiley, 2010): pp. 129-152. Available at: [http://www.nickbostrom.com/revolutions.pdf](http://www.nickbostrom.com/revolutions.pdf)[↩](#fnref1)
-2.  Savulescu, Julian & Meulen, Rudd ter (orgs.)(2011) “Enhancing Human Capacities”. Wiley-Blackwell.[↩](#fnref2)
-3.  Hanson, Robin. (1994) "IF UPLOADS COME FIRST: The crack of a future dawn" Extropy 6:2 (1994). Available at: [http://hanson.gmu.edu/uploads.html](http://hanson.gmu.edu/uploads.html)[↩](#fnref3)
-4.  Hanson, Robin. "Economic Growth Given Machine Intelligence" [http://hanson.gmu.edu/aigrow.pdf](http://hanson.gmu.edu/aigrow.pdf)[↩](#fnref4)
-5.  Hughes, James (2004). "Citizen Cyborg: Why Democratic Societies Must Respond to the Redesigned Human of the Future." Westview Press[↩](#fnref5)
-6.  Caselli, Francesco. (1999) "Technological Revolutions." American Economic Review, 89(1): 78–102. DOI:10.1257/aer.89.1.78.Availabe at: [http://personal.lse.ac.uk/casellif/papers/techrev.pdf](http://personal.lse.ac.uk/casellif/papers/techrev.pdf)[↩](#fnref6)
+1. Bostrom, Nick. (2010) "Technological Revolutions: Ethics and Policy in the Dark" Nanoscale: Issues and Perspectives for the Nano Century, eds. Nigel M. de S. Cameron and M. Ellen Mitchell (John Wiley, 2010): pp. 129-152. Available at: [http://www.nickbostrom.com/revolutions.pdf](http://www.nickbostrom.com/revolutions.pdf)[↩](#fnref1)
+2. Savulescu, Julian & Meulen, Rudd ter (orgs.)(2011) “Enhancing Human Capacities”. Wiley-Blackwell.[↩](#fnref2)
+3. Hanson, Robin. (1994) "IF UPLOADS COME FIRST: The crack of a future dawn" Extropy 6:2 (1994). Available at: [http://hanson.gmu.edu/uploads.html](http://hanson.gmu.edu/uploads.html)[↩](#fnref3)
+4. Hanson, Robin. "Economic Growth Given Machine Intelligence" [http://hanson.gmu.edu/aigrow.pdf](http://hanson.gmu.edu/aigrow.pdf)[↩](#fnref4)
+5. Hughes, James (2004). "Citizen Cyborg: Why Democratic Societies Must Respond to the Redesigned Human of the Future." Westview Press[↩](#fnref5)
+6. Caselli, Francesco. (1999) "Technological Revolutions." American Economic Review, 89(1): 78–102. DOI:10.1257/aer.89.1.78.Availabe at: [http://personal.lse.ac.uk/casellif/papers/techrev.pdf](http://personal.lse.ac.uk/casellif/papers/techrev.pdf)[↩](#fnref6)

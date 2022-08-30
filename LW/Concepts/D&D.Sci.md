@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:20.922Z'
 ---
+
 # D&D.Sci
 
 **Dungeons and Data Science**, or **D&D.Sci,** is a series of analytical exercises played on Less Wrong, framed as problems in a D&D style adventuring world.

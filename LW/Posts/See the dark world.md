@@ -16,5 +16,5 @@ sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:32.951Z'
 ---
-# See the dark world
 
+# See the Dark World

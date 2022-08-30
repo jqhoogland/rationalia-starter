@@ -15,5 +15,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.261Z'
 ---
-# The limits of introspection
 
+# The Limits of Introspection

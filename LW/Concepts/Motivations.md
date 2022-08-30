@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:02.656Z'
 ---
+
 # Motivations
 
 **Motivations** are the reasons why we think and do the things that we do. Related: **Desire, Values**. Many questions can asked about motivation such as: i) what does/could/should motivate people? ii) which stated motivations are true motivations for belief and behavior? iii) which motivations are *valid* vs *invalid*? iv) How does motivation even work? 
@@ -35,11 +36,11 @@ The Litanies of Gendlin and Tarsky \[links\] are often invoked to elicit feels w
 
 ## Motivated Cognition, Confirmation Bias, Rationalization
 
-...
+…
 
-## Stated vs Actual Motivation
+## Stated Vs Actual Motivation
 
-It is no secret that often the reasons people give for their actions and beliefs are probably not the real ones driving their behavior. Is that your real objection? The work of Hanson....Signaling...
+It is no secret that often the reasons people give for their actions and beliefs are probably not the real ones driving their behavior. Is that your real objection? The work of Hanson….Signaling…
 
 - Act of Charity
 - Player vs Character
@@ -54,7 +55,7 @@ Related to the question of Motivation is subagents. Is one's overall self actual
 
 ## Aligning Motivations
 
-- Overcoming akrasia...
+- Overcoming akrasia…
 
 ## Practical Techniques for Motivation
 

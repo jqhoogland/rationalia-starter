@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:02.099Z'
 ---
+
 # Rationalist Taboo
 
 **Rationalist Taboo** is a technique for fighting muddles in discussions. By prohibiting the use of a certain word and all the words synonymous to it, people are forced to elucidate the specific contextual meaning they want to express, thus removing ambiguity otherwise present in a single word.

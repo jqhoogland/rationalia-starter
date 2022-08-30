@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:05.194Z'
 ---
+
 # Deception
 
 **Deception** is the act of sharing information in a way which intentionally misleads others.

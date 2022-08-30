@@ -10,10 +10,11 @@ aliases:
   - Takeoff & Takeover
 synchedAt: '2022-08-29T17:16:42.660Z'
 ---
+
 # Takeoff & Takeover
 
 > Imagine an advanced society, with complex structures more intricate and intelligent than anything that exists today – a society which nevertheless lacks any being that is conscious, or whose welfare has moral significance. In a sense, this would be an uninhabited society. It would be a society of economic miracles and technological awesomeness, with nobody there to benefit. A Disneyland with no children.
-> 
+>
 > – Nick Bostrom
 
 ## Chapters

@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:09.480Z'
+aliases: 
+- Fermi Estimate
 ---
+
 # Fermi Estimation
 
 A **Fermi Estimation** is a rough calculation which aims to be right within ~an order of magnitude, prioritizing getting a good enough to be useful answer without putting large amounts of thought and research in rather than being extremely accurate.

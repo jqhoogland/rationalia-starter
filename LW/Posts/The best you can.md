@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.178Z'
 ---
-# The best you can
 
+# The Best You Can

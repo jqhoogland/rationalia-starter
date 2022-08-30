@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:13.582Z'
 ---
+
 # Tool AI
 
 A **tool AI** is a type of Artificial Intelligence that is built to be used as a tool by the creators, rather than being an agent with its own action and goal-seeking behavior.

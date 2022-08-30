@@ -18,5 +18,5 @@ sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:16:45.147Z'
 ---
-# Techniques for probability estimates
 
+# Techniques for Probability Estimates

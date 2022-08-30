@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:32.520Z'
 ---
+
 # The Hanson-Yudkowsky AI-Foom Debate
 
 In late 2008, an extensive and long-awaited debate about the [Technological Singularity](https://wiki.lesswrong.com/wiki/Technological_Singularity) occurred on [[Overcoming Bias]], mainly between [[Robin Hanson]] and [[Eliezer Yudkowsky]]. It focused on the likelihood of [hard AI takeoff](https://wiki.lesswrong.com/wiki/hard_takeoff) (**"**[**FOOM**](https://wiki.lesswrong.com/wiki/FOOM)**"**), the need for a theory of [Friendliness](https://wiki.lesswrong.com/wiki/Friendly_AI), and the future of [AGI](https://wiki.lesswrong.com/wiki/AGI), [[Whole Brain Emulation|whole brain emulation]], and [[Recursive Self-Improvement|recursive self-improvement]] in general. A stand-up debate on the same themes took place at *Jane Street Capital* in June 2011, and Hanson made a further post in 2014.
@@ -18,7 +19,7 @@ In late 2008, an extensive and long-awaited debate about the [Technological Sing
 
 - [AI Takeoff](/tag/ai-takeoff)
 - [[Intelligence Explosion|Intelligence explosion]]
-- [[Inside/Outside View|Outside view]]
+- [[Outside View|Outside view]]
 
 The best resource for most readers new to the debate will be [MIRI](https://wiki.lesswrong.com/wiki/MIRI)'s 2013 [The Hanson-Yudkowsky AI-Foom Debate eBook](http://intelligence.org/ai-foom-debate/), available in PDF, EPUB, and MOBI formats. This includes
 
@@ -39,7 +40,7 @@ The best resource for most readers new to the debate will be [MIRI](https://wiki
 - [Abstraction, Not Analogy](http://www.overcomingbias.com/2008/11/abstraction-vs.html) by [[Robin Hanson]]
 - [Whence Your Abstractions?](http://lesswrong.com/lw/w1/whence_your_abstractions/) by [[Eliezer Yudkowsky]]
 
-## Main sequence
+## Main Sequence
 
 - [AI Go Foom](http://www.overcomingbias.com/2008/11/ai-go-foom.html) by [[Robin Hanson]]
 - [Optimization and the Singularity](http://lesswrong.com/lw/rk/optimization_and_the_singularity/) by [[Eliezer Yudkowsky]]
@@ -98,7 +99,7 @@ The best resource for most readers new to the debate will be [MIRI](https://wiki
 - [Debating Yudkowsky](http://www.overcomingbias.com/2011/07/debating-yudkowsky.html) by [[Robin Hanson]]
 - [Foom Debate, Again](http://www.overcomingbias.com/2013/02/foom-debate-again.html) by [[Robin Hanson]]
 
-## Jane Street debate
+## Jane Street Debate
 
 A stand-up debate between Hanson and Yudkowsky on the same themes took place on Wednesday June 30 2011 at *Jane Street Capital*.
 
@@ -108,11 +109,11 @@ A stand-up debate between Hanson and Yudkowsky on the same themes took place on 
 - [Full transcript](https://docs.google.com/document/pub?id=17yLL7B7yRrhV3J9NuiVuac3hNmjeKTVHnqiEa6UQpJk)
 - [Partial transcript](http://lesswrong.com/lw/bug/partial_transcript_of_the_hansonyudkowsky_june/) by Chris Hallquist
 
-## Summary and analysis
+## Summary and Analysis
 
 In Spring 2012 [[Luke Muehlhauser]] asked [Kaj Sotala](https://wiki.lesswrong.com/wiki/Kaj_Sotala) to write a summary and analysis of the debate; he made a [draft of that analysis](http://lesswrong.com/lw/fih/a_summary_of_the_hansonyudkowsky_foom_debate/) available in November 2012. The final version of the summary is included in the [ebook](https://intelligence.org/ai-foom-debate/).
 
-## Post-book material
+## Post-book Material
 
 Not included in MIRI's 2013 book on the debate:
 

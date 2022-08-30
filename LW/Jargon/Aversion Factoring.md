@@ -7,9 +7,8 @@ tags:
   - Jargon
 synchedAt: '2022-08-29T11:16:58.073Z'
 ---
+
 # Aversion Factoring
 
-
-
-A technique for addressing aversions by first zeroing in on their concrete, immediate sources and then evaluating each aversion for validity or relevance and taking steps accordingly.  
+A technique for addressing aversions by first zeroing in on their concrete, immediate sources and then evaluating each aversion for validity or relevance and taking steps accordingly.
  

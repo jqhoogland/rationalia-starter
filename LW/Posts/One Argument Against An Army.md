@@ -16,5 +16,5 @@ sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:38.838Z'
 ---
-# One Argument Against An Army
 
+# One Argument Against An Army

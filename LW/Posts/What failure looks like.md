@@ -20,5 +20,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.440Z'
 ---
-# What failure looks like
 
+# What Failure Looks Like

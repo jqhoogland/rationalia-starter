@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:59.136Z'
 ---
+
 # Hansonian Pre-Rationality
 
 In defining **Hansonian Pre-Rationality** Robin Hanson offers an intriguing argument that, upon learning that our beliefs were created by an irrational process (be it a religious upbringing or a genetic predisposition to paranoid depression), we should update to agree with the alternate version of ourselves who could have had different beliefs. Agents who agree with alternate selves in this way are "pre-rational". (NOTE: not to be confused with "pre-rational" meaning "not yet rational" or "less than rational".)

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T20:05:08.289Z'
 ---
+
 # AIXI
 
 **AIXI** is a mathematical formalism for a hypothetical [[Superintelligence|(super)intelligence]], developed by Marcus Hutter (2005, 2007). AIXI is not computable, and so does not serve as a design for a real-world AI, but is considered a valuable theoretical illustration with both positive and negative aspects (things AIXI would be able to do and things it arguably couldn't do).
@@ -40,7 +41,7 @@ AIXI is not a feasible AI, because [[Solomonoff Induction|Solomonoff induction]]
 
 For a short (half-page) technical introduction to AIXI, see [Veness et al. 2011](https://web.archive.org/web/20160425092747/http://www.jair.org/media/3125/live-3125-5397-jair.pdf), page 1-2. For a full exposition of AIXI, see [Hutter 2007](http://www.hutter1.net/ai/aixigentle.htm).
 
-## **Relevance to Friendly AI**
+## **Relevance To Friendly AI**
 
 Because it abstracts optimization power away from human mental features, AIXI is valuable in considering the possibilities for future artificial general intelligence - a compact and non-anthropomorphic specification that is technically complete and closed; either some feature of AIXI follows from the equations or it does not. In particular, it acts as a constructive demonstration of an AGI which does not have human-like [[Terminal Value|terminal values]] and will act solely to maximize its reward function. (Yampolskiy & Fox 2012).
 

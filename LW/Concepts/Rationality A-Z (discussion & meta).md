@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:13.905Z'
 ---
+
 # Rationality A-Z (discussion & meta)
 
 **Rationality: From AI to Zombies**, also known as **The Sequences**, is a series of essays by Eliezer Yudkowsky published from 2006 to 2009, which were later compiled into a book. This tag is for critiques and discussion of the Sequences, attempts to organize the Sequences, and the publication of Rationality: From AI to Zombies.

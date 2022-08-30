@@ -18,5 +18,5 @@ sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.343Z'
 ---
-# Specification gaming examples in AI
 
+# Specification Gaming Examples in AI

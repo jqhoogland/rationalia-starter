@@ -18,5 +18,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.216Z'
 ---
-# Research: Rescuers during the Holocaust
 
+# Research: Rescuers During the Holocaust

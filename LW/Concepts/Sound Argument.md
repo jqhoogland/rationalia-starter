@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:44.490Z'
 ---
+
 # Sound Argument
 
 **Sound argument** is argument that is [[Valid Argument|valid]] and whose premises are all true. In other words, the premises are true and the conclusion necessarily follows from them, making the conclusion true as well.
@@ -20,6 +21,6 @@ For example, consider the following syllogism:
 - 30 is a multiple of ten. (True premise/C is A)
 - Therefore, 30 is a multiple of 5. (True conclusion/Therefore, C is B.)
 
-## See also
+## See Also
 
 - [[Valid Argument|Valid argument]]

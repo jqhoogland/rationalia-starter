@@ -17,5 +17,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:54.720Z'
 ---
-# Argument Screens Off Authority
 
+# Argument Screens Off Authority

@@ -13,5 +13,5 @@ sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:57.718Z'
 ---
-# Reversed Stupidity Is Not Intelligence
 
+# Reversed Stupidity Is Not Intelligence

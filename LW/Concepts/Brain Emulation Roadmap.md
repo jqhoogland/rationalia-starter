@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:36.264Z'
 ---
+
 # Brain Emulation Roadmap
 
 **Whole Brain Emulation: A Roadmap** is a 2008 technical report by [Anders Sandberg](https://wiki.lesswrong.com/wiki/Anders_Sandberg) and [[Nick Bostrom]], published as Technical Report #2008‐3, [[Future of Humanity Institute (FHI)|Future of Humanity Institute]], Oxford University.
@@ -22,11 +23,11 @@ The Roadmap combines an earlier whitepaper that was circulated among workshop pa
 
 Two critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#fn2); Sandberg has acknowledged them as worthy of reply but has yet to do so.
 
-## External links
+## External Links
 
 - [Whole Brain Emulation: A Roadmap](http://www.fhi.ox.ac.uk/Reports/2008-3.pdf)
 
 ## References
 
-1.  [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)
-2.  [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)
+1. [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)
+2. [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)

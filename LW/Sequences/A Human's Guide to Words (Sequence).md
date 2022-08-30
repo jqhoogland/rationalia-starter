@@ -10,6 +10,7 @@ aliases:
   - A Human's Guide to Words
 synchedAt: '2022-08-29T17:16:41.109Z'
 ---
+
 # A Human's Guide to Words
 
 This sequence discusses the basic relationship between cognition and concept formation. [37 Ways That Words Can Be Wrong](http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/) is a guide to the sequence.
@@ -46,7 +47,6 @@ This sequence discusses the basic relationship between cognition and concept for
 - [[Words as Mental Paintbrush Handles]]
 - [[Variable Question Fallacies]]
 - [[37 Ways That Words Can Be Wrong]]
-
 
 ### Interlude
 

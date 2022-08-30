@@ -20,5 +20,5 @@ sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:34.112Z'
 ---
-# Swiss Political System: More than You ever Wanted to Know (I.)
 
+# Swiss Political System: More Than You Ever Wanted to Know (I.)

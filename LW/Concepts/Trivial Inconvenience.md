@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:42.630Z'
 ---
+
 # Trivial Inconvenience
 
 **Trivial inconveniences** are inconveniences that take few resources to counteract but have a disproportionate impact on people deciding whether to take a course of action.

@@ -12,5 +12,5 @@ sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:58.443Z'
 ---
-# The Lens That Sees Its Flaws
 
+# The Lens That Sees Its Flaws

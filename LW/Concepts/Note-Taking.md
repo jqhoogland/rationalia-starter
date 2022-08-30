@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:11.069Z'
 ---
+
 # Note-Taking
 
 Taking notes is writing that's primarily for yourself -- whether for memory, or for study, or for reference, or to generate or develop ideas. 

@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T10:48:12.065Z'
 aliases:
 - Utilitarian
 ---
+
 # Utilitarianism
 
 **Utilitarianism** is a moral [[Philosophy|philosophy]] that says that what matters is the sum of everyone's welfare, or the "greatest good for the greatest number".

@@ -10,17 +10,18 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:16.098Z'
 ---
+
 # Causality
 
 **Causality** is the intuitive notion that some events happening "result" in other events happening. What's going on with that? What does it mean for A to cause B? How do we figure out the causal relationship between things?
 
-## See also
+## See Also
 
 - [[Free Will|Free will]]
 - [[Teleology]]
 - [[Beliefs Require Observations|Beliefs require observations]]
 
-## External links
+## External Links
 
 - [Philip Dawid's explication of Pearl's model, and two ways of thinking about nonrandom sampling](http://www.stat.columbia.edu/~cook/movabletype/archives/2009/07/philip_dawids_t.html) by [Philip Dawid](https://en.wikipedia.org/wiki/Philip_Dawid) and [Andrew Gelman](http://andrewgelman.com/) \- Causal inference as "the task of using data collected under one regime to infer about the properties of another".
 - [Resolving disputes between J. Pearl and D. Rubin on causal inference](http://www.stat.columbia.edu/~cook/movabletype/archives/2009/07/disputes_about.html) and [More on Pearl's and Rubin's frameworks for causal inference](http://www.stat.columbia.edu/~cook/movabletype/archives/2009/07/more_on_pearlru.html) by Andrew Gelman

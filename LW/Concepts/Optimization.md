@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:13.872Z'
 ---
+
 # Optimization
 
 An **optimization process** is any kind of process that systematically comes up with solutions that are better than the solution used before. More technically, this kind of process moves the world into a specific and unexpected set of states by searching through a large search space, hitting small and low probability targets. When this process is gradually guided by some agent into some specific state, through searching specific targets, we can say it [[Preference|prefers]] that state.
@@ -29,7 +30,7 @@ One way to think mathematically about optimization, like [[Amount of Evidence|ev
 - [Optimization and the Singularity](https://www.lesswrong.com/lw/rk/optimization_and_the_singularity/) by Eliezer Yudkowsky
 - [Measuring Optimization Power](https://www.lesswrong.com/lw/va/measuring_optimization_power/) by Eliezer Yudkowsky
 
-## See also
+## See Also
 
 - [[Preference]]
 - [[Really Powerful Optimization Process|Really powerful optimization process]]

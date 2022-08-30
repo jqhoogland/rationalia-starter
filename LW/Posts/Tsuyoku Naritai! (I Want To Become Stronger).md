@@ -13,5 +13,5 @@ sequence: Why We Fight
 chapter: null
 synchedAt: '2022-08-30T08:17:56.823Z'
 ---
-# Tsuyoku Naritai! (I Want To Become Stronger)
 
+# Tsuyoku Naritai! (I Want To Become Stronger)

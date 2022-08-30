@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:39.933Z'
 ---
+
 # Superintelligence
 
 A **Superintelligence** is a being with superhuman intelligence, and a focus of the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]]'s research. Specifically, Nick Bostrom (1997) defined it as

@@ -20,5 +20,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:36.509Z'
 ---
-# The Costly Coordination Mechanism of Common Knowledge
 
+# The Costly Coordination Mechanism of Common Knowledge

@@ -17,5 +17,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:40.468Z'
 ---
-# How Much Evidence Does It Take?
 
+# How Much Evidence Does It Take?

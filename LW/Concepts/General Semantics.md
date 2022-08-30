@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:20.954Z'
 ---
-# General Semantics
 
+# General Semantics

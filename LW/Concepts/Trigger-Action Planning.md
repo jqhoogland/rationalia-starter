@@ -9,10 +9,19 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:08.015Z'
+aliases:
+  - TAP
+  - Trigger-Affect Planning
+  - Trigger-Action Patterns
+  - Trigger-Affect Patterns
+  - Trigger-Action Plans
+  - Trigger-Affect Plans
+  - Implementation Intentions
 ---
+
 # Trigger-Action Planning
 
-**Trigger-Action Planning (**TAP), sometimes **Trigger-Action Patterns**, and formerly **Implementation Intentions** are techniques for getting oneself to successfully enact desired actions (or inactions) by training something like a "stimulus-response" pair. The technique was spread by CFAR which initially drew upon the psychology literature of Implementation Intentions. 
+**Trigger-Action Planning** (TAP), sometimes **Trigger-Action Patterns**, and formerly **Implementation Intentions** are techniques for getting oneself to successfully enact desired actions (or inactions) by training something like a "stimulus-response" pair. The technique was spread by CFAR which initially drew upon the psychology literature of Implementation Intentions. 
 
 After it was clear that TAPs should be heavily applied to cognitive motions/thought patterns, some decided that the 'P' should stand for 'Pattern' rather than 'Plan'.
 

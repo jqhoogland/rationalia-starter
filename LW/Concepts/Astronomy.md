@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:17.258Z'
 ---
+
 # Astronomy
 
 See also [[Physics]], [[Astrobiology]], [[Great Filter]]

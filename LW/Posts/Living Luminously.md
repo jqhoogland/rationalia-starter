@@ -18,5 +18,5 @@ sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.506Z'
 ---
-# Living Luminously
 
+# Living Luminously

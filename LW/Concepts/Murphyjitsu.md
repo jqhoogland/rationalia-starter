@@ -10,15 +10,16 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:50.513Z'
 ---
+
 # Murphyjitsu
 
-> In the course of making plans, Murphyjitsu is the practice of strengthening plans by repeatedly envisioning and defending against failure modes until you would be _shocked_ to see it fail. Here’s the basic setup of Murphyjitsu:
+> In the course of making plans, Murphyjitsu is the practice of strengthening plans by repeatedly envisioning and defending against failure modes until you would be *shocked* to see it fail. Here’s the basic setup of Murphyjitsu:
 
 > 1\. Make a plan.
 
 > 2\. Imagine that you’ve passed the deadline and find out that the plan failed.
 
-> 3\. If you’re _shocked_ in this scenario, you’re done.
+> 3\. If you’re *shocked* in this scenario, you’re done.
 
 > 4\. Otherwise, simulate the most likely failure mode, defend against it, and repeat.
 
@@ -27,4 +28,4 @@ synchedAt: '2022-08-29T10:59:50.513Z'
 See also
 ========
 
-- [[Inner Simulator / Suprise-o-meter|Inner Simulator / Surprise-o-meter]]
+- [[ Suprise-o-meter|Inner Simulator / Surprise-o-meter]]

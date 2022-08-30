@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:12:32.956Z'
 ---
+
 # Mere Reality
 
 ***Mere Reality*** is the fourth book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It focuses on practical and philosophical questions related to science and the character of physical law.

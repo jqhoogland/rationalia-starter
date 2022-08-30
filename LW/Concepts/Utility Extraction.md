@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:15.051Z'
 ---
+
 # Utility Extraction
 
 **Utility extraction** is the semi-automatic acquisition of decision maker's [preferences](https://wiki.lesswrong.com/wiki/preferences) about the different outcomes of a decision problem. Extracting human preferences would be of great importance in order to implement them in a [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI), preventing AI’s goals differing from ours in case of a "[hard takeoff](https://wiki.lesswrong.com/wiki/hard_takeoff)". However, human values can be [[Complexity of Value|difficult to specify]].
@@ -35,7 +36,7 @@ Another possibility is described in [The Singularity and Machine Ethics](http://
 - [The Singularity and Machine Ethics](http://intelligence.org/files/SaME.pdf) by Luke Muehlhauser and Louie Helmis
 - [Learning What to Value](http://intelligence.org/files/LearningValue.pdf) by Daniel Dewey
 
-## See also
+## See Also
 
 - [[Complexity of Value|Complexity of value]]
 - [[Utility Functions|Utility function]]

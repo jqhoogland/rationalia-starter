@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:50.002Z'
 ---
+
 # Free Will
 
 **Free will** is one of the *easiest* hard questions, as millennia-old philosophical dilemmas go. Though this [impossible question](http://lesswrong.com/lw/og/wrong_questions/) is generally considered [fully and completely dissolved](http://lesswrong.com/lw/of/dissolving_the_question/) on Less Wrong, aspiring reductionists should **try to solve it on their own**.
 
-## Non-spoiler posts
+## Non-spoiler Posts
 
 The following posts can be read to set up the problem of "free will" and what constitutes a good solution from a reductionist perspective, without entirely giving away the solution. (When Yudkowsky wrote these posts, he thought he could get away with just leaving it as a practice problem, and some of the posts state that the problem will be left open. However Yudkowsky did eventually find that he needed to write out the whole solution.)
 
@@ -25,6 +26,6 @@ The following posts can be read to set up the problem of "free will" and what co
 
 For spoiler posts see [[Free Will (Solution)|free will (solution)]].
 
-## See also
+## See Also
 
 - [[How An Algorithm Feels|How an algorithm feels from the inside]]

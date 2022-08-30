@@ -18,5 +18,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.836Z'
 ---
-# Fact Posts: How and Why
 
+# Fact Posts: How and Why

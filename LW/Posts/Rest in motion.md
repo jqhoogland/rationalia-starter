@@ -16,5 +16,5 @@ sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.741Z'
 ---
-# Rest in motion
 
+# Rest in Motion

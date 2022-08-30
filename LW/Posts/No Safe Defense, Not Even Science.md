@@ -19,5 +19,5 @@ sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.357Z'
 ---
-# No Safe Defense, Not Even Science
 
+# No Safe Defense, Not Even Science

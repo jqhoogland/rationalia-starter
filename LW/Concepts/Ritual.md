@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:10.120Z'
 ---
+
 # Ritual
 
 **Rituals** are symbolic actions. In the context of LessWrong, it's significant that many rituals have some impact on your cognition, which makes them appropriate to be careful with. Nonetheless, some LessWrongers have worked to explore the space of ritual through a rationalist lens.

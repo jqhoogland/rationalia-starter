@@ -17,5 +17,5 @@ sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.622Z'
 ---
-# Doublethink (Choosing to be Biased)
 
+# Doublethink (Choosing to Be Biased)

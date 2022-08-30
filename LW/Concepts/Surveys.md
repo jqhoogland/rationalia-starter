@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:13.107Z'
 ---
+
 # Surveys
 
 **Surveys** and polls of users of LessWrong and related communities, results, and analysis of the resulting data.

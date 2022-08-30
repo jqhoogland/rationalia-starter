@@ -12,5 +12,5 @@ sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:59.392Z'
 ---
-# Probability is in the Mind
 
+# Probability is in the Mind

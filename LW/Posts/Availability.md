@@ -16,5 +16,5 @@ sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:41.101Z'
 ---
-# Availability
 
+# Availability

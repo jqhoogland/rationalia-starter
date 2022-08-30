@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:02.609Z'
 ---
-# Machine Learning  (ML)
+
+# Machine Learning (ML)
 
 **Machine Learning** refers to the general field of study that deals with automated statistical learning and pattern detection by non-biological systems. It can be seen as a sub-domain of artificial intelligence that specifically deals with modeling and prediction through the knowledge extracted from training data. As a multi-disciplinary area, it has borrowed concepts and ideas from other areas like pure mathematics and cognitive science.
 
-## Understanding different machine learning algorithms
+## Understanding Different Machine Learning Algorithms
 
 The most widely used distinction is between unsupervised (e.g. k-means clustering, principal component analysis) vs supervised (e.g. Support Vector Machines, logistic regression) methods. The first approach identifies interesting patterns (e.g. clusters and latent dimensions) in unlabeled training data, whereas the second takes labeled training data and tries to predict the label for unlabeled data points from the same distribution.
 

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:12.923Z'
 ---
+
 # AGI Skepticism
 
 **AGI skepticism** involves objections to the possibility of [[Artificial General Intelligence]] being developed in the near future. Skeptics include [various technology and science luminaries](http://spectrum.ieee.org/computing/hardware/tech-luminaries-address-singularity) such as Douglas Hofstadter, Gordon Bell, Steven Pinker, and Gordon Moore:

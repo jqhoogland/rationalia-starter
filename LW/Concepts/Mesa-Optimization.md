@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:13.546Z'
 ---
+
 # Mesa-Optimization
 
 **Mesa-Optimization** is the situation that occurs when a learned model (such as a neural network) is itself an optimizer. In this situation, a *base optimizer* creates a second optimizer, called a *mesa-optimizer*. The primary reference work for this concept is Hubinger et al.'s "[Risks from Learned Optimization in Advanced Machine Learning Systems](https://www.alignmentforum.org/posts/FkgsxrGf3QxhfLWHG/risks-from-learned-optimization-introduction)".
@@ -31,7 +32,7 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 - ["Are daemons a problem for ideal agents?"](https://agentfoundations.org/item?id=1281) (2017-02-11)
 - ["Maximally efficient agents will probably have an anti-daemon immune system"](https://agentfoundations.org/item?id=1290) (2017-02-23)
 
-## See also
+## See Also
 
 - [[Inner Alignment]]
 - [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
@@ -39,10 +40,10 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 
 ## References
 
-1.  ["Optimization daemons"](https://arbital.com/p/daemons/). Arbital.
-2.  Wei Dai. ['"friendly" humans?'](http://sl4.org/archive/0312/7421.html) December 31, 2003.
+1. ["Optimization daemons"](https://arbital.com/p/daemons/). Arbital.
+2. Wei Dai. ['"friendly" humans?'](http://sl4.org/archive/0312/7421.html) December 31, 2003.
 
-## External links
+## External Links
 
 [Video by Robert Miles](https://www.youtube.com/watch?v=bJLcIBixGj8)
 

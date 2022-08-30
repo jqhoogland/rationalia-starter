@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:58.907Z'
 ---
+
 # Summaries
 
 **Summaries** of papers, books, Sequences or anything else.

@@ -16,5 +16,5 @@ sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:43.214Z'
 ---
-# Chapter 52: The Stanford Prison Experiment, Pt 2
 
+# Chapter 52: The Stanford Prison Experiment, Pt 2

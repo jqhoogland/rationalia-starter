@@ -15,5 +15,5 @@ sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:51.061Z'
 ---
-# The Uses of Fun (Theory)
 
+# The Uses of Fun (Theory)

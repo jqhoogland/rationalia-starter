@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:45.117Z'
 ---
+
 # Past and Future Selves
 
 Your present self has to coordinate with your **past and future selves.** You might want to consciously, on-purpose simulate those selves in your mind in order to do this more effectively. 

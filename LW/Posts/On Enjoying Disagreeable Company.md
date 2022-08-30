@@ -18,5 +18,5 @@ sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:51.835Z'
 ---
-# On Enjoying Disagreeable Company
 
+# On Enjoying Disagreeable Company

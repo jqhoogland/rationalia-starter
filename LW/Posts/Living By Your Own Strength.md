@@ -17,5 +17,5 @@ sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.694Z'
 ---
-# Living By Your Own Strength
 
+# Living By Your Own Strength

@@ -15,5 +15,5 @@ sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
 synchedAt: '2022-08-30T08:17:43.581Z'
 ---
-# Chapter 23: Belief in Belief
 
+# Chapter 23: Belief in Belief

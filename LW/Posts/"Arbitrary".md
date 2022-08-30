@@ -16,5 +16,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.213Z'
 ---
-# "Arbitrary"
 
+# "Arbitrary"

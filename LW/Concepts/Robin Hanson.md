@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:45.274Z'
 ---
+
 # Robin Hanson
 
 **Robin Hanson** is an associate professor of economics at George Mason University.

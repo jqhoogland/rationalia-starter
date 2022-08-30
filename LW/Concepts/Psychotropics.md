@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:12.200Z'
 ---
+
 # Psychotropics
 
 **Psychotropic substances** are substances that noticeably affect how people think. This tag is intended primarily for substances that cause short-term experiences that (used responsibly) can have long-term positive or net-neutral effects on one's intellectual, emotional, and "spiritual" growth. This includes psychedelics such as Psilocybin and LSD as central examples, as well as MDMA and Cannabis as less-central examples

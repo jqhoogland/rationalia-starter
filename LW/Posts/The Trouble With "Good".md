@@ -10,5 +10,5 @@ tags:
 href: https://www.lesswrong.com/posts/M2LWXsJxKS626QNEA/the-trouble-with-good
 synchedAt: '2022-08-30T08:17:57.501Z'
 ---
-# The Trouble With "Good"
 
+# The Trouble With "Good"

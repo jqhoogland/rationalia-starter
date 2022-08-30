@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:00.403Z'
 ---
-# Social & Cultural Dynamics
 
+# Social & Cultural Dynamics

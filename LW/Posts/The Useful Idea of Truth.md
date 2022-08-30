@@ -19,5 +19,5 @@ sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Introduction
 synchedAt: '2022-08-30T08:17:30.485Z'
 ---
-# The Useful Idea of Truth
 
+# The Useful Idea of Truth

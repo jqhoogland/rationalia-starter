@@ -15,5 +15,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.603Z'
 ---
-# Variable Question Fallacies
 
+# Variable Question Fallacies

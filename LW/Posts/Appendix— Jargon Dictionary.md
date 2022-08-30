@@ -16,5 +16,5 @@ sequence: CFAR Handbook
 chapter: Appendices
 synchedAt: '2022-08-30T08:16:32.062Z'
 ---
-# Appendix: Jargon Dictionary
 
+# Appendix: Jargon Dictionary

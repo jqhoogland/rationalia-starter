@@ -10,15 +10,16 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:14.383Z'
 ---
+
 # Becoming Stronger
 
-**_Becoming Stronger_** is the sixth book contained in the ebook _[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]_, by Eliezer Yudkowsky. It focuses on group rationality, rationality groups, practice, and self-improvement.
+***Becoming Stronger*** is the sixth book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It focuses on group rationality, rationality groups, practice, and self-improvement.
 
-_Becoming Stronger_ contains three sequences of thematically connected essays. These are all collected in the _Rationality: From AI to Zombies_ ebook, but the essay names below also link to the original blog posts.
+*Becoming Stronger* contains three sequences of thematically connected essays. These are all collected in the *Rationality: From AI to Zombies* ebook, but the essay names below also link to the original blog posts.
 
-The previous book in the series is _[[Mere Goodness]]_.
+The previous book in the series is *[[Mere Goodness]]*.
 
-### X. Yudkowsky's Coming of Age
+## X. Yudkowsky's Coming of Age
 
 292\. [My Childhood Death Spiral](http://lesswrong.com/lw/ty/my_childhood_death_spiral/)
 
@@ -44,7 +45,7 @@ The previous book in the series is _[[Mere Goodness]]_.
 
 303\. [My Bayesian Enlightenment](http://lesswrong.com/lw/ul/my_bayesian_enlightenment/)
 
-### Y. Challenging the Difficult
+## Y. Challenging the Difficult
 
 304\. [Tsuyoku Naritai (I Want To Become Stronger)](http://lesswrong.com/lw/h8/tsuyoku_naritai_i_want_to_become_stronger/)
 
@@ -62,7 +63,7 @@ The previous book in the series is _[[Mere Goodness]]_.
 
 311\. [Final Words](http://lesswrong.com/lw/cl/final_words/)
 
-### Z. The Craft and the Community
+## Z. The Craft and the Community
 
 312\. [Raising the Sanity Waterline](http://lesswrong.com/lw/1e/raising_the_sanity_waterline/)
 

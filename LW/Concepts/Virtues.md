@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:08.015Z'
+aliases:
+  - Virtue ethics
 ---
+
 # Virtues
 
 **Virtues** are traits that one *ought* to possess, for the benefit of the world or oneself.
@@ -29,7 +32,8 @@ On LessWrong the focus is often on epistemic virtues, as in Eliezer Yudowsky's e
 - **[[Scholarship & Learning|Scholarship]]** \- the study of multiple domains and perspectives;
 - [**The nameless virtue**](https://www.lesswrong.com/tag/twelfth-virtue) \- seeking truth and not the virtues for themselves.
 
-**See Also:** [[Courage]], [[Trust]], [[Honesty]], [[Agency]], [[Altruism]], [[Ambition]], [[Stoicism / Letting Go / Making Peace]], [[Attention]], [[Gratitude]]
+**See Also:** [[Courage]], [[Trust]], [[Honesty]], [[Agency]], [[Altruism]], [[Ambition]], [[ Making Peace]], [[Attention]], [[Gratitude]]
 
-**Sequences:**  
+**Sequences:**
+
 [Notes On Virtues](https://www.lesswrong.com/s/xqgwpmwDYsn8osoje) by [David_Gross](https://www.lesswrong.com/users/david_gross)

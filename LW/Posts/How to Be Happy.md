@@ -12,5 +12,5 @@ sequence: The Science of Winning at Life
 chapter: null
 synchedAt: '2022-08-30T08:17:59.065Z'
 ---
-# How to Be Happy
 
+# How to Be Happy

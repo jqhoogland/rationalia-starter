@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:12.528Z'
 ---
+
 # Mere Goodness
 
 ***Mere Goodness*** is the fifth book contained in the ebook *[[Rationality: From AI To Zombies|Rationality: From AI to Zombies]]*, by Eliezer Yudkowsky. It focuses on the relationship between moral theory and moral practice.

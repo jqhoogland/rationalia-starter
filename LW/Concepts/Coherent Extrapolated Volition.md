@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:12.780Z'
 ---
+
 # Coherent Extrapolated Volition
 
 **Coherent Extrapolated Volition** was a term developed by [[Eliezer Yudkowsky]] while discussing [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI) development. It’s meant as an argument that it would not be sufficient to explicitly program what we think our desires and motivations are into an AI, instead, we should find a way to program it in a way that it would act in our best interests – what we *want* it to do and not what we *tell* it to.
@@ -20,7 +21,7 @@ synchedAt: '2022-08-29T10:48:12.780Z'
 
 Often CEV is used generally to refer to what the idealized version of a person would want, separate from the context of building aligned AI's.
 
-## What is volition?
+## What is Volition?
 
 As an example of the classical concept of volition, the author develops a simple thought experiment: imagine you’re facing two boxes, A and B. One of these boxes, and only one, has a diamond in it – box B. You are now asked to make a guess, whether to choose box A or B, and you chose to open box A. It was your *decision* to take box A, but your *volition* was to choose box B, since you wanted the diamond in the first place.
 
@@ -43,7 +44,7 @@ The main problems with CEV include, firstly, the great difficulty of implementin
 - [Cognitive Neuroscience, Arrow's Impossibility Theorem, and Coherent Extrapolated Volition](https://www.lesswrong.com/lw/7sb/cognitive_neuroscience_arrows_impossibility/) by Luke Muehlhauser
 - [Objections to Coherent Extrapolated Volition](https://www.lesswrong.com/lw/8iy/objections_to_coherent_extrapolated_volition/) by Alexander Kruel
 
-## See also
+## See Also
 
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 - [[Metaethics Sequence|Metaethics sequence]]

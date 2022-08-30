@@ -15,5 +15,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:45.067Z'
 ---
-# Chapter 15: Conscientiousness
 
+# Chapter 15: Conscientiousness

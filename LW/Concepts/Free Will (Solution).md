@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:36.358Z'
 ---
+
 # Free Will (Solution)
 
 Since free will is about as easy as a philosophical problem in reductionism can get, while still appearing "impossible" to at least some philosophers, it makes a good exercise for aspiring reductionists, which *they should try on their own* \- see the main page on [[Free Will|free will]].
@@ -18,7 +19,7 @@ These posts **should not be read** until having made a very serious effort on yo
 
 *Related Pages:* *[[Consciousness|Consciousness]]**,* *[[Free Will|Free Will]]**,* *[[Philosophy|Philosophy]]**,* *[[Reductionism|Reductionism]]**, *
 
-## Blog posts
+## Blog Posts
 
 (Items in italics can be skipped if in a rush.)
 

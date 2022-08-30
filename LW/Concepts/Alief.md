@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:19.893Z'
 ---
+
 # Alief
 
 An **alief** is a belief-like attitude, behavior, or expectation that can coexist with a contradictory belief. For example, the fear felt when a monster jumps out of the darkness in a scary movie is based on the alief that the monster is about to attack you, even though you believe that it cannot.
@@ -20,12 +21,12 @@ Gendler (2008) also introduced a related pun of "cesire vs desire"; a desire ("D
 
 *Related tags:* [[Belief]], [[Emotions|Emotion]], 
 
-## Blog posts
+## Blog Posts
 
 - [The Mystery of the Haunted Rationalist](https://www.lesswrong.com/lw/1l/the_mystery_of_the_haunted_rationalist/)
 - [Living Luminously](https://www.lesswrong.com/lw/1xh/living_luminously/)
 
-## See also
+## See Also
 
 - [[Hollywood Rationality|Hollywood rationality]]
 - [[Corrupted Hardware|Corrupted hardware]]

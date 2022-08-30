@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:13.872Z'
 ---
+
 # Distributional Shifts
 
 Many learning-theoretic setups (especially in the Frequentist camp) make an IID assumption: that data can be split up into samples (sometimes called episodes or data-points) which are independently sampled from identical distributions (hence "IID"). This assumption sometimes allows us to prove that our methods generalize well; see especially PAC learning. However, in real life, when we say that a model "generalizes well", we really mean that it works well on new data *which realistically has a somewhat different distribution*. This is called a **distributional shift** or a non-stationary environment*.*

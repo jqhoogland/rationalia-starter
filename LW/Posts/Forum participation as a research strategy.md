@@ -18,5 +18,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.322Z'
 ---
-# Forum participation as a research strategy
 
+# Forum Participation as a Research Strategy

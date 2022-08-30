@@ -10,5 +10,5 @@ tags:
 href: https://www.lesswrong.com/posts/2om7AHEHtbogJmT5s/about-less-wrong
 synchedAt: '2022-08-30T08:17:56.767Z'
 ---
-# About Less Wrong
 
+# About Less Wrong

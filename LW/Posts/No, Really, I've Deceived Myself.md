@@ -19,5 +19,5 @@ sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.651Z'
 ---
-# No, Really, I've Deceived Myself
 
+# No, Really, I've Deceived Myself

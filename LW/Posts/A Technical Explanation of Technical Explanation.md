@@ -16,5 +16,5 @@ sequence: Science and Rationality
 chapter: Interlude
 synchedAt: '2022-08-30T08:17:34.052Z'
 ---
-# A Technical Explanation of Technical Explanation
 
+# A Technical Explanation of Technical Explanation

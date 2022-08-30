@@ -10,18 +10,18 @@ aliases:
   - This is a new sequence
 synchedAt: '2022-08-29T17:16:42.183Z'
 ---
-# This is a new sequence
+
+# This is a New Sequence
 
 It is quite good, you should read it.
 
 ## Chapters
 
-### This is a new sequence
+### This is a New Sequence
 
 - [['An objective defense of Bayesianism']]
 
-
-### This is a chapter
+### This is a Chapter
 
 - [[Bayes' Theorem Illustrated (My Way)]]
 - [[Schelling fences on slippery slopes]]

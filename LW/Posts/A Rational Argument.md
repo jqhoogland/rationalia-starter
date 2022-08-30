@@ -17,5 +17,5 @@ sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:38.953Z'
 ---
-# A Rational Argument
 
+# A Rational Argument

@@ -11,6 +11,7 @@ tags:
 core: true
 synchedAt: '2022-08-29T11:04:10.167Z'
 ---
+
 # Practical
 
 **Practical** posts give direct, actionable advice on how to achieve goals and generally succeed. The art of rationality would be useless if it did not connect to the real world; we must take our ideas and abstractions and collide them with reality. Many places on the internet will give you advice; here, we value survey data, literature reviews, self-blinded trials, quantitative estimates, and theoretical models that aim to explain the phenomena.

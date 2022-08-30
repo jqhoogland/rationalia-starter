@@ -16,5 +16,5 @@ sequence: Argument and Analysis
 chapter: null
 synchedAt: '2022-08-30T08:17:41.665Z'
 ---
-# The Virtue of Silence
 
+# The Virtue of Silence

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:57.694Z'
 ---
+
 # Technological Unemployment
 
 **Technological Unemployment** occurs when businesses replace human workers with automated systems, and the displaced workers are unable to find new jobs.

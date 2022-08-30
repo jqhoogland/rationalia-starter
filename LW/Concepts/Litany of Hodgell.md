@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:19.386Z'
 ---
+
 # Litany of Hodgell
 
 The **Litany of Hodgell**: That which can be destroyed by the truth should be.
 
 And [[Feeling Rational|Yudkowsky's extension]]: That which the truth nourishes should thrive. 
 
-## See also
+## See Also
 
 - [[12 Virtues|Virtues of Rationality]]
 - [[Litany of Tarski]]

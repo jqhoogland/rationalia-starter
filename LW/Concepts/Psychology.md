@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.938Z'
 ---
+
 # Psychology
 
 **Psychology** is the study of the mind. Typically, psychology focuses on the human mind, but animal minds are also sometimes studied.

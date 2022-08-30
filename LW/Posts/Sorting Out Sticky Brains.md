@@ -16,5 +16,5 @@ sequence: Living Luminously
 chapter: Background Material
 synchedAt: '2022-08-30T08:17:51.418Z'
 ---
-# Sorting Out Sticky Brains
 
+# Sorting Out Sticky Brains

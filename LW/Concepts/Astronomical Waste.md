@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:39.830Z'
 ---
+
 # Astronomical Waste
 
 **Astronomical waste** is a term introduced by [[Nick Bostrom]] for the opportunities we're losing out on by not colonizing the universe.
@@ -22,11 +23,11 @@ Bostrom [notes](http://www.nickbostrom.com/astronomical/waste.html) that in a wi
 
 If so much potential is lost every year, one could conclude that we should start colonization *as soon as possible*. But since the amount of resources available *in total* is much larger still than the amount lost in a year, a better utilitarian prescription is to minimize the risk of losing out on space colonization entirely. Bostrom calls this prescription "maxipok", for the maximum probability of an OK outcome.
 
-## External links
+## External Links
 
 - [Astronomical Waste: The Opportunity Cost of Delayed Technological Development](http://www.nickbostrom.com/astronomical/waste.html)
 
-## See also
+## See Also
 
 - [[Utilitarianism]]
 - [[Existential Risk|Existential risk]]

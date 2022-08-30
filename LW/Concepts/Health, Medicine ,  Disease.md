@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:59.145Z'
 ---
+
 # Health / Medicine / Disease
 
 **Health.** Note that, for convenience, posts relating to the 2019 coronavirus outbreak are instead found in [[Covid-19|here]].

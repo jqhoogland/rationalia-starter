@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:16.294Z'
 ---
+
 # Public Discourse
 
 **Public discourse** refers to our ability to have conversations *in large groups*, both as a society, and in smaller communities; as well as conversations between a few well-defined participants (such as presidential debates) that take place publicly. 

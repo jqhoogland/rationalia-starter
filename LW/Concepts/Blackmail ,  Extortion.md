@@ -1,5 +1,5 @@
 ---
-title: Blackmail / Extortion
+title: Blackmail, Extortion
 href: https://lesswrong.com/tags/blackmail-extortion
 type: tag
 tags:

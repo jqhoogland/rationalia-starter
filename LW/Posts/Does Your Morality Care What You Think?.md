@@ -16,5 +16,5 @@ sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.953Z'
 ---
-# Does Your Morality Care What You Think?
 
+# Does Your Morality Care What You Think?

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:26.471Z'
 ---
+
 # Epistemic Review
 
 **Epistemic Reviews** take a closer look at an existing publication – such as a book, paper or blogpost – and evaluate whether its claims are true.

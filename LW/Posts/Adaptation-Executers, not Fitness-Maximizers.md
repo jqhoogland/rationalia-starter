@@ -20,5 +20,5 @@ sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.230Z'
 ---
-# Adaptation-Executers, not Fitness-Maximizers
 
+# Adaptation-Executers, Not Fitness-Maximizers

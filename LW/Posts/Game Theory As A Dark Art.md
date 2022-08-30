@@ -16,5 +16,5 @@ sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:43.044Z'
 ---
-# Game Theory As A Dark Art
 
+# Game Theory As A Dark Art

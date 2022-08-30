@@ -10,6 +10,7 @@ aliases:
   - 2021 MIRI Conversations
 synchedAt: '2022-08-29T17:16:42.660Z'
 ---
+
 # 2021 MIRI Conversations
 
 This sequence is a (chronological) series of chatroom conversation logs about artificial general intelligence. A large number of topics are covered, beginning with conversations related to alignment difficulty.
@@ -32,7 +33,6 @@ Rob Bensinger edited and posted this sequence, and Matthew Graves helped with mu
 - [[Yudkowsky and Christiano discuss "Takeoff Speeds"]]
 - [[Soares, Tallinn, and Yudkowsky discuss AGI cognition]]
 
-
 ### 2021 MIRI Conversations
 
 - [[Christiano, Cotra, and Yudkowsky on AI progress]]
@@ -41,7 +41,6 @@ Rob Bensinger edited and posted this sequence, and Matthew Graves helped with mu
 - [[Shulman and Yudkowsky on AI progress]]
 - [[More Christiano, Cotra, and Yudkowsky on AI progress]]
 - [[Conversation on technology forecasting and gradualism]]
-
 
 ### 2021 MIRI Conversations
 

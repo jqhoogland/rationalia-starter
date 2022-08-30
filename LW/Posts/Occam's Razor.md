@@ -12,5 +12,5 @@ sequence: Noticing Confusion
 chapter: null
 synchedAt: '2022-08-30T08:17:59.506Z'
 ---
-# Occam's Razor
 
+# Occam's Razor

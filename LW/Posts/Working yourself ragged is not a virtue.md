@@ -17,5 +17,5 @@ sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.717Z'
 ---
-# Working yourself ragged is not a virtue
 
+# Working Yourself Ragged is Not a Virtue

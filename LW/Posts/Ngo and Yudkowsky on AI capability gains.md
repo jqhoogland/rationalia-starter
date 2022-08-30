@@ -23,5 +23,5 @@ sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.440Z'
 ---
-# Ngo and Yudkowsky on AI capability gains
 
+# Ngo and Yudkowsky on AI Capability Gains

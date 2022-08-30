@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:47.764Z'
 ---
+
 # Utility Indifference
 
 **Utility indifference** is a type of defense against an AI becoming [unfriendly](https://wiki.lesswrong.com/wiki/Unfriendly_AI).

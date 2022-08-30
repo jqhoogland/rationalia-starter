@@ -19,5 +19,5 @@ sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:32.670Z'
 ---
-# The "Intuitions" Behind "Utilitarianism"
 
+# The "Intuitions" Behind "Utilitarianism"

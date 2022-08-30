@@ -15,5 +15,5 @@ sequence: Hypotheses and Hunches
 chapter: Interlude
 synchedAt: '2022-08-30T08:16:45.024Z'
 ---
-# The Case Of The Suffocating Woman
 
+# The Case Of The Suffocating Woman

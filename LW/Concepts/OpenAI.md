@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:15.126Z'
 ---
+
 # OpenAI
 
 **OpenAI** is an organisation that performs AI research, and houses a substantial amount of AI alignment research. Its stated mission is "Discovering and enacting the path to safe artificial general intelligence."

@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:05.194Z'
 ---
-# Human Genetics
 
+# Human Genetics

@@ -18,5 +18,5 @@ sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:52.963Z'
 ---
-# The date of AI Takeover is not the day the AI takes over
 
+# The Date of AI Takeover is Not the Day the AI Takes Over

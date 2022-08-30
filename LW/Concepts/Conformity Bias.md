@@ -10,18 +10,19 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:03.872Z'
 ---
+
 # Conformity Bias
 
 **Conformity bias** is a tendency to behave similarly to the others in a group, even if doing so goes against your own judgment.
 
-## Blog posts
+## Blog Posts
 
 - [Asch's Conformity Experiment](http://lesswrong.com/lw/m9/aschs_conformity_experiment/)
 - [Lonely Dissent](http://lesswrong.com/lw/mb/lonely_dissent/)
 - [On Expressing Your Concerns](http://lesswrong.com/lw/ma/on_expressing_your_concerns/)
 - [Undiscriminating Skepticism](http://lesswrong.com/lw/1ww/undiscriminating_skepticism/)
 
-## See also
+## See Also
 
 - [[Affective Death Spiral|Affective death spiral]]
 - [[Groupthink]]

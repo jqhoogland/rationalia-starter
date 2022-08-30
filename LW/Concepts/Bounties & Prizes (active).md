@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:16.393Z'
 ---
+
 # Bounties & Prizes (active)
 
 A **bounty** is a monetary payment for accomplishing some task. On LessWrong, bounties have historically been paid out for things like providing useful information, doing a novel piece of research, or changing someone's mind about a topic. 

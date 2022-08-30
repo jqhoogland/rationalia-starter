@@ -19,5 +19,5 @@ sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.364Z'
 ---
-# The Quotation is not the Referent
 
+# The Quotation is Not the Referent

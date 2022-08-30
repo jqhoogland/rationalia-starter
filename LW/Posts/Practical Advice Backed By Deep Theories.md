@@ -13,5 +13,5 @@ sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:57.142Z'
 ---
-# Practical Advice Backed By Deep Theories
 
+# Practical Advice Backed By Deep Theories

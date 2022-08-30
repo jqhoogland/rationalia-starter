@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:35.507Z'
 ---
+
 # Cyc
 
 ![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/animations/6551d2cea4338b35e2c81a8a17449cc8101e7a1db32fb3db.gif)
@@ -32,10 +33,10 @@ means "Douglas Lenat is an AI researcher." This is an example of a fact in the K
 
 Some sentences contain variables, and are called 'rules'. Variables begin with ?. For example, a rule about the #$isa predicate is
 
-`(#$implies`  
-`   (#$and   `  
-`     (#$isa ?OBJ ?SUBSET)`  
-`     (#$genls ?SUBSET ?SUPERSET))`  
+`(#$implies`
+`   (#$and   `
+`     (#$isa ?OBJ ?SUBSET)`
+`     (#$genls ?SUBSET ?SUPERSET))`
 `   (#$isa ?OBJ ?SUPERSET))`
 
 The CycL syntax uses prefix notation and nested parentheses, unlike English. An English translation might read, "If a \[object\] is a \[subset\], and a \[subset\] is a subcollection of a \[superset\], then a \[object\] is a \[superset\]." Or, more concretely, if we let ?OBJ be "sandcat", ?SUBSET be "feline", and ?SUPERSET be "mammal", then the sentence reads, "If a sandcat is a feline, and a feline is a subcollection of mammals, then a sandcat is a mammal." In first-order logic (with set theory), this would be written as
@@ -48,11 +49,11 @@ The inference engine would verify the truth of the parenthetical statements, and
 
 Many AI researchers criticize the Cyc project for its lack of theoretical foundation. For example, while the inference engine can perform deductive logic on the fact in the database, it cannot perform induction; that is, it cannot take new data and create new concepts or relations. Furthermore it remains 'crystalline' in the sense that statements are not evaluated probabilistically. Lenat has responded to some critiques by pointing out that Cyc is not trying to build a full AGI, and that it may be easily imported into other AI projects.
 
-## See also
+## See Also
 
 - [[Eurisko|EURISKO]]
 
-## External links
+## External Links
 
 - [http://www.cyc.com/](http://www.cyc.com/)
 - [http://www.opencyc.org/](http://www.opencyc.org/)

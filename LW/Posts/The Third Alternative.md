@@ -19,5 +19,5 @@ sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.598Z'
 ---
-# The Third Alternative
 
+# The Third Alternative

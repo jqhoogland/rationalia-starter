@@ -18,5 +18,5 @@ sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:38.859Z'
 ---
-# The Bottom Line
 
+# The Bottom Line

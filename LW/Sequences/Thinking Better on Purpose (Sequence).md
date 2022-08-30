@@ -10,6 +10,7 @@ aliases:
   - Thinking Better on Purpose
 synchedAt: '2022-08-29T17:16:36.911Z'
 ---
+
 # Thinking Better on Purpose
 
 *Part 1 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*. *

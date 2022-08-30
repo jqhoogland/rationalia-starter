@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:29.426Z'
 ---
+
 # Value Extrapolation
 
 **Value extrapolation** can be defined as an account of how human values, morals, and desires would be under “ideal circumstances”. These circumstances refer to the access to full information about our motivations, its origins and goals, and are proposed as the model on top of which machine ethics should be developed.

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:18.135Z'
 ---
+
 # Explicit Reasoning
 
 In the simple case, **explicit reasoning** is reasoning which:
@@ -26,6 +27,6 @@ However, the exact definition may vary based on context. For example, explicit r
 
 Explicit reasoning is one of many modes of reasoning by which humans may reach conclusions. While it is not always the best mode of reasoning, it has the advantage of being *scrutable*, ie, open to inspection. This makes it easier to correct, in particular through imaginary verbal reasoning modelled after dialogue (ie, mentally responding to yourself as if you were another person, with critiques and corrections). Since it can easily be recorded, it can also be subject to feedback from many other people, which can further improve the quality of this type of reasoning. Also, explicit reasoning can easily be chained together to reach less obvious conclusions.
 
-Other types of reasoning include [[Inner Simulator / Suprise-o-meter|inner sim]], gestalt pattern recognition, mental imagery, and [[Focusing|Gendlin's Focusing]]. Important questions include when to trust different modes of reasoning, how to combine the results of different reasoning modes, and how to best facilitate communication between different modes of reasoning.
+Other types of reasoning include [[ Suprise-o-meter|inner sim]], gestalt pattern recognition, mental imagery, and [[Focusing|Gendlin's Focusing]]. Important questions include when to trust different modes of reasoning, how to combine the results of different reasoning modes, and how to best facilitate communication between different modes of reasoning.
 
 Related to: [[Dual Process Theory (System 1 & System 2)|Dual Process Theory]]

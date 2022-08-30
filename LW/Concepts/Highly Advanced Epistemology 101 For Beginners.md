@@ -10,9 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:19.970Z'
 ---
+
 # Highly Advanced Epistemology 101 For Beginners
 
-[[Eliezer Yudkowsky]]'s bottom-up guide to epistemology. Includes practical applications and puzzling [[Meditation / Koan|meditations]].
+[[Eliezer Yudkowsky]]'s bottom-up guide to epistemology. Includes practical applications and puzzling [[ Koan|meditations]].
 
 **Intro**
 

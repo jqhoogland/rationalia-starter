@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:22.516Z'
 ---
-# Domain Theory
 
+# Domain Theory

@@ -15,5 +15,5 @@ sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:42.820Z'
 ---
-# Chapter 38: The Cardinal Sin
 
+# Chapter 38: The Cardinal Sin

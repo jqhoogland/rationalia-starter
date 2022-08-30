@@ -16,5 +16,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.679Z'
 ---
-# Chapter 1: A Day of Very Low Probability
 
+# Chapter 1: A Day of Very Low Probability

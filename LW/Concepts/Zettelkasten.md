@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:09.535Z'
 ---
+
 # Zettelkasten
 
 **Zettelkasten** (German for "slip box") is a [[Note-Taking|note-taking]] method popular amongst some LWers, and often praised for its scalability.

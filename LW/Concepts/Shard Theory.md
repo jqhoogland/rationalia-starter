@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:13.846Z'
 ---
+
 # Shard Theory
 
 Shard theory is an alignment research program, about the relationship between training variables and learned values in trained RL agents. It is thus an approach to progressively fleshing out a mechanistic account of human values, learned values in RL agents, and (to a lesser extent) the learned algorithms in ML generally.

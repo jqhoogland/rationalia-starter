@@ -12,5 +12,5 @@ sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:57.586Z'
 ---
-# What's a Bias?
 
+# What's a Bias?

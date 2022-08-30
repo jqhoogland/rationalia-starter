@@ -10,16 +10,17 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:20.088Z'
 ---
+
 # Extraordinary Evidence
 
 **Extraordinary evidence** is [[Evidence|evidence]] that turns an [a priori](https://wiki.lesswrong.com/wiki/prior) highly unlikely event into an a posteriori likely event.
 
-## Blog posts
+## Blog Posts
 
 - [Extraordinary Claims ARE Extraordinary Evidence](http://www.overcomingbias.com/2007/01/extraordinary_c.html) by [[Robin Hanson]]
 - [Some Claims Are Just Too Extraordinary](http://lesswrong.com/lw/gu/some_claims_are_just_too_extraordinary/) by [[Eliezer Yudkowsky]]
 
-## See also
+## See Also
 
 - [[Evidence]]
 - [[Belief Update|Belief update]]

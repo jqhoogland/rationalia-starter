@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:11.021Z'
 ---
+
 # Bayesian Probability
 
 **Bayesian probability** represents a level of certainty relating to a potential outcome or idea. This is in contrast to a [frequentist](https://en.wikipedia.org/wiki/Frequentist_inference) probability that represents the frequency with which a particular outcome will occur over any number of trials.
@@ -18,7 +19,7 @@ An [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) with Bayesi
 
 The difference is more apparent when discussing ideas. A frequentist will not assign probability to an idea; either it is true or false and it cannot be true 6 times out of 10.
 
-## Blog posts
+## Blog Posts
 
 - [What is Bayesianism?](http://lesswrong.com/lw/1to/what_is_bayesianism/)
 - [Probability is Subjectively Objective](http://lesswrong.com/lw/s6/probability_is_subjectively_objective/)
@@ -27,14 +28,14 @@ The difference is more apparent when discussing ideas. A frequentist will not as
 - [Against NHST](http://lesswrong.com/lw/g13/against_nhst/)
 - [[Probability & Statistics|All Less Wrong posts tagged "Probability"]]
 
-## See also
+## See Also
 
 - [[Priors]]
 - [[Bayesianism|Bayesian]]
 - [[Bayes' Theorem|Bayes' theorem]]
 - [[Mind Projection Fallacy|Mind projection fallacy]]
 
-## External links
+## External Links
 
 - [BIPS](http://www.astro.cornell.edu/staff/loredo/bayes/index.html): Bayesian Inference for the Physical Sciences
 - [Maximum entropy thermodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)

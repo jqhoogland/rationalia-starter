@@ -21,5 +21,5 @@ sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:51.801Z'
 ---
-# A Suite of Pragmatic Considerations in Favor of Niceness
 
+# A Suite of Pragmatic Considerations in Favor of Niceness

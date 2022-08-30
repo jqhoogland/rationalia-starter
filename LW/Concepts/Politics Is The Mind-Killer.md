@@ -10,17 +10,18 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:58.320Z'
 ---
+
 # Politics Is The Mind-Killer
 
-> People go funny in the head when talking about politics. The evolutionary reasons for this are so obvious as to be worth belaboring: In the ancestral environment, politics was a matter of life and death. And sex, and wealth, and allies, and reputation... When, today, you get into an argument about whether "we" ought to raise the minimum wage, you're executing adaptations for an ancestral environment where being on the wrong side of the argument could get you killed... Politics is an extension of war by other means. Arguments are soldiers. Once you know which side you're on, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side; otherwise it's like stabbing your soldiers in the back - providing aid and comfort to the enemy.
-> 
+> People go funny in the head when talking about politics. The evolutionary reasons for this are so obvious as to be worth belaboring: In the ancestral environment, politics was a matter of life and death. And sex, and wealth, and allies, and reputation… When, today, you get into an argument about whether "we" ought to raise the minimum wage, you're executing adaptations for an ancestral environment where being on the wrong side of the argument could get you killed… Politics is an extension of war by other means. Arguments are soldiers. Once you know which side you're on, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side; otherwise it's like stabbing your soldiers in the back - providing aid and comfort to the enemy.
+>
 > —Eliezer Yudkowsky, [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
 
 A [sequence](https://wiki.lesswrong.com/wiki/sequence) on the various ways that politics damages our sanity - including, of course, making it harder to change our minds on political issues.
 
 *This page is about Eliezer Yudkowsky's sequence. For ongoing discussion of these issues at LW Wiki, see* *[[Mind-Killer|Mind-killer]]* *and* *[[Blues & Greens (metaphor)|Color politics]]**.*
 
-## Blog posts
+## Blog Posts
 
 - [A Fable of Science and Politics](http://lesswrong.com/lw/gt/a_fable_of_science_and_politics/)
 - [Politics is the Mind-Killer](http://lesswrong.com/lw/gw/politics_is_the_mindkiller/)
@@ -37,11 +38,11 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) on the various ways that 
 - [False Laughter](http://lesswrong.com/lw/m5/false_laughter/)
 - [Human Evil and Muddled Thinking](http://lesswrong.com/lw/jd/human_evil_and_muddled_thinking/)
 
-## Other formats
+## Other Formats
 
 - [Readlist](http://readlists.com/fddbeb69) \- view this sequence as an eBook using Readability.
 
-## See also
+## See Also
 
 Closely related to [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]], particularly:
 

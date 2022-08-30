@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:27.388Z'
 ---
+
 # Mind Projection Fallacy
 
 The **Mind Projection Fallacy** is the error of projecting the properties of your own mind onto the external world. For example, one might erroneously think that because they enjoy the taste of chocolate, the chocolate has the inherent property of tastiness, and therefore everyone else must like its taste too.

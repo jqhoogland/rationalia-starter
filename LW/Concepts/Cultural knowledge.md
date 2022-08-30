@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:16.293Z'
 ---
-# Cultural knowledge
+
+# Cultural Knowledge
 
 **Cultural knowledge** (or **metis**) refers to knowledge that's codified in traditions, norms, institutions and intuitions, without necessarily being fully understood or legible to people in those cultures.

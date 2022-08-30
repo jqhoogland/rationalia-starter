@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:49.366Z'
 ---
+
 # Dialogue (format)
 
 Concepts are sometimes best illustrated through fictional dialogue between two or more characters holding different viewpoints. While the conversation itself is fictional, the subject matter is not.

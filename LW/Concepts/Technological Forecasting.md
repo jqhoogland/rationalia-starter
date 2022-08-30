@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:38.576Z'
 ---
+
 # Technological Forecasting
 
 **Technological forecasting** means making predictions about future technological advances.
@@ -22,15 +23,15 @@ One could create probabilistic models more complicated than a simple trend extra
 
 An important danger in predicting the future is that one might tell complex stories with many details, any of which could fail and invalidate the prediction. Models like that used in The Uncertain Future attempt to avoid this problem by considering outcomes that could come about in multiple ways, and assigning some probability to many different scenarios.
 
-## Blog posts
+## Blog Posts
 
 - [Long-term technological forecasting](http://lesswrong.com/lw/9ao/longterm_technological_forecasting/)
 
-## External links
+## External Links
 
 - [Changing the frame of AI futurism: From storytelling to heavy-tailed, high-dimensional probability distributions](http://intelligence.org/files/ChangingTheFrame.html) (a conference paper explaining the reasoning behind the Uncertain Future app)
 
-## See also
+## See Also
 
 - [Acceleration thesis](https://wiki.lesswrong.com/wiki/Acceleration_thesis)
 - [[Good-Story Bias|Good-story bias]]

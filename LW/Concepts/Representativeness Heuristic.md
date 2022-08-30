@@ -10,18 +10,19 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:57.539Z'
 ---
+
 # Representativeness Heuristic
 
-## Blog posts
+## Blog Posts
 
 - [Conjunction Fallacy](http://lesswrong.com/lw/ji/conjunction_fallacy/)
 - [Conjunction Controversy (Or, How They Nail It Down)](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)
 
-## External links
+## External Links
 
 - [Representativeness heuristic](http://psychology.wikia.com/wiki/Representativeness_heuristic) at Psychology Wiki
 
-## See also
+## See Also
 
 - [[Conjunction Fallacy|Conjunction fallacy]]
 - [[Availability Heuristic|Availability heuristic]]

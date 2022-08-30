@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:14.299Z'
 ---
+
 # Heuristics & Biases
 
 **Heuristics** and **Biases** are the ways human reasoning differs from a theoretical ideal agent, due to reasoning shortcuts that don't always work (heuristics) and systematic errors (biases).
@@ -31,7 +32,7 @@ We are here to pursue the great human quest for truth: for we have desperate nee
 
 The Sequence, [Predictably Wrong](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM), offers an excellent introduction to the topic for those who are not familiar.
 
-Wait a minute... fallacies, biases, heuristics... what's the difference??
+Wait a minute… fallacies, biases, heuristics… what's the difference??
 =========================================================================
 
 While a **bias** is always wrong, a **heuristic** is just a shortcut which may or may not give you an accurate answer. Just because you know complex mathematical methods for precisely calculating the flight of objects through space doesn't mean you should be using them to play volleyball. Which is to say, heuristics are necessary for actually getting anything done. But because they are just approximations they frequently *produce* biases, which is where the problem lies. "Fallacy" is often used to mean a very similar thing as bias on LessWrong. \[Needs better clarification\]

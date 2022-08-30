@@ -10,6 +10,7 @@ aliases:
   - The Craft and the Community
 synchedAt: '2022-08-29T17:16:41.105Z'
 ---
+
 # The Craft and the Community
 
 Discusses rationality groups and group rationality, raising the questions:

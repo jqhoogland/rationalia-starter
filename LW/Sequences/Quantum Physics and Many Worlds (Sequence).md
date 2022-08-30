@@ -10,9 +10,10 @@ aliases:
   - Quantum Physics and Many Worlds
 synchedAt: '2022-08-29T17:16:41.107Z'
 ---
+
 # Quantum Physics and Many Worlds
 
-Quantum mechanics is our best mathematical model of the universe to date, powerfully confirmed by a century of tests. However, interpreting what the experimental results _mean_ \- how and when the Schrödinger equation and Born's rule interact - is a topic of much contention, with the main disagreement being between the Everett and the Copenhagen interpretations.
+Quantum mechanics is our best mathematical model of the universe to date, powerfully confirmed by a century of tests. However, interpreting what the experimental results *mean* \- how and when the Schrödinger equation and Born's rule interact - is a topic of much contention, with the main disagreement being between the Everett and the Copenhagen interpretations.
 
 Yudkowsky uses this scientific controversy as a proving ground for some central ideas from previous sequences: map-territory distinctions, mysterious answers, Bayesianism, and Occam’s Razor.
 

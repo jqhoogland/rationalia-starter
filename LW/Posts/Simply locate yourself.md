@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.048Z'
 ---
-# Simply locate yourself
 
+# Simply Locate Yourself

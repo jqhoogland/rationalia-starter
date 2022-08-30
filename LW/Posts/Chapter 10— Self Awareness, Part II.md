@@ -16,5 +16,5 @@ sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.927Z'
 ---
-# Chapter 10: Self Awareness, Part II
 
+# Chapter 10: Self Awareness, Part II

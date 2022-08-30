@@ -12,5 +12,5 @@ sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:56.386Z'
 ---
-# Heat vs. Motion
 
+# Heat Vs. Motion

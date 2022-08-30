@@ -12,5 +12,5 @@ sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:55.866Z'
 ---
-# Explain, Worship, Ignore
 
+# Explain, Worship, Ignore

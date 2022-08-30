@@ -10,18 +10,19 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:27.655Z'
 ---
+
 # Fully-General Counterargument
 
 A **fully general counterargument** is an argument which can be used to discount any conclusion the arguer does not like. Being in possession of such an argument leads to irrationality because it allows the arguer to avoid updating their beliefs in light of new evidence.
 
 Knowledge of cognitive biases can itself allow someone to form fully general counterarguments ("you're just saying that because you're exhibiting X bias").
 
-## Blog posts
+## Blog Posts
 
 - [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
 - [Dark Side Epistemology](http://lesswrong.com/lw/uy/dark_side_epistemology/)
 
-## See also
+## See Also
 
 - [[Dangerous Knowledge|Dangerous knowledge]]
 - [[Anti-Epistemology|Anti-epistemology]]

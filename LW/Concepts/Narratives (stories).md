@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:15.133Z'
 ---
+
 # Narratives (stories)
 
 See also: [[Public Discourse|Public discourse]], [[Fiction]], [[Writing (communication method)|Writing]], [[Social Reality|Social reality]]

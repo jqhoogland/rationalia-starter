@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:52.575Z'
 ---
+
 # Narrative Fallacy
 
 > The narrative fallacy addresses our limited ability to look at sequences of facts without weaving an explanation into them, or, equivalently, forcing a logical link, an arrow of relationship upon them. Explanations bind facts together. They make them all the more easily remembered; they help them make more sense. Where this propensity can go wrong is when it increases our impression of understanding.
 
 —Nassim Nicholas Taleb, The Black Swan
 
-## Blog posts
+## Blog Posts
 
 - [Tell your Anti-Story](http://www.overcomingbias.com/2007/07/tell-your-anti-.html) by [[Robin Hanson]]
 - [The Bad Guy Bias](http://www.overcomingbias.com/2008/12/the-bad-guy-bia.html) by Robin Hanson
@@ -30,11 +31,11 @@ synchedAt: '2022-08-29T10:47:52.575Z'
 - [Systems and Stories](http://meteuphoric.wordpress.com/2010/04/23/systems-and-stories/) by Katja Grace
 - [Living in the Epilogue: Social Policy as Palliative Care](http://theviewfromhell.blogspot.com/2010/12/living-in-epilogue-social-policy-as.html) by Sister Y
 
-## See also
+## See Also
 
 - [[Privileging The Hypothesis|Privileging the hypothesis]], [[Confirmation Bias|Positive bias]]
 - [[Mind-Killer|Mind-killer]]
-- [[Near/Far Thinking|Near/far thinking]]
+- [[Far Thinking|Near, Far Thinking]]
 - [[Hindsight Bias|Hindsight bias]]
 - [[Fake Simplicity|Fake simplicity]]
 - [[Black Swans|Black swan]]

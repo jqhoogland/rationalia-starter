@@ -17,5 +17,5 @@ sequence: Why We Fight
 chapter: null
 synchedAt: '2022-08-30T08:17:31.408Z'
 ---
-# A Sense That More Is Possible
 
+# A Sense That More Is Possible

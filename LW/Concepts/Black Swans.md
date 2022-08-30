@@ -10,17 +10,18 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:12.250Z'
 ---
+
 # Black Swans
 
 A **black swan** is a high-impact event that is hard to predict (but not necessarily of low probability). Also, an event that is not accounted for in a model, and therefore causes the model to break down when it occurs.
 
 Considering some event a black swan doesn't give a leave to not assign any probabilities, since making decisions depending on the plausibility of such event is still equivalent to assigning probabilities that make the expected utility calculation give those decisions.
 
-## External posts:
+## External Posts:
 
 - [White Swans Painted Black](http://www.overcomingbias.com/2008/09/white-swans-p-1.html) by Peter McCluskey
 
-## See also
+## See Also
 
 - [[Narrative Fallacy|Narrative fallacy]]
 - [[Hindsight Bias|Hindsight bias]]

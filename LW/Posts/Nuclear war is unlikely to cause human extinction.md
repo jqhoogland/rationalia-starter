@@ -20,5 +20,5 @@ sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:52.836Z'
 ---
-# Nuclear war is unlikely to cause human extinction
 
+# Nuclear War is Unlikely to Cause Human Extinction

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:15.452Z'
 ---
+
 # Grabby Aliens
 
 **Grabby Aliens** is a theory that explains why humans appeared relatively early in the history of the universe (13.8 *billion* years after the Big Bang, while the average star will last over five *trillion* years). It was developed by Robin Hanson, Daniel Martin, Calvin McCarter, and Jonathan Paulson.

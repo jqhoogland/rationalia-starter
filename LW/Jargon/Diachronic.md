@@ -7,9 +7,8 @@ tags:
   - Jargon
 synchedAt: '2022-08-29T11:16:58.126Z'
 ---
+
 # Diachronic
 
-
-
-Contrasts with "episodic."  A sense of consistency-of-self across time, such that a person identifies strongly with their past and future selves, and has the experience of persistence and narrative connection even on time scales of months, years, or decades.  
+Contrasts with "episodic."  A sense of consistency-of-self across time, such that a person identifies strongly with their past and future selves, and has the experience of persistence and narrative connection even on time scales of months, years, or decades.
  

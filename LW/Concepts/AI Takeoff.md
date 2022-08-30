@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:06.805Z'
 ---
+
 # AI Takeoff
 
 **AI Takeoff** refers to the process of an [[Artificial General Intelligence]] going from a certain threshold of capability (often discussed as "human-level") to being super-intelligent and capable enough to control the fate of civilization. There has been much debate about whether AI takeoff is more likely to be slow vs fast, i.e., "soft" vs "hard".
 
-_See also_: [[AI Timelines]], [[Seed AI]], [[Singularity]], [[Intelligence Explosion|Intelligence explosion]], [[Recursive Self-Improvement|Recursive self-improvement]]
+*See also*: [[AI Timelines]], [[Seed AI]], [[Singularity]], [[Intelligence Explosion|Intelligence explosion]], [[Recursive Self-Improvement|Recursive self-improvement]]
 
 AI takeoff is sometimes casually referred to as **AI FOOM.**
 
@@ -49,6 +50,6 @@ External links
 
 **References**
 
-1.  [http://www.aleph.se/andart/archives/2010/10/why\_early\_singularities\_are\_softer.html](http://www.aleph.se/andart/archives/2010/10/why_early_singularities_are_softer.html↩)[[AI Takeoff|↩]]
-2.  [http://lesswrong.com/lw/63t/requirements\_for\_ai\_to\_go_foom/](http://lesswrong.com/lw/63t/requirements_for_ai_to_go_foom/↩)[[AI Takeoff|↩]]
-3.  [http://lesswrong.com/lw/wf/hard_takeoff/](https://www.lesswrong.com/lw/wf/hard_takeoff/)[↩](http://lesswrong.com/lw/wf/hard_takeoff/↩)
+1. [http://www.aleph.se/andart/archives/2010/10/why\_early\_singularities\_are\_softer.html](http://www.aleph.se/andart/archives/2010/10/why_early_singularities_are_softer.html↩)[[AI Takeoff|↩]]
+2. [http://lesswrong.com/lw/63t/requirements\_for\_ai\_to\_go_foom/](http://lesswrong.com/lw/63t/requirements_for_ai_to_go_foom/↩)[[AI Takeoff|↩]]
+3. [http://lesswrong.com/lw/wf/hard_takeoff/](https://www.lesswrong.com/lw/wf/hard_takeoff/)[↩](http://lesswrong.com/lw/wf/hard_takeoff/↩)

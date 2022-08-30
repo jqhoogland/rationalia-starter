@@ -10,6 +10,7 @@ aliases:
   - Mysterious Answers
 synchedAt: '2022-08-29T17:16:42.150Z'
 ---
+
 # Mysterious Answers
 
 This sequence asks whether science resolves the problems raised so far. Scientists base their models on repeatable experiments, not speculation or hearsay. And science has an excellent track record compared to anecdote, religion, and . . . pretty much everything else. Do we still need to worry about “fake” beliefs, confirmation bias, hindsight bias, and the like when we’re working with a community of people who want to explain phenomena, not just tell appealing stories?
@@ -34,7 +35,6 @@ This sequence asks whether science resolves the problems raised so far. Scientis
 - [[Explain, Worship, Ignore?]]
 - [["Science" as Curiosity-Stopper]]
 - [[Truly Part Of You]]
-
 
 ### Interlude
 

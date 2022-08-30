@@ -10,6 +10,7 @@ aliases:
   - Fake Beliefs
 synchedAt: '2022-08-29T17:16:42.153Z'
 ---
+
 # Fake Beliefs
 
 An account of irrationality would be incomplete if it provided no theory about how rationality works—or if its “theory” only consisted of vague truisms, with no precise explanatory mechanism. This sequence asks why it’s useful to base one’s behavior on “rational” expectations, and what it feels like to do so.

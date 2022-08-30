@@ -18,5 +18,5 @@ sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.326Z'
 ---
-# The Mystery of the Haunted Rationalist
 
+# The Mystery of the Haunted Rationalist

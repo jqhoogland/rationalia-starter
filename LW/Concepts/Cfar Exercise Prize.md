@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:00.401Z'
 ---
+
 # Cfar Exercise Prize
 
 *Note: out of date, was offered in 2012, presumably not still active, but you could ask them*
@@ -41,7 +42,7 @@ The key idea about an exercise is that it should teach a useful skill by perform
 
 Prizes are payable via Paypal (or we can essay other payment methods if necessary). If you win, private-message [Stephen Cole](http://lesswrong.com/message/compose/?to=StephenCole) from the LessWrong account that won (so we know it's you) with your payment details. Considering the wide variety of skills we're trying to teach, there are no prespecified success metrics besides "Looks good enough to try" and "We decide to keep it".
 
-The Center for Applied Rationality potentially has resources that can "build a simple computer game" or "come up with specific exercises along general pattern X", or even remote workers who can "research large numbers of trivia questions with known answers to use as tests". Suggestions of this type will have to look good in advance to be tested, since testing them requires resources, but shouldn't be eliminated from consideration. On the other hand, "Hire an author to write a novel that..." is too resource-intensive.
+The Center for Applied Rationality potentially has resources that can "build a simple computer game" or "come up with specific exercises along general pattern X", or even remote workers who can "research large numbers of trivia questions with known answers to use as tests". Suggestions of this type will have to look good in advance to be tested, since testing them requires resources, but shouldn't be eliminated from consideration. On the other hand, "Hire an author to write a novel that…" is too resource-intensive.
 
 Suggestions that are intended to be performed at local Less Wrong meetups, rather than CfAR units, will also be considered eligible for prizes - $50 for a suggestion good enough to be tested, an additional $500 for a suggestion good enough to be adopted.
 

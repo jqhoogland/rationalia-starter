@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:46.757Z'
 ---
+
 # Aumann's Agreement Theorem
 
 **Aumann's agreement theorem**, roughly speaking, says that two agents acting rationally (in a certain precise sense) and with [[Common Knowledge|common knowledge]] of each other's beliefs cannot agree to disagree. More specifically, if two people are genuine [[Bayesianism|Bayesians]], share common [[Priors|priors]], and have common knowledge of each other's current probability assignments, then they must have equal probability assignments.
 
-_Related tags and wikis:_ [[Disagreement]], [[Humility|Modesty]], [[Modesty Argument|Modesty argument]], [[Aumann Agreement|Aumann agreement]], [[The Aumann Game]]
+*Related tags and wikis:* [[Disagreement]], [[Humility|Modesty]], [[Modesty Argument|Modesty argument]], [[Aumann Agreement|Aumann agreement]], [[The Aumann Game]]
 
 ## Highlighted Posts
 
@@ -30,7 +31,7 @@ _Related tags and wikis:_ [[Disagreement]], [[Humility|Modesty]], [[Modesty Argu
 
 - [A write-up of the proof of Aumann's agreement theorem](https://web.archive.org/web/20110725162431/http://dl.dropbox.com:80/u/34639481/Aumann_agreement_theorem.pdf) (pdf) by Tyrrell McAllister
 
-## See also
+## See Also
 
 - [[Disagreement]]
 - [[Modesty Argument|Modesty argument]]

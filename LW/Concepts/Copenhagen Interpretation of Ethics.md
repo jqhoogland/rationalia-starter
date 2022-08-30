@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:17.896Z'
 ---
+
 # Copenhagen Interpretation of Ethics
 
 The **Copenhagen Interpretation of Ethics** says that when you interact with a problem in any way, you can be blamed for it.

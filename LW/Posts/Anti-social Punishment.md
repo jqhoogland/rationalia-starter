@@ -18,5 +18,5 @@ sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:17:54.009Z'
 ---
-# Anti-social Punishment
 
+# Anti-social Punishment

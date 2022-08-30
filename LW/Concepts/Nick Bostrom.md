@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:40.287Z'
 ---
+
 # Nick Bostrom
 
 **Nick Bostrom** is a philosopher at the University of Oxford, director of the [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] (FHI), the main academic institution on that field. As a director he coordinates and conducts researches on crucial points to the progress and future of humanity. Among those crucial points are: [[Artificial General Intelligence]] (AGI), [[Existential Risk|Existential risk]], [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]] and [[Whole Brain Emulation|Whole brain emulation]]. He has personally raised more than 13 million dollars on research grants, awards and donations.
@@ -25,12 +26,12 @@ Bostrom has a BA in Philosophy, Mathematics, Mathematical Logic and in Artificia
 
 Later, the kind of reasoning developed in his thesis lead to many other insights, such as the [[Simulation Argument]], demonstrating that there is a considerable chance that we are living inside a computer simulation.
 
-## Blog posts
+## Blog Posts
 
 - [The Anthropic Trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/)
 - [Transcription and Summary of Nick Bostrom's Q&A](http://lesswrong.com/lw/8h1/transcription_and_summary_of_nick_bostroms_qa/)
 
-## External links
+## External Links
 
 - [Nick Bostrom's Home Page](http://www.nickbostrom.com/)
 - [Future of Humanity Institute's Home Page](http://www.fhi.ox.ac.uk/)

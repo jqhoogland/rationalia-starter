@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:50.615Z'
 ---
+
 # Counterfactual Mugging
 
 **Counterfactual mugging** is a thought experiment for testing and differentiating [[Decision Theory|decision theories]], stated as follows:
@@ -40,7 +41,7 @@ The [Counterfactual Mugging Poker Game](https://www.lesswrong.com/posts/g3PwPgcd
 
 In [Two Types of Updatelessness](https://www.lesswrong.com/posts/pneKTZG9KqnSe2RdQ/two-types-of-updatelessness), makes a distinction between all-upside updatelessness and mixed-upside updatelessness. In all-upside case, utilising an updateless decision theory provides a better result in the current situation, while in a mixed-upside case the benefits go to other possible selves. Unlike [[Newcomb's Problem]] or [[Parfit's Hitchhiker|Parfait's Hitchhiker]], Counterfactual Mugging is a mixed-upside case.
 
-## Blog posts
+## Blog Posts
 
 - [Counterfactual Mugging](http://lesswrong.com/lw/3l/counterfactual_mugging/) by [Vladimir Nesov](https://wiki.lesswrong.com/wiki/Vladimir_Nesov)
 - [Timeless Decision Theory: Problems I Can't Solve](http://lesswrong.com/lw/135/timeless_decision_theory_problems_i_cant_solve/) by [[Eliezer Yudkowsky]]
@@ -48,12 +49,12 @@ In [Two Types of Updatelessness](https://www.lesswrong.com/posts/pneKTZG9KqnSe2R
 - [The sin of updating when you can change whether you exist](http://lesswrong.com/lw/jrm/the_sin_of_updating_when_you_can_change_whether/) by Benya Fallenstein
 - [Counterfactual Mugging: Why should you Pay?](https://www.lesswrong.com/posts/h9qQQA3g8dwq6RRTo/counterfactual-mugging-why-should-you-pay)\- Question by Chris Leong
 
-## External links
+## External Links
 
 - [Conterfactual Blackmail (of oneself)](http://ordinaryideas.wordpress.com/2011/12/31/counterfactual-blackmail-of-oneself/) by [Paul F. Christiano](http://lesswrong.com/user/paulfchristiano)
 - [Thoughts on Updatelessness](https://casparoesterheld.com/2016/11/21/thoughts-on-updatelessnes/) by Caspar Oesterheld
 
-## See also
+## See Also
 
 - [[Decision Theory|Decision theory]]
 - [[Acausal Trade|Acausal trade]]

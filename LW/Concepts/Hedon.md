@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:13.071Z'
 ---
+
 # Hedon
 
 The unit philosophers use to quantify pleasure. Hedons are abstract units with no standardized metric: the assignment of hedons to experiences is typically very broad, loose, subjective, and case dependent. Negative hedons can stand for whatever detracts from a pleasurable experience, or for pain -- though sometimes the unit used for pain is the "dolor".
@@ -22,7 +23,7 @@ For example, we might say that eating an ice cream cone yields 3 hedons to a nor
 
 - [Not for the Sake of Happiness (Alone)](http://lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/)
 
-## See also
+## See Also
 
 - [[Utilitarianism]], [[Hedonism]]
 - [[Fuzzies]], [Utils](https://wiki.lesswrong.com/wiki/Utils)

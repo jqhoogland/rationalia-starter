@@ -16,5 +16,5 @@ sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
 synchedAt: '2022-08-30T08:17:43.931Z'
 ---
-# Chapter 36: Status Differentials
 
+# Chapter 36: Status Differentials

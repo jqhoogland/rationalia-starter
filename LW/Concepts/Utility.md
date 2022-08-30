@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:25.073Z'
 ---
+
 # Utility
 
 **Utility** is how much a certain outcome satisfies an agent’s preferences. Its unit – the **util** or **utilon** – is an abstract arbitrary measure that assumes a concrete value only when the agent’s preferences have been determined through a [[Utility Functions|utility function]].

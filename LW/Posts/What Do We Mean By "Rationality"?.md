@@ -13,5 +13,5 @@ sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:55.496Z'
 ---
-# What do we mean by "Rationality"?
 
+# What Do We Mean by "Rationality"?

@@ -16,5 +16,5 @@ sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.040Z'
 ---
-# Chapter 73: SA, The Sacred and the Mundane, Pt 8
 
+# Chapter 73: SA, The Sacred and the Mundane, Pt 8

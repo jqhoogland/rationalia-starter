@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.938Z'
 ---
+
 # Intuition
 
 **Intuition** is the ability to acquire knowledge without recourse to conscious reasoning. Also relevant are **Intuition Pumps**, a thought experiment, a model, or anything else, that's structured to allow the thinker to use their intuition to develop an answer to a problem. 

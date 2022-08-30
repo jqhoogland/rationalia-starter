@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:24.908Z'
 ---
+
 # Goodhart's Law
 
 **Goodhart's Law** states that when a proxy for some value becomes the target of optimization pressure, the proxy will cease to be a good proxy. One form of Goodhart is demonstrated by the Soviet story of a factory graded on how many shoes they produced (a good proxy for productivity) – they soon began producing a higher number of tiny shoes. Useless, but the numbers look good.

@@ -16,5 +16,5 @@ sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.810Z'
 ---
-# Shah and Yudkowsky on alignment failures
 
+# Shah and Yudkowsky on Alignment Failures

@@ -10,6 +10,7 @@ aliases:
   - Seeing with Fresh Eyes
 synchedAt: '2022-08-29T17:16:42.148Z'
 ---
+
 # Seeing with Fresh Eyes
 
 On the challenge of recognizing evidence that doesn’t fit our expectations and assumptions.

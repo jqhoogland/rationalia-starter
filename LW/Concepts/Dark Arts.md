@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:02.915Z'
 ---
+
 # Dark Arts
 
 **Dark Arts** is a colloquial term for techniques or methods which involve deception and/or manipulation of others or oneself into believing things for non-truth-seeking reasons. These techniques may prey on human cognitive biases.
@@ -19,12 +20,12 @@ Some use the term to refer more narrowly to techniques that work equally well to
 An example from the [[Dark Arts of Rationality]]:
 
 > Today, we're going to talk about Dark rationalist techniques: productivity tools which seem incoherent, mad, and downright irrational. These techniques include:
-> 
-> 1.  Willful Inconsistency
-> 2.  Intentional Compartmentalization
-> 3.  Modifying Terminal Goals
+>
+> 1. Willful Inconsistency
+> 2. Intentional Compartmentalization
+> 3. Modifying Terminal Goals
 
-## Art vs. Technology
+## Art Vs. Technology
 
 Sometimes these arts are further augmented by the use of **persuasion technology**, such as broadcast advertising or PowerPoint slides. Persuasion technology may prevent the person who is being targeted from carefully deliberating on the intended message, or thinking up an effective response to it in real time.
 

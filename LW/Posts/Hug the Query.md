@@ -15,5 +15,5 @@ sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:54.747Z'
 ---
-# Hug the Query
 
+# Hug the Query

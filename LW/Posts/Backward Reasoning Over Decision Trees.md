@@ -16,5 +16,5 @@ sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:42.818Z'
 ---
-# Backward Reasoning Over Decision Trees
 
+# Backward Reasoning Over Decision Trees

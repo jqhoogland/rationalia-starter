@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:23.851Z'
 ---
+
 # Moral Uncertainty
 
 **Moral uncertainty** (or **normative uncertainty**) is uncertainty about what we ought, morally, to do given the diversity of moral doctrines. For example, suppose that we knew for certain that new technology would enable more humans to live on another planet with slightly less well-being than on Earth[^1^](https://www.lesswrong.com/tag/moral-uncertainty#fn1). An average [[Utilitarianism|utilitarian]] would consider these consequences bad, while a total utilitarian would endorse such technology. If we are uncertain about which of these two theories are right, what should we do?
@@ -22,7 +23,7 @@ One approach is to follow only the most probable theory. This has its own proble
 
 Even with a high degree of moral uncertainty and a wide range of possible moral theories, there are still certain actions that seem highly valuable in any theory. Bostrom argues that [[Existential Risk|Existential risk]] reduction is among them, showing that it is not only the most important task given most versions of consequentialism but highly recommended by many of the other widely acceptable moral theories[^3^](https://www.lesswrong.com/tag/moral-uncertainty#fn3).
 
-## External links
+## External Links
 
 - [Moral uncertainty — towards a solution?](http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html)
 
@@ -30,7 +31,7 @@ Even with a high degree of moral uncertainty and a wide range of possible moral 
 
 - [Moral uncertainty](https://www.lesswrong.com/s/4NFwxwzLzpiikfkk3)
 
-## See also
+## See Also
 
 - [[Expected Utility|Expected utility]]
 - [[Value Learning|Value learning]]
@@ -38,6 +39,6 @@ Even with a high degree of moral uncertainty and a wide range of possible moral 
 
 ## References
 
-1.  Crouch, William. (2010) “Moral Uncertainty and Intertheoretic Comparisons of Value” BPhil Thesis, 2010. p. 6. Available at: [http://oxford.academia.edu/WilliamCrouch/Papers/873903/Moral\_Uncertainty\_and\_Intertheoretic\_Comparisons\_of\_Value](http://oxford.academia.edu/WilliamCrouch/Papers/873903/Moral_Uncertainty_and_Intertheoretic_Comparisons_of_Value)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref1)
-2.  Sepielli, Andrew. (2008) “Moral Uncertainty and the Principle of Equity among Moral Theories". ISUS-X, Tenth Conference of the International Society for Utilitarian Studies, Kadish Center for Morality, Law and Public Affairs, UC Berkeley. Available at: [http://escholarship.org/uc/item/7h5852rr.pdf](http://escholarship.org/uc/item/7h5852rr.pdf)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref2)
-3.  Bostrom, Nick. (2012) "Existential Risk Reduction as the Most Important Task for Humanity" Global Policy, forthcoming, 2012. p. 22. Available at: [http://www.existential-risk.org/concept.pdf](http://www.existential-risk.org/concept.pdf)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref3)
+1. Crouch, William. (2010) “Moral Uncertainty and Intertheoretic Comparisons of Value” BPhil Thesis, 2010. p. 6. Available at: [http://oxford.academia.edu/WilliamCrouch/Papers/873903/Moral\_Uncertainty\_and\_Intertheoretic\_Comparisons\_of\_Value](http://oxford.academia.edu/WilliamCrouch/Papers/873903/Moral_Uncertainty_and_Intertheoretic_Comparisons_of_Value)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref1)
+2. Sepielli, Andrew. (2008) “Moral Uncertainty and the Principle of Equity among Moral Theories". ISUS-X, Tenth Conference of the International Society for Utilitarian Studies, Kadish Center for Morality, Law and Public Affairs, UC Berkeley. Available at: [http://escholarship.org/uc/item/7h5852rr.pdf](http://escholarship.org/uc/item/7h5852rr.pdf)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref2)
+3. Bostrom, Nick. (2012) "Existential Risk Reduction as the Most Important Task for Humanity" Global Policy, forthcoming, 2012. p. 22. Available at: [http://www.existential-risk.org/concept.pdf](http://www.existential-risk.org/concept.pdf)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref3)

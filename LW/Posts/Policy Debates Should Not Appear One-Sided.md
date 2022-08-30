@@ -13,5 +13,5 @@ sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:58.687Z'
 ---
-# Policy Debates Should Not Appear One-Sided
 
+# Policy Debates Should Not Appear One-Sided

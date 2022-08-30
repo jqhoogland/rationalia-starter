@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:30.166Z'
 ---
+
 # Meta-Humor
 
 **Meta-Humor** is the analysis of what makes things funny, and the roles humor plays in sociology and cognition.

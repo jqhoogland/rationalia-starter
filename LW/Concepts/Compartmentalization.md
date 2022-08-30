@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:14.910Z'
 ---
+
 # Compartmentalization
 
 **Compartmentalization** is keeping information and processes within your mind segregated, especially in ways that keep knowledge possessed by some of your reasoning processes being accessed by other processes.
@@ -18,7 +19,7 @@ From an alternative angle, one can think of compartmentalizing one's different a
 
 One might even have excellent epistemological performance in one domain and terrible performance in others.
 
-## See also
+## See Also
 
 - [[Semantic Stopsign|Semantic stopsign]], [[Anti-Epistemology|Anti-epistemology]]
 - [[Cached Thoughts|Cached thought]]

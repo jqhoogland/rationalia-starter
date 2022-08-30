@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:59.071Z'
 ---
+
 # Prisoner's Dilemma
 
 The **Prisoner's Dilemma** is a well-studied game in [[Game Theory|game theory]], where supposedly rational incentive following leads to both players stabbing each other in the back and being worse off than if they had cooperated.
@@ -32,11 +33,11 @@ Notice that it's only if you treat the other player's decision as completely ind
 
 A popular variant is the Iterated Prisoner's Dilemma, where two agents play the Prisoner's Dilemma against each other a number of times in a row. A simple and successful strategy is called Tit for Tat - cooperate on the first round, then on subsequent rounds do whatever your opponent did on the last round.
 
-## External links
+## External Links
 
 - [Prisoner's dilemma](http://plato.stanford.edu/entries/prisoner-dilemma/) (Stanford Encyclopedia of Philosophy)
 
-## See also
+## See Also
 
 - [Game theory](https://wiki.lesswrong.com/wiki/Game_theory)
 - [Decision theory](https://wiki.lesswrong.com/wiki/Decision_theory)
@@ -46,7 +47,7 @@ A popular variant is the Iterated Prisoner's Dilemma, where two agents play the 
 - [Smoking lesion](https://wiki.lesswrong.com/wiki/Smoking_lesion)
 - [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
 - [Pascal's mugging](https://wiki.lesswrong.com/wiki/Pascal%27s_mugging)
-- [[Coordination / Cooperation|Coordination/Cooperation]]
+- [[ Cooperation|Coordination/Cooperation]]
 
 ## References
 

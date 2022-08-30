@@ -13,11 +13,9 @@ synchedAt: '2022-08-29T17:16:42.154Z'
 
 # Community and Cooperation
 
-
 ## Chapters
 
 ### Community and Cooperation
-
 
 - [In Favor of Niceness, Community, and Civilization](https://www.lesswrong.com/s/xmDeR64CivZiTAcLx/p/rkpDX7j7va6c8Q7cZ)
 - [Guided By The Beauty Of Our Weapons](https://www.lesswrong.com/s/xmDeR64CivZiTAcLx/p/qajfiXo5qRThZQG7s)
@@ -26,5 +24,6 @@ synchedAt: '2022-08-29T17:16:42.154Z'
 - [Meditations On Moloch](https://www.lesswrong.com/s/xmDeR64CivZiTAcLx/p/TxcRbCYHaeL59aY7E)
 
 ### Interlude
+
 - [Five Planets In Search Of A Sci-Fi Story](https://www.lesswrong.com/s/xmDeR64CivZiTAcLx/p/ouSpHCCPgsXkwxAGb)
 - [It Was You Who Made My Blue Eyes Blue](https://www.lesswrong.com/s/xmDeR64CivZiTAcLx/p/qaHHJ3kkCQS4nsoGJ)

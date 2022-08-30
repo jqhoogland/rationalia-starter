@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:16.589Z'
 ---
+
 # Futility of Chaos
 
 A complex of related ideas having to do with the **impossibility of generating useful work from entropy** — a position which holds **against** the ideas that e.g:
@@ -18,7 +19,7 @@ A complex of related ideas having to do with the **impossibility of generating u
 - Randomized algorithms can exhibit performance inherently superior to deterministic algorithms;
 - The human brain is a chaotic system and this explains its power; non-chaotic systems cannot exhibit intelligence.
 
-## Blog posts
+## Blog Posts
 
 - [Chaotic Inversion](http://lesswrong.com/lw/wb/chaotic_inversion/)
 - [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)
@@ -34,7 +35,7 @@ A complex of related ideas having to do with the **impossibility of generating u
 - [Failure by Affective Analogy](http://lesswrong.com/lw/vy/failure_by_affective_analogy/)
 - [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
 
-## See also
+## See Also
 
 - [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
 - [[Reductionism]]

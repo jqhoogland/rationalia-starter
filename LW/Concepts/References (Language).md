@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:11.151Z'
 ---
+
 # References (Language)
 
 One of the basic functions of language is referring to entities. This tag is for posting delving into the nature of what this is.

@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:59.251Z'
 ---
-# War
 
+# War

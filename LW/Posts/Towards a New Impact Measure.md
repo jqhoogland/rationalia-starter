@@ -15,5 +15,5 @@ sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.304Z'
 ---
-# Towards a New Impact Measure
 
+# Towards a New Impact Measure

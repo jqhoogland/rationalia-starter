@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:11.883Z'
 ---
+
 # Observation Selection Effect
 
 In statistics, a selection effect exists when some property of a thing is correlated with its being sampled. The classic example is a phone poll, which necessarily only reaches people who have phones. If only wealthy people have phones, then being wealthy is correlated with ever being polled in the first place. Thus the opinions of wealthy people will be overrepresented.
@@ -28,19 +29,19 @@ Such assumptions are needed to determine how we choose between theories predicti
 
 One approach to anthropic reasoning that has [sometimes](http://lesswrong.com/lw/175/torture_vs_dust_vs_the_presumptuous_philosopher/) [been](http://lesswrong.com/lw/32o/if_a_tree_falls_on_sleeping_beauty/) [attempted](http://arxiv.org/abs/1110.6437) is to derive the right principles from [[Decision Theory|decision theory]].
 
-## Blog posts
+## Blog Posts
 
 - [Outlawing anthropics: an updateless dilemma](http://lesswrong.com/lw/17c/anthropic_updatelessness/)
 - [The anthropic trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/)
 - [[Anthropic|Posts tagged "anthropic"]]
 
-## External links
+## External Links
 
 - [Nick Bostrom's book *Anthropic Bias*](http://www.anthropic-principle.com/book/book.html)
 - [A primer on the anthropic principle](http://www.anthropic-principle.com/primer.html)
 - [Anthropic reasoning in the great filter](http://meteuphoric.wordpress.com/2010/11/02/anthropic-principles-agree-on-bigger-future-filters/)
 
-## See also
+## See Also
 
 - [[Doomsday Argument|Doomsday argument]]
 - [[Great Filter]]

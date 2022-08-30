@@ -17,5 +17,5 @@ sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.149Z'
 ---
-# Trivers on Self-Deception
 
+# Trivers on Self-Deception

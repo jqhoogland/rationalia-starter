@@ -10,15 +10,16 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:10:05.580Z'
 ---
+
 # Policy Debates Should Not Appear One-Sided
 
 Almost any course of action has both costs and benefits: optimizing for one value means trading off another. To show both faces of the issue, **policy debates shouldn't appear one-sided**.
 
-## Blog posts
+## Blog Posts
 
 - [Policy Debates Should Not Appear One-Sided](http://lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)
 
-## See also
+## See Also
 
 - [[Preference]]
 - [[Shut Up and Multiply|Shut up and multiply]]

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:29.246Z'
 ---
+
 # Orthogonality Thesis
 
 The **Orthogonality Thesis** states that an agent can have any combination of intelligence level and final goal, that is, its [[Utility Functions|final goals]] and [[General Intelligence|intelligence levels]] can vary independently of each other. This is in contrast to the belief that, because of their intelligence, AIs will all converge to a common goal.
@@ -18,7 +19,7 @@ The thesis was originally defined by [Nick Bostrom](https://lessestwrong.com/tag
 
 *Related:* *[[Complexity of Value|Complexity of Value]]**,* *[[Decision Theory|Decision Theory]]**,* *[[General Intelligence|General Intelligence]]**,* *[[Utility Functions|Utility Functions]]*
 
-## Defense of the thesis
+## Defense of the Thesis
 
 It has been pointed out that the orthogonality thesis is the default position, and that the burden of proof is on claims that limit possible AIs. Stuart Armstrong writes that,
 
@@ -32,7 +33,7 @@ There are some pairings of intelligence and goals which cannot exist. For instan
 
 - [Instrumental Convergence](https://lessestwrong.com/tag/instrumental-convergence)
 
-## External links
+## External Links
 
 - Definition of the orthogonality thesis from Bostrom's [Superintelligent Will](http://www.nickbostrom.com/superintelligentwill.pdf)
 - [Arbital orthogonality thesis article ](https://arbital.com/p/orthogonality/)

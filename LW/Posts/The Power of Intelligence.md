@@ -17,5 +17,5 @@ sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:36.986Z'
 ---
-# The Power of Intelligence
 
+# The Power of Intelligence

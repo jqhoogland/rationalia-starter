@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:23.134Z'
 ---
+
 # General Intelligence
 
 **General Intelligence** or **Universal Intelligence** is the ability to efficiently achieve goals in a wide range of domains. 
@@ -32,9 +33,9 @@ We can relate Legg and Hutter's definition with the concept of [optimization](ht
 
 One could cast this definition in a possible world vocabulary, intelligence is:
 
-1.  the ability to precisely realize one of the members of a small set of possible future worlds that have a higher preference over the vast set of all other possible worlds with lower preference; while
-2.  using fewer resources than the other alternatives paths for getting there; and in the
-3.  most diverse domains as possible.
+1. the ability to precisely realize one of the members of a small set of possible future worlds that have a higher preference over the vast set of all other possible worlds with lower preference; while
+2. using fewer resources than the other alternatives paths for getting there; and in the
+3. most diverse domains as possible.
 
 How many more worlds have a higher preference then the one realized by the agent, less intelligent he is. How many more worlds have a lower preference than the one realized by the agent, more intelligent he is. (Or: How much smaller is the set of worlds at least as preferable as the one realized, more intelligent the agent is). How much less paths for realizing the desired world using fewer resources than those spent by the agent, more intelligent he is. And finally, in how many more domains the agent can be more efficiently optimal, more intelligent he is. Restating it, the intelligence of an agent is directly proportional to:
 
@@ -57,10 +58,13 @@ This definition avoids several problems common in many others definitions, espec
 - [Rationality](https://lessestwrong.com/tag/rationality)
 - [Legg and Hutter paper “Universal Intelligence: A Deﬁnition of Machine Intelligence”](http://arxiv.org/pdf/0712.3329.pdf)
 
-1.  ^**[^](#fnrefosnb04qur8)**^
-    
-    http://arxiv.org/pdf/0712.3329.pdf
-    
-2.  ^**[^](#fnref7hbpdfpe6x3)**^
-    
-    http://intelligence.org/files/IE-EI.pdf
+1. ^**[^](#fnrefosnb04qur8)**^
+
+
+    <http://arxiv.org/pdf/0712.3329.pdf>
+
+
+2. ^**[^](#fnref7hbpdfpe6x3)**^
+
+
+    <http://intelligence.org/files/IE-EI.pdf>

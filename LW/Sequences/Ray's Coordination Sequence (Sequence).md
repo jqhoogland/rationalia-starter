@@ -10,6 +10,7 @@ aliases:
   - Ray's Coordination Sequence
 synchedAt: '2022-08-29T17:16:42.691Z'
 ---
+
 # Ray's Coordination Sequence
 
 These are posts that feel important to me for coordinating in the real world. It includes some game theory posts by various authors, as well as some fuzzier posts about how to navigate disagreement.

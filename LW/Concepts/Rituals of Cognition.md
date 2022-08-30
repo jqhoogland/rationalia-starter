@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:22.918Z'
 ---
+
 # Rituals of Cognition
 
 **Rituals of Cognition**: a procedure, formal or informal, for arriving at some belief - when that procedure becomes valued for its own sake rather than as an instrument in arriving at "correct" (i.e. [winning](https://wiki.lesswrong.com/wiki/winning)) determinations.

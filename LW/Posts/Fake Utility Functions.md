@@ -16,5 +16,5 @@ sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.526Z'
 ---
-# Fake Utility Functions
 
+# Fake Utility Functions

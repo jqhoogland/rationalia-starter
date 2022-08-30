@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:58.554Z'
 ---
+
 # Q&A (format)
 
 Posts in the format of **Question and Answers (Q&A)**, usually on some specific topic.

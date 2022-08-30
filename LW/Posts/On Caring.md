@@ -17,5 +17,5 @@ sequence: Why We Fight
 chapter: null
 synchedAt: '2022-08-30T08:16:33.485Z'
 ---
-# On Caring
 
+# On Caring

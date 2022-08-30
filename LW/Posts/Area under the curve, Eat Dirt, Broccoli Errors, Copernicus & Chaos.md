@@ -17,5 +17,5 @@ sequence: CFAR Handbook
 chapter: Flash Classes
 synchedAt: '2022-08-30T08:16:32.016Z'
 ---
-# Area under the curve, Eat Dirt, Broccoli Errors, Copernicus & Chaos
 
+# Area Under the Curve, Eat Dirt, Broccoli Errors, Copernicus & Chaos

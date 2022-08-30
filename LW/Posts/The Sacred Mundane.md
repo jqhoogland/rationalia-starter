@@ -15,5 +15,5 @@ sequence: Joy in the Merely Real
 chapter: null
 synchedAt: '2022-08-30T08:17:35.162Z'
 ---
-# The Sacred Mundane
 
+# The Sacred Mundane

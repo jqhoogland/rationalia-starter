@@ -16,5 +16,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.864Z'
 ---
-# On learning difficult things
 
+# On Learning Difficult Things

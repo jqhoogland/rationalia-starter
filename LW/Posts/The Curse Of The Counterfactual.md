@@ -22,5 +22,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.528Z'
 ---
-# The Curse Of The Counterfactual
 
+# The Curse Of The Counterfactual

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:16.445Z'
 ---
+
 # Occam's Razor
 
 **Occam's razor** (more formally referred to as the principle of parsimony) is a principle commonly stated as "Entities must not be multiplied beyond necessity". When several theories are able to explain the same observations, Occam's razor suggests the simpler one is preferable. It must be noted that Occam's razor is a requirement for the simplicity of *theories*, not for the size of the systems described by those theories. For example, the immensity of the Universe isn't at odds with the principle of Occam's razor.

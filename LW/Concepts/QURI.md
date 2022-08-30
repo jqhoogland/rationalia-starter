@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:27.677Z'
 ---
+
 # QURI
 
 The **Quantified Uncertainty Research Institute (QURI)** is a nonprofit set up to study forecasting and epistemics. You can see their website [here](https://quantifieduncertainty.org/). 

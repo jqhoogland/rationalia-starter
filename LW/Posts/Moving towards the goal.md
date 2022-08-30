@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: Related
 synchedAt: '2022-08-30T08:16:33.526Z'
 ---
-# Moving towards the goal
 
+# Moving Towards the Goal

@@ -17,5 +17,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.184Z'
 ---
-# Gears-Level Models are Capital Investments
 
+# Gears-Level Models Are Capital Investments

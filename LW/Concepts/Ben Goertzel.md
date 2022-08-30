@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:27.294Z'
 ---
+
 # Ben Goertzel
 
 **Ben Goertzel** is the Chairman at the AGI company Novamente, and founder of the AGI conference series.
@@ -18,7 +19,7 @@ Goertzel held the title of "Director of Research" at the [[Machine Intelligence 
 
 Goertzel has responded to [[Eliezer Yudkowsky]]'s [[Coherent Extrapolated Volition]] with his own variation of the idea, [[Coherent Aggregated Volition]].
 
-## Blog posts
+## Blog Posts
 
 - [The Singularity Institute's Scary Idea (and Why I Don't Buy It)](http://lesswrong.com/lw/2zg/ben_goertzel_the_singularity_institutes_scary/)
 - [What Would It Take to Move Rapidly Toward Beneficial Human-Level AGI?](http://lesswrong.com/lw/2uy/ben_goertzel_what_would_it_take_to_move_rapidly/)
@@ -33,7 +34,7 @@ Goertzel has responded to [[Eliezer Yudkowsky]]'s [[Coherent Extrapolated Voliti
 - [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.
 - [OpenCog](http://en.wikipedia.org/wiki/OpenCog) on Wikipedia.
 
-## See also
+## See Also
 
 - [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]]
 - [[Coherent Aggregated Volition]]

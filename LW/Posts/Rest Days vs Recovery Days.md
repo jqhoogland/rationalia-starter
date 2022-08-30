@@ -18,5 +18,5 @@ sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.578Z'
 ---
-# Rest Days vs Recovery Days
 
+# Rest Days Vs Recovery Days

@@ -16,5 +16,5 @@ sequence: CFAR Handbook
 chapter: Getting Started
 synchedAt: '2022-08-30T08:16:31.476Z'
 ---
-# Building a Bugs List prompts
 
+# Building a Bugs List Prompts

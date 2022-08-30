@@ -10,6 +10,7 @@ aliases:
   - Trust
 synchedAt: '2022-08-29T17:16:36.971Z'
 ---
+
 # Trust
 
 The first book is about trust, the belief in something in the absence of understanding.

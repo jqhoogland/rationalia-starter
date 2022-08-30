@@ -10,6 +10,7 @@ aliases:
   - 2022 MIRI Alignment Discussion
 synchedAt: '2022-08-29T17:16:40.348Z'
 ---
+
 # 2022 MIRI Alignment Discussion
 
 A collection of MIRI write-ups and conversations about alignment released in 2022, following the [[2021 MIRI Conversations|Late 2021 MIRI Conversations]].

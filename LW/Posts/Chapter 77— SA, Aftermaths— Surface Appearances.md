@@ -16,5 +16,5 @@ sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.156Z'
 ---
-# Chapter 77: SA, Aftermaths: Surface Appearances
 
+# Chapter 77: SA, Aftermaths: Surface Appearances

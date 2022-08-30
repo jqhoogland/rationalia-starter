@@ -10,6 +10,7 @@ aliases:
   - Alignment
 synchedAt: '2022-08-29T17:16:42.690Z'
 ---
+
 # Alignment
 
 This fifth book is about alignment, the problem of aligning the thoughts and goals of artificial intelligences with those of humans.

@@ -14,5 +14,5 @@ sequence: Replacing Guilt
 chapter: Fighting for something
 synchedAt: '2022-08-30T08:16:32.557Z'
 ---
-# Replacing guilt
 
+# Replacing Guilt

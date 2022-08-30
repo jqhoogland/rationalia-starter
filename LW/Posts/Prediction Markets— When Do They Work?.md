@@ -16,5 +16,5 @@ sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.565Z'
 ---
-# Prediction Markets: When Do They Work?
 
+# Prediction Markets: When Do They Work?

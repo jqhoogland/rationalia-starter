@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:17.146Z'
 ---
+
 # Exercise (Physical)
 
 Can one single intervention make you live around 5 minutes longer for every minute invested, change how you look, and allow you to perform physical feats that you would have thought impossible? Yes, and it's high-intensity strength training.

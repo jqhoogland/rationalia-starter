@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:29.359Z'
 ---
+
 # Tradeoffs
 
 **Tradeoffs** are decisions with both benefits and pitfalls. In practice, most decisions are tradeoffs, because they come at the expense of time that could be spent on other activities.

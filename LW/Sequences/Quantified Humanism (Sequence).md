@@ -10,6 +10,7 @@ aliases:
   - Quantified Humanism
 synchedAt: '2022-08-29T17:16:41.105Z'
 ---
+
 # Quantified Humanism
 
 On the tricky question of how we should apply such theories to our ordinary moral intuitions and decision-making.
@@ -25,10 +26,9 @@ On the tricky question of how we should apply such theories to our ordinary mora
 - [[The "Intuitions" Behind "Utilitarianism"]]
 - [[Ends Don't Justify Means (Among Humans)]]
 - [[Ethical Injunctions]]
-- [[Something to Protect]]
+- [[Something to Protect (Post)]]
 - [[When (Not) To Use Probabilities]]
 - [[Newcomb's Problem and Regret of Rationality]]
-
 
 ### Interlude
 

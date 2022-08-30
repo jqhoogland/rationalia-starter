@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:14.684Z'
 ---
+
 # AI Alignment Fieldbuilding
 
 **AI Alignment Fieldbuilding** is the effort to improve the alignment ecosystem. Some priorities include introducing new people to the importance of AI risk, on-boarding them by connecting them with key resources and ideas, educating them on existing literature and methods for generating new and valuable research, supporting people who are contributing, and maintaining and improving the funding systems.

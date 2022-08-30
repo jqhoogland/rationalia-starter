@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:18.038Z'
 ---
+
 # Myopia
 
 **Myopia** means short-sighted, particularly with respect to planning -- neglecting long-term consequences in favor of the short term. The extreme case, in which *only* immediate rewards are considered, is of particular interest. We can think of a myopic agent as one that only considers how best to answer the single question that you give to it rather than considering any sort of long-term consequences. Such an agent might have a number of desirable safety properties, such as a lack of [instrumental incentives](https://arbital.com/p/convergent_strategies/).

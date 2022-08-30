@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:09.488Z'
 ---
+
 # Intellectual Progress (Individual-Level)
 
 This tag is closely related to [[Scholarship & Learning]]. However, Scholarship & Learning covers learning existing material, almost to the exclusion of developing new ideas. The present tag is exclusively about developing new ideas (or at least new-to-you ideas which *could have been* new to the world, if someone else hadn't invented them yet).

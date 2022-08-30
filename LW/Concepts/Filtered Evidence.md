@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:13.402Z'
 ---
+
 # Filtered Evidence
 
 **Filtered evidence** is [evidence](https://lessestwrong.com/tag/evidence) that was selected for the fact that it supports (or opposes) a hypothesis. Filtered evidence may be highly misleading, but still it can be useful, if considered with care.
 
-## See also
+## See Also
 
 - [Conservation of expected evidence](https://lessestwrong.com/tag/conservation-of-expected-evidence)
 - [Rational evidence](https://lessestwrong.com/tag/rational-evidence), [Standard of evidence](https://lessestwrong.com/tag/standard-of-evidence), [Adversarial process](https://wiki.lesswrong.com/wiki/Adversarial_process)

@@ -12,5 +12,5 @@ sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:57.288Z'
 ---
-# The Proper Use of Humility
 
+# The Proper Use of Humility

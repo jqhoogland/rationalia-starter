@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:57.401Z'
 ---
+
 # Eric Drexler
 
 **Eric Drexler** is an American engineer best known for popularizing the potential of molecular nanotechnology, from the 1970s and 1980s. His 1991 doctoral thesis at MIT was revised and published as the book "Nanosystems Molecular Machinery Manufacturing and Computation" (1992). He also coined the term grey goo.

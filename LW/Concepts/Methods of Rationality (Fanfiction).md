@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:19.062Z'
 ---
+
 # Methods of Rationality (Fanfiction)
 
 [**Harry Potter and the Methods of Rationality**](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) is a fanfiction by "Less Wrong" (a pen name of [[Eliezer Yudkowsky]]) with a premise that the orphaned Harry Potter has been raised by a scientist stepfather and now has the equivalent rationalist skill of roughly an 18-year-old Eliezer or thereabouts, i.e., massively flawed but still pretty darned impressive. Naturally, the hero's challenges have been stepped up in difficulty as well.
@@ -20,7 +21,7 @@ TV Tropes page [here](http://tvtropes.org/pmwiki/pmwiki.php/FanFic/HarryPotterAn
 
 (This page also serves as a placeholder for subpages which can be linked to from fanfiction.net, so as to provide supplementary information.)
 
-## Blog posts
+## Blog Posts
 
 Discussion threads
 
@@ -30,7 +31,7 @@ Other
 
 - [FF.net review statistics](http://lesswrong.com/lw/fag/analyzing_ffnet_reviews_of_harry_potter_and_the/)
 
-## External links
+## External Links
 
 - [FanFiction.Net](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality) (primary source)
 - [hpmor.com mirror](http://hpmor.com/) (up-to-date)

@@ -18,5 +18,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.767Z'
 ---
-# Bets, Bonds, and Kindergarteners
 
+# Bets, Bonds, and Kindergarteners

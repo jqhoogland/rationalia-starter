@@ -20,5 +20,5 @@ sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.053Z'
 ---
-# A Sketch of Good Communication
 
+# A Sketch of Good Communication

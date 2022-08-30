@@ -17,5 +17,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.454Z'
 ---
-# Entropy, and Short Codes
 
+# Entropy, and Short Codes

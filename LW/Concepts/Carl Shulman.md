@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:20.008Z'
 ---
+
 # Carl Shulman
 
 **Carl Shulman** is a Research Fellow at the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] who has authored and co-authored several papers on AI risk, including:

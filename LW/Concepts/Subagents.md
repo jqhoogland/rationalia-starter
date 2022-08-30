@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:05.158Z'
 ---
+
 # Subagents
 
 **Subagents** refers to the idea that rather than thinking of the mind as an entity with one set of goals and beliefs, it includes many independently acting components, each of which might have varying goals and beliefs. One intuitive way of expressing this is the expression "one part of me wants X, but another part of me wants Y instead".

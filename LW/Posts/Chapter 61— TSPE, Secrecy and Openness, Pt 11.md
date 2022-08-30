@@ -16,5 +16,5 @@ sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:43.474Z'
 ---
-# Chapter 61: TSPE, Secrecy and Openness, Pt 11
 
+# Chapter 61: TSPE, Secrecy and Openness, Pt 11

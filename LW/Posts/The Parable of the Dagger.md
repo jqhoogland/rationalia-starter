@@ -16,5 +16,5 @@ sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:35.848Z'
 ---
-# The Parable of the Dagger
 
+# The Parable of the Dagger

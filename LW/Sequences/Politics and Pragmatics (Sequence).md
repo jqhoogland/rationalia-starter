@@ -13,7 +13,6 @@ synchedAt: '2022-08-29T17:16:42.154Z'
 
 # Politics and Pragmatics
 
-
 ## Chapters
 
 ### Politics and Pragmatics
@@ -24,5 +23,6 @@ synchedAt: '2022-08-29T17:16:42.154Z'
 - [Society Is Fixed, Biology Is Mutable](https://www.lesswrong.com/s/rNuPrZvabXe2MaZv8/p/2HafkDSNdtMzptzcN)
 
 ### Interlude
+
 - [A Philosopher Walks Into A Coffee Shop](https://www.lesswrong.com/s/rNuPrZvabXe2MaZv8/p/BPKvZuLRyiJBjfNbg)
 - [The Witching Hour](https://www.lesswrong.com/s/rNuPrZvabXe2MaZv8/p/8KHR3tfa4SJjMSkXd)

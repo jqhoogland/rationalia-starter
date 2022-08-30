@@ -16,5 +16,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.210Z'
 ---
-# The Amish, and Strategic Norms around Technology
 
+# The Amish, and Strategic Norms Around Technology

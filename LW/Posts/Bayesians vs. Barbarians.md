@@ -19,5 +19,5 @@ sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:55.130Z'
 ---
-# Bayesians vs. Barbarians
 
+# Bayesians Vs. Barbarians

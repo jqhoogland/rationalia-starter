@@ -23,5 +23,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.824Z'
 ---
-# Pain is not the unit of Effort
 
+# Pain is Not the Unit of Effort

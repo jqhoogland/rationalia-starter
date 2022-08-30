@@ -15,5 +15,5 @@ sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.403Z'
 ---
-# Faster Than Science
 
+# Faster Than Science

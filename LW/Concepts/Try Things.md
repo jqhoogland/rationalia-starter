@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:16.222Z'
 ---
+
 # Try Things
 
 **Try Things** is a mantra that reminds you to gather data about what works by experimentation. If a proposed intervention works and you learn that it works, you've just gained something that you'll be able to use over and over again. If it doesn't work, you've only had it not work *once*.

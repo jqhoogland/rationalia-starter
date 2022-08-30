@@ -13,5 +13,5 @@ sequence: Argument and Analysis
 chapter: null
 synchedAt: '2022-08-30T08:17:58.968Z'
 ---
-# Intellectual Hipsters and Meta-Contrarianism
 
+# Intellectual Hipsters and Meta-Contrarianism

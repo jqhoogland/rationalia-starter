@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:41.081Z'
 ---
+
 # Moore's Law
 
 **Moore's Law** is a term attributed to Intel founder Gordon E. Moore who observed in 1965 that the number of transistors that could be purchased inexpensively and placed on an integrated circuit doubles every year. In 1975, he revised his estimate to every two years. It is often discussed as a doubling every 18 months, but that is a separate claim by David House, Intel executive, of overall chip performance. Moore's law been approximately correct for four decades.

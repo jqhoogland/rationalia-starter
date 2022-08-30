@@ -10,19 +10,20 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:23.518Z'
 ---
+
 # Evolutionary Algorithm
 
 Within artificial intelligence, **evolutionary algorithms** refer to a set of programming methods that draw inspiration from concepts stemming from evolutionary biology. More specifically, they are algorithms capable of selecting the most appropriate solution (individual) from a large set (population) through the evaluation of its fitness (how well it adapts to the problem, the environment). Evolution thus takes place through the repetition of such selection.
 
 The most basic evolutionary algorithm structure is quite simple:
 
-1.  Create an initial population of solutions (usually at random)
-2.  Start iteration (each step is a generation)
-    1.  Select some pairs to be parents (selection)
-    2.  Combine pairs of parents to create offspring (recombination)
-    3.  Perform some mutation(s) on the offspring (mutation)
-    4.  Select some population members to be replaced by the new offspring based on their fitness to the environment (replacement)
-3.  Repeat
+1. Create an initial population of solutions (usually at random)
+2. Start iteration (each step is a generation)
+    1. Select some pairs to be parents (selection)
+    2. Combine pairs of parents to create offspring (recombination)
+    3. Perform some mutation(s) on the offspring (mutation)
+    4. Select some population members to be replaced by the new offspring based on their fitness to the environment (replacement)
+3. Repeat
 
 The use of this kind of programming has roots in the 1950s and has spread through many fields, from engineering, the financial market, chemistry, mathematics, and data mining. Nowadays there’s a great variety in evolutionary algorithms, ranging from simple genetic algorithms (seeking the solution through recombination or mutation) to neuroevolutionary algorithms (where the “genomes” are represented by artificial neural networks). They differ mainly in the amount of populations in use and the operators responsible for introducing change.
 

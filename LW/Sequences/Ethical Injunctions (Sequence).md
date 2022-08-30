@@ -10,9 +10,10 @@ aliases:
   - Ethical Injunctions
 synchedAt: '2022-08-29T17:16:42.554Z'
 ---
+
 # Ethical Injunctions
 
-**Ethical injunctions** are rules not to do something even when it's the right thing to do. (That is, you refrain "even when your brain has computed it's the right thing to do", but this will just _seem like_ "the right thing to do".)
+**Ethical injunctions** are rules not to do something even when it's the right thing to do. (That is, you refrain "even when your brain has computed it's the right thing to do", but this will just *seem like* "the right thing to do".)
 
 For example, you shouldn't rob banks even if you plan to give the money to a good cause.
 

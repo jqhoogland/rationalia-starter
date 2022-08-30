@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:38.107Z'
+aliases: 
+  - WBE 
 ---
+
 # Whole Brain Emulation
 
 **Whole Brain Emulation** or **WBE** is a proposed technique which involves transferring the information contained within a brain onto a computing substrate. The brain can then be simulated, creating a machine intelligence. The concept is often discussed in context of scanning the brain of a person, known as [Mind Uploading](https://www.lesswrong.com/tag/mind-uploading).
@@ -55,14 +58,14 @@ An emulated-brain populated world could hold severe negative consequences, such 
 
 ## References
 
-1.  [[Brain Emulation Roadmap|Whole Brain Emulation: A Roadmap]][↩](#fnref1)
-2.  Strout, J. Uploading by the Nanoreplacement Procedure. [http://www.ibiblio.org/jstrout/uploading/nanoreplacement.html](http://www.ibiblio.org/jstrout/uploading/nanoreplacement.html)[↩](#fnref2)
-3.  Sotala, K., & Valpola, H. (2012). Coalescing minds: brain uploading-related group mind scenarios. International Journal of Machine Consciousness, 4(01), 293-312. [http://singularity.org/files/CoalescingMinds.pdf](http://singularity.org/files/CoalescingMinds.pdf)[↩](#fnref3)
-4.  ROTHBLATT, M. (2012). THE TERASEM MIND UPLOADING EXPERIMENT. International Journal of Machine Consciousness, 4(01), 141-158. [http://www.terasemcentral.org/docs/Terasem%20Mind%20Uploading%20Experiment%20IJMC.pdf](http://www.terasemcentral.org/docs/Terasem%20Mind%20Uploading%20Experiment%20IJMC.pdf)[↩](#fnref4)
-5.  Sotala, K. (2012). Advantages of artificial intelligences, uploads, and digital minds. International Journal of Machine Consciousness, 4(01), 275-291. [http://singularity.org/files/AdvantagesOfAIs.pdf](http://singularity.org/files/AdvantagesOfAIs.pdf)[↩](#fnref5)
-6.  Hanson, R. (1994). If uploads come first. Extropy, 6(2), 10-15. [http://hanson.gmu.edu/uploads.html](http://hanson.gmu.edu/uploads.html)[↩](#fnref6)
-7.  LUCAS, John. (1961) Minds, machines, and Gödel, Philosophy, 36, pp. 112–127[↩](#fnref7)
-8.  DREYFUS, H. (1972) What Computers Can’t Do, New York: Harper & Row.[↩](#fnref8)
-9.  PENROSE, Roger (1994) Shadows of the Mind, Oxford: Oxford University Press.[↩](#fnref9)
-10.  BLOCK, Ned (1981) Psychologism and behaviorism, Philosophical Review, 90, pp. 5–43.[↩](#fnref10)
-11.  BOSTROM, Nick.(2004) "The future of human evolution". Death and Anti‐Death: Two Hundred Years After Kant, Fifty Years After Turing, ed. Charles Tandy (Ria University Press: Palo Alto, California, 2004): pp. 339‐371. Available at: [http://www.nickbostrom.com/fut/evolution.pdf](http://www.nickbostrom.com/fut/evolution.pdf)[↩](#fnref11)
+1. [[Brain Emulation Roadmap|Whole Brain Emulation: A Roadmap]][↩](#fnref1)
+2. Strout, J. Uploading by the Nanoreplacement Procedure. [http://www.ibiblio.org/jstrout/uploading/nanoreplacement.html](http://www.ibiblio.org/jstrout/uploading/nanoreplacement.html)[↩](#fnref2)
+3. Sotala, K., & Valpola, H. (2012). Coalescing minds: brain uploading-related group mind scenarios. International Journal of Machine Consciousness, 4(01), 293-312. [http://singularity.org/files/CoalescingMinds.pdf](http://singularity.org/files/CoalescingMinds.pdf)[↩](#fnref3)
+4. ROTHBLATT, M. (2012). THE TERASEM MIND UPLOADING EXPERIMENT. International Journal of Machine Consciousness, 4(01), 141-158. [http://www.terasemcentral.org/docs/Terasem%20Mind%20Uploading%20Experiment%20IJMC.pdf](http://www.terasemcentral.org/docs/Terasem%20Mind%20Uploading%20Experiment%20IJMC.pdf)[↩](#fnref4)
+5. Sotala, K. (2012). Advantages of artificial intelligences, uploads, and digital minds. International Journal of Machine Consciousness, 4(01), 275-291. [http://singularity.org/files/AdvantagesOfAIs.pdf](http://singularity.org/files/AdvantagesOfAIs.pdf)[↩](#fnref5)
+6. Hanson, R. (1994). If uploads come first. Extropy, 6(2), 10-15. [http://hanson.gmu.edu/uploads.html](http://hanson.gmu.edu/uploads.html)[↩](#fnref6)
+7. LUCAS, John. (1961) Minds, machines, and Gödel, Philosophy, 36, pp. 112–127[↩](#fnref7)
+8. DREYFUS, H. (1972) What Computers Can’t Do, New York: Harper & Row.[↩](#fnref8)
+9. PENROSE, Roger (1994) Shadows of the Mind, Oxford: Oxford University Press.[↩](#fnref9)
+10. BLOCK, Ned (1981) Psychologism and behaviorism, Philosophical Review, 90, pp. 5–43.[↩](#fnref10)
+11. BOSTROM, Nick.(2004) "The future of human evolution". Death and Anti‐Death: Two Hundred Years After Kant, Fifty Years After Turing, ed. Charles Tandy (Ria University Press: Palo Alto, California, 2004): pp. 339‐371. Available at: [http://www.nickbostrom.com/fut/evolution.pdf](http://www.nickbostrom.com/fut/evolution.pdf)[↩](#fnref11)

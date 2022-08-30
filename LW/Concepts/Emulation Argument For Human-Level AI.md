@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:15.325Z'
 ---
+
 # Emulation Argument For Human-Level AI
 
 The **Emulation argument for human-level** [**AI**](https://wiki.lesswrong.com/wiki/AGI) argues that since [[Whole Brain Emulation|whole brain emulation]] seems feasible then human-level [AI](https://wiki.lesswrong.com/wiki/AGI) must also be feasible. There are many underlying assumptions in the argument, most of them are explored by Chalmers (2010)[^1^](#fn1). Perhaps the most debated premise is holding that a brain emulation could have a consciousness mind or that consciousness isn’t fundamental to human intelligence. Chalmers [^2^](#fn2) formalized the argument as follows:”
@@ -21,4 +22,4 @@ The **Emulation argument for human-level** [**AI**](https://wiki.lesswrong.com/w
 
 ## References
 
-1.  CHALMERS, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65.[↩](#fnref1)
+1. CHALMERS, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65.[↩](#fnref1)

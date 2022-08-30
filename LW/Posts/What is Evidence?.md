@@ -12,5 +12,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:55.520Z'
 ---
-# What is evidence?
 
+# What is Evidence?

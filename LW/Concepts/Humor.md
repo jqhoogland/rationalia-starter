@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:26.473Z'
 ---
+
 # Humor
 
 **Humor**. This tag is a joke.

@@ -18,5 +18,5 @@ sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.537Z'
 ---
-# You Are Likely To Be Eaten By A Grue
 
+# You Are Likely To Be Eaten By A Grue

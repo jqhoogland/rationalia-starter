@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:55.496Z'
 ---
+
 # Lawful Intelligence
 
 The startling and counterintuitive notion - contradicting both surface appearances and all [Deep Wisdom](https://wiki.lesswrong.com/wiki/Deep_Wisdom) \- that intelligence is a manifestation of Order rather than Chaos. Even creativity and [outside-the-box thinking](https://wiki.lesswrong.com/wiki/outside_the_box) are essentially lawful.
 
 While this is a complete heresy according to the standard religion of Silicon Valley, there are some good mathematical reasons for believing it.
 
-## Blog posts
+## Blog Posts
 
 **Preliminaries:**
 
@@ -43,7 +44,7 @@ While this is a complete heresy according to the standard religion of Silicon Va
 - [Failure By Analogy](http://lesswrong.com/lw/vx/failure_by_analogy/) and [Failure By Affective Analogy](http://lesswrong.com/lw/vy/failure_by_affective_analogy/)
 - [Artificial Mysterious Intelligence](http://lesswrong.com/lw/wk/artificial_mysterious_intelligence/)
 
-## See also
+## See Also
 
 - [[Futility of Chaos|Futility of chaos]]
 - [[Universal Law|Universal law]]

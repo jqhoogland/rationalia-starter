@@ -11,6 +11,7 @@ tags:
 core: true
 synchedAt: '2022-08-29T11:04:13.713Z'
 ---
+
 # Site Meta
 
 **Site Meta** is the category for discussion about the AI Alignment Forum website. It includes technical updates. It applies to team announcements such as updates, features, events, moderation activity and policy, downtime, requests for feedback, as well as site documentation,  and the team’s writings about site philosophy/strategic thinking.

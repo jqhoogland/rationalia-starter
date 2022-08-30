@@ -18,5 +18,5 @@ sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.380Z'
 ---
-# Selection vs Control
 
+# Selection Vs Control

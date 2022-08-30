@@ -17,5 +17,5 @@ sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.294Z'
 ---
-# The Super Happy People (3/8)
 
+# The Super Happy People (3/8)

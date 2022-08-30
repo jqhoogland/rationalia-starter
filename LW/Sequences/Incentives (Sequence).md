@@ -10,6 +10,7 @@ aliases:
   - Incentives
 synchedAt: '2022-08-29T17:16:36.970Z'
 ---
+
 # Incentives
 
 The third book is about incentives, which are the patterns of what is rewarded and what is punished.

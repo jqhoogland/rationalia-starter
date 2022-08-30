@@ -16,5 +16,5 @@ sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.328Z'
 ---
-# Chapter 83: Taboo Tradeoffs, Aftermath 1
 
+# Chapter 83: Taboo Tradeoffs, Aftermath 1

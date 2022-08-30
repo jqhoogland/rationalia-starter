@@ -10,5 +10,5 @@ tags:
 href: https://www.lesswrong.com/posts/JcpzFpPBSmzuksmWM/the-5-second-level
 synchedAt: '2022-08-30T08:17:58.022Z'
 ---
-# The 5-Second Level
 
+# The 5-Second Level

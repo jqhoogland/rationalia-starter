@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:00.287Z'
 ---
+
 # Antiprediction
 
 An **antiprediction** is a statement of confidence in an event that *sounds* startling, but actually isn't far from a maxentropy [prior](/tag/priors). For example, if someone thinks that our state of knowledge implies strong ignorance about the speed of some process X on a logarithmic scale from nanoseconds to centuries, they may make the startling-sounding statement that X is very *unlikely* to take 'one to three years'.
@@ -18,14 +19,14 @@ Often, it is sufficient to see the privileged possibility as but one among many 
 
 [Privileging the hypothesis](https://wiki.lesswrong.com/wiki/Privilege_the_hypothesis) is our term for what happens when somebody clings to a small area of the possibility-space despite the lack of any evidence distinguishing in favor of that possibility versus many, many other equally likely alternatives.
 
-## Blog posts
+## Blog Posts
 
 - [Disjunctions, Antipredictions, Etc.](http://lesswrong.com/lw/wm/disjunctions_antipredictions_etc/)
 - [But There's Still A Chance, Right?](http://lesswrong.com/lw/ml/but_theres_still_a_chance_right/)
 - [Privileging the Hypothesis](http://lesswrong.com/lw/19m/privileging_the_hypothesis/)
 - [Your Strength as a Rationalist](http://lesswrong.com/lw/if/your_strength_as_a_rationalist/)
 
-## See also
+## See Also
 
 - [[Privileging The Hypothesis|Privileging the hypothesis]], [[Burdensome Details|Burdensome details]]
 - [[Fallacy of Gray|Fallacy of gray]]

@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:10.439Z'
 ---
-# Conflict vs Mistake
+
+# Conflict Vs Mistake
 
 **Conflict vs Mistake** is a framework for analyzing disagreements about policy.
 
@@ -26,9 +27,9 @@ A **mistake theorist** thinks problems are primarily due to mistakes. If only we
 
 [The Elephant in the Brain](https://www.lesswrong.com/posts/BgBrXpByCSmCLjpwr/book-review-the-elephant-in-the-brain) is more like a conflict theory of human (ir)rationality. Apparent irrationality is attributed mainly to humans not actually wanting what they think they want.
 
-**[Hanlon's Razor](https://en.m.wikipedia.org/wiki/Hanlon%27s_razor)** says: _Never attribute to malice what is adequately explained by stupidity._ This is a clear bias toward mistake theory.
+**[Hanlon's Razor](https://en.m.wikipedia.org/wiki/Hanlon%27s_razor)** says: *Never attribute to malice what is adequately explained by stupidity.* This is a clear bias toward mistake theory.
 
-On the other hand, economics, evolutionary psychology, and some other fields are based on _rational choice theory_, IE, an assumption that behavior can be explained by rational decision-making. _(Economic rationality assumes that individuals choose rationally to maximize economic value, based on the incentives of the current situation. Evolutionary psychology instead assumes that human and animal behaviors will be optimal solutions to the problems they faced in evolutionary history. Bruce Bueno de Mesquita assumes that politicians act rationally so as to maximize their tenure in positions of power. The ACT-R theory of cognition assumes that individual cognitive mechanisms are designed to optimally perform their individual cognitive tasks, such as retrieving memories which are useful in expectation, even if the whole brain is not perfectly rational.)_ This assumption of rationality lends itself more naturally to conflict theories.
+On the other hand, economics, evolutionary psychology, and some other fields are based on *rational choice theory*, IE, an assumption that behavior can be explained by rational decision-making. *(Economic rationality assumes that individuals choose rationally to maximize economic value, based on the incentives of the current situation. Evolutionary psychology instead assumes that human and animal behaviors will be optimal solutions to the problems they faced in evolutionary history. Bruce Bueno de Mesquita assumes that politicians act rationally so as to maximize their tenure in positions of power. The ACT-R theory of cognition assumes that individual cognitive mechanisms are designed to optimally perform their individual cognitive tasks, such as retrieving memories which are useful in expectation, even if the whole brain is not perfectly rational.)* This assumption of rationality lends itself more naturally to conflict theories.
 
 ## Game-Theoretic Connections
 
@@ -40,8 +41,8 @@ However, if people make mistakes (the trembling-hand assumption), then tit-for-t
 
 We need to recognize that people make mistakes sometimes -- we can't punish everything eye-for-an-eye.
 
-Therefore, some form of _forgiving_ tit-for-tat does better. For example, copy cooperation 100% of the time, but copy defection 90% of the time. This can still work to enforce rational cooperation (depending on the exact payouts and time-discounting of the players), but without everlasting feuds. See also [Contrite Strategies and the Need for Standards](https://www.lesswrong.com/posts/2meuc3kPRkBcRpj3R/contrite-strategies-and-the-need-for-standards).
+Therefore, some form of *forgiving* tit-for-tat does better. For example, copy cooperation 100% of the time, but copy defection 90% of the time. This can still work to enforce rational cooperation (depending on the exact payouts and time-discounting of the players), but without everlasting feuds. See also [Contrite Strategies and the Need for Standards](https://www.lesswrong.com/posts/2meuc3kPRkBcRpj3R/contrite-strategies-and-the-need-for-standards).
 
-In this framing, a conflict theorist thinks people are actually defecting on purpose. They _know what they're doing_, and therefore, _would respond to incentives._ Punishing them is prosocial and helps to encourage more cooperation overall.
+In this framing, a conflict theorist thinks people are actually defecting on purpose. They *know what they're doing*, and therefore, *would respond to incentives.* Punishing them is prosocial and helps to encourage more cooperation overall.
 
-A mistake theorist thinks people _are defecting accidentally,_ and therefore, _would not respond to incentives_. Punishing them is pointless and counterproductive; it could even result in a continuing feud, making things much worse for everyone.
+A mistake theorist thinks people *are defecting accidentally,* and therefore, *would not respond to incentives*. Punishing them is pointless and counterproductive; it could even result in a continuing feud, making things much worse for everyone.

@@ -18,5 +18,5 @@ sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:54.843Z'
 ---
-# Why Our Kind Can't Cooperate
 
+# Why Our Kind Can't Cooperate

@@ -167,7 +167,7 @@
         "name": "Mechanism Design"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 96,
@@ -1655,7 +1655,7 @@
         "name": "Rationality"
       },
       {
-        "name": "Inner Simulator / Suprise-o-meter"
+        "name": "Inner Simulator, Suprise-o-meter"
       }
     ],
     "voteCount": 14,
@@ -2360,7 +2360,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -3353,7 +3353,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -3416,7 +3416,7 @@
         "name": "Economics"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 75,
@@ -3515,7 +3515,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -3935,7 +3935,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Blackmail / Extortion"
+        "name": "Blackmail, Extortion"
       }
     ],
     "voteCount": 52,
@@ -4025,7 +4025,7 @@
         "name": "Impact Measures"
       },
       {
-        "name": "Exercises / Problem-Sets"
+        "name": "Exercises, Problem-Sets]"
       }
     ],
     "voteCount": 39,
@@ -4634,7 +4634,7 @@
         "name": "Rationalization"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       },
       {
         "name": "Humility"
@@ -4841,7 +4841,7 @@
         "name": "Inner Alignment"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "AI"
@@ -5000,7 +5000,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "OpenAI"
@@ -5312,7 +5312,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -5366,7 +5366,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -5836,7 +5836,7 @@
         "name": "Mechanism Design"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 96,
@@ -5908,7 +5908,7 @@
         "name": "Definitions"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 74,
@@ -5989,7 +5989,7 @@
         "name": "Economics"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Mechanism Design"
@@ -6757,7 +6757,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -6784,7 +6784,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -6928,7 +6928,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -6964,7 +6964,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -9778,7 +9778,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -9814,7 +9814,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -11674,7 +11674,7 @@
         "name": "Disagreement"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       },
       {
         "name": "Epistemology"
@@ -11913,7 +11913,7 @@
         "name": "Rationality"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       },
       {
         "name": "Distinctions"
@@ -12081,7 +12081,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -12105,7 +12105,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -12126,7 +12126,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -12309,7 +12309,7 @@
         "name": "Altruism"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Bystander Effect"
@@ -12360,7 +12360,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -18979,7 +18979,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -19033,7 +19033,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -19999,7 +19999,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -20026,7 +20026,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -20170,7 +20170,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -20206,7 +20206,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -22702,7 +22702,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -22738,7 +22738,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -23896,7 +23896,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -24553,7 +24553,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -24607,7 +24607,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -25573,7 +25573,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -25600,7 +25600,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -25744,7 +25744,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -25780,7 +25780,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -26329,7 +26329,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -26986,7 +26986,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -27040,7 +27040,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -28006,7 +28006,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -28033,7 +28033,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -28177,7 +28177,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -28213,7 +28213,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -28495,7 +28495,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -29152,7 +29152,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -29206,7 +29206,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -30172,7 +30172,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -30199,7 +30199,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -30343,7 +30343,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -30379,7 +30379,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -30661,7 +30661,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -31318,7 +31318,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -31372,7 +31372,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -32338,7 +32338,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -32365,7 +32365,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -32509,7 +32509,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -32545,7 +32545,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -32827,7 +32827,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -33484,7 +33484,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -33538,7 +33538,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -34504,7 +34504,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -34531,7 +34531,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -34675,7 +34675,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -34711,7 +34711,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -34993,7 +34993,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -35650,7 +35650,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -35704,7 +35704,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -36880,7 +36880,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -37537,7 +37537,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -37591,7 +37591,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -38767,7 +38767,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -39424,7 +39424,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -39478,7 +39478,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -40423,7 +40423,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -41080,7 +41080,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -41134,7 +41134,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -42079,7 +42079,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -42736,7 +42736,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -42790,7 +42790,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -43216,7 +43216,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -44014,7 +44014,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -44503,7 +44503,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -44992,7 +44992,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -45481,7 +45481,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -45751,7 +45751,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -46408,7 +46408,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -46462,7 +46462,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -47428,7 +47428,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -47455,7 +47455,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -47599,7 +47599,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -47635,7 +47635,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -50131,7 +50131,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -50167,7 +50167,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -51871,7 +51871,7 @@
         "name": "Disagreement"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       },
       {
         "name": "Epistemology"
@@ -52063,7 +52063,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -52087,7 +52087,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -52108,7 +52108,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -52291,7 +52291,7 @@
         "name": "Altruism"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Bystander Effect"
@@ -52342,7 +52342,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -58985,7 +58985,7 @@
         "name": "Planning & Decision-Making"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       },
       {
         "name": "Planning Fallacy"
@@ -61534,7 +61534,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -62191,7 +62191,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -62245,7 +62245,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -63211,7 +63211,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -63238,7 +63238,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -63382,7 +63382,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -63418,7 +63418,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,
@@ -65914,7 +65914,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -65950,7 +65950,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Gaming (videogames/tabletop)"
+        "name": "Gaming (videogames, tabletop)"
       },
       {
         "name": "Fun Theory"
@@ -67243,7 +67243,7 @@
         "name": "AI"
       },
       {
-        "name": "Transparency / Interpretability (ML & AI)"
+        "name": "Transparency, Interpretability (ML & AI)"
       },
       {
         "name": "Distinctions"
@@ -67900,7 +67900,7 @@
         "name": "General Intelligence"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 64,
@@ -67954,7 +67954,7 @@
         "name": "AI Timelines"
       },
       {
-        "name": "Inside/Outside View"
+        "name": "Inside, Outside View"
       }
     ],
     "voteCount": 36,
@@ -68920,7 +68920,7 @@
     "question": false,
     "tags": [
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Social & Cultural Dynamics"
@@ -68947,7 +68947,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "Group Rationality"
@@ -69091,7 +69091,7 @@
         "name": "Game Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       },
       {
         "name": "World Modeling"
@@ -69127,7 +69127,7 @@
         "name": "Decision Theory"
       },
       {
-        "name": "Coordination / Cooperation"
+        "name": "Coordination, Cooperation"
       }
     ],
     "voteCount": 88,

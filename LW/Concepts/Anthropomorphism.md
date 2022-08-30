@@ -17,17 +17,24 @@ synchedAt: '2022-08-29T11:06:06.226Z'
 
 *Related tags:* [[Mind Projection Fallacy]], [[Typical Mind Fallacy]], [[Alien Values|Alien values]], [[Paperclip Maximizer|Paperclip maximizer]]
 
-## Blog posts
+## Blog Posts
 
 * [The Tragedy of Group Selectionism](http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/) \- A tale of how some pre-1960s biologists were led astray by expecting evolution to do smart, nice things like they would do themselves.
+
 * [When Anthropomorphism Became Stupid](http://lesswrong.com/lw/t5/when_anthropomorphism_became_stupid/)
+
 * [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/) \- You shouldn't bother coming up with clever, persuasive arguments for why evolution will do things the way you prefer. It really isn't listening.
+
 * [Humans in Funny Suits](http://lesswrong.com/lw/so/humans_in_funny_suits/)
+
 * [Anthropomorphic Optimism](http://lesswrong.com/lw/st/anthropomorphic_optimism/)
 
-## See also
+## See Also
 
 * [[Evolution As Alien God|Evolution as alien god]]
+
 * [[Unsupervised Universe|Unsupervised universe]]
+
 * [[Alien Values|Alien values]], [[Paperclip Maximizer|Paperclip maximizer]]
+
 * [[Mind Design Space|Mind design space]], [[Really Powerful Optimization Process|Really powerful optimization process]]

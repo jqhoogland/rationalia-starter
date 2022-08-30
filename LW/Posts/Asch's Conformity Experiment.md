@@ -19,5 +19,5 @@ sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:38.075Z'
 ---
-# Asch's Conformity Experiment
 
+# Asch's Conformity Experiment

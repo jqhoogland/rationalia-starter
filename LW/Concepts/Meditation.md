@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:02.717Z'
 ---
+
 # Meditation
 
-This page is for the **meditation practice**, as in, Vipassana meditation. For meditation in the sense of Koan, see [*Meditation / Koan*](/tag/meditation-koan)*.*
+This page is for the **meditation practice**, as in, Vipassana meditation. For meditation in the sense of Koan, see [*Meditation, Koan*](/tag/meditation-koan)*.*

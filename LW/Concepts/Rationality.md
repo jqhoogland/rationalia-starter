@@ -11,11 +11,14 @@ tags:
 core: true
 synchedAt: '2022-08-29T11:04:08.832Z'
 ---
+
 # Rationality
 
-**Rationality** is the art of thinking in ways that result in [[World Modeling|accurate beliefs]] and [[Decision Theory|good decisions]]. It is the primary topic of LessWrong.  
-  
-Rationality is not only about avoiding the vices of [[Self-Deception|self-deception]] and obfuscation (the failure to [[Conversation (topic)|communicate clearly]]), but also about the virtue of [[Curiosity|curiosity]], seeing the world more clearly than before, and [[Ambition|achieving things]] [[Skill Building|previously unreachable]] [[Coordination / Cooperation|to you]]. The study of rationality on LessWrong includes a theoretical understanding of ideal cognitive algorithms, as well as building a practice that uses these idealized algorithms to inform [[Heuristics & Biases|heuristics]], [[Habits|habits]], and [[Techniques|techniques]], to successfully reason and make decisions in the real world.
+**Rationality** is the art of thinking in ways that result in [[World Modeling|accurate beliefs]] and [[Decision Theory|good decisions]]. It is the primary topic of LessWrong.
+
+
+
+Rationality is not only about avoiding the vices of [[Self-Deception|self-deception]] and obfuscation (the failure to [[Conversation (topic)|communicate clearly]]), but also about the virtue of [[Curiosity|curiosity]], seeing the world more clearly than before, and [[Ambition|achieving things]] [[Skill Building|previously unreachable]] [[ Cooperation|to you]]. The study of rationality on LessWrong includes a theoretical understanding of ideal cognitive algorithms, as well as building a practice that uses these idealized algorithms to inform [[Heuristics & Biases|heuristics]], [[Habits|habits]], and [[Techniques|techniques]], to successfully reason and make decisions in the real world.
 
 Topics covered in rationality include (but are not limited to): normative and theoretical explorations of [[Solomonoff Induction|ideal]] [[Probability & Statistics|reasoning]]; the [[Evolutionary Psychology|capabilities and limitations]] [[Neuroscience|of our brain]], [[Dual Process Theory (System 1 & System 2)|mind and psychology]]; applied advice such as [[Introspection|introspection]] techniques and [[Group Rationality|how to achieve truth collaboratively]]; practical techniques and methodologies for figuring out what’s true ranging from rough quantitative modeling to full research guides.
 
@@ -29,7 +32,7 @@ Note that content about *how the world is* can be found under [[World Modeling]]
 
 * * *
 
-## What we're calling "rationality"
+## What We're Calling "rationality"
 
 A good heuristic is that rationality is about cognitive algorithms. Rather than being a synonym for *true* or *optimal*, the term ***rational*** should be reserved for describing whether or not a cognitive algorithm results in true beliefs and optimal actions.
 
@@ -45,9 +48,9 @@ Early material on LessWrong frequently describes rationality with reference to h
 
 Apart from the issue of the replication crises which discredited many examples of bias that were commonly referenced on LessWrong, e.g. priming, the "overcoming biases" frame of rationality is too limited. Rationality requires the development of many *positive* skills, not just removing *negative* biases to reveal underlying perfect reasoning. These are skills such as how to update the correct amount in response to evidence, how to resolve disagreements with others, how to introspect, and many more.
 
-## Instrumental vs Epistemic Rationality
+## Instrumental Vs Epistemic Rationality
 
-Classically, on LessWrong, a distinction has been made between *instrumental* rationality  and *epistemic* rationality, however, these terms may be misleading – it's not as though epistemic rationality can be traded off for gains in instrumental rationality. Only apparently, and to think one should do this is a trap.
+Classically, on LessWrong, a distinction has been made between *instrumental* rationality and *epistemic* rationality, however, these terms may be misleading – it's not as though epistemic rationality can be traded off for gains in instrumental rationality. Only apparently, and to think one should do this is a trap.
 
 **Instrumental rationality** is defined as being concerned with achieving goals. More specifically, instrumental rationality is the art of choosing and *implementing* actions that steer the future toward outcomes ranked higher in one's preferences. Said preferences are not limited to 'selfish' preferences or unshared values; they include anything one cares about.
 

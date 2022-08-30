@@ -19,5 +19,5 @@ sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.316Z'
 ---
-# Superstimuli and the Collapse of Western Civilization
 
+# Superstimuli and the Collapse of Western Civilization

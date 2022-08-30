@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:51.264Z'
 ---
+
 # Pascal's Mugging
 
 **Pascal's mugging** refers to a [thought experiment](https://wiki.lesswrong.com/wiki/thought_experiment) in decision theory, a finite analogue of [Pascal's wager](https://en.wikipedia.org/wiki/Pascal's_wager).
@@ -39,5 +40,5 @@ If an outcome with infinite utility is presented, then it doesn't matter how sma
 
 ## References
 
-1.  Peter de Blanc (2007). [*Convergence of Expected Utilities with Algorithmic Probability Distributions*](http://arxiv.org/abs/0712.4318).
-2.  Nick Bostrom (2009). "Pascal's Mugging". *Analysis* **69** (3): 443-445. ([PDF](http://www.nickbostrom.com/papers/pascal.pdf))
+1. Peter de Blanc (2007). [*Convergence of Expected Utilities with Algorithmic Probability Distributions*](http://arxiv.org/abs/0712.4318).
+2. Nick Bostrom (2009). "Pascal's Mugging". *Analysis* **69** (3): 443-445. ([PDF](http://www.nickbostrom.com/papers/pascal.pdf))

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:21.250Z'
 ---
-# Selection vs Control
+
+# Selection Vs Control
 
 "Selection vs Control" is an attempt to further clarify the notion of "optimization process" which has become common on LessWrong, by splitting it into several analogous-but-distinct concepts.

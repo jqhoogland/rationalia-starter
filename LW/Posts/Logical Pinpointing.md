@@ -17,5 +17,5 @@ sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Mathematics and Logic
 synchedAt: '2022-08-30T08:17:30.777Z'
 ---
-# Logical Pinpointing
 
+# Logical Pinpointing

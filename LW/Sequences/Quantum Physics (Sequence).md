@@ -10,9 +10,10 @@ aliases:
   - Quantum Physics
 synchedAt: '2022-08-29T17:16:42.429Z'
 ---
+
 # Quantum Physics
 
-A _non-mysterious_ introduction to quantum mechanics, intended to be accessible to anyone who can grok algebra and complex numbers. Cleaning up the old confusion about QM is used to introduce basic issues in rationality (such as the technical version of [Occams Razor](https://wiki.lesswrong.com/wiki/Occam%27s_Razor)), epistemology, reductionism, naturalism, and philosophy of science. _Not_ dispensable reading, even though the exact reasons for the digression are hard to explain in advance of reading.
+A *non-mysterious* introduction to quantum mechanics, intended to be accessible to anyone who can grok algebra and complex numbers. Cleaning up the old confusion about QM is used to introduce basic issues in rationality (such as the technical version of [Occams Razor](https://wiki.lesswrong.com/wiki/Occam%27s_Razor)), epistemology, reductionism, naturalism, and philosophy of science. *Not* dispensable reading, even though the exact reasons for the digression are hard to explain in advance of reading.
 
 Sequence by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky), imported from [the wiki](https://wiki.lesswrong.com/wiki/The_Quantum_Physics_Sequence). Overlaps with [[Quantum Physics and Many Worlds]] and [[Science and Rationality]].
 

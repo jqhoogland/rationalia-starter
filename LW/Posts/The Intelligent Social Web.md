@@ -21,5 +21,5 @@ sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.541Z'
 ---
-# The Intelligent Social Web
 
+# The Intelligent Social Web

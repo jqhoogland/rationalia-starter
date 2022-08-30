@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:22.571Z'
 ---
-# Ethical Offsets
 
+# Ethical Offsets

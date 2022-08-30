@@ -19,5 +19,5 @@ sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.373Z'
 ---
-# Open question: are minimal circuits daemon-free?
 
+# Open Question: Are Minimal Circuits Daemon-free?

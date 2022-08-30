@@ -16,5 +16,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.909Z'
 ---
-# Spooky Action at a Distance: The No-Communication Theorem
 
+# Spooky Action at a Distance: The No-Communication Theorem

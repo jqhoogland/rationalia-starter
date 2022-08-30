@@ -10,21 +10,22 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:21.554Z'
 ---
+
 # Amount of Evidence
 
 To a Bayesian, evidence is a quantitative concept. In principle, a hypothetical Bayesian superintelligence could say not only *that* the evidence supports a particular hypothesis, but by *how much*. (In practice the true math is usually intractable.) The more complicated or *a priori* improbable a hypothesis is, the more evidence you need just to justify it, or even just [[Locate The Hypothesis|single it out]] of the amongst the mass of competing theories.
 
 We often find it convenient to express the **amount of evidence** in terms of logarithms of odds, *decibels* if we use the base-10 logarithm, *bits* if we use the base-2.
 
-## Main post
+## Main Post
 
 - [How Much Evidence Does It Take?](http://lesswrong.com/lw/jn/how_much_evidence_does_it_take/)
 
-## Other posts
+## Other Posts
 
 - [Einstein's Arrogance](http://lesswrong.com/lw/jo/einsteins_arrogance/)
 
-## See also
+## See Also
 
 - [Bayes' theorem](/tag/bayes-theorem)
 - [[Evidence]]

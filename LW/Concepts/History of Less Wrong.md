@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:07:14.401Z'
 ---
+
 # History of Less Wrong
 
 **Less Wrong** is a community resource devoted to refining the art of human [[Rationality|rationality]] which was founded in 2009. Site activity reached a peak in 2011-13 and a trough in 2016-17. This page mainly describes the history through 2016.
@@ -26,7 +27,7 @@ LessWrong material was ultimately developed from [[Overcoming Bias]], an earlier
 
 In February 2009, Yudkowsky's posts were used as the seed material to create the community blog LessWrong, and Overcoming Bias became Hanson's personal blog. Some users were recruited via Eliezer's [[Transhumanism|transhumanist]] [SL4](https://hpluspedia.org/wiki/SL4) mailing list.
 
-## Golden age
+## Golden Age
 
 The site's uses Reddit-style infrastructure. The ongoing community blog materials lead to significant growth and interest over the following years. At its peak it had over 15,000 pageviews a day.
 
@@ -62,11 +63,11 @@ Lesswrong is still active and activity can also be found in the diaspora communi
 - [[Slack]]
 - [Study Hall](https://wiki.lesswrong.com/wiki/Study_Hall)
 
-## The view from 2016
+## The View From 2016
 
 As of 2016 the community is far less active than it once was. The forum stands, but submissions are down. The wiki has low traction and it is potentially in need to streamlining around remaining activity rather than its former glories.
 
-## See also
+## See Also
 
 - [A History of the Rationality Community](https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/dloghua/) from [[Scott Alexander]]
 - [LessWrong analytics (February 2009 to January 2017)](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)

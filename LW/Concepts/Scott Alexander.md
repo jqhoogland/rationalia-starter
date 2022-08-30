@@ -10,11 +10,12 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:34.930Z'
 ---
+
 # Scott Alexander
 
 **Scott Alexander** is the pseudonymn of the popular [rationalist](https://www.lesswrong.com/tag/rationalist) blogger who writes on [[Slate Star Codex]].
 
-## External links
+## External Links
 
 - [Less Wrong user page](http://lesswrong.com/user/Yvain/).
 - [slatestarcodex.com](http://slatestarcodex.com)

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:08:34.847Z'
 ---
+
 # Improper Belief
 
 An **improper belief** is a [[Belief|belief]] that isn't concerned with describing the [territory](https://wiki.lesswrong.com/wiki/territory). A proper belief, on the other hand, [[Beliefs Require Observations|requires observations]], gets [[Belief Update|updated]] upon encountering new [[Evidence|evidence]], and [provides practical benefit](https://wiki.lesswrong.com/wiki/beliefs_pay_rent) in [[Technical Explanation|anticipated experience]].
@@ -23,11 +24,11 @@ Improper belief is one of the subjects of the [Mysterious Answers to Mysterious 
 - [[Belief In Belief|Belief in belief]]
 - [Belief as cheering](https://wiki.lesswrong.com/wiki/Belief_as_cheering)
 
-## Blog posts
+## Blog Posts
 
 - [Belief as Attire](http://lesswrong.com/lw/i7/belief_as_attire/)
 
-## See also
+## See Also
 
 - [[Anti-Epistemology|Anti-epistemology]]
 - [[Self-Deception|Self-deception]]

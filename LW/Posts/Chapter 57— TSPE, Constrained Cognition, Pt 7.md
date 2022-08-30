@@ -16,5 +16,5 @@ sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:43.362Z'
 ---
-# Chapter 57: TSPE, Constrained Cognition, Pt 7
 
+# Chapter 57: TSPE, Constrained Cognition, Pt 7

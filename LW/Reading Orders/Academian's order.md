@@ -6,7 +6,8 @@ tags:
   - Sequence
 synchedAt: '2022-08-29T11:16:45.896Z'
 ---
-# undefined
+
+# Undefined
 
 # Chapters
 
@@ -21,13 +22,9 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[Priors]]
 - [[Belief in belief]]
 
+## Table of Contents of [[How to Actually Change Your Mind]]
 
-## Table of contents of [[How to Actually Change Your Mind]]
-
-
-
-
-## Selected posts from [[Map and Territory (sequence)]]
+## Selected Posts From [[Map and Territory (sequence)]]
 
 - [[What do we mean by "Rationality"?]]
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
@@ -36,8 +33,7 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[Occam's Razor]]
 - [[The lens that sees its flaws]]
 
-
-## Selected posts from [[Mysterious Answers to Mysterious Questions]]
+## Selected Posts From [[Mysterious Answers to Mysterious Questions]]
 
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
 - [[The Virtue of Narrowness]]
@@ -49,26 +45,23 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[The Futility of Emergence]]
 - [[Explain, Worship, Ignore]]
 
-
-## Selected posts from [[A Human's Guide to Words]]
+## Selected Posts From [[A Human's Guide to Words]]
 
 - [[How an Algorithm Feels from Inside]]
 - [[Feel the Meaning]]
 - [[Replace the Symbol with the Substance]]
 
-
-## Selected readings from [[Reductionism (Sequence)]] (first half)
+## Selected Readings From [[Reductionism (Sequence)]] (first half)
 
 - [[Dissolving the Question]]
 - [[Wrong Questions]]
 - [[Righting a Wrong Question]]
 - [[Probability is in the Mind]]
-- [[Reductionism]]
+- [[Reductionism (Post)]]
 - [[Explaining vs. Explaining Away]]
 - [[Fake Reductionism]]
 
-
-## Selected posts from [[Joy in the Merely Real]]
+## Selected Posts From [[Joy in the Merely Real]]
 
 - [[Joy in the Merely Real]]
 - [[Bind Yourself to Reality]]
@@ -77,16 +70,14 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[The Beauty of Settled Science]]
 - [[To Spread Science, Keep It Secret]]
 
-
-## Selected posts from [[Reductionism (Sequence)]] (second half)
+## Selected Posts From [[Reductionism (Sequence)]] (second half)
 
 - [[Angry Atoms]]
 - [[Heat vs. Motion]]
 - [[Brain Breakthrough! It's Made of Neurons!]]
 - [[Reductive Reference]]
 
-
-## Selected posts from [[Zombies (Concept)]] & [[Supernaturality]]
+## Selected Posts From [[Zombies (Concept)]] & [[Supernaturality]]
 
 - [[Zombies! Zombies?]]
 - [[GAZP vs. GLUT]]

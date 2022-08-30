@@ -18,7 +18,7 @@ status: todo
 
 ## Blog Posts
 
-[[The Absent-Minded Driver]]
+[[The Absent-Minded Driver (Post)]]
 
 ## See Also
 
@@ -32,4 +32,3 @@ status: todo
 - [[Pascal's Mugging|Pascal's mugging]]
 
 ---
-

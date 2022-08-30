@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:49.306Z'
 ---
+
 # Organizational Culture & Design
 
 **Organizational Culture & Design,** is the study/practice of designing groups of humans that can achieve goals, scale, and continue working at a goal over time.

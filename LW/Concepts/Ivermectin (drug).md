@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:20.987Z'
 ---
+
 # Ivermectin (drug)
 
 **Ivermectin** is an anti-parasitic drug that's been investigated as a treatment for Covid-19.

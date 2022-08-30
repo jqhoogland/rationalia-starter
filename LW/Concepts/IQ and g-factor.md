@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:58.504Z'
 ---
-# IQ and g-factor
+
+# IQ and G-factor
 
 **IQ** is a score derived from a set of standardized tests designed to assess human intelligence. The **g-factor** (general intelligence factor) is the underlying psychometric construct that the IQ tests are trying to measure.
 

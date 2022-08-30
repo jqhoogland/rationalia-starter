@@ -15,5 +15,5 @@ sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.795Z'
 ---
-# Be a new homunculus
 
+# Be a New Homunculus

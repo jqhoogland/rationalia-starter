@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:08.787Z'
 ---
+
 # Economics
 
 **Economics** is the social science that studies how humans and other agents interact in a universe with scarce resources. It deals with topics such as trade, specialization of labor, accumulation of capital, technology, and resource consumption. Agents in economics are generally assumed to have utility functions, which they try to maximize under various constraints.

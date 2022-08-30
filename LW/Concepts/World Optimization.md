@@ -11,10 +11,13 @@ tags:
 core: true
 synchedAt: '2022-08-29T11:04:12.009Z'
 ---
+
 # World Optimization
 
-**World Optimization** is the full use of our agency. It is extending the reach of human civilization. It is building cities and democracies and economic systems and computers and flight and science and space rockets and the internet. World optimization is about adding to that list.   
-  
+**World Optimization** is the full use of our agency. It is extending the reach of human civilization. It is building cities and democracies and economic systems and computers and flight and science and space rockets and the internet. World optimization is about adding to that list. 
+
+
+
 But it’s not just about growth, it’s also about preservation. We are still in the dawn of civilization, with most of civilization in the billions of years ahead. We mustn’t let this light go out.
 
 * * *

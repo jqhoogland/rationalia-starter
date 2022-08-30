@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:31.721Z'
 ---
+
 # Bounties (closed)
 
 A **bounty** or is a monetary payment for accomplishing some one-off task. (If the winner is selected in a competition, it is often referred to as a **prize**.) On LessWrong, bounties have historically been paid out for things like providing useful information, doing a novel piece of research, or changing someone's mind about a topic. 

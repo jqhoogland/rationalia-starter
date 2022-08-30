@@ -16,5 +16,5 @@ sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:17:55.032Z'
 ---
-# The Pavlov Strategy
 
+# The Pavlov Strategy

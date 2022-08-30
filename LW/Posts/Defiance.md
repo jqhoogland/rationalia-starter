@@ -16,5 +16,5 @@ sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.450Z'
 ---
-# Defiance
 
+# Defiance

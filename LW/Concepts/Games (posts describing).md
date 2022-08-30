@@ -10,8 +10,9 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:28.443Z'
 ---
+
 # Games (posts describing)
 
 Games for and by lesswrongers.
 
-**Related Pages:** [[Exercises / Problem-Sets]]
+**Related Pages:** [[ Problem-Sets]]

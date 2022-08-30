@@ -15,5 +15,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.831Z'
 ---
-# The Born Probabilities
 
+# The Born Probabilities

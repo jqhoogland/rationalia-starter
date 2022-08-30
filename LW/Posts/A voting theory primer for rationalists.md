@@ -18,5 +18,5 @@ sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.668Z'
 ---
-# A voting theory primer for rationalists
 
+# A Voting Theory Primer for Rationalists

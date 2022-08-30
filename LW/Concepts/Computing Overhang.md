@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:37.127Z'
 ---
+
 # Computing Overhang
 
 **Computing overhang** refers to a situation where new algorithms can exploit existing computing power far more efficiently than before. This can happen if previously used algorithms have been suboptimal.
@@ -30,7 +31,7 @@ As Yudkoswky [puts it](http://intelligence.org/files/LOGI.pdf), human intelligen
 
 - Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://intelligence.org/files/IE-EI.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al.. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
 
-## See also
+## See Also
 
 - [[Optimization|Optimization process]]
 - [[Optimization]]

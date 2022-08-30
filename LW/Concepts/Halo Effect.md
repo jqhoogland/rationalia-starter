@@ -10,17 +10,18 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:56.924Z'
 ---
+
 # Halo Effect
 
 > Let's say that you know someone who not only seems very intelligent, but also honest, altruistic, kindly, and serene. You should be suspicious that some of these perceived characteristics are influencing your perception of the others. Maybe the person is genuinely intelligent, honest, and altruistic, but not all that kindly or serene. You should be suspicious if the people you know seem to separate too cleanly into devils and angels.
 
 —[The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
 
-## Main post
+## Main Post
 
 - [The Halo Effect](http://lesswrong.com/lw/lj/the_halo_effect/)
 
-## Related concepts
+## Related Concepts
 
 - [[Priming]], [[Affect Heuristic|Affect heuristic]]
 - [[Affective Death Spiral|Affective death spiral]]

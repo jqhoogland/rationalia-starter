@@ -16,5 +16,5 @@ sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.641Z'
 ---
-# Taste & Shaping
 
+# Taste & Shaping

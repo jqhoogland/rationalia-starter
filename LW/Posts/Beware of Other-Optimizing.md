@@ -12,5 +12,5 @@ sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:58.733Z'
 ---
-# Beware of Other-Optimizing
 
+# Beware of Other-Optimizing

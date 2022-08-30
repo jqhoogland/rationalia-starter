@@ -15,5 +15,5 @@ sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.319Z'
 ---
-# Three Worlds Decide (5/8)
 
+# Three Worlds Decide (5/8)

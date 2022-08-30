@@ -10,13 +10,14 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:06:14.643Z'
 ---
+
 # Semantic Stopsign
 
 A **semantic stopsign** or **curiosity stopper** is a meaningless, generic explanation that creates the illusion of giving an answer, without actually explaining anything. Semantic stopsigns destroy [[Curiosity|curiosity]], giving surrogate answers and stopping the search for [[Truth, Semantics, & Meaning|truth]] prematurely. Can preserve [[Improper Belief|incorrect beliefs]] for a long time, insisting on following [[Cached Thoughts|cached thought]] without rethinking anything. A tool of [[Dark Arts|dark arts]] and an important part of any [[Anti-Epistemology|anti-epistemology]].
 
 When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist taboo]] on them may help. [[Epistemic Hygiene|Epistemic hygiene]] allows excluding some of the stopsigns raised by [[Arguments As Soldiers|partial arguers]] or by your own [cognitive biases](https://wiki.lesswrong.com/wiki/cognitive_biases).
 
-## Blog posts
+## Blog Posts
 
 - [Semantic Stopsigns](http://lesswrong.com/lw/it/semantic_stopsigns/)
 - [Mysterious Answers to Mysterious Questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/)
@@ -26,7 +27,7 @@ When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist 
 - [The Futility of Emergence](http://lesswrong.com/lw/iv/the_futility_of_emergence/)
 - [Conversation Halters](http://lesswrong.com/lw/1p2/conversation_halters/)
 
-## See also
+## See Also
 
 - [[Curiosity]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [[Improper Belief|Improper belief]]

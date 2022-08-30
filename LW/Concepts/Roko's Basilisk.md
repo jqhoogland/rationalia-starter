@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:34.671Z'
 ---
+
 # Roko's Basilisk
 
 **Roko’s basilisk** is a thought experiment proposed in 2010 by the user Roko on the [*Less Wrong*](\"https://www.lesswrong.com/about\") community blog. Roko used ideas in [decision theory](\"https://www.lesswrong.com/tag/decision-theory\") to argue that a sufficiently powerful AI agent would have an incentive to torture anyone who imagined the agent but didn't work to bring the agent into existence. The argument was called a \\"basilisk\\" --named after the legendary reptile who can cause death with a single glance--because merely hearing the argument would supposedly put you at risk of torture from this hypothetical agent. A *basilisk* in this context is any information that harms or endangers the people who hear it.
@@ -42,7 +43,7 @@ The control problem also raises questions in moral philosophy: how can we specif
 
 Because Eliezer Yudkowsky founded *Less Wrong* and was one of the first bloggers on the site, AI theory and \\"acausal\\" decision theories — in particular, *logical* decision theories, which respect logical connections between agents' properties rather than just the causal effects they have on each other — have been repeatedly discussed on *Less Wrong*. Roko's basilisk was an attempt to use Yudkowsky's proposed decision theory (TDT) to argue against his informal characterization of an ideal AI goal (humanity's coherently extrapolated volition).
 
-## Roko's post
+## Roko's Post
 
 ![](\"https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/083971a1080c2784b9a65819394ccebabeddea96df05ea4e.jpeg\")A simple depiction of an agent that cooperates with copies of itself in the one-shot prisoner's dilemma. Adapted from the [Decision Theory FAQ](\"https://lesswrong.com/lw/gu1/decision_theory_faq/\").
 
@@ -63,41 +64,41 @@ Roko's conclusion from this was that we should never build any powerful AI agent
 Eliezer Yudkowsky has responded a few times to the substance of Roko's claims. E.g., in a 2014 Reddit thread, Yudkowsky [wrote](\"https://www.reddit.com/r/Futurology/comments/2cm2eg/rokos_basilisk/cjjbqqo\"):
 
 > What's the truth about Roko's Basilisk? The truth is that making something like this \\"work\\", in the sense of managing to think a thought that would actually give future superintelligences an incentive to hurt you, would require overcoming what seem to me like some pretty huge obstacles.
-> 
+>
 > The most blatant obstacle to Roko's Basilisk is, intuitively, that there's no incentive for a future agent to follow through with the threat in the future, because by doing so it just expends resources at no gain to itself. We can formalize that using classical causal decision theory, which is the academically standard decision theory: following through on a blackmail threat, in the future after the past has already taken place, cannot (from the blackmailing agent's perspective) be the physical cause of improved outcomes in the past, because the future cannot be the cause of the past.
-> 
+>
 > But classical causal decision theory isn't the only decision theory that has ever been invented, and if you were to read up on the academic literature, you would find a lot of challenges to the assertion that, e.g., two rational agents always defect against each other in the one-shot Prisoner's Dilemma.
-> 
+>
 > One of those challenges was a theory of my own invention, which is why this whole fiasco took place on LessWrong.com in the first place. (I feel rather like the speaker of that ancient quote, \\"All my father ever wanted was to make a toaster you could really set the darkness on, and you perverted his work into these horrible machines!\\") But there have actually been a lot of challenges like that in the literature, not just mine, as anyone actually investigating would have discovered. Lots of people are uncomfortable with the notion that rational agents always defect in the one-shot Prisoner's Dilemma. And if you formalize blackmail, including this case of blackmail, the same way, then most challenges to mutual defection in the Prisoner's Dilemma are also implicitly challenges to the first obvious reason why Roko's Basilisk would never work.
-> 
+>
 > But there are also other obstacles. The decision theory I proposed back in the day says that you have to know certain things about the other agent in order to achieve mutual cooperation in the Prisoner's Dilemma, and that's with both parties trying to set up a situation which leads to mutual cooperation instead of mutual defection. As I presently understand the situation, there is literally nobody on Earth, including me, who has the knowledge needed to set themselves up to be blackmailed if they were deliberately trying to make that happen.
-> 
+>
 > Any potentially blackmailing AI would much prefer to have you believe that it is blackmailing you, without actually expending resources on following through with the blackmail, insofar as they think they can exert any control on you at all via an exotic decision theory. Just like in the one-shot Prisoner's Dilemma the \\"ideal\\" outcome is for the other player to believe you are modeling them and will cooperate if and only if they cooperate, and so they cooperate, but then actually you just defect anyway. For the other player to be confident this will not happen in the Prisoner's Dilemma, for them to expect you not to sneakily defect anyway, they must have some very strong knowledge about you. In the case of Roko's Basilisk, \\"defection\\" corresponds to not actually torturing anyone, not expending resources on that, and just letting them believe that you will blackmail them. Two AI agents with sufficiently strong knowledge of each other, and heavily motivated to achieve mutual cooperation on the Prisoner's Dilemma, might be able to overcome this obstacle and cooperate with confidence. But why would you put in that degree of effort — if you even could, which I don't think you as a human can — in order to give a blackmailing agent an incentive to actually carry through on its threats?
-> 
+>
 > I have written the above with some reluctance, because even if I don't yet see a way to repair this obstacle myself, somebody else might see how to repair it now that I've said what it is. Which is not a good general procedure for handling infohazards; people with expert knowledge on them should, obviously, as a matter of professional ethics, just never discuss them at all, including describing why a particular proposal doesn't work, just in case there's some unforeseen clever way to repair the proposal. There are other obstacles here which I am not discussing, just in case the logic I described above has a flaw. Nonetheless, so far as I know, Roko's Basilisk does not work, nobody has actually been bitten by it, and everything I have done was in the service of what I thought was the obvious Good General Procedure for Handling Potential Infohazards\[.\]
 
 Other users on *Less Wrong* generally rejected Roko's arguments at the time, and skepticism about his supposed basilisk appears to have only increased with time. Subsequent discussion of Roko's basilisk has focused on *Less Wrong* moderator responses to Roko's post, rather than on the specific merits or dismerits of his argument.
 
-## Topic moderation and response
+## Topic Moderation and Response
 
 Shortly after Roko made his blog post, Yudkowsky left an angry [comment](\"http://rationalwiki.org/wiki/Roko%27s_basilisk/Original_post#Comments_.28117.29\") on the discussion thread:
 
 > \[Roko:\] \\"One might think that the possibility of CEV punishing people couldn't possibly be taken seriously enough by anyone to actually motivate them. But in fact one person at SIAI was severely worried by this, to the point of having terrible nightmares, though ve wishes to remain anonymous.\\"
-> 
+>
 > I don't usually talk like this, but I'm going to make an exception for this case.
-> 
+>
 > Listen to me very closely, you idiot.
-> 
+>
 > YOU DO NOT THINK IN SUFFICIENT DETAIL ABOUT SUPERINTELLIGENCES CONSIDERING WHETHER OR NOT TO BLACKMAIL YOU. THAT IS THE ONLY POSSIBLE THING WHICH GIVES THEM A MOTIVE TO FOLLOW THROUGH ON THE BLACKMAIL.
-> 
+>
 > There's an obvious equilibrium to this problem where you engage in all positive acausal trades and ignore all attempts at acausal blackmail. Until we have a better worked-out version of TDT and we can prove that formally, it should just be OBVIOUS that you DO NOT THINK ABOUT DISTANT BLACKMAILERS in SUFFICIENT DETAIL that they have a motive toACTUALLY \[*sic*\] BLACKMAIL YOU.
-> 
+>
 > If there is any part of this acausal trade that is positive-sum and actually worth doing, that is exactly the sort of thing you leave up to an FAI. We probably also have the FAI take actions that cancel out the impact of anyone motivated by true rather than imagined blackmail, so as to obliterate the motive of any superintelligences to engage in blackmail.
-> 
+>
 > Meanwhile I'm banning this post so that it doesn't (a) give people horrible nightmares and (b) give distant superintelligences a motive to follow through on blackmail against people dumb enough to think about them in sufficient detail, though, thankfully, I doubt anyone dumb enough to do this knows the sufficient detail. (I'm not sure I know the sufficient detail.)
-> 
+>
 > You have to be really clever to come up with a genuinely dangerous thought. I am disheartened that people can be clever enough to do that and not clever enough to do the obvious thing and KEEP THEIR IDIOT MOUTHS SHUT about it, because it is much more important to sound intelligent when talking to your friends. This post was STUPID.
-> 
+>
 > (For those who have no idea why I'm using capital letters for something that just sounds like a random crazy idea, and worry that it means I'm as crazy as Roko, the gist of it was that he just did something that potentially gives superintelligences an increased motive to do extremely evil things in an attempt to blackmail us. It is the sort of thing you want to be EXTREMELY CONSERVATIVE about NOT DOING.)
 
 \\"FAI\\" here stands for \\"Friendly AI,\\" a hypothetical superintelligent AI agent that can be trusted to autonomously promote desirable ends. Yudkowsky rejected the idea that Roko's basilisk could be called \\"friendly\\" or \\"utilitarian,\\" since torture and threats of blackmail are themselves contrary to common human values. Separately, Yudkowsky doubted that humans possessed enough information about any hypothetical unfriendly AI system to enter Alice's position even if we tried. Yudkowsky additionally argued that a *well-designed* version of Alice would precommit to resisting blackmail from Bob, while still accepting positive-sum [acausal trades](\"https://www.lesswrong.com/tag/acausal-trade\") (e.g., ordinary contracts).
@@ -111,9 +112,9 @@ Over time, RationalWiki's Roko's basilisk discussion expanded into its own artic
 Interest in the topic increased over subsequent years. In 2014, Roko's basilisk was name-dropped in the webcomic [*xkcd*](\"https://xkcd.com/1450/\"). The magazine *Slate* ran an article on the thought experiment, titled \\"[The Most Terrifying Thought Experiment of All Time](\"http://www.slate.com/articles/technology/bitwise/2014/07/roko_s_basilisk_the_most_terrifying_thought_experiment_of_all_time.single.html\")\\":
 
 > You may be wondering why this is such a big deal for the LessWrong people, given the apparently far-fetched nature of the thought experiment. It’s not that Roko’s Basilisk will necessarily materialize, or is even likely to. It’s more that if you’ve committed yourself to timeless decision theory, then thinking about this sort of trade literally makes it more likely to happen. After all, if Roko’s Basilisk were to see that this sort of blackmail gets you to help it come into existence, then it would, as a rational actor, blackmail you. The problem isn’t with the Basilisk itself, but with you. Yudkowsky doesn’t censor every mention of Roko’s Basilisk because he believes it exists or will exist, but because he believes that the idea of the Basilisk (and the ideas behind it) is dangerous.
-> 
-> Now, Roko’s Basilisk is only dangerous if you believe all of the above preconditions and commit to making the two-box deal \[*sic*\] with the Basilisk. But at least some of the LessWrong members do believe all of the above, which makes Roko’s Basilisk quite literally forbidden knowledge. \[...\]
-> 
+>
+> Now, Roko’s Basilisk is only dangerous if you believe all of the above preconditions and commit to making the two-box deal \[*sic*\] with the Basilisk. But at least some of the LessWrong members do believe all of the above, which makes Roko’s Basilisk quite literally forbidden knowledge. \[…\]
+>
 > If you do not subscribe to the theories that underlie Roko’s Basilisk and thus feel no temptation to bow down to your once and future evil machine overlord, then Roko’s Basilisk poses you no threat. (It is ironic that it’s only a mental health risk to those who have already bought into Yudkowsky’s thinking.) Believing in Roko’s Basilisk may simply be a “referendum on autism,” as a friend put it.
 
 Other sources have repeated the claim that *Less Wrong* users think Roko's basilisk is a serious concern. However, none of these sources have yet cited supporting evidence on this point, aside from *Less Wrong* moderation activity itself. (The ban, of course, didn't make it easy to collect good information.)
@@ -123,16 +124,16 @@ Other sources have repeated the claim that *Less Wrong* users think Roko's basil
 Yudkowsky subsequently went into more detail about his thought processes [on Reddit](\"https://www.reddit.com/r/Futurology/comments/2cm2eg/rokos_basilisk/cjjbqqo\"):
 
 > When Roko posted about the Basilisk, I very foolishly yelled at him, called him an idiot, and then deleted the post.
-> 
+>
 > Why I did that is not something you have direct access to, and thus you should be careful about Making Stuff Up, especially when there are Internet trolls who are happy to tell you in a loud authoritative voice what I was thinking, despite having never passed anything even close to an Ideological Turing Test on Eliezer Yudkowsky.
-> 
-> Why I yelled at Roko: Because I was caught flatfooted in surprise, because I was indignant to the point of genuine emotional shock, at the concept that somebody who thought they'd invented a brilliant idea that would cause future AIs to torture people who had the thought, had promptly posted it to the public Internet. In the course of yelling at Roko to explain why this was a bad thing, I made the further error — keeping in mind that I had absolutely no idea that any of this would ever blow up the way it did, if I had I would obviously have kept my fingers quiescent — of not making it absolutely clear using lengthy disclaimers that my yelling did not mean that I believed Roko was right about CEV-based agents torturing people who had heard about Roko's idea. It was obvious to me that no CEV-based agent would ever do that and equally obvious to me that the part about CEV was just a red herring; I more or less automatically pruned it from my processing of the suggestion and automatically generalized it to cover the entire class of similar scenarios and variants, variants which I considered obvious despite significant divergences (I forgot that other people were not professionals in the field). This class of all possible variants did strike me as potentially dangerous as a collective group, even though it did not occur to me that Roko's original scenario might be right — that was obviously wrong, so my brain automatically generalized it. \[...\]
-> 
+>
+> Why I yelled at Roko: Because I was caught flatfooted in surprise, because I was indignant to the point of genuine emotional shock, at the concept that somebody who thought they'd invented a brilliant idea that would cause future AIs to torture people who had the thought, had promptly posted it to the public Internet. In the course of yelling at Roko to explain why this was a bad thing, I made the further error — keeping in mind that I had absolutely no idea that any of this would ever blow up the way it did, if I had I would obviously have kept my fingers quiescent — of not making it absolutely clear using lengthy disclaimers that my yelling did not mean that I believed Roko was right about CEV-based agents torturing people who had heard about Roko's idea. It was obvious to me that no CEV-based agent would ever do that and equally obvious to me that the part about CEV was just a red herring; I more or less automatically pruned it from my processing of the suggestion and automatically generalized it to cover the entire class of similar scenarios and variants, variants which I considered obvious despite significant divergences (I forgot that other people were not professionals in the field). This class of all possible variants did strike me as potentially dangerous as a collective group, even though it did not occur to me that Roko's original scenario might be right — that was obviously wrong, so my brain automatically generalized it. \[…\]
+>
 > What I considered to be obvious common sense was that you did not spread potential information hazards because it would be a crappy thing to do to someone. The problem wasn't Roko's post itself, about CEV, being correct. That thought never occurred to me for a fraction of a second. The problem was that Roko's post seemed near in idea-space to a large class of potential hazards, all of which, regardless of their plausibility, had the property that they presented no potential benefit to anyone. They were pure infohazards. The only thing they could possibly do was be detrimental to brains that represented them, if one of the possible variants of the idea turned out to be repairable of the obvious objections and defeaters. So I deleted it, because on my worldview there was no reason not to. I did not want LessWrong.com to be a place where people were exposed to potential infohazards because somebody like me thought they were being clever about reasoning that they probably weren't infohazards. On my view, the key fact about Roko's Basilisk wasn't that it was plausible, or implausible, the key fact was just that shoving it in people's faces seemed like a fundamentally crap thing to do because there was no upside.
-> 
-> Again, I deleted that post not because I had decided that this thing probably presented a real hazard, but because I was afraid some unknown variant of it might, and because it seemed to me like the obvious General Procedure For Handling Things That Might Be Infohazards said you shouldn't post them to the Internet. If you look at the original SF story where the term \\"basilisk\\" was coined, it's about a mind-erasing image and the.... trolls, I guess, though the story predates modern trolling, who go around spraypainting the Basilisk on walls, using computer guidance so they don't know themselves what the Basilisk looks like, in hopes the Basilisk will erase some innocent mind, for the lulz. These people are the villains of the story. The good guys, of course, try to erase the Basilisk from the walls. Painting Basilisks on walls is a crap thing to do. Since there was no upside to being exposed to Roko's Basilisk, its probability of being true was irrelevant. And Roko himself had thought this was a thing that might actually work. So I yelled at Roko for violating basic sanity about infohazards for stupid reasons, and then deleted the post. He, by his own lights, had violated the obvious code for the ethical handling of infohazards, conditional on such things existing, and I was indignant about this.
+>
+> Again, I deleted that post not because I had decided that this thing probably presented a real hazard, but because I was afraid some unknown variant of it might, and because it seemed to me like the obvious General Procedure For Handling Things That Might Be Infohazards said you shouldn't post them to the Internet. If you look at the original SF story where the term \\"basilisk\\" was coined, it's about a mind-erasing image and the…. trolls, I guess, though the story predates modern trolling, who go around spraypainting the Basilisk on walls, using computer guidance so they don't know themselves what the Basilisk looks like, in hopes the Basilisk will erase some innocent mind, for the lulz. These people are the villains of the story. The good guys, of course, try to erase the Basilisk from the walls. Painting Basilisks on walls is a crap thing to do. Since there was no upside to being exposed to Roko's Basilisk, its probability of being true was irrelevant. And Roko himself had thought this was a thing that might actually work. So I yelled at Roko for violating basic sanity about infohazards for stupid reasons, and then deleted the post. He, by his own lights, had violated the obvious code for the ethical handling of infohazards, conditional on such things existing, and I was indignant about this.
 
-## Big-picture questions
+## Big-picture Questions
 
 Several other questions are raised by Roko's basilisk, beyond the merits of Roko's original argument or *Less Wrong*'s moderation policies:
 
@@ -156,8 +157,8 @@ It hasn't been formally demonstrated that any logical decision theories give in 
 
 Because the basilisk threatens its blackmail targets with torture, it is a type of \\"utility function inverter\\": agents that seek to additionally pressure others by threatening to invert the non-compliant party's utility function. [Yudkowsky argues](https://www.lesswrong.com/posts/brXr7PJ2W4Na2EW2q/the-commitment-races-problem?commentId=tYBPjetgZW4iMqe4s) that sane, rational entities ought to be strongly opposed to utility function inverters by dint of not wanting to live in a reality where such tactics are commonly part of negotiations, though Yudkowsky did so as a comment about the irrationality of commitment races, not about Roko's basilisk:
 
-> IMO, commitment races only occur between agents who will, in some sense, act like idiots, if presented with an apparently 'committed' agent.  If somebody demands $6 from me in the Ultimatum game, threatening to leave us both with $0 unless I offer at least $6 to them... then I offer $6 with slightly less than 5/6 probability, so they do no better than if they demanded $5, the amount I think is fair.  They cannot evade that by trying to make some 'commitment' earlier than I do.  I expect that, whatever is the correct and sane version of this reasoning, it generalizes across all the cases.
-> 
+> IMO, commitment races only occur between agents who will, in some sense, act like idiots, if presented with an apparently 'committed' agent.  If somebody demands $6 from me in the Ultimatum game, threatening to leave us both with $0 unless I offer at least $6 to them… then I offer $6 with slightly less than 5/6 probability, so they do no better than if they demanded $5, the amount I think is fair.  They cannot evade that by trying to make some 'commitment' earlier than I do.  I expect that, whatever is the correct and sane version of this reasoning, it generalizes across all the cases.
+>
 > I am not locked into warfare with things that demand $6 instead of $5.  I do not go around figuring out how to invert their utility function for purposes of threatening them back - 'destroy all utility-function inverters (but do not invert their own utility functions)' was my guessed commandment that would be taught to kids in dath ilan, because you don't want reality to end up full of utilityfunction inverters.
 
 **Information hazards**
@@ -178,7 +179,7 @@ On the other hand, [Ozy Frantz argues](\"https://thingofthings.wordpress.com/201
 
 In \\"[The Economy of Weirdness](\"https://meteuphoric.wordpress.com/2015/03/08/the-economy-of-weirdness/\"),\\" Katja Grace paints a more complicated painting of the advantages and disadvantages of weirdness. Communities with different goals and different demographics will plausibly vary in how 'normal' they should try to look, and in what the relevant kind of normality is. E.g., if the goal is to get more people interested in AI control problems, then weird ideas like Roko's basilisk may drive away conventional theoretical computer scientists, but they may also attract people who favor (or are indifferent to) unorthodox ideas.
 
-## See also
+## See Also
 
 - [Decision Theory Readings](\"https://intelligence.org/research-guide/#four\") in MIRI's Research Guide
 - [Causal Decision Theory](\"https://plato.stanford.edu/entries/decision-causal/\") in the *Stanford Encyclopedia of Philosophy*

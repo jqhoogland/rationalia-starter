@@ -16,5 +16,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.885Z'
 ---
-# Bell's Theorem: No EPR "Reality"
 
+# Bell's Theorem: No EPR "Reality"

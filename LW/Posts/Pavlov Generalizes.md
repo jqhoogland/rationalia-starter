@@ -17,5 +17,5 @@ sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:55.064Z'
 ---
-# Pavlov Generalizes
 
+# Pavlov Generalizes

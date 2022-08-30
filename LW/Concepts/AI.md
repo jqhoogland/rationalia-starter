@@ -11,6 +11,7 @@ tags:
 core: true
 synchedAt: '2022-08-29T11:04:08.823Z'
 ---
+
 # AI
 
 **Artificial Intelligence** is the study of creating intelligence in algorithms. On LessWrong, the primary focus of AI discussion is to ensure that as humanity builds increasingly powerful AI systems, the outcome will be good. The central concern is that a powerful enough AI, if not designed and implemented with sufficient understanding, would optimize something unintended by its creators and pose an existential threat to the future of humanity. This is known as the *AI alignment* problem.

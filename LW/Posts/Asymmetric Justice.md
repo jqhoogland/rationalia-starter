@@ -17,5 +17,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.871Z'
 ---
-# Asymmetric Justice
 
+# Asymmetric Justice

@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:31.784Z'
 ---
+
 # Pre-Commitment
 
 Many [[Decision Theory]] problems involve pre-commitment or deciding in advance how you are going to act. This is crucial for game-theory, where an agent that has credibly pre-committed can force other actors to act differently than they would other otherwise acted. It is also important for problems with predictors like [[Newcomb's Problem]] where an agent which pre-commits [[One-Boxing|one-boxing]] guarantees (or almost guarantees) themselves the million. Lastly, it can be important for agents who are aware that they are likely to make a bad decision in the moment.

@@ -17,5 +17,5 @@ sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.485Z'
 ---
-# Rationality: An Introduction
 
+# Rationality: An Introduction

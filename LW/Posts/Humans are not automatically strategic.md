@@ -13,5 +13,5 @@ sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:56.870Z'
 ---
-# Humans are not automatically strategic
 
+# Humans Are Not Automatically Strategic

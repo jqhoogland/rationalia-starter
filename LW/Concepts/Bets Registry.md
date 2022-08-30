@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:48.329Z'
 ---
+
 # Bets Registry
 
 This page lists **bets made by members of LessWrong;** it is organised by the year the winner will be decided.

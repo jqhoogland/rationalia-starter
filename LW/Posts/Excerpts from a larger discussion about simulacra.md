@@ -18,5 +18,5 @@ sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.075Z'
 ---
-# Excerpts from a larger discussion about simulacra
 
+# Excerpts From a Larger Discussion About Simulacra

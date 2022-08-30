@@ -13,5 +13,5 @@ sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:56.739Z'
 ---
-# Making Beliefs Pay Rent (in Anticipated Experiences)
 
+# Making Beliefs Pay Rent (in Anticipated Experiences)

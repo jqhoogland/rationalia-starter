@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:13:22.898Z'
 ---
+
 # Eurisko
 
 ![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/c2f1a794d8e6c31cb516e448c8e64a01c32784ed26ec9e6f.jpg)
@@ -32,11 +33,11 @@ EURISKO's ability, like that of AM, was greatly limited by the need to enter man
 
 The status of the source code for EURISKO is unknown. Since Lenat originally stared the Cyc project for the purpose of supplying EURISKO with general knowledge, it is possible that he maintains the code for this purpose (perhaps under commercial ownership).
 
-## Blog posts
+## Blog Posts
 
 - [...Recursion, Magic](http://lesswrong.com/lw/w6/recursion_magic/)
 
-## See also
+## See Also
 
 - [[Cyc]]
 - [[Heuristic]]

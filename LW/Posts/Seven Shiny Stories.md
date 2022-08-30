@@ -15,5 +15,5 @@ sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:51.859Z'
 ---
-# Seven Shiny Stories
 
+# Seven Shiny Stories

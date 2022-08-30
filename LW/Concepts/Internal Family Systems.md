@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:21.562Z'
+aliase:
+- IFS
 ---
+
 # Internal Family Systems
 
 **Internal Family Systems**, or IFS, is a family therapy-descended model of the psyche and psychotherapy method based on the idea that the mind is split between *parts* called *exiles*, *managers*, and *firefighters*. Therapy consists of methods for allowing these parts to "talk" to each other so, for example, exiles can be reintegrated.

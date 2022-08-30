@@ -16,5 +16,5 @@ sequence: Probability and Predictions
 chapter: Interlude
 synchedAt: '2022-08-30T08:16:45.226Z'
 ---
-# Reverse Psychology
 
+# Reverse Psychology

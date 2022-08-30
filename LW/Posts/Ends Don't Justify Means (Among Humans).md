@@ -21,5 +21,5 @@ sequence: Ethical Injunctions
 chapter: null
 synchedAt: '2022-08-30T08:17:51.105Z'
 ---
-# Ends Don't Justify Means (Among Humans)
 
+# Ends Don't Justify Means (Among Humans)

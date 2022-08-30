@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:18.914Z'
 ---
+
 # Stagnation
 
 Quoting Jason Crawford's *Technological Stagnation: Why I came around:*

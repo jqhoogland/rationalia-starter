@@ -7,9 +7,8 @@ tags:
   - Jargon
 synchedAt: '2022-08-29T11:16:58.187Z'
 ---
+
 # OODA Loops
 
-
-
-Developed by John Boyd, a model of human cognition in which people repeatedly cycle through four phases: observe, orient, decide, act.  
+Developed by John Boyd, a model of human cognition in which people repeatedly cycle through four phases: observe, orient, decide, act.
  

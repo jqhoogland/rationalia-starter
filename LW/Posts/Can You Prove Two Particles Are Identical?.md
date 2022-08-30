@@ -17,5 +17,5 @@ sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.362Z'
 ---
-# Can You Prove Two Particles Are Identical?
 
+# Can You Prove Two Particles Are Identical?

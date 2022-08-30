@@ -19,5 +19,5 @@ sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:52.566Z'
 ---
-# The Pointers Problem: Human Values Are A Function Of Humans' Latent Variables
 
+# The Pointers Problem: Human Values Are A Function Of Humans' Latent Variables

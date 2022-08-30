@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:28.413Z'
 ---
+
 # Empathic Inference
 
 **Empathic inference** is every-day common mind-reading. It’s an inference made about other person’s mental states using your own brain as reference, by making your brain feel or think in the same way as the other person you can emulate their mental state and predict their reactions. This method is extremely less costly than trying to model the brain as a physical system and then calculating the expected reaction. It can be used in science, for example in cognitive psychology, it’s standard procedure to use a panel of reviewers ascribing emotional states and expected reactions to other individuals. However, it doesn’t reveal the underlying mechanisms behind the reactions and the emotional states[1](http://lesswrong.com/lw/sr/the_comedy_of_behaviorism/).

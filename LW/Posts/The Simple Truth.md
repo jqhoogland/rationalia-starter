@@ -20,5 +20,5 @@ sequence: Mysterious Answers
 chapter: Interlude
 synchedAt: '2022-08-30T08:17:40.359Z'
 ---
-# The Simple Truth
 
+# The Simple Truth

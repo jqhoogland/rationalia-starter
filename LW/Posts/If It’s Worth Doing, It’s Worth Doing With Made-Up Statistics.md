@@ -19,5 +19,5 @@ sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:16:45.115Z'
 ---
-# If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics
 
+# If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics

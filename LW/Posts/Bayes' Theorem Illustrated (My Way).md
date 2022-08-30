@@ -17,5 +17,5 @@ sequence: This is a new sequence
 chapter: This is a chapter
 synchedAt: '2022-08-30T08:17:45.286Z'
 ---
-# Bayes' Theorem Illustrated (My Way)
 
+# Bayes' Theorem Illustrated (My Way)

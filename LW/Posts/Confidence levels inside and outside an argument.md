@@ -13,5 +13,5 @@ sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:17:59.534Z'
 ---
-# Confidence levels inside and outside an argument
 
+# Confidence Levels Inside and Outside an Argument

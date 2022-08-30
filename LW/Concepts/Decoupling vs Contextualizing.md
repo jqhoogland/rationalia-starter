@@ -10,5 +10,5 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:10.435Z'
 ---
-# Decoupling vs Contextualizing
 
+# Decoupling Vs Contextualizing

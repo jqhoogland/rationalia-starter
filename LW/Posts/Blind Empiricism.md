@@ -15,5 +15,5 @@ sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.269Z'
 ---
-# Blind Empiricism
 
+# Blind Empiricism

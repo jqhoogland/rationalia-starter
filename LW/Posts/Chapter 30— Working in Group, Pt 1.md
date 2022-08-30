@@ -16,5 +16,5 @@ sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
 synchedAt: '2022-08-30T08:17:43.769Z'
 ---
-# Chapter 30: Working in Group, Pt 1
 
+# Chapter 30: Working in Group, Pt 1

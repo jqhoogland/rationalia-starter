@@ -18,5 +18,5 @@ sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:35.522Z'
 ---
-# How to Ignore Your Emotions (while also thinking you're awesome at emotions)
 
+# How to Ignore Your Emotions (while Also Thinking You're Awesome at emotions)

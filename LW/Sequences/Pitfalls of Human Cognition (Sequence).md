@@ -10,10 +10,13 @@ aliases:
   - Pitfalls of Human Cognition
 synchedAt: '2022-08-29T17:16:36.913Z'
 ---
+
 # Pitfalls of Human Cognition
 
-*Part 2 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*  
-  
+*Part 2 of 6 from the* [*Sequence Highlights*](https://www.lesswrong.com/highlights)*.*
+
+
+
 A major theme of the Sequences is the ways in which human reasoning goes astray. This sample of essays describes a number of failure modes and invokes us to do better.
 
 ## Chapters

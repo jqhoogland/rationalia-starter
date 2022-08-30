@@ -10,6 +10,7 @@ aliases:
   - Against Rationalization
 synchedAt: '2022-08-29T17:16:42.149Z'
 ---
+
 # Against Rationalization
 
 The last sequence focused in on how feeling tribal often distorts our ability to reason. Now we'll explore one particular cognitive mechanism that causes this: much of our reasoning process is really rationalization—story-telling that makes our current beliefs feel more coherent and justified, without necessarily improving their accuracy.

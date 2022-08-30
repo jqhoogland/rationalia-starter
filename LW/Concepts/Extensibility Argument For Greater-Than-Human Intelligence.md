@@ -10,6 +10,7 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:41.135Z'
 ---
+
 # Extensibility Argument For Greater-Than-Human Intelligence
 
 An **extensibility argument for greater-than-human intelligence** argues that once we get to a human level [AGI](https://wiki.lesswrong.com/wiki/AGI), extensibility would make an AGI of greater-than-human-intelligence feasible. It is identified by David Chalmers as one of the main premises for the [[Singularity|singularity]] and [[Intelligence Explosion|intelligence explosion]] hypothesis [^1^](#fn1). One intuitive ground for this argument is that information technologies have always presented a continuous development towards greater computational capacity. Chalmers presents the argument as below:
@@ -32,9 +33,9 @@ He says premises I and II follow directly from most definitions of ‘extendible
 
 ## References
 
-1.  Chalmers, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65. [http://consc.net/papers/singularity.pdf](http://consc.net/papers/singularity.pdf)[↩](#fnref1)
-2.  Muehlhauser, Luke & Salamon, Anna (2012). "Intelligence Explosion: Evidence and Import." In Singularity Hypotheses. Springer. [http://singularity.org/files/IE-EI.pdf](http://singularity.org/files/IE-EI.pdf)[↩](#fnref3)
-3.  Omohundro, Stephen M. 2007. The nature of self-improving artificial intelligence. Paper presented at Singularity Summit 2007, San Francisco, CA, Sept. 8–9. [http://singularity.org/summit2007/overview/abstracts/#omohundro](http://singularity.org/summit2007/overview/abstracts/#omohundro).[↩](#fnref4)
-4.  Omohundro, Stephen M. 2008. The basic AI drives. In Wang, Goertzel, and Franklin 2008, 483–492.[↩](#fnref5)
-5.  Omohundro, Stephen M. (Forthcoming) "Rational artificial intelligence for the greater good." In Eden, Søraker, Moor, and Steinhart, forthcoming[↩](#fnref6)
-6.  Bostrom, Nick. (2012) "The superintelligent will: Motivation and instrumental rationality in advanced artificial agents." In Theory and philosophy of AI, ed. Vincent C. Müller. Special issue, Minds and Machines 22 (2): 71–85. doi:10.1007/s11023-012-9281-3. [http://www.nickbostrom.com/superintelligentwill.pdf](http://www.nickbostrom.com/superintelligentwill.pdf)[↩](#fnref7)
+1. Chalmers, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65. [http://consc.net/papers/singularity.pdf](http://consc.net/papers/singularity.pdf)[↩](#fnref1)
+2. Muehlhauser, Luke & Salamon, Anna (2012). "Intelligence Explosion: Evidence and Import." In Singularity Hypotheses. Springer. [http://singularity.org/files/IE-EI.pdf](http://singularity.org/files/IE-EI.pdf)[↩](#fnref3)
+3. Omohundro, Stephen M. 2007. The nature of self-improving artificial intelligence. Paper presented at Singularity Summit 2007, San Francisco, CA, Sept. 8–9. [http://singularity.org/summit2007/overview/abstracts/#omohundro](http://singularity.org/summit2007/overview/abstracts/#omohundro).[↩](#fnref4)
+4. Omohundro, Stephen M. 2008. The basic AI drives. In Wang, Goertzel, and Franklin 2008, 483–492.[↩](#fnref5)
+5. Omohundro, Stephen M. (Forthcoming) "Rational artificial intelligence for the greater good." In Eden, Søraker, Moor, and Steinhart, forthcoming[↩](#fnref6)
+6. Bostrom, Nick. (2012) "The superintelligent will: Motivation and instrumental rationality in advanced artificial agents." In Theory and philosophy of AI, ed. Vincent C. Müller. Special issue, Minds and Machines 22 (2): 71–85. doi:10.1007/s11023-012-9281-3. [http://www.nickbostrom.com/superintelligentwill.pdf](http://www.nickbostrom.com/superintelligentwill.pdf)[↩](#fnref7)

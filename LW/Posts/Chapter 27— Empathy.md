@@ -15,5 +15,5 @@ sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
 synchedAt: '2022-08-30T08:17:43.679Z'
 ---
-# Chapter 27: Empathy
 
+# Chapter 27: Empathy
