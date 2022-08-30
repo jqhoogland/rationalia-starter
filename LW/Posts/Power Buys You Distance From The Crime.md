@@ -16,6 +16,7 @@ href: >-
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.930Z'
+status: todo
 ---
 
 # Power Buys You Distance From The Crime

@@ -14,6 +14,7 @@ href: >-
 sequence: This is a new sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:45.260Z'
+status: todo
 ---
 
 # 'An Objective Defense of Bayesianism'

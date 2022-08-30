@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/shPgZtpw7dEP6vZ65/chapter-113-final-exam
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.398Z'
+status: todo
 ---
 
 # Chapter 113: Final Exam

@@ -18,6 +18,7 @@ href: >-
 sequence: 2022 MIRI Alignment Discussion
 chapter: null
 synchedAt: '2022-08-30T08:17:01.533Z'
+status: todo
 ---
 
 # A Central AI Alignment Problem: Capabilities Generalization, and the Sharp Left Turn

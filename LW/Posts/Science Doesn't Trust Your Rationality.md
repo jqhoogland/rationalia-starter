@@ -16,6 +16,7 @@ href: >-
 sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.256Z'
+status: todo
 ---
 
 # Science Doesn't Trust Your Rationality

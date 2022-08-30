@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:27.388Z'
+status: todo
 ---
 
 # Mind Projection Fallacy

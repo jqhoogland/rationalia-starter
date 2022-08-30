@@ -16,6 +16,7 @@ href: >-
 sequence: The Science of Winning at Life
 chapter: null
 synchedAt: '2022-08-30T08:17:31.054Z'
+status: todo
 ---
 
 # The Good News of Situationist Psychology

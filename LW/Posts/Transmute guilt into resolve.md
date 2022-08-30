@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/zxTGg5AbGSNqkXHxH/transmute-guilt-into-res
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.129Z'
+status: todo
 ---
 
 # Transmute Guilt into Resolve

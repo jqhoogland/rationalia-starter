@@ -16,6 +16,7 @@ href: >-
 sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:40.468Z'
+status: todo
 ---
 
 # How Much Evidence Does It Take?

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:56.917Z'
+status: todo
 ---
 
 # Ethics & Morality

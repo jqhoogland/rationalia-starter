@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/4ZvJab25tDebB8FGE/you-get-about-five-words
 sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.239Z'
+status: todo
 ---
 
 # You Get About Five Words

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:10.410Z'
+status: todo
 ---
 
 # Positivism, Self Deception, and Neuroscience (Sequence)

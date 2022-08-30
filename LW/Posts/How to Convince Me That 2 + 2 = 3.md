@@ -17,6 +17,7 @@ href: >-
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.777Z'
+status: todo
 ---
 
 # How to Convince Me That 2 + 2 = 3

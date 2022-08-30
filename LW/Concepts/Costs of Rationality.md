@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:51.168Z'
+status: todo
 ---
 
 # Costs of Rationality

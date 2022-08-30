@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/WMDy4GxbyYkNrbmrs/in-praise-of-boredom
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.862Z'
+status: todo
 ---
 
 # In Praise of Boredom

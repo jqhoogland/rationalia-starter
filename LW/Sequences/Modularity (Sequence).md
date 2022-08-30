@@ -9,6 +9,7 @@ tags:
 aliases:
   - Modularity
 synchedAt: '2022-08-29T17:16:42.660Z'
+status: todo
 ---
 
 # Modularity

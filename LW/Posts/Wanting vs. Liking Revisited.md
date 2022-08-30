@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/eaczwARbFnrisFx8E/wanting-vs-liking-revisi
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.011Z'
+status: todo
 ---
 
 # Wanting Vs. Liking Revisited

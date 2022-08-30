@@ -10,6 +10,7 @@ tags:
 href: >-
   https://www.lesswrong.com/posts/r8stxYL29NF9w53am/doing-your-good-deed-for-the-day
 synchedAt: '2022-08-30T08:17:57.349Z'
+status: todo
 ---
 
 # Doing Your Good Deed for the Day

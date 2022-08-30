@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/dhGGnB2oxBP3m5cBc/can-counterfactuals-be-t
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.889Z'
+status: todo
 ---
 
 # Can Counterfactuals Be True?

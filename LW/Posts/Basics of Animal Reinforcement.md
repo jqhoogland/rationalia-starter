@@ -15,6 +15,7 @@ href: >-
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:51.921Z'
+status: todo
 ---
 
 # Basics of Animal Reinforcement

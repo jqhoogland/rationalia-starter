@@ -16,6 +16,7 @@ href: >-
 sequence: 2022 MIRI Alignment Discussion
 chapter: null
 synchedAt: '2022-08-30T08:17:01.517Z'
+status: todo
 ---
 
 # AGI Ruin: A List of Lethalities

@@ -16,6 +16,7 @@ href: >-
 sequence: This is a new sequence
 chapter: This is a chapter
 synchedAt: '2022-08-30T08:17:45.286Z'
+status: todo
 ---
 
 # Bayes' Theorem Illustrated (My Way)

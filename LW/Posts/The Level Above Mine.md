@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.410Z'
+status: todo
 ---
 
 # The Level Above Mine

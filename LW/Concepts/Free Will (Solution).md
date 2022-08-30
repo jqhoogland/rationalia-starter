@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:36.358Z'
+status: todo
 ---
 
 # Free Will (Solution)

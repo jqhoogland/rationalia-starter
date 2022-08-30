@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:06:11.951Z'
 aliases:
   - Disconfirmation bias
+status: todo
 ---
 
 # Motivated Skepticism

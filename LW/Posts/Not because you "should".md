@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/FPQuv8TwTLPLsrJCk/not-because-you-should
 sequence: Replacing Guilt
 chapter: Drop your obligations
 synchedAt: '2022-08-30T08:16:32.694Z'
+status: todo
 ---
 
 # Not Because You "should"

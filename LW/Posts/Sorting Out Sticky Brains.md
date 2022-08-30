@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/L4GGomr86sEwxzPvS/sorting-out-sticky-brain
 sequence: Living Luminously
 chapter: Background Material
 synchedAt: '2022-08-30T08:17:51.418Z'
+status: todo
 ---
 
 # Sorting Out Sticky Brains

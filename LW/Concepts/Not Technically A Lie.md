@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:39.219Z'
+status: todo
 ---
 
 # Not Technically A Lie

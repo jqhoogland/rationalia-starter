@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:29.335Z'
+status: todo
 ---
 
 # ET Jaynes

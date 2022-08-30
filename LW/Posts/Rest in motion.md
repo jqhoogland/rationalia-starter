@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/Kdgpm7t9gZvWncZqa/rest-in-motion
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.741Z'
+status: todo
 ---
 
 # Rest in Motion

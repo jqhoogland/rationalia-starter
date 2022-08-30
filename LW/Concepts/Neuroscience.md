@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:03.513Z'
+status: todo
 ---
 
 # Neuroscience

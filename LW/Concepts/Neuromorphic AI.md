@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:39.904Z'
+status: todo
 ---
 
 # Neuromorphic AI

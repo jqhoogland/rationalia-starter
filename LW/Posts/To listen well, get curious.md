@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/4K5pJnKBGkqqTbyxx/to-listen-well-get-curio
 sequence: Reality & Reason
 chapter: null
 synchedAt: '2022-08-30T08:17:52.465Z'
+status: todo
 ---
 
 # To Listen Well, Get Curious

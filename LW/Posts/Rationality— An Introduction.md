@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/8qccXytpkEhEAkjjM/rationality-an-introduct
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.485Z'
+status: todo
 ---
 
 # Rationality: An Introduction

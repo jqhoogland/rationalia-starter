@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Q8evewZW5SeidLdbA/your-price-for-joining
 sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:54.880Z'
+status: todo
 ---
 
 # Your Price for Joining

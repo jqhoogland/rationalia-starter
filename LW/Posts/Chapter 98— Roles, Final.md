@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/Rm8g7qbzJ7k5WQmSz/chapter-98-roles-final
 sequence: '5: HJPEV and the Last Enemy'
 chapter: HJPEV and the Last Enemy
 synchedAt: '2022-08-30T08:17:42.763Z'
+status: todo
 ---
 
 # Chapter 98: Roles, Final

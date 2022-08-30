@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/cnYHFNBF3kZEyx24v/ghosts-in-the-machine
 sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.775Z'
+status: todo
 ---
 
 # Ghosts in the Machine

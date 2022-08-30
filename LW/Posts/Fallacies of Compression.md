@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/y5MxoeacRKKM3KQth/fallacies-of-compression
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.305Z'
+status: todo
 ---
 
 # Fallacies of Compression

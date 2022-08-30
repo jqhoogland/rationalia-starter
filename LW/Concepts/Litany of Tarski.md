@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:21.738Z'
+status: todo
 ---
 
 # Litany of Tarski

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:28.291Z'
+status: todo
 ---
 
 # Santa Claus

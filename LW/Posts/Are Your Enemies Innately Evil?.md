@@ -18,6 +18,7 @@ href: >-
 sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:54.660Z'
+status: todo
 ---
 
 # Are Your Enemies Innately Evil?

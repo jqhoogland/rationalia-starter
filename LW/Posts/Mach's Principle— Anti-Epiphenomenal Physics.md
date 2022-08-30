@@ -16,6 +16,7 @@ href: >-
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.049Z'
+status: todo
 ---
 
 # Mach's Principle: Anti-Epiphenomenal Physics

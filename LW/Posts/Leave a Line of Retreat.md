@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/3XgYbghWruBMrPTAL/leave-a-line-of-retreat
 sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.620Z'
+status: todo
 ---
 
 # Leave a Line of Retreat

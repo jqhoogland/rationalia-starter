@@ -17,6 +17,7 @@ href: >-
 sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.537Z'
+status: todo
 ---
 
 # You Are Likely To Be Eaten By A Grue

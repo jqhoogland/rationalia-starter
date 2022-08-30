@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:03.225Z'
+status: todo
 ---
 
 # Do The Math, Then Burn The Math and Go With Your Gut

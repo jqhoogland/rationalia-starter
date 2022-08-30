@@ -12,6 +12,7 @@ href: >-
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:56.413Z'
+status: todo
 ---
 
 # Brain Breakthrough! It's Made of Neurons!

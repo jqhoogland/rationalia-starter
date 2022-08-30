@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/msJA6B9ZjiiZxT6EZ/lawful-uncertainty
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:40.151Z'
+status: todo
 ---
 
 # Lawful Uncertainty

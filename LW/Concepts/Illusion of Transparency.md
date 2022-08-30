@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:47.180Z'
+status: todo
 ---
 
 # Illusion of Transparency

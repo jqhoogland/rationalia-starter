@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:29.426Z'
+status: todo
 ---
 
 # Value Extrapolation

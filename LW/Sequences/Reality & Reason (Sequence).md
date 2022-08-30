@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reality & Reason
 synchedAt: '2022-08-29T17:16:42.660Z'
+status: todo
 ---
 
 # Reality & Reason

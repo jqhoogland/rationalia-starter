@@ -12,6 +12,7 @@ href: >-
 sequence: Living Luminously
 chapter: Background Material
 synchedAt: '2022-08-30T08:17:58.501Z'
+status: todo
 ---
 
 # Generalizing From One Example

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:21.181Z'
+status: todo
 ---
 
 # Transformative AI

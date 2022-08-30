@@ -9,6 +9,7 @@ tags:
 aliases:
   - Quantum Physics and Many Worlds
 synchedAt: '2022-08-29T17:16:41.107Z'
+status: todo
 ---
 
 # Quantum Physics and Many Worlds

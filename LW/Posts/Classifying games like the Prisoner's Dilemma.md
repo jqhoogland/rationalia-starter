@@ -19,6 +19,7 @@ href: >-
 sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:55.000Z'
+status: todo
 ---
 
 # Classifying Games Like the Prisoner's Dilemma

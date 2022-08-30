@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/3Jpchgy53D2gB5qdk/my-childhood-role-model
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.486Z'
+status: todo
 ---
 
 # My Childhood Role Model

@@ -5,6 +5,7 @@ tags:
   - LessWrong
   - Sequence
 synchedAt: '2022-08-29T11:16:45.929Z'
+status: todo
 ---
 
 # Undefined

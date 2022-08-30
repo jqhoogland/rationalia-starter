@@ -9,6 +9,7 @@ tags:
 aliases:
   - Pitfalls of Human Cognition
 synchedAt: '2022-08-29T17:16:36.913Z'
+status: todo
 ---
 
 # Pitfalls of Human Cognition

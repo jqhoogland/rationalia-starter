@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/TMFNQoRZxM4CuRCY6/reason-isn-t-magic
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.383Z'
+status: todo
 ---
 
 # Reason Isn't Magic

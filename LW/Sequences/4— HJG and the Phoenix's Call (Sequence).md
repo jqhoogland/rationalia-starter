@@ -9,6 +9,7 @@ tags:
 aliases:
   - 4— HJG and the Phoenix's Call
 synchedAt: '2022-08-29T17:16:42.178Z'
+status: todo
 ---
 
 # 4: HJG and the Phoenix's Call

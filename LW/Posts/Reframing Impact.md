@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/xCxeBSHqMEaP3jDvY/reframing-impact
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.478Z'
+status: todo
 ---
 
 # Reframing Impact

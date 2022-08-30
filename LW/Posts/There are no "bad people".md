@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/2agT7asiBZJqfqKgH/there-are-no-bad-people
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.891Z'
+status: todo
 ---
 
 # There Are No "bad people"

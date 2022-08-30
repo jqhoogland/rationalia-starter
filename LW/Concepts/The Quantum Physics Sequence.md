@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:12:36.967Z'
+status: todo
 ---
 
 # The Quantum Physics Sequence

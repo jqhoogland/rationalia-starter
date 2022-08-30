@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/9ZodFr54FtpLThHZh/experiential-pica
 synchedAt: '2022-08-30T08:17:58.600Z'
+status: todo
 ---
 
 # Experiential Pica

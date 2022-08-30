@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:21.562Z'
 aliase:
-- IFS
+  - IFS
+status: todo
 ---
 
 # Internal Family Systems

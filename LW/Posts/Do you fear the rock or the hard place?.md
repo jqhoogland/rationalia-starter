@@ -17,6 +17,7 @@ href: >-
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.668Z'
+status: todo
 ---
 
 # Do You Fear the Rock or the Hard Place?

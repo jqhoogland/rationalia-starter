@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:13.709Z'
+status: todo
 ---
 
 # Strong Opinions Weakly Held

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:47.270Z'
+status: todo
 ---
 
 # Updateless Decision Theory

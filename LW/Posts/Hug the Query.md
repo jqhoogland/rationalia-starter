@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/2jp98zdLo898qExrr/hug-the-query
 sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:54.747Z'
+status: todo
 ---
 
 # Hug the Query

@@ -20,6 +20,7 @@ href: >-
 sequence: Reality & Reason
 chapter: null
 synchedAt: '2022-08-30T08:17:52.611Z'
+status: todo
 ---
 
 # A Non-mystical Explanation of "no-self" (three Characteristics series)

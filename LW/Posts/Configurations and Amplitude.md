@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/5vZD32EynD9n94dhr/configurations-and-ampli
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.304Z'
+status: todo
 ---
 
 # Configurations and Amplitude

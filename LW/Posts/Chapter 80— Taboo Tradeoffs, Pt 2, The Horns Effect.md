@@ -15,6 +15,7 @@ href: >-
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.246Z'
+status: todo
 ---
 
 # Chapter 80: Taboo Tradeoffs, Pt 2, The Horns Effect

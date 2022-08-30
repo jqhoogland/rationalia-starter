@@ -11,7 +11,7 @@ tags:
   - Concept
 status: todo
 aliases:
-  - 
+  - null
 ---
 
 # Tapping Out

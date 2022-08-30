@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:19.386Z'
+status: todo
 ---
 
 # Litany of Hodgell

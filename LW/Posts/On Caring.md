@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/ur9TCRnHJighHmLCW/on-caring
 sequence: Why We Fight
 chapter: null
 synchedAt: '2022-08-30T08:16:33.485Z'
+status: todo
 ---
 
 # On Caring

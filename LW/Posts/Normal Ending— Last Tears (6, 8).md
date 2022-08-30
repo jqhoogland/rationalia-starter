@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/HWH46whexsoqR3yXk/normal-ending-last-tears
 sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.338Z'
+status: todo
 ---
 
 # Normal Ending: Last Tears (6/8)

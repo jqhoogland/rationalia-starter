@@ -16,6 +16,7 @@ href: >-
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.788Z'
+status: todo
 ---
 
 # Chapter 5: The Fundamental Attribution Error

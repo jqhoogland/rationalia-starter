@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/WLQspe83ZkiwBc2SR/double-crux
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.886Z'
+status: todo
 ---
 
 # Double Crux

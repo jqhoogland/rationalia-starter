@@ -19,6 +19,7 @@ href: https://www.lesswrong.com/posts/JJFphYfMsdFMuprBy/mental-mountains
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.690Z'
+status: todo
 ---
 
 # Mental Mountains

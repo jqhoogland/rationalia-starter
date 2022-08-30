@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/WQWhXzALcrzrJtqRh/secrets-of-the-eliminati
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.365Z'
+status: todo
 ---
 
 # Secrets of the Eliminati

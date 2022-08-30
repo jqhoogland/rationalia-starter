@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/K5nq3KcDXaGm7QQWR/bystander-apathy
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.772Z'
+status: todo
 ---
 
 # Bystander Apathy

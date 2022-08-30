@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/jxfu7CTc3NidinuXD/politics-is-hard-mode
 sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:54.815Z'
+status: todo
 ---
 
 # Politics is Hard Mode

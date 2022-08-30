@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:16.445Z'
+status: todo
 ---
 
 # Occam's Razor

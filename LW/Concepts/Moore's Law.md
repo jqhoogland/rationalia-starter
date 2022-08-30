@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:41.081Z'
+status: todo
 ---
 
 # Moore's Law

@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:05:29.389Z'
 aliases:
   - PCT
+status: todo
 ---
 
 # Perceptual Control Theory

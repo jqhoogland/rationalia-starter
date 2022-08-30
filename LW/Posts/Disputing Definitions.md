@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.149Z'
+status: todo
 ---
 
 # Disputing Definitions

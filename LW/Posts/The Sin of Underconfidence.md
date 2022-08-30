@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/pkFazhcTErMw7TFtT/the-sin-of-underconfiden
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.944Z'
+status: todo
 ---
 
 # The Sin of Underconfidence

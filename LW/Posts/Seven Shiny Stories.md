@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/9sguwESkteCgqFMbj/seven-shiny-stories
 sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:51.859Z'
+status: todo
 ---
 
 # Seven Shiny Stories

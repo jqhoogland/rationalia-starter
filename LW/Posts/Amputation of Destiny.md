@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/vwnSPgwtmLjvTK2Wa/amputation-of-destiny
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.779Z'
+status: todo
 ---
 
 # Amputation of Destiny

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/NyFtHycJvkyNjXNsP/chaotic-inversion
 sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:58.911Z'
+status: todo
 ---
 
 # Chaotic Inversion

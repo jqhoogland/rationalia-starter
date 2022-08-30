@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/rQEwySCcLtdKHkrHp/righting-a-wrong-questio
 sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:59.090Z'
+status: todo
 ---
 
 # Righting a Wrong Question

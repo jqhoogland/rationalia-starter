@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/EneHGx8t8skPKxHhv/decoherence-as-projectio
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.857Z'
+status: todo
 ---
 
 # Decoherence as Projection

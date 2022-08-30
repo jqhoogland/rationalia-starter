@@ -17,6 +17,7 @@ href: >-
 sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.668Z'
+status: todo
 ---
 
 # A Voting Theory Primer for Rationalists

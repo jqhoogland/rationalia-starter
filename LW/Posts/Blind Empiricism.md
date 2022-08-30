@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/6n9aKApfLre5WWvpG/blind-empiricism
 sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.269Z'
+status: todo
 ---
 
 # Blind Empiricism

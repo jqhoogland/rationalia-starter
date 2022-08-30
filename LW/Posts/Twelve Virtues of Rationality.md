@@ -9,8 +9,8 @@ tags:
   - Post
   - Virtues
   - Rationality
-href: >- 
- https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality
+href: >-
+  https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality
 sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:34:32.307Z'

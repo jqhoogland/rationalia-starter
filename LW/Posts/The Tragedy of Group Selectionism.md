@@ -16,6 +16,7 @@ href: >-
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.168Z'
+status: todo
 ---
 
 # The Tragedy of Group Selectionism

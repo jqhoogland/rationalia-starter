@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/BZMc9Xzqw5WcCMHrr/the-moral-of-the-story
 sequence: Categorisation and Concepts
 chapter: Interlude
 synchedAt: '2022-08-30T08:17:41.440Z'
+status: todo
 ---
 
 # The Moral Of The Story

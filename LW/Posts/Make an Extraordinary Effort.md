@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/GuEsfTpSDSbXFiseH/make-an-extraordinary-ef
 sequence: Challenging the Difficult
 chapter: null
 synchedAt: '2022-08-30T08:17:32.083Z'
+status: todo
 ---
 
 # Make an Extraordinary Effort

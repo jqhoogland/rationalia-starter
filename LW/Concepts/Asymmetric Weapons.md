@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:24.502Z'
+status: todo
 ---
 
 # Asymmetric Weapons

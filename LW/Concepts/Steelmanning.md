@@ -17,6 +17,7 @@ aliases:
   - Straw manning
   - Weak man
   - Weakmanning
+status: todo
 ---
 
 # Steelmanning

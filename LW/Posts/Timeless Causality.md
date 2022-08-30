@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/KipiHsTA3pw4joQkG/timeless-causality
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.107Z'
+status: todo
 ---
 
 # Timeless Causality

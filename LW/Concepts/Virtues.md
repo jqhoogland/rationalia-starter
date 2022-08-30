@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:05:08.015Z'
 aliases:
   - Virtue ethics
+status: todo
 ---
 
 # Virtues

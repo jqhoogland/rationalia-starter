@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/wP2ymm44kZZwaFPYh/belief-in-self-deception
 sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.683Z'
+status: todo
 ---
 
 # Belief in Self-Deception

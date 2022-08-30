@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/TzpjnLf3oyEegmu9r/being-unable-to-despair
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:32.925Z'
+status: todo
 ---
 
 # Being Unable to Despair

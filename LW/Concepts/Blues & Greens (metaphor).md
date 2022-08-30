@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T11:05:11.157Z'
 aliases:
   - Color politics
   - Blues & Greens
+status: todo
 ---
 
 # Blues & Greens (metaphor)

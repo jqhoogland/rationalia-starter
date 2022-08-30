@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T10:47:58.942Z'
 aliases:
   - Problem of verifying rationality
+status: todo
 ---
 
 # Rationality Verification

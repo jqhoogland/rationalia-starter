@@ -12,6 +12,7 @@ href: >-
 sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:17:57.681Z'
+status: todo
 ---
 
 # Talking Snakes: A Cautionary Tale

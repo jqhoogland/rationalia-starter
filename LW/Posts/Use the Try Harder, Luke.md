@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke
 sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:32.027Z'
+status: todo
 ---
 
 # Use the Try Harder, Luke

@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/f886riNJcArmpFahm/noticing-frame-differenc
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:17:55.161Z'
+status: todo
 ---
 
 # Noticing Frame Differences

@@ -9,6 +9,7 @@ tags:
 aliases:
   - 6— HJPEV and the Philosopher's Stone
 synchedAt: '2022-08-29T17:16:42.181Z'
+status: todo
 ---
 
 # 6: HJPEV and the Philosopher's Stone

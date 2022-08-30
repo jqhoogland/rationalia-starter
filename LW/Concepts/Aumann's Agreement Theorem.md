@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:46.757Z'
+status: todo
 ---
 
 # Aumann's Agreement Theorem

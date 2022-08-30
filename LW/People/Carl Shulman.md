@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:07:20.008Z'
+status: todo
 ---
 
 # Carl Shulman

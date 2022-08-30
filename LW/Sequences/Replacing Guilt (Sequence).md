@@ -9,6 +9,7 @@ tags:
 aliases:
   - Replacing Guilt
 synchedAt: '2022-08-29T17:16:36.964Z'
+status: todo
 ---
 
 # Replacing Guilt

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/yuKaWPRTxZoov4z8K/sneaking-in-connotations
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.365Z'
+status: todo
 ---
 
 # Sneaking in Connotations

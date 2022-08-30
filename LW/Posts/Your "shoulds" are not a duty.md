@@ -13,6 +13,7 @@ href: https://www.lesswrong.com/posts/jvByGYcBzfYB78sYL/your-shoulds-are-not-a-d
 sequence: Replacing Guilt
 chapter: Drop your obligations
 synchedAt: '2022-08-30T08:16:32.705Z'
+status: todo
 ---
 
 # Your "shoulds" Are Not a Duty

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/ZegT37QwLLRACtZjy/not-yet-gods
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.808Z'
+status: todo
 ---
 
 # Not yet Gods

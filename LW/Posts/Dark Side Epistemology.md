@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/XTWkjCJScy2GFAgDt/dark-side-epistemology
 sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:39.158Z'
+status: todo
 ---
 
 # Dark Side Epistemology

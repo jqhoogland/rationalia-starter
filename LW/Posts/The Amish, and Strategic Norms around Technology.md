@@ -15,6 +15,7 @@ href: >-
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.210Z'
+status: todo
 ---
 
 # The Amish, and Strategic Norms Around Technology

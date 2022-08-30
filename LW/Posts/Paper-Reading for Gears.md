@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/TPjbTXntR54XSZ3F2/paper-reading-for-gears
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.552Z'
+status: todo
 ---
 
 # Paper-Reading for Gears

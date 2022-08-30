@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/2jfiMgKkh7qw9z8Do/being-a-robust-agent
 sequence: Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:53.981Z'
+status: todo
 ---
 
 # Being a Robust Agent

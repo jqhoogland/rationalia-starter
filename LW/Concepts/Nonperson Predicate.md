@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:10:14.452Z'
+status: todo
 ---
 
 # Nonperson Predicate

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Concepts in formal epistemology
 synchedAt: '2022-08-29T17:16:42.692Z'
+status: todo
 ---
 
 # Concepts in Formal Epistemology

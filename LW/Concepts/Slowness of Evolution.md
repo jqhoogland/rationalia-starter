@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:08.000Z'
+status: todo
 ---
 
 # Slowness of Evolution

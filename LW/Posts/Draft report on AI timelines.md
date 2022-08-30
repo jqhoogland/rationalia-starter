@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timel
 sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:52.744Z'
+status: todo
 ---
 
 # Draft Report on AI Timelines

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Seeing with Fresh Eyes
 synchedAt: '2022-08-29T17:16:42.148Z'
+status: todo
 ---
 
 # Seeing with Fresh Eyes

@@ -17,6 +17,7 @@ href: >-
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.343Z'
+status: todo
 ---
 
 # Specification Gaming Examples in AI

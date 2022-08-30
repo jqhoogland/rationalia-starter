@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:29.222Z'
+status: todo
 ---
 
 # Prediction Markets

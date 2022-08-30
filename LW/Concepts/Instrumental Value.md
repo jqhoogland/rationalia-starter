@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:24.535Z'
+status: todo
 ---
 
 # Instrumental Value

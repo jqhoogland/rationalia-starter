@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.343Z'
+status: todo
 ---
 
 # Thou Art Godshatter

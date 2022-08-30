@@ -13,7 +13,8 @@ tags:
   - Updateless Decision Theory
 author: null
 status: todo
-aliases: [The Absent-Minded Driver]
+aliases:
+  - The Absent-Minded Driver
 ---
 
 # The Absent-Minded Driver

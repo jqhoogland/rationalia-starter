@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/Qr4MB9hFRzamuMRHJ/two-cult-koans
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:38.043Z'
+status: todo
 ---
 
 # Two Cult Koans

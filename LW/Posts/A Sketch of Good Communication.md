@@ -19,6 +19,7 @@ href: >-
 sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.053Z'
+status: todo
 ---
 
 # A Sketch of Good Communication

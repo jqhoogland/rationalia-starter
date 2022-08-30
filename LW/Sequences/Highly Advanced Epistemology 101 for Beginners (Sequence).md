@@ -9,6 +9,7 @@ tags:
 aliases:
   - Highly Advanced Epistemology 101 for Beginners
 synchedAt: '2022-08-29T17:16:41.102Z'
+status: todo
 ---
 
 # Highly Advanced Epistemology 101 for Beginners

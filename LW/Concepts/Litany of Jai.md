@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:42.351Z'
+status: todo
 ---
 
 # Litany of Jai

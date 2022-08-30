@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:31.784Z'
+status: todo
 ---
 
 # Pre-Commitment

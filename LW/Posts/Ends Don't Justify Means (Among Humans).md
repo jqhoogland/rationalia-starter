@@ -20,6 +20,7 @@ href: >-
 sequence: Ethical Injunctions
 chapter: null
 synchedAt: '2022-08-30T08:17:51.105Z'
+status: todo
 ---
 
 # Ends Don't Justify Means (Among Humans)

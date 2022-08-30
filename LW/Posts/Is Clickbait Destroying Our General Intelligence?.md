@@ -19,6 +19,7 @@ href: >-
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.320Z'
+status: todo
 ---
 
 # Is Clickbait Destroying Our General Intelligence?

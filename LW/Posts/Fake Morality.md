@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/fATPBv4pnHC33EmJ2/fake-morality
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.495Z'
+status: todo
 ---
 
 # Fake Morality

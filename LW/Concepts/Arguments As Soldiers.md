@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:10.795Z'
+status: todo
 ---
 
 # Arguments As Soldiers

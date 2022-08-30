@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:05:27.415Z'
 aliases:
   - Positive bias
+status: todo
 ---
 
 # Confirmation Bias

@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/ybusFwDqiZgQa6NCq/joint-configurations
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.317Z'
+status: todo
 ---
 
 # Joint Configurations

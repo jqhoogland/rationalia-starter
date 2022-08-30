@@ -15,6 +15,7 @@ href: >-
 sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:39.013Z'
+status: todo
 ---
 
 # Motivated Stopping and Motivated Continuation

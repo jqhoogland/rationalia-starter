@@ -12,6 +12,7 @@ href: >-
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:55.953Z'
+status: todo
 ---
 
 # Replace the Symbol with the Substance

@@ -13,6 +13,7 @@ href: https://www.lesswrong.com/posts/HpHnMEiHYzSZiYk6g/failing-with-abandon
 sequence: Replacing Guilt
 chapter: Preliminaries
 synchedAt: '2022-08-30T08:16:32.544Z'
+status: todo
 ---
 
 # Failing with Abandon

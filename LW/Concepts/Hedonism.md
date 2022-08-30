@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:56.325Z'
 aliases:
-- Hedonistic
+  - Hedonistic
+status: todo
 ---
 
 # Hedonism

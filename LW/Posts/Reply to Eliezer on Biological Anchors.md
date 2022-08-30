@@ -15,6 +15,7 @@ href: >-
 sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:53.593Z'
+status: todo
 ---
 
 # Reply to Eliezer on Biological Anchors

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/yEa7kwoMpsBgaBCgb/towards-a-new-impact-mea
 sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.304Z'
+status: todo
 ---
 
 # Towards a New Impact Measure

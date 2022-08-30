@@ -17,6 +17,7 @@ href: >-
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.130Z'
+status: todo
 ---
 
 # Integrity and Accountability Are Core Parts of Rationality

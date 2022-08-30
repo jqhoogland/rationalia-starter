@@ -15,6 +15,7 @@ href: >-
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:41.901Z'
+status: todo
 ---
 
 # Chapter 68: Self Actualization, Pt 3

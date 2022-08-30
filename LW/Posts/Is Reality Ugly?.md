@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/oKiy7YwGToaYXdvnj/is-reality-ugly
 sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.669Z'
+status: todo
 ---
 
 # Is Reality Ugly?

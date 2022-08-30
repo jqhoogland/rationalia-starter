@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/HwMfEcmxyM3eqqfvi/decoherent-essences
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.790Z'
+status: todo
 ---
 
 # Decoherent Essences

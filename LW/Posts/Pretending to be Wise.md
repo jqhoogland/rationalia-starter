@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/jeyvzALDbjdjjv5RW/pretending-to-be-wise
 sequence: Fake Beliefs
 chapter: null
 synchedAt: '2022-08-30T08:17:40.902Z'
+status: todo
 ---
 
 # Pretending to Be Wise

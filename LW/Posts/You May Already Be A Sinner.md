@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Cq45AuedYnzekp3LX/you-may-already-be-a-sin
 sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.397Z'
+status: todo
 ---
 
 # You May Already Be A Sinner

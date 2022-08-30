@@ -9,6 +9,7 @@ tags:
 aliases:
   - Positivism and Self Deception
 synchedAt: '2022-08-29T17:16:37.978Z'
+status: todo
 ---
 
 # Positivism and Self Deception

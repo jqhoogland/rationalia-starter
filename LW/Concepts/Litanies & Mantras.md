@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:52.809Z'
+status: todo
 ---
 
 # Litanies & Mantras

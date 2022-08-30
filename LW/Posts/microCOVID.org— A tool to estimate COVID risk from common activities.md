@@ -16,6 +16,7 @@ href: >-
 sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:34.086Z'
+status: todo
 ---
 
 # microCOVID.org: A Tool to Estimate COVID Risk From Common Activities

@@ -21,6 +21,7 @@ href: >-
 sequence: Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:53.952Z'
+status: todo
 ---
 
 # My Attempt to Explain Looking, Insight Meditation, and Enlightenment in Non-mysterious Terms

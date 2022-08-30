@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:17.557Z'
+status: todo
 ---
 
 # Systems Thinking

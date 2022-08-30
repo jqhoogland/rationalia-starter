@@ -9,6 +9,7 @@ tags:
 aliases:
   - 2021 MIRI Conversations
 synchedAt: '2022-08-29T17:16:42.660Z'
+status: todo
 ---
 
 # 2021 MIRI Conversations

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Overly Convenient Excuses
 synchedAt: '2022-08-29T17:16:42.150Z'
+status: todo
 ---
 
 # Overly Convenient Excuses

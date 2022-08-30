@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T11:02:43.866Z'
 aliases:
   - Inside View
   - Outside View
+status: todo
 ---
 
 # Inside, Outside View

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/cFzC996D7Jjds3vS9/arguing-by-definition
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.391Z'
+status: todo
 ---
 
 # Arguing "By Definition"

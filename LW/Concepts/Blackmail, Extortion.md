@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:20.579Z'
+status: todo
 ---
 
 # Blackmail, Extortion

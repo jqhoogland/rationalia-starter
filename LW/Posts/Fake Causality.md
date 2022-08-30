@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/RgkqLqkg8vLhsYpfh/fake-causality
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:58.885Z'
+status: todo
 ---
 
 # Fake Causality

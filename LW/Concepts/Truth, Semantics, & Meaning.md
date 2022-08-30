@@ -13,6 +13,7 @@ aliases:
   - Truth
   - Semantics
   - Meaning
+status: todo
 ---
 
 # Truth, Semantics, & Meaning

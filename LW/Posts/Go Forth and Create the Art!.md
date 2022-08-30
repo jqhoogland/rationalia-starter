@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/aFEsqd6ofwnkNqaXo/go-forth-and-create-the-
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.972Z'
+status: todo
 ---
 
 # Go Forth and Create the Art!

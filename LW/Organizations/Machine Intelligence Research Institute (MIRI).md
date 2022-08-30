@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:00.404Z'
+status: todo
 ---
 
 # Machine Intelligence Research Institute (MIRI)

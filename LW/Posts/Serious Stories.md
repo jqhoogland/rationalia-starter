@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/6qS9q5zHafFXsB6hf/serious-stories
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.955Z'
+status: todo
 ---
 
 # Serious Stories

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:22.275Z'
+status: todo
 ---
 
 # Impossible World

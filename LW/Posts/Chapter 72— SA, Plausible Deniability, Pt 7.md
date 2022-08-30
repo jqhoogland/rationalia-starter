@@ -15,6 +15,7 @@ href: >-
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.014Z'
+status: todo
 ---
 
 # Chapter 72: SA, Plausible Deniability, Pt 7

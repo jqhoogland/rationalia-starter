@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/fg9fXrHpeaDD6pEPL/truly-part-of-you
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:57.990Z'
+status: todo
 ---
 
 # Truly Part Of You

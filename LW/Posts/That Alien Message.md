@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:59.654Z'
+status: todo
 ---
 
 # That Alien Message

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:58.628Z'
+status: todo
 ---
 
 # Money: The Unit of Caring

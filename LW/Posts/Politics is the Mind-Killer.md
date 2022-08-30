@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-kil
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:57.746Z'
+status: todo
 ---
 
 # Politics is the Mind-Killer

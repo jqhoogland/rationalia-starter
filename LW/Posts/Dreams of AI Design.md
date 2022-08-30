@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/p7ftQ6acRkgo6hqHb/dreams-of-ai-design
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.589Z'
+status: todo
 ---
 
 # Dreams of AI Design

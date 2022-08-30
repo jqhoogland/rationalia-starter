@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/h6fzC6wFYFxxKDm8u/the-fabric-of-real-thing
 sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Physics and Causality
 synchedAt: '2022-08-30T08:17:30.604Z'
+status: todo
 ---
 
 # The Fabric of Real Things

@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/TLKPj4GDXetZuPDH5/making-history-available
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:40.243Z'
+status: todo
 ---
 
 # Making History Available

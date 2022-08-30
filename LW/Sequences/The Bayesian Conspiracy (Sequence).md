@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Bayesian Conspiracy
 synchedAt: '2022-08-29T17:16:42.602Z'
+status: todo
 ---
 
 # The Bayesian Conspiracy

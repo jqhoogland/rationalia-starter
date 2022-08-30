@@ -20,6 +20,7 @@ href: >-
 sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.328Z'
+status: todo
 ---
 
 # Status Regulation and Anxious Underconfidence

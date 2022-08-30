@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/ZmQv4DFx6y4jFbhLy/never-leave-your-room
 sequence: Priming
 chapter: null
 synchedAt: '2022-08-30T08:16:38.156Z'
+status: todo
 ---
 
 # Never Leave Your Room

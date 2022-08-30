@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/dKGfNvjGjq4rqffyF/living-by-your-own-stren
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.694Z'
+status: todo
 ---
 
 # Living By Your Own Strength

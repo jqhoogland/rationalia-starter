@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/S8ysHqeRGuySPttrS/many-worlds-one-best-gue
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.024Z'
+status: todo
 ---
 
 # Many Worlds, One Best Guess

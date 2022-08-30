@@ -16,6 +16,7 @@ aliases:
   - System 1/System 2
   - Dual Process Theory
   - DPT
+status: todo
 ---
 
 # Dual Process Theory (System 1 & System 2)

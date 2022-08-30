@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/WjpA4PCjt5EkTGbLF/bind-yourself-to-reality
 sequence: Joy in the Merely Real
 chapter: null
 synchedAt: '2022-08-30T08:17:56.215Z'
+status: todo
 ---
 
 # Bind Yourself to Reality

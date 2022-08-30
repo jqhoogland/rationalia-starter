@@ -18,6 +18,7 @@ href: >-
 sequence: Joy in the Merely Real
 chapter: null
 synchedAt: '2022-08-30T08:17:35.102Z'
+status: todo
 ---
 
 # Is Humanism A Religion-Substitute?

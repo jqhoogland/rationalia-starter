@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/9EahWKqay6HZcaNTY/fundamental-doubts
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.683Z'
+status: todo
 ---
 
 # Fundamental Doubts

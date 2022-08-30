@@ -9,6 +9,7 @@ tags:
 aliases:
   - This is a new sequence
 synchedAt: '2022-08-29T17:16:42.183Z'
+status: todo
 ---
 
 # This is a New Sequence

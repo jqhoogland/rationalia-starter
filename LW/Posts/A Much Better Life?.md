@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/5Qvvi23WT2unNCoS9/a-much-better-life
 synchedAt: '2022-08-30T08:17:59.684Z'
+status: todo
 ---
 
 # A Much Better Life?

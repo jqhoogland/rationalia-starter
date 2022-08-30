@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:21.424Z'
+status: todo
 ---
 
 # Peak-End Rule

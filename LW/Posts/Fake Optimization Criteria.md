@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/i6fKszWY6gLZSX2Ey/fake-optimization-criter
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.201Z'
+status: todo
 ---
 
 # Fake Optimization Criteria

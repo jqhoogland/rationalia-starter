@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:46.186Z'
+status: todo
 ---
 
 # Quick Reference Guide To The Infinite

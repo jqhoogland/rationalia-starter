@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/HYWhKXRsMAyvRKRYz/you-can-face-reality
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:37.535Z'
+status: todo
 ---
 
 # You Can Face Reality

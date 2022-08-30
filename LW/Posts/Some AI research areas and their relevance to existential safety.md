@@ -19,6 +19,7 @@ href: >-
 sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:52.982Z'
+status: todo
 ---
 
 # Some AI Research Areas and Their Relevance to Existential Safety

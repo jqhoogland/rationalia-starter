@@ -18,6 +18,7 @@ href: >-
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:35.407Z'
+status: todo
 ---
 
 # "Other People Are wrong" Vs "I Am right"

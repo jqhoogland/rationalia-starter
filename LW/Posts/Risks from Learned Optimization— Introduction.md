@@ -20,6 +20,7 @@ href: >-
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.239Z'
+status: todo
 ---
 
 # Risks From Learned Optimization: Introduction

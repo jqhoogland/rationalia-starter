@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/vy9nnPdwTjSmt5qdb/could-anything-be-right
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.833Z'
+status: todo
 ---
 
 # Could Anything Be Right?

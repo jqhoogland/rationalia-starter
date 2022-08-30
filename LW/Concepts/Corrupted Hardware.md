@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:08.453Z'
+status: todo
 ---
 
 # Corrupted Hardware

@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:05:38.811Z'
 aliases:
   - Bayesian
+status: todo
 ---
 
 # Bayesianism

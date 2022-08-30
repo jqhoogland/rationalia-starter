@@ -19,6 +19,7 @@ href: >-
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.636Z'
+status: todo
 ---
 
 # Where Physics Meets Experience

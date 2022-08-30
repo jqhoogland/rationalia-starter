@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/BwAt8C365BzaPBfrk/chapter-42-courage
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:42.934Z'
+status: todo
 ---
 
 # Chapter 42: Courage

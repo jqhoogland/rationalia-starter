@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/Mc6QcrsbH5NRXbCRX/dissolving-the-question
 sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:57.839Z'
+status: todo
 ---
 
 # Dissolving the Question

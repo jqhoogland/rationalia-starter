@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:37.225Z'
+status: todo
 ---
 
 # Near/Far Thinking

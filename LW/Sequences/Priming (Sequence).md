@@ -9,6 +9,7 @@ tags:
 aliases:
   - Priming
 synchedAt: '2022-08-29T17:16:37.132Z'
+status: todo
 ---
 
 # Priming

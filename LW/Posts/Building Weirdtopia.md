@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.987Z'
+status: todo
 ---
 
 # Building Weirdtopia

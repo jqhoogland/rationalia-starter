@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/ZHWiCM4QmX8WwYajH/goal-factoring-1
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.565Z'
+status: todo
 ---
 
 # Goal Factoring

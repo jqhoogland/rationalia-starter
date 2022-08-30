@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/bnY3L48TtDrKTzGRb/ai-safety-success-storie
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.458Z'
+status: todo
 ---
 
 # AI Safety "Success Stories"

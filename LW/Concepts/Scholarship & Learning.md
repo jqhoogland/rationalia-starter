@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:13.737Z'
+status: todo
 ---
 
 # Scholarship & Learning

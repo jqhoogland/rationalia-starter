@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:23.518Z'
+status: todo
 ---
 
 # Evolutionary Algorithm

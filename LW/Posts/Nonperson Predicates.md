@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/wqDRRx9RqwKLzWt7R/nonperson-predicates
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.757Z'
+status: todo
 ---
 
 # Nonperson Predicates

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fake Beliefs
 synchedAt: '2022-08-29T17:16:42.153Z'
+status: todo
 ---
 
 # Fake Beliefs

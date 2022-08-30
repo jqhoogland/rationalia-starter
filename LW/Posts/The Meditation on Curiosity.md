@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/3nZMgRTfFEfHp34Gb/the-meditation-on-curios
 sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:37.561Z'
+status: todo
 ---
 
 # The Meditation on Curiosity

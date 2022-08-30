@@ -17,6 +17,7 @@ href: >-
 sequence: Priming
 chapter: null
 synchedAt: '2022-08-30T08:16:38.264Z'
+status: todo
 ---
 
 # Fight Biases, or Route Around Them?

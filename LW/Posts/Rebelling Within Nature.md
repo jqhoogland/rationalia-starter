@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/YhNGY6ypoNbLJvDBu/rebelling-within-nature
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.710Z'
+status: todo
 ---
 
 # Rebelling Within Nature

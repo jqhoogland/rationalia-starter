@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:19.811Z'
+status: todo
 ---
 
 # Tribalism

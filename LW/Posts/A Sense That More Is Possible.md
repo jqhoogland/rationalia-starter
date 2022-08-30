@@ -16,6 +16,7 @@ href: >-
 sequence: Why We Fight
 chapter: null
 synchedAt: '2022-08-30T08:17:31.408Z'
+status: todo
 ---
 
 # A Sense That More Is Possible

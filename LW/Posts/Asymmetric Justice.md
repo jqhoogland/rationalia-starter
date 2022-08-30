@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/YRgMCXMbkKBZgMz4M/asymmetric-justice
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.871Z'
+status: todo
 ---
 
 # Asymmetric Justice

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/6NvbSwuSAooQxxf7f/beware-of-other-optimizi
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:58.733Z'
+status: todo
 ---
 
 # Beware of Other-Optimizing

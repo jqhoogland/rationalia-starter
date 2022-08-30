@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/po2xSrF25uvKBkDay/defiance
 sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.450Z'
+status: todo
 ---
 
 # Defiance

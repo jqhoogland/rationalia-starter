@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/f3o9ydY7iPjFF2fyk/focusing-1
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.829Z'
+status: todo
 ---
 
 # Focusing

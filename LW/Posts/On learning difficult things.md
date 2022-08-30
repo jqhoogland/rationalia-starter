@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/w5F4w8tNZc6LcBKRP/on-learning-difficult-th
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.864Z'
+status: todo
 ---
 
 # On Learning Difficult Things

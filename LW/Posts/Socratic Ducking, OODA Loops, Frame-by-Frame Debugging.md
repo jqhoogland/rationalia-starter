@@ -16,6 +16,7 @@ href: >-
 sequence: CFAR Handbook
 chapter: Flash Classes
 synchedAt: '2022-08-30T08:16:31.950Z'
+status: todo
 ---
 
 # Socratic Ducking, OODA Loops, Frame-by-Frame Debugging

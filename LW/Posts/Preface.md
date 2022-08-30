@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/uXn3LyA8eNqpvdoZw/preface
 sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:40.961Z'
+status: todo
 ---
 
 # Preface

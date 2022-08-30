@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/zJZvoiwydJ5zvzTHK/the-allais-paradox
 sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:32.579Z'
+status: todo
 ---
 
 # The Allais Paradox

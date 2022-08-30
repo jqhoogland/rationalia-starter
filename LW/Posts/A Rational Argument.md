@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/9f5EXt8KNNxTAihtZ/a-rational-argument
 sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:38.953Z'
+status: todo
 ---
 
 # A Rational Argument

@@ -8,6 +8,7 @@ tags:
 synchedAt: '2022-08-29T11:16:58.213Z'
 aliases:
   - Focused grit
+status: todo
 ---
 
 # Resolve Cycles

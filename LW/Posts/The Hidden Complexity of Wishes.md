@@ -17,6 +17,7 @@ href: >-
 sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.864Z'
+status: todo
 ---
 
 # The Hidden Complexity of Wishes

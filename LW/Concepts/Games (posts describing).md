@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:28.443Z'
+status: todo
 ---
 
 # Games (posts describing)

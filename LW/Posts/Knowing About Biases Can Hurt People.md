@@ -12,6 +12,7 @@ href: >-
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:56.922Z'
+status: todo
 ---
 
 # Knowing About Biases Can Hurt People

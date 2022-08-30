@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/xNBRkPNHAGQ6EQaLS/imperfect-voting-systems
 sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:43.008Z'
+status: todo
 ---
 
 # Imperfect Voting Systems

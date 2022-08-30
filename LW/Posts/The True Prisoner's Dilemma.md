@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/HFyWNBnDNEDsDNLrZ/the-true-prisoner-s-dile
 sequence: Value Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:33.242Z'
+status: todo
 ---
 
 # The True Prisoner's Dilemma

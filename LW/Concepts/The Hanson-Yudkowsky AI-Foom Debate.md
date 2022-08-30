@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:32.520Z'
+status: todo
 ---
 
 # The Hanson-Yudkowsky AI-Foom Debate

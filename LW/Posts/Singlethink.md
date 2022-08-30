@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/CahCppKy9HuXe3j2i/singlethink
 sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.382Z'
+status: todo
 ---
 
 # Singlethink

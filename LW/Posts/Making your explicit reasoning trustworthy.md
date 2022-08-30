@@ -10,6 +10,7 @@ tags:
 href: >-
   https://www.lesswrong.com/posts/m5AH78nscsGjMbBwv/making-your-explicit-reasoning-trustworthy
 synchedAt: '2022-08-30T08:17:57.929Z'
+status: todo
 ---
 
 # Making Your Explicit Reasoning Trustworthy

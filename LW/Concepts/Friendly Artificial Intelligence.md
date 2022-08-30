@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T11:05:46.653Z'
 aliases:
   - Friendly AI
   - FAI
+status: todo
 ---
 
 # Friendly Artificial Intelligence

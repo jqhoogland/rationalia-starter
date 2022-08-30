@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/okdusZkDRsQ6zCRDD/chapter-7-reciprocation
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.842Z'
+status: todo
 ---
 
 # Chapter 7: Reciprocation

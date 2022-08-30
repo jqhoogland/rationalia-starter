@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/MwQRucYo6BZZwjKE7/einstein-s-arrogance
 sequence: Noticing Confusion
 chapter: null
 synchedAt: '2022-08-30T08:17:40.493Z'
+status: todo
 ---
 
 # Einstein's Arrogance

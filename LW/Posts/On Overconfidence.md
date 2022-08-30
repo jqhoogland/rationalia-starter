@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/CcyGR3pp3FCDuW6Pf/on-overconfidence
 sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:16:45.082Z'
+status: todo
 ---
 
 # On Overconfidence

@@ -19,6 +19,7 @@ href: https://www.lesswrong.com/posts/zqwWicCLNBSA5Ssmn/by-which-it-may-be-judge
 sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Mixed Reference
 synchedAt: '2022-08-30T08:17:30.913Z'
+status: todo
 ---
 
 # By Which It May Be Judged

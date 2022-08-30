@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/K4aGvLnHvYgX9pZHS/the-fun-theory-sequence
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.564Z'
+status: todo
 ---
 
 # The Fun Theory Sequence

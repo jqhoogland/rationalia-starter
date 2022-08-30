@@ -18,6 +18,7 @@ href: >-
 sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.627Z'
+status: todo
 ---
 
 # On the Loss and Preservation of Knowledge

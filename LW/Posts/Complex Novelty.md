@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/aEdqh3KPerBNYvoWe/complex-novelty
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.656Z'
+status: todo
 ---
 
 # Complex Novelty

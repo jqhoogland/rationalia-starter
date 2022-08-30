@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/ovvwAhKKoNbfcMz8K/on-expressing-your-conce
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:38.136Z'
+status: todo
 ---
 
 # On Expressing Your Concerns

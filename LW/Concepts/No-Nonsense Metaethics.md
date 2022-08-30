@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:10:07.542Z'
+status: todo
 ---
 
 # No-Nonsense Metaethics

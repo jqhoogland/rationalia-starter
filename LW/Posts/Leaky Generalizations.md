@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/Tc2H9KbKRjuDJ3WSS/leaky-generalizations
 sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.837Z'
+status: todo
 ---
 
 # Leaky Generalizations

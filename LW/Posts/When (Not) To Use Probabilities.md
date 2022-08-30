@@ -19,6 +19,7 @@ href: >-
 sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:32.774Z'
+status: todo
 ---
 
 # When (Not) To Use Probabilities

@@ -15,6 +15,7 @@ href: >-
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
 synchedAt: '2022-08-30T08:17:42.067Z'
+status: todo
 ---
 
 # Chapter 74: SA, Escalation of Conflicts, Pt 9

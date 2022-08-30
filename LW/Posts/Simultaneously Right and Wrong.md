@@ -17,6 +17,7 @@ href: >-
 sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.297Z'
+status: todo
 ---
 
 # Simultaneously Right and Wrong

@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/TGux5Fhcd7GmTfNGC/is-that-your-true-reject
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:39.073Z'
+status: todo
 ---
 
 # Is That Your True Rejection?

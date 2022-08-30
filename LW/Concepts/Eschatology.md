@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:12.011Z'
+status: todo
 ---
 
 # Eschatology

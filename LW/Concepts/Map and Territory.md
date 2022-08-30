@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T10:59:59.134Z'
 aliases:
   - Map
   - Territory
+status: todo
 ---
 
 # Map and Territory

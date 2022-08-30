@@ -17,6 +17,7 @@ href: >-
 sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:51.835Z'
+status: todo
 ---
 
 # On Enjoying Disagreeable Company

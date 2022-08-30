@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/d5NyJ2Lf6N22AD9PB/where-to-draw-the-bounda
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.419Z'
+status: todo
 ---
 
 # Where to Draw the Boundary?

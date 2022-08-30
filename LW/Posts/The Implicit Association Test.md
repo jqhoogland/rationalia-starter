@@ -19,6 +19,7 @@ href: >-
 sequence: Priming
 chapter: null
 synchedAt: '2022-08-30T08:16:38.207Z'
+status: todo
 ---
 
 # The Implicit Association Test

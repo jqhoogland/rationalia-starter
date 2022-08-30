@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/3nxs2WYDGzJbzcLMp/words-as-hidden-inferenc
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:35.908Z'
+status: todo
 ---
 
 # Words as Hidden Inferences

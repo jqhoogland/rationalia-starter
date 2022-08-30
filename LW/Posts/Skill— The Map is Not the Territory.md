@@ -17,6 +17,7 @@ href: >-
 sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Introduction
 synchedAt: '2022-08-30T08:17:30.515Z'
+status: todo
 ---
 
 # Skill: The Map is Not the Territory

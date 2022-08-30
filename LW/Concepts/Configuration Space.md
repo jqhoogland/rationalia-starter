@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:31.039Z'
+status: todo
 ---
 
 # Configuration Space

@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/rLuZ6XrGpgjk9BNpX/the-abc-s-of-luminosity
 sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.598Z'
+status: todo
 ---
 
 # The ABC's of Luminosity

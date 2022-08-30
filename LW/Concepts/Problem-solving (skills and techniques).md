@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:18.037Z'
+status: todo
 ---
 
 # Problem-solving (skills and techniques)

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:17.118Z'
+status: todo
 ---
 
 # Industrial Revolution

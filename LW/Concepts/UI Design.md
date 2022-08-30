@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:08.561Z'
+status: todo
 ---
 
 # UI Design

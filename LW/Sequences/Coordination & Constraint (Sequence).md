@@ -9,6 +9,7 @@ tags:
 aliases:
   - Coordination & Constraint
 synchedAt: '2022-08-29T17:16:36.967Z'
+status: todo
 ---
 
 # Coordination & Constraint

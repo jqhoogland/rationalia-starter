@@ -17,6 +17,7 @@ href: >-
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.275Z'
+status: todo
 ---
 
 # Why Did Everything Take so Long?

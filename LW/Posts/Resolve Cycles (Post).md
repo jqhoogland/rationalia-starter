@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/jiJquD34sa9Lyo5wc/resolve-cycles
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.804Z'
+status: todo
 ---
 
 # Resolve Cycles

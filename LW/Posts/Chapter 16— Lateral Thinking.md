@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/iW7zmuBaskKcaErGC/chapter-16-lateral-think
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:45.094Z'
+status: todo
 ---
 
 # Chapter 16: Lateral Thinking

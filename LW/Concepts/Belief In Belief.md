@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:34.093Z'
+status: todo
 ---
 
 # Belief In Belief

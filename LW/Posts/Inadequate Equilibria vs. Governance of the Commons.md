@@ -17,6 +17,7 @@ href: >-
 sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.721Z'
+status: todo
 ---
 
 # Inadequate Equilibria Vs. Governance of the Commons

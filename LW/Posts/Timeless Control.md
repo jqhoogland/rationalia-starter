@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/YYLmZFEGKsjCKQZut/timeless-control
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.180Z'
+status: todo
 ---
 
 # Timeless Control

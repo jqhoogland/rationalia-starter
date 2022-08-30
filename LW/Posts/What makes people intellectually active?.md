@@ -19,6 +19,7 @@ href: >-
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.340Z'
+status: todo
 ---
 
 # What Makes People Intellectually Active?

@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/aiQabnugDhcrFtr9n/the-power-of-intelligenc
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:36.986Z'
+status: todo
 ---
 
 # The Power of Intelligence

@@ -16,6 +16,7 @@ href: >-
 sequence: Replacing Guilt
 chapter: Related
 synchedAt: '2022-08-30T08:16:33.563Z'
+status: todo
 ---
 
 # Self-signaling the Ability to Do What You Want

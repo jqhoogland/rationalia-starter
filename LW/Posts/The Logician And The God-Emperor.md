@@ -15,6 +15,7 @@ href: >-
 sequence: Probability and Predictions
 chapter: Interlude
 synchedAt: '2022-08-30T08:16:45.197Z'
+status: todo
 ---
 
 # The Logician And The God-Emperor

@@ -19,6 +19,7 @@ href: >-
 sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.068Z'
+status: todo
 ---
 
 # Building up to an Internal Family Systems Model

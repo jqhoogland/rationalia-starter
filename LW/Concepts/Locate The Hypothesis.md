@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:50.603Z'
+status: todo
 ---
 
 # Locate The Hypothesis

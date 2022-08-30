@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/szAkYJDtXkcSAiHYE/whither-moral-progress
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.773Z'
+status: todo
 ---
 
 # Whither Moral Progress?

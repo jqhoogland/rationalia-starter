@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:56.472Z'
+status: todo
 ---
 
 # Zombies! Zombies?

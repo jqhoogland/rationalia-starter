@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/QfpHRAMRM2HjteKFK/continuous-improvement
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.668Z'
+status: todo
 ---
 
 # Continuous Improvement

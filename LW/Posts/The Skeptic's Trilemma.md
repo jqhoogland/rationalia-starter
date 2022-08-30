@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/M7rwT264CSYY6EdR3/the-skeptic-s-trilemma
 sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.484Z'
+status: todo
 ---
 
 # The Skeptic's Trilemma

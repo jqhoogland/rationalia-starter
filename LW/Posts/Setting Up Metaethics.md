@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/T7tYmfD9j25uLwqYk/setting-up-metaethics
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.016Z'
+status: todo
 ---
 
 # Setting Up Metaethics

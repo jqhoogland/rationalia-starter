@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/TynBiYt6zg42StRbb/my-kind-of-reflection
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.634Z'
+status: todo
 ---
 
 # My Kind of Reflection

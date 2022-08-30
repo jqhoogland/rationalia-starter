@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:54.967Z'
+status: todo
 ---
 
 # The SF Bay Area

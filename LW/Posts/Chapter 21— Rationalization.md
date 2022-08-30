@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/fdiYakAc5N4z4N4Nq/chapter-21-rationalizati
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:45.235Z'
+status: todo
 ---
 
 # Chapter 21: Rationalization

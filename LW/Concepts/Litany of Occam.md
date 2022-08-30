@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:19.310Z'
+status: todo
 ---
 
 # Litany of Occam

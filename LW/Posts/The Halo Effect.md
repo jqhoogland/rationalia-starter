@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/ACGeaAk6KButv2xwQ/the-halo-effect
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.798Z'
+status: todo
 ---
 
 # The Halo Effect

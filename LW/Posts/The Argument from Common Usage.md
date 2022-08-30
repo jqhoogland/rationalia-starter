@@ -15,6 +15,7 @@ href: >-
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.208Z'
+status: todo
 ---
 
 # The Argument From Common Usage

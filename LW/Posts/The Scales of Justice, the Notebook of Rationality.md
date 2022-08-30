@@ -16,6 +16,7 @@ href: >-
 sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:54.608Z'
+status: todo
 ---
 
 # The Scales of Justice, the Notebook of Rationality

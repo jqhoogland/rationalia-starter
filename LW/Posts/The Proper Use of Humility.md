@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/GrDqnMjhqoxiqpQPw/the-proper-use-of-humili
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:57.288Z'
+status: todo
 ---
 
 # The Proper Use of Humility

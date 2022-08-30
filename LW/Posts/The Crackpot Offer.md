@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/qRWfvgJG75ESLRNu9/the-crackpot-offer
 sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.451Z'
+status: todo
 ---
 
 # The Crackpot Offer

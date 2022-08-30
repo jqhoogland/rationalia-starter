@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:40.616Z'
+status: todo
 ---
 
 # Evolutionary Argument For Human-Level AI

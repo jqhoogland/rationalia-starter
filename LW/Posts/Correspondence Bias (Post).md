@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias
 sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:54.633Z'
+status: todo
 ---
 
 # Correspondence Bias

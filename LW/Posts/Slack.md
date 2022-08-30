@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.645Z'
+status: todo
 ---
 
 # Slack

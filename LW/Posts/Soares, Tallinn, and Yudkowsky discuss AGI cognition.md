@@ -18,6 +18,7 @@ href: >-
 sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.502Z'
+status: todo
 ---
 
 # Soares, Tallinn, and Yudkowsky Discuss AGI Cognition

@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/fbv9FWss6ScDMJiAx/appendix-jargon-dictiona
 sequence: CFAR Handbook
 chapter: Appendices
 synchedAt: '2022-08-30T08:16:32.062Z'
+status: todo
 ---
 
 # Appendix: Jargon Dictionary

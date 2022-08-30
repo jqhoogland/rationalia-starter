@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:53.079Z'
+status: todo
 ---
 
 # Ambient Decision Theory

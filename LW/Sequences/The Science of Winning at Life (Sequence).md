@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Science of Winning at Life
 synchedAt: '2022-08-29T17:16:41.102Z'
+status: todo
 ---
 
 # The Science of Winning at Life

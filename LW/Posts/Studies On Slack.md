@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/GZSzMqr8hAB2dR8pk/studies-on-slack
 sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:34.190Z'
+status: todo
 ---
 
 # Studies On Slack

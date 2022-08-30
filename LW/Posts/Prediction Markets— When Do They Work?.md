@@ -15,6 +15,7 @@ href: >-
 sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.565Z'
+status: todo
 ---
 
 # Prediction Markets: When Do They Work?

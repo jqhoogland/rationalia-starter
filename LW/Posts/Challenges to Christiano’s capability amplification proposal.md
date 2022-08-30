@@ -16,6 +16,7 @@ href: >-
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.455Z'
+status: todo
 ---
 
 # Challenges to Christiano’s Capability Amplification Proposal

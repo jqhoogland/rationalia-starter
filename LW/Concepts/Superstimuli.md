@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:05:17.983Z'
 aliases:
   - superstimulus
+status: todo
 ---
 
 # Superstimuli

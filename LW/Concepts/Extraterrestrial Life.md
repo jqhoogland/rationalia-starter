@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:20.605Z'
+status: todo
 ---
 
 # Extraterrestrial Life

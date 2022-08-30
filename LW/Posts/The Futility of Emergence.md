@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/8QzZKw9WHRxjR4948/the-futility-of-emergenc
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:55.839Z'
+status: todo
 ---
 
 # The Futility of Emergence

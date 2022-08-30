@@ -12,6 +12,7 @@ href: >-
 sequence: Argument and Analysis
 chapter: null
 synchedAt: '2022-08-30T08:17:58.855Z'
+status: todo
 ---
 
 # Eight Short Studies On Excuses

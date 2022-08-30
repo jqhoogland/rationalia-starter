@@ -18,6 +18,7 @@ href: >-
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.514Z'
+status: todo
 ---
 
 # Is Rationalist Self-Improvement Real?

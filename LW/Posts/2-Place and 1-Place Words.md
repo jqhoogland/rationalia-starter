@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/eDpPnT7wdBwWPGvo5/2-place-and-1-place-word
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.379Z'
+status: todo
 ---
 
 # 2-Place And 1-Place Words

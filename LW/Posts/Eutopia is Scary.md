@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/hQSaMafoizBSa3gFR/eutopia-is-scary
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.970Z'
+status: todo
 ---
 
 # Eutopia is Scary

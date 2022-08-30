@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/X5RyaEDHNq5qutSHK/anti-social-punishment
 sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:17:54.009Z'
+status: todo
 ---
 
 # Anti-social Punishment

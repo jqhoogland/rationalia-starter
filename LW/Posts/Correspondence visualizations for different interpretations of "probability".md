@@ -16,6 +16,7 @@ href: >-
 sequence: Concepts in formal epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:55.349Z'
+status: todo
 ---
 
 # Correspondence Visualizations for Different Interpretations of "probability"

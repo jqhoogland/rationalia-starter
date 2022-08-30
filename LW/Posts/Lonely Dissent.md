@@ -19,6 +19,7 @@ href: https://www.lesswrong.com/posts/CEGnJBHmkcwPTysb7/lonely-dissent
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:38.171Z'
+status: todo
 ---
 
 # Lonely Dissent

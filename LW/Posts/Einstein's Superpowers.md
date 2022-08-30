@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/5o4EZJyqmHY4XgRCY/einstein-s-superpowers
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.498Z'
+status: todo
 ---
 
 # Einstein's Superpowers

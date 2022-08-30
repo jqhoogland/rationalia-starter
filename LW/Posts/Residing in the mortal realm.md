@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/ssP4LpD4wFj4H8yee/residing-in-the-mortal-r
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.912Z'
+status: todo
 ---
 
 # Residing in the Mortal Realm

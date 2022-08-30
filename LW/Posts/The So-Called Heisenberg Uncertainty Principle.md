@@ -15,6 +15,7 @@ href: >-
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.596Z'
+status: todo
 ---
 
 # The So-Called Heisenberg Uncertainty Principle

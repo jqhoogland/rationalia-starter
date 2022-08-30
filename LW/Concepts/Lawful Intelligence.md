@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:55.496Z'
+status: todo
 ---
 
 # Lawful Intelligence

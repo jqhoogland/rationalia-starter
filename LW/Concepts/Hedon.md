@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:13.071Z'
+status: todo
 ---
 
 # Hedon

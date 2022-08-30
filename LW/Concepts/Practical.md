@@ -10,6 +10,7 @@ tags:
   - Tag
 core: true
 synchedAt: '2022-08-29T11:04:10.167Z'
+status: todo
 ---
 
 # Practical

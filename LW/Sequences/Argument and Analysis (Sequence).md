@@ -9,6 +9,7 @@ tags:
 aliases:
   - Argument and Analysis
 synchedAt: '2022-08-29T17:16:42.156Z'
+status: todo
 ---
 
 # Argument and Analysis

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/bC9RCmv5cMtKZvJ2C/chapter-20-bayes-s-theor
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:45.204Z'
+status: todo
 ---
 
 # Chapter 20: Bayes's Theorem

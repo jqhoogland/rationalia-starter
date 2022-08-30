@@ -19,6 +19,7 @@ href: >-
 sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:41.074Z'
+status: todo
 ---
 
 # The Martial Art of Rationality

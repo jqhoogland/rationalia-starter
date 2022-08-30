@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/dWTEtgBfFaz6vjwQf/ethical-injunctions
 sequence: Ethical Injunctions
 chapter: null
 synchedAt: '2022-08-30T08:17:51.164Z'
+status: todo
 ---
 
 # Ethical Injunctions

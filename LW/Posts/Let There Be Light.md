@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Y6TpEEKZq6HXfhWxd/let-there-be-light
 sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.572Z'
+status: todo
 ---
 
 # Let There Be Light

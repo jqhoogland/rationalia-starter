@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/Zstm38omrpeu7iWeS/the-spotlight
 sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.656Z'
+status: todo
 ---
 
 # The Spotlight

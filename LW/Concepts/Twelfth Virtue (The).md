@@ -10,6 +10,7 @@ tags:
   - Tag
   - Concept
 children: []
+status: todo
 ---
 
 The **twelfth virtue** from the essay, [12 Virtues of Rationalilty](https://www.lesswrong.com/tag/12-virtues), by Eliezer Yudkowsky **the nameless virtue.** It is also referred to as the virtue *that stands before the others and the void.*

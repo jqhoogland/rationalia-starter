@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:06.455Z'
+status: todo
 ---
 
 # Progress Studies

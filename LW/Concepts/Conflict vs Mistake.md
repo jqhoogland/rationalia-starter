@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:10.439Z'
+status: todo
 ---
 
 # Conflict Vs Mistake

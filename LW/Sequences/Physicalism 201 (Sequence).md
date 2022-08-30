@@ -9,6 +9,7 @@ tags:
 aliases:
   - Physicalism 201
 synchedAt: '2022-08-29T17:16:41.107Z'
+status: todo
 ---
 
 # Physicalism 201

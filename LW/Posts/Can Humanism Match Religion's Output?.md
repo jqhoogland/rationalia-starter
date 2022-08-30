@@ -19,6 +19,7 @@ href: >-
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.607Z'
+status: todo
 ---
 
 # Can Humanism Match Religion's Output?

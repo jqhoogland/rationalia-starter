@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:07.751Z'
+status: todo
 ---
 
 # Bite The Bullet

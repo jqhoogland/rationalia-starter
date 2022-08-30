@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:05:39.443Z'
 aliases:
   - Continuum fallacy
+status: todo
 ---
 
 # Fallacy of Gray

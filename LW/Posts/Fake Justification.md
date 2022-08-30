@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/bfbiyTogEKWEGP96S/fake-justification
 sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:39.041Z'
+status: todo
 ---
 
 # Fake Justification

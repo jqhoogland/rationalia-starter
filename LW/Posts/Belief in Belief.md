@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/CqyJzDZWvGhhFJ7dY/belief-in-belief
 sequence: Fake Beliefs
 chapter: null
 synchedAt: '2022-08-30T08:17:58.537Z'
+status: todo
 ---
 
 # Belief in Belief

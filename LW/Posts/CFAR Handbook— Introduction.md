@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/dbDHEQyKqnMDDqq2G/cfar-handbook-introducti
 sequence: CFAR Handbook
 chapter: Getting Started
 synchedAt: '2022-08-30T08:16:31.449Z'
+status: todo
 ---
 
 # CFAR Handbook: Introduction

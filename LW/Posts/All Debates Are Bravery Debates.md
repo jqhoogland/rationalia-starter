@@ -16,6 +16,7 @@ href: >-
 sequence: Argument and Analysis
 chapter: null
 synchedAt: '2022-08-30T08:17:41.640Z'
+status: todo
 ---
 
 # All Debates Are Bravery Debates

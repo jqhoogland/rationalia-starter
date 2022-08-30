@@ -19,6 +19,7 @@ href: >-
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.882Z'
+status: todo
 ---
 
 # Resist the Happy Death Spiral

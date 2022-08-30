@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/rR36AjFKA2TRFyxQB/chapter-105-the-truth-pt
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.166Z'
+status: todo
 ---
 
 # Chapter 105: The Truth, Pt 2

@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/8GhSZzsQmusCN9is7/minds-an-introduction
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:36.957Z'
+status: todo
 ---
 
 # Minds: An Introduction

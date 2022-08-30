@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/BA7dRRrzMLyvfJr9J/my-best-and-worst-mistak
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.225Z'
+status: todo
 ---
 
 # My Best and Worst Mistake

@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/bcM5ft8jvsffsZZ4Y/the-parable-of-hemlock
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:35.882Z'
+status: todo
 ---
 
 # The Parable of Hemlock

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:11.372Z'
+status: todo
 ---
 
 # In-Group Bias

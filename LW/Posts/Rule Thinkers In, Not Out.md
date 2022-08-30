@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/u8GMcpEN9Z6aQiCvp/rule-thinkers-in-not-out
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.294Z'
+status: todo
 ---
 
 # Rule Thinkers In, Not Out

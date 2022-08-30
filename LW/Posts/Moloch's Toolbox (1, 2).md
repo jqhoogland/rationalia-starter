@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/x5ASTMPKPowLKpLpZ/moloch-s-toolbox-1-2
 sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.192Z'
+status: todo
 ---
 
 # Moloch's Toolbox (1/2)

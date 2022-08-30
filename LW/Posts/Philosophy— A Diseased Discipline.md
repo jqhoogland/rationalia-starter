@@ -10,6 +10,7 @@ tags:
 href: >-
   https://www.lesswrong.com/posts/FwiPfF8Woe5JrzqEu/philosophy-a-diseased-discipline
 synchedAt: '2022-08-30T08:17:58.822Z'
+status: todo
 ---
 
 # Philosophy: A Diseased Discipline

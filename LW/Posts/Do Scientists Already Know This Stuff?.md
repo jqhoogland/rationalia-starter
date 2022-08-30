@@ -15,6 +15,7 @@ href: >-
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.316Z'
+status: todo
 ---
 
 # Do Scientists Already Know This Stuff?

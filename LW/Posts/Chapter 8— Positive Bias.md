@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/i45GMZgheKTheF9nJ/chapter-8-positive-bias
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.868Z'
+status: todo
 ---
 
 # Chapter 8: Positive Bias

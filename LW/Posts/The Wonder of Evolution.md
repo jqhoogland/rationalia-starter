@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/ZyNak8F6WXjuEbWWc/the-wonder-of-evolution
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.052Z'
+status: todo
 ---
 
 # The Wonder of Evolution

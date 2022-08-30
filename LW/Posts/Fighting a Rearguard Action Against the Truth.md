@@ -16,6 +16,7 @@ href: >-
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.355Z'
+status: todo
 ---
 
 # Fighting a Rearguard Action Against the Truth

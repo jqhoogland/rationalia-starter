@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:02:44.741Z'
+status: todo
 ---
 
 # Developmental Psychology

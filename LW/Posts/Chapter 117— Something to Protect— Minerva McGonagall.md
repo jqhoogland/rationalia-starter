@@ -16,6 +16,7 @@ href: >-
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.508Z'
+status: todo
 ---
 
 # Chapter 117: Something to Protect: Minerva McGonagall

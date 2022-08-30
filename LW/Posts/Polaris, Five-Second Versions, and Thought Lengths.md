@@ -15,6 +15,7 @@ href: >-
 sequence: CFAR Handbook
 chapter: Flash Classes
 synchedAt: '2022-08-30T08:16:31.924Z'
+status: todo
 ---
 
 # Polaris, Five-Second Versions, and Thought Lengths

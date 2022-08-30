@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/HsRFQTAySAx8xbXEc/nonsentient-optimizers
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.797Z'
+status: todo
 ---
 
 # Nonsentient Optimizers

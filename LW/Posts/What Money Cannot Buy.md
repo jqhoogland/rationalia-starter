@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:17:52.420Z'
+status: todo
 ---
 
 # What Money Cannot Buy

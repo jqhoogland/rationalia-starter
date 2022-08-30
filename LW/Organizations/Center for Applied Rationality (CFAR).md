@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:00.438Z'
+status: todo
 ---
 
 # Center for Applied Rationality (CFAR)

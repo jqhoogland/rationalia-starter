@@ -9,6 +9,7 @@ tags:
 aliases:
   - Quantum Physics
 synchedAt: '2022-08-29T17:16:42.429Z'
+status: todo
 ---
 
 # Quantum Physics

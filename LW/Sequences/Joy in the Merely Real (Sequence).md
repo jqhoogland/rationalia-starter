@@ -9,6 +9,7 @@ tags:
 aliases:
   - Joy in the Merely Real
 synchedAt: '2022-08-29T17:16:41.107Z'
+status: todo
 ---
 
 # Joy in the Merely Real

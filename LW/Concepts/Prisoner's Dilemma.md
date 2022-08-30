@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:59.071Z'
+status: todo
 ---
 
 # Prisoner's Dilemma

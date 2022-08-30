@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/euPT8ddxxpDpKZmmS/self-compassion
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.860Z'
+status: todo
 ---
 
 # Self Compassion

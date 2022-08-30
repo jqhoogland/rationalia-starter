@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/uGsALatTCgkkqijaw/update-from-the-suckerpu
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.780Z'
+status: todo
 ---
 
 # Update From the Suckerpunch

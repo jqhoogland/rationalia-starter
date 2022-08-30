@@ -12,6 +12,7 @@ href: >-
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:59.030Z'
+status: todo
 ---
 
 # 37 Ways That Words Can Be Wrong

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/7iDtkfyn322nPzTP4/time-and-effort-discount
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:51.985Z'
+status: todo
 ---
 
 # Time and Effort Discounting

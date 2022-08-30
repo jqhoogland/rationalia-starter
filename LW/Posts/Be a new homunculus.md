@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/KGoNQZAnmfd4oDtfY/be-a-new-homunculus
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.795Z'
+status: todo
 ---
 
 # Be a New Homunculus

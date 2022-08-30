@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/gDNrpuwahdRrDJ9iY/evolving-to-extinction
 sequence: The Simple Math of Evolution
 chapter: null
 synchedAt: '2022-08-30T08:17:37.139Z'
+status: todo
 ---
 
 # Evolving to Extinction

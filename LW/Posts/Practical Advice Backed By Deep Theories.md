@@ -12,6 +12,7 @@ href: >-
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:57.142Z'
+status: todo
 ---
 
 # Practical Advice Backed By Deep Theories

@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/2rXiZFCxBcJzM9TMp/stop-trying-to-try-and-t
 sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.241Z'
+status: todo
 ---
 
 # Stop Trying to Try and Try

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:27.655Z'
+status: todo
 ---
 
 # Fully-General Counterargument

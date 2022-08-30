@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/29vqqmGNxNRGzffEj/high-challenge
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.623Z'
+status: todo
 ---
 
 # High Challenge

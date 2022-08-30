@@ -17,6 +17,7 @@ href: >-
 sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:54.760Z'
+status: todo
 ---
 
 # Rationality and the English Language

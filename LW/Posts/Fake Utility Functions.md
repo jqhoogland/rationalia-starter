@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/NnohDYHNnKDtbiMyp/fake-utility-functions
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.526Z'
+status: todo
 ---
 
 # Fake Utility Functions

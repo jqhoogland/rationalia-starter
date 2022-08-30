@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/5dhWhjfxn4tPfFQdi/physical-and-mental-beha
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.088Z'
+status: todo
 ---
 
 # Physical and Mental Behavior

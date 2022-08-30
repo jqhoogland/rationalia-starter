@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:48.329Z'
+status: todo
 ---
 
 # Bets Registry

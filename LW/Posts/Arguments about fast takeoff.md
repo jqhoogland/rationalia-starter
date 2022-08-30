@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-tak
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.315Z'
+status: todo
 ---
 
 # Arguments About Fast Takeoff

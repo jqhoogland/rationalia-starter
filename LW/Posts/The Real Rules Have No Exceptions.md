@@ -17,6 +17,7 @@ href: >-
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.161Z'
+status: todo
 ---
 
 # The Real Rules Have No Exceptions

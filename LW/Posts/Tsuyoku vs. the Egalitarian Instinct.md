@@ -16,6 +16,7 @@ href: >-
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.569Z'
+status: todo
 ---
 
 # Tsuyoku Vs. the Egalitarian Instinct

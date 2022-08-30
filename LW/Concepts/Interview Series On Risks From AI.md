@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:12.112Z'
+status: todo
 ---
 
 # Interview Series On Risks From AI

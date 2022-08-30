@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/DwtYPRuCxpXTrzG9m/my-wild-and-reckless-you
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:40.180Z'
+status: todo
 ---
 
 # My Wild and Reckless Youth

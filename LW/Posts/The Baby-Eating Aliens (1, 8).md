@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/n5TqCuizyJDfAPjkr/the-baby-eating-aliens-1
 sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.269Z'
+status: todo
 ---
 
 # The Baby-Eating Aliens (1/8)

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/RXQ5MkWkTCvLMGHrp/war-and-or-peace-2-8
 sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.282Z'
+status: todo
 ---
 
 # War and/or Peace (2/8)

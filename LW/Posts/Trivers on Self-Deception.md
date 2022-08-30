@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/DSnamjnW7Ad8vEEKd/trivers-on-self-deceptio
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.149Z'
+status: todo
 ---
 
 # Trivers on Self-Deception

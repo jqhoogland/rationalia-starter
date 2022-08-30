@@ -9,8 +9,9 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:38.107Z'
-aliases: 
-  - WBE 
+aliases:
+  - WBE
+status: todo
 ---
 
 # Whole Brain Emulation

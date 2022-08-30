@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/ZDZmopKquzHYPRNxq/selection-vs-control
 sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.380Z'
+status: todo
 ---
 
 # Selection Vs Control

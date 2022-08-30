@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/waqC6FihC2ryAZuAq/just-lose-hope-already
 sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.477Z'
+status: todo
 ---
 
 # Just Lose Hope Already

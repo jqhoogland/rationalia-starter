@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:06.758Z'
+status: todo
 ---
 
 # Existential Risk

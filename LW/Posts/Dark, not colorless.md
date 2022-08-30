@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/YSGRdB5aD6xEMcWzQ/dark-not-colorless
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.206Z'
+status: todo
 ---
 
 # Dark, Not Colorless

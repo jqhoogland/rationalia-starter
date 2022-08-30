@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:04:04.604Z'
 aliases:
-- IDC
+  - IDC
+status: todo
 ---
 
 # Internal Double Crux

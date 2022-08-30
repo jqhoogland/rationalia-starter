@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:11:27.888Z'
+status: todo
 ---
 
 # Rationality: From AI To Zombies

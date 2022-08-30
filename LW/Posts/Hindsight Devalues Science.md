@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-scien
 sequence: Noticing Confusion
 chapter: null
 synchedAt: '2022-08-30T08:17:56.798Z'
+status: todo
 ---
 
 # Hindsight Devalues Science

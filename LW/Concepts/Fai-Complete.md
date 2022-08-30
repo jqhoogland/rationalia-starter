@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:48.380Z'
+status: todo
 ---
 
 # Fai-Complete

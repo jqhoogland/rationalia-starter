@@ -12,6 +12,7 @@ href: >-
 sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:57.112Z'
+status: todo
 ---
 
 # Your Strength as a Rationalist

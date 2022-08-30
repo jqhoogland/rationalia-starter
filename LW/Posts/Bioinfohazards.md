@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/ygFc4caQ6Nws62dSW/bioinfohazards
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.426Z'
+status: todo
 ---
 
 # Bioinfohazards

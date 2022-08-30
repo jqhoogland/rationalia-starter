@@ -16,6 +16,7 @@ href: >-
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.670Z'
+status: todo
 ---
 
 # Lies, Damn Lies, and Fabricated Options

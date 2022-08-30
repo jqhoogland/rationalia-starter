@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/saw8WAML4NEaJ2Wmz/is-fairness-arbitrary
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.225Z'
+status: todo
 ---
 
 # Is Fairness Arbitrary?

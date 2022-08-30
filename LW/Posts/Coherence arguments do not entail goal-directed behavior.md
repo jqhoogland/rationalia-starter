@@ -20,6 +20,7 @@ href: >-
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.512Z'
+status: todo
 ---
 
 # Coherence Arguments Do Not Entail Goal-directed Behavior

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Connecting Words to Reality
 synchedAt: '2022-08-29T17:16:36.905Z'
+status: todo
 ---
 
 # Connecting Words to Reality

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Bonus— Best Essays of LessWrong
 synchedAt: '2022-08-29T17:16:36.888Z'
+status: todo
 ---
 
 # Bonus: Best Essays of LessWrong

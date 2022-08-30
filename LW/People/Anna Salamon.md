@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:53.754Z'
+status: todo
 ---
 
 # Anna Salamon

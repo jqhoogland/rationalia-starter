@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/hBKnkx8xvmhGZPdmg/goodhart-s-imperius-1
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.667Z'
+status: todo
 ---
 
 # Goodhart's Imperius

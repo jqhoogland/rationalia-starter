@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/NEeW7eSXThPz7o4Ne/thou-art-physics
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.162Z'
+status: todo
 ---
 
 # Thou Art Physics

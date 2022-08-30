@@ -17,6 +17,7 @@ href: >-
 sequence: 2022 MIRI Alignment Discussion
 chapter: null
 synchedAt: '2022-08-30T08:17:01.562Z'
+status: todo
 ---
 
 # On How Various Plans Miss the Hard Bits of the Alignment Challenge

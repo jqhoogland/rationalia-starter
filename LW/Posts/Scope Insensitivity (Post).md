@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity
 sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:41.018Z'
+status: todo
 ---
 
 # Scope Insensitivity

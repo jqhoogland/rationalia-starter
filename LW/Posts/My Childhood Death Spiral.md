@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/uD9TDHPwQ5hx4CgaX/my-childhood-death-spira
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.196Z'
+status: todo
 ---
 
 # My Childhood Death Spiral

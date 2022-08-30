@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:13.531Z'
+status: todo
 ---
 
 # Least Convenient Possible World

@@ -14,6 +14,7 @@ href: >-
 sequence: Replacing Guilt
 chapter: Fighting for something
 synchedAt: '2022-08-30T08:16:32.639Z'
+status: todo
 ---
 
 # Caring About Something Larger Than Yourself

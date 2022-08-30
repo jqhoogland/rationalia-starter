@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/F73oLhauzi6fJaYHo/recklessness
 sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.422Z'
+status: todo
 ---
 
 # Recklessness

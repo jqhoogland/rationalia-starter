@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/ooypcn7qFzsMcy53R/infinite-certainty
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.805Z'
+status: todo
 ---
 
 # Infinite Certainty

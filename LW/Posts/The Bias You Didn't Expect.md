@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/L8dB6yoMEWofoeDNt/the-bias-you-didn-t-expect
 synchedAt: '2022-08-30T08:17:57.405Z'
+status: todo
 ---
 
 # The Bias You Didn't Expect

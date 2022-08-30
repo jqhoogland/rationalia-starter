@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:45.534Z'
+status: todo
 ---
 
 # Good-Story Bias

@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ray's Coordination Sequence
 synchedAt: '2022-08-29T17:16:42.691Z'
+status: todo
 ---
 
 # Ray's Coordination Sequence

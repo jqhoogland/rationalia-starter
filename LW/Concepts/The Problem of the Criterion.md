@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:18.004Z'
+status: todo
 ---
 
 # The Problem of the Criterion

@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/7FzD7pNm9X68Gp5ZC/why-our-kind-can-t-coope
 sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:54.843Z'
+status: todo
 ---
 
 # Why Our Kind Can't Cooperate

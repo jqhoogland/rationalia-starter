@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/7mTFJ65CuhjiWz8tv/choose-without-suffering
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:32.988Z'
+status: todo
 ---
 
 # Choose without Suffering

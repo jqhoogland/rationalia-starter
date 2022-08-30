@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/nYkMLFpx77Rz3uo9c/belief-as-attire
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:40.868Z'
+status: todo
 ---
 
 # Belief as Attire

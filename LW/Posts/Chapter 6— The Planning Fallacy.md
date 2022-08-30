@@ -17,6 +17,7 @@ href: >-
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.814Z'
+status: todo
 ---
 
 # Chapter 6: The Planning Fallacy

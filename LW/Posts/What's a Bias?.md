@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/jnZbHi873v9vcpGpZ/what-s-a-bias
 sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:57.586Z'
+status: todo
 ---
 
 # What's a Bias?

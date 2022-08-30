@@ -16,6 +16,7 @@ href: >-
 sequence: Argument and Analysis
 chapter: null
 synchedAt: '2022-08-30T08:17:41.598Z'
+status: todo
 ---
 
 # Cardiologists and Chinese Robbers

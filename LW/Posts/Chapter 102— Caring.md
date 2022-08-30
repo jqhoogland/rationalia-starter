@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/vsASeE4KDP2nedgGv/chapter-102-caring
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.043Z'
+status: todo
 ---
 
 # Chapter 102: Caring

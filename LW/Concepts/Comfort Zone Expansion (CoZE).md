@@ -10,8 +10,9 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:59:53.549Z'
 aliases:
-- Comfort Zone Expansion
-- CoZE
+  - Comfort Zone Expansion
+  - CoZE
+status: todo
 ---
 
 # Comfort Zone Expansion (CoZE)

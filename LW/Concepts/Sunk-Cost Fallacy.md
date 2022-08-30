@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:28.660Z'
+status: todo
 ---
 
 # Sunk-Cost Fallacy

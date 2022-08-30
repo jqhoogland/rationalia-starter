@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/yDfxTj9TKYsYiWH5o/the-virtue-of-narrowness
 sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:58.472Z'
+status: todo
 ---
 
 # The Virtue of Narrowness

@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:38.294Z'
+status: todo
 ---
 
 # Cached Thoughts

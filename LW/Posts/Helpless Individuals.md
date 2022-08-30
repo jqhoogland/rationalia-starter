@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/f42BHX7rMw2dyFJfT/helpless-individuals
 sequence: The Craft and the Community
 chapter: null
 synchedAt: '2022-08-30T08:17:31.698Z'
+status: todo
 ---
 
 # Helpless Individuals

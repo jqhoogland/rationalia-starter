@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/A2Qam9Bd9xpbb2wLQ/game-theory-as-a-dark-ar
 sequence: Introduction to Game Theory
 chapter: null
 synchedAt: '2022-08-30T08:16:43.044Z'
+status: todo
 ---
 
 # Game Theory As A Dark Art

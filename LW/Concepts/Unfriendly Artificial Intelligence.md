@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T11:05:44.922Z'
 aliases:
   - Unfriendly AI
   - UFAI
+status: todo
 ---
 
 # Unfriendly Artificial Intelligence

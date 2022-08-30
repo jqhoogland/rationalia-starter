@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:13.080Z'
+status: todo
 ---
 
 # Giant Cheesecake Fallacy

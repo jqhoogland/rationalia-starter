@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:13.843Z'
+status: todo
 ---
 
 # Using AI to Solve Alignment

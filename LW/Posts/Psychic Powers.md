@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/7Au7kvRAPREm3ADcK/psychic-powers
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:34.869Z'
+status: todo
 ---
 
 # Psychic Powers

@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/C82z3KrtKWDTjhidv/there-is-no-try
 sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.268Z'
+status: todo
 ---
 
 # There is No Try

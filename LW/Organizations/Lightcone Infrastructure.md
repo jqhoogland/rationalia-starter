@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:19.910Z'
+status: todo
 ---
 
 # Lightcone Infrastructure

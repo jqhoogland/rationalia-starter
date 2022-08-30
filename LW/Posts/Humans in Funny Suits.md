@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Zkzzjg3h7hW5Z36hK/humans-in-funny-suits
 sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.721Z'
+status: todo
 ---
 
 # Humans in Funny Suits

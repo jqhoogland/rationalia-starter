@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/dpMZHpA59xFFjCqBp/the-value-of-a-life
 sequence: Replacing Guilt
 chapter: Related
 synchedAt: '2022-08-30T08:16:33.499Z'
+status: todo
 ---
 
 # The Value of a Life

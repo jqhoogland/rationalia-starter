@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/924arDrTu3QRHFA5r/timeless-identity
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.124Z'
+status: todo
 ---
 
 # Timeless Identity

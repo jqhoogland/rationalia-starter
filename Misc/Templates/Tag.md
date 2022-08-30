@@ -1,6 +1,6 @@
 ---
-_id: 
-title: 
+_id: null
+title: null
 href: https://lesswrong.com/tag/
 type: tag
 tags:
@@ -8,6 +8,7 @@ tags:
   - Concept
   - Tag
 synchedAt: ''
+status: todo
 ---
 
 #

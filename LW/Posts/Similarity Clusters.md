@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/jMTbQj9XB5ah2maup/similarity-clusters
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:35.968Z'
+status: todo
 ---
 
 # Similarity Clusters

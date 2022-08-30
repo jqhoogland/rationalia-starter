@@ -10,6 +10,7 @@ tags:
 href: >-
   https://www.lesswrong.com/posts/Fxv4o3LGEkgR2Qsz7/measuring-aversion-and-habit-strength
 synchedAt: '2022-08-30T08:17:58.939Z'
+status: todo
 ---
 
 # Measuring Aversion and Habit Strength

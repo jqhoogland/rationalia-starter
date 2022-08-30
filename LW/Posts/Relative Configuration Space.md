@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/vLZtf64wkyoAFNcu3/relative-configuration-s
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.061Z'
+status: todo
 ---
 
 # Relative Configuration Space

@@ -10,8 +10,9 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:48:16.953Z'
 aliases:
-- Inner Simulator
-- Surprise-o-meter
+  - Inner Simulator
+  - Surprise-o-meter
+status: todo
 ---
 
 # Inner Simulator, Suprise-o-meter

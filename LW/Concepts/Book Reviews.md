@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:14.728Z'
+status: todo
 ---
 
 # Book Reviews

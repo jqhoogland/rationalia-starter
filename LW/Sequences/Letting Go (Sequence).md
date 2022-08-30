@@ -9,6 +9,7 @@ tags:
 aliases:
   - Letting Go
 synchedAt: '2022-08-29T17:16:41.641Z'
+status: todo
 ---
 
 # Letting Go

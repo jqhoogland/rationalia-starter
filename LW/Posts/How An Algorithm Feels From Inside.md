@@ -12,6 +12,7 @@ href: >-
 sequence: Connecting Words to Reality
 chapter: null
 synchedAt: '2022-08-30T08:17:56.906Z'
+status: todo
 ---
 
 # How An Algorithm Feels From Inside

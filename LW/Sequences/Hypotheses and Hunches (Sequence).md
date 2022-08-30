@@ -9,6 +9,7 @@ tags:
 aliases:
   - Hypotheses and Hunches
 synchedAt: '2022-08-29T17:16:38.566Z'
+status: todo
 ---
 
 # Hypotheses and Hunches

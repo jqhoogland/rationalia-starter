@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/N5oXNbmtYG3kC2XJr/the-best-you-can
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.178Z'
+status: todo
 ---
 
 # The Best You Can

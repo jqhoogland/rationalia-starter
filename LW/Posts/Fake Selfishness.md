@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/Masoq4NdmmGSiq2xw/fake-selfishness
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.464Z'
+status: todo
 ---
 
 # Fake Selfishness

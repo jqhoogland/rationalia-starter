@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/i2dfY65JciebF3CAo/empty-labels
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.223Z'
+status: todo
 ---
 
 # Empty Labels

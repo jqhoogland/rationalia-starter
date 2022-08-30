@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/XTgkhjNTEi97WHMi6/pavlov-generalizes
 sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:55.064Z'
+status: todo
 ---
 
 # Pavlov Generalizes

@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/svoD5KLKHyAKEdwPo/against-modest-epistemol
 sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.296Z'
+status: todo
 ---
 
 # Against Modest Epistemology

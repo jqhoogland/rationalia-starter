@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/erGipespbbzdG5zYb/the-third-alternative
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.598Z'
+status: todo
 ---
 
 # The Third Alternative

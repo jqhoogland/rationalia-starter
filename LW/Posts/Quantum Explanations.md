@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/7FSwbFpDsca7uXpQ2/quantum-explanations
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.288Z'
+status: todo
 ---
 
 # Quantum Explanations

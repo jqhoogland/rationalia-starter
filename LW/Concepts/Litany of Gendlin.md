@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:41.759Z'
+status: todo
 ---
 
 # Litany of Gendlin

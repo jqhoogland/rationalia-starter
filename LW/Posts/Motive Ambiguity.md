@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/L6Ktf952cwdMJnzWm/motive-ambiguity
 sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:34.164Z'
+status: todo
 ---
 
 # Motive Ambiguity

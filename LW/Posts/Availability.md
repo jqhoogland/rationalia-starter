@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/R8cpqD3NA4rZxRdQ4/availability
 sequence: Predictably Wrong
 chapter: null
 synchedAt: '2022-08-30T08:17:41.101Z'
+status: todo
 ---
 
 # Availability

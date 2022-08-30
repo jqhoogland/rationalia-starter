@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:13.807Z'
+status: todo
 ---
 
 # Inner Alignment

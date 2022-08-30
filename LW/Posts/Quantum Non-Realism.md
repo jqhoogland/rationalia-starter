@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/k3823vuarnmL5Pqin/quantum-non-realism
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.977Z'
+status: todo
 ---
 
 # Quantum Non-Realism

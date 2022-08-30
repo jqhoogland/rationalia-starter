@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/x2KrcscqgKDk6pMeD/internal-double-crux-1
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.869Z'
+status: todo
 ---
 
 # Internal Double Crux

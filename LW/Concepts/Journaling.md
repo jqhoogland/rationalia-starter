@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:18.702Z'
+status: todo
 ---
 
 # Journaling

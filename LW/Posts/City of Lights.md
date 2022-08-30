@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/vfHRahpgbp9YFPuGQ/city-of-lights
 sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.719Z'
+status: todo
 ---
 
 # City of Lights

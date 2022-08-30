@@ -18,6 +18,7 @@ href: >-
 sequence: Categorisation and Concepts
 chapter: null
 synchedAt: '2022-08-30T08:17:41.417Z'
+status: todo
 ---
 
 # Ethnic Tension And Meaningless Arguments

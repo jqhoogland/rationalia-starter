@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/PGfJdgemDJSwWBZSX/science-isn-t-strict-eno
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.291Z'
+status: todo
 ---
 
 # Science Isn't Strict Enough

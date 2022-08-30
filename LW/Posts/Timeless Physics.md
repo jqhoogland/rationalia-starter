@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/rrW7yf42vQYDf8AcH/timeless-physics
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.083Z'
+status: todo
 ---
 
 # Timeless Physics

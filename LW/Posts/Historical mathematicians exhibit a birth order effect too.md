@@ -18,6 +18,7 @@ href: >-
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.428Z'
+status: todo
 ---
 
 # Historical Mathematicians Exhibit a Birth Order Effect Too

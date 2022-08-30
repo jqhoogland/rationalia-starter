@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:12.606Z'
+status: todo
 ---
 
 # Inductive Bias

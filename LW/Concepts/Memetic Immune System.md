@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:05.183Z'
+status: todo
 ---
 
 # Memetic Immune System

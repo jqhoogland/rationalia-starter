@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:44.159Z'
+status: todo
 ---
 
 # Epistemic Luck

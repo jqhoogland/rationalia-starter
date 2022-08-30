@@ -10,6 +10,7 @@ tags:
   - Tag
 core: true
 synchedAt: '2022-08-29T11:04:08.614Z'
+status: todo
 ---
 
 # World Modeling

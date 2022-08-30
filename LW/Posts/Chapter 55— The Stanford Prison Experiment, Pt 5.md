@@ -15,6 +15,7 @@ href: >-
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:43.302Z'
+status: todo
 ---
 
 # Chapter 55: The Stanford Prison Experiment, Pt 5

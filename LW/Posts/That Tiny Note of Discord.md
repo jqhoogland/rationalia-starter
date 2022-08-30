@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/SwCwG9wZcAzQtckwx/that-tiny-note-of-discor
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.330Z'
+status: todo
 ---
 
 # That Tiny Note of Discord

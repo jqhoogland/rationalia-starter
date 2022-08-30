@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/u6JzcFtPGiznFgDxP/excluding-the-supernatur
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:58.353Z'
+status: todo
 ---
 
 # Excluding the Supernatural

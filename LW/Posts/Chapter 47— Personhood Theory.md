@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/wmcbHtSJh5jCsJiPP/chapter-47-personhood-th
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:43.076Z'
+status: todo
 ---
 
 # Chapter 47: Personhood Theory

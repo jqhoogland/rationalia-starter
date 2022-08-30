@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/CtSS6SkHhLBvdodTY/harmful-options
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.728Z'
+status: todo
 ---
 
 # Harmful Options

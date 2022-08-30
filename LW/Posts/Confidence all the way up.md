@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/jFvPWZB5WAGkDBpqN/confidence-all-the-way-u
 sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.371Z'
+status: todo
 ---
 
 # Confidence All the Way up

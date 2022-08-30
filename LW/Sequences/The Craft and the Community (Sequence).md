@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Craft and the Community
 synchedAt: '2022-08-29T17:16:41.105Z'
+status: todo
 ---
 
 # The Craft and the Community

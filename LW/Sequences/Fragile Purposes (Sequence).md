@@ -9,6 +9,7 @@ tags:
 aliases:
   - Fragile Purposes
 synchedAt: '2022-08-29T17:16:41.640Z'
+status: todo
 ---
 
 # Fragile Purposes

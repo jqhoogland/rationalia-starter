@@ -9,6 +9,7 @@ tags:
 aliases:
   - Ethical Injunctions
 synchedAt: '2022-08-29T17:16:42.554Z'
+status: todo
 ---
 
 # Ethical Injunctions

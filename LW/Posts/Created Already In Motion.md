@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/CuSTqHgeK4CMpWYTe/created-already-in-motio
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.474Z'
+status: todo
 ---
 
 # Created Already In Motion

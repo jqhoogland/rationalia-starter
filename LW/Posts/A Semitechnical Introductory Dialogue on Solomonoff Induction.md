@@ -20,6 +20,7 @@ href: >-
 sequence: Concepts in formal epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:55.435Z'
+status: todo
 ---
 
 # A Semitechnical Introductory Dialogue on Solomonoff Induction

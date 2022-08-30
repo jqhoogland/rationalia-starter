@@ -9,6 +9,7 @@ tags:
 aliases:
   - Economics and Efficiency
 synchedAt: '2022-08-29T17:16:42.154Z'
+status: todo
 ---
 
 # Economics and Efficiency

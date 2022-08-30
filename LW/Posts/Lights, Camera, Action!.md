@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/v4ngP587MDZ5rC48Y/lights-camera-action
 sequence: Living Luminously
 chapter: Living Luminously
 synchedAt: '2022-08-30T08:17:51.626Z'
+status: todo
 ---
 
 # Lights, Camera, Action!

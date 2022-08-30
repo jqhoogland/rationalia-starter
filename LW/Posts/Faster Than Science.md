@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/xTyuQ3cgsPjifr7oj/faster-than-science
 sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.403Z'
+status: todo
 ---
 
 # Faster Than Science

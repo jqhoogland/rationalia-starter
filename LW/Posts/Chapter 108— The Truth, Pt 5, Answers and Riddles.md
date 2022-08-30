@@ -15,6 +15,7 @@ href: >-
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.257Z'
+status: todo
 ---
 
 # Chapter 108: The Truth, Pt 5, Answers and Riddles

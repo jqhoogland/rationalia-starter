@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Simple Math of Evolution
 synchedAt: '2022-08-29T17:16:41.641Z'
+status: todo
 ---
 
 # The Simple Math of Evolution

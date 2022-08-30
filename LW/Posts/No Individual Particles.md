@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/Cpf2jsZsNFNH5TSpc/no-individual-particles
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.429Z'
+status: todo
 ---
 
 # No Individual Particles

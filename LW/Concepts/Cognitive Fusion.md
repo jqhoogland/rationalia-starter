@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:26.582Z'
+status: todo
 ---
 
 # Cognitive Fusion

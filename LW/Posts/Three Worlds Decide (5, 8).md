@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/Z263n4TXJimKn6A8Z/three-worlds-decide-5-8
 sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.319Z'
+status: todo
 ---
 
 # Three Worlds Decide (5/8)

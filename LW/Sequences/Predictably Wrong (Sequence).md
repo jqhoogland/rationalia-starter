@@ -9,6 +9,7 @@ tags:
 aliases:
   - Predictably Wrong
 synchedAt: '2022-08-29T17:16:42.153Z'
+status: todo
 ---
 
 # Predictably Wrong

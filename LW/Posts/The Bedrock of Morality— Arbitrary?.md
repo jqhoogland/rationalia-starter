@@ -16,6 +16,7 @@ href: >-
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.237Z'
+status: todo
 ---
 
 # The Bedrock of Morality: Arbitrary?

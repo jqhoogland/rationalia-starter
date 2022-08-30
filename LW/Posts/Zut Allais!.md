@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/zNcLnqHF5rvrTsQJx/zut-allais
 sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:32.605Z'
+status: todo
 ---
 
 # Zut Allais!

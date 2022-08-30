@@ -16,6 +16,7 @@ href: >-
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.116Z'
+status: todo
 ---
 
 # Inseparably Right; Or, Joy in the Merely Good

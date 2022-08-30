@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/YhgjmCxcQXixStWMC/artificial-addition
 sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.788Z'
+status: todo
 ---
 
 # Artificial Addition

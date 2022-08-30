@@ -18,6 +18,7 @@ href: >-
 sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Mixed Reference
 synchedAt: '2022-08-30T08:17:30.887Z'
+status: todo
 ---
 
 # Mixed Reference: The Great Reductionist Project

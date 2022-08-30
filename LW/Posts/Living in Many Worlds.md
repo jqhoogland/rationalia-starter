@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/qcYCAxYZT4Xp9iMZY/living-in-many-worlds
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.037Z'
+status: todo
 ---
 
 # Living in Many Worlds

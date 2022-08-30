@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/iQNKfYb7aRYopojTX/is-morality-given
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.589Z'
+status: todo
 ---
 
 # Is Morality Given?

@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lo
 sequence: Agency
 chapter: null
 synchedAt: '2022-08-30T08:17:53.864Z'
+status: todo
 ---
 
 # Noticing the Taste of Lotus

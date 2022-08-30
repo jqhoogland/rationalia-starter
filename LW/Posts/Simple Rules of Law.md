@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/kKSFsbjdX3kxsYaTM/simple-rules-of-law
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.182Z'
+status: todo
 ---
 
 # Simple Rules of Law

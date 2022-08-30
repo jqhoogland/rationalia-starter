@@ -19,6 +19,7 @@ href: https://www.lesswrong.com/posts/4ZwGqkMTyAvANYEDw/naming-the-nameless
 sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.224Z'
+status: todo
 ---
 
 # Naming the Nameless

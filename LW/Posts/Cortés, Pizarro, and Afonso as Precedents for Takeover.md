@@ -16,6 +16,7 @@ href: >-
 sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:52.804Z'
+status: todo
 ---
 
 # Cortés, Pizarro, and Afonso as Precedents for Takeover

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/XrzQW69HpidzvBxGr/affective-death-spirals
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:58.415Z'
+status: todo
 ---
 
 # Affective Death Spirals

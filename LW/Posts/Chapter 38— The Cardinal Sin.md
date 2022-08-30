@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/nfEoTb8J8886irxdr/chapter-38-the-cardinal-
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:42.820Z'
+status: todo
 ---
 
 # Chapter 38: The Cardinal Sin

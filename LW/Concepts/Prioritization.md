@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:04:05.312Z'
+status: todo
 ---
 
 # Prioritization

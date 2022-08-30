@@ -10,6 +10,7 @@ tags:
 href: >-
   https://www.lesswrong.com/posts/EdyDGRLNFScEt5uDz/what-is-wrong-with-our-thoughts
 synchedAt: '2022-08-30T08:17:57.320Z'
+status: todo
 ---
 
 # "What Is Wrong With Our Thoughts"

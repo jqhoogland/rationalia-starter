@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/BwtBhqvTPGG2n2GuJ/qualitatively-confused
 sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.386Z'
+status: todo
 ---
 
 # Qualitatively Confused

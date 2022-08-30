@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/dvzwqLbpSK2nD8Yvn/aversion-factoring
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.582Z'
+status: todo
 ---
 
 # Aversion Factoring

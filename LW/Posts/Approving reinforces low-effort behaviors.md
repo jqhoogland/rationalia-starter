@@ -15,6 +15,7 @@ href: >-
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.322Z'
+status: todo
 ---
 
 # Approving Reinforces Low-effort Behaviors

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/ne6Ra62FB9ACHGSuh/heat-vs-motion
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:56.386Z'
+status: todo
 ---
 
 # Heat Vs. Motion

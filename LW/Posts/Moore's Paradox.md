@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/ERRk4thxxYNcScqR4/moore-s-paradox
 sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.717Z'
+status: todo
 ---
 
 # Moore's Paradox

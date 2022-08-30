@@ -17,6 +17,7 @@ href: >-
 sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:54.969Z'
+status: todo
 ---
 
 # The Schelling Choice is "Rabbit", Not "Stag"

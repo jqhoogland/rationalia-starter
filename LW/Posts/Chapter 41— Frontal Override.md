@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/y7ErBMkB9m6rrWSTF/chapter-41-frontal-overr
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
 synchedAt: '2022-08-30T08:17:42.900Z'
+status: todo
 ---
 
 # Chapter 41: Frontal Override

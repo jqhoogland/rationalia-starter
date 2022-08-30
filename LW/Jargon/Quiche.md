@@ -6,6 +6,7 @@ tags:
   - Concept
   - Jargon
 synchedAt: '2022-08-29T11:16:58.212Z'
+status: todo
 ---
 
 # Quiche

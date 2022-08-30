@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/M2LWXsJxKS626QNEA/the-trouble-with-good
 synchedAt: '2022-08-30T08:17:57.501Z'
+status: todo
 ---
 
 # The Trouble With "Good"

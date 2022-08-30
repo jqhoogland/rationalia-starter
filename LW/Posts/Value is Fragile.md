@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile
 sequence: Value Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:33.335Z'
+status: todo
 ---
 
 # Value is Fragile

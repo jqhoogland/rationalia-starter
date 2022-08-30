@@ -18,6 +18,7 @@ href: >-
 sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.819Z'
+status: todo
 ---
 
 # Searching for Bayes-Structure

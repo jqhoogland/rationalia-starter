@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:44.552Z'
+status: todo
 ---
 
 # Science

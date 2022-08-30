@@ -17,6 +17,7 @@ href: >-
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.495Z'
+status: todo
 ---
 
 # Understanding “Deep Double Descent”

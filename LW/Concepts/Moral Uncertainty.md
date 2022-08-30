@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:23.851Z'
+status: todo
 ---
 
 # Moral Uncertainty

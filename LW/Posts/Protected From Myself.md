@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/yz2btSaCLHmLWgWD5/protected-from-myself
 sequence: Ethical Injunctions
 chapter: null
 synchedAt: '2022-08-30T08:17:51.131Z'
+status: todo
 ---
 
 # Protected From Myself

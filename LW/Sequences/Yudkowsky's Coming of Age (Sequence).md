@@ -9,6 +9,7 @@ tags:
 aliases:
   - Yudkowsky's Coming of Age
 synchedAt: '2022-08-29T17:16:41.105Z'
+status: todo
 ---
 
 # Yudkowsky's Coming of Age

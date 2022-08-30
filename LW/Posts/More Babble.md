@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/wQACBmK5bioNCgDoG/more-babble
 sequence: Epistemology
 chapter: null
 synchedAt: '2022-08-30T08:17:54.193Z'
+status: todo
 ---
 
 # More Babble

@@ -16,6 +16,7 @@ href: >-
 sequence: Argument and Analysis
 chapter: Interlude
 synchedAt: '2022-08-30T08:17:41.771Z'
+status: todo
 ---
 
 # …And I Show You How Deep The Rabbit Hole Goes

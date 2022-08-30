@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/8rdoea3g6QGhWQtmx/existential-angst-factor
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.866Z'
+status: todo
 ---
 
 # Existential Angst Factory

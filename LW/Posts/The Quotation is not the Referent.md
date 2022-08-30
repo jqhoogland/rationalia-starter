@@ -18,6 +18,7 @@ href: >-
 sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.364Z'
+status: todo
 ---
 
 # The Quotation is Not the Referent

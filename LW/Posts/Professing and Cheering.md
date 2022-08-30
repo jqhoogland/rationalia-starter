@@ -21,6 +21,7 @@ chapter: null
 synchedAt: '2022-08-30T08:17:40.841Z'
 aliases:
   - Belief as cheering
+status: todo
 ---
 
 # Professing and Cheering

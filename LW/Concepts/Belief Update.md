@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-29T11:07:15.353Z'
 aliases:
   - Update
+status: todo
 ---
 
 # Belief Update

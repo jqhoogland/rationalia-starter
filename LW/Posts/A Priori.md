@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/qmqLxvtsPzZ2s6mpY/a-priori
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:34.607Z'
+status: todo
 ---
 
 # A Priori

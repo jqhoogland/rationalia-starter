@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/fysgqk4CjAwhBgNYT/fake-explanations
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:57.261Z'
+status: todo
 ---
 
 # Fake Explanations

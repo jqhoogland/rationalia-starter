@@ -11,6 +11,7 @@ aliases:
   - PSNS
   - Sympathetic nervous system
   - Parasympathetic nervous system
+status: todo
 ---
 
 # SNS/PSNS

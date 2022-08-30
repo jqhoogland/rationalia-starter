@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/v7c47vjta3mavY3QC/is-science-slowing-down
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.175Z'
+status: todo
 ---
 
 # Is Science Slowing Down?

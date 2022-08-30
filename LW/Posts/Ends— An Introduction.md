@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/KfEyHB6WXFW6q2D5S/ends-an-introduction
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.399Z'
+status: todo
 ---
 
 # Ends: An Introduction

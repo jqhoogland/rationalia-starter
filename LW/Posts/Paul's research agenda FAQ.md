@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/Djs38EWYZG8o7JMWY/paul-s-research-agenda-f
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.429Z'
+status: todo
 ---
 
 # Paul's Research Agenda FAQ

@@ -12,6 +12,7 @@ synchedAt: '2022-08-29T11:08:28.146Z'
 aliases:
   - p-zombie
   - Philosophical zombie
+status: todo
 ---
 
 # Zombies

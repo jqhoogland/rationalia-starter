@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/FWMfQKG3RpZx6irjm/semantic-stopsigns
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:57.815Z'
+status: todo
 ---
 
 # Semantic Stopsigns

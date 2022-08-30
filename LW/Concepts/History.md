@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:06.397Z'
+status: todo
 ---
 
 # History

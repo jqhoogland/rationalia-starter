@@ -15,6 +15,7 @@ href: >-
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:17:55.196Z'
+status: todo
 ---
 
 # Propagating Facts into Aesthetics

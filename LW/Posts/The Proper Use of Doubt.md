@@ -19,6 +19,7 @@ href: https://www.lesswrong.com/posts/43PTNr4ZMaezyAJ5o/the-proper-use-of-doubt
 sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.509Z'
+status: todo
 ---
 
 # The Proper Use of Doubt

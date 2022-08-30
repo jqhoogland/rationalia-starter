@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:03:09.399Z'
 aliases:
-- Double Crux
+  - Double Crux
+status: todo
 ---
 
 # Double-Crux

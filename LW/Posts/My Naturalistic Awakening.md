@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/75LZMCCePG4Pwj3dB/my-naturalistic-awakenin
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.384Z'
+status: todo
 ---
 
 # My Naturalistic Awakening

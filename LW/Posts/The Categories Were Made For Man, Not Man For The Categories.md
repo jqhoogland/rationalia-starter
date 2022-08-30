@@ -18,6 +18,7 @@ href: >-
 sequence: Categorisation and Concepts
 chapter: null
 synchedAt: '2022-08-30T08:17:41.379Z'
+status: todo
 ---
 
 # The Categories Were Made For Man, Not Man For The Categories

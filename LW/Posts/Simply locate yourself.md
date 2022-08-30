@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/7jp9iSywDj4D8epJi/simply-locate-yourself
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.048Z'
+status: todo
 ---
 
 # Simply Locate Yourself

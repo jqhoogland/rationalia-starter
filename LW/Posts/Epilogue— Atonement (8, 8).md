@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/4pov2tL6SEC23wrkq/epilogue-atonement-8-8
 sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.387Z'
+status: todo
 ---
 
 # Epilogue: Atonement (8/8)

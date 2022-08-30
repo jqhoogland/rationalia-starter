@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/uXH4r6MmKPedk8rMA/gradient-hacking
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:35.269Z'
+status: todo
 ---
 
 # Gradient Hacking

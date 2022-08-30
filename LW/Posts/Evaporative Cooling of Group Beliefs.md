@@ -12,6 +12,7 @@ href: >-
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:58.136Z'
+status: todo
 ---
 
 # Evaporative Cooling of Group Beliefs

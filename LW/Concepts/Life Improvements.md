@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:58.985Z'
+status: todo
 ---
 
 # Life Improvements

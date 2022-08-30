@@ -16,6 +16,7 @@ href: >-
 sequence: 2021 MIRI Conversations
 chapter: null
 synchedAt: '2022-08-30T08:17:53.415Z'
+status: todo
 ---
 
 # Ngo and Yudkowsky on Alignment Difficulty

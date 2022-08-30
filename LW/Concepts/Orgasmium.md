@@ -9,8 +9,9 @@ tags:
   - Concept
   - Tag
 synchedAt: ''
-aliases: 
-- Hedonium
+aliases:
+  - Hedonium
+status: todo
 ---
 
 # Orgasmium

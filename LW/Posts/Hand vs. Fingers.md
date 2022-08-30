@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/KmghfjH6RgXvoKruJ/hand-vs-fingers
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:34.469Z'
+status: todo
 ---
 
 # Hand Vs. Fingers

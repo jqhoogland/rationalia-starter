@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:58.320Z'
+status: todo
 ---
 
 # Politics Is The Mind-Killer

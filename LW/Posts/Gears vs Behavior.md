@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/gvK5QWRLk3H8iqcNy/gears-vs-behavior
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.322Z'
+status: todo
 ---
 
 # Gears Vs Behavior

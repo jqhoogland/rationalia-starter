@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/F5WLc7hCxkB4X4yD4/is-morality-preference
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.561Z'
+status: todo
 ---
 
 # Is Morality Preference?

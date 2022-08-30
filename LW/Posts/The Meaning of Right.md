@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/fG3g3764tSubr6xvs/the-meaning-of-right
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.055Z'
+status: todo
 ---
 
 # The Meaning of Right

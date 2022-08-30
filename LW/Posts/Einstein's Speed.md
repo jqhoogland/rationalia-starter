@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/mpaqTWGiLT7GA3w76/einstein-s-speed
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:50.431Z'
+status: todo
 ---
 
 # Einstein's Speed

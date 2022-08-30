@@ -18,6 +18,7 @@ href: >-
 sequence: Letting Go
 chapter: null
 synchedAt: '2022-08-30T08:17:37.589Z'
+status: todo
 ---
 
 # No One Can Exempt You From Rationality's Laws

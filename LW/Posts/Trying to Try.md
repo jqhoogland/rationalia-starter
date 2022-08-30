@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try
 sequence: Challenging the Difficult
 chapter: null
 synchedAt: '2022-08-30T08:17:31.998Z'
+status: todo
 ---
 
 # Trying to Try

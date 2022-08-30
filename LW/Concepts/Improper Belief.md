@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:08:34.847Z'
+status: todo
 ---
 
 # Improper Belief

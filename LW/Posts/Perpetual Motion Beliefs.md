@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/zFuCxbY9E2E8HTbfZ/perpetual-motion-beliefs
 sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.792Z'
+status: todo
 ---
 
 # Perpetual Motion Beliefs

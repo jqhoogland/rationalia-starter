@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/gb6zWstjmkYHLrbrg/can-t-unbirth-a-child
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.816Z'
+status: todo
 ---
 
 # Can't Unbirth a Child

@@ -16,6 +16,7 @@ href: >-
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.594Z'
+status: todo
 ---
 
 # Prolegomena to a Theory of Fun

@@ -15,6 +15,7 @@ href: >-
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.082Z'
+status: todo
 ---
 
 # Morality as Fixed Computation

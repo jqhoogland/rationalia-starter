@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line
 sequence: Pitfalls of Human Cognition
 chapter: null
 synchedAt: '2022-08-30T08:17:38.859Z'
+status: todo
 ---
 
 # The Bottom Line

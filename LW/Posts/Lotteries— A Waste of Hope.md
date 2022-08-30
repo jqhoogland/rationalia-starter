@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/vYsuM8cpuRgZS5rYB/lotteries-a-waste-of-hop
 sequence: Overly Convenient Excuses
 chapter: null
 synchedAt: '2022-08-30T08:17:39.628Z'
+status: todo
 ---
 
 # Lotteries: A Waste of Hope

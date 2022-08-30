@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:58.526Z'
+status: todo
 ---
 
 # Burdensome Details

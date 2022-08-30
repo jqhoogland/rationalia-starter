@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:03:19.893Z'
+status: todo
 ---
 
 # Alief

@@ -13,6 +13,7 @@ href: https://www.lesswrong.com/posts/tPWZfmNpstRMCBjFM/beginnings-an-introducti
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.167Z'
+status: todo
 ---
 
 # Beginnings: An Introduction

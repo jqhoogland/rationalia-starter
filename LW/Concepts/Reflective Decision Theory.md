@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:10:15.640Z'
+status: todo
 ---
 
 # Reflective Decision Theory

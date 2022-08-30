@@ -18,6 +18,7 @@ href: >-
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.373Z'
+status: todo
 ---
 
 # Open Question: Are Minimal Circuits Daemon-free?

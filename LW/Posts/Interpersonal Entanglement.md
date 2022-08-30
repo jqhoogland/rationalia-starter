@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/Py3uGnncqXuEfPtQp/interpersonal-entangleme
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.891Z'
+status: todo
 ---
 
 # Interpersonal Entanglement

@@ -17,6 +17,7 @@ href: >-
 sequence: Yudkowsky's Coming of Age
 chapter: null
 synchedAt: '2022-08-30T08:17:32.438Z'
+status: todo
 ---
 
 # The Magnitude of His Own Folly

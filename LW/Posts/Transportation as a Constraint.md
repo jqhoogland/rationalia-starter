@@ -18,6 +18,7 @@ href: >-
 sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:16:33.998Z'
+status: todo
 ---
 
 # Transportation as a Constraint

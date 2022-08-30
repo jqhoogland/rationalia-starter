@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/zhEmiCBoHNGxCtXsc/have-no-excuses
 sequence: Replacing Guilt
 chapter: The dark world
 synchedAt: '2022-08-30T08:16:33.082Z'
+status: todo
 ---
 
 # Have No Excuses

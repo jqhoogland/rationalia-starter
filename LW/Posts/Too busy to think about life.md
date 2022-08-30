@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/4psQW7vRwt7PE5Pnj/too-busy-to-think-about-life
 synchedAt: '2022-08-30T08:17:59.004Z'
+status: todo
 ---
 
 # Too Busy to Think About Life

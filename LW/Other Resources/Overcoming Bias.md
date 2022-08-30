@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:09:16.911Z'
 aliases:
-  - OB 
+  - OB
+status: todo
 ---
 
 # Overcoming Bias

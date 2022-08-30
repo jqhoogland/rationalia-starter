@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/RafYaSYQ2uLmYgwhk/appendix-hamming-questio
 sequence: CFAR Handbook
 chapter: Appendices
 synchedAt: '2022-08-30T08:16:32.046Z'
+status: todo
 ---
 
 # Appendix: Hamming Questions

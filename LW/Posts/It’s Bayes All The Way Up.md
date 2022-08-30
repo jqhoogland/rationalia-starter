@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/KrEwDMN4YXp5YWD45/it-s-bayes-all-the-way-u
 sequence: Hypotheses and Hunches
 chapter: null
 synchedAt: '2022-08-30T08:16:44.967Z'
+status: todo
 ---
 
 # It’s Bayes All The Way Up

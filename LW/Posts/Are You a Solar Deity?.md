@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/T5McDuWDeCvDZKeSj/are-you-a-solar-deity
 sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:16:38.514Z'
+status: todo
 ---
 
 # Are You a Solar Deity?

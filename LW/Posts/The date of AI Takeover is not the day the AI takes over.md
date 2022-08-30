@@ -17,6 +17,7 @@ href: >-
 sequence: Takeoff & Takeover
 chapter: null
 synchedAt: '2022-08-30T08:17:52.963Z'
+status: todo
 ---
 
 # The Date of AI Takeover is Not the Day the AI Takes Over

@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/cvDtmPNCyrkpg4d4F/units-of-exchange
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.501Z'
+status: todo
 ---
 
 # Units of Exchange

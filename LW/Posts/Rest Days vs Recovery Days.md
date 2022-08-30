@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-da
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.578Z'
+status: todo
 ---
 
 # Rest Days Vs Recovery Days

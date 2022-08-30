@@ -20,6 +20,7 @@ href: https://www.lesswrong.com/posts/AqbWna2S85pFTsHH4/the-intelligent-social-w
 sequence: Coordination
 chapter: null
 synchedAt: '2022-08-30T08:16:36.541Z'
+status: todo
 ---
 
 # The Intelligent Social Web

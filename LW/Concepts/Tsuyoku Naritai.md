@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:04.970Z'
+status: todo
 ---
 
 # Tsuyoku Naritai

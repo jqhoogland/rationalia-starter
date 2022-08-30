@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/LaYB3CPMnDNzh2via/building-a-bugs-list-pro
 sequence: CFAR Handbook
 chapter: Getting Started
 synchedAt: '2022-08-30T08:16:31.476Z'
+status: todo
 ---
 
 # Building a Bugs List Prompts

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/gRa5cWWBsZqdFvmqu/reductive-reference
 sequence: Physicalism 201
 chapter: null
 synchedAt: '2022-08-30T08:17:56.448Z'
+status: todo
 ---
 
 # Reductive Reference

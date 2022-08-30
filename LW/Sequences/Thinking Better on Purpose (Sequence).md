@@ -9,6 +9,7 @@ tags:
 aliases:
   - Thinking Better on Purpose
 synchedAt: '2022-08-29T17:16:36.911Z'
+status: todo
 ---
 
 # Thinking Better on Purpose

@@ -16,6 +16,7 @@ href: >-
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.453Z'
+status: todo
 ---
 
 # Birth Order Effect Found in Nobel Laureates in Physics

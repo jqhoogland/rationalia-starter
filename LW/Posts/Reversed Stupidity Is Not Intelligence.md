@@ -12,6 +12,7 @@ href: >-
 sequence: LessWrong Political Prerequisites
 chapter: null
 synchedAt: '2022-08-30T08:17:57.718Z'
+status: todo
 ---
 
 # Reversed Stupidity Is Not Intelligence

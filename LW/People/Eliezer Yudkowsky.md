@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T11:05:41.474Z'
 aliases:
-- EY
+  - EY
+status: todo
 ---
 
 # Eliezer Yudkowsky

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/xnPFYBuaGhpq869mY/ureshiku-naritai
 sequence: Living Luminously
 chapter: Bonus Posts
 synchedAt: '2022-08-30T08:17:58.058Z'
+status: todo
 ---
 
 # Ureshiku Naritai

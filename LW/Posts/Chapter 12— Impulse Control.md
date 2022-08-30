@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/gBkD8LJNR4ziizMLA/chapter-12-impulse-contr
 sequence: The Methods of Rationality
 chapter: Book the First
 synchedAt: '2022-08-30T08:17:44.981Z'
+status: todo
 ---
 
 # Chapter 12: Impulse Control

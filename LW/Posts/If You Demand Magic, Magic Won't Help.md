@@ -12,6 +12,7 @@ href: >-
 sequence: Joy in the Merely Real
 chapter: null
 synchedAt: '2022-08-30T08:17:56.243Z'
+status: todo
 ---
 
 # If You Demand Magic, Magic Won't Help

@@ -16,6 +16,7 @@ href: >-
 sequence: Replacing Guilt
 chapter: Related
 synchedAt: '2022-08-30T08:16:33.586Z'
+status: todo
 ---
 
 # Productivity Through Self-loyalty

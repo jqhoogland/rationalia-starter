@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/gBma88LH3CLQsqyfS/cultish-countercultishne
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:38.197Z'
+status: todo
 ---
 
 # Cultish Countercultishness

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:07:15.539Z'
+status: todo
 ---
 
 # Really Powerful Optimization Process

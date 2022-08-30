@@ -9,6 +9,7 @@ tags:
 aliases:
   - Science and Rationality
 synchedAt: '2022-08-29T17:16:41.106Z'
+status: todo
 ---
 
 # Science and Rationality

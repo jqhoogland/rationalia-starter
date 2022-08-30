@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/pGvyqAQw6yqTjpKf4/the-gift-we-give-to-tomo
 sequence: Why We Fight
 chapter: null
 synchedAt: '2022-08-30T08:17:48.802Z'
+status: todo
 ---
 
 # The Gift We Give To Tomorrow

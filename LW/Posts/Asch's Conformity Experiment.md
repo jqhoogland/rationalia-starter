@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/WHK94zXkQm7qm7wXk/asch-s-conformity-experi
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:38.075Z'
+status: todo
 ---
 
 # Asch's Conformity Experiment

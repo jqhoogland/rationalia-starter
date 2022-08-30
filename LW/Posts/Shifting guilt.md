@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/CAWHpzaZGJZMhK6pb/shifting-guilt
 sequence: Replacing Guilt
 chapter: Half monkey, half god
 synchedAt: '2022-08-30T08:16:32.754Z'
+status: todo
 ---
 
 # Shifting Guilt

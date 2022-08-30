@@ -9,6 +9,7 @@ tags:
 aliases:
   - Politics and Rationality
 synchedAt: '2022-08-29T17:16:42.149Z'
+status: todo
 ---
 
 # Politics and Rationality

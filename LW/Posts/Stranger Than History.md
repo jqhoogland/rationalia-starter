@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/h3vdnR34ZvohDEFT5/stranger-than-history
 sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.481Z'
+status: todo
 ---
 
 # Stranger Than History

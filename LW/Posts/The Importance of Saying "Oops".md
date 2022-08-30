@@ -18,6 +18,7 @@ href: >-
 sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:37.407Z'
+status: todo
 ---
 
 # The Importance of Saying "Oops"

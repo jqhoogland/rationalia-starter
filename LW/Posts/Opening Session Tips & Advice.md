@@ -16,6 +16,7 @@ href: >-
 sequence: CFAR Handbook
 chapter: Getting Started
 synchedAt: '2022-08-30T08:16:31.464Z'
+status: todo
 ---
 
 # Opening Session Tips & Advice

@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy
 sequence: The Science of Winning at Life
 chapter: null
 synchedAt: '2022-08-30T08:17:59.065Z'
+status: todo
 ---
 
 # How to Be Happy

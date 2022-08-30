@@ -21,6 +21,7 @@ href: >-
 sequence: Coordination & Constraint
 chapter: null
 synchedAt: '2022-08-30T08:17:55.095Z'
+status: todo
 ---
 
 # Most Prisoner's Dilemmas Are Stag Hunts; Most Stag Hunts Are Schelling Problems

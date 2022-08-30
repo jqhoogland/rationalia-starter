@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories
 sequence: Value Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:33.157Z'
+status: todo
 ---
 
 # Magical Categories

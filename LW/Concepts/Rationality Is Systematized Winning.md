@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:53.755Z'
+status: todo
 ---
 
 # Rationality Is Systematized Winning

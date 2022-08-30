@@ -18,6 +18,7 @@ href: >-
 sequence: Science Isn't Enough
 chapter: null
 synchedAt: '2022-08-30T08:17:50.357Z'
+status: todo
 ---
 
 # No Safe Defense, Not Even Science

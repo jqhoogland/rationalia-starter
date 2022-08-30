@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/K9JSM7d7bLJguMxEp/the-moral-void
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.443Z'
+status: todo
 ---
 
 # The Moral Void

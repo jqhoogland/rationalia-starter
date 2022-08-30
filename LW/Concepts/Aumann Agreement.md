@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:07:19.442Z'
+status: todo
 ---
 
 # Aumann Agreement

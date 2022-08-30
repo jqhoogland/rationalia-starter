@@ -16,6 +16,7 @@ href: >-
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.612Z'
+status: todo
 ---
 
 # The Design Space of Minds-In-General

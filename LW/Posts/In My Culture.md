@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/4EGYhyyJXSnE7xJ9H/in-my-culture
 sequence: Trust
 chapter: null
 synchedAt: '2022-08-30T08:16:35.438Z'
+status: todo
 ---
 
 # In My Culture

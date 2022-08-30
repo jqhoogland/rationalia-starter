@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/46qnWRSR7L2eyNbMA/the-lens-that-sees-its-f
 sequence: Thinking Better on Purpose
 chapter: null
 synchedAt: '2022-08-30T08:17:58.443Z'
+status: todo
 ---
 
 # The Lens That Sees Its Flaws

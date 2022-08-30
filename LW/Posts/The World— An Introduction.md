@@ -13,6 +13,7 @@ href: https://www.lesswrong.com/posts/ujoJSat3ypzp3tmpj/the-world-an-introductio
 sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:35.584Z'
+status: todo
 ---
 
 # The World: An Introduction

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:15.538Z'
+status: todo
 ---
 
 # Success Spiral

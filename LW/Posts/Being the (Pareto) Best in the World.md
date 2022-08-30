@@ -17,6 +17,7 @@ href: >-
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:17:53.088Z'
+status: todo
 ---
 
 # Being the (Pareto) Best in the World

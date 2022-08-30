@@ -10,7 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-08-29T10:47:49.302Z'
 aliases:
-  - MWI 
+  - MWI
+status: todo
 ---
 
 # Many-Worlds Interpretation

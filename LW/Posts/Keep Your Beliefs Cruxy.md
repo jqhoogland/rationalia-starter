@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/BmyoYkr7u2oas4ukn/keep-your-beliefs-cruxy
 sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:55.225Z'
+status: todo
 ---
 
 # Keep Your Beliefs Cruxy

@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economics
 sequence: Incentives
 chapter: null
 synchedAt: '2022-08-30T08:16:34.900Z'
+status: todo
 ---
 
 # Unconscious Economics

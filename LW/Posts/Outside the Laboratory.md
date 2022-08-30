@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/N2pENnTPB75sfc9kb/outside-the-laboratory
 sequence: Lawful Truth
 chapter: null
 synchedAt: '2022-08-30T08:17:59.242Z'
+status: todo
 ---
 
 # Outside the Laboratory

@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/qCsxiojX7BSLuuBgQ/the-super-happy-people-3
 sequence: Three Worlds Collide
 chapter: null
 synchedAt: '2022-08-30T08:17:51.294Z'
+status: todo
 ---
 
 # The Super Happy People (3/8)

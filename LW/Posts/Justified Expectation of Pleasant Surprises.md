@@ -16,6 +16,7 @@ href: >-
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:51.028Z'
+status: todo
 ---
 
 # Justified Expectation of Pleasant Surprises

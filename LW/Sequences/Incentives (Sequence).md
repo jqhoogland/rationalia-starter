@@ -9,6 +9,7 @@ tags:
 aliases:
   - Incentives
 synchedAt: '2022-08-29T17:16:36.970Z'
+status: todo
 ---
 
 # Incentives

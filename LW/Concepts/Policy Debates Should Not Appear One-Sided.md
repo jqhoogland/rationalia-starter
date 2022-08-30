@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:10:05.580Z'
+status: todo
 ---
 
 # Policy Debates Should Not Appear One-Sided

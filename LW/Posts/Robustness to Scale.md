@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/bBdfbWfWxHN9Chjcq/robustness-to-scale
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.487Z'
+status: todo
 ---
 
 # Robustness to Scale

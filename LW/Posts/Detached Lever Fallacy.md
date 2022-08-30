@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/zY4pic7cwQpa9dnyk/detached-lever-fallacy
 sequence: Fake Preferences
 chapter: null
 synchedAt: '2022-08-30T08:17:33.554Z'
+status: todo
 ---
 
 # Detached Lever Fallacy

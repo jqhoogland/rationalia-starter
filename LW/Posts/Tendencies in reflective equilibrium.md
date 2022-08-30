@@ -16,6 +16,7 @@ href: >-
 sequence: The Blue-Minimizing Robot
 chapter: null
 synchedAt: '2022-08-30T08:17:52.394Z'
+status: todo
 ---
 
 # Tendencies in Reflective Equilibrium

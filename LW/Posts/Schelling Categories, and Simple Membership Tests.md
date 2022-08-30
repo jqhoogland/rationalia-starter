@@ -15,6 +15,7 @@ href: >-
 sequence: Ray's Coordination Sequence
 chapter: null
 synchedAt: '2022-08-30T08:17:54.940Z'
+status: todo
 ---
 
 # Schelling Categories, and Simple Membership Tests

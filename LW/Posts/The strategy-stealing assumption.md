@@ -16,6 +16,7 @@ href: >-
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.493Z'
+status: todo
 ---
 
 # The Strategy-stealing Assumption

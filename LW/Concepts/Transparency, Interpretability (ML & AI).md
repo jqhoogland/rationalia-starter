@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:59.132Z'
+status: todo
 ---
 
 # Transparency, Interpretability (ML & AI)

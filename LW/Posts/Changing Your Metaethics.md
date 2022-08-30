@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/LhP2zGBWR5AdssrdJ/changing-your-metaethics
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:48.986Z'
+status: todo
 ---
 
 # Changing Your Metaethics

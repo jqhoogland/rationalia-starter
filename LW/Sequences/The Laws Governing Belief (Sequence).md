@@ -9,6 +9,7 @@ tags:
 aliases:
   - The Laws Governing Belief
 synchedAt: '2022-08-29T17:16:36.915Z'
+status: todo
 ---
 
 # The Laws Governing Belief

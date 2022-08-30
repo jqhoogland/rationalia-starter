@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/JcpzFpPBSmzuksmWM/the-5-second-level
 synchedAt: '2022-08-30T08:17:58.022Z'
+status: todo
 ---
 
 # The 5-Second Level

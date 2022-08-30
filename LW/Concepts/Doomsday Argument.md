@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:13:31.012Z'
+status: todo
 ---
 
 # Doomsday Argument

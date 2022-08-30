@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Nx2WxEuPSvNBGuYpo/feeling-moral
 sequence: Quantified Humanism
 chapter: null
 synchedAt: '2022-08-30T08:17:32.638Z'
+status: todo
 ---
 
 # Feeling Moral

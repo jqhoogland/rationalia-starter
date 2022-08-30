@@ -20,6 +20,7 @@ href: >-
 sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:35.766Z'
+status: todo
 ---
 
 # The Second Law of Thermodynamics, and Engines of Cognition

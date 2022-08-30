@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/SA79JMXKWke32A3hG/original-seeing
 sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.330Z'
+status: todo
 ---
 
 # Original Seeing

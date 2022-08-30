@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/tWLFWAndSZSYN6rPB/think-like-reality
 sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.417Z'
+status: todo
 ---
 
 # Think Like Reality

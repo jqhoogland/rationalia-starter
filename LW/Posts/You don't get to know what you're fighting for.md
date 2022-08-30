@@ -14,6 +14,7 @@ href: >-
 sequence: Replacing Guilt
 chapter: Fighting for something
 synchedAt: '2022-08-30T08:16:32.668Z'
+status: todo
 ---
 
 # You Don't Get to Know What You're Fighting for

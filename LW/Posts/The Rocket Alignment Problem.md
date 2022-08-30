@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/Gg9a4y8reWKtLe3Tn/the-rocket-alignment-pro
 sequence: Alignment
 chapter: null
 synchedAt: '2022-08-30T08:17:54.372Z'
+status: todo
 ---
 
 # The Rocket Alignment Problem

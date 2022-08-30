@@ -9,6 +9,7 @@ tags:
 aliases:
   - Reductionism 101
 synchedAt: '2022-08-29T17:16:41.108Z'
+status: todo
 ---
 
 # Reductionism 101

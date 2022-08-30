@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:28.469Z'
+status: todo
 ---
 
 # Kelly Criterion

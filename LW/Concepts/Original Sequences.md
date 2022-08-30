@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:12:41.682Z'
+status: todo
 ---
 
 # Original Sequences

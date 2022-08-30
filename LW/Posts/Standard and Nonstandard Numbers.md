@@ -16,6 +16,7 @@ href: >-
 sequence: Highly Advanced Epistemology 101 for Beginners
 chapter: Mathematics and Logic
 synchedAt: '2022-08-30T08:17:30.804Z'
+status: todo
 ---
 
 # Standard and Nonstandard Numbers

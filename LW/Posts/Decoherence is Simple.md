@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/Atu4teGvob5vKvEAF/decoherence-is-simple
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.933Z'
+status: todo
 ---
 
 # Decoherence is Simple

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:17.573Z'
+status: todo
 ---
 
 # Machine Ethics

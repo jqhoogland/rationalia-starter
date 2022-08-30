@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/ZxR8P8hBFQ9kC8wMy/the-failures-of-eld-scie
 sequence: Quantum Physics
 chapter: null
 synchedAt: '2022-08-30T08:17:51.215Z'
+status: todo
 ---
 
 # The Failures of Eld Science

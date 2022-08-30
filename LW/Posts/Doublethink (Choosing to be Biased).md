@@ -16,6 +16,7 @@ href: >-
 sequence: Against Doublethink
 chapter: null
 synchedAt: '2022-08-30T08:17:38.622Z'
+status: todo
 ---
 
 # Doublethink (Choosing to Be Biased)

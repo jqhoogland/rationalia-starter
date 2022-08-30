@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Kow8xRzpfkoY7pa69/the-affect-heuristic
 sequence: Death Spirals
 chapter: null
 synchedAt: '2022-08-30T08:17:37.705Z'
+status: todo
 ---
 
 # The Affect Heuristic

@@ -9,6 +9,7 @@ synchedAt: '2022-08-29T11:16:58.191Z'
 aliases:
   - Skill
   - skill
+status: todo
 ---
 
 # Procedural Knowledge

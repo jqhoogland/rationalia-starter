@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/ctpkTaqTKbmm6uRgC/failed-utopia-4-2
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.904Z'
+status: todo
 ---
 
 # Failed Utopia #4-2

@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/4FcxgdvdQP45D6Skg/disguised-queries
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.057Z'
+status: todo
 ---
 
 # Disguised Queries

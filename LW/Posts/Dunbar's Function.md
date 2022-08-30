@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/W5PhyEQqEWTcpRpqn/dunbar-s-function
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.834Z'
+status: todo
 ---
 
 # Dunbar's Function

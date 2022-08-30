@@ -16,6 +16,7 @@ href: >-
 sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.265Z'
+status: todo
 ---
 
 # Do We Believe Everything We're Told?

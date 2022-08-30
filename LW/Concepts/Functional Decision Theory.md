@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:25.318Z'
+status: todo
 ---
 
 # Functional Decision Theory

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:06:09.682Z'
+status: todo
 ---
 
 # Fake Simplicity

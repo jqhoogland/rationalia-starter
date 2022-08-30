@@ -11,6 +11,7 @@ href: https://www.lesswrong.com/posts/6yTShbTdtATxKonY5/how-to-not-lose-an-argum
 sequence: Positivism and Self Deception
 chapter: null
 synchedAt: '2022-08-30T08:17:57.528Z'
+status: todo
 ---
 
 # How to Not Lose an Argument

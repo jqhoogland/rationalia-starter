@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/rF6h39aXMyNyvoP2p/chapter-103-tests
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
 synchedAt: '2022-08-30T08:17:44.090Z'
+status: todo
 ---
 
 # Chapter 103: Tests

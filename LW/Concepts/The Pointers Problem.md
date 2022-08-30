@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:27.764Z'
+status: todo
 ---
 
 # The Pointers Problem

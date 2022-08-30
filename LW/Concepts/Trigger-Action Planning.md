@@ -17,6 +17,7 @@ aliases:
   - Trigger-Action Plans
   - Trigger-Affect Plans
   - Implementation Intentions
+status: todo
 ---
 
 # Trigger-Action Planning

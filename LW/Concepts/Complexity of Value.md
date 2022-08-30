@@ -6,6 +6,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
+status: todo
 ---
 
 **Complexity of value** is the thesis that human values have high [Kolmogorov complexity](https://wiki.lesswrong.com/wiki/Kolmogorov_complexity); that our [preferences](https://wiki.lesswrong.com/wiki/preferences), the things we care about, cannot be summed by a few simple rules, or compressed. **[Fragility of value](https://www.lesswrong.com/lw/y3/value_is_fragile/)** is the thesis that losing even a small part of the rules that make up our values could lead to results that most of us would now consider as unacceptable (just like dialing nine out of ten phone digits correctly does not connect you to a person 90% similar to your friend). For example, all of our values *except* novelty might yield a future full of individuals replaying only one optimal experience through all eternity.

@@ -17,6 +17,7 @@ href: >-
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:36.025Z'
+status: todo
 ---
 
 # The Cluster Structure of Thingspace

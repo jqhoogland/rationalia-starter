@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/kQzs8MFbBxdYhe3hK/savanna-poets
 sequence: Reductionism 101
 chapter: null
 synchedAt: '2022-08-30T08:17:35.560Z'
+status: todo
 ---
 
 # Savanna Poets

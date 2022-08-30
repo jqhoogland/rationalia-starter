@@ -17,6 +17,7 @@ href: >-
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.851Z'
+status: todo
 ---
 
 # The Correct Response to Uncertainty is *not* Half-speed

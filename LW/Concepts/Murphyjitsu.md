@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:59:50.513Z'
+status: todo
 ---
 
 # Murphyjitsu

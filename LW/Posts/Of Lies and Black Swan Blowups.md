@@ -16,6 +16,7 @@ href: >-
 sequence: Against Rationalization
 chapter: null
 synchedAt: '2022-08-30T08:17:39.125Z'
+status: todo
 ---
 
 # Of Lies and Black Swan Blowups

@@ -13,6 +13,7 @@ href: https://www.lesswrong.com/posts/ZJHDDM8eWyXvMB924/the-art-of-response
 sequence: Replacing Guilt
 chapter: Fire within
 synchedAt: '2022-08-30T08:16:33.338Z'
+status: todo
 ---
 
 # The Art of Response

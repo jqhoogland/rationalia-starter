@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/JBFHzfPkXHB2XfDGj/evolution-of-modularity
 sequence: Modularity
 chapter: null
 synchedAt: '2022-08-30T08:17:53.210Z'
+status: todo
 ---
 
 # Evolution of Modularity

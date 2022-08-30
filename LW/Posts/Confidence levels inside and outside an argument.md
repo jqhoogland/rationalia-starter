@@ -12,6 +12,7 @@ href: >-
 sequence: Probability and Predictions
 chapter: null
 synchedAt: '2022-08-30T08:17:59.534Z'
+status: todo
 ---
 
 # Confidence Levels Inside and Outside an Argument

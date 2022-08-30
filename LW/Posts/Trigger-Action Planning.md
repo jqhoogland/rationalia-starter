@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/W5HcGywyPoDDdJtbz/trigger-action-planning
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.525Z'
+status: todo
 ---
 
 # Trigger-Action Planning

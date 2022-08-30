@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/Qz6w4GYZpgeDp6ATB/beyond-astronomical-wast
 sequence: Curiosity
 chapter: null
 synchedAt: '2022-08-30T08:16:36.396Z'
+status: todo
 ---
 
 # Beyond Astronomical Waste

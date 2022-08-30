@@ -17,6 +17,7 @@ href: https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:16:29.836Z'
+status: todo
 ---
 
 # Fact Posts: How and Why

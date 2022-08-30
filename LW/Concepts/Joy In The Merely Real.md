@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:59.478Z'
+status: todo
 ---
 
 # Joy In The Merely Real

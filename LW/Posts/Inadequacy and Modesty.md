@@ -20,6 +20,7 @@ href: https://www.lesswrong.com/posts/zsG9yKcriht2doRhM/inadequacy-and-modesty
 sequence: Inadequate Equilibria
 chapter: null
 synchedAt: '2022-08-30T08:17:31.135Z'
+status: todo
 ---
 
 # Inadequacy and Modesty

@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:48:09.488Z'
+status: todo
 ---
 
 # Intellectual Progress (Individual-Level)

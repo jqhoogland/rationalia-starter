@@ -9,6 +9,7 @@ tags:
   - Post
 href: https://www.lesswrong.com/posts/fkM9XsNvXdYH6PPAx/hindsight-bias
 synchedAt: '2022-08-30T08:17:57.464Z'
+status: todo
 ---
 
 # Hindsight Bias

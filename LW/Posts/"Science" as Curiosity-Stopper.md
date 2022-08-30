@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/L22jhyY9ocXQNLqyE/science-as-curiosity-sto
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:40.294Z'
+status: todo
 ---
 
 # "Science" As Curiosity-Stopper

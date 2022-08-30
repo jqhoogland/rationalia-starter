@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/HacgrDxJx3Xr7uwCR/arbitrary
 sequence: Metaethics
 chapter: null
 synchedAt: '2022-08-30T08:17:49.213Z'
+status: todo
 ---
 
 # "Arbitrary"

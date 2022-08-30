@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:02:44.186Z'
+status: todo
 ---
 
 # Group Rationality

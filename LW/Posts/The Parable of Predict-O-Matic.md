@@ -19,6 +19,7 @@ href: >-
 sequence: Failure
 chapter: null
 synchedAt: '2022-08-30T08:16:34.386Z'
+status: todo
 ---
 
 # The Parable of Predict-O-Matic

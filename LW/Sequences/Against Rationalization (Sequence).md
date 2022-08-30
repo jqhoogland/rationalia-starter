@@ -9,6 +9,7 @@ tags:
 aliases:
   - Against Rationalization
 synchedAt: '2022-08-29T17:16:42.149Z'
+status: todo
 ---
 
 # Against Rationalization

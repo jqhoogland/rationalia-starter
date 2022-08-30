@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/yxvi9RitzZDpqn6Yh/explain-worship-ignore
 sequence: Mysterious Answers
 chapter: null
 synchedAt: '2022-08-30T08:17:40.264Z'
+status: todo
 ---
 
 # Explain/Worship/Ignore?

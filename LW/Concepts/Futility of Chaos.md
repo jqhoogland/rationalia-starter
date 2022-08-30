@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:07:16.589Z'
+status: todo
 ---
 
 # Futility of Chaos

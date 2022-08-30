@@ -18,6 +18,7 @@ href: https://www.lesswrong.com/posts/sP2Hg6uPwpfp3jZJN/lost-purposes
 sequence: Fragile Purposes
 chapter: null
 synchedAt: '2022-08-30T08:17:36.929Z'
+status: todo
 ---
 
 # Lost Purposes

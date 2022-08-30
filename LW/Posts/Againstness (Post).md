@@ -14,6 +14,7 @@ href: https://www.lesswrong.com/posts/QnZRvud7fXfpdxBY3/againstness
 sequence: CFAR Handbook
 chapter: Classes
 synchedAt: '2022-08-30T08:16:31.738Z'
+status: todo
 ---
 
 # Againstness

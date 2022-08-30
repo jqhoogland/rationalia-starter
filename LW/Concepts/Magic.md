@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:13.586Z'
+status: todo
 ---
 
 # Magic

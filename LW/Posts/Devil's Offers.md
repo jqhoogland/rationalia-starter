@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/MTjej6HKvPByx3dEA/devil-s-offers
 sequence: Fun Theory
 chapter: null
 synchedAt: '2022-08-30T08:17:50.740Z'
+status: todo
 ---
 
 # Devil's Offers

@@ -13,6 +13,7 @@ href: https://www.lesswrong.com/posts/HqQ3CpMqQyaaLLKew/should-considered-harmfu
 sequence: Replacing Guilt
 chapter: Drop your obligations
 synchedAt: '2022-08-30T08:16:32.682Z'
+status: todo
 ---
 
 # "Should" Considered Harmful

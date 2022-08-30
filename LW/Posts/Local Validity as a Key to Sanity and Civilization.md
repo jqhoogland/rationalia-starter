@@ -19,6 +19,7 @@ href: >-
 sequence: The Laws Governing Belief
 chapter: null
 synchedAt: '2022-08-30T08:17:54.097Z'
+status: todo
 ---
 
 # Local Validity as a Key to Sanity and Civilization

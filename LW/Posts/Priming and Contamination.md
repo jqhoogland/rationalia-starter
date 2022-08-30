@@ -15,6 +15,7 @@ href: https://www.lesswrong.com/posts/BaCWFCxBQYjJXSsah/priming-and-contaminatio
 sequence: Seeing with Fresh Eyes
 chapter: null
 synchedAt: '2022-08-30T08:17:38.238Z'
+status: todo
 ---
 
 # Priming and Contamination

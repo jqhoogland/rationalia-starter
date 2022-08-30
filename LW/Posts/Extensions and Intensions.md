@@ -16,6 +16,7 @@ href: https://www.lesswrong.com/posts/HsznWM9A7NiuGsp28/extensions-and-intension
 sequence: A Human's Guide to Words
 chapter: null
 synchedAt: '2022-08-30T08:17:35.937Z'
+status: todo
 ---
 
 # Extensions and Intensions

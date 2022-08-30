@@ -17,6 +17,7 @@ href: >-
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
 synchedAt: '2022-08-30T08:17:52.719Z'
+status: todo
 ---
 
 # When Money Is Abundant, Knowledge Is The Real Wealth
