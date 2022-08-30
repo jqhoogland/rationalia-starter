@@ -99,7 +99,7 @@ export const postsToMD = async () => {
                 ['_id', 'title', 'author', 'url', 'slug'],
                 {
                     type: "post",
-                    tags: ["LessWrong", "Concept", "Post", ...(post?.tags ?? []).map(({name}) => name.replace(" ", "_"))],
+                    tags: ["LessWrong", "Concept", "Post", ...(post?.tags ?? []).map(({name}) => name.replaceAll(" ", "_"))],
                     href: `https://www.lesswrong.com/posts/${post._id}/${post.slug}`,
                     ...(sequence ? { sequence: sequence.title } : {}),
                     ...(chapter ? { chapter: chapter.title } : {}),

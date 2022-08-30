@@ -42,7 +42,7 @@ const addFlashcards = (editor: Editor, view: MarkdownView) => {
 
 % START
 Basic (and reversed card)
-What is **g${title}**?
+What is **${title}**?
 Back: {TODO}
 Tags: LessWrong
 END
@@ -260,7 +260,7 @@ const getTitleFromLink = async (href: string) => {
 			id_or_slug = href.split("/wiki/")[1].split("/")[0].split("?")[0]	
 			type_ = "tag";
 		} else if (href.includes("/lw/")) {  // E.g.: /lw/nc/newcombs_problem_and_regret_of_rationality/ 
-			id_or_slug = href.split("/lw/")[1].split("/")[1].split("?")[0]
+			id_or_slug = href.split("/lw/")[1].split("/")[1].split("?")[0].replaceAll("_", "-")
 			type_ = "post";
 		} else if (href.includes("/posts/")) {
 			id_or_slug = href.split("/posts/")[1].split("/")[0].split("?")[0]
@@ -280,7 +280,7 @@ const getTitleFromLink = async (href: string) => {
 			p.type === type_ && (
 				p._id === id_or_slug
 				|| p.slug === id_or_slug
-				|| p.slug === id_or_slug.replace("_", "-")
+				|| p.slug === id_or_slug
 			)
 		).first()
 		

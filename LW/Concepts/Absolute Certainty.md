@@ -7,8 +7,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T19:09:26.387Z'
+synchedAt: '2022-08-30T10:24:20.408Z'
 slug: absolute-certainty
+status: todo
 ---
 
 # Absolute Certainty
@@ -21,10 +22,10 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 
 ## Blog Posts
 
-- [Infinite Certainty](http://lesswrong.com/lw/mo/infinite_certainty/)
-- [0 And 1 Are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
-- [How to Convince Me That 2 + 2 = 3](http://lesswrong.com/lw/jr/how_to_convince_me_that_2_2_3/)
-- [Confidence levels inside and outside an argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/) by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
+- [[Infinite Certainty]]
+- [[0 And 1 Are Not Probabilities]]
+- [[How to Convince Me That 2 + 2 = 3]]
+- [[Confidence levels inside and outside an argument]] by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## References
 

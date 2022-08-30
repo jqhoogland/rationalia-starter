@@ -32,7 +32,7 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[What do we mean by "Rationality"?]]
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
 - [[What is evidence?]]
-- [[How to convince me that 2+2=3]]
+- [[How to Convince Me That 2 + 2 = 3]]
 - [[Occam's Razor]]
 - [[The lens that sees its flaws]]
 

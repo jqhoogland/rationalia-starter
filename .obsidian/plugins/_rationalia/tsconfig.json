@@ -4,7 +4,7 @@
     "inlineSourceMap": true,
     "inlineSources": true,
     "module": "ESNext",
-    "target": "ES6",
+    "target": "ESNext",
     "allowJs": true,
     "noImplicitAny": true,
     "moduleResolution": "node",
@@ -12,6 +12,7 @@
     "isolatedModules": true,
 	"strictNullChecks": true,
     "lib": [
+      "ESNext",
       "DOM",
       "ES5",
       "ES6",

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Abolitionism.md",
+            "file": "LW/Concepts/Absolute Certainty.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Abolitionism.md"
+                "file": "LW/Concepts/Absolute Certainty.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Abolitionism.md",
+                "file": "LW/Concepts/Absolute Certainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "ba29b57657e8557c",
   "lastOpenFiles": [
+    "LW/Posts/How to Convince Me That 2 + 2 = 3.md",
+    "LW/Concepts/Absolute Certainty.md",
     "LW/Concepts/Abstraction.md",
+    "LW/Concepts/Abolitionism.md",
+    "LW/Posts/0 And 1 Are Not Probabilities.md",
+    "LW/Concepts/Absent-Minded Driver.md",
+    "LW/Posts/How to convince me that 2+2=3.md",
     "LW/Concepts/Absurdity Heuristic.md",
     "LW/Concepts/Academic Papers.md",
-    "LW/Concepts/Absolute Certainty.md",
-    "LW/Concepts/Absent-Minded Driver.md",
-    "LW/Concepts/Abolitionism.md",
-    "LW/Concepts/12 Virtues.md",
-    "LW/Concepts/Heuristic.md",
-    "LW/Jargon/Heuristic.md",
-    "The Absent-Minded Driver.md"
+    "LW/Concepts/12 Virtues.md"
   ]
 }
