@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Books.md",
+            "file": "LW/Concepts/Abolitionism.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4e92204b17ddcb0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LW/Posts/Serious Stories.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Books.md"
+                "file": "LW/Concepts/Abolitionism.md"
               }
             }
           }
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Books.md",
+                "file": "LW/Concepts/Abolitionism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,38 +111,6 @@
             }
           },
           {
-            "id": "ab615bc01b27d20d",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "1458b5e7248ba579",
-            "type": "leaf",
-            "state": {
-              "type": "BC-ducks",
-              "state": {}
-            }
-          },
-          {
-            "id": "0bf9a08c8436ce44",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e420507a36432bf",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "5ec34430eec4cf92",
             "type": "leaf",
             "state": {
@@ -139,18 +119,18 @@
             }
           },
           {
-            "id": "f3fead1e90a6e6a2",
+            "id": "d81cfff7ff02f56b",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "BC-matrix",
               "state": {}
             }
           },
           {
-            "id": "bf7fbb1a1a9a902b",
+            "id": "b55b4c5acbef7b10",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "BC-tree",
               "state": {}
             }
           }
@@ -164,15 +144,15 @@
   },
   "active": "2538daa0e38d64f3",
   "lastOpenFiles": [
-    "LW/Concepts/12 Virtues.md",
-    "LW/Concepts/Absurdity Heuristic.md",
-    "LW/Concepts/Abstraction.md",
-    "LW/Concepts/Absolute Certainty.md",
-    "LW/Concepts/Absent-Minded Driver.md",
+    "LW/Posts/Serious Stories.md",
     "LW/Concepts/Abolitionism.md",
-    "LW/Concepts/Infinite Set Atheism.md",
-    "LW/Collections/Best of LessWrong.md",
-    "LW/Concepts/AIXI.md",
-    "LW/Concepts/Air Quality.md"
+    "LW/Concepts/12 Virtues.md",
+    "LW/Posts/Church vs. Taskforce.md",
+    "LW/Posts/Chris Olah’s views on AGI safety.md",
+    "LW/Posts/Chapter 4— The Efficient Market Hypothesis.md",
+    "LW/Posts/Chapter 1— A Day of Very Low Probability.md",
+    "LW/Posts/Chapter 12— Impulse Control.md",
+    "LW/Posts/Chapter 16— Lateral Thinking.md",
+    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md"
   ]
 }

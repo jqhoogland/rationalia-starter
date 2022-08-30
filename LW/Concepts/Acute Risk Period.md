@@ -1,14 +1,15 @@
 ---
 _id: ESkc5kecgkLF235dj
 title: Acute Risk Period
-href: https://lesswrong.com/tag/acute-risk-period
+href: https://www.lesswrong.com/tag/acute-risk-period
 slug: acute-risk-period
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:13.953Z'
+synchedAt: '2022-08-29T20:32:26.630Z'
+status: todo
 ---
 # Acute Risk Period
 

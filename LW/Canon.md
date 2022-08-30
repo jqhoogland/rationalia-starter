@@ -245,7 +245,7 @@ href: https://www.lesswrong.com/tag/lesswrong-canon-on-rationality
 - [[Trivial inconvenience]] - inconveniences that take few resources to counteract but have a disproportionate impact on people deciding whether to take a course of action.
 - [[Truth]] - the correspondence between and one's beliefs about reality and reality.
 - [[Tsuyoku naritai]] - the will to transcendence. Japanese: "I want to become stronger."
-- [[Twelve virtues of rationality]]
+- [[Twelve Virtues of Rationality]]
 
 1. Curiosity - the burning itch
 2. Relenquishment - That which can be destroyed by the truth should be. - P. C. Hodgell

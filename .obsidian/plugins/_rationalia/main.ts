@@ -156,7 +156,8 @@ const updateTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFro
 				"LessWrong",
 				"Tag",
 				"Concept",
-		  ]).values()]
+			]).values()],
+		status: frontmatter?.status ?? "todo",
 	}
 
 	if (tag.parentTag) {
@@ -206,6 +207,7 @@ export const fixLinks = async (md: string) => {
 				return `[${alias}](${href})`;
 			}
 
+			console.log(href, "->", title)
 			if (title === alias) {
 				return `[[${title}]]`
 			}
@@ -219,25 +221,39 @@ export const fixLinks = async (md: string) => {
 
 const getTitleFromLink = async (href: string) => {
 	let id_or_slug = "";
+	let type_ = "";
 
     try {
 		if (href.includes("/tag/")) {
 			id_or_slug = href.split("/tag/")[1].split("/")[0].split("?")[0]	
+			type_ = "tag";
 		} else if (href.includes("/wiki/")) {
 			id_or_slug = href.split("/wiki/")[1].split("/")[0].split("?")[0]	
+			type_ = "tag";
 		} else if (href.includes("/lw/")) {  // E.g.: /lw/nc/newcombs_problem_and_regret_of_rationality/ 
 			id_or_slug = href.split("/lw/")[1].split("/")[1].split("?")[0]
+			type_ = "post";
 		} else if (href.includes("/posts/")) {
 			id_or_slug = href.split("/posts/")[1].split("/")[0].split("?")[0]
+			type_ = "post";
 		} else if (href.includes("/p/")) {
 			id_or_slug = href.split("/p/")[1].split("/")[0].split("?")[0]
+			type_ = "post";
 		} else if (href.includes("/book/")) {
 			id_or_slug = href.split("/book/")[1].split("/")[0]
+			type_ = "book";
 		} else if (href.includes("/s/")) {
 			id_or_slug = href.split("/s/")[1].split("/")[0]
+			type_ = "sequence";
 		}
 		
-		const page = api!.pages('#LessWrong').where(p => p._id === id_or_slug || p.slug === id_or_slug).first()
+		const page = api!.pages('#LessWrong').where(p =>
+			p.type === type_ && (
+				p._id === id_or_slug
+				|| p.slug === id_or_slug
+				|| p.slug === id_or_slug.replace("_", "-")
+			)
+		).first()
 		
 		if (!page?.title) {
 			console.error(page)

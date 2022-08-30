@@ -98,8 +98,8 @@ export const postsToMD = async () => {
                 post,
                 ['_id', 'title', 'author', 'url', 'slug'],
                 {
-                    type: "sequence",
-                    tags: ["LessWrong", "Concept", "Post", ...(post?.tags ?? []).map(({name}) => name)],
+                    type: "post",
+                    tags: ["LessWrong", "Concept", "Post", ...(post?.tags ?? []).map(({name}) => name.replace(" ", "_"))],
                     href: `https://www.lesswrong.com/posts/${post._id}/${post.slug}`,
                     ...(sequence ? { sequence: sequence.title } : {}),
                     ...(chapter ? { chapter: chapter.title } : {}),
@@ -121,6 +121,6 @@ export const postsToMD = async () => {
 
 
 
-// gatherPosts().then(writePosts)
+// await gatherPosts().then(writePosts)
 // console.log(JSON.stringify(gatherPosts(), null, 2))
-// await postsToMD();
+await postsToMD();

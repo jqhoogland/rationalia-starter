@@ -86,7 +86,7 @@ synchedAt: '2022-08-29T11:16:45.896Z'
 - [[Reductive Reference]]
 
 
-## Selected posts from [[Zombies]] & [[Supernaturality]]
+## Selected posts from [[Zombies (Concept)]] & [[Supernaturality]]
 
 - [[Zombies! Zombies?]]
 - [[GAZP vs. GLUT]]
