@@ -1,15 +1,19 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb192
 title: Adding Up to Normality
-href: https://lesswrong.com/tag/adding-up-to-normality
+href: https://www.lesswrong.com/tag/adding-up-to-normality
 slug: adding-up-to-normality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:55.555Z'
+synchedAt: '2022-08-30T10:41:01.403Z'
+aliases:
+  - Egan's Law
+status: todo
 ---
+
 # Adding Up to Normality
 
 "It all adds up to normality" is a common phrase used on LessWrong (also known here as Egan's law\[1\]). **Adding Up to Normality** is the property of an explanation which adds to our understanding without changing what we already know to be true. for example:
@@ -21,7 +25,7 @@ The purpose of a theory is to add up to observed reality. Science sets out to an
 
 A weaker extension of this principle applies to ethical and metaethical debates, which generally ought to end up explaining why you *shouldn't* eat babies, rather than why you *should*.
 
-## See also
+## See Also
 
 - [[Reality Is Normal|Reality is normal]]
 - [[Quantum Mechanics|Quantum mechanics]]
@@ -29,3 +33,31 @@ A weaker extension of this principle applies to ethical and metaethical debates,
 - [[Occam's Razor|Occam's razor]]
 
 \[1\] After the science fiction writer [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan), who first wrote this phrase in [Quarantine](https://en.wikipedia.org/wiki/Quarantine_(Egan_novel)).
+
+%%
+
+% START
+
+Basic (and reversed card)
+
+What is **Adding Up to Normality** (or **Egan's law**)?
+
+Back: The property of an explanation that adds to our understanding without changing what we already know to be true.
+
+Tags: LessWrong
+
+END
+
+% START
+
+Basic (and reversed card)
+
+**Egan's law** is another name for what property?
+
+Back: **Adding Up to Normality** is known by what other name?
+
+Tags: LessWrong
+
+END
+
+%%

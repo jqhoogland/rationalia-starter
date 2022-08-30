@@ -1,15 +1,17 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2fb
 title: Adversarial Collaboration
-href: https://lesswrong.com/tag/adversarial-collaboration
+href: https://www.lesswrong.com/tag/adversarial-collaboration
 slug: adversarial-collaboration
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:35.726Z'
+synchedAt: '2022-08-30T10:41:06.518Z'
+status: todo
 ---
+
 # Adversarial Collaboration
 
 **Adversarial collaboration** is a protocol developed by Daniel Kahneman for two researchers advocating competing hypotheses to collaborate on a research project with the goal of resolving their differences, designed on the assumption that this will be more effective than each researcher conducting their own experiments individually and publishing replies to each others' papers. Kahneman tested adversarial collaboration with Ralph Hertwig, aiming to resolve their dispute about whether the [[Conjunction Fallacy|conjunction fallacy]] was primarily due to the [[Representativeness Heuristic|representativeness heuristic]] (as advocated by Kahneman), or simply due to subjects interpreting the word "and" as a disjunction where the experimenters intended it to be used as a conjunction (as advocated by Hertwig). Kahneman and Hertwig collaborated on a series of experiments related to the issue, along with Barbara Mellers as an arbiter, and further refined the suggested adversarial collaboration protocol based on their experiences.
@@ -36,6 +38,24 @@ Scott Alexander has arranged adversarial collaboration contests on his his blog,
 - [Should childhood vaccination be mandatory?](https://slatestarcodex.com/2018/09/06/acc-entry-should-childhood-vaccination-be-mandatory/) by Mark Davis and Mark Webb
 - [Should children who identify as transgender start transitioning?](https://slatestarcodex.com/2018/09/08/acc-entry-should-transgender-children-transition/) by a_reader and flame7926
 
-## External links
+## External Links
 
 [http://web.cenet.org.cn/upfile/21290.pdf](http://web.cenet.org.cn/upfile/21290.pdf) (the protocol is summarized in table 1, at the top of page 2)
+
+%%
+
+% START
+
+Basic (and reversed card)
+
+What is **Adversarial Collaboration**?
+
+Back: A protocol for two researchers advocating competing hypotheses to collaborate on a research project with the goal of resolving their differences.
+
+Tags: LessWrong
+
+END
+
+%%
+
+

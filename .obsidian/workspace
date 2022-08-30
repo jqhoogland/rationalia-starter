@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ba29b57657e8557c",
+        "id": "1736571993ef40a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Absolute Certainty.md",
-            "mode": "source",
+            "file": "LW/Concepts/Affective Death Spiral.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag",
+                "query": "tag:#Concept",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Absolute Certainty.md"
+                "file": "LW/Concepts/Affective Death Spiral.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Absolute Certainty.md",
+                "file": "LW/Concepts/Affective Death Spiral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "ba29b57657e8557c",
+  "active": "1736571993ef40a4",
   "lastOpenFiles": [
-    "LW/Posts/How to Convince Me That 2 + 2 = 3.md",
-    "LW/Concepts/Absolute Certainty.md",
-    "LW/Concepts/Abstraction.md",
-    "LW/Concepts/Abolitionism.md",
-    "LW/Posts/0 And 1 Are Not Probabilities.md",
-    "LW/Concepts/Absent-Minded Driver.md",
-    "LW/Posts/How to convince me that 2+2=3.md",
-    "LW/Concepts/Absurdity Heuristic.md",
-    "LW/Concepts/Academic Papers.md",
-    "LW/Concepts/12 Virtues.md"
+    "LW/Concepts/Affect Heuristic.md",
+    "LW/Concepts/Affective Death Spiral.md",
+    "LW/Concepts/Aesthetics.md",
+    "Untitled.md",
+    "LW/Concepts/Adversarial Training.md",
+    "LW/Concepts/Adversarial Examples.md",
+    "LW/Concepts/Adversarial Collaboration.md",
+    "LW/Concepts/Conjunction Fallacy.md",
+    "LW/Concepts/Adding Up to Normality.md",
+    "LW/Concepts/Addiction.md"
   ]
 }

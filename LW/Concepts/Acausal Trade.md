@@ -1,20 +1,22 @@
 ---
 _id: tgJoX7PGDDh2vJNqT
 title: Acausal Trade
-href: https://lesswrong.com/tag/acausal-trade
+href: https://www.lesswrong.com/tag/acausal-trade
 slug: acausal-trade
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:15.539Z'
+synchedAt: '2022-08-30T10:31:36.638Z'
+status: todo
 ---
+
 # Acausal Trade
 
 In **acausal trade**, two agents each benefit by predicting what the other wants and doing it, even though they might have no way of communicating or affecting each other, nor even any direct evidence that the other exists.
 
-## Background: Superrationality and the one-shot Prisoner's Dilemma
+## Background: Superrationality and the One-shot Prisoner's Dilemma
 
 This concept emerged out of the much-debated question of how to achieve cooperation on a one-shot [[Prisoner's Dilemma]], where, by design, the two players are not allowed to communicate. On the one hand, a player who is considering the causal consequences of a decision ("[[Causal Decision Theory]]") finds that defection always produces a better result. On the other hand, if the other player symmetrically reasons this way, the result is a Defect/Defect equilibrium, which is bad for both agents. If they could somehow converge on Cooperate, they would each individually do better. The question is what variation on decision theory would allow this beneficial equilibrium.
 
@@ -36,7 +38,7 @@ In truly *acausal* trade, the agents cannot count on reputation, retaliation, or
 
 Acausal trade can also be described in terms of [[Pre-Commitment|(pre)commitment]]: Both agents commit to cooperate, and each has reason to think that the other is also committing.
 
-## Prediction mechanisms
+## Prediction Mechanisms
 
 For acausal trade to occur, each agent must infer there is some probability that an agent, of the sort that will acausally trade with it, exists.
 
@@ -48,10 +50,10 @@ To take a more prosaic example, we humans realize that humans tend to be alike: 
 
 Once an agent realizes that another agent might exist, there are different ways that might predict the other agent's behavior, and specifically that the other agent can be an acausal trading partner.
 
-1.  They might know or surmise each other's mental architectures (source code).
-2.  In particular, they might know that they have identical or similar mental architecture, so that each one knows that its own mental processes approximately simulate the other's.
-3.  They might be able to simulate each other (perhaps probabalistically), or to predict the other's behavior analytically. (Even we humans simulate each other's thoughts to guess what the other would do.)
-4.  More broadly, it is enough to know (probabilistically) that the other is a powerful optimizer, that it has a certain utility function, and that it can derive utility from resources. Seen mathematically, this is just an optimization problem: What is the best possible algorithm for an agent's utility function? Cooperate/Cooperate is optimal under certain assumptions, for if one agent could achieve optimal utility by defecting, then, symmetrically, so could the other, resulting in Defect/Defect which generates inferior utility.
+1. They might know or surmise each other's mental architectures (source code).
+2. In particular, they might know that they have identical or similar mental architecture, so that each one knows that its own mental processes approximately simulate the other's.
+3. They might be able to simulate each other (perhaps probabalistically), or to predict the other's behavior analytically. (Even we humans simulate each other's thoughts to guess what the other would do.)
+4. More broadly, it is enough to know (probabilistically) that the other is a powerful optimizer, that it has a certain utility function, and that it can derive utility from resources. Seen mathematically, this is just an optimization problem: What is the best possible algorithm for an agent's utility function? Cooperate/Cooperate is optimal under certain assumptions, for if one agent could achieve optimal utility by defecting, then, symmetrically, so could the other, resulting in Defect/Defect which generates inferior utility.
 
 ## Decision Theories
 
@@ -69,31 +71,31 @@ A common objection to this idea: Why shouldn't an agent "cheat" and choose to de
 
 Another objection: Can an agent care about (have a utility function that takes into account) entities with which it can never interact, and about whose existence it is not certain? However, this is quite common even for humans today. We care about the suffering of other people in faraway lands about whom we know next to nothing. We are even disturbed by the suffering of long-dead historical people, and wish that, counterfactually, the suffering had not happened. We even care about entities that we are not sure exist. For example:  We might be concerned by news report that a valuable archaeological artifact was destroyed in a distant country, yet at the same time read other news reports stating that the entire story is a fabrication and the artifact never existed. People even get emotionally attached to the fate of a fictional character.
 
-## An example of acausal trade with simple resource requirements
+## An Example of Acausal Trade with Simple Resource Requirements
 
-At its most abstract, the agents are simply optimization algorithms. As a toy example, let T be a utility function for which time is most valuable as a resource; while for utility function S, space is most valuable, and assume that these are the only two resources.
+At its most abstract, the agents are simply optimization algorithms. As a toy example, let $T$ be a utility function for which time is most valuable as a resource; while for utility function $S$, space is most valuable, and assume that these are the only two resources.
 
-We will now choose the best algorithms for optimizing T. To avoid anthropomorphizing, we simply ask which algorithm--which string of LISP, for example--would give the highest expected utility for a given utility function. Thus, the choice of source code is "timeless": We treat it as an optimization problem across all possible strings of LISP. We assume that computing power is unlimited. Mathematically, we are asking about argmax T.
+We will now choose the best algorithms for optimizing $T$. To avoid anthropomorphizing, we simply ask which algorithm--which string of LISP, for example--would give the highest expected utility for a given utility function. Thus, the choice of source code is "timeless": We treat it as an optimization problem across all possible strings of LISP. We assume that computing power is unlimited. Mathematically, we are asking about $\text{argmax}\, T$.
 
 We specify that there is a probability that either agent will be run in an environment where time is in abundance, and if not, some probability that it will be run in a space-rich universe.
 
-If the algorithm for T is instantiated in a space-rich environment, it will only be able to gain a small amount of utility for itself, but S would be able to gain a lot of utility; and vice versa.
+If the algorithm for $T$ is instantiated in a space-rich environment, it will only be able to gain a small amount of utility for itself, but $S$ would be able to gain a lot of utility; and vice versa.
 
-The question is: What algorithm for T provides the most optimization power, the highest expected value of utility function T?
+The question is: What algorithm for $T$ provides the most optimization power, the highest expected value of utility function $T$?
 
-If it turns out that the environment is space-rich, the agent for T may run the agent (the algorithm) for S, increasing the utility for S, and symmetrically the reverse. This will happen if each concludes, that the optimum occurs when the other agent has the "trading" feature. Given that this is the optimal case, the acausal trade will occur.
+If it turns out that the environment is space-rich, the agent for $T$ may run the agent (the algorithm) for $S$, increasing the utility for $S$, and symmetrically the reverse. This will happen if each concludes, that the optimum occurs when the other agent has the "trading" feature. Given that this is the optimal case, the acausal trade will occur.
 
-## Acausal trade with complex resource requirements
+## Acausal Trade with Complex Resource Requirements
 
 In the toy example above, resource requirements are very simple. In general, given that agents can have complex and arbitrary goals requiring a complex mix of resources, an agent might not be able to conclude that a specific trading partner has a meaningful chance of existing and trading.
 
 However, an agent can analyze the distribution of probabilities for the existence of other agents, and weight its actions accordingly. It will do acausal "favors" for one or more trading partners, weighting its effort according to its subjective probability that the trading partner exists. The expectation on utility given and received will come into a good enough balance to benefit the traders, in the limiting case of increasing super-intelligence.
 
-## Ordinary trade
+## Ordinary Trade
 
 Even ordinary trade can be analyzed acausally, using a perspective similar to that of [[Updateless Decision Theory|Updateless decision theory]]. We ask: Which algorithm should an agent have to get the best expected value, summing across all possible environments weighted by their probability? The possible environments include those in which threats and promises have been made.
 
-## See also
+## See Also
 
 - ["AI deterrence"](http://aibeliefs.blogspot.com/2007/11/non-technical-introduction-to-ai.html?a=1)
 - ["The AI in a box boxes you"](https://www.lesswrong.com/lw/1pz/the_ai_in_a_box_boxes_you)
@@ -113,3 +115,21 @@ Even ordinary trade can be analyzed acausally, using a perspective similar to th
 - Jaan Tallinn, [Why Now? A Quest in Metaphysics](https://www.youtube.com/watch?v=29AgSo6KOtI).
 - [Gary Drescher](https://wiki.lesswrong.com/wiki/Gary_Drescher), *Good and Real*, MIT Press, 1996.
 - [Functional Decision Theory](https://arxiv.org/abs/1710.05060)
+
+%%
+
+% START
+
+Basic (and reversed card)
+
+What is **Acausal Trade**?
+
+Back: When two agents each benefit by predicting what the other wants and doing it, even though they might have no way of communicating or affecting each other, nor even any direct evidence that the other exists.
+
+Tags: LessWrong
+
+ID: 1661855607972
+
+END
+
+%%
