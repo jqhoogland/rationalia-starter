@@ -43,9 +43,9 @@ Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability
 
 ## See Also
 
-- [[Kolmogorov Complexity|Kolmogorov complexity]]
-- [[AIXI]]
-- [[Occam's Razor|Occam's razor]]
+- [[Kolmogorov Complexity|Kolmogorov complexity]] (`= [[Kolmogorov Complexity|Kolmogorov complexity]].status`)
+- [[AIXI]] (`= [[AIXI]].status`)
+- [[Occam's Razor|Occam's razor]] (`= [[Occam's Razor|Occam's razor]].status`)
 
 ## References
 

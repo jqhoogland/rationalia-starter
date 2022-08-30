@@ -28,4 +28,4 @@ For example, we might say that eating an ice cream cone yields 3 hedons to a nor
 
 - [[Utilitarianism]], [[Hedonism]]
 - [[Fuzzies]], [Utils](https://wiki.lesswrong.com/wiki/Utils)
-- [[Complexity of Value|Complexity of value]]
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)

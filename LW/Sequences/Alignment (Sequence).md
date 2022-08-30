@@ -28,11 +28,11 @@ For the reader who is not well-versed in the discussion around how to align powe
 
 ### Alignment
 
-- [[Arguments about fast takeoff]]
-- [[Specification gaming examples in AI]]
-- [[The Rocket Alignment Problem]]
-- [[Embedded Agents]]
-- [[Paul's research agenda FAQ]]
-- [[Challenges to Christiano’s capability amplification proposal]]
-- [[Robustness to Scale]]
-- [[Coherence arguments do not entail goal-directed behavior]]
+- [[Arguments about fast takeoff]] (`= [[Arguments about fast takeoff]].status`)
+- [[Specification gaming examples in AI]] (`= [[Specification gaming examples in AI]].status`)
+- [[The Rocket Alignment Problem]] (`= [[The Rocket Alignment Problem]].status`)
+- [[Embedded Agents]] (`= [[Embedded Agents]].status`)
+- [[Paul's research agenda FAQ]] (`= [[Paul's research agenda FAQ]].status`)
+- [[Challenges to Christiano’s capability amplification proposal]] (`= [[Challenges to Christiano’s capability amplification proposal]].status`)
+- [[Robustness to Scale]] (`= [[Robustness to Scale]].status`)
+- [[Coherence arguments do not entail goal-directed behavior]] (`= [[Coherence arguments do not entail goal-directed behavior]].status`)

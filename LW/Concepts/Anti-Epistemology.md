@@ -27,9 +27,9 @@ An example of anti-epistemology run riot would be New Ageism: The concept of "fa
 
 ## See Also
 
-- [[Rationality]]
+- [[Rationality]] (`= [[Rationality]].status`)
 - [[Semantic Stopsign|Semantic stopsign]], [[Self-Deception|Self-deception]]
-- [[Improper Belief|Improper belief]]
-- [[Logical Rudeness|Logical rudeness]]
+- [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
+- [[Logical Rudeness|Logical rudeness]] (`= [[Logical Rudeness|Logical rudeness]].status`)
 - [[Privileging The Hypothesis|Privileging the hypothesis]], [[Rationalization]]
-- [[Affective Death Spiral|Affective death spiral]]
+- [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)

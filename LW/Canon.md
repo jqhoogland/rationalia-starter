@@ -1,332 +1,333 @@
 ---
 href: https://www.lesswrong.com/tag/lesswrong-canon-on-rationality
+status: todo
 ---
 
 # Property Attribution
 
 ## Barriers, Biases, Fallacies, Impediments and Problems
 
-- [[Affective death spiral]]
-- [[Anthropomorphism]]
-- [[Bystander effect]]
-- [[Connotation]]
-- [[Correspondence bias]]
-- [[Death Spirals and the Cult Attractor]]
-- [[Detached lever fallacy]]
-- [[Giant cheesecake fallacy]]
-- [[Halo effect]]
-- [[Illusion of transparency]]
-- [[Inferential distance]]
-- [[Information cascades]]
-- [[Mind projection fallacy]]
-- [[Other-optimizing]]
-- [[Peak-end rule]]
-- [[Stereotype]]
-- [[Typical mind fallacy]]
+- [[Affective death spiral]] (`= [[Affective death spiral]].status`)
+- [[Anthropomorphism]] (`= [[Anthropomorphism]].status`)
+- [[Bystander effect]] (`= [[Bystander effect]].status`)
+- [[Connotation]] (`= [[Connotation]].status`)
+- [[Correspondence bias]] (`= [[Correspondence bias]].status`)
+- [[Death Spirals and the Cult Attractor]] (`= [[Death Spirals and the Cult Attractor]].status`)
+- [[Detached lever fallacy]] (`= [[Detached lever fallacy]].status`)
+- [[Giant cheesecake fallacy]] (`= [[Giant cheesecake fallacy]].status`)
+- [[Halo effect]] (`= [[Halo effect]].status`)
+- [[Illusion of transparency]] (`= [[Illusion of transparency]].status`)
+- [[Inferential distance]] (`= [[Inferential distance]].status`)
+- [[Information cascades]] (`= [[Information cascades]].status`)
+- [[Mind projection fallacy]] (`= [[Mind projection fallacy]].status`)
+- [[Other-optimizing]] (`= [[Other-optimizing]].status`)
+- [[Peak-end rule]] (`= [[Peak-end rule]].status`)
+- [[Stereotype]] (`= [[Stereotype]].status`)
+- [[Typical mind fallacy]] (`= [[Typical mind fallacy]].status`)
 
 ## Techniques/Concepts
 
-- [[ADBOC]]
-- [[Alien Values]]
-- [[Chronophone]]
-- [[Empathic inference]]
-- [[Epistemic luck]]
-- [[Future]]
-- [[Mental models]]
-- [[Mind design space]]
-- [[Near, far thinking]]
-- [[No-Nonsense Metaethics]]
-- [[Superhero bias|Only the vulnerable are heroes]]
+- [[ADBOC]] (`= [[ADBOC]].status`)
+- [[Alien Values]] (`= [[Alien Values]].status`)
+- [[Chronophone]] (`= [[Chronophone]].status`)
+- [[Empathic inference]] (`= [[Empathic inference]].status`)
+- [[Epistemic luck]] (`= [[Epistemic luck]].status`)
+- [[Future]] (`= [[Future]].status`)
+- [[Mental models]] (`= [[Mental models]].status`)
+- [[Mind design space]] (`= [[Mind design space]].status`)
+- [[Near, far thinking]] (`= [[Near, far thinking]].status`)
+- [[No-Nonsense Metaethics]] (`= [[No-Nonsense Metaethics]].status`)
+- [[Superhero bias|Only the vulnerable are heroes]] (`= [[Superhero bias|Only the vulnerable are heroes]].status`)
 
 # Epistemic
 
 ## Barriers, Biases, Fallacies, Impediments and Problems
 
-- [[Absurdity Heuristic]]
-- [[Affect heuristic]]
-- [[Arguing by analogy]]
-- [[Arguing by definition]]
-- [[Arguments as soldiers]]
-- [[Availability heuristic]]
-- [[Professing and Cheering|Belief as cheering]]
-- [[Deepity|Beware of Deepities]]
-- [[Bias]]
-- [[Burdensome details]]
-- [[Compartmentalization]]
-- [[Conformity bias]]
-- [[Conjunction fallacy]]
-- [[Contagion heuristic]]
-- [[Costs of rationality]]
-- [[Defensibility]]
-- [[Fake simplicity]]
-- [[Fallacy of gray]]
-- [[False dilemma]]
-- [[Filtered evidence]]
-- [[Generalization from fictional evidence]]
-- [[Groupthink]]
-- [[Hindsight bias]]
-- [[Information hazards]]
-- [[In-group bias]]
-- [[Mind-killer]]
-- [[Motivated reasoning|Motivated cognition]]
-- [[Motivated skepticism]]
-- [[Narrative fallacy]]
-- [[Overconfidence]]
-- [[Planning fallacy]]
-- [[Politics is the Mind-Killer]]
-- [[Confirmation Bias|Positive Bias]]
-- [[Priming]]
-- [[Privileging the hypothesis]]
-- [[Rationality Verification|Problem of verifying rationality]]
-- [[Rationalization]]
-- [[Reason as memetic immune disorder]]
-- [[Representativeness heuristic]]
-- [[Scales of justice fallacy]]
-- [[Scope Insensitivity (Post)]]
-- [[Self-deception]]
-- [[Status quo bias]]
-- [[Sunk-Cost Fallacy|Sunk cost fallacy]]
-- [[The top 1% fallacy]]
-- [[Underconfidence]]
-- [[Wrong Questions]]
+- [[Absurdity Heuristic]] (`= [[Absurdity Heuristic]].status`)
+- [[Affect heuristic]] (`= [[Affect heuristic]].status`)
+- [[Arguing by analogy]] (`= [[Arguing by analogy]].status`)
+- [[Arguing by definition]] (`= [[Arguing by definition]].status`)
+- [[Arguments as soldiers]] (`= [[Arguments as soldiers]].status`)
+- [[Availability heuristic]] (`= [[Availability heuristic]].status`)
+- [[Professing and Cheering|Belief as cheering]] (`= [[Professing and Cheering|Belief as cheering]].status`)
+- [[Deepity|Beware of Deepities]] (`= [[Deepity|Beware of Deepities]].status`)
+- [[Bias]] (`= [[Bias]].status`)
+- [[Burdensome details]] (`= [[Burdensome details]].status`)
+- [[Compartmentalization]] (`= [[Compartmentalization]].status`)
+- [[Conformity bias]] (`= [[Conformity bias]].status`)
+- [[Conjunction fallacy]] (`= [[Conjunction fallacy]].status`)
+- [[Contagion heuristic]] (`= [[Contagion heuristic]].status`)
+- [[Costs of rationality]] (`= [[Costs of rationality]].status`)
+- [[Defensibility]] (`= [[Defensibility]].status`)
+- [[Fake simplicity]] (`= [[Fake simplicity]].status`)
+- [[Fallacy of gray]] (`= [[Fallacy of gray]].status`)
+- [[False dilemma]] (`= [[False dilemma]].status`)
+- [[Filtered evidence]] (`= [[Filtered evidence]].status`)
+- [[Generalization from fictional evidence]] (`= [[Generalization from fictional evidence]].status`)
+- [[Groupthink]] (`= [[Groupthink]].status`)
+- [[Hindsight bias]] (`= [[Hindsight bias]].status`)
+- [[Information hazards]] (`= [[Information hazards]].status`)
+- [[In-group bias]] (`= [[In-group bias]].status`)
+- [[Mind-killer]] (`= [[Mind-killer]].status`)
+- [[Motivated reasoning|Motivated cognition]] (`= [[Motivated reasoning|Motivated cognition]].status`)
+- [[Motivated skepticism]] (`= [[Motivated skepticism]].status`)
+- [[Narrative fallacy]] (`= [[Narrative fallacy]].status`)
+- [[Overconfidence]] (`= [[Overconfidence]].status`)
+- [[Planning fallacy]] (`= [[Planning fallacy]].status`)
+- [[Politics is the Mind-Killer]] (`= [[Politics is the Mind-Killer]].status`)
+- [[Confirmation Bias|Positive Bias]] (`= [[Confirmation Bias|Positive Bias]].status`)
+- [[Priming]] (`= [[Priming]].status`)
+- [[Privileging the hypothesis]] (`= [[Privileging the hypothesis]].status`)
+- [[Rationality Verification|Problem of verifying rationality]] (`= [[Rationality Verification|Problem of verifying rationality]].status`)
+- [[Rationalization]] (`= [[Rationalization]].status`)
+- [[Reason as memetic immune disorder]] (`= [[Reason as memetic immune disorder]].status`)
+- [[Representativeness heuristic]] (`= [[Representativeness heuristic]].status`)
+- [[Scales of justice fallacy]] (`= [[Scales of justice fallacy]].status`)
+- [[Scope Insensitivity (Post)]] (`= [[Scope Insensitivity (Post)]].status`)
+- [[Self-deception]] (`= [[Self-deception]].status`)
+- [[Status quo bias]] (`= [[Status quo bias]].status`)
+- [[Sunk-Cost Fallacy|Sunk cost fallacy]] (`= [[Sunk-Cost Fallacy|Sunk cost fallacy]].status`)
+- [[The top 1% fallacy]] (`= [[The top 1% fallacy]].status`)
+- [[Underconfidence]] (`= [[Underconfidence]].status`)
+- [[Wrong Questions]] (`= [[Wrong Questions]].status`)
 
 ## Techniques/Concepts
 
-- [[Absolute certainty]]
-- [[Adaptation executors]]
-- [[Adversarial process]]
-- [[Altruism]]
-- [[Amount of evidence]]
-- [[Anti-epistemology]]
-- [[Antiprediction]]
-- [[Applause light]]
-- [[Artificial general intelligence]]
-- [[Bayesianism]]
-- [[Aumann's agreement theorem]]
-- [[Bayesian decision theory]]
-- [[Bayesian probability]]
-- [[Bayes' theorem]]
-- [[Belief]]
-- [[Belief as attire]]
-- [[Belief in belief]]
-- [[Belief update]]
-- [[Bite the bullet]]
-- [[Black swans]]
-- [[Cached thoughts]]
-- [[Causal Decision Theory]]
-- [[Causality]]
-- [[Church-Turing thesis]]
-- [[Coherent Aggregated Volition]]
-- [[Coherent Blended Volition]]
-- [[Coherent Extrapolated Volition]]
-- [[Blues & Greens (metaphor)|Color politics]]
-- [[Common knowledge]]
-- [[Conceptual metaphor]]
-- [[Configuration space]]
-- [[Conservation of expected evidence]]
-- [[Control theory]]
-- [[Corrupted hardware]]
-- [[Counterfactual mugging]]
-- [[Counter man syndrome]]
-- [[Cox's theorem]]
-- [[Crisis of faith]]
-- [[Cryonics]]
-- [[Curiosity]]
-- [[Dangerous knowledge]]
-- [[Dangling Node]]
-- [[Death]]
-- [[Debiasing]]
-- [[Decision theory]]
-- [[Defying the data]]
-- [[Disagreement]]
-- [[Doubt]]
+- [[Absolute certainty]] (`= [[Absolute certainty]].status`)
+- [[Adaptation executors]] (`= [[Adaptation executors]].status`)
+- [[Adversarial process]] (`= [[Adversarial process]].status`)
+- [[Altruism]] (`= [[Altruism]].status`)
+- [[Amount of evidence]] (`= [[Amount of evidence]].status`)
+- [[Anti-epistemology]] (`= [[Anti-epistemology]].status`)
+- [[Antiprediction]] (`= [[Antiprediction]].status`)
+- [[Applause light]] (`= [[Applause light]].status`)
+- [[Artificial general intelligence]] (`= [[Artificial general intelligence]].status`)
+- [[Bayesianism]] (`= [[Bayesianism]].status`)
+- [[Aumann's agreement theorem]] (`= [[Aumann's agreement theorem]].status`)
+- [[Bayesian decision theory]] (`= [[Bayesian decision theory]].status`)
+- [[Bayesian probability]] (`= [[Bayesian probability]].status`)
+- [[Bayes' theorem]] (`= [[Bayes' theorem]].status`)
+- [[Belief]] (`= [[Belief]].status`)
+- [[Belief as attire]] (`= [[Belief as attire]].status`)
+- [[Belief in belief]] (`= [[Belief in belief]].status`)
+- [[Belief update]] (`= [[Belief update]].status`)
+- [[Bite the bullet]] (`= [[Bite the bullet]].status`)
+- [[Black swans]] (`= [[Black swans]].status`)
+- [[Cached thoughts]] (`= [[Cached thoughts]].status`)
+- [[Causal Decision Theory]] (`= [[Causal Decision Theory]].status`)
+- [[Causality]] (`= [[Causality]].status`)
+- [[Church-Turing thesis]] (`= [[Church-Turing thesis]].status`)
+- [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)
+- [[Coherent Blended Volition]] (`= [[Coherent Blended Volition]].status`)
+- [[Coherent Extrapolated Volition]] (`= [[Coherent Extrapolated Volition]].status`)
+- [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
+- [[Common knowledge]] (`= [[Common knowledge]].status`)
+- [[Conceptual metaphor]] (`= [[Conceptual metaphor]].status`)
+- [[Configuration space]] (`= [[Configuration space]].status`)
+- [[Conservation of expected evidence]] (`= [[Conservation of expected evidence]].status`)
+- [[Control theory]] (`= [[Control theory]].status`)
+- [[Corrupted hardware]] (`= [[Corrupted hardware]].status`)
+- [[Counterfactual mugging]] (`= [[Counterfactual mugging]].status`)
+- [[Counter man syndrome]] (`= [[Counter man syndrome]].status`)
+- [[Cox's theorem]] (`= [[Cox's theorem]].status`)
+- [[Crisis of faith]] (`= [[Crisis of faith]].status`)
+- [[Cryonics]] (`= [[Cryonics]].status`)
+- [[Curiosity]] (`= [[Curiosity]].status`)
+- [[Dangerous knowledge]] (`= [[Dangerous knowledge]].status`)
+- [[Dangling Node]] (`= [[Dangling Node]].status`)
+- [[Death]] (`= [[Death]].status`)
+- [[Debiasing]] (`= [[Debiasing]].status`)
+- [[Decision theory]] (`= [[Decision theory]].status`)
+- [[Defying the data]] (`= [[Defying the data]].status`)
+- [[Disagreement]] (`= [[Disagreement]].status`)
+- [[Doubt]] (`= [[Doubt]].status`)
 - [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-- [[Emulation argument for human-level AI]]
-- [[Epistemic hygiene]]
-- [[Error of crowds]]
-- [[Ethical injunction]]
-- [[Evidence]]
-- [[Evidence of absence]]
-- [[Evidential Decision Theory]]
-- [[Evolution]]
-- [[Evolution as alien god]]
-- [[Evolutionary argument for human-level AI]]
-- [[Evolutionary psychology]]
-- [[Existential risk]]
-- [[Expected value]]
-- [[Extensibility argument for greater-than-human intelligence]]
-- [[Extraordinary evidence]]
-- [[Free-floating belief]]
-- [[Free will]]
-- [[Friendly Artificial Intelligence]]
-- [[Fully-general counterargument]]
-- [[Great Filter]]
-- [[Group rationality]]
-- [[Group selection]]
-- [[Heuristic]]
-- [[Heuristics & Biases]]
-- [[Hold Off on Proposing Solutions]]
-- [[Hollywood rationality]]
-- [[How an algorithm feels]]
-- [[Hypocrisy]]
-- [[Impossibility]]
-- [[Improper belief]]
-- [[Incredulity]]
-- [[Intuition pump]]
-- [[Kolmogorov complexity]]
-- [[Lawful intelligence]]
-- [[Least convenient possible world]]
-- [[Logical rudeness]]
-- [[Log odds]]
-- [[Magical categories]]
-- [[Making Beliefs Pay Rent]]
-- [[Many-worlds interpretation]]
-- [[Map and territory]]
-- [[Meme lineage]]
-- [[Memorization]]
-- [[Modesty]]
-- [[How Much Evidence Does It Take?|Most of science is actually done by induction]]
-- [[Belief in Belief|Most peoples' beliefs aren't worth considering]]
+- [[Emulation argument for human-level AI]] (`= [[Emulation argument for human-level AI]].status`)
+- [[Epistemic hygiene]] (`= [[Epistemic hygiene]].status`)
+- [[Error of crowds]] (`= [[Error of crowds]].status`)
+- [[Ethical injunction]] (`= [[Ethical injunction]].status`)
+- [[Evidence]] (`= [[Evidence]].status`)
+- [[Evidence of absence]] (`= [[Evidence of absence]].status`)
+- [[Evidential Decision Theory]] (`= [[Evidential Decision Theory]].status`)
+- [[Evolution]] (`= [[Evolution]].status`)
+- [[Evolution as alien god]] (`= [[Evolution as alien god]].status`)
+- [[Evolutionary argument for human-level AI]] (`= [[Evolutionary argument for human-level AI]].status`)
+- [[Evolutionary psychology]] (`= [[Evolutionary psychology]].status`)
+- [[Existential risk]] (`= [[Existential risk]].status`)
+- [[Expected value]] (`= [[Expected value]].status`)
+- [[Extensibility argument for greater-than-human intelligence]] (`= [[Extensibility argument for greater-than-human intelligence]].status`)
+- [[Extraordinary evidence]] (`= [[Extraordinary evidence]].status`)
+- [[Free-floating belief]] (`= [[Free-floating belief]].status`)
+- [[Free will]] (`= [[Free will]].status`)
+- [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
+- [[Fully-general counterargument]] (`= [[Fully-general counterargument]].status`)
+- [[Great Filter]] (`= [[Great Filter]].status`)
+- [[Group rationality]] (`= [[Group rationality]].status`)
+- [[Group selection]] (`= [[Group selection]].status`)
+- [[Heuristic]] (`= [[Heuristic]].status`)
+- [[Heuristics & Biases]] (`= [[Heuristics & Biases]].status`)
+- [[Hold Off on Proposing Solutions]] (`= [[Hold Off on Proposing Solutions]].status`)
+- [[Hollywood rationality]] (`= [[Hollywood rationality]].status`)
+- [[How an algorithm feels]] (`= [[How an algorithm feels]].status`)
+- [[Hypocrisy]] (`= [[Hypocrisy]].status`)
+- [[Impossibility]] (`= [[Impossibility]].status`)
+- [[Improper belief]] (`= [[Improper belief]].status`)
+- [[Incredulity]] (`= [[Incredulity]].status`)
+- [[Intuition pump]] (`= [[Intuition pump]].status`)
+- [[Kolmogorov complexity]] (`= [[Kolmogorov complexity]].status`)
+- [[Lawful intelligence]] (`= [[Lawful intelligence]].status`)
+- [[Least convenient possible world]] (`= [[Least convenient possible world]].status`)
+- [[Logical rudeness]] (`= [[Logical rudeness]].status`)
+- [[Log odds]] (`= [[Log odds]].status`)
+- [[Magical categories]] (`= [[Magical categories]].status`)
+- [[Making Beliefs Pay Rent]] (`= [[Making Beliefs Pay Rent]].status`)
+- [[Many-worlds interpretation]] (`= [[Many-worlds interpretation]].status`)
+- [[Map and territory]] (`= [[Map and territory]].status`)
+- [[Meme lineage]] (`= [[Meme lineage]].status`)
+- [[Memorization]] (`= [[Memorization]].status`)
+- [[Modesty]] (`= [[Modesty]].status`)
+- [[How Much Evidence Does It Take?|Most of science is actually done by induction]] (`= [[How Much Evidence Does It Take?|Most of science is actually done by induction]].status`)
+- [[Belief in Belief|Most peoples' beliefs aren't worth considering]] (`= [[Belief in Belief|Most peoples' beliefs aren't worth considering]].status`)
 - [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)
-- [[Newcomb's problem]]
-- [[Nonapples]]
-- [[The noncentral fallacy - the worst argument in the world?|Noncentral fallacy]]
-- [[Not technically a lie]]
-- [[Occam's razor]]
-- [[Odds|Odds ratio]]
-- [[Omega]]
-- [[Oops]]
-- [[Inside, Outside View|Outside View]]
-- [[Overcoming Bias]]
-- [[Paperclip maximizer]]
-- [[Pascal's mugging]]
-- [[Password]]
-- [[Zombies|Philosophical zombie]]
-- [[Phlogiston]]
-- [[Possibility]]
-- [[Possible world]]
-- [[Prediction markets]]
-- [[Priors]]
-- [[Probability is in the Mind]]
-- [[Probability theory]]
-- [[Rationality]]
-- [[Rational evidence]]
-- [[Rationalist taboo]]
-- [[Rationality and Philosophy]]
-- [[Rationality as martial art]]
-- [[Reversal test]]
-- [[Reductionism (Post)]]
-- [[Religion]]
-- [[Reversed stupidity is not intelligence]]
-- [[Science]]
-- [[Scoring rule]]
-- [[Seeing with Fresh Eyes (Sequence)]]
-- [[Semantic stopsign]]
+- [[Newcomb's problem]] (`= [[Newcomb's problem]].status`)
+- [[Nonapples]] (`= [[Nonapples]].status`)
+- [[The noncentral fallacy - the worst argument in the world?|Noncentral fallacy]] (`= [[The noncentral fallacy - the worst argument in the world?|Noncentral fallacy]].status`)
+- [[Not technically a lie]] (`= [[Not technically a lie]].status`)
+- [[Occam's razor]] (`= [[Occam's razor]].status`)
+- [[Odds|Odds ratio]] (`= [[Odds|Odds ratio]].status`)
+- [[Omega]] (`= [[Omega]].status`)
+- [[Oops]] (`= [[Oops]].status`)
+- [[Inside, Outside View|Outside View]] (`= [[Inside, Outside View|Outside View]].status`)
+- [[Overcoming Bias]] (`= [[Overcoming Bias]].status`)
+- [[Paperclip maximizer]] (`= [[Paperclip maximizer]].status`)
+- [[Pascal's mugging]] (`= [[Pascal's mugging]].status`)
+- [[Password]] (`= [[Password]].status`)
+- [[Zombies|Philosophical zombie]] (`= [[Zombies|Philosophical zombie]].status`)
+- [[Phlogiston]] (`= [[Phlogiston]].status`)
+- [[Possibility]] (`= [[Possibility]].status`)
+- [[Possible world]] (`= [[Possible world]].status`)
+- [[Prediction markets]] (`= [[Prediction markets]].status`)
+- [[Priors]] (`= [[Priors]].status`)
+- [[Probability is in the Mind]] (`= [[Probability is in the Mind]].status`)
+- [[Probability theory]] (`= [[Probability theory]].status`)
+- [[Rationality]] (`= [[Rationality]].status`)
+- [[Rational evidence]] (`= [[Rational evidence]].status`)
+- [[Rationalist taboo]] (`= [[Rationalist taboo]].status`)
+- [[Rationality and Philosophy]] (`= [[Rationality and Philosophy]].status`)
+- [[Rationality as martial art]] (`= [[Rationality as martial art]].status`)
+- [[Reversal test]] (`= [[Reversal test]].status`)
+- [[Reductionism (Post)]] (`= [[Reductionism (Post)]].status`)
+- [[Religion]] (`= [[Religion]].status`)
+- [[Reversed stupidity is not intelligence]] (`= [[Reversed stupidity is not intelligence]].status`)
+- [[Science]] (`= [[Science]].status`)
+- [[Scoring rule]] (`= [[Scoring rule]].status`)
+- [[Seeing with Fresh Eyes (Sequence)]] (`= [[Seeing with Fresh Eyes (Sequence)]].status`)
+- [[Semantic stopsign]] (`= [[Semantic stopsign]].status`)
 - [Shannon information](https://en.wikipedia.org/wiki/Information_content)
-- [[Shut up and multiply]]
-- [[Signaling]]
-- [[Solomonoff induction]]
-- [[Sound argument]]
-- [[Spaced repetition]]
-- [[Bias|Statistical bias]]
-- [[Steelmanning|Steel man]]
-- [[Superstimuli]]
-- [[Surprise]]
-- [[Sympathetic magic]]
-- [[Tapping Out]]
-- [[Technical explanation]]
-- [[Teleology]]
-- [[The map is not the territory]]
-- [[Third option]]
-- [[Traditional rationality]]
-- [[Trivial inconvenience]]
-- [[Truth, Semantics, & Meaning|Truth]]
-- [[Tsuyoku naritai]]
-- [[Twelve Virtues of Rationality]]
-- [[Understanding]]
-- [[Universal law]]
-- [[Unsupervised universe]]
-- [[Valid argument]]
-- [[Valley of bad rationality]]
+- [[Shut up and multiply]] (`= [[Shut up and multiply]].status`)
+- [[Signaling]] (`= [[Signaling]].status`)
+- [[Solomonoff induction]] (`= [[Solomonoff induction]].status`)
+- [[Sound argument]] (`= [[Sound argument]].status`)
+- [[Spaced repetition]] (`= [[Spaced repetition]].status`)
+- [[Bias|Statistical bias]] (`= [[Bias|Statistical bias]].status`)
+- [[Steelmanning|Steel man]] (`= [[Steelmanning|Steel man]].status`)
+- [[Superstimuli]] (`= [[Superstimuli]].status`)
+- [[Surprise]] (`= [[Surprise]].status`)
+- [[Sympathetic magic]] (`= [[Sympathetic magic]].status`)
+- [[Tapping Out]] (`= [[Tapping Out]].status`)
+- [[Technical explanation]] (`= [[Technical explanation]].status`)
+- [[Teleology]] (`= [[Teleology]].status`)
+- [[The map is not the territory]] (`= [[The map is not the territory]].status`)
+- [[Third option]] (`= [[Third option]].status`)
+- [[Traditional rationality]] (`= [[Traditional rationality]].status`)
+- [[Trivial inconvenience]] (`= [[Trivial inconvenience]].status`)
+- [[Truth, Semantics, & Meaning|Truth]] (`= [[Truth, Semantics, & Meaning|Truth]].status`)
+- [[Tsuyoku naritai]] (`= [[Tsuyoku naritai]].status`)
+- [[Twelve Virtues of Rationality]] (`= [[Twelve Virtues of Rationality]].status`)
+- [[Understanding]] (`= [[Understanding]].status`)
+- [[Universal law]] (`= [[Universal law]].status`)
+- [[Unsupervised universe]] (`= [[Unsupervised universe]].status`)
+- [[Valid argument]] (`= [[Valid argument]].status`)
+- [[Valley of bad rationality]] (`= [[Valley of bad rationality]].status`)
 - [Wisdom of the crowd](https://search.brave.com/search?q=wisdom+of+the+crowd+!w&source=desktop)
-- [[37 Ways That Words Can Be Wrong|Words can be wrong]]
+- [[37 Ways That Words Can Be Wrong|Words can be wrong]] (`= [[37 Ways That Words Can Be Wrong|Words can be wrong]].status`)
 
 # Instrumental
 
 ## Barriers, Biases, Fallacies, Impediments and Problems
 
-- [[Akrasia]]
-- [[Alief]]
+- [[Akrasia]] (`= [[Akrasia]].status`)
+- [[Alief]] (`= [[Alief]].status`)
 - [Anti-inductiveness](https://www.lesswrong.com/posts/h24JGbmweNpWZfBkM/markets-are-anti-inductive)
 - [Effort Shock](https://www.cracked.com/article_18544_how-the-karate-kid-ruined-modern-world.html)
 
 ## Techniques/Concepts
 
-- [[Ambient decision theory]]
-- [[Communication Cultures|Ask, Guess and Tell culture]]
+- [[Ambient decision theory]] (`= [[Ambient decision theory]].status`)
+- [[Communication Cultures|Ask, Guess and Tell culture]] (`= [[Communication Cultures|Ask, Guess and Tell culture]].status`)
 - [Burch's law](https://wiki.lesswrong.com/wiki/Burch%27s_law)
-- [[Challenging the Difficult]]
-- [[Cognitive style]]
-- [[Consequentialism]]
+- [[Challenging the Difficult]] (`= [[Challenging the Difficult]].status`)
+- [[Cognitive style]] (`= [[Cognitive style]].status`)
+- [[Consequentialism]] (`= [[Consequentialism]].status`)
 - [Crocker's rules](https://wiki.lesswrong.com/wiki/Crocker%27s_rules)
-- [[Dark arts]]
-- [[Egalitarianism]]
-- [[Expected utility]]
-- [[Explaining vs. explaining away]]
-- [[Fuzzies]]
-- [[Game Theory]]
-- [[Generalizing from One Example]]
-- [[Goodhart's law]]
-- [[Hedonism]]
-- [[Humans Are Not Automatically Strategic]]
-- [[Human universal]]
-- [[Instrumental value]]
-- [[Intellectual roles]]
-- [[Lonely Dissent|Lonely Dissenters]]
-- [[Loss Aversion]]
-- [[Luminosity]]
-- [[Marginally zero-sum game]]
+- [[Dark arts]] (`= [[Dark arts]].status`)
+- [[Egalitarianism]] (`= [[Egalitarianism]].status`)
+- [[Expected utility]] (`= [[Expected utility]].status`)
+- [[Explaining vs. explaining away]] (`= [[Explaining vs. explaining away]].status`)
+- [[Fuzzies]] (`= [[Fuzzies]].status`)
+- [[Game Theory]] (`= [[Game Theory]].status`)
+- [[Generalizing from One Example]] (`= [[Generalizing from One Example]].status`)
+- [[Goodhart's law]] (`= [[Goodhart's law]].status`)
+- [[Hedonism]] (`= [[Hedonism]].status`)
+- [[Humans Are Not Automatically Strategic]] (`= [[Humans Are Not Automatically Strategic]].status`)
+- [[Human universal]] (`= [[Human universal]].status`)
+- [[Instrumental value]] (`= [[Instrumental value]].status`)
+- [[Intellectual roles]] (`= [[Intellectual roles]].status`)
+- [[Lonely Dissent|Lonely Dissenters]] (`= [[Lonely Dissent|Lonely Dissenters]].status`)
+- [[Loss Aversion]] (`= [[Loss Aversion]].status`)
+- [[Luminosity]] (`= [[Luminosity]].status`)
+- [[Marginally zero-sum game]] (`= [[Marginally zero-sum game]].status`)
 - [Moral Foundations theory](https://moralfoundations.org/)
-- [[Moral uncertainty]]
-- [[Paranoid debating]]
+- [[Moral uncertainty]] (`= [[Moral uncertainty]].status`)
+- [[Paranoid debating]] (`= [[Paranoid debating]].status`)
 - [Politics as charity](https://www.lesswrong.com/posts/SgZ2mhvDbneBusFEB/politics-as-charity)
-- [[Forecasting & Prediction|Prediction]]
+- [[Forecasting & Prediction|Prediction]] (`= [[Forecasting & Prediction|Prediction]].status`)
 - [Privileging the question](https://www.lesswrong.com/posts/6vcxuRHzeM99jYcYd/privileging-the-question)
-- [[Radical honesty]]
-- [[Reflective decision theory]]
+- [[Radical honesty]] (`= [[Radical honesty]].status`)
+- [[Reflective decision theory]] (`= [[Reflective decision theory]].status`)
 - [Schelling](https://www.lesswrong.com/posts/tJQsxD34maYw2g5E4/thomas-c-schelling-s-strategy-of-conflict)
-- [[Schelling fences on slippery slopes]]
-- [[Something to Protect (Post)]]
-- [[Social Status]]
-- [[Joy in the merely real|Take joy in the merely real]]
-- [[The Science of Winning at Life (Sequence)]]
-- [[Timeless decision theory]]
-- [[Unfriendly Artificial Intelligence]]
-- [[Updateless decision theory]]
-- [[Ugh field]]
-- [[Utilitarianism]]
-- [[Utility]]
-- [[Utility functions]]
-- [[Wanting vs. liking]]
-- [[Weirdness points]]
+- [[Schelling fences on slippery slopes]] (`= [[Schelling fences on slippery slopes]].status`)
+- [[Something to Protect (Post)]] (`= [[Something to Protect (Post)]].status`)
+- [[Social Status]] (`= [[Social Status]].status`)
+- [[Joy in the merely real|Take joy in the merely real]] (`= [[Joy in the merely real|Take joy in the merely real]].status`)
+- [[The Science of Winning at Life (Sequence)]] (`= [[The Science of Winning at Life (Sequence)]].status`)
+- [[Timeless decision theory]] (`= [[Timeless decision theory]].status`)
+- [[Unfriendly Artificial Intelligence]] (`= [[Unfriendly Artificial Intelligence]].status`)
+- [[Updateless decision theory]] (`= [[Updateless decision theory]].status`)
+- [[Ugh field]] (`= [[Ugh field]].status`)
+- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
+- [[Utility]] (`= [[Utility]].status`)
+- [[Utility functions]] (`= [[Utility functions]].status`)
+- [[Wanting vs. liking]] (`= [[Wanting vs. liking]].status`)
+- [[Weirdness points]] (`= [[Weirdness points]].status`)
 
 # Positions
 
-- [[Beliefs require observations]]
-- [[Complexity of value]]
-- [[Adding Up to Normality|Egan's law]]
-- [[Emotions]]
-- [[Futility of chaos]]
-- [[General knowledge]]
-- [[Hope]]
-- [[Humility]]
+- [[Beliefs require observations]] (`= [[Beliefs require observations]].status`)
+- [[Complexity of value]] (`= [[Complexity of value]].status`)
+- [[Adding Up to Normality|Egan's law]] (`= [[Adding Up to Normality|Egan's law]].status`)
+- [[Emotions]] (`= [[Emotions]].status`)
+- [[Futility of chaos]] (`= [[Futility of chaos]].status`)
+- [[General knowledge]] (`= [[General knowledge]].status`)
+- [[Hope]] (`= [[Hope]].status`)
+- [[Humility]] (`= [[Humility]].status`)
 - [I don't know](https://wiki.lesswrong.com/wiki/I_don%27t_know)
-- [[Litany of Gendlin]]
-- [[Litany of Tarski]]
-- [[Lottery]]
-- [[Magic]]
-- [[Modesty argument]]
-- [[No safe defense]]
-- [[Offense]]
-- [[Slowness of evolution]]
-- [[Stupidity of evolution]]
+- [[Litany of Gendlin]] (`= [[Litany of Gendlin]].status`)
+- [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
+- [[Lottery]] (`= [[Lottery]].status`)
+- [[Magic]] (`= [[Magic]].status`)
+- [[Modesty argument]] (`= [[Modesty argument]].status`)
+- [[No safe defense]] (`= [[No safe defense]].status`)
+- [[Offense]] (`= [[Offense]].status`)
+- [[Slowness of evolution]] (`= [[Slowness of evolution]].status`)
+- [[Stupidity of evolution]] (`= [[Stupidity of evolution]].status`)

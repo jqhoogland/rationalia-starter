@@ -35,8 +35,8 @@ status: todo
 ## See Also
 
 - [[Privileging The Hypothesis|Privileging the hypothesis]], [[Confirmation Bias|Positive bias]]
-- [[Mind-Killer|Mind-killer]]
-- [[Far Thinking|Near, Far Thinking]]
-- [[Hindsight Bias|Hindsight bias]]
-- [[Fake Simplicity|Fake simplicity]]
-- [[Black Swans|Black swan]]
+- [[Mind-Killer|Mind-killer]] (`= [[Mind-Killer|Mind-killer]].status`)
+- [[Far Thinking|Near, Far Thinking]] (`= [[Far Thinking|Near, Far Thinking]].status`)
+- [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
+- [[Fake Simplicity|Fake simplicity]] (`= [[Fake Simplicity|Fake simplicity]].status`)
+- [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)

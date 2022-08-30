@@ -54,7 +54,7 @@ Other attractive future application includes the [upload of the whole content of
 
 ## See Also
 
-- [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]]
-- [[Whole Brain Emulation|Whole brain emulation]]
-- [[Wireheading]]
-- [[Neuralink]]
+- [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]] (`= [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]].status`)
+- [[Whole Brain Emulation|Whole brain emulation]] (`= [[Whole Brain Emulation|Whole brain emulation]].status`)
+- [[Wireheading]] (`= [[Wireheading]].status`)
+- [[Neuralink]] (`= [[Neuralink]].status`)

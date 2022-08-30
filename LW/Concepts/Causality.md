@@ -18,9 +18,9 @@ status: todo
 
 ## See Also
 
-- [[Free Will|Free will]]
-- [[Teleology]]
-- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Free Will|Free will]] (`= [[Free Will|Free will]].status`)
+- [[Teleology]] (`= [[Teleology]].status`)
+- [[Beliefs Require Observations|Beliefs require observations]] (`= [[Beliefs Require Observations|Beliefs require observations]].status`)
 
 ## External Links
 

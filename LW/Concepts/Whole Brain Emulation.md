@@ -40,10 +40,10 @@ An emulated-brain populated world could hold severe negative consequences, such 
 
 ## See Also
 
-- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
-- [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]]
-- [[Simulation Hypothesis|Simulation hypothesis]]
-- [[Neuromorphic AI]]
+- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]] (`= [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]].status`)
+- [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]] (`= [[Emulation Argument For Human-Level AI|Emulation argument for human-level AI]].status`)
+- [[Simulation Hypothesis|Simulation hypothesis]] (`= [[Simulation Hypothesis|Simulation hypothesis]].status`)
+- [[Neuromorphic AI]] (`= [[Neuromorphic AI]].status`)
 
 ## External Links
 

@@ -20,10 +20,10 @@ A [sequence](https://wiki.lesswrong.com/wiki/Sequence) summarizing scientificall
 
 ### The Science of Winning at Life
 
-- [[Scientific Self-Help— The State of Our Knowledge]]
-- [[How to Beat Procrastination]]
-- [[My Algorithm for Beating Procrastination]]
-- [[How to Be Happy]]
-- [[The Good News of Situationist Psychology]]
-- [[The Power of Reinforcement]]
-- [[Rational Romantic Relationships, Part 1— Relationship Styles and Attraction Basics]]
+- [[Scientific Self-Help— The State of Our Knowledge]] (`= [[Scientific Self-Help— The State of Our Knowledge]].status`)
+- [[How to Beat Procrastination]] (`= [[How to Beat Procrastination]].status`)
+- [[My Algorithm for Beating Procrastination]] (`= [[My Algorithm for Beating Procrastination]].status`)
+- [[How to Be Happy]] (`= [[How to Be Happy]].status`)
+- [[The Good News of Situationist Psychology]] (`= [[The Good News of Situationist Psychology]].status`)
+- [[The Power of Reinforcement]] (`= [[The Power of Reinforcement]].status`)
+- [[Rational Romantic Relationships, Part 1— Relationship Styles and Attraction Basics]] (`= [[Rational Romantic Relationships, Part 1— Relationship Styles and Attraction Basics]].status`)

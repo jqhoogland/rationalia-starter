@@ -22,13 +22,13 @@ status: todo
 
 ## Sequence
 
-- [[How To Actually Change Your Mind]]
+- [[How To Actually Change Your Mind]] (`= [[How To Actually Change Your Mind]].status`)
 
 ## See Also
 
-- [[Affective Death Spiral|Affective death spiral]]
-- [[Anti-Epistemology|Anti-epistemology]]
-- [[Debiasing]]
-- [[Doubt]]
-- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
+- [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
+- [[Anti-Epistemology|Anti-epistemology]] (`= [[Anti-Epistemology|Anti-epistemology]].status`)
+- [[Debiasing]] (`= [[Debiasing]].status`)
+- [[Doubt]] (`= [[Doubt]].status`)
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]] (`= [[Making Beliefs Pay Rent|Making beliefs pay rent]].status`)
 - [Update](https://wiki.lesswrong.com/wiki/Update)

@@ -25,9 +25,9 @@ Words in natural language carry [[Connotation|connotations]] that may become mis
 
 ## See Also
 
-- [[Impossibility]]
-- [[Privileging The Hypothesis|Privileging the hypothesis]]
-- [[Antiprediction]]
+- [[Impossibility]] (`= [[Impossibility]].status`)
+- [[Privileging The Hypothesis|Privileging the hypothesis]] (`= [[Privileging The Hypothesis|Privileging the hypothesis]].status`)
+- [[Antiprediction]] (`= [[Antiprediction]].status`)
 - [[Absolute Certainty|Absolute certainty]], [[Fallacy of Gray|Fallacy of gray]]
-- [[Not Technically A Lie|Not technically a lie]]
+- [[Not Technically A Lie|Not technically a lie]] (`= [[Not Technically A Lie|Not technically a lie]].status`)
 - [[Lottery]], [[Hope]], [[Oops]]

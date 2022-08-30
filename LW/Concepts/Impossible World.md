@@ -20,4 +20,4 @@ status: todo
 
 ## See Also
 
-- [[Possible World|Possible world]]
+- [[Possible World|Possible world]] (`= [[Possible World|Possible world]].status`)

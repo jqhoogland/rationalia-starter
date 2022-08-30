@@ -26,4 +26,4 @@ An argument is **valid** when it contains no logical fallacies. Such arguments a
 
 ## See Also
 
-- [[Sound Argument|Sound argument]]
+- [[Sound Argument|Sound argument]] (`= [[Sound Argument|Sound argument]].status`)

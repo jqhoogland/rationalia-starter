@@ -55,6 +55,6 @@ To understand whether a belief is true, we need (only) to understand what possib
 
 - [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
 - [[Litany of Tarski]], [[Litany of Gendlin]]
-- [[Self-Deception|Self-deception]]
-- [[Belief]]
-- [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]]
+- [[Self-Deception|Self-deception]] (`= [[Self-Deception|Self-deception]].status`)
+- [[Belief]] (`= [[Belief]].status`)
+- [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]] (`= [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]].status`)

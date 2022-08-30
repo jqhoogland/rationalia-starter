@@ -22,13 +22,13 @@ status: todo
 
 ## See Also
 
-- [[Decision Theory|Decision theory]]
-- [[Newcomb's Problem|Newcomb's problem]]
-- [[Counterfactual Mugging|Counterfactual mugging]]
-- [[Parfit's hitchhiker]]
-- [[Smoking lesion]]
-- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
-- [[Prisoner's Dilemma|Prisoner's dilemma]]
-- [[Pascal's Mugging|Pascal's mugging]]
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Newcomb's Problem|Newcomb's problem]] (`= [[Newcomb's Problem|Newcomb's problem]].status`)
+- [[Counterfactual Mugging|Counterfactual mugging]] (`= [[Counterfactual Mugging|Counterfactual mugging]].status`)
+- [[Parfit's hitchhiker]] (`= [[Parfit's hitchhiker]].status`)
+- [[Smoking lesion]] (`= [[Smoking lesion]].status`)
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]] (`= [[Sleeping Beauty Paradox|Sleeping Beauty problem]].status`)
+- [[Prisoner's Dilemma|Prisoner's dilemma]] (`= [[Prisoner's Dilemma|Prisoner's dilemma]].status`)
+- [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
 
 ---

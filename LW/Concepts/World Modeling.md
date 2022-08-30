@@ -19,7 +19,7 @@ status: todo
 
 > *The eleventh virtue is scholarship. Study many sciences and absorb their power as your own. Each field that you consume makes you larger. If you swallow enough sciences the gaps between them will diminish and your knowledge will become a unified whole. If you are gluttonous you will become vaster than mountains.*
 >
-> \-\- [[Twelve Virtues of Rationality]]
+> \-\- [[Twelve Virtues of Rationality]] (`= [[Twelve Virtues of Rationality]].status`)
 
 * * *
 

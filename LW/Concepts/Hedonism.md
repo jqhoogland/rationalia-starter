@@ -24,11 +24,11 @@ The term **hedonism** refers to a set of philosophies which hold that the highes
 
 ## See Also
 
-- [[Utilitarianism]]
-- [[Shut Up and Multiply|Shut up and multiply]]
-- [[Utility Functions|Utility function]]
+- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
+- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
 - [Wanting and liking](https://www.lesswrong.com/tag/wanting-and-liking)
-- [[Complexity of Value|Complexity of value]]
-- [[Wireheading]]
-- [[Abolitionism]]
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Wireheading]] (`= [[Wireheading]].status`)
+- [[Abolitionism]] (`= [[Abolitionism]].status`)
 - [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)

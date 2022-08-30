@@ -47,11 +47,11 @@ Reasons for expecting an AGI's creation in the near future include the continuat
 
 ## See Also
 
-- [[AGI Skepticism|AGI skepticism]]
+- [[AGI Skepticism|AGI skepticism]] (`= [[AGI Skepticism|AGI skepticism]].status`)
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 - [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI), [[Paperclip Maximizer|paperclip maximizer]]
-- [[Really Powerful Optimization Process|Really powerful optimization process]]
+- [[Really Powerful Optimization Process|Really powerful optimization process]] (`= [[Really Powerful Optimization Process|Really powerful optimization process]].status`)
 - [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
-- [[Mind Design Space|Mind design space]]
-- [[Singleton]]
+- [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
+- [[Singleton]] (`= [[Singleton]].status`)
 - [[Anthropomorphism]], [[Giant Cheesecake Fallacy|giant cheesecake fallacy]]

@@ -62,11 +62,11 @@ Some goals apparently serve as a proxy or measure of human welfare, so that maxi
 ## See Also
 
 - [Paperclip maximizer](https://arbital.com/p/paperclip_maximizer/) on [Arbital](https://wiki.lesswrong.com/index.php?title=Arbital&action=edit&redlink=1)
-- [[Orthogonality Thesis|Orthogonality thesis]]
+- [[Orthogonality Thesis|Orthogonality thesis]] (`= [[Orthogonality Thesis|Orthogonality thesis]].status`)
 - [Unfriendly AI](lesswrong.com/tag/unfriendly-ai)
 - [[Mind Design Space|Mind design space]], [[Magical Categories|Magical categories]], [[Complexity of Value|Complexity of value]]
 - [[Alien Values|Alien values]], [[Anthropomorphism]]
-- [[Utilitronium]]
+- [[Utilitronium]] (`= [[Utilitronium]].status`)
 - [Clippy](http://lesswrong.com/user/Clippy) \- LessWrong contributor account that plays the role of a non-[FOOMed](https://wiki.lesswrong.com/wiki/FOOM) paperclip maximizer trying to talk to humans. [Wiki page and FAQ](http://wiki.lesswrong.com/wiki/User:Clippy)
 - [Clippius Maximus](https://www.facebook.com/clippius.maximus/) \- A facebook page which makes clippy-related memes and comments on current events from the perspective of clippy.
 - [A clicker game based on the idea](http://www.decisionproblem.com/paperclips/)

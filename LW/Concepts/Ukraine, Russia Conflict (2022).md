@@ -20,6 +20,6 @@ This is relevant to LessWrong both because it seems to be generally an important
 
 See Also:
 
-- [[War]]
-- [[Nuclear War]]
-- [[Existential Risk]]
+- [[War]] (`= [[War]].status`)
+- [[Nuclear War]] (`= [[Nuclear War]].status`)
+- [[Existential Risk]] (`= [[Existential Risk]].status`)

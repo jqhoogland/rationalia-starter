@@ -34,5 +34,5 @@ A few thousand words in, the plot is unrecognizeable.
 
 ## See Also
 
-- [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]]
+- [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]] (`= [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]].status`)
 - [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))

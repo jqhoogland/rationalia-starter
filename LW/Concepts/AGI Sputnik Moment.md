@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:45.115Z'
+status: todo
 ---
 
 # AGI Sputnik Moment
@@ -30,5 +31,5 @@ Goertzel and Pitt have also emphasized the role of an AGI Sputnik moment in AGI 
 
 ## See Also
 
-- [[AGI]]
-- [[Friendly Artificial Intelligence]]
+- [[AGI]] (`= [[AGI]].status`)
+- [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)

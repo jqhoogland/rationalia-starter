@@ -21,10 +21,10 @@ status: todo
 ## See Also
 
 - [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes)
-- [[Semantic Stopsign|Semantic stopsign]]
-- [[Litany of Tarski]]
-- [[Scholarship & Learning|Scholarship]]
-- [[Doubt]]
+- [[Semantic Stopsign|Semantic stopsign]] (`= [[Semantic Stopsign|Semantic stopsign]].status`)
+- [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
+- [[Scholarship & Learning|Scholarship]] (`= [[Scholarship & Learning|Scholarship]].status`)
+- [[Doubt]] (`= [[Doubt]].status`)
 
 ## Notable Posts
 

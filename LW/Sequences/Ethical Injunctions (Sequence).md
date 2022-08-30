@@ -26,11 +26,11 @@ Sequence by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsk
 
 ### Ethical Injunctions
 
-- [[Why Does Power Corrupt?]]
-- [[Ends Don't Justify Means (Among Humans)]]
-- [[Entangled Truths, Contagious Lies]]
-- [[Protected From Myself]]
-- [[Ethical Inhibitions]]
-- [[Ethical Injunctions]]
-- [[Prices or Bindings?]]
-- [[Ethics Notes]]
+- [[Why Does Power Corrupt?]] (`= [[Why Does Power Corrupt?]].status`)
+- [[Ends Don't Justify Means (Among Humans)]] (`= [[Ends Don't Justify Means (Among Humans)]].status`)
+- [[Entangled Truths, Contagious Lies]] (`= [[Entangled Truths, Contagious Lies]].status`)
+- [[Protected From Myself]] (`= [[Protected From Myself]].status`)
+- [[Ethical Inhibitions]] (`= [[Ethical Inhibitions]].status`)
+- [[Ethical Injunctions]] (`= [[Ethical Injunctions]].status`)
+- [[Prices or Bindings?]] (`= [[Prices or Bindings?]].status`)
+- [[Ethics Notes]] (`= [[Ethics Notes]].status`)

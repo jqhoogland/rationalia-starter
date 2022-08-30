@@ -42,9 +42,9 @@ Some of the key ideas of evolutionary psychology are these:
 
 ## See Also
 
-- [[Evolution]]
+- [[Evolution]] (`= [[Evolution]].status`)
 - [Stupidity of evolution](https://wiki.lesswrong.com/wiki/Stupidity_of_evolution), [evolution as alien god](https://wiki.lesswrong.com/wiki/Evolution_as_alien_god)
 - [Human universal](https://wiki.lesswrong.com/wiki/Human_universal)
-- [[Adaptation Executors|Adaptation executers]]
+- [[Adaptation Executors|Adaptation executers]] (`= [[Adaptation Executors|Adaptation executers]].status`)
 - [Corrupted hardware](https://wiki.lesswrong.com/wiki/Corrupted_hardware)
-- [[Psychology]]
+- [[Psychology]] (`= [[Psychology]].status`)

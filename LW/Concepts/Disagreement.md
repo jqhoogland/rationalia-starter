@@ -38,8 +38,8 @@ Outside of well-functioning [prediction markets](https://lessestwrong.com/tag/pr
 - [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
 - [Disagreements on Less Wrong](https://lessestwrong.com/tag/disagreements-on-less-wrong)
 - [Arguments as soldiers](https://lessestwrong.com/tag/arguments-as-soldiers)
-- [[Double-Crux]]
-- [[Conversation (topic)|Conversation]]
+- [[Double-Crux]] (`= [[Double-Crux]].status`)
+- [[Conversation (topic)|Conversation]] (`= [[Conversation (topic)|Conversation]].status`)
 
 ## References
 

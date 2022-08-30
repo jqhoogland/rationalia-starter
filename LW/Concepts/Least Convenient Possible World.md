@@ -29,9 +29,9 @@ status: todo
 
 ## See Also
 
-- [[Rationalization]]
-- [[Epistemic Hygiene|Epistemic hygiene]]
-- [[Disagreement]]
-- [[Rationalist Taboo|Rationalist taboo]]
-- [[Reversal Test|Reversal test]]
-- [[How To Actually Change Your Mind]]
+- [[Rationalization]] (`= [[Rationalization]].status`)
+- [[Epistemic Hygiene|Epistemic hygiene]] (`= [[Epistemic Hygiene|Epistemic hygiene]].status`)
+- [[Disagreement]] (`= [[Disagreement]].status`)
+- [[Rationalist Taboo|Rationalist taboo]] (`= [[Rationalist Taboo|Rationalist taboo]].status`)
+- [[Reversal Test|Reversal test]] (`= [[Reversal Test|Reversal test]].status`)
+- [[How To Actually Change Your Mind]] (`= [[How To Actually Change Your Mind]].status`)

@@ -56,7 +56,7 @@ Many AI researchers criticize the Cyc project for its lack of theoretical founda
 
 ## See Also
 
-- [[Eurisko|EURISKO]]
+- [[Eurisko|EURISKO]] (`= [[Eurisko|EURISKO]].status`)
 
 ## External Links
 

@@ -14,74 +14,74 @@ status: todo
 
 ## Basic Concepts
 
-- [[Map and territory]]
-- [[Rationality]]
-- [[Truth, Semantics, & Meaning]]
-- [[Improper belief]]
-- [[Evidence]]
-- [[Bayes' theorem]]
-- [[Priors]]
-- [[Belief in belief]]
+- [[Map and territory]] (`= [[Map and territory]].status`)
+- [[Rationality]] (`= [[Rationality]].status`)
+- [[Truth, Semantics, & Meaning]] (`= [[Truth, Semantics, & Meaning]].status`)
+- [[Improper belief]] (`= [[Improper belief]].status`)
+- [[Evidence]] (`= [[Evidence]].status`)
+- [[Bayes' theorem]] (`= [[Bayes' theorem]].status`)
+- [[Priors]] (`= [[Priors]].status`)
+- [[Belief in belief]] (`= [[Belief in belief]].status`)
 
 ## Table of Contents of [[How to Actually Change Your Mind]]
 
 ## Selected Posts From [[Map and Territory (sequence)]]
 
-- [[What do we mean by "Rationality"?]]
+- [[What do we mean by "Rationality"?]] (`= [[What do we mean by "Rationality"?]].status`)
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
-- [[What is evidence?]]
-- [[How to Convince Me That 2 + 2 = 3]]
-- [[Occam's Razor]]
-- [[The lens that sees its flaws]]
+- [[What is evidence?]] (`= [[What is evidence?]].status`)
+- [[How to Convince Me That 2 + 2 = 3]] (`= [[How to Convince Me That 2 + 2 = 3]].status`)
+- [[Occam's Razor]] (`= [[Occam's Razor]].status`)
+- [[The lens that sees its flaws]] (`= [[The lens that sees its flaws]].status`)
 
 ## Selected Posts From [[Mysterious Answers to Mysterious Questions]]
 
-- [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
-- [[The Virtue of Narrowness]]
-- [[Hindsight Bias]]
-- [[Fake Explanations]]
-- [[Guessing the Teacher's Password]]
-- [[Fake Causality]]
-- [[Mysterious Answers to Mysterious Questions]]
-- [[The Futility of Emergence]]
-- [[Explain, Worship, Ignore]]
+- [[Making Beliefs Pay Rent (in Anticipated Experiences)]] (`= [[Making Beliefs Pay Rent (in Anticipated Experiences)]].status`)
+- [[The Virtue of Narrowness]] (`= [[The Virtue of Narrowness]].status`)
+- [[Hindsight Bias]] (`= [[Hindsight Bias]].status`)
+- [[Fake Explanations]] (`= [[Fake Explanations]].status`)
+- [[Guessing the Teacher's Password]] (`= [[Guessing the Teacher's Password]].status`)
+- [[Fake Causality]] (`= [[Fake Causality]].status`)
+- [[Mysterious Answers to Mysterious Questions]] (`= [[Mysterious Answers to Mysterious Questions]].status`)
+- [[The Futility of Emergence]] (`= [[The Futility of Emergence]].status`)
+- [[Explain, Worship, Ignore]] (`= [[Explain, Worship, Ignore]].status`)
 
 ## Selected Posts From [[A Human's Guide to Words]]
 
-- [[How an Algorithm Feels from Inside]]
-- [[Feel the Meaning]]
-- [[Replace the Symbol with the Substance]]
+- [[How an Algorithm Feels from Inside]] (`= [[How an Algorithm Feels from Inside]].status`)
+- [[Feel the Meaning]] (`= [[Feel the Meaning]].status`)
+- [[Replace the Symbol with the Substance]] (`= [[Replace the Symbol with the Substance]].status`)
 
 ## Selected Readings From [[Reductionism (Sequence)]] (first half)
 
-- [[Dissolving the Question]]
-- [[Wrong Questions]]
-- [[Righting a Wrong Question]]
-- [[Probability is in the Mind]]
-- [[Reductionism (Post)]]
-- [[Explaining vs. Explaining Away]]
-- [[Fake Reductionism]]
+- [[Dissolving the Question]] (`= [[Dissolving the Question]].status`)
+- [[Wrong Questions]] (`= [[Wrong Questions]].status`)
+- [[Righting a Wrong Question]] (`= [[Righting a Wrong Question]].status`)
+- [[Probability is in the Mind]] (`= [[Probability is in the Mind]].status`)
+- [[Reductionism (Post)]] (`= [[Reductionism (Post)]].status`)
+- [[Explaining vs. Explaining Away]] (`= [[Explaining vs. Explaining Away]].status`)
+- [[Fake Reductionism]] (`= [[Fake Reductionism]].status`)
 
 ## Selected Posts From [[Joy in the Merely Real]]
 
-- [[Joy in the Merely Real]]
-- [[Bind Yourself to Reality]]
-- [[If You Demand Magic, Magic Won't Help]]
-- [[Mundane Magic]]
-- [[The Beauty of Settled Science]]
-- [[To Spread Science, Keep It Secret]]
+- [[Joy in the Merely Real]] (`= [[Joy in the Merely Real]].status`)
+- [[Bind Yourself to Reality]] (`= [[Bind Yourself to Reality]].status`)
+- [[If You Demand Magic, Magic Won't Help]] (`= [[If You Demand Magic, Magic Won't Help]].status`)
+- [[Mundane Magic]] (`= [[Mundane Magic]].status`)
+- [[The Beauty of Settled Science]] (`= [[The Beauty of Settled Science]].status`)
+- [[To Spread Science, Keep It Secret]] (`= [[To Spread Science, Keep It Secret]].status`)
 
 ## Selected Posts From [[Reductionism (Sequence)]] (second half)
 
-- [[Angry Atoms]]
-- [[Heat vs. Motion]]
-- [[Brain Breakthrough! It's Made of Neurons!]]
-- [[Reductive Reference]]
+- [[Angry Atoms]] (`= [[Angry Atoms]].status`)
+- [[Heat vs. Motion]] (`= [[Heat vs. Motion]].status`)
+- [[Brain Breakthrough! It's Made of Neurons!]] (`= [[Brain Breakthrough! It's Made of Neurons!]].status`)
+- [[Reductive Reference]] (`= [[Reductive Reference]].status`)
 
 ## Selected Posts From [[Zombies]] & [[Supernaturality]]
 
-- [[Zombies! Zombies?]]
-- [[GAZP vs. GLUT]]
-- [[Belief in the Implied Invisible]]
-- [[Zombies— The Movie]]
-- [[Excluding the Supernatural]]
+- [[Zombies! Zombies?]] (`= [[Zombies! Zombies?]].status`)
+- [[GAZP vs. GLUT]] (`= [[GAZP vs. GLUT]].status`)
+- [[Belief in the Implied Invisible]] (`= [[Belief in the Implied Invisible]].status`)
+- [[Zombies— The Movie]] (`= [[Zombies— The Movie]].status`)
+- [[Excluding the Supernatural]] (`= [[Excluding the Supernatural]].status`)

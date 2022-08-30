@@ -47,4 +47,4 @@ A guide to this sequence is available at [The Fun Theory Sequence (post)](http:/
 
 ## See Also
 
-- [[Fun Theory|Fun theory]]
+- [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)

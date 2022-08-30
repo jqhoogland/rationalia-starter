@@ -70,9 +70,9 @@ Likewise, the lesson isn't "it's bad to ever worry about overconfidence", but ra
 
 ## Related Pages
 
-- [[Calibration]]
-- [[Chesterton's Fence]]
+- [[Calibration]] (`= [[Calibration]].status`)
+- [[Chesterton's Fence]] (`= [[Chesterton's Fence]].status`)
 - [[Underconfidence]] and [[Overconfidence]]
-- [[Modest Epistemology]]
-- [[Humility|Modesty]]
-- [[Fallacy of Gray]]
+- [[Modest Epistemology]] (`= [[Modest Epistemology]].status`)
+- [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)
+- [[Fallacy of Gray]] (`= [[Fallacy of Gray]].status`)

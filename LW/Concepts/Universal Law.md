@@ -27,8 +27,8 @@ status: todo
 
 ## See Also
 
-- [[Lawful Intelligence|Lawful intelligence]]
-- [[Reality Is Normal|Reality is normal]]
-- [[Futility of Chaos|Futility of chaos]]
-- [[Reductionism]]
-- [[Magic]]
+- [[Lawful Intelligence|Lawful intelligence]] (`= [[Lawful Intelligence|Lawful intelligence]].status`)
+- [[Reality Is Normal|Reality is normal]] (`= [[Reality Is Normal|Reality is normal]].status`)
+- [[Futility of Chaos|Futility of chaos]] (`= [[Futility of Chaos|Futility of chaos]].status`)
+- [[Reductionism]] (`= [[Reductionism]].status`)
+- [[Magic]] (`= [[Magic]].status`)

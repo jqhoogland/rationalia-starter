@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T20:05:08.289Z'
+status: todo
 ---
 
 # AIXI
@@ -61,5 +62,5 @@ AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem
 
 ## **See also**
 
-- [[Solomonoff Induction|Solomonoff induction]]
-- [[Decision Theory|Decision theory]]
+- [[Solomonoff Induction|Solomonoff induction]] (`= [[Solomonoff Induction|Solomonoff induction]].status`)
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)

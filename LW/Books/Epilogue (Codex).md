@@ -9,10 +9,11 @@ tags:
   - LessWrong
   - Book
 synchedAt: '2022-08-29T10:40:16.042Z'
+status: todo
 ---
 
 # Epilogue
 
 ## Sequences
 
- - [[Parables and Prayers (Sequence)]]
+ - [[Parables and Prayers (Sequence)]] (`= [[Parables and Prayers (Sequence)]].status`)

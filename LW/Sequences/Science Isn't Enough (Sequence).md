@@ -24,7 +24,7 @@ While far better than what came before, "science" and the "scientific method" ar
 
 ### Science Isn't Enough
 
-- [[When Science Can't Help]]
-- [[Faster Than Science]]
-- [[Science Doesn't Trust Your Rationality]]
-- [[No Safe Defense, Not Even Science]]
+- [[When Science Can't Help]] (`= [[When Science Can't Help]].status`)
+- [[Faster Than Science]] (`= [[Faster Than Science]].status`)
+- [[Science Doesn't Trust Your Rationality]] (`= [[Science Doesn't Trust Your Rationality]].status`)
+- [[No Safe Defense, Not Even Science]] (`= [[No Safe Defense, Not Even Science]].status`)

@@ -20,20 +20,20 @@ On obstacles to developing a new theory, and some intuitively desirable features
 
 ### Value Theory
 
-- [[Where Recursive Justification Hits Bottom]]
-- [[My Kind of Reflection]]
-- [[No Universally Compelling Arguments]]
-- [[Created Already In Motion]]
-- [[Sorting Pebbles Into Correct Heaps]]
-- [[2-Place and 1-Place Words]]
-- [[What Would You Do Without Morality?]]
-- [[Changing Your Metaethics]]
-- [[Could Anything Be Right?]]
-- [[Morality as Fixed Computation]]
-- [[Magical Categories]]
-- [[The True Prisoner's Dilemma]]
-- [[Sympathetic Minds]]
-- [[High Challenge]]
-- [[Serious Stories]]
-- [[Value is Fragile]]
-- [[The Gift We Give To Tomorrow]]
+- [[Where Recursive Justification Hits Bottom]] (`= [[Where Recursive Justification Hits Bottom]].status`)
+- [[My Kind of Reflection]] (`= [[My Kind of Reflection]].status`)
+- [[No Universally Compelling Arguments]] (`= [[No Universally Compelling Arguments]].status`)
+- [[Created Already In Motion]] (`= [[Created Already In Motion]].status`)
+- [[Sorting Pebbles Into Correct Heaps]] (`= [[Sorting Pebbles Into Correct Heaps]].status`)
+- [[2-Place and 1-Place Words]] (`= [[2-Place and 1-Place Words]].status`)
+- [[What Would You Do Without Morality?]] (`= [[What Would You Do Without Morality?]].status`)
+- [[Changing Your Metaethics]] (`= [[Changing Your Metaethics]].status`)
+- [[Could Anything Be Right?]] (`= [[Could Anything Be Right?]].status`)
+- [[Morality as Fixed Computation]] (`= [[Morality as Fixed Computation]].status`)
+- [[Magical Categories]] (`= [[Magical Categories]].status`)
+- [[The True Prisoner's Dilemma]] (`= [[The True Prisoner's Dilemma]].status`)
+- [[Sympathetic Minds]] (`= [[Sympathetic Minds]].status`)
+- [[High Challenge]] (`= [[High Challenge]].status`)
+- [[Serious Stories]] (`= [[Serious Stories]].status`)
+- [[Value is Fragile]] (`= [[Value is Fragile]].status`)
+- [[The Gift We Give To Tomorrow]] (`= [[The Gift We Give To Tomorrow]].status`)

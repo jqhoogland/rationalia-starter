@@ -24,15 +24,15 @@ A major theme of the Sequences is the ways in which human reasoning goes astray.
 
 ### Pitfalls of Human Cognition
 
-- [[The Bottom Line]]
-- [[Rationalization]]
-- [[You Can Face Reality]]
-- [[Is That Your True Rejection?]]
-- [[Avoiding Your Belief's Real Weak Points]]
-- [[Belief as Attire]]
-- [[Cached Thoughts]]
-- [[The Fallacy of Gray]]
-- [[Lonely Dissent]]
-- [[Positive Bias— Look Into the Dark]]
-- [[Knowing About Biases Can Hurt People]]
-- [[Politics is the Mind-Killer]]
+- [[The Bottom Line]] (`= [[The Bottom Line]].status`)
+- [[Rationalization]] (`= [[Rationalization]].status`)
+- [[You Can Face Reality]] (`= [[You Can Face Reality]].status`)
+- [[Is That Your True Rejection?]] (`= [[Is That Your True Rejection?]].status`)
+- [[Avoiding Your Belief's Real Weak Points]] (`= [[Avoiding Your Belief's Real Weak Points]].status`)
+- [[Belief as Attire]] (`= [[Belief as Attire]].status`)
+- [[Cached Thoughts]] (`= [[Cached Thoughts]].status`)
+- [[The Fallacy of Gray]] (`= [[The Fallacy of Gray]].status`)
+- [[Lonely Dissent]] (`= [[Lonely Dissent]].status`)
+- [[Positive Bias— Look Into the Dark]] (`= [[Positive Bias— Look Into the Dark]].status`)
+- [[Knowing About Biases Can Hurt People]] (`= [[Knowing About Biases Can Hurt People]].status`)
+- [[Politics is the Mind-Killer]] (`= [[Politics is the Mind-Killer]].status`)

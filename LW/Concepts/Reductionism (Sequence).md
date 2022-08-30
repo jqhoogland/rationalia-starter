@@ -69,7 +69,7 @@ Early posts out of sequence:
 
 ## See Also
 
-- [[Reductionism]]
+- [[Reductionism]] (`= [[Reductionism]].status`)
 
 ## Alternative Formats
 

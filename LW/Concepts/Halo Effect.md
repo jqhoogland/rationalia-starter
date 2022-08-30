@@ -25,5 +25,5 @@ status: todo
 ## Related Concepts
 
 - [[Priming]], [[Affect Heuristic|Affect heuristic]]
-- [[Affective Death Spiral|Affective death spiral]]
-- [[Contagion Heuristic|Contagion heuristic]]
+- [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
+- [[Contagion Heuristic|Contagion heuristic]] (`= [[Contagion Heuristic|Contagion heuristic]].status`)

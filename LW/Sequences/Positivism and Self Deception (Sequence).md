@@ -22,14 +22,14 @@ See also: [Priming](https://wiki.lesswrong.com/wiki/Priming), [[The Science of W
 
 ### Positivism and Self Deception
 
-- [[Simultaneously Right and Wrong]]
-- [[The Mystery of the Haunted Rationalist]]
-- [[The Apologist and the Revolutionary]]
-- [[You May Already Be A Sinner]]
-- [[Talking Snakes— A Cautionary Tale]]
-- [[The Skeptic's Trilemma]]
-- [[Are You a Solar Deity?]]
-- [[The "Spot the Fakes" Test]]
-- [[How to Not Lose an Argument]]
-- [[The Power of Positivist Thinking]]
-- [[When Truth Isn't Enough]]
+- [[Simultaneously Right and Wrong]] (`= [[Simultaneously Right and Wrong]].status`)
+- [[The Mystery of the Haunted Rationalist]] (`= [[The Mystery of the Haunted Rationalist]].status`)
+- [[The Apologist and the Revolutionary]] (`= [[The Apologist and the Revolutionary]].status`)
+- [[You May Already Be A Sinner]] (`= [[You May Already Be A Sinner]].status`)
+- [[Talking Snakes— A Cautionary Tale]] (`= [[Talking Snakes— A Cautionary Tale]].status`)
+- [[The Skeptic's Trilemma]] (`= [[The Skeptic's Trilemma]].status`)
+- [[Are You a Solar Deity?]] (`= [[Are You a Solar Deity?]].status`)
+- [[The "Spot the Fakes" Test]] (`= [[The "Spot the Fakes" Test]].status`)
+- [[How to Not Lose an Argument]] (`= [[How to Not Lose an Argument]].status`)
+- [[The Power of Positivist Thinking]] (`= [[The Power of Positivist Thinking]].status`)
+- [[When Truth Isn't Enough]] (`= [[When Truth Isn't Enough]].status`)

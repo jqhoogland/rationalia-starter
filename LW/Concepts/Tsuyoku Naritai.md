@@ -22,7 +22,7 @@ status: todo
 
 ## See Also
 
-- [[Egalitarianism]]
-- [[Rationality As Martial Art|Rationality as martial art]]
-- [[Challenging The Difficult|Challenging the Difficult]]
-- [[Rationality Is Systematized Winning|Rationality is systematized winning]]
+- [[Egalitarianism]] (`= [[Egalitarianism]].status`)
+- [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
+- [[Challenging The Difficult|Challenging the Difficult]] (`= [[Challenging The Difficult|Challenging the Difficult]].status`)
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)

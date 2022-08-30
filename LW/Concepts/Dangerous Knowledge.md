@@ -26,11 +26,11 @@ Even simple facts, when learned superficially, can turn against you, for reasons
 ## See Also
 
 - [[Debiasing]], [[Valley of Bad Rationality|Valley of bad rationality]]
-- [[Epistemic Hygiene|Epistemic hygiene]]
-- [[Representativeness Heuristic|Representativeness heuristic]]
-- [[Self-Deception|Self-deception]]
-- [[Motivated Skepticism]]
-- [[Information Hazards|Information hazard]]
+- [[Epistemic Hygiene|Epistemic hygiene]] (`= [[Epistemic Hygiene|Epistemic hygiene]].status`)
+- [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
+- [[Self-Deception|Self-deception]] (`= [[Self-Deception|Self-deception]].status`)
+- [[Motivated Skepticism]] (`= [[Motivated Skepticism]].status`)
+- [[Information Hazards|Information hazard]] (`= [[Information Hazards|Information hazard]].status`)
 
 ## References
 

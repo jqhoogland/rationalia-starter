@@ -19,8 +19,8 @@ In late 2008, an extensive and long-awaited debate about the [Technological Sing
 ## See Also
 
 - [AI Takeoff](/tag/ai-takeoff)
-- [[Intelligence Explosion|Intelligence explosion]]
-- [[Outside View|Outside view]]
+- [[Intelligence Explosion|Intelligence explosion]] (`= [[Intelligence Explosion|Intelligence explosion]].status`)
+- [[Outside View|Outside view]] (`= [[Outside View|Outside view]].status`)
 
 The best resource for most readers new to the debate will be [MIRI](https://wiki.lesswrong.com/wiki/MIRI)'s 2013 [The Hanson-Yudkowsky AI-Foom Debate eBook](http://intelligence.org/ai-foom-debate/), available in PDF, EPUB, and MOBI formats. This includes
 

@@ -24,7 +24,7 @@ Bostrom postulates the **singleton hypothesis**; Earth-originating life will eve
 
 ## See Also
 
-- [[Existential Risk|Existential risk]]
+- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]] artificial intelligence
 
 ## References

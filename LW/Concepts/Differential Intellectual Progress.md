@@ -49,7 +49,7 @@ There are several areas which, when more developed, will provide a means to prod
 - [AGI](https://wiki.lesswrong.com/wiki/AGI)
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 - [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_AI)
-- [[AI Boxing (Containment)|AI Boxing]]
+- [[AI Boxing (Containment)|AI Boxing]] (`= [[AI Boxing (Containment)|AI Boxing]].status`)
 
 ## References
 

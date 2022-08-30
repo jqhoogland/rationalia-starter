@@ -22,9 +22,9 @@ Contrast to [[Traditional Rationality|Traditional rationality]], or better yet, 
 
 ## See Also
 
-- [[Rationality]]
+- [[Rationality]] (`= [[Rationality]].status`)
 - [[Joy In The Merely Real|Joy in the merely real]], [[Fun Theory|Fun theory]]
-- [[Emotions|Emotion]]
+- [[Emotions|Emotion]] (`= [[Emotions|Emotion]].status`)
 - [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
 
 ## External Links

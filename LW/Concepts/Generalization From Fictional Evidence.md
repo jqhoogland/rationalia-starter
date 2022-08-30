@@ -20,5 +20,5 @@ It was first coined by Eliezer Yudkowsky in [a talk he gave in 2003](http://www.
 
 ## See Also
 
-- [[Availability Heuristic|Availability heuristic]]
-- [[Good-Story Bias|Good-story bias]]
+- [[Availability Heuristic|Availability heuristic]] (`= [[Availability Heuristic|Availability heuristic]].status`)
+- [[Good-Story Bias|Good-story bias]] (`= [[Good-Story Bias|Good-story bias]].status`)

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66ded789ed7141b4",
+        "id": "e1cb5c0d1f5e5a91",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Sequences/4— HJG and the Phoenix's Call (Sequence).md",
+            "file": "LW/Sequences/Quantum Physics (Sequence).md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Sequences/4— HJG and the Phoenix's Call (Sequence).md"
+                "file": "LW/Sequences/Quantum Physics (Sequence).md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Sequences/4— HJG and the Phoenix's Call (Sequence).md",
+                "file": "LW/Sequences/Quantum Physics (Sequence).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "66ded789ed7141b4",
+  "active": "e1cb5c0d1f5e5a91",
   "lastOpenFiles": [
-    "LW/Sequences/3— HJPEV and the Shadows of Death (Sequence).md",
+    "LW/Sequences/Quantum Physics (Sequence).md",
     "LW/Sequences/4— HJG and the Phoenix's Call (Sequence).md",
+    "LW/Sequences/3— HJPEV and the Shadows of Death (Sequence).md",
     "LW/Sequences/2— HJPEV and the Professor's Games (Sequence).md",
     "README.md",
     "LW/LessWrong.md",
     "LW/Collections.md",
     "Misc/Media/random-button.png",
     "Misc/Media/vault-graph.png",
-    "LW/Posts/Chapter 92— Roles, Pt 3.md",
-    "LW/Books.md"
+    "LW/Posts/Chapter 92— Roles, Pt 3.md"
   ]
 }

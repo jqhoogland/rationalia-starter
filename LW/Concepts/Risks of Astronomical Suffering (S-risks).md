@@ -30,9 +30,9 @@ Another approach to reducing s-risk is to "expand the moral circle" [*together*]
 
 ## See Also
 
-- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
-- [[Existential Risk|Existential risk]]
-- [[Abolitionism]]
+- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]] (`= [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]].status`)
+- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[Abolitionism]] (`= [[Abolitionism]].status`)
 - [Mind crime](https://wiki.lesswrong.com/wiki/Mind_crime)
 - [[Utilitarianism]], [[Hedonism]]
 

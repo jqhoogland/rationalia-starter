@@ -22,7 +22,7 @@ Eliezer Yudkowsky responded to this by enumerating several ways in which tool AI
 
 ## **See Also**
 
-- [[Oracle AI]]
+- [[Oracle AI]] (`= [[Oracle AI]].status`)
 
 ## **External Links**
 

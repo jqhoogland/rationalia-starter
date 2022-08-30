@@ -18,4 +18,4 @@ status: todo
 
 ## See Also
 
-- [[Agency]]
+- [[Agency]] (`= [[Agency]].status`)

@@ -46,11 +46,11 @@ The human species has made an enormous amount of progress since evolving around 
 
 ## See Also
 
-- [[Intelligence Explosion|Intelligence explosion]]
-- [[Singularity]]
-- [[Seed AI]]
-- [[Gödel Machine|Gödel machine]]
-- [[AI Takeoff|AI takeoff]]
+- [[Intelligence Explosion|Intelligence explosion]] (`= [[Intelligence Explosion|Intelligence explosion]].status`)
+- [[Singularity]] (`= [[Singularity]].status`)
+- [[Seed AI]] (`= [[Seed AI]].status`)
+- [[Gödel Machine|Gödel machine]] (`= [[Gödel Machine|Gödel machine]].status`)
+- [[AI Takeoff|AI takeoff]] (`= [[AI Takeoff|AI takeoff]].status`)
 
 ## External Links
 

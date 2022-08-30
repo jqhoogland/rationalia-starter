@@ -18,14 +18,14 @@ status: todo
 
 ### Reality & Reason
 
-- [[What Money Cannot Buy]]
-- [[To listen well, get curious]]
-- [[The Felt Sense— What, Why and How]]
-- [[The Solomonoff Prior is Malign]]
-- [[The Treacherous Path to Rationality]]
-- [[The Pointers Problem— Human Values Are A Function Of Humans' Latent Variables]]
-- [[A non-mystical explanation of "no-self" (three characteristics series)]]
-- [[Anti-Aging— State of the Art]]
-- [[Search versus design]]
-- [[Reality-Revealing and Reality-Masking Puzzles]]
-- [[When Money Is Abundant, Knowledge Is The Real Wealth]]
+- [[What Money Cannot Buy]] (`= [[What Money Cannot Buy]].status`)
+- [[To listen well, get curious]] (`= [[To listen well, get curious]].status`)
+- [[The Felt Sense— What, Why and How]] (`= [[The Felt Sense— What, Why and How]].status`)
+- [[The Solomonoff Prior is Malign]] (`= [[The Solomonoff Prior is Malign]].status`)
+- [[The Treacherous Path to Rationality]] (`= [[The Treacherous Path to Rationality]].status`)
+- [[The Pointers Problem— Human Values Are A Function Of Humans' Latent Variables]] (`= [[The Pointers Problem— Human Values Are A Function Of Humans' Latent Variables]].status`)
+- [[A non-mystical explanation of "no-self" (three characteristics series)]] (`= [[A non-mystical explanation of "no-self" (three characteristics series)]].status`)
+- [[Anti-Aging— State of the Art]] (`= [[Anti-Aging— State of the Art]].status`)
+- [[Search versus design]] (`= [[Search versus design]].status`)
+- [[Reality-Revealing and Reality-Masking Puzzles]] (`= [[Reality-Revealing and Reality-Masking Puzzles]].status`)
+- [[When Money Is Abundant, Knowledge Is The Real Wealth]] (`= [[When Money Is Abundant, Knowledge Is The Real Wealth]].status`)

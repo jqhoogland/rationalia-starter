@@ -22,5 +22,5 @@ Memorization is what you're doing when you cram for a university exam. It's not 
 
 ## See Also
 
-- [[Understanding]]
+- [[Understanding]] (`= [[Understanding]].status`)
 - [Teacher's password](https://wiki.lesswrong.com/wiki/Teacher's_password), [[Detached Lever Fallacy|Detached lever fallacy]]

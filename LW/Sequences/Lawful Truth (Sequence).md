@@ -24,12 +24,12 @@ We start with a sequence on the basic links between physics and human cognition.
 
 ### Lawful Truth
 
-- [[The World— An Introduction]]
-- [[Universal Fire]]
-- [[Universal Law]]
-- [[Is Reality Ugly?]]
-- [[Beautiful Probability]]
-- [[Outside the Laboratory]]
-- [[The Second Law of Thermodynamics, and Engines of Cognition]]
-- [[Perpetual Motion Beliefs]]
-- [[Searching for Bayes-Structure]]
+- [[The World— An Introduction]] (`= [[The World— An Introduction]].status`)
+- [[Universal Fire]] (`= [[Universal Fire]].status`)
+- [[Universal Law]] (`= [[Universal Law]].status`)
+- [[Is Reality Ugly?]] (`= [[Is Reality Ugly?]].status`)
+- [[Beautiful Probability]] (`= [[Beautiful Probability]].status`)
+- [[Outside the Laboratory]] (`= [[Outside the Laboratory]].status`)
+- [[The Second Law of Thermodynamics, and Engines of Cognition]] (`= [[The Second Law of Thermodynamics, and Engines of Cognition]].status`)
+- [[Perpetual Motion Beliefs]] (`= [[Perpetual Motion Beliefs]].status`)
+- [[Searching for Bayes-Structure]] (`= [[Searching for Bayes-Structure]].status`)

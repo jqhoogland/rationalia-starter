@@ -78,8 +78,8 @@ This post is not cross listed as a part of the listed main sequences.
 
 ## Related Pages
 
-- [[Ethics & Morality]]
+- [[Ethics & Morality]] (`= [[Ethics & Morality]].status`)
 - [[Consequentialism]] and [[Utilitarianism]]
-- [[Metaethics]]
+- [[Metaethics]] (`= [[Metaethics]].status`)
 - [[Humility]] and [[Modest Epistemology]]
-- [[Corrupted Hardware|Corrupted hardware]]
+- [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)

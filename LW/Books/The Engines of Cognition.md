@@ -9,13 +9,14 @@ tags:
   - LessWrong
   - Book
 synchedAt: '2022-08-29T10:40:16.039Z'
+status: todo
 ---
 
 # The Engines of Cognition
 
 ## Sequences
 
-- [[Trust (Sequence)]]
-- [[Modularity (Sequence)]]
-- [[Incentives (Sequence)]]
-- [[Failure (Sequence)]]
+- [[Trust (Sequence)]] (`= [[Trust (Sequence)]].status`)
+- [[Modularity (Sequence)]] (`= [[Modularity (Sequence)]].status`)
+- [[Incentives (Sequence)]] (`= [[Incentives (Sequence)]].status`)
+- [[Failure (Sequence)]] (`= [[Failure (Sequence)]].status`)

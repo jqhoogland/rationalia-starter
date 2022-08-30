@@ -26,6 +26,6 @@ The fact that disagreements on questions of simple fact are so common amongst hu
 
 ## See Also
 
-- [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
-- [[Disagreement]]
-- [[Conservation of Expected Evidence|Conservation of expected evidence]]
+- [[Aumann's Agreement Theorem|Aumann's agreement theorem]] (`= [[Aumann's Agreement Theorem|Aumann's agreement theorem]].status`)
+- [[Disagreement]] (`= [[Disagreement]].status`)
+- [[Conservation of Expected Evidence|Conservation of expected evidence]] (`= [[Conservation of Expected Evidence|Conservation of expected evidence]].status`)

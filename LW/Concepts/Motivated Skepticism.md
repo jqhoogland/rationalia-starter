@@ -31,10 +31,10 @@ status: todo
 
 ## See Also
 
-- [[Motivated Reasoning|Motivated cognition]]
-- [[Least Convenient Possible World|Least convenient possible world]]
+- [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
+- [[Least Convenient Possible World|Least convenient possible world]] (`= [[Least Convenient Possible World|Least convenient possible world]].status`)
 - [[Filtered Evidence|Filtered evidence]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
-- [[Blues & Greens (metaphor)|Color politics]]
-- [[Confirmation Bias|Positive bias]]
+- [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
+- [[Confirmation Bias|Positive bias]] (`= [[Confirmation Bias|Positive bias]].status`)
 - [[Rationalization]], [[Oops]]
-- [[Dangerous Knowledge|Dangerous knowledge]]
+- [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)

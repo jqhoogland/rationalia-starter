@@ -26,4 +26,4 @@ status: todo
 
 - [[Curiosity]], [[Surprise]]
 - [[Cached Thoughts|Cached thought]], [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
-- [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)

@@ -29,5 +29,5 @@ One definition of [[Rationality|rationality]], used both on Less Wrong and in ec
 
 ## See Also
 
-- [[Bayesian Probability|Bayesian probability]]
-- [[Decision Theory|Decision theory]]
+- [[Bayesian Probability|Bayesian probability]] (`= [[Bayesian Probability|Bayesian probability]].status`)
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)

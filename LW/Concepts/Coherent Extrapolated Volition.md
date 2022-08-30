@@ -48,7 +48,7 @@ The main problems with CEV include, firstly, the great difficulty of implementin
 ## See Also
 
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-- [[Metaethics Sequence|Metaethics sequence]]
-- [[Complexity of Value|Complexity of value]]
-- [[Coherent Aggregated Volition]]
+- [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)
 - [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk)

@@ -20,17 +20,17 @@ On the tricky question of how we should apply such theories to our ordinary mora
 
 ### Quantified Humanism
 
-- [[One Life Against the World]]
-- [[The Allais Paradox]]
-- [[Zut Allais!]]
-- [[Feeling Moral]]
-- [[The "Intuitions" Behind "Utilitarianism"]]
-- [[Ends Don't Justify Means (Among Humans)]]
-- [[Ethical Injunctions]]
-- [[Something to Protect (Post)]]
-- [[When (Not) To Use Probabilities]]
-- [[Newcomb's Problem and Regret of Rationality]]
+- [[One Life Against the World]] (`= [[One Life Against the World]].status`)
+- [[The Allais Paradox]] (`= [[The Allais Paradox]].status`)
+- [[Zut Allais!]] (`= [[Zut Allais!]].status`)
+- [[Feeling Moral]] (`= [[Feeling Moral]].status`)
+- [[The "Intuitions" Behind "Utilitarianism"]] (`= [[The "Intuitions" Behind "Utilitarianism"]].status`)
+- [[Ends Don't Justify Means (Among Humans)]] (`= [[Ends Don't Justify Means (Among Humans)]].status`)
+- [[Ethical Injunctions]] (`= [[Ethical Injunctions]].status`)
+- [[Something to Protect (Post)]] (`= [[Something to Protect (Post)]].status`)
+- [[When (Not) To Use Probabilities]] (`= [[When (Not) To Use Probabilities]].status`)
+- [[Newcomb's Problem and Regret of Rationality]] (`= [[Newcomb's Problem and Regret of Rationality]].status`)
 
 ### Interlude
 
-- [[Twelve Virtues of Rationality]]
+- [[Twelve Virtues of Rationality]] (`= [[Twelve Virtues of Rationality]].status`)

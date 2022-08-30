@@ -27,6 +27,6 @@ A **configuration space** is an isomorphism between the *attributes* of somethin
 
 ## See Also
 
-- [[Superexponential Conceptspace|Superexponential conceptspace]]
-- [[Mind Design Space|Mind design space]]
+- [[Superexponential Conceptspace|Superexponential conceptspace]] (`= [[Superexponential Conceptspace|Superexponential conceptspace]].status`)
+- [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
 - [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)

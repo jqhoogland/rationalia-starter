@@ -25,7 +25,7 @@ The point of all this discussion of rationality is to actually achieve truer bel
 
 ## See Also
 
-- [[Rationality]]
-- [[Challenging The Difficult|Challenging the Difficult]]
-- [[Rationality Verification|Problem of verifying rationality]]
-- [[Newcomb's Problem|Newcomb's problem]]
+- [[Rationality]] (`= [[Rationality]].status`)
+- [[Challenging The Difficult|Challenging the Difficult]] (`= [[Challenging The Difficult|Challenging the Difficult]].status`)
+- [[Rationality Verification|Problem of verifying rationality]] (`= [[Rationality Verification|Problem of verifying rationality]].status`)
+- [[Newcomb's Problem|Newcomb's problem]] (`= [[Newcomb's Problem|Newcomb's problem]].status`)

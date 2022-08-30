@@ -32,10 +32,10 @@ Simply being told about the biases rarely helps to notice and overcome them. For
 
 ## See Also
 
-- [[Bias]]
-- [[Rationality]]
+- [[Bias]] (`= [[Bias]].status`)
+- [[Rationality]] (`= [[Rationality]].status`)
 - [[Dangerous Knowledge|Dangerous knowledge]], [[Valley of Bad Rationality|Valley of bad rationality]]
-- [[Crisis of Faith|Crisis of faith]]
+- [[Crisis of Faith|Crisis of faith]] (`= [[Crisis of Faith|Crisis of faith]].status`)
 
 ## References
 

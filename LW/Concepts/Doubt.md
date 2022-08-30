@@ -26,8 +26,8 @@ The proper purpose of a doubt is to destroy its target belief [[Litany of Tarski
 
 ## See Also
 
-- [[Curiosity]]
-- [[Motivated Skepticism|Motivated skepticism]]
+- [[Curiosity]] (`= [[Curiosity]].status`)
+- [[Motivated Skepticism|Motivated skepticism]] (`= [[Motivated Skepticism|Motivated skepticism]].status`)
 - [Update](https://wiki.lesswrong.com/wiki/Update)
-- [[Underconfidence]]
-- [[Humility|Modesty]]
+- [[Underconfidence]] (`= [[Underconfidence]].status`)
+- [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)

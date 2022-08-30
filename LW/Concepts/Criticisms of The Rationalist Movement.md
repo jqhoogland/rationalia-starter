@@ -40,7 +40,7 @@ As such, the fringe nature of transhumanist ideas such as [[Cryonics|cryonics]],
 
 ## See Also
 
-- [[Rationalist Movement|Rationalist movement]]
+- [[Rationalist Movement|Rationalist movement]] (`= [[Rationalist Movement|Rationalist movement]].status`)
 - [RationalWiki](https://wiki.lesswrong.com/wiki/RationalWiki)
 - [Sneer Club](https://wiki.lesswrong.com/wiki/Sneer_Club)
 

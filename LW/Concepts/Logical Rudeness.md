@@ -33,4 +33,4 @@ In the post [Logical Rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/), Y
 ## See Also
 
 - [[Anti-Epistemology|Anti-epistemology]], [[Fully-General Counterargument|Fully general counterargument]]
-- [[Semantic Stopsign|Semantic stopsign]]
+- [[Semantic Stopsign|Semantic stopsign]] (`= [[Semantic Stopsign|Semantic stopsign]].status`)

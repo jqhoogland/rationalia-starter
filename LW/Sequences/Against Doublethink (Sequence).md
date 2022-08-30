@@ -20,8 +20,8 @@ This short sequence explores another cognitive pattern that hinders our ability 
 
 ### Against Doublethink
 
-- [[Doublethink (Choosing to be Biased)]]
-- [[No, Really, I've Deceived Myself]]
-- [[Belief in Self-Deception]]
-- [[Moore's Paradox]]
-- [[Don't Believe You'll Self-Deceive]]
+- [[Doublethink (Choosing to be Biased)]] (`= [[Doublethink (Choosing to be Biased)]].status`)
+- [[No, Really, I've Deceived Myself]] (`= [[No, Really, I've Deceived Myself]].status`)
+- [[Belief in Self-Deception]] (`= [[Belief in Self-Deception]].status`)
+- [[Moore's Paradox]] (`= [[Moore's Paradox]].status`)
+- [[Don't Believe You'll Self-Deceive]] (`= [[Don't Believe You'll Self-Deceive]].status`)

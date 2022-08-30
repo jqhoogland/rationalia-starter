@@ -25,8 +25,8 @@ status: todo
 ## See Also
 
 - [[Hope]], [[Possibility|possibility]]
-- [[Motivated Skepticism|Motivated skepticism]]
-- [[Anti-Epistemology|Anti-epistemology]]
-- [[Crisis of Faith|Crisis of faith]]
-- [[How To Actually Change Your Mind|How to Actually Change Your Mind]]
+- [[Motivated Skepticism|Motivated skepticism]] (`= [[Motivated Skepticism|Motivated skepticism]].status`)
+- [[Anti-Epistemology|Anti-epistemology]] (`= [[Anti-Epistemology|Anti-epistemology]].status`)
+- [[Crisis of Faith|Crisis of faith]] (`= [[Crisis of Faith|Crisis of faith]].status`)
+- [[How To Actually Change Your Mind|How to Actually Change Your Mind]] (`= [[How To Actually Change Your Mind|How to Actually Change Your Mind]].status`)
 - [Yudkowsky's Coming of Age](https://wiki.lesswrong.com/wiki/Yudkowsky's_Coming_of_Age)

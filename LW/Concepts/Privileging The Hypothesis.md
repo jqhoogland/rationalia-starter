@@ -37,8 +37,8 @@ The anti-work of [[Anti-Epistemology|anti-epistemology]] is to manufacture belie
 
 ## See Also
 
-- [[Locate The Hypothesis|Locate the hypothesis]]
-- [[Antiprediction]]
+- [[Locate The Hypothesis|Locate the hypothesis]] (`= [[Locate The Hypothesis|Locate the hypothesis]].status`)
+- [[Antiprediction]] (`= [[Antiprediction]].status`)
 - [[Status Quo Bias|Status quo bias]], [[Reversal Test|reversal test]]
 - [[Amount of Evidence|Amount of evidence]], [[Burdensome Details|burdensome details]]
 - [[Filtered Evidence|Filtered evidence]], [[Arguments As Soldiers|arguments as soldiers]]

@@ -30,4 +30,4 @@ Personal identity may at first sound like just an abstract philosophical issue w
 
 ## Related Pages
 
-- [[Identity]]
+- [[Identity]] (`= [[Identity]].status`)

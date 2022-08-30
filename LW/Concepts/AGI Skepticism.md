@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:12.923Z'
+status: todo
 ---
 
 # AGI Skepticism
@@ -31,8 +32,8 @@ There are also skeptics who think that the prospect of near-term AGI seems remot
 
 ## See Also
 
-- [[Artificial General Intelligence]]
-- [[Technological Forecasting|Technological forecasting]]
-- [[Unfriendly Artificial Intelligence]]
-- [[Friendly Artificial Intelligence]]
-- [[Economic Consequences of AGI|Economic Consequences of AI]]
+- [[Artificial General Intelligence]] (`= [[Artificial General Intelligence]].status`)
+- [[Technological Forecasting|Technological forecasting]] (`= [[Technological Forecasting|Technological forecasting]].status`)
+- [[Unfriendly Artificial Intelligence]] (`= [[Unfriendly Artificial Intelligence]].status`)
+- [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
+- [[Economic Consequences of AGI|Economic Consequences of AI]] (`= [[Economic Consequences of AGI|Economic Consequences of AI]].status`)

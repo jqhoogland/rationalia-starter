@@ -24,12 +24,12 @@ Special thanks to Luke for his book recommendation and his strong encouragement 
 
 ### Introduction to Game Theory
 
-- [[Backward Reasoning Over Decision Trees]]
-- [[Nash Equilibria and Schelling Points]]
-- [[Introduction to Prisoners' Dilemma]]
-- [[Real World Solutions to Prisoners' Dilemmas]]
-- [[Interlude for Behavioral Economics]]
-- [[What Is Signaling, Really?]]
-- [[Bargaining and Auctions]]
-- [[Imperfect Voting Systems]]
-- [[Game Theory As A Dark Art]]
+- [[Backward Reasoning Over Decision Trees]] (`= [[Backward Reasoning Over Decision Trees]].status`)
+- [[Nash Equilibria and Schelling Points]] (`= [[Nash Equilibria and Schelling Points]].status`)
+- [[Introduction to Prisoners' Dilemma]] (`= [[Introduction to Prisoners' Dilemma]].status`)
+- [[Real World Solutions to Prisoners' Dilemmas]] (`= [[Real World Solutions to Prisoners' Dilemmas]].status`)
+- [[Interlude for Behavioral Economics]] (`= [[Interlude for Behavioral Economics]].status`)
+- [[What Is Signaling, Really?]] (`= [[What Is Signaling, Really?]].status`)
+- [[Bargaining and Auctions]] (`= [[Bargaining and Auctions]].status`)
+- [[Imperfect Voting Systems]] (`= [[Imperfect Voting Systems]].status`)
+- [[Game Theory As A Dark Art]] (`= [[Game Theory As A Dark Art]].status`)

@@ -9,6 +9,7 @@ tags:
   - LessWrong
   - Book
 synchedAt: '2022-08-29T10:40:16.044Z'
+status: todo
 ---
 
 # Becoming Stronger
@@ -17,6 +18,6 @@ How can individuals and communities put all this into practice? These three sequ
 
 # Sequences
 
-- [[Yudkowsky's Coming of Age (Sequence)]]
-- [[Challenging the Difficult (Sequence)]]
-- [[The Craft and the Community (Sequence)]]
+- [[Yudkowsky's Coming of Age (Sequence)]] (`= [[Yudkowsky's Coming of Age (Sequence)]].status`)
+- [[Challenging the Difficult (Sequence)]] (`= [[Challenging the Difficult (Sequence)]].status`)
+- [[The Craft and the Community (Sequence)]] (`= [[The Craft and the Community (Sequence)]].status`)

@@ -22,7 +22,7 @@ External Links
 
 ## See Also
 
-- [[Singularity|Technological singularity]]
+- [[Singularity|Technological singularity]] (`= [[Singularity|Technological singularity]].status`)
 - [Existential risk](https://lessestwrong.com/tag/existential-risk)
 - [Intelligence explosion](https://lessestwrong.com/tag/intelligence-explosion)
 - [Friendly artificial intelligence](https://lessestwrong.com/tag/friendly-artificial-intelligence)

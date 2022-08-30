@@ -28,5 +28,5 @@ To **bite the bullet** is to accept the consequences of a hard choice, or unintu
 
 - [[Cached Thoughts|Cached thought]], [[Semantic Stopsign|Semantic stopsign]]
 - [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
-- [[Shut Up and Multiply|Shut up and multiply]]
-- [[Belief In Belief|Belief in belief]]
+- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)

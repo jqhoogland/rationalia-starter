@@ -20,18 +20,18 @@ Increasing [willpower](https://www.lessestwrong.com/tag/willpower) is seen by so
 
 ## See Also
 
-- [[Attention]]
-- [[Motivations]]
-- [[Prioritization]]
-- [[Procrastination]]
-- [[Productivity]]
-- [[Willpower]]
+- [[Attention]] (`= [[Attention]].status`)
+- [[Motivations]] (`= [[Motivations]].status`)
+- [[Prioritization]] (`= [[Prioritization]].status`)
+- [[Procrastination]] (`= [[Procrastination]].status`)
+- [[Productivity]] (`= [[Productivity]].status`)
+- [[Willpower]] (`= [[Willpower]].status`)
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
-- [[Trivial Inconvenience|Trivial inconvenience]]
-- [[Aversion|Aversion/Ugh field]]
-- [[Compartmentalization]]
-- [[Preference]]
-- [[Pica]]
+- [[Trivial Inconvenience|Trivial inconvenience]] (`= [[Trivial Inconvenience|Trivial inconvenience]].status`)
+- [[Aversion|Aversion/Ugh field]] (`= [[Aversion|Aversion/Ugh field]].status`)
+- [[Compartmentalization]] (`= [[Compartmentalization]].status`)
+- [[Preference]] (`= [[Preference]].status`)
+- [[Pica]] (`= [[Pica]].status`)
 
 ## External Links
 

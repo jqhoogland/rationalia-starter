@@ -20,17 +20,17 @@ The first sequence of *The Machine in the Ghost* aims to communicate the dissona
 
 ### The Simple Math of Evolution
 
-- [[Minds— An Introduction]]
-- [[The Power of Intelligence]]
-- [[An Alien God]]
-- [[The Wonder of Evolution]]
-- [[Evolutions Are Stupid (But Work Anyway)]]
-- [[No Evolutions for Corporations or Nanodevices]]
-- [[Evolving to Extinction]]
-- [[The Tragedy of Group Selectionism]]
-- [[Fake Optimization Criteria]]
-- [[Adaptation-Executers, not Fitness-Maximizers]]
-- [[Evolutionary Psychology]]
-- [[An Especially Elegant Evpsych Experiment]]
-- [[Superstimuli and the Collapse of Western Civilization]]
-- [[Thou Art Godshatter]]
+- [[Minds— An Introduction]] (`= [[Minds— An Introduction]].status`)
+- [[The Power of Intelligence]] (`= [[The Power of Intelligence]].status`)
+- [[An Alien God]] (`= [[An Alien God]].status`)
+- [[The Wonder of Evolution]] (`= [[The Wonder of Evolution]].status`)
+- [[Evolutions Are Stupid (But Work Anyway)]] (`= [[Evolutions Are Stupid (But Work Anyway)]].status`)
+- [[No Evolutions for Corporations or Nanodevices]] (`= [[No Evolutions for Corporations or Nanodevices]].status`)
+- [[Evolving to Extinction]] (`= [[Evolving to Extinction]].status`)
+- [[The Tragedy of Group Selectionism]] (`= [[The Tragedy of Group Selectionism]].status`)
+- [[Fake Optimization Criteria]] (`= [[Fake Optimization Criteria]].status`)
+- [[Adaptation-Executers, not Fitness-Maximizers]] (`= [[Adaptation-Executers, not Fitness-Maximizers]].status`)
+- [[Evolutionary Psychology]] (`= [[Evolutionary Psychology]].status`)
+- [[An Especially Elegant Evpsych Experiment]] (`= [[An Especially Elegant Evpsych Experiment]].status`)
+- [[Superstimuli and the Collapse of Western Civilization]] (`= [[Superstimuli and the Collapse of Western Civilization]].status`)
+- [[Thou Art Godshatter]] (`= [[Thou Art Godshatter]].status`)

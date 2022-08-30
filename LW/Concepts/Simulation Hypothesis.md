@@ -30,4 +30,4 @@ John Barrow [has suggested](http://www.simulation-argument.com/barrowsim.pdf) th
 
 ## See Also
 
-- [[Simulation Argument]]
+- [[Simulation Argument]] (`= [[Simulation Argument]].status`)

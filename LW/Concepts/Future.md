@@ -23,9 +23,9 @@ If it hasn't happened yet but is going to, then it's part of the [[Future|future
 ## See Also
 
 - [[Hindsight Bias|Hindsight bias]], [[Absurdity Heuristic|absurdity heuristic]], [[Representativeness Heuristic|representativeness heuristic]]
-- [[Far Thinking|Near, Far Thinking]]
-- [[Exploratory Engineering|Exploratory engineering]]
+- [[Far Thinking|Near, Far Thinking]] (`= [[Far Thinking|Near, Far Thinking]].status`)
+- [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
 - [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
-- [[Existential Risk|Existential risk]]
+- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Black Swans|Black swan]], [[Narrative Fallacy|narrative fallacy]]
-- [[Forecasting & Prediction|Prediction]]
+- [[Forecasting & Prediction|Prediction]] (`= [[Forecasting & Prediction|Prediction]].status`)

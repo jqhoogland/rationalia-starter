@@ -20,8 +20,8 @@ status: todo
 
 ## See Also
 
-- [[Rationalist Movement|Rationalist movement]]
-- [[History of Less Wrong]]
+- [[Rationalist Movement|Rationalist movement]] (`= [[Rationalist Movement|Rationalist movement]].status`)
+- [[History of Less Wrong]] (`= [[History of Less Wrong]].status`)
 - [LessWrong Meetup Groups](/community)
 
 ## History

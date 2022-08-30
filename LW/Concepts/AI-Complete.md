@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:09:57.762Z'
+status: todo
 ---
 
 # AI-Complete
@@ -33,4 +34,4 @@ Roman V. Yampolskiy proposed a [classification in AI-Complete, AI-Hard and AI-Ea
 
 ## See Also
 
-- [[Fai-Complete|FAI-complete]]
+- [[Fai-Complete|FAI-complete]] (`= [[Fai-Complete|FAI-complete]].status`)

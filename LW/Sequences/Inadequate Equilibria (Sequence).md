@@ -20,12 +20,12 @@ Inadequate Equilibria is a book about a generalized notion of efficient markets,
 
 ### Inadequate Equilibria
 
-- [[Inadequacy and Modesty]]
-- [[An Equilibrium of No Free Energy]]
-- [[Moloch's Toolbox (1, 2)]]
-- [[Moloch's Toolbox (2, 2)]]
-- [[Living in an Inadequate World]]
-- [[Blind Empiricism]]
-- [[Against Modest Epistemology]]
-- [[Status Regulation and Anxious Underconfidence]]
-- [[Against Shooting Yourself in the Foot]]
+- [[Inadequacy and Modesty]] (`= [[Inadequacy and Modesty]].status`)
+- [[An Equilibrium of No Free Energy]] (`= [[An Equilibrium of No Free Energy]].status`)
+- [[Moloch's Toolbox (1, 2)]] (`= [[Moloch's Toolbox (1, 2)]].status`)
+- [[Moloch's Toolbox (2, 2)]] (`= [[Moloch's Toolbox (2, 2)]].status`)
+- [[Living in an Inadequate World]] (`= [[Living in an Inadequate World]].status`)
+- [[Blind Empiricism]] (`= [[Blind Empiricism]].status`)
+- [[Against Modest Epistemology]] (`= [[Against Modest Epistemology]].status`)
+- [[Status Regulation and Anxious Underconfidence]] (`= [[Status Regulation and Anxious Underconfidence]].status`)
+- [[Against Shooting Yourself in the Foot]] (`= [[Against Shooting Yourself in the Foot]].status`)

@@ -26,6 +26,6 @@ The doomsday argument relies on the [[Self-Sampling Assumption|self-sampling ass
 
 ## See Also
 
-- [[Observation Selection Effect|Observation selection effect]]
-- [[Great Filter]]
+- [[Observation Selection Effect|Observation selection effect]] (`= [[Observation Selection Effect|Observation selection effect]].status`)
+- [[Great Filter]] (`= [[Great Filter]].status`)
 - [How Many People Have Ever Lived on Earth?](https://www.prb.org/howmanypeoplehaveeverlivedonearth/)

@@ -37,4 +37,4 @@ Another major problem with the original CEV definition is that it assumes that h
 ## See Also
 
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-- [[Coherent Extrapolated Volition]]
+- [[Coherent Extrapolated Volition]] (`= [[Coherent Extrapolated Volition]].status`)

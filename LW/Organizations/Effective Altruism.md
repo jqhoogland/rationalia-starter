@@ -119,11 +119,11 @@ Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism]
 
 ## Related
 
-- [[Altruism]]
-- [[Cause Prioritization]]
+- [[Altruism]] (`= [[Altruism]].status`)
+- [[Cause Prioritization]] (`= [[Cause Prioritization]].status`)
 - [Utilitarianism](https://lessestwrong.com/tag/utilitarianism)
-- [[Risks of Astronomical Suffering (S-risks)|S-risk]]
-- [[LW/Concepts/Existential Risk|X-risk]]
+- [[Risks of Astronomical Suffering (S-risks)|S-risk]] (`= [[Risks of Astronomical Suffering (S-risks)|S-risk]].status`)
+- [[LW/Concepts/Existential Risk|X-risk]] (`= [[LW/Concepts/Existential Risk|X-risk]].status`)
 
 ## External Resources
 
@@ -131,7 +131,7 @@ Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism]
 - [Effective Altruism,](https://www.effectivealtruism.org/) who offer support for local EA groups, as well as articles and advice surrounding EA
 - [GiveWell,](https://www.givewell.org/) a charity doing research into the effectiveness of other charities to provide information for donors
 - [The Life You Can Save](https://www.thelifeyoucansave.org/the-book/?gclid=CjwKCAjwjqT5BRAPEiwAJlBuBXb3m1FKunezyfsYzYkjmgzSCHScRgZpzMH097cbAAGC5lmHUP-J3BoCcnAQAvD_BwE), a free eBook outlining reasons for donating more and more effectively
-- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
+- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]] (`= [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]].status`)
 
 1. ^**[^](#fnrefipt32j7op0s)**^
 

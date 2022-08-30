@@ -48,7 +48,7 @@ More possible limitations and problems with using the outside view are discussed
 ## See Also
 
 - [Planning fallacy](https://lessestwrong.com/tag/planning-fallacy)
-- [[Modest Epistemology]]
+- [[Modest Epistemology]] (`= [[Modest Epistemology]].status`)
 - [Near, Far Thinking](https://lessestwrong.com/tag/near-far-thinking)
 - [Connotation](https://lessestwrong.com/tag/connotation), [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
 - [Arguing by analogy](https://lessestwrong.com/tag/arguing-by-analogy)

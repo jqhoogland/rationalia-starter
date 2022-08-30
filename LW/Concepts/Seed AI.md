@@ -37,10 +37,10 @@ Currently, there are no known Seed AIs in existence, but it is an active field o
 
 ## See Also
 
-- [[Gödel Machine|Gödel machine]]
-- [[AI Takeoff|AI takeoff]]
-- [[Recursive Self-Improvement|Recursive self-improvement]]
-- [[Intelligence Explosion|Intelligence explosion]]
+- [[Gödel Machine|Gödel machine]] (`= [[Gödel Machine|Gödel machine]].status`)
+- [[AI Takeoff|AI takeoff]] (`= [[AI Takeoff|AI takeoff]].status`)
+- [[Recursive Self-Improvement|Recursive self-improvement]] (`= [[Recursive Self-Improvement|Recursive self-improvement]].status`)
+- [[Intelligence Explosion|Intelligence explosion]] (`= [[Intelligence Explosion|Intelligence explosion]].status`)
 - [AGI](https://wiki.lesswrong.com/wiki/AGI)
 
 ## References

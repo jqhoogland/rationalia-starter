@@ -27,6 +27,6 @@ Dismissing egalitarianism is not opposed to [[Humility|humility]], even though f
 ## See Also
 
 - [[Humility]], [[Humility|Modesty]]
-- [[Group Rationality|Group rationality]]
-- [[Underconfidence]]
-- [[Tsuyoku Naritai|Tsuyoku naritai]]
+- [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
+- [[Underconfidence]] (`= [[Underconfidence]].status`)
+- [[Tsuyoku Naritai|Tsuyoku naritai]] (`= [[Tsuyoku Naritai|Tsuyoku naritai]].status`)

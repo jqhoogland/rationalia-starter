@@ -23,8 +23,8 @@ status: todo
 
 ## See Also
 
-- [[Evidence]]
-- [[Belief Update|Belief update]]
+- [[Evidence]] (`= [[Evidence]].status`)
+- [[Belief Update|Belief update]] (`= [[Belief Update|Belief update]].status`)
 
 ## References
 

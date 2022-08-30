@@ -22,15 +22,15 @@ It is cognitive bias, however, that provides the clearest and most direct glimps
 
 ### Predictably Wrong
 
-- [[Preface]]
-- [[Biases— An Introduction]]
-- [[Scope Insensitivity (Post)]]
-- [[The Martial Art of Rationality]]
-- [[Availability]]
-- [[What's a Bias?]]
-- [[Burdensome Details]]
-- [[What Do We Mean By "Rationality"?]]
-- [[Planning Fallacy]]
-- [[Why Truth?]]
-- [[Feeling Rational]]
-- [[The Lens That Sees Its Flaws]]
+- [[Preface]] (`= [[Preface]].status`)
+- [[Biases— An Introduction]] (`= [[Biases— An Introduction]].status`)
+- [[Scope Insensitivity (Post)]] (`= [[Scope Insensitivity (Post)]].status`)
+- [[The Martial Art of Rationality]] (`= [[The Martial Art of Rationality]].status`)
+- [[Availability]] (`= [[Availability]].status`)
+- [[What's a Bias?]] (`= [[What's a Bias?]].status`)
+- [[Burdensome Details]] (`= [[Burdensome Details]].status`)
+- [[What Do We Mean By "Rationality"?]] (`= [[What Do We Mean By "Rationality"?]].status`)
+- [[Planning Fallacy]] (`= [[Planning Fallacy]].status`)
+- [[Why Truth?]] (`= [[Why Truth?]].status`)
+- [[Feeling Rational]] (`= [[Feeling Rational]].status`)
+- [[The Lens That Sees Its Flaws]] (`= [[The Lens That Sees Its Flaws]].status`)

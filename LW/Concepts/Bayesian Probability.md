@@ -27,14 +27,14 @@ The difference is more apparent when discussing ideas. A frequentist will not as
 - [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
 - [When (Not) To Use Probabilities](http://lesswrong.com/lw/sg/when_not_to_use_probabilities/)
 - [Against NHST](http://lesswrong.com/lw/g13/against_nhst/)
-- [[Probability & Statistics|All Less Wrong posts tagged "Probability"]]
+- [[Probability & Statistics|All Less Wrong posts tagged "Probability"]] (`= [[Probability & Statistics|All Less Wrong posts tagged "Probability"]].status`)
 
 ## See Also
 
-- [[Priors]]
-- [[Bayesianism|Bayesian]]
-- [[Bayes' Theorem|Bayes' theorem]]
-- [[Mind Projection Fallacy|Mind projection fallacy]]
+- [[Priors]] (`= [[Priors]].status`)
+- [[Bayesianism|Bayesian]] (`= [[Bayesianism|Bayesian]].status`)
+- [[Bayes' Theorem|Bayes' theorem]] (`= [[Bayes' Theorem|Bayes' theorem]].status`)
+- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 
 ## External Links
 

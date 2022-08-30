@@ -24,12 +24,12 @@ Updateless Decision Theory was invented by [Wei Dai](https://www.lesswrong.com/u
 
 ## See Also
 
-- [[Timeless Decision Theory|Timeless decision theory]]
-- [[Ambient Decision Theory|Ambient decision theory]]
-- [[Counterfactual Mugging|Counterfactual mugging]]
-- [[Decision Theory|Decision theory]]
+- [[Timeless Decision Theory|Timeless decision theory]] (`= [[Timeless Decision Theory|Timeless decision theory]].status`)
+- [[Ambient Decision Theory|Ambient decision theory]] (`= [[Ambient Decision Theory|Ambient decision theory]].status`)
+- [[Counterfactual Mugging|Counterfactual mugging]] (`= [[Counterfactual Mugging|Counterfactual mugging]].status`)
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
 - [Functional Decision Theory](https://www.lesswrong.com/posts/AGAGgoWymRhJ5Rqyv/functional-decision-theory-a-new-theory-of-instrumental)
-- [[Embedded Agency]]
+- [[Embedded Agency]] (`= [[Embedded Agency]].status`)
 
 ## Content
 

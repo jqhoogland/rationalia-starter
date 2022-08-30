@@ -33,11 +33,11 @@ A third argument tries to add rigor by considering monetary payoffs. If Beauty's
 
 ## See Also
 
-- [[Decision Theory]]
-- [[Newcomb's Problem]]
-- [[Counterfactual Mugging]]
+- [[Decision Theory]] (`= [[Decision Theory]].status`)
+- [[Newcomb's Problem]] (`= [[Newcomb's Problem]].status`)
+- [[Counterfactual Mugging]] (`= [[Counterfactual Mugging]].status`)
 - [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker)
 - [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker%27s_lesion)
 - [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-- [[Prisoner's Dilemma]]
-- [[Pascal's Mugging]]
+- [[Prisoner's Dilemma]] (`= [[Prisoner's Dilemma]].status`)
+- [[Pascal's Mugging]] (`= [[Pascal's Mugging]].status`)

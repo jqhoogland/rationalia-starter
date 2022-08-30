@@ -26,19 +26,19 @@ There was a slight pause, and then the figure nodded. "Fair point."
 
 ### Book the Second
 
-- [[Chapter 22— The Scientific Method]]
-- [[Chapter 23— Belief in Belief]]
-- [[Chapter 24— Machiavellian Intelligence Hypothesis]]
-- [[Chapter 25— Hold Off on Proposing Solutions]]
-- [[Chapter 26— Noticing Confusion]]
-- [[Chapter 27— Empathy]]
-- [[Chapter 28— Reductionism]]
-- [[Chapter 29— Egocentric Bias]]
-- [[Chapter 30— Working in Group, Pt 1]]
-- [[Chapter 31— Working in Groups, Pt 2]]
-- [[Chapter 32— Interlude— Personal Financial Management]]
-- [[Chapter 33— Coordination Problems, Pt 1]]
-- [[Chapter 34— Coordination Problems, Pt 2]]
-- [[Chapter 35— Coordination Problems, Pt 3]]
-- [[Chapter 36— Status Differentials]]
-- [[Chapter 37— Interlude— Crossing the Boundary]]
+- [[Chapter 22— The Scientific Method]] (`= [[Chapter 22— The Scientific Method]].status`)
+- [[Chapter 23— Belief in Belief]] (`= [[Chapter 23— Belief in Belief]].status`)
+- [[Chapter 24— Machiavellian Intelligence Hypothesis]] (`= [[Chapter 24— Machiavellian Intelligence Hypothesis]].status`)
+- [[Chapter 25— Hold Off on Proposing Solutions]] (`= [[Chapter 25— Hold Off on Proposing Solutions]].status`)
+- [[Chapter 26— Noticing Confusion]] (`= [[Chapter 26— Noticing Confusion]].status`)
+- [[Chapter 27— Empathy]] (`= [[Chapter 27— Empathy]].status`)
+- [[Chapter 28— Reductionism]] (`= [[Chapter 28— Reductionism]].status`)
+- [[Chapter 29— Egocentric Bias]] (`= [[Chapter 29— Egocentric Bias]].status`)
+- [[Chapter 30— Working in Group, Pt 1]] (`= [[Chapter 30— Working in Group, Pt 1]].status`)
+- [[Chapter 31— Working in Groups, Pt 2]] (`= [[Chapter 31— Working in Groups, Pt 2]].status`)
+- [[Chapter 32— Interlude— Personal Financial Management]] (`= [[Chapter 32— Interlude— Personal Financial Management]].status`)
+- [[Chapter 33— Coordination Problems, Pt 1]] (`= [[Chapter 33— Coordination Problems, Pt 1]].status`)
+- [[Chapter 34— Coordination Problems, Pt 2]] (`= [[Chapter 34— Coordination Problems, Pt 2]].status`)
+- [[Chapter 35— Coordination Problems, Pt 3]] (`= [[Chapter 35— Coordination Problems, Pt 3]].status`)
+- [[Chapter 36— Status Differentials]] (`= [[Chapter 36— Status Differentials]].status`)
+- [[Chapter 37— Interlude— Crossing the Boundary]] (`= [[Chapter 37— Interlude— Crossing the Boundary]].status`)

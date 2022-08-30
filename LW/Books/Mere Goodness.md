@@ -9,6 +9,7 @@ tags:
   - LessWrong
   - Book
 synchedAt: '2022-08-29T10:40:16.044Z'
+status: todo
 ---
 
 # Mere Goodness
@@ -17,6 +18,6 @@ What makes something valuable—morally, or aesthetically, or prudentially? Thes
 
 # Sequences
 
-- [[Fake Preferences (Sequence)]]
-- [[Value Theory (Sequence)]]
-- [[Quantified Humanism (Sequence)]]
+- [[Fake Preferences (Sequence)]] (`= [[Fake Preferences (Sequence)]].status`)
+- [[Value Theory (Sequence)]] (`= [[Value Theory (Sequence)]].status`)
+- [[Quantified Humanism (Sequence)]] (`= [[Quantified Humanism (Sequence)]].status`)

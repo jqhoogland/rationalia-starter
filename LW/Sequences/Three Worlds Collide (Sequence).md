@@ -27,11 +27,11 @@ status: todo
 
 ### Three Worlds Collide
 
-- [[The Baby-Eating Aliens (1, 8)]]
-- [[War and, or Peace (2, 8)]]
-- [[The Super Happy People (3, 8)]]
-- [[Interlude with the Confessor (4, 8)]]
-- [[Three Worlds Decide (5, 8)]]
-- [[Normal Ending— Last Tears (6, 8)]]
-- [[True Ending— Sacrificial Fire (7, 8)]]
-- [[Epilogue— Atonement (8, 8)]]
+- [[The Baby-Eating Aliens (1, 8)]] (`= [[The Baby-Eating Aliens (1, 8)]].status`)
+- [[War and, or Peace (2, 8)]] (`= [[War and, or Peace (2, 8)]].status`)
+- [[The Super Happy People (3, 8)]] (`= [[The Super Happy People (3, 8)]].status`)
+- [[Interlude with the Confessor (4, 8)]] (`= [[Interlude with the Confessor (4, 8)]].status`)
+- [[Three Worlds Decide (5, 8)]] (`= [[Three Worlds Decide (5, 8)]].status`)
+- [[Normal Ending— Last Tears (6, 8)]] (`= [[Normal Ending— Last Tears (6, 8)]].status`)
+- [[True Ending— Sacrificial Fire (7, 8)]] (`= [[True Ending— Sacrificial Fire (7, 8)]].status`)
+- [[Epilogue— Atonement (8, 8)]] (`= [[Epilogue— Atonement (8, 8)]].status`)

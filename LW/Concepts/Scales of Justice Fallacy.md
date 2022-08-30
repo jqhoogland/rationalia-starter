@@ -24,6 +24,6 @@ The **scales of justice fallacy** refers to the error of using a simple polarize
 ## See Also
 
 - [[Blues & Greens (metaphor)|Color politics]], [[Arguments As Soldiers|Arguments as soldiers]]
-- [[Filtered Evidence|Filtered evidence]]
-- [[Narrative Fallacy|Narrative fallacy]]
-- [[Third Option|Third option]]
+- [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
+- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
+- [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)

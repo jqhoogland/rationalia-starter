@@ -26,9 +26,9 @@ status: todo
 
 ## See Also
 
-- [[Antiprediction]]
-- [[Not Technically A Lie|Not technically a lie]]
-- [[Affect Heuristic|Affect heuristic]]
+- [[Antiprediction]] (`= [[Antiprediction]].status`)
+- [[Not Technically A Lie|Not technically a lie]] (`= [[Not Technically A Lie|Not technically a lie]].status`)
+- [[Affect Heuristic|Affect heuristic]] (`= [[Affect Heuristic|Affect heuristic]].status`)
 - [[Inferential Distance|Inferential distance]], [[Scope Insensitivity|scope insensitivity]]
-- [[Alief]]
+- [[Alief]] (`= [[Alief]].status`)
 - [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)

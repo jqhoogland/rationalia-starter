@@ -28,6 +28,6 @@ It can be tempting to label as *impossible* very difficult problems which you ha
 ## See Also
 
 - [Probability](https://wiki.lesswrong.com/wiki/Probability)
-- [[Antiprediction]]
-- [[Black Swans|Black swan]]
-- [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Antiprediction]] (`= [[Antiprediction]].status`)
+- [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)
+- [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)

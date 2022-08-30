@@ -32,9 +32,9 @@ This sequential chain of thought can be particularly useful when dealing with [[
 
 ## See Also
 
-- [[Complexity of Value|Complexity of value]]
-- [[Utility Functions|Utility function]]
-- [[Decision Theory|Decision theory]]
-- [[Optimization|Optimization process]]
-- [[Akrasia]]
-- [[Corrupted Hardware|Corrupted hardware]]
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+- [[Akrasia]] (`= [[Akrasia]].status`)
+- [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)

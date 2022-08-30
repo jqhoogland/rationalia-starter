@@ -44,8 +44,8 @@ Wiki features and how valuable they would be
 Some pages I have edited to be the style of what I think should be all pages
 ============================================================================
 
-- [[Effective Altruism|https://www.lesswrong.com/tag/effective-altruism]]
+- [[Effective Altruism|https://www.lesswrong.com/tag/effective-altruism]] (`= [[Effective Altruism|https://www.lesswrong.com/tag/effective-altruism]].status`)
     - It now has a section on funding use, impact and criticims
     - With a little more work I think it could be the best single page introduction to EA
-- [[Forecasting & Prediction|https://www.lesswrong.com/tag/forecasting-and-prediction]]
+- [[Forecasting & Prediction|https://www.lesswrong.com/tag/forecasting-and-prediction]] (`= [[Forecasting & Prediction|https://www.lesswrong.com/tag/forecasting-and-prediction]].status`)
     - A better overview of the topic

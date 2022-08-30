@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T10:47:14.685Z'
+status: todo
 ---
 
 # Adversarial Training

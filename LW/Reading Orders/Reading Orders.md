@@ -6,9 +6,9 @@ We recommend starting with the [[Highlights from the Sequences (Collection)|H]],
 
 If you're interested in an alternative order, take a look at the following:
 
-- [[XiXiDu's Order]]
-- [[jimrandomh's Order]]
-- [[Academian's Order]]
+- [[XiXiDu's Order]] (`= [[XiXiDu's Order]].status`)
+- [[jimrandomh's Order]] (`= [[jimrandomh's Order]].status`)
+- [[Academian's Order]] (`= [[Academian's Order]].status`)
 
 See also:
 

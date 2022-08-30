@@ -21,5 +21,5 @@ status: todo
 
 ## See Also
 
-- [[Semantic Stopsign|Semantic stopsign]]
-- [[Reductionism]]
+- [[Semantic Stopsign|Semantic stopsign]] (`= [[Semantic Stopsign|Semantic stopsign]].status`)
+- [[Reductionism]] (`= [[Reductionism]].status`)

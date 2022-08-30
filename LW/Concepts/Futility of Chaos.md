@@ -39,8 +39,8 @@ A complex of related ideas having to do with the **impossibility of generating u
 ## See Also
 
 - [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
-- [[Reductionism]]
+- [[Reductionism]] (`= [[Reductionism]].status`)
 - [[Magic]], [[Magical Categories|magical categories]]
-- [[Lawful Intelligence|Lawful intelligence]]
-- [[Reality Is Normal|Reality is normal]]
-- [[Free Will|Free will]]
+- [[Lawful Intelligence|Lawful intelligence]] (`= [[Lawful Intelligence|Lawful intelligence]].status`)
+- [[Reality Is Normal|Reality is normal]] (`= [[Reality Is Normal|Reality is normal]].status`)
+- [[Free Will|Free will]] (`= [[Free Will|Free will]].status`)

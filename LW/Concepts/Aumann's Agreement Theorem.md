@@ -34,10 +34,10 @@ status: todo
 
 ## See Also
 
-- [[Disagreement]]
-- [[Modesty Argument|Modesty argument]]
-- [[Aumann Agreement|Aumann agreement]]
-- [[The Aumann Game]]
+- [[Disagreement]] (`= [[Disagreement]].status`)
+- [[Modesty Argument|Modesty argument]] (`= [[Modesty Argument|Modesty argument]].status`)
+- [[Aumann Agreement|Aumann agreement]] (`= [[Aumann Agreement|Aumann agreement]].status`)
+- [[The Aumann Game]] (`= [[The Aumann Game]].status`)
 - [Overcoming Bias posts on "Disagreement"](http://www.overcomingbias.com/tag/disagreement)
 
 ## References

@@ -28,17 +28,17 @@ There was, she realized; and not only that, it talked in Harry's exact voice.
 
 ### HJPEV and the Last Enemy
 
-- [[Chapter 86— Multiple Hypothesis Testing]]
-- [[Chapter 87— Hedonic Awareness]]
-- [[Chapter 88— Time Pressure, Pt 1]]
-- [[Chapter 89— Time Pressure, Pt 2]]
-- [[Chapter 90— Roles, Pt 1]]
-- [[Chapter 91— Roles, Pt 2]]
-- [[Chapter 92— Roles, Pt 3]]
-- [[Chapter 93— Roles, Pt 4]]
-- [[Chapter 94— Roles, Pt 5]]
-- [[Chapter 95— Roles, Pt 6]]
-- [[Chapter 96— Roles, Pt 7]]
-- [[Chapter 97— Roles, Pt 8]]
-- [[Chapter 98— Roles, Final]]
-- [[Chapter 99— Roles, Aftermath]]
+- [[Chapter 86— Multiple Hypothesis Testing]] (`= [[Chapter 86— Multiple Hypothesis Testing]].status`)
+- [[Chapter 87— Hedonic Awareness]] (`= [[Chapter 87— Hedonic Awareness]].status`)
+- [[Chapter 88— Time Pressure, Pt 1]] (`= [[Chapter 88— Time Pressure, Pt 1]].status`)
+- [[Chapter 89— Time Pressure, Pt 2]] (`= [[Chapter 89— Time Pressure, Pt 2]].status`)
+- [[Chapter 90— Roles, Pt 1]] (`= [[Chapter 90— Roles, Pt 1]].status`)
+- [[Chapter 91— Roles, Pt 2]] (`= [[Chapter 91— Roles, Pt 2]].status`)
+- [[Chapter 92— Roles, Pt 3]] (`= [[Chapter 92— Roles, Pt 3]].status`)
+- [[Chapter 93— Roles, Pt 4]] (`= [[Chapter 93— Roles, Pt 4]].status`)
+- [[Chapter 94— Roles, Pt 5]] (`= [[Chapter 94— Roles, Pt 5]].status`)
+- [[Chapter 95— Roles, Pt 6]] (`= [[Chapter 95— Roles, Pt 6]].status`)
+- [[Chapter 96— Roles, Pt 7]] (`= [[Chapter 96— Roles, Pt 7]].status`)
+- [[Chapter 97— Roles, Pt 8]] (`= [[Chapter 97— Roles, Pt 8]].status`)
+- [[Chapter 98— Roles, Final]] (`= [[Chapter 98— Roles, Final]].status`)
+- [[Chapter 99— Roles, Aftermath]] (`= [[Chapter 99— Roles, Aftermath]].status`)

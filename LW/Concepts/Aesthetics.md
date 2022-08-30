@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:20.368Z'
+status: todo
 ---
 
 # Aesthetics

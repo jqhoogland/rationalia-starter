@@ -25,9 +25,9 @@ status: todo
 
 ## See Also
 
-- [[Affective Death Spiral|Affective death spiral]]
-- [[Groupthink]]
-- [[In-Group Bias|In-group bias]]
-- [[Improper Belief|Improper belief]]
-- [[Akrasia]]
-- [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]
+- [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
+- [[Groupthink]] (`= [[Groupthink]].status`)
+- [[In-Group Bias|In-group bias]] (`= [[In-Group Bias|In-group bias]].status`)
+- [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
+- [[Akrasia]] (`= [[Akrasia]].status`)
+- [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]] (`= [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]].status`)

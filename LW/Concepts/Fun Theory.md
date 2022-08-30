@@ -53,8 +53,8 @@ Fun theory thus seeks to let us keep our curiosity and love of learning intact, 
 
 ## See Also
 
-- [[The Fun Theory Sequence]]
-- [[Happiness]]
-- [[Complexity of Value|Complexity of value]]
-- [[Metaethics Sequence|Metaethics sequence]]
-- [[Abolitionism]]
+- [[The Fun Theory Sequence]] (`= [[The Fun Theory Sequence]].status`)
+- [[Happiness]] (`= [[Happiness]].status`)
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
+- [[Abolitionism]] (`= [[Abolitionism]].status`)

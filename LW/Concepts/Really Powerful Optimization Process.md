@@ -33,7 +33,7 @@ The term [[Artificial General Intelligence|artificial intelligence]] can have [[
 
 - [[Optimization|Optimization process]], [[Configuration Space|configuration space]]
 - [[Artificial General Intelligence|Artificial general intelligence]], [[Singleton|singleton]]
-- [[Friendly Artificial Intelligence]]
+- [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
 - [[Anthropomorphism]], [[Alien Values|alien values]]
-- [[Evolution As Alien God|Evolution as alien god]]
-- [[Complexity of Value|Complexity of value]]
+- [[Evolution As Alien God|Evolution as alien god]] (`= [[Evolution As Alien God|Evolution as alien god]].status`)
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)

@@ -25,4 +25,4 @@ status: todo
 ## See Also
 
 - [[Evolution]], [[Evolution As Alien God|evolution as alien god]]
-- [[Optimization|Optimization process]]
+- [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)

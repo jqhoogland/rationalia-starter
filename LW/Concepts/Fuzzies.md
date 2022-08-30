@@ -24,6 +24,6 @@ A **fuzzy** is a hypothetical measurement unit for "warm fuzzy feeling" one gets
 
 ## See Also
 
-- [[Utility Functions|Utility function]]
-- [[Shut Up and Multiply|Shut up and multiply]]
-- [[Hedon]]
+- [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
+- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Hedon]] (`= [[Hedon]].status`)

@@ -28,10 +28,10 @@ Occam's razor has been formalized as Minimum Description Length or Minimum Messa
 
 ## See Also
 
-- [[Solomonoff Induction|Solomonoff induction]]
+- [[Solomonoff Induction|Solomonoff induction]] (`= [[Solomonoff Induction|Solomonoff induction]].status`)
 - [Occam's imaginary razor](https://wiki.lesswrong.com/wiki/Occam's_imaginary_razor)
-- [[Priors]]
-- [[Burdensome Details|Burdensome details]]
+- [[Priors]] (`= [[Priors]].status`)
+- [[Burdensome Details|Burdensome details]] (`= [[Burdensome Details|Burdensome details]].status`)
 - [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
 
 ## External Links

@@ -38,10 +38,10 @@ Some people prefer to keep [a distinction between two types of utility](https://
 
 ## See Also
 
-- [[Utilitarianism]]
-- [[Utility Functions|Utility function]]
-- [[Utility Extraction|Utility extraction]]
-- [[Expected Utility|Expected utility]]
-- [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]
-- [[Preference]]
-- [[Game Theory|Game theory]]
+- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
+- [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
+- [[Utility Extraction|Utility extraction]] (`= [[Utility Extraction|Utility extraction]].status`)
+- [[Expected Utility|Expected utility]] (`= [[Expected Utility|Expected utility]].status`)
+- [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]] (`= [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]].status`)
+- [[Preference]] (`= [[Preference]].status`)
+- [[Game Theory|Game theory]] (`= [[Game Theory|Game theory]].status`)

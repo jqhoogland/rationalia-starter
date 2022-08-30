@@ -24,8 +24,8 @@ status: todo
 
 ## See Also
 
-- [[Overconfidence]]
-- [[Humility|Modesty]]
-- [[Fallacy of Gray|Fallacy of gray]]
+- [[Overconfidence]] (`= [[Overconfidence]].status`)
+- [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)
+- [[Fallacy of Gray|Fallacy of gray]] (`= [[Fallacy of Gray|Fallacy of gray]].status`)
 - [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
-- [[Motivated Skepticism|Motivated skepticism]]
+- [[Motivated Skepticism|Motivated skepticism]] (`= [[Motivated Skepticism|Motivated skepticism]].status`)

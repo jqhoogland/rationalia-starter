@@ -22,4 +22,4 @@ A **false dilemma** (false dichotomy) occurs when only two options are considere
 
 ## See Also
 
-- [[Third Option|Third option]]
+- [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)

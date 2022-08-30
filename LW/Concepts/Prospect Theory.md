@@ -33,7 +33,7 @@ An agent, in prospect theory:
 
 ## See Also
 
-- [[Heuristics & Biases|Heuristics and biases]]
-- [[Loss Aversion|Loss aversion]]
-- [[Decision Theory|Decision theory]]
-- [[Expected Utility|Expected utility]]
+- [[Heuristics & Biases|Heuristics and biases]] (`= [[Heuristics & Biases|Heuristics and biases]].status`)
+- [[Loss Aversion|Loss aversion]] (`= [[Loss Aversion|Loss aversion]].status`)
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Expected Utility|Expected utility]] (`= [[Expected Utility|Expected utility]].status`)

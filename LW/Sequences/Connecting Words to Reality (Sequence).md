@@ -22,12 +22,12 @@ To understand reality, especially on confusing topics, it's important to underst
 
 ### Connecting Words to Reality
 
-- [[Taboo Your Words]]
-- [[Dissolving the Question]]
-- [[Diseased thinking— dissolving questions about disease]]
-- [[Hug the Query]]
-- [[Say Not "Complexity"]]
-- [[Mind Projection Fallacy]]
-- [[How An Algorithm Feels From Inside]]
-- [[Expecting Short Inferential Distances]]
-- [[Illusion of Transparency— Why No One Understands You]]
+- [[Taboo Your Words]] (`= [[Taboo Your Words]].status`)
+- [[Dissolving the Question]] (`= [[Dissolving the Question]].status`)
+- [[Diseased thinking— dissolving questions about disease]] (`= [[Diseased thinking— dissolving questions about disease]].status`)
+- [[Hug the Query]] (`= [[Hug the Query]].status`)
+- [[Say Not "Complexity"]] (`= [[Say Not "Complexity"]].status`)
+- [[Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
+- [[How An Algorithm Feels From Inside]] (`= [[How An Algorithm Feels From Inside]].status`)
+- [[Expecting Short Inferential Distances]] (`= [[Expecting Short Inferential Distances]].status`)
+- [[Illusion of Transparency— Why No One Understands You]] (`= [[Illusion of Transparency— Why No One Understands You]].status`)

@@ -22,11 +22,11 @@ Addressing this type of objection to “paradise engineering”, Pearce [writes]
 
 ## See Also
 
-- [[Hedonism]]
-- [[Risks of Astronomical Suffering (S-risks)|Suffering risk]]
-- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]]
-- [[Utilitarianism]]
-- [[Orgasmium|Hedonium]]
+- [[Hedonism]] (`= [[Hedonism]].status`)
+- [[Risks of Astronomical Suffering (S-risks)|Suffering risk]] (`= [[Risks of Astronomical Suffering (S-risks)|Suffering risk]].status`)
+- [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]] (`= [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]].status`)
+- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
+- [[Orgasmium|Hedonium]] (`= [[Orgasmium|Hedonium]].status`)
 
 ## External Links
 

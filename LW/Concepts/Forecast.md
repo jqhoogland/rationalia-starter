@@ -20,9 +20,9 @@ status: todo
 
 ## See Also
 
-- [[Planning Fallacy|Planning fallacy]]
-- [[Exploratory Engineering|Exploratory engineering]]
+- [[Planning Fallacy|Planning fallacy]] (`= [[Planning Fallacy|Planning fallacy]].status`)
+- [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
 - [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Possibility|possibility]]
 - [Representativeness bias](https://wiki.lesswrong.com/wiki/Representativeness_bias), [[Absurdity Heuristic|Absurdity heuristic]]
-- [[Hindsight Bias|Hindsight bias]]
-- [[Existential Risk|Existential risk]]
+- [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
+- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)

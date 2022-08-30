@@ -20,7 +20,7 @@ The [[Reversal Test|reversal test]] is a technique for recognizing fallacious co
 
 ## See Also
 
-- [[Reversal Test|Reversal test]]
-- [[Least Convenient Possible World|Least convenient possible world]]
-- [[Cached Thoughts|Cached thought]]
-- [[Sunk-Cost Fallacy|Sunk cost fallacy]]
+- [[Reversal Test|Reversal test]] (`= [[Reversal Test|Reversal test]].status`)
+- [[Least Convenient Possible World|Least convenient possible world]] (`= [[Least Convenient Possible World|Least convenient possible world]].status`)
+- [[Cached Thoughts|Cached thought]] (`= [[Cached Thoughts|Cached thought]].status`)
+- [[Sunk-Cost Fallacy|Sunk cost fallacy]] (`= [[Sunk-Cost Fallacy|Sunk cost fallacy]].status`)

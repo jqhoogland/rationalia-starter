@@ -37,4 +37,4 @@ Other discussion:
 
 ## Related Pages
 
-- [[Tool AI]]
+- [[Tool AI]] (`= [[Tool AI]].status`)

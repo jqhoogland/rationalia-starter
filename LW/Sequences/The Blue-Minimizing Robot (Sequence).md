@@ -22,19 +22,19 @@ A sequence on models of the human mind, drawing on psychology and neuroscience t
 
 ### The Blue-Minimizing Robot
 
-- [[The Blue-Minimizing Robot]]
-- [[Basics of Animal Reinforcement]]
-- [[Basics of Human Reinforcement]]
-- [[Time and Effort Discounting]]
-- [[Wanting vs. Liking Revisited]]
-- [[Prospect Theory— A Framework for Understanding Cognitive Biases]]
-- [[Physical and Mental Behavior]]
-- [[Voluntary Behavior, Conscious Thoughts]]
-- [[Trivers on Self-Deception]]
-- [[To what degree do we have goals?]]
-- [[The limits of introspection]]
-- [[Ego syntonic thoughts and values]]
-- [[Approving reinforces low-effort behaviors]]
-- [[Connectionism— Modeling the mind with neural networks]]
-- [[Secrets of the eliminati]]
-- [[Tendencies in reflective equilibrium]]
+- [[The Blue-Minimizing Robot]] (`= [[The Blue-Minimizing Robot]].status`)
+- [[Basics of Animal Reinforcement]] (`= [[Basics of Animal Reinforcement]].status`)
+- [[Basics of Human Reinforcement]] (`= [[Basics of Human Reinforcement]].status`)
+- [[Time and Effort Discounting]] (`= [[Time and Effort Discounting]].status`)
+- [[Wanting vs. Liking Revisited]] (`= [[Wanting vs. Liking Revisited]].status`)
+- [[Prospect Theory— A Framework for Understanding Cognitive Biases]] (`= [[Prospect Theory— A Framework for Understanding Cognitive Biases]].status`)
+- [[Physical and Mental Behavior]] (`= [[Physical and Mental Behavior]].status`)
+- [[Voluntary Behavior, Conscious Thoughts]] (`= [[Voluntary Behavior, Conscious Thoughts]].status`)
+- [[Trivers on Self-Deception]] (`= [[Trivers on Self-Deception]].status`)
+- [[To what degree do we have goals?]] (`= [[To what degree do we have goals?]].status`)
+- [[The limits of introspection]] (`= [[The limits of introspection]].status`)
+- [[Ego syntonic thoughts and values]] (`= [[Ego syntonic thoughts and values]].status`)
+- [[Approving reinforces low-effort behaviors]] (`= [[Approving reinforces low-effort behaviors]].status`)
+- [[Connectionism— Modeling the mind with neural networks]] (`= [[Connectionism— Modeling the mind with neural networks]].status`)
+- [[Secrets of the eliminati]] (`= [[Secrets of the eliminati]].status`)
+- [[Tendencies in reflective equilibrium]] (`= [[Tendencies in reflective equilibrium]].status`)

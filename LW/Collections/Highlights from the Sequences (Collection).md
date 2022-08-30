@@ -6,6 +6,7 @@ tags:
   - LessWrong
   - Collection
 synchedAt: '2022-08-29T11:17:15.303Z'
+status: todo
 ---
 
 # Highlights From the Sequences
@@ -20,5 +21,5 @@ To provide a quick and accessible introduction to [The Sequences](https://www.le
 
 # Books
 
-- [[Highlights from the Sequences (Book)]]
-- [[Further Reading (Highlights)]]
+- [[Highlights from the Sequences (Book)]] (`= [[Highlights from the Sequences (Book)]].status`)
+- [[Further Reading (Highlights)]] (`= [[Further Reading (Highlights)]].status`)

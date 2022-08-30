@@ -35,5 +35,5 @@ An important danger in predicting the future is that one might tell complex stor
 ## See Also
 
 - [Acceleration thesis](https://wiki.lesswrong.com/wiki/Acceleration_thesis)
-- [[Good-Story Bias|Good-story bias]]
-- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
+- [[Good-Story Bias|Good-story bias]] (`= [[Good-Story Bias|Good-story bias]].status`)
+- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]] (`= [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]].status`)

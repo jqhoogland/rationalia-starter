@@ -18,10 +18,10 @@ An **Oracle AI** is a regularly proposed solution to the problem of developing [
 
 ## See Also
 
-- [[Instrumental Convergence|Basic AI drives]]
-- [[Tool AI]]
-- [[Utility Indifference|Utility indifference]]
-- [[AI Boxing (Containment)|AI Boxing]]
+- [[Instrumental Convergence|Basic AI drives]] (`= [[Instrumental Convergence|Basic AI drives]].status`)
+- [[Tool AI]] (`= [[Tool AI]].status`)
+- [[Utility Indifference|Utility indifference]] (`= [[Utility Indifference|Utility indifference]].status`)
+- [[AI Boxing (Containment)|AI Boxing]] (`= [[AI Boxing (Containment)|AI Boxing]].status`)
 
 Safety
 ======

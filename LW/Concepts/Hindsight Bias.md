@@ -22,7 +22,7 @@ status: todo
 
 ## Related Pages
 
-- [[Forecast]]
-- [[Confirmation Bias|Positive bias]]
-- [[Debiasing]]
-- [[Black Swans|Black swan]]
+- [[Forecast]] (`= [[Forecast]].status`)
+- [[Confirmation Bias|Positive bias]] (`= [[Confirmation Bias|Positive bias]].status`)
+- [[Debiasing]] (`= [[Debiasing]].status`)
+- [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)

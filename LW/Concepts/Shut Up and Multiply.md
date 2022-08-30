@@ -36,9 +36,9 @@ The specific application of Shut Up and Multiply to the [Torture versus Dust Spe
 
 ## See Also
 
-- [[Scope Insensitivity|Scope insensitivity]]
+- [[Scope Insensitivity|Scope insensitivity]] (`= [[Scope Insensitivity|Scope insensitivity]].status`)
 - [[Fuzzies]], [utils](https://wiki.lesswrong.com/wiki/utils)
-- [[Pascal's Mugging|Pascal's mugging]]
-- [[Bite The Bullet|Bite the bullet]]
-- [[Rationality]]
+- [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
+- [[Bite The Bullet|Bite the bullet]] (`= [[Bite The Bullet|Bite the bullet]].status`)
+- [[Rationality]] (`= [[Rationality]].status`)
 - [[Utilitarianism]], [[Expected Utility|expected utility]]

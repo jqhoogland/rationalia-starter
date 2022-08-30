@@ -27,7 +27,7 @@ Exploratory engineering allows to show how some capabilities that intuitively se
 
 ## See Also
 
-- [[Rational Evidence|Rational evidence]]
-- [[Absurdity Heuristic|Absurdity heuristic]]
+- [[Rational Evidence|Rational evidence]] (`= [[Rational Evidence|Rational evidence]].status`)
+- [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
 - [[Future]], [[Forecast]]
 - [[Cryonics]], [[Intelligence Explosion|Intelligence explosion]]

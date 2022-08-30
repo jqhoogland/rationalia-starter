@@ -30,14 +30,14 @@ Our biases are part of us. But there is a shadow of Bayesianism present in us as
 
 ### Letting Go
 
-- [[Singlethink]]
-- [[The Importance of Saying "Oops"]]
-- [[The Crackpot Offer]]
-- [[Just Lose Hope Already]]
-- [[The Proper Use of Doubt]]
-- [[You Can Face Reality]]
-- [[The Meditation on Curiosity]]
-- [[No One Can Exempt You From Rationality's Laws]]
-- [[Leave a Line of Retreat]]
-- [[Crisis of Faith]]
-- [[The Ritual]]
+- [[Singlethink]] (`= [[Singlethink]].status`)
+- [[The Importance of Saying "Oops"]] (`= [[The Importance of Saying "Oops"]].status`)
+- [[The Crackpot Offer]] (`= [[The Crackpot Offer]].status`)
+- [[Just Lose Hope Already]] (`= [[Just Lose Hope Already]].status`)
+- [[The Proper Use of Doubt]] (`= [[The Proper Use of Doubt]].status`)
+- [[You Can Face Reality]] (`= [[You Can Face Reality]].status`)
+- [[The Meditation on Curiosity]] (`= [[The Meditation on Curiosity]].status`)
+- [[No One Can Exempt You From Rationality's Laws]] (`= [[No One Can Exempt You From Rationality's Laws]].status`)
+- [[Leave a Line of Retreat]] (`= [[Leave a Line of Retreat]].status`)
+- [[Crisis of Faith]] (`= [[Crisis of Faith]].status`)
+- [[The Ritual]] (`= [[The Ritual]].status`)

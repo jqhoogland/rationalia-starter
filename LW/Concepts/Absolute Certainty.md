@@ -22,9 +22,9 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 
 ## Blog Posts
 
-- [[Infinite Certainty]]
-- [[0 And 1 Are Not Probabilities]]
-- [[How to Convince Me That 2 + 2 = 3]]
+- [[Infinite Certainty]] (`= [[Infinite Certainty]].status`)
+- [[0 And 1 Are Not Probabilities]] (`= [[0 And 1 Are Not Probabilities]].status`)
+- [[How to Convince Me That 2 + 2 = 3]] (`= [[How to Convince Me That 2 + 2 = 3]].status`)
 - [[Confidence levels inside and outside an argument]] by [Yvain](https://wiki.lesswrong.com/wiki/Yvain)
 
 ## References
@@ -33,10 +33,10 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 
 ## See Also
 
-- [[Bayesian Probability|Bayesian probability]]
-- [[Scoring Rule|Scoring rule]]
-- [[Antiprediction]]
-- [[Mind Projection Fallacy|Mind projection fallacy]]
-- [[Doubt]]
+- [[Bayesian Probability|Bayesian probability]] (`= [[Bayesian Probability|Bayesian probability]].status`)
+- [[Scoring Rule|Scoring rule]] (`= [[Scoring Rule|Scoring rule]].status`)
+- [[Antiprediction]] (`= [[Antiprediction]].status`)
+- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
+- [[Doubt]] (`= [[Doubt]].status`)
 
 ---

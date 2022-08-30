@@ -20,8 +20,8 @@ status: todo
 
 ## See Also
 
-- [[Reductionism (Sequence)|Reductionism (sequence)]]
+- [[Reductionism (Sequence)|Reductionism (sequence)]] (`= [[Reductionism (Sequence)|Reductionism (sequence)]].status`)
 - [[Universal Law|Universal law]], [[Magic]]
-- [[Mind Projection Fallacy|Mind projection fallacy]]
-- [[How An Algorithm Feels|How an algorithm feels]]
-- [[Free Will|Free will]]
+- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
+- [[How An Algorithm Feels|How an algorithm feels]] (`= [[How An Algorithm Feels|How an algorithm feels]].status`)
+- [[Free Will|Free will]] (`= [[Free Will|Free will]].status`)

@@ -47,7 +47,7 @@ While this is a complete heresy according to the standard religion of Silicon Va
 
 ## See Also
 
-- [[Futility of Chaos|Futility of chaos]]
-- [[Universal Law|Universal law]]
-- [[Optimization|Optimization process]]
-- [[Artificial General Intelligence|Artificial general intelligence]]
+- [[Futility of Chaos|Futility of chaos]] (`= [[Futility of Chaos|Futility of chaos]].status`)
+- [[Universal Law|Universal law]] (`= [[Universal Law|Universal law]].status`)
+- [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+- [[Artificial General Intelligence|Artificial general intelligence]] (`= [[Artificial General Intelligence|Artificial general intelligence]].status`)

@@ -38,7 +38,7 @@ Yudkowsky's, through [[Coherent Extrapolated Volition]], has proposed that a ext
 
 ## See Also
 
-- [[Coherent Extrapolated Volition]]
-- [[Coherent Aggregated Volition]]
-- [[Complexity of Value|Complexity of value]]
+- [[Coherent Extrapolated Volition]] (`= [[Coherent Extrapolated Volition]].status`)
+- [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
 - [Fragility of value](https://wiki.lesswrong.com/wiki/Fragility_of_value)

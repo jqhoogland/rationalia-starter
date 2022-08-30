@@ -26,8 +26,8 @@ It has been observed that when someone is just starting to learn rationality, th
 
 ## See Also
 
-- [[Value of Rationality]]
-- [[Costs of Rationality|Costs of rationality]]
-- [[Dangerous Knowledge|Dangerous knowledge]]
-- [[Debiasing]]
-- [[Information Hazards]]
+- [[Value of Rationality]] (`= [[Value of Rationality]].status`)
+- [[Costs of Rationality|Costs of rationality]] (`= [[Costs of Rationality|Costs of rationality]].status`)
+- [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
+- [[Debiasing]] (`= [[Debiasing]].status`)
+- [[Information Hazards]] (`= [[Information Hazards]].status`)

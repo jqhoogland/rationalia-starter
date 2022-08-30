@@ -36,4 +36,4 @@ In addition to its practical usefulness, machine learning has also offered insig
 
 ## See Also
 
-- [[Forecasting & Prediction|Prediction]]
+- [[Forecasting & Prediction|Prediction]] (`= [[Forecasting & Prediction|Prediction]].status`)

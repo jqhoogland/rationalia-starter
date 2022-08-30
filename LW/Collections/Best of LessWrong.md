@@ -7,6 +7,7 @@ tags:
   - Collection
 synchedAt: '2022-08-29T11:17:15.364Z'
 href: https://www.lesswrong.com/collections/nmk3nLpQE89dMRzzN
+status: todo
 ---
 
 # Best of LessWrong

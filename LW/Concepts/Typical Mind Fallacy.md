@@ -22,7 +22,7 @@ The typical mind fallacy can usually be found making other fallacies worse. For 
 
 ## **See also**
 
-- [[Mind Projection Fallacy]]
-- [[Human Universal|Human universal]]
-- [[Correspondence Bias|Correspondence bias]]
+- [[Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
+- [[Human Universal|Human universal]] (`= [[Human Universal|Human universal]].status`)
+- [[Correspondence Bias|Correspondence bias]] (`= [[Correspondence Bias|Correspondence bias]].status`)
 - [What universal human experience are you missing?](https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it)

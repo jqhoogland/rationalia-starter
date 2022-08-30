@@ -27,10 +27,10 @@ A **third option** is a way to break a [[False Dilemma|false dilemma]], showing 
 
 ## See Also
 
-- [[False Dilemma|False dilemma]]
-- [[Blues & Greens (metaphor)|Color politics]]
-- [[Black Swans|Black swan]]
-- [[Defensibility]]
-- [[Arguments As Soldiers|Arguments as soldiers]]
-- [[Motivated Reasoning|Motivated cognition]]
-- [[Challenging The Difficult|Challenging the Difficult]]
+- [[False Dilemma|False dilemma]] (`= [[False Dilemma|False dilemma]].status`)
+- [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
+- [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)
+- [[Defensibility]] (`= [[Defensibility]].status`)
+- [[Arguments As Soldiers|Arguments as soldiers]] (`= [[Arguments As Soldiers|Arguments as soldiers]].status`)
+- [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
+- [[Challenging The Difficult|Challenging the Difficult]] (`= [[Challenging The Difficult|Challenging the Difficult]].status`)

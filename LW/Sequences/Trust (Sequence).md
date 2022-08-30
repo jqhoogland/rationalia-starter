@@ -28,19 +28,19 @@ A trained machine learning system off-distribution? These are questions where we
 
 ### Trust
 
-- [[Rule Thinkers In, Not Out]]
-- [[Gears vs Behavior]]
-- [[Book Review— The Secret Of Our Success]]
-- [[Reason isn't magic]]
-- [["Other people are wrong" vs "I am right"]]
-- [[In My Culture]]
-- [[Chris Olah’s views on AGI safety]]
-- [[Understanding “Deep Double Descent”]]
-- [[How to Ignore Your Emotions (while also thinking you're awesome at emotions)]]
-- [[Paper-Reading for Gears]]
-- [[Book summary— Unlocking the Emotional Brain]]
-- [[Noticing Frame Differences]]
-- [[Propagating Facts into Aesthetics]]
-- [[Do you fear the rock or the hard place?]]
-- [[Mental Mountains]]
-- [[Steelmanning Divination]]
+- [[Rule Thinkers In, Not Out]] (`= [[Rule Thinkers In, Not Out]].status`)
+- [[Gears vs Behavior]] (`= [[Gears vs Behavior]].status`)
+- [[Book Review— The Secret Of Our Success]] (`= [[Book Review— The Secret Of Our Success]].status`)
+- [[Reason isn't magic]] (`= [[Reason isn't magic]].status`)
+- [["Other people are wrong" vs "I am right"]] (`= [["Other people are wrong" vs "I am right"]].status`)
+- [[In My Culture]] (`= [[In My Culture]].status`)
+- [[Chris Olah’s views on AGI safety]] (`= [[Chris Olah’s views on AGI safety]].status`)
+- [[Understanding “Deep Double Descent”]] (`= [[Understanding “Deep Double Descent”]].status`)
+- [[How to Ignore Your Emotions (while also thinking you're awesome at emotions)]] (`= [[How to Ignore Your Emotions (while also thinking you're awesome at emotions)]].status`)
+- [[Paper-Reading for Gears]] (`= [[Paper-Reading for Gears]].status`)
+- [[Book summary— Unlocking the Emotional Brain]] (`= [[Book summary— Unlocking the Emotional Brain]].status`)
+- [[Noticing Frame Differences]] (`= [[Noticing Frame Differences]].status`)
+- [[Propagating Facts into Aesthetics]] (`= [[Propagating Facts into Aesthetics]].status`)
+- [[Do you fear the rock or the hard place?]] (`= [[Do you fear the rock or the hard place?]].status`)
+- [[Mental Mountains]] (`= [[Mental Mountains]].status`)
+- [[Steelmanning Divination]] (`= [[Steelmanning Divination]].status`)

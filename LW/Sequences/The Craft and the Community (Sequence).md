@@ -30,25 +30,25 @@ Above all: What’s missing? What should be in the next generation of rationalit
 
 ### The Craft and the Community
 
-- [[Raising the Sanity Waterline]]
-- [[A Sense That More Is Possible]]
-- [[Epistemic Viciousness]]
-- [[Schools Proliferating Without Evidence]]
-- [[3 Levels of Rationality Verification]]
-- [[Why Our Kind Can't Cooperate]]
-- [[Tolerate Tolerance]]
-- [[Your Price for Joining]]
-- [[Can Humanism Match Religion's Output?]]
-- [[Church vs. Taskforce]]
-- [[Rationality— Common Interest of Many Causes]]
-- [[Helpless Individuals]]
-- [[Money— The Unit of Caring]]
-- [[Purchase Fuzzies and Utilons Separately]]
-- [[Bystander Apathy]]
-- [[Collective Apathy and the Internet]]
-- [[Incremental Progress and the Valley]]
-- [[Bayesians vs. Barbarians]]
-- [[Beware of Other-Optimizing]]
-- [[Practical Advice Backed By Deep Theories]]
-- [[The Sin of Underconfidence]]
-- [[Go Forth and Create the Art!]]
+- [[Raising the Sanity Waterline]] (`= [[Raising the Sanity Waterline]].status`)
+- [[A Sense That More Is Possible]] (`= [[A Sense That More Is Possible]].status`)
+- [[Epistemic Viciousness]] (`= [[Epistemic Viciousness]].status`)
+- [[Schools Proliferating Without Evidence]] (`= [[Schools Proliferating Without Evidence]].status`)
+- [[3 Levels of Rationality Verification]] (`= [[3 Levels of Rationality Verification]].status`)
+- [[Why Our Kind Can't Cooperate]] (`= [[Why Our Kind Can't Cooperate]].status`)
+- [[Tolerate Tolerance]] (`= [[Tolerate Tolerance]].status`)
+- [[Your Price for Joining]] (`= [[Your Price for Joining]].status`)
+- [[Can Humanism Match Religion's Output?]] (`= [[Can Humanism Match Religion's Output?]].status`)
+- [[Church vs. Taskforce]] (`= [[Church vs. Taskforce]].status`)
+- [[Rationality— Common Interest of Many Causes]] (`= [[Rationality— Common Interest of Many Causes]].status`)
+- [[Helpless Individuals]] (`= [[Helpless Individuals]].status`)
+- [[Money— The Unit of Caring]] (`= [[Money— The Unit of Caring]].status`)
+- [[Purchase Fuzzies and Utilons Separately]] (`= [[Purchase Fuzzies and Utilons Separately]].status`)
+- [[Bystander Apathy]] (`= [[Bystander Apathy]].status`)
+- [[Collective Apathy and the Internet]] (`= [[Collective Apathy and the Internet]].status`)
+- [[Incremental Progress and the Valley]] (`= [[Incremental Progress and the Valley]].status`)
+- [[Bayesians vs. Barbarians]] (`= [[Bayesians vs. Barbarians]].status`)
+- [[Beware of Other-Optimizing]] (`= [[Beware of Other-Optimizing]].status`)
+- [[Practical Advice Backed By Deep Theories]] (`= [[Practical Advice Backed By Deep Theories]].status`)
+- [[The Sin of Underconfidence]] (`= [[The Sin of Underconfidence]].status`)
+- [[Go Forth and Create the Art!]] (`= [[Go Forth and Create the Art!]].status`)

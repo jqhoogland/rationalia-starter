@@ -26,7 +26,7 @@ Predictions markets have been used by organizations such as Google, General Elec
 - [Economic consequences of AI and whole brain emulation](https://lessestwrong.com/tag/economic-consequences-of-ai-and-whole-brain-emulation)
 - [Group rationality](https://lessestwrong.com/tag/group-rationality)
 - [Making beliefs pay rent](https://lessestwrong.com/tag/making-beliefs-pay-rent)
-- [[QURI]]
+- [[QURI]] (`= [[QURI]].status`)
 
 ## External Posts
 

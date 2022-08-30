@@ -36,11 +36,11 @@ Consequentialism is often associated with maximizing the [[Expected Utility|expe
 
 ## See Also
 
-- [[Utilitarianism]]
+- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
 - [[Utility]], [[Utility Functions|utility function]], [[Expected Utility|expected utility]]
-- [[Metaethics Sequence|Metaethics sequence]]
-- [[Ethical Injunction|Ethical injunction]]
-- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
+- [[Ethical Injunction|Ethical injunction]] (`= [[Ethical Injunction|Ethical injunction]].status`)
+- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [Hedons](https://wiki.lesswrong.com/wiki/Hedons), [utils](https://wiki.lesswrong.com/wiki/utils), [[Fuzzies|fuzzies]]
 
 ## References

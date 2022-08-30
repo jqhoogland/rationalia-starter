@@ -24,7 +24,7 @@ Persisting in clutching to a hope may be disastrous. Be ready to admit you lost,
 
 ## See Also
 
-- [[Fuzzies]]
-- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Fuzzies]] (`= [[Fuzzies]].status`)
+- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [Lotteries](https://wiki.lesswrong.com/wiki/Lotteries)
-- [[Oops]]
+- [[Oops]] (`= [[Oops]].status`)

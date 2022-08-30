@@ -26,5 +26,5 @@ A non-fallacious interpretation of teleology is as the study of things that happ
 
 ## See Also
 
-- [[Causality]]
+- [[Causality]] (`= [[Causality]].status`)
 - [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)

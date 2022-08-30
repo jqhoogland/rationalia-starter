@@ -42,4 +42,4 @@ Goertzel proposed a "Nanny AI"([Should humanity build a global AI nanny to delay
 ## See Also
 
 - [FAI](https://wiki.lesswrong.com/wiki/FAI)
-- [[AI-Complete|AI-complete]]
+- [[AI-Complete|AI-complete]] (`= [[AI-Complete|AI-complete]].status`)

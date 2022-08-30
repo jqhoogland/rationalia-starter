@@ -72,13 +72,13 @@ Links
 See also
 ========
 
-- [[Artificial General Intelligence|Artificial general intelligence]]
-- [[Complexity of Value|Complexity of value]]
-- [[Magical Categories|Magical categories]]
+- [[Artificial General Intelligence|Artificial general intelligence]] (`= [[Artificial General Intelligence|Artificial general intelligence]].status`)
+- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Magical Categories|Magical categories]] (`= [[Magical Categories|Magical categories]].status`)
 - [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [[Intelligence Explosion|intelligence explosion]]
 - [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]], [[Paperclip Maximizer|paperclip maximizer]]
-- [[Fun Theory|Fun theory]]
-- [[Detached Lever Fallacy|Detached lever fallacy]]
+- [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)
+- [[Detached Lever Fallacy|Detached lever fallacy]] (`= [[Detached Lever Fallacy|Detached lever fallacy]].status`)
 
 ## References
 

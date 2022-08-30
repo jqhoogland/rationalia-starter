@@ -31,6 +31,6 @@ When possible, take the [[Outside View|outside view]]. Avoid estimating the time
 
 ## See Also
 
-- [[Outside View|Outside view]]
-- [[Far Thinking|Near/far thinking]]
-- [[Forecast]]
+- [[Outside View|Outside view]] (`= [[Outside View|Outside view]].status`)
+- [[Far Thinking|Near/far thinking]] (`= [[Far Thinking|Near/far thinking]].status`)
+- [[Forecast]] (`= [[Forecast]].status`)

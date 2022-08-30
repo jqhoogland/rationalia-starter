@@ -37,5 +37,5 @@ Goertzel has responded to [[Eliezer Yudkowsky]]'s [[Coherent Extrapolated Voliti
 
 ## See Also
 
-- [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]]
-- [[Coherent Aggregated Volition]]
+- [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]] (`= [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]].status`)
+- [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)

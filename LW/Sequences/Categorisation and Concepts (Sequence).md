@@ -20,11 +20,11 @@ status: todo
 
 ### Categorisation and Concepts
 
-- [[Diseased thinking— dissolving questions about disease]]
-- [[The Categories Were Made For Man, Not Man For The Categories]]
-- [[The noncentral fallacy - the worst argument in the world?]]
-- [[Ethnic Tension And Meaningless Arguments]]
+- [[Diseased thinking— dissolving questions about disease]] (`= [[Diseased thinking— dissolving questions about disease]].status`)
+- [[The Categories Were Made For Man, Not Man For The Categories]] (`= [[The Categories Were Made For Man, Not Man For The Categories]].status`)
+- [[The noncentral fallacy - the worst argument in the world?]] (`= [[The noncentral fallacy - the worst argument in the world?]].status`)
+- [[Ethnic Tension And Meaningless Arguments]] (`= [[Ethnic Tension And Meaningless Arguments]].status`)
 
 ### Interlude
 
-- [[The Moral Of The Story]]
+- [[The Moral Of The Story]] (`= [[The Moral Of The Story]].status`)

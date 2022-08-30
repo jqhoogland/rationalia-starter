@@ -10,6 +10,7 @@ tags:
   - Tag
   - AI
 synchedAt: '2022-08-29T20:29:02.655Z'
+status: todo
 ---
 
 # AI Risk

@@ -33,5 +33,5 @@ As Wallach and Allen pose it, “even if full moral agency for machines is a lon
 
 ## See Also
 
-- [[Utility]]
-- [[Utilitarianism]]
+- [[Utility]] (`= [[Utility]].status`)
+- [[Utilitarianism]] (`= [[Utilitarianism]].status`)

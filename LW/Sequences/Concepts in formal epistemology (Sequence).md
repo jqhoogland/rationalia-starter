@@ -20,8 +20,8 @@ A set of introductory posts on inference, probability, decision-making, and logi
 
 ### Concepts in Formal Epistemology
 
-- [[Interpretations of "probability"]]
-- [[Correspondence visualizations for different interpretations of "probability"]]
-- [[Probability interpretations— Examples]]
-- [[Coherent decisions imply consistent utilities]]
-- [[A Semitechnical Introductory Dialogue on Solomonoff Induction]]
+- [[Interpretations of "probability"]] (`= [[Interpretations of "probability"]].status`)
+- [[Correspondence visualizations for different interpretations of "probability"]] (`= [[Correspondence visualizations for different interpretations of "probability"]].status`)
+- [[Probability interpretations— Examples]] (`= [[Probability interpretations— Examples]].status`)
+- [[Coherent decisions imply consistent utilities]] (`= [[Coherent decisions imply consistent utilities]].status`)
+- [[A Semitechnical Introductory Dialogue on Solomonoff Induction]] (`= [[A Semitechnical Introductory Dialogue on Solomonoff Induction]].status`)

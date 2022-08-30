@@ -37,4 +37,4 @@ There is a short inferential distance between you and the physicist; there is a 
 - [Modesty argument](https://lessestwrong.com/tag/modesty-argument)
 - [Illusion of transparency](https://lessestwrong.com/tag/illusion-of-transparency)
 - [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
-- [[Common Knowledge]]
+- [[Common Knowledge]] (`= [[Common Knowledge]].status`)

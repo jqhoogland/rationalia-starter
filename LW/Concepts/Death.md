@@ -20,7 +20,7 @@ First you're there, and then you're not there, and they can't change you from be
 
 ## See Also
 
-- [[Cryonics]]
-- [[Shut Up and Multiply|Shut up and multiply]]
-- [[Transhumanism]]
-- [[Personal Identity|Personal identity]]
+- [[Cryonics]] (`= [[Cryonics]].status`)
+- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Transhumanism]] (`= [[Transhumanism]].status`)
+- [[Personal Identity|Personal identity]] (`= [[Personal Identity|Personal identity]].status`)

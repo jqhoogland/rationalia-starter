@@ -20,21 +20,21 @@ The final sequence in this book tie these ideas together, and draws some conclus
 
 ### Science and Rationality
 
-- [[The Failures of Eld Science]]
-- [[The Dilemma— Science or Bayes?]]
-- [[Science Doesn't Trust Your Rationality]]
-- [[When Science Can't Help]]
-- [[Science Isn't Strict Enough]]
-- [[Do Scientists Already Know This Stuff?]]
-- [[No Safe Defense, Not Even Science]]
-- [[Changing the Definition of Science]]
-- [[Faster Than Science]]
-- [[Einstein's Speed]]
-- [[That Alien Message]]
-- [[My Childhood Role Model]]
-- [[Einstein's Superpowers]]
-- [[Class Project]]
+- [[The Failures of Eld Science]] (`= [[The Failures of Eld Science]].status`)
+- [[The Dilemma— Science or Bayes?]] (`= [[The Dilemma— Science or Bayes?]].status`)
+- [[Science Doesn't Trust Your Rationality]] (`= [[Science Doesn't Trust Your Rationality]].status`)
+- [[When Science Can't Help]] (`= [[When Science Can't Help]].status`)
+- [[Science Isn't Strict Enough]] (`= [[Science Isn't Strict Enough]].status`)
+- [[Do Scientists Already Know This Stuff?]] (`= [[Do Scientists Already Know This Stuff?]].status`)
+- [[No Safe Defense, Not Even Science]] (`= [[No Safe Defense, Not Even Science]].status`)
+- [[Changing the Definition of Science]] (`= [[Changing the Definition of Science]].status`)
+- [[Faster Than Science]] (`= [[Faster Than Science]].status`)
+- [[Einstein's Speed]] (`= [[Einstein's Speed]].status`)
+- [[That Alien Message]] (`= [[That Alien Message]].status`)
+- [[My Childhood Role Model]] (`= [[My Childhood Role Model]].status`)
+- [[Einstein's Superpowers]] (`= [[Einstein's Superpowers]].status`)
+- [[Class Project]] (`= [[Class Project]].status`)
 
 ### Interlude
 
-- [[A Technical Explanation of Technical Explanation]]
+- [[A Technical Explanation of Technical Explanation]] (`= [[A Technical Explanation of Technical Explanation]].status`)

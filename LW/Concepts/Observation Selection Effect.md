@@ -34,7 +34,7 @@ One approach to anthropic reasoning that has [sometimes](http://lesswrong.com/lw
 
 - [Outlawing anthropics: an updateless dilemma](http://lesswrong.com/lw/17c/anthropic_updatelessness/)
 - [The anthropic trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/)
-- [[Anthropic|Posts tagged "anthropic"]]
+- [[Anthropic|Posts tagged "anthropic"]] (`= [[Anthropic|Posts tagged "anthropic"]].status`)
 
 ## External Links
 
@@ -44,6 +44,6 @@ One approach to anthropic reasoning that has [sometimes](http://lesswrong.com/lw
 
 ## See Also
 
-- [[Doomsday Argument|Doomsday argument]]
-- [[Great Filter]]
-- [[Decision Theory|Decision theory]]
+- [[Doomsday Argument|Doomsday argument]] (`= [[Doomsday Argument|Doomsday argument]].status`)
+- [[Great Filter]] (`= [[Great Filter]].status`)
+- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)

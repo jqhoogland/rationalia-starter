@@ -25,6 +25,6 @@ Knowledge of cognitive biases can itself allow someone to form fully general cou
 
 ## See Also
 
-- [[Dangerous Knowledge|Dangerous knowledge]]
-- [[Anti-Epistemology|Anti-epistemology]]
-- [[Motivated Reasoning|Motivated cognition]]
+- [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
+- [[Anti-Epistemology|Anti-epistemology]] (`= [[Anti-Epistemology|Anti-epistemology]].status`)
+- [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)

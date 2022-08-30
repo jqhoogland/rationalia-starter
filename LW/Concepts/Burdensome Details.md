@@ -22,6 +22,6 @@ The conjunction rule of probability theory states that a conjunction (A and B) i
 
 ## See Also
 
-- [[Conjunction Fallacy|Conjunction fallacy]]
-- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Conjunction Fallacy|Conjunction fallacy]] (`= [[Conjunction Fallacy|Conjunction fallacy]].status`)
+- [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
 - [[Occam's Razor|Occam's razor]], [[Epistemic Hygiene|Epistemic hygiene]]

@@ -75,8 +75,8 @@ To make this easier there is now a tentative file format for representing a game
 
 ## See Also
 
-- [[Group Rationality|Group rationality]]
-- [[Less Wrong Meetup Group Resources|Less Wrong meetup group resources]]
-- [[Bayesian Probability|Bayesian probability]]
+- [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
+- [[Less Wrong Meetup Group Resources|Less Wrong meetup group resources]] (`= [[Less Wrong Meetup Group Resources|Less Wrong meetup group resources]].status`)
+- [[Bayesian Probability|Bayesian probability]] (`= [[Bayesian Probability|Bayesian probability]].status`)
 - [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
-- [[Calibration]]
+- [[Calibration]] (`= [[Calibration]].status`)

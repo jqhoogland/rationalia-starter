@@ -34,7 +34,7 @@ Another cause of mind-killers is social taboo. Negative [[Connotation|connotatio
 
 ## Sequences
 
-- [[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
+- [[Politics Is The Mind-Killer|Politics is the Mind-Killer]] (`= [[Politics Is The Mind-Killer|Politics is the Mind-Killer]].status`)
 
 ## Blog Posts
 
@@ -48,9 +48,9 @@ Another cause of mind-killers is social taboo. Negative [[Connotation|connotatio
 
 ## See Also
 
-- [[Blues & Greens (metaphor)|Color politics]]
-- [[Epistemic Hygiene|Epistemic hygiene]]
-- [[Affect Heuristic|Affect heuristic]]
-- [[Dark Arts|Dark arts]]
-- [[Signaling]]
-- [[Narrative Fallacy|Narrative fallacy]]
+- [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
+- [[Epistemic Hygiene|Epistemic hygiene]] (`= [[Epistemic Hygiene|Epistemic hygiene]].status`)
+- [[Affect Heuristic|Affect heuristic]] (`= [[Affect Heuristic|Affect heuristic]].status`)
+- [[Dark Arts|Dark arts]] (`= [[Dark Arts|Dark arts]].status`)
+- [[Signaling]] (`= [[Signaling]].status`)
+- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)

@@ -28,12 +28,12 @@ These are all deep questions that functional groups must answer, and this book w
 
 ### Coordination
 
-- [[Anti-social Punishment]]
-- [[The Costly Coordination Mechanism of Common Knowledge]]
-- [[The Intelligent Social Web]]
-- [[Prediction Markets— When Do They Work?]]
-- [[Spaghetti Towers]]
-- [[On the Loss and Preservation of Knowledge]]
-- [[A voting theory primer for rationalists]]
-- [[The Pavlov Strategy]]
-- [[Inadequate Equilibria vs. Governance of the Commons]]
+- [[Anti-social Punishment]] (`= [[Anti-social Punishment]].status`)
+- [[The Costly Coordination Mechanism of Common Knowledge]] (`= [[The Costly Coordination Mechanism of Common Knowledge]].status`)
+- [[The Intelligent Social Web]] (`= [[The Intelligent Social Web]].status`)
+- [[Prediction Markets— When Do They Work?]] (`= [[Prediction Markets— When Do They Work?]].status`)
+- [[Spaghetti Towers]] (`= [[Spaghetti Towers]].status`)
+- [[On the Loss and Preservation of Knowledge]] (`= [[On the Loss and Preservation of Knowledge]].status`)
+- [[A voting theory primer for rationalists]] (`= [[A voting theory primer for rationalists]].status`)
+- [[The Pavlov Strategy]] (`= [[The Pavlov Strategy]].status`)
+- [[Inadequate Equilibria vs. Governance of the Commons]] (`= [[Inadequate Equilibria vs. Governance of the Commons]].status`)

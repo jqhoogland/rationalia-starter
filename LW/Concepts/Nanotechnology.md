@@ -33,5 +33,5 @@ When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the developm
 
 ## See Also
 
-- [[Exploratory Engineering|Exploratory engineering]]
+- [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
 - [[Rational Evidence|Rational evidence]], [[Science]]

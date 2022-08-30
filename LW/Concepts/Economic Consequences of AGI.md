@@ -43,4 +43,4 @@ Others predict that growth will blow up even more suddenly (up to the point wher
 - [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)
 - [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff), [Soft takeoff](https://wiki.lesswrong.com/wiki/Soft_takeoff)
 - [[Artificial General Intelligence|Artificial general intelligence]], [[Whole Brain Emulation]]
-- [[Technological Forecasting|Technological forecasting]]
+- [[Technological Forecasting|Technological forecasting]] (`= [[Technological Forecasting|Technological forecasting]].status`)

@@ -26,5 +26,5 @@ In Newcomb's Problem, an FDT agent reasons that Omega must have used some kind o
 
 **See Also:**
 
-- [[Timeless Decision Theory]]
-- [[Updateless Decision Theory]]
+- [[Timeless Decision Theory]] (`= [[Timeless Decision Theory]].status`)
+- [[Updateless Decision Theory]] (`= [[Updateless Decision Theory]].status`)

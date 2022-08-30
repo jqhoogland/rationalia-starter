@@ -24,14 +24,14 @@ While beliefs are subjective, that doesn't mean that one gets to choose their be
 
 ### The Laws Governing Belief
 
-- [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
-- [[What is Evidence?]]
-- [[Scientific Evidence, Legal Evidence, Rational Evidence]]
-- [[How Much Evidence Does It Take?]]
-- [[Absence of Evidence Is Evidence of Absence]]
-- [[Conservation of Expected Evidence]]
-- [[Argument Screens Off Authority]]
-- [[An Intuitive Explanation of Bayes's Theorem]]
-- [[The Second Law of Thermodynamics, and Engines of Cognition]]
-- [[Toolbox-thinking and Law-thinking]]
-- [[Local Validity as a Key to Sanity and Civilization]]
+- [[Making Beliefs Pay Rent (in Anticipated Experiences)]] (`= [[Making Beliefs Pay Rent (in Anticipated Experiences)]].status`)
+- [[What is Evidence?]] (`= [[What is Evidence?]].status`)
+- [[Scientific Evidence, Legal Evidence, Rational Evidence]] (`= [[Scientific Evidence, Legal Evidence, Rational Evidence]].status`)
+- [[How Much Evidence Does It Take?]] (`= [[How Much Evidence Does It Take?]].status`)
+- [[Absence of Evidence Is Evidence of Absence]] (`= [[Absence of Evidence Is Evidence of Absence]].status`)
+- [[Conservation of Expected Evidence]] (`= [[Conservation of Expected Evidence]].status`)
+- [[Argument Screens Off Authority]] (`= [[Argument Screens Off Authority]].status`)
+- [[An Intuitive Explanation of Bayes's Theorem]] (`= [[An Intuitive Explanation of Bayes's Theorem]].status`)
+- [[The Second Law of Thermodynamics, and Engines of Cognition]] (`= [[The Second Law of Thermodynamics, and Engines of Cognition]].status`)
+- [[Toolbox-thinking and Law-thinking]] (`= [[Toolbox-thinking and Law-thinking]].status`)
+- [[Local Validity as a Key to Sanity and Civilization]] (`= [[Local Validity as a Key to Sanity and Civilization]].status`)

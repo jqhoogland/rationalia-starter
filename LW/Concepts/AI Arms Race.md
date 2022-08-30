@@ -9,6 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-08-29T11:05:45.121Z'
+status: todo
 ---
 
 # AI Arms Race

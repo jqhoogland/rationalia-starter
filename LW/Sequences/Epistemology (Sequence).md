@@ -26,13 +26,13 @@ From practical heuristics to idealized cognitive algorithms, this book is about 
 
 ### Epistemology
 
-- [[A Sketch of Good Communication]]
-- [[Babble]]
-- [[Local Validity as a Key to Sanity and Civilization]]
-- [[The Loudest Alarm Is Probably False]]
-- [[Varieties Of Argumentative Experience]]
-- [[More Babble]]
-- [[Naming the Nameless]]
-- [[Toolbox-thinking and Law-thinking]]
-- [[Prune]]
-- [[Towards a New Impact Measure]]
+- [[A Sketch of Good Communication]] (`= [[A Sketch of Good Communication]].status`)
+- [[Babble]] (`= [[Babble]].status`)
+- [[Local Validity as a Key to Sanity and Civilization]] (`= [[Local Validity as a Key to Sanity and Civilization]].status`)
+- [[The Loudest Alarm Is Probably False]] (`= [[The Loudest Alarm Is Probably False]].status`)
+- [[Varieties Of Argumentative Experience]] (`= [[Varieties Of Argumentative Experience]].status`)
+- [[More Babble]] (`= [[More Babble]].status`)
+- [[Naming the Nameless]] (`= [[Naming the Nameless]].status`)
+- [[Toolbox-thinking and Law-thinking]] (`= [[Toolbox-thinking and Law-thinking]].status`)
+- [[Prune]] (`= [[Prune]].status`)
+- [[Towards a New Impact Measure]] (`= [[Towards a New Impact Measure]].status`)

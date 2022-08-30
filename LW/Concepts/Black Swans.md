@@ -24,7 +24,7 @@ Considering some event a black swan doesn't give a leave to not assign any proba
 
 ## See Also
 
-- [[Narrative Fallacy|Narrative fallacy]]
-- [[Hindsight Bias|Hindsight bias]]
+- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
+- [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
 - [I don't know](https://www.lesswrong.com/tag/i-dont-know)
 - [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Forecast|forecast]]

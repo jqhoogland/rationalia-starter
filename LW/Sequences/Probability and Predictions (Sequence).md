@@ -22,13 +22,13 @@ It gets worse. People who say there’s only a 1 in 100,000 chance they’re wro
 
 ### Probability and Predictions
 
-- [[The Pyramid And The Garden]]
-- [[On Overconfidence]]
-- [[If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics]]
-- [[Techniques for probability estimates]]
-- [[Confidence levels inside and outside an argument]]
+- [[The Pyramid And The Garden]] (`= [[The Pyramid And The Garden]].status`)
+- [[On Overconfidence]] (`= [[On Overconfidence]].status`)
+- [[If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics]] (`= [[If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics]].status`)
+- [[Techniques for probability estimates]] (`= [[Techniques for probability estimates]].status`)
+- [[Confidence levels inside and outside an argument]] (`= [[Confidence levels inside and outside an argument]].status`)
 
 ### Interlude
 
-- [[The Logician And The God-Emperor]]
-- [[Reverse Psychology]]
+- [[The Logician And The God-Emperor]] (`= [[The Logician And The God-Emperor]].status`)
+- [[Reverse Psychology]] (`= [[Reverse Psychology]].status`)

@@ -18,10 +18,10 @@ status: todo
 
 ### Hypotheses and Hunches
 
-- [[The Atomic Bomb Considered As Hungarian High School Science Fair Project]]
-- [[It’s Bayes All The Way Up]]
-- [[Why Are Transgender People Immune To Optical Illusions?]]
+- [[The Atomic Bomb Considered As Hungarian High School Science Fair Project]] (`= [[The Atomic Bomb Considered As Hungarian High School Science Fair Project]].status`)
+- [[It’s Bayes All The Way Up]] (`= [[It’s Bayes All The Way Up]].status`)
+- [[Why Are Transgender People Immune To Optical Illusions?]] (`= [[Why Are Transgender People Immune To Optical Illusions?]].status`)
 
 ### Interlude
 
-- [[The Case Of The Suffocating Woman]]
+- [[The Case Of The Suffocating Woman]] (`= [[The Case Of The Suffocating Woman]].status`)

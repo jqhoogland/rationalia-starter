@@ -31,6 +31,6 @@ Without an [[Inductive Bias|inductive bias]], restricting attention to only a sm
 
 ## See Also
 
-- [[Locate The Hypothesis|Locate the hypothesis]]
-- [[Inductive Bias|Inductive bias]]
-- [[Configuration Space|Configuration space]]
+- [[Locate The Hypothesis|Locate the hypothesis]] (`= [[Locate The Hypothesis|Locate the hypothesis]].status`)
+- [[Inductive Bias|Inductive bias]] (`= [[Inductive Bias|Inductive bias]].status`)
+- [[Configuration Space|Configuration space]] (`= [[Configuration Space|Configuration space]].status`)

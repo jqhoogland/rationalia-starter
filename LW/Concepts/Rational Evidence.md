@@ -36,4 +36,4 @@ The [[Science|scientific method]] can be viewed as a special standard of admissi
 - [[Evidence]], [[Standard of Evidence|Standard of evidence]]
 - [[Bayes' Theorem|Bayes' theorem]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
 - [[Traditional Rationality|Traditional rationality]], [[Epistemic Hygiene|Epistemic hygiene]]
-- [[Exploratory Engineering|Exploratory engineering]]
+- [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)

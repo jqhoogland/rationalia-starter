@@ -30,7 +30,7 @@ A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [[Reductionism (Seq
 - [The Beauty of Settled Science](http://lesswrong.com/lw/ow/the_beauty_of_settled_science/)
 - [Amazing Breakthrough Day: April 1st](http://lesswrong.com/lw/ox/amazing_breakthrough_day_april_1st/)
 - [Is Humanism a Religion-Substitute?](http://lesswrong.com/lw/oy/is_humanism_a_religionsubstitute/)
-- [[Scarcity]]
+- [[Scarcity]] (`= [[Scarcity]].status`)
 - [To Spread Science, Keep It Secret](http://lesswrong.com/lw/p0/to_spread_science_keep_it_secret/)
 - [Initiation Ceremony](http://lesswrong.com/lw/p1/initiation_ceremony/)
 - [Awww, a Zebra](http://lesswrong.com/lw/uf/awww_a_zebra/)
@@ -39,4 +39,4 @@ A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [[Reductionism (Seq
 
 - [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/) (and [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/))
 - [[Reality Is Normal|Reality is normal]], [Egan's Law](https://wiki.lesswrong.com/wiki/Egan's_Law)
-- [[Joy In Discovery|Joy in discovery]]
+- [[Joy In Discovery|Joy in discovery]] (`= [[Joy In Discovery|Joy in discovery]].status`)

@@ -31,8 +31,8 @@ When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist 
 ## See Also
 
 - [[Curiosity]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
-- [[Improper Belief|Improper belief]]
+- [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
 - [[Fake Simplicity|Fake simplicity]], [[Cached Thoughts|Cached thought]]
 - [[Anti-Epistemology|Anti-epistemology]], [[Logical Rudeness|Logical rudeness]]
 - [[Rationalist Taboo|Rationalist taboo]], [[Epistemic Hygiene|Epistemic hygiene]]
-- [[Phlogiston]]
+- [[Phlogiston]] (`= [[Phlogiston]].status`)

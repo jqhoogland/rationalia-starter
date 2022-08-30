@@ -27,10 +27,10 @@ A weaker extension of this principle applies to ethical and metaethical debates,
 
 ## See Also
 
-- [[Reality Is Normal|Reality is normal]]
-- [[Quantum Mechanics|Quantum mechanics]]
-- [[Metaethics Sequence|Metaethics sequence]]
-- [[Occam's Razor|Occam's razor]]
+- [[Reality Is Normal|Reality is normal]] (`= [[Reality Is Normal|Reality is normal]].status`)
+- [[Quantum Mechanics|Quantum mechanics]] (`= [[Quantum Mechanics|Quantum mechanics]].status`)
+- [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
+- [[Occam's Razor|Occam's razor]] (`= [[Occam's Razor|Occam's razor]].status`)
 
 \[1\] After the science fiction writer [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan), who first wrote this phrase in [Quarantine](https://en.wikipedia.org/wiki/Quarantine_(Egan_novel)).
 
