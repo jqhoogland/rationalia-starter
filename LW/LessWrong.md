@@ -1,6 +1,6 @@
 ---
 href: https://www.lesswrong.com/about
-status: done
+status: todo
 aliases:
   - LW
 ---
@@ -23,9 +23,11 @@ The [[Reading Orders]] page lists a few different ways you might want to approac
 - Start with [[Highlights from the Sequences (Collection)|the highlighted posts]] (recommended).
 - Read through [[Rationality— A-Z|The Sequences]], [[HPMOR]], & [[The Codex]].
 - Follow one of alternative [[Reading Orders]] proposed by various LessWrong readers over the years.
-- Look up a relevant [[Concepts|concept]] and move on from there.
+- Look up a relevant concept and move on from there.
 
-All of LessWrong's content depends on all the other content, so there isn't one correct way to go through everything. Just try stuff out. [[Steelmanning Divination|Embrace randomness]] and tap the random button to work your way through the content as the pseudo-random number generators wish it.
+All of LessWrong's content depends on all the other content, so there isn't one correct way to go through everything. Just try stuff out. You can also [[Steelmanning Divination|embrace randomness]] and tap the random button to work your way through the content as the pseudo-random number generators wish it (see below).
+
+![[random-button.png|200]]
 
 # Structure
 

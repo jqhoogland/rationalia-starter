@@ -76,9 +76,30 @@ const syncNote = async (editor: Editor, view: MarkdownView) => {
 		case 'post': 
 			return syncPost(editor, view, frontmatter)
 		default: 
-			new Notice("Frontmatter has invalid `type`")
-			return
+			return syncMisc(editor, view, frontmatter)
 	}
+}
+
+const syncMisc = async (editor: Editor, view: MarkdownView, frontmatter: { [key: string]: any}) => {
+	const lines = view.data.split("\n");
+	const lineIndex = lines.slice(1).findIndex(line => line.startsWith("---")) + 1;
+	const head = {
+		line: lineIndex,
+		ch: 3
+	}
+
+	// Update frontmatter
+	const newFrontmatter: typeof frontmatter = {
+		...frontmatter,
+		status: frontmatter?.status ?? "todo"
+	}
+
+	editor.replaceRange(
+		`---\n${yaml.dump(newFrontmatter)}---`,
+		{ line: 0, ch: 0 },
+		head
+	)	
+
 }
 
 export interface TagPreview {
@@ -144,6 +165,8 @@ const syncTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFront
 		})		
 		.catch((e) => new Notice(e.message))
 }
+
+
 
 const updateTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFrontmatter, tag: Tag) => {
 	const lines = view.data.split("\n");
