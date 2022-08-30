@@ -1,16 +1,16 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb22d
 title: Absent-Minded Driver
-href: https://lesswrong.com/tag/absent-minded-driver
+href: https://www.lesswrong.com/tag/absent-minded-driver
 slug: absent-minded-driver
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:50.564Z'
+synchedAt: '2022-08-30T08:18:47.514Z'
+status: todo
 ---
-
 # Absent-Minded Driver
 
 **The absent-minded driver** is a problem for testing [[Decision Theory|decision theories]] which shows a time inconsistency in classical ways of considering optimal decisions. It is entirely described in the eponymous blog post.

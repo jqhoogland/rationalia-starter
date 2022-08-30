@@ -11,6 +11,7 @@ tags:
 synchedAt: '2022-08-30T08:16:45.577Z'
 status: todo
 ---
+
 # Abolitionism
 
 **Abolitionism** is a school of [[Transhumanism|transhumanism]] which advocates the eradication of suffering (both human and non-human) through biotechnology. David Pearce is the founder of the movement, and proposes using genetic engineering and other emerging technologies to replace Darwinian suffering-based motivational systems with "gradients of intelligent bliss". In his manifesto *The Hedonistic Imperative*, he discusses the practicality, philosophical basis, and sociological impact of the abolition of suffering, as well as the possibility of future states of well-being of greater quality than any that have existed so far. Pearce stresses that the abolition of suffering would be compatible with more sophisticated forms of well-being and "intentional objects" (i.e. what you are happy "about"), and need not involve maxed-out [[Wireheading|wireheading]].

@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2538daa0e38d64f3",
+        "id": "07f5893a8d95689a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Abolitionism.md",
+            "file": "The Absent Minded Driver.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "4e92204b17ddcb0c",
+        "id": "b00c82f14a22f6ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Posts/Serious Stories.md",
-            "mode": "preview",
+            "file": "LW/Posts/Twelve Virtues of Rationality.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Abolitionism.md"
+                "file": "LW/Posts/Twelve Virtues of Rationality.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Abolitionism.md",
+                "file": "LW/Posts/Twelve Virtues of Rationality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,17 +142,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "2538daa0e38d64f3",
+  "active": "b00c82f14a22f6ee",
   "lastOpenFiles": [
+    "The Absent Minded Driver.md",
+    "LW/Posts/Twelve Virtues of Rationality.md",
+    "LW/Concepts/Absent-Minded Driver.md",
     "LW/Posts/Serious Stories.md",
     "LW/Concepts/Abolitionism.md",
     "LW/Concepts/12 Virtues.md",
     "LW/Posts/Church vs. Taskforce.md",
     "LW/Posts/Chris Olah’s views on AGI safety.md",
     "LW/Posts/Chapter 4— The Efficient Market Hypothesis.md",
-    "LW/Posts/Chapter 1— A Day of Very Low Probability.md",
-    "LW/Posts/Chapter 12— Impulse Control.md",
-    "LW/Posts/Chapter 16— Lateral Thinking.md",
-    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md"
+    "LW/Posts/Chapter 1— A Day of Very Low Probability.md"
   ]
 }

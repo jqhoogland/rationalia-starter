@@ -7,11 +7,17 @@ tags:
   - LessWrong
   - Concept
   - Post
-href: >-
-  https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality
-sequence: Thinking Better on Purpose
+  - Virtues
+  - Rationality
+href: >- 
+ https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality
+sequence: Quantified Humanism
 chapter: null
-synchedAt: '2022-08-30T08:17:59.302Z'
+synchedAt: '2022-08-30T08:34:32.307Z'
+collection: 'Rationality: A-Z'
+book: Mere Goodness
+author: Eliezer Yudkowsky
+status: todo
 ---
-# Twelve Virtues of Rationality
 
+# Twelve Virtues of Rationality

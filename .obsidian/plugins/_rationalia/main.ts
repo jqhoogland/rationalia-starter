@@ -36,12 +36,13 @@ const syncNote = async (editor: Editor, view: MarkdownView) => {
 	switch (frontmatter.type) {
 		case 'tag':
 			return syncTag(editor, view, frontmatter)
+		case 'post': 
+			return syncPost(editor, view, frontmatter)
 		default: 
 			new Notice("Frontmatter has invalid `type`")
 			return
 	}
 }
-
 
 export interface TagPreview {
     name: string
@@ -69,16 +70,8 @@ export type TagFrontmatter = { type: 'tag', _id?: string, slug?: string  } & { [
 const syncTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFrontmatter) => {
 	console.log(editor, view)
 
-	let selector = "";
-
-	if (frontmatter._id) {
-		selector = `_id: "${frontmatter._id}"`
-	} else if (frontmatter.slug) {
-		selector = `slug: "${frontmatter.slug}"`
-	} else {
-		// @ts-ignore
-		selector = `slug: "${getSlug(view.titleEl.innerText)}"`
-	}
+	// @ts-ignore titleEl
+	const selector = getGQLSelector(frontmatter, view.titleEl.innerText)
 
 	const query = gql`{
     	tag(input: { 
@@ -122,7 +115,6 @@ const updateTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFro
 		line: lineIndex,
 		ch: 3
 	}
-	
 
 	const remainder = lines.slice(lineIndex + 1).join("\n").trim();
 	
@@ -266,4 +258,131 @@ const getTitleFromLink = async (href: string) => {
 		console.log("External:", e)
         return false;
     }
+}
+
+const getGQLSelector = (frontmatter: { _id?: string, slug?: string }, title: string) => {
+	if (frontmatter._id) {
+		return `_id: "${frontmatter._id}"`
+	} else if (frontmatter.slug) {
+		return `slug: "${frontmatter.slug}"`
+	} else {
+		return `slug: "${getSlug(title)}"`
+	}
+}
+
+interface Post {
+	_id: string;
+	title: string;
+	slug: string;
+	tags: TagPreview[];
+	author: string;
+	pageUrl: string;
+	canonicalCollection: {
+		title: string
+	},
+	canonicalBook: {
+		title: string
+	},
+	canonicalSequence: {
+		title: string
+	}
+}
+
+const syncPost = async (editor: Editor, view: MarkdownView, frontmatter: Partial<PostFrontmatter>) => {
+	// @ts-ignore
+	const selector = getGQLSelector(frontmatter, view.titleEl.innerText)
+
+	const query = gql`{
+    	post(input: { 
+			selector: {
+				${selector}	
+			}
+        }) {
+          result {
+            _id
+            title
+            slug
+            author
+            pageUrl
+            canonicalCollection {
+                title        
+            }
+			canonicalBook {
+				title
+			}
+			canonicalSequence {
+				title
+			}
+            tags {
+                name
+			}
+          }
+        }
+    }`
+
+	return request('https://www.lesswrong.com/graphql', query)
+		.then(({ post }: { post: { result: Post } }) => {
+			console.log(post)
+			updatePost(editor, view, frontmatter, post.result)
+
+			return post.result;
+		})		
+		.catch((e) => new Notice(e.message))
+}
+
+const updatePost = async (editor: Editor, view: MarkdownView, frontmatter: Partial<PostFrontmatter>, post: Post) => {
+	const lines = view.data.split("\n");
+	const lineIndex = lines.slice(1).findIndex(line => line.startsWith("---")) + 1;
+	const head = {
+		line: lineIndex,
+		ch: 3
+	}
+
+	// Update frontmatter
+	const newFrontmatter: PostFrontmatter = {
+		...frontmatter,
+		_id: post._id,
+		title: post.title,
+		slug: post.slug,
+		href: post.pageUrl,
+		synchedAt: new Date().toISOString(),
+		type: 'post',
+		tags: 
+			[...new Set([
+				...(frontmatter?.tags ?? []),
+				"LessWrong",
+				"Post",
+				...post.tags.map(tag => tag.name),
+			]).values()],
+		collection: post?.canonicalCollection?.title,
+		book: post?.canonicalBook?.title,
+		sequence: post?.canonicalSequence?.title,
+		author: post.author,
+		status: frontmatter?.status ?? "todo",
+	}
+
+	editor.replaceRange(
+		`---\n${yaml.dump(newFrontmatter)}---`,
+		{ line: 0, ch: 0 },
+		head
+	)	
+}
+
+
+type Status = "todo" | "in progress" | "done"
+
+export interface PostFrontmatter {
+	_id: string;
+	title: string;
+	slug: string;
+	type: "post";
+	tags: string[];
+	href: string;
+	collection: string | null;
+	book: string | null;
+	sequence: string | null;
+	chapter?: string | null;
+	synchedAt: string;
+	author: string;
+	status: Status
 }
