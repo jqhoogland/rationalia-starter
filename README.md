@@ -46,4 +46,11 @@ END
 - The Effective Altruism Forum (in progress)
 - The AI Alignment Forum (in progress)
 
+## Notes
+
+- This vault comes along with a little plugin (tucked away into `.obsidian`) that synchronizes notes. To sync the current note, use the `Rationalia: Sync active note with LW/EA` command.
+- Colons, `:` , aren't allowed in filenames, so when they occur in titles, they've been replaced with an endash `—`.
+- To disambiguate posts/sequences/concepts that have the same names, I've added `(Post)`, and `(Sequence)` where necessary. (The concept is left alone.)
+- "Concepts" have a corresponding page on the LessWrong wiki. "Jargon" items don't, but refer to a common idea or acronym used on the site.
+
 [^0]: Each concept note has one or more flashcard templates that you can use to [autogenerate Anki flashcards](https://github.com/Pseudonium/Obsidian_to_Anki). It's a good idea to [reword the provided definition in your own words](https://www.supermemo.com/#Personalize%20and%20provide%20examples).

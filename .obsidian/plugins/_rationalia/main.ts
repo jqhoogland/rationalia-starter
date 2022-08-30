@@ -8,14 +8,47 @@ const api = getAPI();
 export default class Rationalia extends Plugin {
 	settings = {};
 	
+
+
 	async onload() {
 
-		// This adds a simple command that can be triggered anywhere
 		this.addCommand({
 			id: 'sync-note',
 			name: 'Sync active note with LW/EA',
-			editorCallback: (editor: Editor, view: MarkdownView) => {
-				syncNote(editor, view)
+			editorCallback: async (editor: Editor, view: MarkdownView) => {
+				// @ts-ignore
+				const title = view.titleEl.innerText;
+				
+				this.app.vault.modify(
+					view.file,
+					await syncNote(title, editor.getValue())
+				)
+			}
+		})
+
+		this.addCommand({
+			id: 'sync-all-notes',
+			name: 'Sync all notes with LW/EA',
+			callback: async () => {
+				let numberOfErrors = 0;
+
+				await Promise.all(this.app.vault.getMarkdownFiles().map(async (file) => {
+					 try {
+						this.app.vault.modify(
+							file,
+							await syncNote(file.basename, await this.app.vault.read(file))
+						 )
+					 } catch (error) {
+						console.error(error)
+						numberOfErrors += 1;
+					  }
+				  }));
+				  if (numberOfErrors === 0) {
+					new Notice('Synched all files');
+				  } else {
+					const amountOfErrorsMessage = numberOfErrors === 1 ? 'was 1 error' : 'were ' + numberOfErrors + ' errors';
+					new Notice('Synched all files and there ' + amountOfErrorsMessage + '.');
+				}
 			}
 		})
 
@@ -61,45 +94,47 @@ END
 
 }
 
-const syncNote = async (editor: Editor, view: MarkdownView) => {
-	// @ts-ignore TODO: Add to declarations
-	const frontmatter = JSON.parse(view!.lastFrontmatter);
+type NoteFrontmatter = TagFrontmatter | PostFrontmatter | { [key: string]: any }
 
+const syncNote = async (title: string, value: string) => {
+	const lines = value.split("\n");
+	const frontmatterEnd = lines.slice(1).findIndex(line => line.startsWith("---")) + 1;
+
+	// @ts-ignore TODO: Add to declarations
+	const frontmatter = yaml.load(lines.slice(1, frontmatterEnd).join("\n")) as NoteFrontmatter;
+	const body = lines.slice(frontmatterEnd + 1).join("\n");
 	// Inserted by who knows
 	if ("position" in frontmatter) {
 		delete frontmatter.position;
 	}
 
 	switch (frontmatter.type) {
-		case 'tag':
-			return syncTag(editor, view, frontmatter)
-		case 'post': 
-			return syncPost(editor, view, frontmatter)
+		// case 'tag':
+		// 	return syncTag(title, frontmatter as TagFrontmatter, body)
+		// case 'post': 
+		// 	return syncPost(title, frontmatter as PostFrontmatter, body)
 		default: 
-			return syncMisc(editor, view, frontmatter)
+			return syncMisc(frontmatter, body)
 	}
 }
 
-const syncMisc = async (editor: Editor, view: MarkdownView, frontmatter: { [key: string]: any}) => {
-	const lines = view.data.split("\n");
-	const lineIndex = lines.slice(1).findIndex(line => line.startsWith("---")) + 1;
-	const head = {
-		line: lineIndex,
-		ch: 3
-	}
+const combine = (frontmatter: NoteFrontmatter, body: string) => {
+	return (
+		`---\n${yaml.dump(frontmatter)}---\n`
+		+ body
+	)	
+}
 
-	// Update frontmatter
+const syncMisc = async (frontmatter: { [key: string]: any }, body: string) => {
 	const newFrontmatter: typeof frontmatter = {
 		...frontmatter,
 		status: frontmatter?.status ?? "todo"
 	}
 
-	editor.replaceRange(
-		`---\n${yaml.dump(newFrontmatter)}---`,
-		{ line: 0, ch: 0 },
-		head
+	return combine(
+		newFrontmatter,
+		body
 	)	
-
 }
 
 export interface TagPreview {
@@ -125,11 +160,8 @@ export interface Tag {
 
 export type TagFrontmatter = { type: 'tag', _id?: string, slug?: string  } & { [key: string]: any}
 
-const syncTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFrontmatter) => {
-	console.log(editor, view)
-
-	// @ts-ignore titleEl
-	const selector = getGQLSelector(frontmatter, view.titleEl.innerText)
+const getTag = (title: string, frontmatter: TagFrontmatter) => {
+	const selector = getGQLSelector(frontmatter, title)
 
 	const query = gql`{
     	tag(input: { 
@@ -158,39 +190,28 @@ const syncTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFront
 
 	return request('https://www.lesswrong.com/graphql', query)
 		.then(({ tag }: { tag: { result: Tag } }) => {
-			console.log(tag)
-			updateTag(editor, view, frontmatter, tag.result)
-
 			return tag.result;
 		})		
-		.catch((e) => new Notice(e.message))
+		.catch((e) => {
+			new Notice(e.message)
+			throw e;
+		})
+}
+
+const syncTag = async (title: string, frontmatter: TagFrontmatter, body: string) => {
+	return getTag(title, frontmatter).then(tag => 
+		updateTag(title, frontmatter, body, tag)
+	)
 }
 
 
-
-const updateTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFrontmatter, tag: Tag) => {
-	const lines = view.data.split("\n");
-	const lineIndex = lines.slice(1).findIndex(line => line.startsWith("---")) + 1;
-	const head = {
-		line: lineIndex,
-		ch: 3
-	}
-
-	const remainder = lines.slice(lineIndex + 1).join("\n").trim();
-	
-	if (remainder === "") {
+const updateTag = async (title: string, frontmatter: TagFrontmatter, body: string, tag: Tag) => {
+	if (body === "") {
 		// We only fill in the retrieved body if they're currently empty
-		editor.replaceRange(
-			await fixLinks(tag.description.markdown),
-			{ line: lineIndex + 1, ch: 0 },
-		)
+		// body = await fixLinks(tag.description.markdown)
 	} else {
 		// Otherwise we just fix the links
-		editor.replaceRange(
-			await fixLinks(remainder),
-			{ line: lineIndex + 1, ch: 0 },
-			{ line: lines.length + 1, ch: lines[lines.length-1].length }
-		)
+		// body = await fixLinks(body)
 	}
 
 	// Update frontmatter
@@ -219,10 +240,9 @@ const updateTag = async (editor: Editor, view: MarkdownView, frontmatter: TagFro
 		newFrontmatter.children = tag.subTags.map(t => t.name)
 	}
 
-	editor.replaceRange(
-		`---\n${yaml.dump(newFrontmatter)}---`,
-		{ line: 0, ch: 0 },
-		head
+	return combine(
+		newFrontmatter,
+		body
 	)	
 }
 
@@ -348,9 +368,8 @@ interface Post {
 	}
 }
 
-const syncPost = async (editor: Editor, view: MarkdownView, frontmatter: Partial<PostFrontmatter>) => {
-	// @ts-ignore
-	const selector = getGQLSelector(frontmatter, view.titleEl.innerText)
+const getPost = async (title: string, frontmatter: Partial<PostFrontmatter>) => {
+	const selector = getGQLSelector(frontmatter, title)
 
 	const query = gql`{
     	post(input: { 
@@ -382,23 +401,21 @@ const syncPost = async (editor: Editor, view: MarkdownView, frontmatter: Partial
 
 	return request('https://www.lesswrong.com/graphql', query)
 		.then(({ post }: { post: { result: Post } }) => {
-			console.log(post)
-			updatePost(editor, view, frontmatter, post.result)
-
 			return post.result;
 		})		
-		.catch((e) => new Notice(e.message))
+		.catch((e) => {
+			new Notice(e.message);
+			throw e;
+		})
 }
 
-const updatePost = async (editor: Editor, view: MarkdownView, frontmatter: Partial<PostFrontmatter>, post: Post) => {
-	const lines = view.data.split("\n");
-	const lineIndex = lines.slice(1).findIndex(line => line.startsWith("---")) + 1;
-	const head = {
-		line: lineIndex,
-		ch: 3
-	}
+const syncPost = async (title: string, frontmatter: Partial<PostFrontmatter>, body: string) => {
+	return getPost(title, frontmatter).then(post => 
+		updatePost(title, frontmatter, body, post)
+	)	
+}
 
-	// Update frontmatter
+const updatePost = async (title: string, frontmatter: Partial<PostFrontmatter>, body: string, post: Post) => {
 	const newFrontmatter: PostFrontmatter = {
 		...frontmatter,
 		_id: post._id,
@@ -421,10 +438,9 @@ const updatePost = async (editor: Editor, view: MarkdownView, frontmatter: Parti
 		status: frontmatter?.status ?? "todo",
 	}
 
-	editor.replaceRange(
-		`---\n${yaml.dump(newFrontmatter)}---`,
-		{ line: 0, ch: 0 },
-		head
+	return combine(
+		newFrontmatter,
+		body // await fixLinks(body)
 	)	
 }
 
