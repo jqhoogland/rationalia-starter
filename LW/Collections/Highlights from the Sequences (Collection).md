@@ -11,9 +11,9 @@ status: todo
 
 # Highlights From the Sequences
 
-"**The Sequences**" is a series of essays by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky). They describe how to avoid the typical failure modes of human reason and instead think in ways that more reliably lead to true and accurate beliefs. These essays are the foundational texts of [[Welcome to LessWrong!|LessWrong]].
+"**The Sequences**" is a series of essays by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky). They describe how to avoid the typical failure modes of human reason and instead think in ways that more reliably lead to true and accurate beliefs. These essays are the foundational texts of [[LessWrong]].
 
-To provide a quick and accessible introduction to [The Sequences](https://www.lesswrong.com/rationality), we have selected 50 of the best essays that capture some of the seminal ideas. 
+To provide a quick and accessible introduction to [[Rationality— A-Z|The Sequences]], we have selected 50 of the best essays that capture some of the seminal ideas. 
 
 *Estimated read time of 8 hours.*
 

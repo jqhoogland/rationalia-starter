@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb23bf328e71c40b",
+        "id": "68ddbb1c2329213f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/AGI Skepticism.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/AGI Skepticism.md"
+                "file": "README.md"
               }
             }
           }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 268.5
   },
   "right": {
     "id": "5d9113a947b0f31a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/AGI Skepticism.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "fb23bf328e71c40b",
+  "active": "68ddbb1c2329213f",
   "lastOpenFiles": [
+    "LW/Reading Orders/Reading Orders.md",
+    "README.md",
+    "LW/Collections/Highlights from the Sequences (Collection).md",
+    "LW/LessWrong.md",
+    "LW/Books.md",
+    "LW/Concepts/Fiction.md",
+    "LW/Concepts/AGI Skepticism.md",
     "LW/Concepts/Adaptation Executors.md",
     "LW/Posts/0 And 1 Are Not Probabilities.md",
-    "LW/Posts/\"Should\" considered harmful.md",
-    "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
-    "LW/Posts/\"What Is Wrong With Our Thoughts\".md",
-    "LW/Posts/[Answer] Why wasn't science invented in China?.md",
-    "LW/Posts/'An objective defense of Bayesianism'.md",
-    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
-    "LW/Posts/37 Ways That Words Can Be Wrong.md",
-    "LW/Posts/A Fable of Science and Politics.md"
+    "LW/Posts/\"Should\" considered harmful.md"
   ]
 }
