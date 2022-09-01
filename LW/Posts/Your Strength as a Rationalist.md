@@ -7,12 +7,26 @@ tags:
   - LessWrong
   - Concept
   - Post
+  - Rationalization
+  - Noticing
+  - Rationality
 href: >-
   https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist
-sequence: Thinking Better on Purpose
+sequence: Noticing Confusion
 chapter: null
-synchedAt: '2022-08-30T08:17:57.112Z'
+synchedAt: '2022-09-01T08:39:31.845Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
+author: Eliezer Yudkowsky
 ---
 
 # Your Strength as a Rationalist
+
+
+# Related
+
+- [[Rationalization]]
+- [[Noticing]]
+- [[Rationality]]
+- "[http://www.overcomingbias.com/2007/08/truth-bias.html](http://www.overcomingbias.com/2007/08/truth-bias.html)"

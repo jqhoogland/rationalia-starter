@@ -26,7 +26,7 @@ The [[Utility Functions|values]] of an AGI could also be [[Alien Values|distinct
 
 ## "AGI" As a Design Paradigm
 
-The term "Artificial General Intelligence," [introduced by Shane Legg and Mark Gubrud](http://wp.goertzel.org/?p=173), is often used to refer more specifically to a design paradigm which mixes modules of different types: "neat" and "scruffy", symbolic and subsymbolic. [[Ben Goertzel]] is the researcher most commonly associated with this approach, but others, including [Peter Voss](https://wiki.lesswrong.com/wiki/Peter_Voss), are also pursuing it. This design paradigm, though eclectic in adopting various techniques, stands in contrast to other approaches to creating new kinds of artificial general intelligence (in the broader sense), including brain emulation, artificial evolution, Global Brain, and pure "neat" or "scruffy" AI.
+The term "Artificial General Intelligence,"[introduced by Shane Legg and Mark Gubrud](http://wp.goertzel.org/?p=173), is often used to refer more specifically to a design paradigm which mixes modules of different types: "neat" and "scruffy", symbolic and subsymbolic. [[Ben Goertzel]] is the researcher most commonly associated with this approach, but others, including [Peter Voss](https://wiki.lesswrong.com/wiki/Peter_Voss), are also pursuing it. This design paradigm, though eclectic in adopting various techniques, stands in contrast to other approaches to creating new kinds of artificial general intelligence (in the broader sense), including brain emulation, artificial evolution, Global Brain, and pure "neat" or "scruffy" AI.
 
 ## Expected Dates for the Creation of AGI
 

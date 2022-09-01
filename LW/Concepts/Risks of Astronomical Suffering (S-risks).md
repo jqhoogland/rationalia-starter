@@ -26,7 +26,7 @@ A related concept is [**hyperexistential risk**](https://arbital.com/p/hyperexis
 
 There are two [EA](https://wiki.lesswrong.com/wiki/EA) organizations with s-risk prevention research as their primary focus: the [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]] (CLR) and the [Center for Reducing Suffering](https://centerforreducingsuffering.org/). Much of CLR's work is on suffering-focused [AI safety](https://wiki.lesswrong.com/wiki/AI_safety) and [[Crucial Considerations|crucial considerations]]. Although to a much lesser extent, the [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] and [[Future of Humanity Institute (FHI)|Future of Humanity Institute]] have investigated strategies to prevent s-risks too. 
 
-Another approach to reducing s-risk is to "expand the moral circle" [*together*](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/) with raising concern for suffering, so that future (post)human civilizations and AI are less likely to [[Instrumental Value|instrumentally]] cause suffering to non-human minds such as animals or digital sentience. [Sentience Institute](http://www.sentienceinstitute.org/) works on this value-spreading problem.
+Another approach to reducing s-risk is to "expand the moral circle"[*together*](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/) with raising concern for suffering, so that future (post)human civilizations and AI are less likely to [[Instrumental Value|instrumentally]] cause suffering to non-human minds such as animals or digital sentience. [Sentience Institute](http://www.sentienceinstitute.org/) works on this value-spreading problem.
 
 ## See Also
 

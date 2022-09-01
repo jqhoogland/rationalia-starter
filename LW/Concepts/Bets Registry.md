@@ -19,7 +19,7 @@ This page lists **bets made by members of LessWrong;** it is organised by the ye
 Bets decided in 2010
 ====================
 
-- Paul Crowley ([ciphergoth](/user/ciphergoth)) and mattnewport: $50 on "10 or more people will be killed on US soil, or on a flight to or from the US, during 2010 as the result of a deliberate attack by a party with a political goal, not overtly the act of any state" [Thread](http://lesswrong.com/lw/1la/new_years_predictions_thread/1dsb)
+- Paul Crowley ([ciphergoth](/user/ciphergoth)) and mattnewport: $50 on "10 or more people will be killed on US soil, or on a flight to or from the US, during 2010 as the result of a deliberate attack by a party with a political goal, not overtly the act of any state"[Thread](http://lesswrong.com/lw/1la/new_years_predictions_thread/1dsb)
 
 Bets decided in 2014
 ====================

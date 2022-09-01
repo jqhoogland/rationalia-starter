@@ -32,21 +32,30 @@ export default class Rationalia extends Plugin {
 			callback: async () => {
 				let numberOfErrors = 0;
 
-				await Promise.all(this.app.vault.getMarkdownFiles().map(async (file) => {
-					try {
-						 console.log(file.basename)
-						this.app.vault.modify(
-							file,
-							(await syncNote(file.basename, await this.app.vault.read(file))) ?? ""
-						 )
-					 } catch (error) {
-						console.error(error)
-						numberOfErrors += 1;
-					  }
-				  }));
-				  if (numberOfErrors === 0) {
+				const files = this.app.vault.getMarkdownFiles();
+
+				// Batches of 100
+				for (let i = 0; i < files.length / 100; i++) {
+					console.log("Synching files " + (i * 100) + " to " + ((i + 1) * 100));
+					await Promise.all(files.slice(i * 100, i + 100).map(async (file) => {
+						try {
+							console.log(file.basename)
+							this.app.vault.modify(
+								file,
+								(await syncNote(file.basename, await this.app.vault.read(file))) ?? ""
+							)
+						} catch (error) {
+							console.error(error)
+							numberOfErrors += 1;
+						}
+					}));
+					
+					await timeout(50);
+
+				}
+				if (numberOfErrors === 0) {
 					new Notice('Synched all files');
-				  } else {
+				} else {
 					const amountOfErrorsMessage = numberOfErrors === 1 ? 'was 1 error' : 'were ' + numberOfErrors + ' errors';
 					new Notice('Synched all files and there ' + amountOfErrorsMessage + '.');
 				}
@@ -497,4 +506,8 @@ export interface PostFrontmatter {
 	synchedAt: string;
 	author: string;
 	status: Status
+}
+
+function timeout(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
 }

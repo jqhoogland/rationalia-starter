@@ -25,6 +25,6 @@ Many economists and sociologists have dedicated several papers to try to model a
 1. Bostrom, Nick. (2010) "Technological Revolutions: Ethics and Policy in the Dark" Nanoscale: Issues and Perspectives for the Nano Century, eds. Nigel M. de S. Cameron and M. Ellen Mitchell (John Wiley, 2010): pp. 129-152. Available at: [http://www.nickbostrom.com/revolutions.pdf](http://www.nickbostrom.com/revolutions.pdf)[↩](#fnref1)
 2. Savulescu, Julian & Meulen, Rudd ter (orgs.)(2011) “Enhancing Human Capacities”. Wiley-Blackwell.[↩](#fnref2)
 3. Hanson, Robin. (1994) "IF UPLOADS COME FIRST: The crack of a future dawn" Extropy 6:2 (1994). Available at: [http://hanson.gmu.edu/uploads.html](http://hanson.gmu.edu/uploads.html)[↩](#fnref3)
-4. Hanson, Robin. "Economic Growth Given Machine Intelligence" [http://hanson.gmu.edu/aigrow.pdf](http://hanson.gmu.edu/aigrow.pdf)[↩](#fnref4)
+4. Hanson, Robin. "Economic Growth Given Machine Intelligence"[http://hanson.gmu.edu/aigrow.pdf](http://hanson.gmu.edu/aigrow.pdf)[↩](#fnref4)
 5. Hughes, James (2004). "Citizen Cyborg: Why Democratic Societies Must Respond to the Redesigned Human of the Future." Westview Press[↩](#fnref5)
 6. Caselli, Francesco. (1999) "Technological Revolutions." American Economic Review, 89(1): 78–102. DOI:10.1257/aer.89.1.78.Availabe at: [http://personal.lse.ac.uk/casellif/papers/techrev.pdf](http://personal.lse.ac.uk/casellif/papers/techrev.pdf)[↩](#fnref6)
