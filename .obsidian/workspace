@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "LW/Canon.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "LW/Canon.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "LW/Canon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "68ddbb1c2329213f",
   "lastOpenFiles": [
-    "LW/Reading Orders/Reading Orders.md",
-    "README.md",
-    "LW/Collections/Highlights from the Sequences (Collection).md",
+    "LW/Concepts/Giant Cheesecake Fallacy.md",
+    "LW/Canon.md",
+    "LW/Jargon (meta).md",
+    "LW/Collections.md",
     "LW/LessWrong.md",
-    "LW/Books.md",
-    "LW/Concepts/Fiction.md",
-    "LW/Concepts/AGI Skepticism.md",
-    "LW/Concepts/Adaptation Executors.md",
-    "LW/Posts/0 And 1 Are Not Probabilities.md",
-    "LW/Posts/\"Should\" considered harmful.md"
+    "LW/Jargon/PC.md",
+    "LW/Concepts/Terminology, Jargon (meta).md",
+    "LW/Posts/Appendix— Jargon Dictionary.md",
+    "Jargon (meta).md",
+    "README.md"
   ]
 }

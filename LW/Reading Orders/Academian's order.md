@@ -6,6 +6,7 @@ tags:
   - Sequence
 synchedAt: '2022-08-29T11:16:45.896Z'
 status: todo
+href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/draft-of-a-suggested-reading-order-for-less-wrong
 ---
 
 # Undefined

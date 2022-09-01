@@ -6,6 +6,7 @@ tags:
   - Sequence
 synchedAt: '2022-08-29T11:16:45.929Z'
 status: todo
+href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/a-suggested-reading-order-for-less-wrong-2011
 ---
 
 # Undefined

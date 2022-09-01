@@ -6,6 +6,7 @@ tags:
   - Sequence
 synchedAt: '2022-08-29T11:16:45.948Z'
 status: todo
+href: https://www.lesswrong.com/posts/zEm5B4t3Sonj8PySN/rewriting-the-sequences?commentId=dJKmpMWhg7ny3ZFS4
 ---
 
 # Undefined
