@@ -14,11 +14,28 @@ tags:
   - Philosophy_of Language
   - Fallacy_of Gray
   - Distinctions
+  - Map_and_Territory
+  - Philosophy_of_Language
+  - Fallacy_of_Gray
 href: https://www.lesswrong.com/posts/y5MxoeacRKKM3KQth/fallacies-of-compression
 sequence: A Human's Guide to Words
 chapter: null
-synchedAt: '2022-08-30T08:17:36.305Z'
+synchedAt: '2022-09-01T09:28:48.810Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: The Machine in the Ghost
 ---
 
 # Fallacies of Compression
+
+
+# Related
+
+- [[Bucket Errors]]
+- [[Map and Territory]]
+- [[Philosophy of Language]]
+- [[Fallacy of Gray]]
+- [[Distinctions]]
+- [[How An Algorithm Feels From Inside]]
+- [[Replace the Symbol with the Substance]]
+- [[Taboo Your Words]]

@@ -13,8 +13,16 @@ tags:
 href: https://www.lesswrong.com/posts/jfXHYnreYJvrjDQsj/moving-towards-the-goal
 sequence: Replacing Guilt
 chapter: Related
-synchedAt: '2022-08-30T08:16:33.526Z'
+synchedAt: '2022-09-01T09:26:36.550Z'
 status: todo
 ---
 
 # Moving Towards the Goal
+
+
+# Related
+
+- [[World Optimization]]
+- "[illusion of transparency](http://en.wikipedia.org/wiki/Illusion_of_transparency)"
+- [[Something to Protect]]
+- "[effective altruists](http://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=en)"

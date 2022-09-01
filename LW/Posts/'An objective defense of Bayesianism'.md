@@ -18,9 +18,7 @@ status: todo
 
 # 'An Objective Defense of Bayesianism'
 
-
 # Related
-
 
 - "[An Objective Defense of Bayesianism I: Measuring Inaccuracy](http://commonsenseatheism.com/wp-content/uploads/2011/09/Leitgeb-Pettigrew-An-objective-justification-of-Bayesianism-I-measuring-inaccuracy.pdf)"
 - "[An Objective Defense of Bayesianism II: The Consequences of Minimizing Inaccuracy](http://commonsenseatheism.com/wp-content/uploads/2011/09/Leitgeb-Pettigrew-An-objective-justification-of-Bayesianism-II-the-consequences-of-minimizing-inaccuracy.pdf)"

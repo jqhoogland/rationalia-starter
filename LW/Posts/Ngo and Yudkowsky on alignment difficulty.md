@@ -15,8 +15,14 @@ href: >-
   https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.415Z'
+synchedAt: '2022-09-01T09:26:17.908Z'
 status: todo
 ---
 
 # Ngo and Yudkowsky on Alignment Difficulty
+
+
+# Related
+
+- [[AI Risk]]
+- [[AI]]

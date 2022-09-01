@@ -14,8 +14,16 @@ tags:
 href: https://www.lesswrong.com/posts/WN73eiLQkuDtSC8Ag/one-argument-against-an-army
 sequence: Against Rationalization
 chapter: null
-synchedAt: '2022-08-30T08:17:38.838Z'
+synchedAt: '2022-09-01T09:25:49.213Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # One Argument Against An Army
+
+
+# Related
+
+- [[Rationalization]]
+- [[Motivated Reasoning]]

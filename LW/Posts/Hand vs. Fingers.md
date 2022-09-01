@@ -14,8 +14,19 @@ tags:
 href: https://www.lesswrong.com/posts/KmghfjH6RgXvoKruJ/hand-vs-fingers
 sequence: Physicalism 201
 chapter: null
-synchedAt: '2022-08-30T08:17:34.469Z'
+synchedAt: '2022-09-01T09:28:30.185Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Hand Vs. Fingers
+
+
+# Related
+
+- [[Reductionism]]
+- [[Rationality]]
+- [[Mind Projection Fallacy]]
+- [[Joy in the Merely Real]]
+- [[Qualitatively Confused]]

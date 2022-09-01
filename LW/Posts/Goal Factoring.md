@@ -14,8 +14,18 @@ tags:
 href: https://www.lesswrong.com/posts/ZHWiCM4QmX8WwYajH/goal-factoring-1
 sequence: CFAR Handbook
 chapter: Classes
-synchedAt: '2022-08-30T08:16:31.565Z'
+synchedAt: '2022-09-01T09:28:32.082Z'
 status: todo
 ---
 
 # Goal Factoring
+
+
+# Related
+
+- [[Goal Factoring]]
+- [[Rationality]]
+- "[http://tinyurl.com/kahneman2003](http://tinyurl.com/kahneman2003)"
+- "[http://goo.gl/7R1AO](http://goo.gl/7R1AO)"
+- "[http://goo.gl/jJgNf2](http://goo.gl/jJgNf2)"
+- "[https://goo.gl/FbJzFe](https://goo.gl/FbJzFe)"

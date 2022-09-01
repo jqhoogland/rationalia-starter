@@ -16,8 +16,21 @@ href: >-
   https://www.lesswrong.com/posts/synsRtBKDeAFuo7e3/not-for-the-sake-of-happiness-alone
 sequence: Fake Preferences
 chapter: null
-synchedAt: '2022-08-30T08:17:33.415Z'
+synchedAt: '2022-09-01T09:26:02.596Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Goodness
 ---
 
 # Not for the Sake of Happiness (Alone)
+
+
+# Related
+
+- [[Well-being]]
+- [[Happiness]]
+- [[Fuzzies]]
+- "[the real thing won't be able to compete](/lw/h3/superstimuli_and_the_collapse_of_western/)"
+- "[all happinesses can be measured on a common utility scale](/lw/kn/torture_vs_dust_specks/)"
+- [[Terminal Values and Instrumental Values]]
+- [[Thou Art Godshatter]]

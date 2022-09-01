@@ -7,11 +7,29 @@ tags:
   - LessWrong
   - Concept
   - Post
+  - Rationality
+  - Mind_Projection_Fallacy
+  - Bayes'_Theorem
+  - Map_and_Territory
+  - Bayesianism
 href: https://www.lesswrong.com/posts/f6ZLxEWaankRZ2Crv/probability-is-in-the-mind
 sequence: Reductionism 101
 chapter: null
-synchedAt: '2022-08-30T08:17:59.392Z'
+synchedAt: '2022-09-01T09:25:29.834Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
+author: Eliezer_Yudkowsky
 ---
 
 # Probability is in the Mind
+
+
+# Related
+
+- [[Rationality]]
+- [[Mind Projection Fallacy]]
+- [[Bayes' Theorem]]
+- [[Map and Territory]]
+- [[Bayesianism]]
+- "[certain way](http://www.overcomingbias.com/2008/01/something-to-pr.html)"

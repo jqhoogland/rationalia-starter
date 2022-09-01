@@ -11,10 +11,15 @@ tags:
   - Post
   - Fiction
 href: https://www.lesswrong.com/posts/HWH46whexsoqR3yXk/normal-ending-last-tears-6-8
-sequence: Three Worlds Collide
 chapter: null
-synchedAt: '2022-08-30T08:17:51.338Z'
+synchedAt: '2022-09-01T09:26:05.863Z'
 status: todo
 ---
 
 # Normal Ending: Last Tears (6/8)
+
+
+# Related
+
+- [[Fiction]]
+- "[Three Worlds Collide](/lw/y4/three_worlds_collide_08/)"

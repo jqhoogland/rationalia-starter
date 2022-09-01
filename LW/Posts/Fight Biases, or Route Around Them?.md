@@ -12,12 +12,24 @@ tags:
   - Heuristics_& Biases
   - Techniques
   - Priming
+  - Heuristics_&_Biases
 href: >-
   https://www.lesswrong.com/posts/pyNPXST7feDX45ygt/fight-biases-or-route-around-them
-sequence: Priming
 chapter: null
-synchedAt: '2022-08-30T08:16:38.264Z'
+synchedAt: '2022-09-01T09:28:45.239Z'
 status: todo
 ---
 
 # Fight Biases, or Route Around Them?
+
+
+# Related
+
+- [[Heuristics & Biases]]
+- [[Techniques]]
+- [[Priming]]
+- [[The Implicit Association Test]]
+- [[3 Levels of Rationality Verification]]
+- [[The Mystery of the Haunted Rationalist]]
+- "[These don't work](http://www.overcomingbias.com/2008/01/mandatory-sensi.html)"
+- [[Schools Proliferating Without Evidence]]

@@ -15,8 +15,15 @@ href: >-
   https://www.lesswrong.com/posts/34Gkqus9vusXRevR8/late-2021-miri-conversations-ama-discussion
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.833Z'
+synchedAt: '2022-09-01T09:27:23.867Z'
 status: todo
 ---
 
 # Late 2021 MIRI Conversations: AMA / Discussion
+
+
+# Related
+
+- [[AI]]
+- [[AMA]]
+- [[Shah and Yudkowsky on alignment failures]]

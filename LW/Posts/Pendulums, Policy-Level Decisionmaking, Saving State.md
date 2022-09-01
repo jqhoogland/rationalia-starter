@@ -11,12 +11,19 @@ tags:
   - Post
   - Center_for Applied Rationality (CFAR)
   - Rationality
+  - Center_for_Applied_Rationality_(CFAR)
 href: >-
   https://www.lesswrong.com/posts/8FsLyk6oDrhoqWEjB/pendulums-policy-level-decisionmaking-saving-state
 sequence: CFAR Handbook
 chapter: Flash Classes
-synchedAt: '2022-08-30T08:16:32.029Z'
+synchedAt: '2022-09-01T09:25:41.641Z'
 status: todo
 ---
 
 # Pendulums, Policy-Level Decisionmaking, Saving State
+
+
+# Related
+
+- [[Center for Applied Rationality (CFAR)]]
+- [[Rationality]]

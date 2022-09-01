@@ -15,8 +15,17 @@ tags:
 href: https://www.lesswrong.com/posts/waqC6FihC2ryAZuAq/just-lose-hope-already
 sequence: Letting Go
 chapter: null
-synchedAt: '2022-08-30T08:17:37.477Z'
+synchedAt: '2022-09-01T09:27:24.778Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Just Lose Hope Already
+
+
+# Related
+
+- [[Motivated Reasoning]]
+- [[Rationalization]]
+- [[Hope]]

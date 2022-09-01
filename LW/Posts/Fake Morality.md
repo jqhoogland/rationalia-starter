@@ -10,11 +10,19 @@ tags:
   - Concept
   - Post
   - Ethics_& Morality
+  - Ethics_&_Morality
 href: https://www.lesswrong.com/posts/fATPBv4pnHC33EmJ2/fake-morality
 sequence: Fake Preferences
 chapter: null
-synchedAt: '2022-08-30T08:17:33.495Z'
+synchedAt: '2022-09-01T09:28:54.659Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Goodness
 ---
 
 # Fake Morality
+
+
+# Related
+
+- [[Ethics & Morality]]

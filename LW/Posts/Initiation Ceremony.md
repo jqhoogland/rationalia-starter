@@ -11,10 +11,18 @@ tags:
   - Post
   - Fiction
 href: https://www.lesswrong.com/posts/fnEWQAYxcRnaYBqaZ/initiation-ceremony
-sequence: The Bayesian Conspiracy
+sequence: Joy in the Merely Real
 chapter: null
-synchedAt: '2022-08-30T08:17:51.200Z'
+synchedAt: '2022-09-01T09:27:40.833Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Initiation Ceremony
+
+
+# Related
+
+- [[Fiction]]
+- "[![](/static/imported/2008/03/27/elimonk2darker.jpg)"

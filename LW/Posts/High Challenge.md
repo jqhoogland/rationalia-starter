@@ -13,11 +13,28 @@ tags:
   - Fun_Theory
   - World_Optimization
   - Skill_Building
+  - Complexity_of_Value
 href: https://www.lesswrong.com/posts/29vqqmGNxNRGzffEj/high-challenge
-sequence: Fun Theory
+sequence: Value Theory
 chapter: null
-synchedAt: '2022-08-30T08:17:50.623Z'
+synchedAt: '2022-09-01T09:28:18.553Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Goodness
 ---
 
 # High Challenge
+
+
+# Related
+
+- [[Complexity of Value]]
+- [[Fun Theory]]
+- [[World Optimization]]
+- [[Skill Building]]
+- [[Excluding the Supernatural]]
+- [[Prolegomena to a Theory of Fun]]
+- "[want to win](/lw/nc/newcombs_problem_and_regret_of_rationality/)"
+- [[Where Recursive Justification Hits Bottom]]
+- [[Not for the Sake of Happiness (Alone)]]
+- [[Thou Art Physics]]

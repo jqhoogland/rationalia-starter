@@ -12,11 +12,21 @@ tags:
   - Writing_(communication method)
   - Practical
   - Cached_Thoughts
+  - Writing_(communication_method)
 href: https://www.lesswrong.com/posts/SA79JMXKWke32A3hG/original-seeing
 sequence: Seeing with Fresh Eyes
 chapter: null
-synchedAt: '2022-08-30T08:17:38.330Z'
+synchedAt: '2022-09-01T09:25:44.661Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Original Seeing
+
+
+# Related
+
+- [[Writing (communication method)]]
+- [[Practical]]
+- [[Cached Thoughts]]

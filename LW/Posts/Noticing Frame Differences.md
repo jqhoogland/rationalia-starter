@@ -17,8 +17,24 @@ tags:
 href: https://www.lesswrong.com/posts/f886riNJcArmpFahm/noticing-frame-differences
 sequence: Trust
 chapter: null
-synchedAt: '2022-08-30T08:17:55.161Z'
+synchedAt: '2022-09-01T09:26:03.504Z'
 status: todo
+collection: Best of LessWrong
+book: The Engines of Cognition
 ---
 
 # Noticing Frame Differences
+
+
+# Related
+
+- [[Noticing]]
+- [[Conversation (topic)]]
+- [[Disagreement]]
+- [[Distinctions]]
+- [[Frames]]
+- [[Keep Your Beliefs Cruxy]]
+- [[A Sketch of Good Communication]]
+- [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
+- "[Yudkowsky/Hanson Foom Debate](https://intelligence.org/ai-foom-debate/)"
+- [[Do you fear the rock or the hard place?]]

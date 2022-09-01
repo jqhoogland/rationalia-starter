@@ -15,8 +15,16 @@ href: >-
   https://www.lesswrong.com/posts/97Y7Jwrzxyfzz3Ad2/failing-to-learn-from-history
 sequence: Mysterious Answers
 chapter: null
-synchedAt: '2022-08-30T08:17:40.210Z'
+synchedAt: '2022-09-01T09:28:55.248Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # Failing to Learn From History
+
+
+# Related
+
+- [[Rationality]]
+- [[History]]

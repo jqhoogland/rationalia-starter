@@ -15,8 +15,14 @@ href: >-
   https://www.lesswrong.com/posts/gf9hhmSvpZfyfS34B/ngo-s-view-on-alignment-difficulty
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.708Z'
+synchedAt: '2022-09-01T09:26:12.805Z'
 status: todo
 ---
 
 # Ngo's View on Alignment Difficulty
+
+
+# Related
+
+- [[AI Governance]]
+- [[AI]]

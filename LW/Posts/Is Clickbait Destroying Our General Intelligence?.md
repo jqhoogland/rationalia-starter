@@ -18,8 +18,21 @@ href: >-
   https://www.lesswrong.com/posts/YicoiQurNBxSp7a65/is-clickbait-destroying-our-general-intelligence
 sequence: Curiosity
 chapter: null
-synchedAt: '2022-08-30T08:16:36.320Z'
+synchedAt: '2022-09-01T09:27:35.853Z'
 status: todo
+collection: Best of LessWrong
+book: A Map That Reflects the Territory
 ---
 
 # Is Clickbait Destroying Our General Intelligence?
+
+
+# Related
+
+- [[Goodhart's Law]]
+- [[Superstimuli]]
+- [[General Intelligence]]
+- [[Public Discourse]]
+- [[Memetics]]
+- "[general intelligence](https://arbital.com/p/general_intelligence/)"
+- [[My Bayesian Enlightenment]]

@@ -14,8 +14,16 @@ tags:
 href: https://www.lesswrong.com/posts/yxvi9RitzZDpqn6Yh/explain-worship-ignore
 sequence: Mysterious Answers
 chapter: null
-synchedAt: '2022-08-30T08:17:40.264Z'
+synchedAt: '2022-09-01T09:28:56.668Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # Explain/Worship/Ignore?
+
+
+# Related
+
+- [[Rationality]]
+- [[Distinctions]]

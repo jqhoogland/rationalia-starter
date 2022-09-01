@@ -13,10 +13,17 @@ tags:
   - General_Intelligence
 href: >-
   https://www.lesswrong.com/posts/cCrpbZ4qTCEYXbzje/ngo-and-yudkowsky-on-scientific-reasoning-and-pivotal-acts
-sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.737Z'
+synchedAt: '2022-09-01T09:26:17.501Z'
 status: todo
 ---
 
 # Ngo and Yudkowsky on Scientific Reasoning and Pivotal Acts
+
+
+# Related
+
+- [[AI]]
+- [[General Intelligence]]
+- "[Late 2021 MIRI Conversations](https://intelligence.org/late-2021-miri-conversations/)"
+- [[Ngo's view on alignment difficulty]]

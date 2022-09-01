@@ -15,8 +15,20 @@ tags:
 href: https://www.lesswrong.com/posts/epZLSoNvjW53tqNj9/evolutionary-psychology
 sequence: The Simple Math of Evolution
 chapter: null
-synchedAt: '2022-08-30T08:17:37.261Z'
+synchedAt: '2022-09-01T09:28:59.796Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: The Machine in the Ghost
 ---
 
 # Evolutionary Psychology
+
+
+# Related
+
+- [[Evolution]]
+- [[Evolutionary Psychology]]
+- [[Adaptation Executors]]
+- [[An Alien God]]
+- "[Individual organisms are best thought of as adaptation-executers, not fitness-maximizers.](https://www.lesswrong.com/lw/l0/adaptationexecuters_not_fitnessmaximizers/)"
+- [[The Virtue of Narrowness]]

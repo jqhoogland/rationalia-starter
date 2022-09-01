@@ -12,10 +12,16 @@ tags:
   - Practical
   - Rationality
 href: https://www.lesswrong.com/posts/hBKnkx8xvmhGZPdmg/goodhart-s-imperius-1
-sequence: CFAR Handbook
 chapter: Classes
-synchedAt: '2022-08-30T08:16:31.667Z'
+synchedAt: '2022-09-01T09:28:32.448Z'
 status: todo
 ---
 
 # Goodhart's Imperius
+
+
+# Related
+
+- [[Practical]]
+- [[Rationality]]
+- "[clicker training](https://www.youtube.com/watch?v=IC367wKGi4M)"

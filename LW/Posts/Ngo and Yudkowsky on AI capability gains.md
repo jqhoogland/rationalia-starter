@@ -21,8 +21,21 @@ href: >-
   https://www.lesswrong.com/posts/hwxj4gieR7FWNwYfa/ngo-and-yudkowsky-on-ai-capability-gains-1
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.440Z'
+synchedAt: '2022-09-01T09:26:14.156Z'
 status: todo
 ---
 
 # Ngo and Yudkowsky on AI Capability Gains
+
+
+# Related
+
+- [[AI]]
+- [[Recursive Self-Improvement]]
+- [[AI Takeoff]]
+- [[Utility Functions]]
+- [[Optimization]]
+- [[Effective Altruism]]
+- [[Modest Epistemology]]
+- [[AI Governance]]
+- [[Ngo and Yudkowsky on alignment difficulty]]

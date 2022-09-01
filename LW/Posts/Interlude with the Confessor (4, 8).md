@@ -12,10 +12,16 @@ tags:
   - Fiction
 href: >-
   https://www.lesswrong.com/posts/bojLBvsYck95gbKNM/interlude-with-the-confessor-4-8
-sequence: Three Worlds Collide
 chapter: null
-synchedAt: '2022-08-30T08:17:51.306Z'
+synchedAt: '2022-09-01T09:27:39.537Z'
 status: todo
 ---
 
 # Interlude with the Confessor (4/8)
+
+
+# Related
+
+- [[Fiction]]
+- "[Three Worlds Collide](/lw/y4/three_worlds_collide_08/)"
+- "[_To be continued..._](/lw/y9/three_worlds_decide_58/)"

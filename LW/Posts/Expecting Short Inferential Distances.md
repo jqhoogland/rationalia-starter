@@ -15,12 +15,27 @@ tags:
   - Conversation_(topic)
   - Public_Discourse
   - Illusion_of Transparency
+  - Illusion_of_Transparency
 href: >-
   https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances
-sequence: Connecting Words to Reality
+sequence: Noticing Confusion
 chapter: null
-synchedAt: '2022-08-30T08:17:40.701Z'
+synchedAt: '2022-09-01T09:28:57.628Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # Expecting Short Inferential Distances
+
+
+# Related
+
+- [[Inferential Distance]]
+- [[Rationality]]
+- [[Evolutionary Psychology]]
+- [[Conversation (topic)]]
+- [[Public Discourse]]
+- [[Illusion of Transparency]]
+- "[200 people](https://en.wikipedia.org/wiki/Dunbar%27s_number)"
+- "[self-anchoring](http://lesswrong.com/lw/kf/selfanchoring/)"

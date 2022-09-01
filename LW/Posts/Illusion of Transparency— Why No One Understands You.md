@@ -13,12 +13,23 @@ tags:
   - Inferential_Distance
   - Calibration
   - Illusion_of Transparency
+  - Illusion_of_Transparency
 href: >-
   https://www.lesswrong.com/posts/sSqoEw9eRP2kPKLCz/illusion-of-transparency-why-no-one-understands-you
-sequence: Connecting Words to Reality
+sequence: Noticing Confusion
 chapter: null
-synchedAt: '2022-08-30T08:17:40.670Z'
+synchedAt: '2022-09-01T09:27:52.038Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # Illusion of Transparency: Why No One Understands You
+
+
+# Related
+
+- [[Conversation (topic)]]
+- [[Inferential Distance]]
+- [[Calibration]]
+- [[Illusion of Transparency]]

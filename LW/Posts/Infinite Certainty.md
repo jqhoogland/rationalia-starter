@@ -14,8 +14,21 @@ tags:
 href: https://www.lesswrong.com/posts/ooypcn7qFzsMcy53R/infinite-certainty
 sequence: Overly Convenient Excuses
 chapter: null
-synchedAt: '2022-08-30T08:17:39.805Z'
+synchedAt: '2022-09-01T09:27:44.167Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Infinite Certainty
+
+
+# Related
+
+- [[Epistemology]]
+- [[Bayes' Theorem]]
+- "[^1^](#fn1x11)"
+- "[^2^](#fn2x11)"
+- "[^1^](#fn1x11-bk)"
+- "[^2^](#fn2x11-bk)"
+- "[http://www.spaceandgames.com/?p=27](https://web.archive.org/web/20090203013258/http://www.spaceandgames.com/?p=27)"

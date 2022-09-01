@@ -13,10 +13,16 @@ tags:
   - Prisoner's_Dilemma
 href: >-
   https://www.lesswrong.com/posts/QdXrkWoK2Pp6XhNuQ/introduction-to-prisoners-dilemma
-sequence: Introduction to Game Theory
 chapter: null
-synchedAt: '2022-08-30T08:16:42.875Z'
+synchedAt: '2022-09-01T09:27:34.835Z'
 status: todo
 ---
 
 # Introduction to Prisoners' Dilemma
+
+
+# Related
+
+- [[Game Theory]]
+- [[Prisoner's Dilemma]]
+- "[Previous posts on the Prisoners' Dilemma](http://wiki.lesswrong.com/wiki/Prisoner%27s_dilemma)"

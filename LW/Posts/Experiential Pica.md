@@ -7,9 +7,19 @@ tags:
   - LessWrong
   - Concept
   - Post
+  - Pica
+  - Akrasia
 href: https://www.lesswrong.com/posts/9ZodFr54FtpLThHZh/experiential-pica
-synchedAt: '2022-08-30T08:17:58.600Z'
+synchedAt: '2022-09-01T09:28:57.788Z'
 status: todo
+author: null
 ---
 
 # Experiential Pica
+
+
+# Related
+
+- [[Pica]]
+- [[Akrasia]]
+- "[Pica](http://en.wikipedia.org/wiki/Pica_%28disorder%29)"

@@ -13,8 +13,17 @@ tags:
 href: https://www.lesswrong.com/posts/GJ4ZQm7crTzTM6xDW/focus-your-uncertainty
 sequence: Noticing Confusion
 chapter: null
-synchedAt: '2022-08-30T08:17:40.380Z'
+synchedAt: '2022-09-01T09:28:43.023Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # Focus Your Uncertainty
+
+
+# Related
+
+- [[Noticing]]
+- "[know from school](http://lesswrong.com/lw/i2/two_more_things_to_unlearn_from_school/)"
+- "[transfer thinking skills from one context to another](https://www.aft.org/sites/default/files/periodicals/Crit_Thinking.pdf)"

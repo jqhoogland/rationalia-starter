@@ -11,10 +11,17 @@ tags:
   - Post
   - Fiction
 href: https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words
-sequence: The Bayesian Conspiracy
+sequence: Challenging the Difficult
 chapter: null
-synchedAt: '2022-08-30T08:17:51.252Z'
+synchedAt: '2022-09-01T09:28:45.155Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Becoming Stronger
 ---
 
 # Final Words
+
+
+# Related
+
+- [[Fiction]]

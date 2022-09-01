@@ -13,10 +13,18 @@ tags:
   - Epistemology
 href: >-
   https://www.lesswrong.com/posts/nj8JKFoLSMEmD3RGp/how-much-evidence-does-it-take
-sequence: The Laws Governing Belief
+sequence: Noticing Confusion
 chapter: null
-synchedAt: '2022-08-30T08:17:40.468Z'
+synchedAt: '2022-09-01T09:27:58.032Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # How Much Evidence Does It Take?
+
+
+# Related
+
+- [[Bayes' Theorem]]
+- [[Epistemology]]

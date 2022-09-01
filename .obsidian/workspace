@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
+            "file": "LW/Posts/\"Arbitrary\".md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md"
+                "file": "LW/Posts/\"Arbitrary\".md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
+                "file": "LW/Posts/\"Arbitrary\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "fb23bf328e71c40b",
   "lastOpenFiles": [
+    "LW/Posts/\"Can you keep this confidential? How do you know?\".md",
+    "LW/Posts/\"Arbitrary\".md",
+    "LW/Posts/'An objective defense of Bayesianism'.md",
+    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
     "LW/Posts/There are no \"bad people\".md",
     "LW/Posts/\"Should\" considered harmful.md",
-    "LW/Posts/'An objective defense of Bayesianism'.md",
     "LW/Posts/Zut Allais!.md",
     "LW/Posts/Zombies— The Movie.md",
     "LW/Sequences/Yudkowsky's Coming of Age (Sequence).md",
-    "LW/Sequences/Why We Fight (Sequence).md",
-    "README.md",
-    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
-    "LW/Posts/\"Other people are wrong\" vs \"I am right\".md"
+    "LW/Sequences/Why We Fight (Sequence).md"
   ]
 }

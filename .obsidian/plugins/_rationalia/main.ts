@@ -5,6 +5,10 @@ import { getAPI } from "obsidian-dataview";
 
 const api = getAPI();
 
+// Do not update any notes that have been synched within this many milliseconds of the current time (default = 1 day.)
+// TODO: Make this a configurable setting.
+const IGNORE_PERIOD_MS = 1000 * 60 * 60;
+
 export default class Rationalia extends Plugin {
 	settings = {};
 	
@@ -34,7 +38,7 @@ export default class Rationalia extends Plugin {
 				const files = this.app.vault.getMarkdownFiles();
 
 				// Batches of 100
-				const batchSize = 50;
+				const batchSize = 10;
 				for (let i = 0; i < files.length / batchSize; i++) {
 					console.log("Synching files " + (i * batchSize) + " to " + ((i + 1) * batchSize));
 					await Promise.all(files.slice(i * batchSize, (i + 1) * batchSize).map(async (file) => {
@@ -45,13 +49,15 @@ export default class Rationalia extends Plugin {
 								(await syncNote(file.basename, await this.app.vault.read(file))) ?? ""
 							)
 						} catch (error) {
-							console.error(error)
+							if (error?.message === "Network request failed") {
+								throw error;
+							}
+							console.error("Error:", error)
 							numberOfErrors += 1;
 						}
 					}));
 					
-					await timeout(50);
-
+					await new Promise((resolve) => setTimeout(resolve, 10));
 				}
 				if (numberOfErrors === 0) {
 					new Notice('Synched all files');
@@ -112,7 +118,9 @@ const syncNote = async (title: string, value: string) => {
 
 	// @ts-ignore TODO: Add to declarations
 	const frontmatter = yaml.load(lines.slice(1, frontmatterEnd).join("\n")) as NoteFrontmatter;
-	if (!frontmatter) {
+	
+	// We only update those notes not synced in the past day
+	if (!frontmatter || (frontmatter.synchedAt && new Date(frontmatter.synchedAt).getTime() > new Date().getTime() - IGNORE_PERIOD_MS)) {
 		return value;
 	}
 	
@@ -123,10 +131,12 @@ const syncNote = async (title: string, value: string) => {
 		delete frontmatter.position;
 	}
 
+
 	switch (frontmatter.type) {
 		// case 'tag':
 		// 	return syncTag(title, frontmatter as TagFrontmatter, body)
 		case 'post': 
+			console.log("[Post]: Synching " + title)
 			return syncPost(title, frontmatter as PostFrontmatter, body)
 		// default: 
 		//	return syncMisc(frontmatter, body)
@@ -503,8 +513,4 @@ export interface PostFrontmatter {
 	synchedAt: string;
 	author: string;
 	status: Status
-}
-
-function timeout(ms: number) {
-    return new Promise(resolve => setTimeout(resolve, ms));
 }

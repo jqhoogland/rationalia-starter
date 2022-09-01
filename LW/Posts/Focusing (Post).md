@@ -15,8 +15,16 @@ tags:
 href: https://www.lesswrong.com/posts/f3o9ydY7iPjFF2fyk/focusing-1
 sequence: CFAR Handbook
 chapter: Classes
-synchedAt: '2022-08-30T08:16:31.829Z'
+synchedAt: '2022-09-01T09:28:45.155Z'
 status: todo
 ---
 
 # Focusing
+
+
+# Related
+
+- [[Focusing]]
+- [[Techniques]]
+- [[Rationality]]
+- [[Goodhart's Imperius]]
