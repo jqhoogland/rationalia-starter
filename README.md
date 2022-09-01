@@ -4,7 +4,7 @@
 
 This repository is a starting point to take notes on the concepts, terms, jargon, and principles you'll find in the rationality/effective altruism space. It was built with [Obsidian](https://obsidian.md) in mind (as a starter template for a new vault or as a drop-in for your existing vault).
 
-![Vault graph](vault-graph.png)
+![Vault graph](./Misc/Media/vault-graph.png)
 
 ## Motivation
 
@@ -42,7 +42,7 @@ END
 
 ## How to Start
 
-- [LessWrong](LW/LessWrong)
+- [LessWrong](./LW/LessWrong)
 - The Effective Altruism Forum (in progress)
 - The AI Alignment Forum (in progress)
 
