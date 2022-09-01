@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cb5c0d1f5e5a91",
+        "id": "fb23bf328e71c40b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Sequences/Quantum Physics (Sequence).md",
-            "mode": "source",
+            "file": "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Sequences/Quantum Physics (Sequence).md"
+                "file": "LW/Posts/\"Other people are wrong\" vs \"I am right\".md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Sequences/Quantum Physics (Sequence).md",
+                "file": "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "e1cb5c0d1f5e5a91",
+  "active": "fb23bf328e71c40b",
   "lastOpenFiles": [
-    "LW/Sequences/Quantum Physics (Sequence).md",
-    "LW/Sequences/4— HJG and the Phoenix's Call (Sequence).md",
-    "LW/Sequences/3— HJPEV and the Shadows of Death (Sequence).md",
-    "LW/Sequences/2— HJPEV and the Professor's Games (Sequence).md",
-    "README.md",
-    "LW/LessWrong.md",
-    "LW/Collections.md",
-    "Misc/Media/random-button.png",
-    "Misc/Media/vault-graph.png",
-    "LW/Posts/Chapter 92— Roles, Pt 3.md"
+    "LW/Posts/\"Science\" as Curiosity-Stopper.md",
+    "LW/Posts/\"Arbitrary\".md",
+    "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
+    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
+    "LW/Concepts/Adaptation Executors.md",
+    "LW/Concepts/12 Virtues.md",
+    "LW/People/Anna Salamon.md",
+    "LW/Other Resources/AXRP.md",
+    "LW/Posts/Spooky Action at a Distance— The No-Communication Theorem.md",
+    "LW/Sequences/Quantum Physics (Sequence).md"
   ]
 }

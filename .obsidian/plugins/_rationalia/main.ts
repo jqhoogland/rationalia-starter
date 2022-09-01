@@ -111,10 +111,10 @@ const syncNote = async (title: string, value: string) => {
 	switch (frontmatter.type) {
 		// case 'tag':
 		// 	return syncTag(title, frontmatter as TagFrontmatter, body)
-		// case 'post': 
-		// 	return syncPost(title, frontmatter as PostFrontmatter, body)
-		default: 
-			return syncMisc(frontmatter, body)
+		case 'post': 
+			return syncPost(title, frontmatter as PostFrontmatter, body)
+		// default: 
+		//	return syncMisc(frontmatter, body)
 	}
 }
 
@@ -279,7 +279,6 @@ export const fixLinks = async (md: string) => {
 				return `[${alias}](${href})`;
 			}
 
-			console.log(href, "->", title)
 			if (title === alias) {
 				return `[[${title}]]`
 			}
@@ -365,6 +364,9 @@ interface Post {
 	},
 	canonicalSequence: {
 		title: string
+	},
+	content: {
+		markdown
 	}
 }
 
@@ -394,6 +396,9 @@ const getPost = async (title: string, frontmatter: Partial<PostFrontmatter>) => 
 			}
             tags {
                 name
+			}
+			content {
+				markdown
 			}
           }
         }
@@ -429,7 +434,7 @@ const updatePost = async (title: string, frontmatter: Partial<PostFrontmatter>, 
 				...(frontmatter?.tags ?? []),
 				"LessWrong",
 				"Post",
-				...post.tags.map(tag => tag.name),
+				...post.tags.map(tag => makeTag(tag.name)),
 			]).values()],
 		collection: post?.canonicalCollection?.title,
 		book: post?.canonicalBook?.title,
@@ -438,12 +443,24 @@ const updatePost = async (title: string, frontmatter: Partial<PostFrontmatter>, 
 		status: frontmatter?.status ?? "todo",
 	}
 
+	if (!body.contains("# Related")) {
+		body += `\n\n# Related\n\n${post.tags.map(tag => `- [[${tag.name}]]`).join("\n")}`
+		body += getLinks(post.content.markdown).map(link => `- [[${link}]]`).join("\n")
+	}
+
 	return combine(
 		newFrontmatter,
 		body // await fixLinks(body)
 	)	
 }
 
+const makeTag = (tag: string) => tag.replaceAll(" ", "_");
+const getLinks = (body: string) => {
+	const links = body.match(/\[([^\]]+)\]\(([^\)]+)\)/g) ?? []
+	console.log(links)
+
+	return []
+}
 
 type Status = "todo" | "in progress" | "done"
 
