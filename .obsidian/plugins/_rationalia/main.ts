@@ -21,7 +21,7 @@ export default class Rationalia extends Plugin {
 				
 				this.app.vault.modify(
 					view.file,
-					await syncNote(title, editor.getValue())
+					(await syncNote(title, editor.getValue())) ?? ""
 				)
 			}
 		})
@@ -33,10 +33,11 @@ export default class Rationalia extends Plugin {
 				let numberOfErrors = 0;
 
 				await Promise.all(this.app.vault.getMarkdownFiles().map(async (file) => {
-					 try {
+					try {
+						 console.log(file.basename)
 						this.app.vault.modify(
 							file,
-							await syncNote(file.basename, await this.app.vault.read(file))
+							(await syncNote(file.basename, await this.app.vault.read(file))) ?? ""
 						 )
 					 } catch (error) {
 						console.error(error)
@@ -102,7 +103,12 @@ const syncNote = async (title: string, value: string) => {
 
 	// @ts-ignore TODO: Add to declarations
 	const frontmatter = yaml.load(lines.slice(1, frontmatterEnd).join("\n")) as NoteFrontmatter;
+	if (!frontmatter) {
+		return value;
+	}
+	
 	const body = lines.slice(frontmatterEnd + 1).join("\n");
+	
 	// Inserted by who knows
 	if ("position" in frontmatter) {
 		delete frontmatter.position;
@@ -116,6 +122,7 @@ const syncNote = async (title: string, value: string) => {
 		// default: 
 		//	return syncMisc(frontmatter, body)
 	}
+	return value;
 }
 
 const combine = (frontmatter: NoteFrontmatter, body: string) => {
@@ -188,7 +195,7 @@ const getTag = (title: string, frontmatter: TagFrontmatter) => {
         }
     }`
 
-	return request('https://www.lesswrong.com/graphql', query)
+	return request('https://www.lesswrong.com/graphql', query, {}, { Host: "www.lesswrong.com"})
 		.then(({ tag }: { tag: { result: Tag } }) => {
 			return tag.result;
 		})		
@@ -365,8 +372,8 @@ interface Post {
 	canonicalSequence: {
 		title: string
 	},
-	content: {
-		markdown
+	contents: {
+		markdown: string
 	}
 }
 
@@ -397,14 +404,14 @@ const getPost = async (title: string, frontmatter: Partial<PostFrontmatter>) => 
             tags {
                 name
 			}
-			content {
+			contents {
 				markdown
 			}
           }
         }
     }`
 
-	return request('https://www.lesswrong.com/graphql', query)
+	return request('https://www.lesswrong.com/graphql', query, {}, { Host: "www.lesswrong.com"})
 		.then(({ post }: { post: { result: Post } }) => {
 			return post.result;
 		})		
@@ -444,8 +451,12 @@ const updatePost = async (title: string, frontmatter: Partial<PostFrontmatter>, 
 	}
 
 	if (!body.contains("# Related")) {
-		body += `\n\n# Related\n\n${post.tags.map(tag => `- [[${tag.name}]]`).join("\n")}`
-		body += getLinks(post.content.markdown).map(link => `- [[${link}]]`).join("\n")
+		const related = new Set([
+			...post.tags.map(tag => `[[${tag.name}]]`),
+			...(await getLinks(post.contents.markdown))
+		])
+
+		body += `\n\n# Related\n\n${[...related.values()].map(tag => `- ${tag}`).join("\n")}`
 	}
 
 	return combine(
@@ -455,11 +466,19 @@ const updatePost = async (title: string, frontmatter: Partial<PostFrontmatter>, 
 }
 
 const makeTag = (tag: string) => tag.replaceAll(" ", "_");
-const getLinks = (body: string) => {
-	const links = body.match(/\[([^\]]+)\]\(([^\)]+)\)/g) ?? []
-	console.log(links)
-
-	return []
+const getLinks = async (body: string) => {
+	// Matches `.[alias](href)` (with one preceding character to avoid images)
+	const links = body.match(/[^\!]\[([^\]]+)\]\(([^\)]+)\)/g) ?? []
+	
+	return Promise.all(
+		links.map(async (link) => {
+			const [, , href] = link.match(/\[([^\]]+)\]\(([^\)]+)\)/) ?? []
+			const fixedLink = await getTitleFromLink(href)
+			if (!fixedLink) {
+				return `"${link.slice(1)}"`;
+			}
+			return `[[${fixedLink}]]`
+	}))
 }
 
 type Status = "todo" | "in progress" | "done"

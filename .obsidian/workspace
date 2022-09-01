@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
-            "mode": "preview",
+            "file": "LW/Posts/Zut Allais!.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Coordination / Cooperation",
+                "query": "\\\" \\[",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "402f879634acba83",
@@ -63,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Posts/\"Other people are wrong\" vs \"I am right\".md"
+                "file": "LW/Posts/Zut Allais!.md"
               }
             }
           }
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
+                "file": "LW/Posts/Zut Allais!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +131,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "fb23bf328e71c40b",
+  "active": "92830efe01fd330c",
   "lastOpenFiles": [
+    "LW/Posts/Zombies— The Movie.md",
+    "LW/Sequences/Yudkowsky's Coming of Age (Sequence).md",
+    "LW/Sequences/Why We Fight (Sequence).md",
+    "README.md",
+    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
+    "LW/Posts/'An objective defense of Bayesianism'.md",
+    "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
     "LW/Posts/\"Science\" as Curiosity-Stopper.md",
     "LW/Posts/\"Arbitrary\".md",
-    "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
-    "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
-    "LW/Concepts/Adaptation Executors.md",
-    "LW/Concepts/12 Virtues.md",
-    "LW/People/Anna Salamon.md",
-    "LW/Other Resources/AXRP.md",
-    "LW/Posts/Spooky Action at a Distance— The No-Communication Theorem.md",
-    "LW/Sequences/Quantum Physics (Sequence).md"
+    "LW/Concepts/Adaptation Executors.md"
   ]
 }
