@@ -1,14 +1,14 @@
 ---
 _id: Q55STnFh6gbSezRuR
 title: Parenting
-href: https://lesswrong.com/tag/parenting
+href: https://www.lesswrong.com/tag/parenting
 slug: parenting
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.717Z'
+synchedAt: '2022-09-01T09:42:30.724Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 **Related pages:** [[Education]], [[Developmental Psychology]], [[Santa Claus]], [[Family planning|family planning]]
 
 **External links:** [Baby sign language](https://en.wikipedia.org/wiki/Baby_sign_language)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Parenting**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

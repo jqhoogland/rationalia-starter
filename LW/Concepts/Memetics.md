@@ -1,14 +1,14 @@
 ---
 _id: T4GgauaEfp6dHsR5P
 title: Memetics
-href: https://lesswrong.com/tag/memetics
+href: https://www.lesswrong.com/tag/memetics
 slug: memetics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:10.753Z'
+synchedAt: '2022-09-01T09:42:35.594Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ status: todo
 **Related Pages:** [[Evolution]], [[Evolutionary Psychology]], [[Information Cascades]], [[Information Hazards]], [[Belief]], [[Religion]], [[Social & Cultural Dynamics]], [[Writing (communication method)]], [[Censorship]], [[Cultural knowledge]], [[Simulacrum Levels]], [[Social Media]]
 
 **See also:** [Wikipedia page](https://en.wikipedia.org/wiki/Memetics)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Memetics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

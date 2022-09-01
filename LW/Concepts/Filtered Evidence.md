@@ -1,14 +1,14 @@
 ---
 _id: P64rmDCvTBAehmkoi
 title: Filtered Evidence
-href: https://lesswrong.com/tag/filtered-evidence
+href: https://www.lesswrong.com/tag/filtered-evidence
 slug: filtered-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:13.402Z'
+synchedAt: '2022-09-01T09:42:46.074Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ status: todo
 - [Dark arts](https://lessestwrong.com/tag/dark-arts), [Arguments as soldiers](https://lessestwrong.com/tag/arguments-as-soldiers), [Rationalization](https://lessestwrong.com/tag/rationalization)
 - [Not technically a lie](https://lessestwrong.com/tag/not-technically-a-lie)
 - [[Anthropics]] (`= [[Anthropics]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Filtered Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

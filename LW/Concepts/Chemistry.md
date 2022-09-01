@@ -1,15 +1,28 @@
 ---
 _id: uxmGtpeE3KoE7pzSL
 title: Chemistry
-href: https://lesswrong.com/tag/chemistry
+href: https://www.lesswrong.com/tag/chemistry
 slug: chemistry
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.251Z'
+synchedAt: '2022-09-01T09:42:53.648Z'
 status: todo
 ---
 
 # Chemistry
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Chemistry**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

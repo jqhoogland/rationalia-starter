@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2b1
 title: Whole Brain Emulation
-href: https://lesswrong.com/tag/whole-brain-emulation
+href: https://www.lesswrong.com/tag/whole-brain-emulation
 slug: whole-brain-emulation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:38.107Z'
+synchedAt: '2022-09-01T09:42:18.526Z'
 aliases:
   - WBE
 status: todo
@@ -70,3 +70,16 @@ An emulated-brain populated world could hold severe negative consequences, such 
 9. PENROSE, Roger (1994) Shadows of the Mind, Oxford: Oxford University Press.[↩](#fnref9)
 10. BLOCK, Ned (1981) Psychologism and behaviorism, Philosophical Review, 90, pp. 5–43.[↩](#fnref10)
 11. BOSTROM, Nick.(2004) "The future of human evolution". Death and Anti‐Death: Two Hundred Years After Kant, Fifty Years After Turing, ed. Charles Tandy (Ria University Press: Palo Alto, California, 2004): pp. 339‐371. Available at: [http://www.nickbostrom.com/fut/evolution.pdf](http://www.nickbostrom.com/fut/evolution.pdf)[↩](#fnref11)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Whole Brain Emulation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

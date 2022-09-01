@@ -1,14 +1,14 @@
 ---
 _id: 3ee9k6NJfcGzL6kMS
 title: Emotions
-href: https://lesswrong.com/tag/emotions
+href: https://www.lesswrong.com/tag/emotions
 slug: emotions
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:05.399Z'
+synchedAt: '2022-09-01T09:42:49.026Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Contrary to the stereotype, [[Rationality|rationality]] doesn't mean denying **e
 - [[Truth, Semantics, & Meaning|Truth]], [[Rationality]]
 - [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
 - [[Hollywood Rationality|Hollywood rationality]] (`= [[Hollywood Rationality|Hollywood rationality]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Emotions**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

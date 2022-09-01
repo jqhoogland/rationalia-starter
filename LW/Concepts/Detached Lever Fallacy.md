@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb17b
 title: Detached Lever Fallacy
-href: https://lesswrong.com/tag/detached-lever-fallacy
+href: https://www.lesswrong.com/tag/detached-lever-fallacy
 slug: detached-lever-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:17.672Z'
+synchedAt: '2022-09-01T09:42:49.916Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ But if that machinery isn't there - if you're writing "apple" as five ASCII lett
 - [[Fake Simplicity|Fake simplicity]] (`= [[Fake Simplicity|Fake simplicity]].status`)
 - [[Semantic Stopsign|Semantic stopsign]], [[Cached Thoughts|Cached thought]]
 - [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Detached Lever Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

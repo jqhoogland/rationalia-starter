@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2be
 title: Machine Ethics
-href: https://lesswrong.com/tag/machine-ethics
+href: https://www.lesswrong.com/tag/machine-ethics
 slug: machine-ethics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:17.573Z'
+synchedAt: '2022-09-01T09:42:36.516Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ As Wallach and Allen pose it, “even if full moral agency for machines is a lon
 
 - [[Utility]] (`= [[Utility]].status`)
 - [[Utilitarianism]] (`= [[Utilitarianism]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Machine Ethics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

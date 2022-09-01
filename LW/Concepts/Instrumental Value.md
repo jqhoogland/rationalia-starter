@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2a3
 title: Instrumental Value
-href: https://lesswrong.com/tag/instrumental-value
+href: https://www.lesswrong.com/tag/instrumental-value
 slug: instrumental-value
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:24.535Z'
+synchedAt: '2022-09-01T09:42:38.615Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ An **instrumental value** is a value pursued for the purpose of achieving other 
 ## See Also
 
 - [Convergent instrumental goals](https://wiki.lesswrong.com/wiki/Convergent_instrumental_goals)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Instrumental Value**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb356
 title: Road To AI Safety Excellence
-href: https://lesswrong.com/tag/road-to-ai-safety-excellence
+href: https://www.lesswrong.com/tag/road-to-ai-safety-excellence
 slug: road-to-ai-safety-excellence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:33.210Z'
+synchedAt: '2022-09-01T09:42:24.419Z'
 status: todo
 ---
 
@@ -223,3 +223,16 @@ I want to note that what we are doing here *isn’t hard*. Courses at universiti
 - [list of resources](https://workflowy.com/s/D0Q9.oyUe39KbLp)
 - [facebook group](https://www.facebook.com/groups/1421511671230776/)
 - [Announcement post on LessWrong](http://lesswrong.com/r/discussion/lw/p5e/announcing_aasaa_accelerating_ai_safety_adoption/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Road To AI Safety Excellence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

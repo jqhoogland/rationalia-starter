@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb100
 title: Overcoming Bias
-href: https://lesswrong.com/tag/overcoming-bias
+href: https://www.lesswrong.com/tag/overcoming-bias
 slug: overcoming-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:16.911Z'
+synchedAt: '2022-09-01T09:42:16.448Z'
 aliases:
   - OB
 status: todo
@@ -21,3 +21,16 @@ status: todo
 **See Also**
 
 - [About Overcoming Bias](https://www.overcomingbias.com/about)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Overcoming Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

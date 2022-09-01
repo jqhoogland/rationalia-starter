@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb318
 title: The Machine In The Ghost
-href: https://lesswrong.com/tag/the-machine-in-the-ghost
+href: https://www.lesswrong.com/tag/the-machine-in-the-ghost
 slug: the-machine-in-the-ghost
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:11:28.540Z'
+synchedAt: '2022-09-01T09:42:21.182Z'
 status: todo
 ---
 
@@ -126,3 +126,16 @@ L. The Simple Math of Evolution
 179\. [Variable Question Fallacies](http://lesswrong.com/lw/oc/variable_question_fallacies)
 
 180\. [37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition](http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Machine In The Ghost**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

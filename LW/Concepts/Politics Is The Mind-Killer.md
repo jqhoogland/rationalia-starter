@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb207
 title: Politics Is The Mind-Killer
-href: https://lesswrong.com/tag/politics-is-the-mind-killer
+href: https://www.lesswrong.com/tag/politics-is-the-mind-killer
 slug: politics-is-the-mind-killer
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:58.320Z'
+synchedAt: '2022-09-01T09:42:29.303Z'
 status: todo
 ---
 
@@ -52,3 +52,16 @@ Closely related to [[Death Spirals and The Cult Attractor|Death Spirals and the 
 - [Evaporative Cooling of Group Beliefs](http://lesswrong.com/lw/lr/evaporative_cooling_of_group_beliefs/)
 - [When None Dare Urge Restraint](http://lesswrong.com/lw/ls/when_none_dare_urge_restraint/)
 - [The Two-Party Swindle](http://lesswrong.com/lw/mg/the_twoparty_swindle/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Politics Is The Mind-Killer**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

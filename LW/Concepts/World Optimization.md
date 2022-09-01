@@ -1,7 +1,7 @@
 ---
 _id: xexCWMyds6QLWognu
 title: World Optimization
-href: https://lesswrong.com/tag/world-optimization
+href: https://www.lesswrong.com/tag/world-optimization
 slug: world-optimization
 type: tag
 tags:
@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 core: true
-synchedAt: '2022-08-29T11:04:12.009Z'
+synchedAt: '2022-09-01T09:42:18.248Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ But it’s not just about growth, it’s also about preservation. We are still i
 Content which describes *how the world is* that directly bears upon choices one makes to optimize the world fall under this tag. Examples include discussion of the moral patienthood of different animals, the potential of human civilization, and the most effective interventions against a global health threat.
 
 Some material has both immediate relevance to world optimization decisions but also can inform broader world models. This material might be included under both [[World Modeling]] tag and this tag.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **World Optimization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: wzgcQCrwKfETcBpR9
 title: Disagreement
-href: https://lesswrong.com/tag/disagreement
+href: https://www.lesswrong.com/tag/disagreement
 slug: disagreement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:08.562Z'
+synchedAt: '2022-09-01T09:42:49.886Z'
 status: todo
 ---
 
@@ -47,3 +47,16 @@ Outside of well-functioning [prediction markets](https://lessestwrong.com/tag/pr
 
 - [We Can't Disagree Forever](http://cowles.econ.yale.edu/P/cp/p05b/p0552.pdf) by John Geanakoplos and Heraklis Polemarchakis
 - [Information, Trade, and Common Knowledge](http://www.kellogg.northwestern.edu/research/math/papers/377.pdf) by Paul Milgrom and Nancy Stokey
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Disagreement**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1dd
 title: Aumann Agreement
-href: https://lesswrong.com/tag/aumann-agreement
+href: https://www.lesswrong.com/tag/aumann-agreement
 slug: aumann-agreement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:19.442Z'
+synchedAt: '2022-09-01T09:42:55.861Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ The fact that disagreements on questions of simple fact are so common amongst hu
 - [[Aumann's Agreement Theorem|Aumann's agreement theorem]] (`= [[Aumann's Agreement Theorem|Aumann's agreement theorem]].status`)
 - [[Disagreement]] (`= [[Disagreement]].status`)
 - [[Conservation of Expected Evidence|Conservation of expected evidence]] (`= [[Conservation of Expected Evidence|Conservation of expected evidence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Aumann Agreement**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

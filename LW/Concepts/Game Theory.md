@@ -1,14 +1,14 @@
 ---
 _id: b8FHrKqyXuYGWc6vn
 title: Game Theory
-href: https://lesswrong.com/tag/game-theory
+href: https://www.lesswrong.com/tag/game-theory
 slug: game-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:10.193Z'
+synchedAt: '2022-09-01T09:42:42.725Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ Game theory is an extremely powerful and robust tool in analyzing much more comp
 
 - [Naïve introduction to Game Theory](http://levine.sscnet.ucla.edu/general/whatis.htm)
 - [Stanford Encyclopedia entry on Game Theory](http://plato.stanford.edu/entries/game-theory/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Game Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

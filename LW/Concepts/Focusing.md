@@ -1,14 +1,14 @@
 ---
 _id: JHzjkFnQgsrRrucqQ
 title: Focusing
-href: https://lesswrong.com/tag/focusing
+href: https://www.lesswrong.com/tag/focusing
 slug: focusing
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:24.786Z'
+synchedAt: '2022-09-01T09:42:45.985Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 Focusing draws in name from the [book and technique](https://www.amazon.com/Focusing-Eugene-T-Gendlin/dp/0553278339) of the same name by psychologist Eugene Gendlin (Who's also known on LessWrong for the [[Litany of Gendlin]]), and since his introduction, some have developed their own variations \[[1](https://www.lessestwrong.com/posts/PXqQhYEdbdAYCp88m/focusing-for-skeptics)\].
 
 Related techniques: [[Internal Double Crux]], [[ Suprise-o-meter|Inner Simulator]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Focusing**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

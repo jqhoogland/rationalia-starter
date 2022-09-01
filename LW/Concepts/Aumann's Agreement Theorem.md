@@ -1,14 +1,14 @@
 ---
 _id: WH5ZmNSjZmK9SMj7k
 title: Aumann's Agreement Theorem
-href: https://lesswrong.com/tag/aumann-s-agreement-theorem
+href: https://www.lesswrong.com/tag/aumann-s-agreement-theorem
 slug: aumann-s-agreement-theorem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:46.757Z'
+synchedAt: '2022-09-01T09:42:55.846Z'
 status: todo
 ---
 
@@ -44,3 +44,16 @@ status: todo
 
 - ([PDF](http://www.ma.huji.ac.il/~raumann/pdf/Agreeing%20to%20Disagree.pdf))
 - ([PDF](http://hanson.gmu.edu/deceive.pdf), [Talk video](http://www.newmedia.ufm.edu/gsm/index.php?title=Are_Disagreements_Honest%3F))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Aumann's Agreement Theorem**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

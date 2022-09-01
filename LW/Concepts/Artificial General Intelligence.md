@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb178
 title: Artificial General Intelligence
-href: https://lesswrong.com/tag/artificial-general-intelligence
+href: https://www.lesswrong.com/tag/artificial-general-intelligence
 slug: artificial-general-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:31.757Z'
+synchedAt: '2022-09-01T09:42:56.174Z'
 status: todo
 ---
 
@@ -55,3 +55,16 @@ Reasons for expecting an AGI's creation in the near future include the continuat
 - [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
 - [[Singleton]] (`= [[Singleton]].status`)
 - [[Anthropomorphism]], [[Giant Cheesecake Fallacy|giant cheesecake fallacy]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Artificial General Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

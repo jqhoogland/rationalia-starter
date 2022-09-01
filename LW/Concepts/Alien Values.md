@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a8
 title: Alien Values
-href: https://lesswrong.com/tag/alien-values
+href: https://www.lesswrong.com/tag/alien-values
 slug: alien-values
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:18.515Z'
+synchedAt: '2022-09-01T09:42:57.136Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ There are no rules requiring minds to value life, liberty or the pursuit of happ
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
 - [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip maximizer]]
 - [[Anthropomorphism]], [[Human Universal|Human universal]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Alien Values**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb14c
 title: Marginally Zero-Sum Game
 slug: marginally-zero-sum-game
 href: https://www.lesswrong.com/tag/marginally-zero-sum-game
-synchedAt: '2022-08-30T12:57:36.354Z'
+synchedAt: '2022-09-01T09:42:35.919Z'
 tags:
   - LessWrong
   - Tag
@@ -17,3 +17,15 @@ Blog posts
 ----------
 
 *   [Marginally Zero-Sum Efforts](http://lesswrong.com/lw/hj/marginally_zerosum_efforts/)
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Marginally zero-sum game**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

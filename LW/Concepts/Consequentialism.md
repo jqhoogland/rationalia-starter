@@ -1,14 +1,14 @@
 ---
 _id: ZTRNmvQGgoYiymYnq
 title: Consequentialism
-href: https://lesswrong.com/tag/consequentialism
+href: https://www.lesswrong.com/tag/consequentialism
 slug: consequentialism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:11.984Z'
+synchedAt: '2022-09-01T09:42:52.011Z'
 status: todo
 ---
 
@@ -49,3 +49,16 @@ Consequentialism is often associated with maximizing the [[Expected Utility|expe
 - Perter Fishburn (1970). *Utility Theory for Decision Making*. Huntington, NY.
 - Walter Sinnot-Armstrong (2011). "[Consequentialism](http://plato.stanford.edu/archives/win2011/entries/consequentialism/)". *The Stanford Encyclopedia of Philosophy (Winter 2011 Edition)*.
 - Judith Jarvis Thonson (1975). "Killing, Letting Die, and the Trolley Problem". *The Monist* **59**: 204-217.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Consequentialism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

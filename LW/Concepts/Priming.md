@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb128
 title: Priming
-href: https://lesswrong.com/tag/priming
+href: https://www.lesswrong.com/tag/priming
 slug: priming
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:02.665Z'
+synchedAt: '2022-09-01T09:42:28.046Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ status: todo
 - [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes) (sequence)
 - [[Affect Heuristic|Affect heuristic]] (`= [[Affect Heuristic|Affect heuristic]].status`)
 - [[Aversion|Ugh field]] (`= [[Aversion|Ugh field]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Priming**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

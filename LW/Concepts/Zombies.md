@@ -1,14 +1,14 @@
 ---
 _id: uLqT8mmFiA8NeytTi
 title: Zombies
-href: https://lesswrong.com/tag/zombies
+href: https://www.lesswrong.com/tag/zombies
 slug: zombies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:28.146Z'
+synchedAt: '2022-09-01T09:42:18.230Z'
 aliases:
   - p-zombie
   - Philosophical zombie
@@ -39,3 +39,16 @@ Non-physicalists use the apparent conceivability of p-zombies to argue that it i
 - Tags: [[Consciousness]]
 - Sequences: [Physicalism 201](https://www.lesswrong.com/s/FqgKAHZAiZn9JAjDo)
 - Wiki pages: [[How An Algorithm Feels|How an algorithm feels]], [Making beliefs pay rent‎](https://wiki.lesswrong.com/wiki/Making_beliefs_pay_rent%E2%80%8E)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Zombies**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

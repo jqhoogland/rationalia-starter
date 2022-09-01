@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb133
 title: Modesty
 slug: modesty
 href: https://www.lesswrong.com/tag/modesty
-synchedAt: '2022-08-30T12:49:49.706Z'
+synchedAt: '2022-09-01T09:42:35.191Z'
 tags:
   - LessWrong
   - Tag
@@ -35,3 +35,16 @@ See also
 * [[Disagreement]]
 
 * [[Doubt]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Modesty**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

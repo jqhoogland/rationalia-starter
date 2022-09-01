@@ -1,14 +1,14 @@
 ---
 _id: wRdzfoH39vxqtNf37
 title: The Signaling Trilemma
-href: https://lesswrong.com/tag/the-signaling-trilemma
+href: https://www.lesswrong.com/tag/the-signaling-trilemma
 slug: the-signaling-trilemma
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:17.897Z'
+synchedAt: '2022-09-01T09:42:20.822Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ The **belief signaling trilemma** (or *signaling trilemma* for simplicity) point
 3. We could embrace dishonest reporting of beliefs, but this can severely warp the discourse.
 
 **Related tags/pages:** [[Deception]], [[Honesty]], [[Meta-Honesty]], [[Signaling]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Signaling Trilemma**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

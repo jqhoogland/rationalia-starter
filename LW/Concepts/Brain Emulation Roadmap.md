@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2fd
 title: Brain Emulation Roadmap
-href: https://lesswrong.com/tag/brain-emulation-roadmap
+href: https://www.lesswrong.com/tag/brain-emulation-roadmap
 slug: brain-emulation-roadmap
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:36.264Z'
+synchedAt: '2022-09-01T09:42:54.676Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ Two critiques of the Roadmap were published on a blog in 2010[^1^](#fn1)[^2^](#f
 
 1. [David Matthewman on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/20/david-matthewman-whole-brain-emulation-roadmap/)[↩](#fnref1)
 2. [Doug Clow on the Whole Brain Emulation roadmap](http://blog.ciphergoth.org/blog/2010/02/24/doug-clow-whole-brain-emulation-roadmap/)[↩](#fnref2)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Brain Emulation Roadmap**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

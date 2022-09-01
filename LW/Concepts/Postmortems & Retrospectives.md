@@ -1,14 +1,14 @@
 ---
 _id: zcvsZQWJBFK6SxK4K
 title: Postmortems & Retrospectives
-href: https://lesswrong.com/tag/postmortems-and-retrospectives
+href: https://www.lesswrong.com/tag/postmortems-and-retrospectives
 slug: postmortems-and-retrospectives
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:09.909Z'
+synchedAt: '2022-09-01T09:42:28.409Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ This tag is specifically reporting actions and outcomes together with an evaluat
 **Related pages:** [[Updated Beliefs (examples of)]], [[Growth Stories]], [[Progress Studies]]
 
 **See also:** [Premortem](https://en.wikipedia.org/wiki/Pre-mortem)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Postmortems & Retrospectives**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

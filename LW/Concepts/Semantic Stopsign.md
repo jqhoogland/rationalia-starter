@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb12b
 title: Semantic Stopsign
-href: https://lesswrong.com/tag/semantic-stopsign
+href: https://www.lesswrong.com/tag/semantic-stopsign
 slug: semantic-stopsign
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:14.643Z'
+synchedAt: '2022-09-01T09:42:23.888Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ When specific words act as stopsigns, placing a [[Rationalist Taboo|rationalist 
 - [[Anti-Epistemology|Anti-epistemology]], [[Logical Rudeness|Logical rudeness]]
 - [[Rationalist Taboo|Rationalist taboo]], [[Epistemic Hygiene|Epistemic hygiene]]
 - [[Phlogiston]] (`= [[Phlogiston]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Semantic Stopsign**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

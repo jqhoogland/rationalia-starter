@@ -1,14 +1,14 @@
 ---
 _id: qf3kDBak4BQDDw3f2
 title: Modest Epistemology
-href: https://lesswrong.com/tag/modest-epistemology
+href: https://www.lesswrong.com/tag/modest-epistemology
 slug: modest-epistemology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.251Z'
+synchedAt: '2022-09-01T09:42:35.166Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Historically, Robin Hanson has argued in favor of epistemic modesty and outside-
 **Related Sequences:** [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d)
 
 **Related Pages:** [[Humility|modesty]], [[Humility]], [[Outside View]], [[Egalitarianism]], [[Modesty Argument|Modesty argument]], [[Disagreement]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Modest Epistemology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

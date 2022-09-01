@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1cc
 title: Hollywood Rationality
-href: https://lesswrong.com/tag/hollywood-rationality
+href: https://www.lesswrong.com/tag/hollywood-rationality
 slug: hollywood-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:26.639Z'
+synchedAt: '2022-09-01T09:42:40.954Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Contrast to [[Traditional Rationality|Traditional rationality]], or better yet, 
 
 - [Straw Vulcan](http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan) \- TV Tropes Wiki entry discussing the problems with the common stereotype.
 - [Julia Galef Skepticon IV talk on the same theme](http://measureofdoubt.com/2011/11/26/the-straw-vulcan-hollywoods-illogical-approach-to-logical-decisionmaking/) \- [summary on Less Wrong](http://lesswrong.com/lw/90n/summary_of_the_straw_vulcan/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hollywood Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb226
 title: Robot
-href: https://lesswrong.com/tag/robot
+href: https://www.lesswrong.com/tag/robot
 slug: robot
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:44.649Z'
+synchedAt: '2022-09-01T09:42:24.407Z'
 status: todo
 ---
 
@@ -253,3 +253,16 @@ See also
 - [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools)
 - [[Prediction Markets|Prediction market]] (`= [[Prediction Markets|Prediction market]].status`)
 - [[Predictionbook|PredictionBook]] (`= [[Predictionbook|PredictionBook]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Robot**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

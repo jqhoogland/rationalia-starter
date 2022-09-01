@@ -1,14 +1,14 @@
 ---
 _id: aozxtmy7FEkkvfWzE
 title: Grabby Aliens
-href: https://lesswrong.com/tag/grabby-aliens
+href: https://www.lesswrong.com/tag/grabby-aliens
 slug: grabby-aliens
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:15.452Z'
+synchedAt: '2022-09-01T09:42:42.077Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ status: todo
 
 - [[Great Filter]] (`= [[Great Filter]].status`)
 - [[Anthropics]] (`= [[Anthropics]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Grabby Aliens**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

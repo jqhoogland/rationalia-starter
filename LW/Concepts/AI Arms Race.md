@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2b2
 title: AI Arms Race
-href: https://lesswrong.com/tag/ai-arms-race
+href: https://www.lesswrong.com/tag/ai-arms-race
 slug: ai-arms-race
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:45.121Z'
+synchedAt: '2022-09-01T09:42:59.262Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ If the benefits of an intelligence explosion accrue to the group that created it
 
 - [Arms races and intelligence explosions](http://singularityhypothesis.blogspot.com/2011/04/arms-races-and-intelligence-explosions.html)
 - [Arms control and intelligence explosions](http://intelligence.org/files/ArmsControl.pdf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AI Arms Race**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

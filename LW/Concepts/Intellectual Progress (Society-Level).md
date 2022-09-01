@@ -1,14 +1,14 @@
 ---
 _id: aHjTRDkGypPqbXWpN
 title: Intellectual Progress (Society-Level)
-href: https://lesswrong.com/tag/intellectual-progress-society-level
+href: https://www.lesswrong.com/tag/intellectual-progress-society-level
 slug: intellectual-progress-society-level
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.867Z'
+synchedAt: '2022-09-01T09:42:38.592Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Also related to: [[Progress Studies]], [[Practice & Philosophy of Science]]
  
 
 \[TO-DO: link Science tag(s)\]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Intellectual Progress (Society-Level)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

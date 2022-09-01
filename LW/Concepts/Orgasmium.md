@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb238
 title: Orgasmium
-href: https://lesswrong.com/tag/orgasmium
+href: https://www.lesswrong.com/tag/orgasmium
 slug: orgasmium
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: ''
+synchedAt: '2022-09-01T09:42:31.905Z'
 aliases:
   - Hedonium
 status: todo
@@ -30,3 +30,16 @@ status: todo
 - [[Fun theory]] (`= [[Fun theory]].status`)
 - [[Complexity of value]] (`= [[Complexity of value]].status`)
 - [[Utilitronium]] (`= [[Utilitronium]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Orgasmium**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

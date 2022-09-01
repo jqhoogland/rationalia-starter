@@ -1,14 +1,14 @@
 ---
 _id: sPpZRaxpNNJjw55eu
 title: Progress Studies
-href: https://lesswrong.com/tag/progress-studies
+href: https://www.lesswrong.com/tag/progress-studies
 slug: progress-studies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:06.455Z'
+synchedAt: '2022-09-01T09:42:26.592Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ status: todo
 ## External Resources
 
 - [*Roots of Progress*](https://rootsofprogress.org/about) is a blog by [jasoncrawford](https://www.lesswrong.com/users/jasoncrawford) that explores the history of technology and industry alongside the philosophical questions of human progress. Many of the blogs posts are crossposted to LessWrong.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Progress Studies**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

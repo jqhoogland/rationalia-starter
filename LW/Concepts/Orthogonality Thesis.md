@@ -1,14 +1,14 @@
 ---
 _id: BXL4riEJvJJHoydjG
 title: Orthogonality Thesis
-href: https://lesswrong.com/tag/orthogonality-thesis
+href: https://www.lesswrong.com/tag/orthogonality-thesis
 slug: orthogonality-thesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:29.246Z'
+synchedAt: '2022-09-01T09:42:32.099Z'
 status: todo
 ---
 
@@ -40,3 +40,16 @@ There are some pairings of intelligence and goals which cannot exist. For instan
 - [Arbital orthogonality thesis article ](https://arbital.com/p/orthogonality/)
 - [Critique](http://philosophicaldisquisitions.blogspot.com/2012/04/bostrom-on-superintelligence-and.html) of the thesis by John Danaher
 - Superintelligent Will paper by Nick Bostrom
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Orthogonality Thesis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

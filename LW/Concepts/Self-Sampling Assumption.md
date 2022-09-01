@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2e9
 title: Self-Sampling Assumption
-href: https://lesswrong.com/tag/self-sampling-assumption
+href: https://www.lesswrong.com/tag/self-sampling-assumption
 slug: self-sampling-assumption
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:30.971Z'
+synchedAt: '2022-09-01T09:42:23.564Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ SSA implies the [[Doomsday Argument|doomsday argument]] if the number of total o
 ## References
 
 1. Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref1)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Self-Sampling Assumption**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

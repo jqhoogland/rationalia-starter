@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2c0
 title: Evolutionary Algorithm
-href: https://lesswrong.com/tag/evolutionary-algorithm
+href: https://www.lesswrong.com/tag/evolutionary-algorithm
 slug: evolutionary-algorithm
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:23.518Z'
+synchedAt: '2022-09-01T09:42:48.060Z'
 status: todo
 ---
 
@@ -43,3 +43,16 @@ It seems possible that with enough computer power we would be able to produce a 
 - [[Evolution]] (`= [[Evolution]].status`)
 - [[Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
 - [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evolutionary Algorithm**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

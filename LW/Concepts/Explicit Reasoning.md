@@ -1,14 +1,14 @@
 ---
 _id: QT87jxkk6DXuS8hGA
 title: Explicit Reasoning
-href: https://lesswrong.com/tag/explicit-reasoning
+href: https://www.lesswrong.com/tag/explicit-reasoning
 slug: explicit-reasoning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:18.135Z'
+synchedAt: '2022-09-01T09:42:47.687Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Explicit reasoning is one of many modes of reasoning by which humans may reach c
 Other types of reasoning include [[ Suprise-o-meter|inner sim]], gestalt pattern recognition, mental imagery, and [[Focusing|Gendlin's Focusing]]. Important questions include when to trust different modes of reasoning, how to combine the results of different reasoning modes, and how to best facilitate communication between different modes of reasoning.
 
 Related to: [[Dual Process Theory (System 1 & System 2)|Dual Process Theory]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Explicit Reasoning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

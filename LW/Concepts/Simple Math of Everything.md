@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb18d
 title: Simple Math of Everything
-href: https://lesswrong.com/tag/simple-math-of-everything
+href: https://www.lesswrong.com/tag/simple-math-of-everything
 slug: simple-math-of-everything
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:24.429Z'
+synchedAt: '2022-09-01T09:42:23.562Z'
 status: todo
 ---
 
@@ -81,3 +81,16 @@ See Also
 
 - [[General Knowledge|General knowledge]] (`= [[General Knowledge|General knowledge]].status`)
 - [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Simple Math of Everything**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

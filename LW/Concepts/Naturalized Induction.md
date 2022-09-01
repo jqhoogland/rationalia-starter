@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb307
 title: Naturalized Induction
-href: https://lesswrong.com/tag/naturalized-induction
+href: https://www.lesswrong.com/tag/naturalized-induction
 slug: naturalized-induction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:56.990Z'
+synchedAt: '2022-09-01T09:42:34.293Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Naturalized induction is a particular angle of approach on larger Friendly AI su
 - [Solomonoff Cartesianism](http://lesswrong.com/lw/jg1/solomonoff_cartesianism/) by Rob Bensinger
 - [The Problem with AIXI](http://lesswrong.com/lw/jti/the_problem_with_aixi/) by Rob Bensinger
 - [Formalizing Two Problems of Realistic World-Models](https://intelligence.org/files/RealisticWorldModels.pdf) by Nate Soares
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Naturalized Induction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

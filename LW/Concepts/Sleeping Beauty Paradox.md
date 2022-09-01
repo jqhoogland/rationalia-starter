@@ -1,14 +1,14 @@
 ---
 _id: NZB24aR9uHmDc5GcT
 title: Sleeping Beauty Paradox
-href: https://lesswrong.com/tag/sleeping-beauty-paradox
+href: https://www.lesswrong.com/tag/sleeping-beauty-paradox
 slug: sleeping-beauty-paradox
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.736Z'
+synchedAt: '2022-09-01T09:42:23.303Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ A third argument tries to add rigor by considering monetary payoffs. If Beauty's
 - [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
 - [[Prisoner's Dilemma]] (`= [[Prisoner's Dilemma]].status`)
 - [[Pascal's Mugging]] (`= [[Pascal's Mugging]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Sleeping Beauty Paradox**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

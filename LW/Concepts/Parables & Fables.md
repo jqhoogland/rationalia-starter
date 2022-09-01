@@ -1,14 +1,14 @@
 ---
 _id: F2XfCTxXLQBGjbm8P
 title: Parables & Fables
-href: https://lesswrong.com/tag/parables-and-fables
+href: https://www.lesswrong.com/tag/parables-and-fables
 slug: parables-and-fables
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:27.711Z'
+synchedAt: '2022-09-01T09:42:31.166Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ status: todo
 [The Emperor's New Cloths](https://andersen.sdu.dk/vaerk/hersholt/TheEmperorsNewClothes_e.html)
 
 **Related tags:** [[Fiction]], [[Writing (communication method)|Writing]], [[Narratives (stories)]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Parables & Fables**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

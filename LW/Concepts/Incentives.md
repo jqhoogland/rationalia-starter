@@ -1,14 +1,14 @@
 ---
 _id: z5uy4NcWc2JSRTGHb
 title: Incentives
-href: https://lesswrong.com/tag/incentives
+href: https://www.lesswrong.com/tag/incentives
 slug: incentives
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:29.201Z'
+synchedAt: '2022-09-01T09:42:39.275Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ An **Incentive** is a motivating factor, such as monetary reward, the risk of le
 [Inadequate Equilibria](https://www.lesswrong.com/s/oLGCcbnvabyibnG9d) covers many problems that arise when there are poor incentives.
 
 **Related Pages:** [[Game Theory]], [[Mechanism Design]], [[Moloch]], [[Moral Mazes]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Incentives**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

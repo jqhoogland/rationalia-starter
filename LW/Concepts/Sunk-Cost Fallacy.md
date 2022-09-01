@@ -1,14 +1,14 @@
 ---
 _id: stnsBEmuGpnSfQ5vj
 title: Sunk-Cost Fallacy
-href: https://lesswrong.com/tag/sunk-cost-fallacy
+href: https://www.lesswrong.com/tag/sunk-cost-fallacy
 slug: sunk-cost-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:28.660Z'
+synchedAt: '2022-09-01T09:42:21.971Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ The **Sunk Cost Fallacy** is the tendency to consider costs that have already be
 - [Loss aversion](https://lessestwrong.com/tag/loss-aversion), [Prospect theory](https://lessestwrong.com/tag/prospect-theory)
 - [Cached thought](https://lessestwrong.com/tag/cached-thought)
 - [Narrative fallacy](https://lessestwrong.com/tag/narrative-fallacy)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Sunk-Cost Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

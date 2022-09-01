@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb279
 title: Log Odds
 slug: log-odds
 href: https://www.lesswrong.com/tag/log-odds
-synchedAt: '2022-08-30T12:49:13.721Z'
+synchedAt: '2022-09-01T09:42:36.780Z'
 tags:
   - LessWrong
   - Tag
@@ -46,3 +46,16 @@ See also
 * [Odds ratio](https://wiki.lesswrong.com/wiki/Odds_ratio)
 
 * [[Likelihood Ratio|Likelihood ratio]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Log odds**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

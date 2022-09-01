@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb108
 title: Priors
-href: https://lesswrong.com/tag/priors
+href: https://www.lesswrong.com/tag/priors
 slug: priors
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:05.980Z'
+synchedAt: '2022-09-01T09:42:28.006Z'
 status: todo
 ---
 
@@ -50,3 +50,16 @@ In informal discussion, people often talk about "updating" their priors. This is
 ## References
 
 1. Robin Hanson (2006). "Uncommon Priors Require Origin Disputes". Theory and Decision 61 (4) 319–328. [http://hanson.gmu.edu/prior.pdf](http://hanson.gmu.edu/prior.pdf)[↩](#fnref1)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Priors**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

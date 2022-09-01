@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb25c
 title: Kolmogorov Complexity
-href: https://lesswrong.com/tag/kolmogorov-complexity
+href: https://www.lesswrong.com/tag/kolmogorov-complexity
 slug: kolmogorov-complexity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:42.370Z'
+synchedAt: '2022-09-01T09:42:37.882Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ This notion can be used to state many important results in computational theory.
 1. SIPSER, M. (1983) "A complexity theoretic approach to randomness". In Proceedings of the 15th ACM Symposium on the Theory of Computing, pages 330{335. ACM, New York.[↩](#fnref1)
 2. FORTNOW, Lance. "Kolmogorov Complexity" Available at: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.4949&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.4949&rep=rep1&type=pdf)[↩](#fnref2)
 3. LI, Ming. & VITANY, Paul. “Algorithmic Complexity”. Available at: [http://homepages.cwi.nl/~paulv/papers/020608isb.pdf](http://homepages.cwi.nl/~paulv/papers/020608isb.pdf)[↩](#fnref3)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Kolmogorov Complexity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

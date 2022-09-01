@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1ec
 title: Illusion of Transparency
-href: https://lesswrong.com/tag/illusion-of-transparency
+href: https://www.lesswrong.com/tag/illusion-of-transparency
 slug: illusion-of-transparency
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:47.180Z'
+synchedAt: '2022-09-01T09:42:36.715Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ The **illusion of transparency** is the misleading impression that your words co
 ## External Links
 
 - [How all human communication fails, except by accident, or a commentary of Wiio's laws](http://www.cs.tut.fi/~jkorpela/wiio.html)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Illusion of Transparency**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

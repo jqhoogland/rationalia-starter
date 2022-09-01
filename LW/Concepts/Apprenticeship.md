@@ -1,17 +1,30 @@
 ---
 _id: WiMZ8obYsfJPog3Ph
 title: Apprenticeship
-href: https://lesswrong.com/tag/apprenticeship
+href: https://www.lesswrong.com/tag/apprenticeship
 slug: apprenticeship
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.987Z'
+synchedAt: '2022-09-01T09:42:56.574Z'
 status: todo
 ---
 
 # Apprenticeship
 
 **Apprenticeship**
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Apprenticeship**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

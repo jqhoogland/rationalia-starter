@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb130
 title: Evidence of Absence
-href: https://lesswrong.com/tag/evidence-of-absence
+href: https://www.lesswrong.com/tag/evidence-of-absence
 slug: evidence-of-absence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:19.414Z'
+synchedAt: '2022-09-01T09:42:48.306Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 - [[Evidence]] (`= [[Evidence]].status`)
 - [[Fallacy of Gray|Fallacy of gray]] (`= [[Fallacy of Gray|Fallacy of gray]].status`)
 - [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evidence of Absence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 9mShmhRFzBat3523A
 title: Perceptual Control Theory
-href: https://lesswrong.com/tag/perceptual-control-theory
+href: https://www.lesswrong.com/tag/perceptual-control-theory
 slug: perceptual-control-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:29.389Z'
+synchedAt: '2022-09-01T09:42:31.566Z'
 aliases:
   - PCT
 status: todo
@@ -47,3 +47,16 @@ This [blog post](http://psychsciencenotes.blogspot.com/2016/01/a-quick-review-an
 ## See Also
 
 - [Control Theory](https://lessestwrong.com/tag/control-theory)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Perceptual Control Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

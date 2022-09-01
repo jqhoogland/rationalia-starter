@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1c0
 title: Future
-href: https://lesswrong.com/tag/future
+href: https://www.lesswrong.com/tag/future
 slug: future
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:37.865Z'
+synchedAt: '2022-09-01T09:42:42.791Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ If it hasn't happened yet but is going to, then it's part of the [[Future|future
 - [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Black Swans|Black swan]], [[Narrative Fallacy|narrative fallacy]]
 - [[Forecasting & Prediction|Prediction]] (`= [[Forecasting & Prediction|Prediction]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Future**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

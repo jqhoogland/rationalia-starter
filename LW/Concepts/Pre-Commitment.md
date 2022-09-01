@@ -1,14 +1,14 @@
 ---
 _id: TBPFC5fwpkzLB87xJ
 title: Pre-Commitment
-href: https://lesswrong.com/tag/pre-commitment
+href: https://www.lesswrong.com/tag/pre-commitment
 slug: pre-commitment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:31.784Z'
+synchedAt: '2022-09-01T09:42:28.388Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ In game theory, commitment is often considered purely from the perspective of in
 Pre-commitment can also be important from a psychological perspective. Suppose you have an assignment to work on. You know that you need to work on it tomorrow, but you also know that you won't feel like it on the day. By deciding in advance to work on the assignment tomorrow you are providing yourself an additional reason (keeping your commitments to yourself) to work on it.
 
 **Related Pages:** [[Commitment Mechanisms]], [[Assurance contracts]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Pre-Commitment**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

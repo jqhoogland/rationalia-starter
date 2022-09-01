@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb162
 title: Human Universal
-href: https://lesswrong.com/tag/human-universal
+href: https://www.lesswrong.com/tag/human-universal
 slug: human-universal
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:59.619Z'
+synchedAt: '2022-09-01T09:42:40.574Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ Donald E. Brown has compiled a list of [over a hundred human universals](http://
 - [[Complexity of Value|Complexity of value]], [[Fake Simplicity|fake simplicity]]
 - [[Alien Values|Alien values]] (`= [[Alien Values|Alien values]].status`)
 - [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|paperclip maximizer]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Human Universal**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

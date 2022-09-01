@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb1ab
 title: Arguing By Analogy
 slug: arguing-by-analogy
 href: https://www.lesswrong.com/tag/arguing-by-analogy
-synchedAt: '2022-08-30T12:25:05.375Z'
+synchedAt: '2022-09-01T09:42:56.535Z'
 tags:
   - LessWrong
   - Tag
@@ -31,3 +31,16 @@ See also
 * [[Inside, Outside View|Outside view]]
 
 * [[Fake Simplicity|Fake simplicity]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Arguing by analogy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

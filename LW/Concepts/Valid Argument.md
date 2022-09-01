@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb248
 title: Valid Argument
-href: https://lesswrong.com/tag/valid-argument
+href: https://www.lesswrong.com/tag/valid-argument
 slug: valid-argument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:24.017Z'
+synchedAt: '2022-09-01T09:42:19.195Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ An argument is **valid** when it contains no logical fallacies. Such arguments a
 ## See Also
 
 - [[Sound Argument|Sound argument]] (`= [[Sound Argument|Sound argument]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Valid Argument**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 9YFoDPFwMoWthzgkY
 title: Pitfalls of Rationality
-href: https://lesswrong.com/tag/pitfalls-of-rationality
+href: https://www.lesswrong.com/tag/pitfalls-of-rationality
 slug: pitfalls-of-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:13.131Z'
+synchedAt: '2022-09-01T09:42:29.525Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Regarding the first point, from [Incremental Progress and the Valley](https://ww
 > The optimality theorems that we have for probability theory and decision theory, are for *perfect* probability theory and decision theory.  There is no companion theorem which says that, starting from some flawed initial form, every *incremental* modification of the algorithm that takes the structure closer to the ideal, must yield an *incremental* improvement in performance.  This has not yet been proven, because it is not, in fact, true.
 
 See also: [[Criticisms of The Rationalist Movement|Criticisms of the Rationalist Movement]], [[Value of Rationality]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Pitfalls of Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

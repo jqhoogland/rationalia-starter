@@ -1,14 +1,14 @@
 ---
 _id: KmgkrftQuX7jmjjp5
 title: Language Models
-href: https://lesswrong.com/tag/language-models
+href: https://www.lesswrong.com/tag/language-models
 slug: language-models
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.501Z'
+synchedAt: '2022-09-01T09:42:37.610Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 ## See Also
 
 - [[GPT]] \- A family of large language models created by [[OpenAI]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Language Models**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1cd
 title: Really Powerful Optimization Process
-href: https://lesswrong.com/tag/really-powerful-optimization-process
+href: https://www.lesswrong.com/tag/really-powerful-optimization-process
 slug: really-powerful-optimization-process
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:15.539Z'
+synchedAt: '2022-09-01T09:42:25.310Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ The term [[Artificial General Intelligence|artificial intelligence]] can have [[
 - [[Anthropomorphism]], [[Alien Values|alien values]]
 - [[Evolution As Alien God|Evolution as alien god]] (`= [[Evolution As Alien God|Evolution as alien god]].status`)
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Really Powerful Optimization Process**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

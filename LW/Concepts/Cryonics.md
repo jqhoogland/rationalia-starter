@@ -1,14 +1,14 @@
 ---
 _id: ZnHkaTkxukegSrZqE
 title: Cryonics
-href: https://lesswrong.com/tag/cryonics
+href: https://www.lesswrong.com/tag/cryonics
 slug: cryonics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:10.411Z'
+synchedAt: '2022-09-01T09:42:51.244Z'
 status: todo
 ---
 
@@ -57,3 +57,16 @@ status: todo
 - [Status quo bias](https://lessestwrong.com/tag/status-quo-bias), [Reversal test](https://lessestwrong.com/tag/reversal-test)
 - [Signaling](https://lessestwrong.com/tag/signaling), [Near, Far Thinking](https://lessestwrong.com/tag/near-far-thinking)
 - [Death](https://lessestwrong.com/tag/death)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cryonics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

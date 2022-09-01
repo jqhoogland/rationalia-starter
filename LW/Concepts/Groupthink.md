@@ -1,14 +1,14 @@
 ---
 _id: ALwRRZqvhaop8gxkT
 title: Groupthink
-href: https://lesswrong.com/tag/groupthink
+href: https://www.lesswrong.com/tag/groupthink
 slug: groupthink
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:27.109Z'
+synchedAt: '2022-09-01T09:42:41.699Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ In computer-mediated deliberation, the ideology of so-called **"virtual communit
 - [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
 - [[Rationality Verification|Problem of verifying rationality]] (`= [[Rationality Verification|Problem of verifying rationality]].status`)
 - [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]] (`= [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Groupthink**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: E8PHMuf7tsr8teXAe
 title: Betting
-href: https://lesswrong.com/tag/betting
+href: https://www.lesswrong.com/tag/betting
 slug: betting
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:23.320Z'
+synchedAt: '2022-09-01T09:42:55.073Z'
 status: todo
 ---
 
@@ -52,3 +52,16 @@ External links:
 
 - [Risk aversion does not explain people's betting behaviours](https://www.lesswrong.com/posts/msf7BHMrWTczbQckh/risk-aversion-does-not-explain-people-s-betting-behaviours)
 - [A method for fair bargaining over odds in 2 player bets!](https://www.lesswrong.com/posts/ABMMQ5gSGHwRgExJk/a-method-for-fair-bargaining-over-odds-in-2-player-bets)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Betting**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

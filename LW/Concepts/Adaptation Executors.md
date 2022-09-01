@@ -8,7 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-30T10:37:56.076Z'
+synchedAt: '2022-09-01T09:42:58.213Z'
 status: todo
 ---
 

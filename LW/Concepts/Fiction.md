@@ -1,14 +1,14 @@
 ---
 _id: etDohXtBrXd8WqCtR
 title: Fiction
-href: https://lesswrong.com/tag/fiction
+href: https://www.lesswrong.com/tag/fiction
 slug: fiction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:12.566Z'
+synchedAt: '2022-09-01T09:42:46.073Z'
 status: todo
 ---
 
@@ -44,3 +44,16 @@ This is a tag for works of fiction, not for analysis or discussion of literature
 - [RationalFic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RationalFic) on TV Tropes
 - [Eliezer Yudkowsky's guide to writing intelligent characters](http://yudkowsky.tumblr.com/writing)
 - [rationalreads.com](http://rationalreads.com/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fiction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

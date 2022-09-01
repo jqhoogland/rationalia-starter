@@ -1,14 +1,14 @@
 ---
 _id: nvKzwpiranwy29HFJ
 title: Optimization
-href: https://lesswrong.com/tag/optimization
+href: https://www.lesswrong.com/tag/optimization
 slug: optimization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:13.872Z'
+synchedAt: '2022-09-01T09:42:32.864Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ One way to think mathematically about optimization, like [[Amount of Evidence|ev
 - [[Preference]] (`= [[Preference]].status`)
 - [[Really Powerful Optimization Process|Really powerful optimization process]] (`= [[Really Powerful Optimization Process|Really powerful optimization process]].status`)
 - [[Control Theory|Control theory]] (`= [[Control Theory|Control theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Optimization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

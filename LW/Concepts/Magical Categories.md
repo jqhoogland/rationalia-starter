@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb180
 title: Magical Categories
-href: https://lesswrong.com/tag/magical-categories
+href: https://www.lesswrong.com/tag/magical-categories
 slug: magical-categories
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:17.915Z'
+synchedAt: '2022-09-01T09:42:36.344Z'
 status: todo
 ---
 
@@ -40,3 +40,16 @@ Physical brains are not powerful enough to search all possibilities; we have to 
 - [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip maximizer]]
 - [[Friendly Artificial Intelligence|Friendly artificial intelligence]] (`= [[Friendly Artificial Intelligence|Friendly artificial intelligence]].status`)
 - [[Magic]] (`= [[Magic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Magical Categories**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

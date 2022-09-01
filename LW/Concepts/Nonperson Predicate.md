@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2c1
 title: Nonperson Predicate
-href: https://lesswrong.com/tag/nonperson-predicate
+href: https://www.lesswrong.com/tag/nonperson-predicate
 slug: nonperson-predicate
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:14.452Z'
+synchedAt: '2022-09-01T09:42:34.070Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Any practical implementation would likely consist of a large number of nonperson
 *Related Wiki Pages: [[Computation Hazard]], [[Zombies|Philosophical zombie]]*
 
 *Related Posts: [Nonperson Predicates](http://lesswrong.com/lw/x4/nonperson_predicates/), [Computational Hazards](http://lesswrong.com/lw/d2f/computation_hazards/)*
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Nonperson Predicate**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: rjEZWSbSffhaWYRvo
 title: Hypotheticals
-href: https://lesswrong.com/tag/hypotheticals
+href: https://www.lesswrong.com/tag/hypotheticals
 slug: hypotheticals
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:32.447Z'
+synchedAt: '2022-09-01T09:42:39.743Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ In [Please Don't Fight the Hypothetical](https://www.lesswrong.com/posts/s9hTXtA
 ## Related Terms:
 
 Hypotheticals are essentially the same as [[Counterfactuals|counterfactuals]], although a) the term counterfactual is preferred when imagining someone making different decisions b) technically the factual isn't a counterfactual, but it is very common to say something like "iterate over all the counterfactuals and pick the one with the highest utility" where we treat the factual as a counterfactual.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hypotheticals**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

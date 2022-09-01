@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb34b
 title: List of Podcasts
-href: https://lesswrong.com/tag/list-of-podcasts
+href: https://www.lesswrong.com/tag/list-of-podcasts
 slug: list-of-podcasts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:34.282Z'
+synchedAt: '2022-09-01T09:42:16.459Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ List of podcasts from the [diaspora](https://wiki.lesswrong.com/wiki/diaspora) a
 - [[List of Blogs]] (`= [[List of Blogs]].status`)
 - [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
 - [[Audio]] (`= [[Audio]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **List of Podcasts**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: HsiovoPND7mWbW5D9
 title: Distributional Shifts
-href: https://lesswrong.com/tag/distributional-shifts
+href: https://www.lesswrong.com/tag/distributional-shifts
 slug: distributional-shifts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:13.872Z'
+synchedAt: '2022-09-01T09:42:49.858Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ This is a complex topic, but one reason why is that inner optimizers can potenti
 So, although "distributional shift" is not technically involved, we can see that a critical difference between training and deployment is still involved: during training, wrong answers are always inconsequential. However, when you *use* a system, wrong answers become consequential. If the system can figure this difference out, then parts of the system can use it to "gate" their behavior in order to accomplish a treacherous turn. 
 
 This makes "distributional shift" seem like an apt metaphor for what's going on in non-IID cases. However, buyer beware: eliminating IID assumptions might eliminate the literal source of the distributional shift problem without eliminating the broader constellation of concerns for which the words "distributional shift" are being used.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Distributional Shifts**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

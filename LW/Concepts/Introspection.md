@@ -1,15 +1,28 @@
 ---
 _id: Zwv9eHi7KGg5KA9oM
 title: Introspection
-href: https://lesswrong.com/tag/introspection
+href: https://www.lesswrong.com/tag/introspection
 slug: introspection
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:07.788Z'
+synchedAt: '2022-09-01T09:42:38.241Z'
 status: todo
 ---
 
 # Introspection
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Introspection**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

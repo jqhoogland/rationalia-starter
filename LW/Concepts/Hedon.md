@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0ea
 title: Hedon
-href: https://lesswrong.com/tag/hedon
+href: https://www.lesswrong.com/tag/hedon
 slug: hedon
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:13.071Z'
+synchedAt: '2022-09-01T09:42:41.301Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ For example, we might say that eating an ice cream cone yields 3 hedons to a nor
 - [[Utilitarianism]], [[Hedonism]]
 - [[Fuzzies]], [Utils](https://wiki.lesswrong.com/wiki/Utils)
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hedon**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

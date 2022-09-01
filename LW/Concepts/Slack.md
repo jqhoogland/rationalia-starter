@@ -1,14 +1,14 @@
 ---
 _id: YSyvvi4uXvxAARX2D
 title: Slack
-href: https://lesswrong.com/tag/slack
+href: https://www.lesswrong.com/tag/slack
 slug: slack
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.686Z'
+synchedAt: '2022-09-01T09:42:23.317Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ From the post which introduced this usage, [Slack](https://www.lessestwrong.com/
 > *Slack is life.*
 
 **Related Sequence:** [Slack and the Sabbath](https://www.lesswrong.com/s/HXkpm9b8o964jbQ89)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Slack**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

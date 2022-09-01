@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb136
 title: Extraordinary Evidence
-href: https://lesswrong.com/tag/extraordinary-evidence
+href: https://www.lesswrong.com/tag/extraordinary-evidence
 slug: extraordinary-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:20.088Z'
+synchedAt: '2022-09-01T09:42:47.607Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ status: todo
 ## References
 
 - Hanson, Robin. [When Do Extraordinary Claims Give Extraordinary Evidence?](http://mason.gmu.edu/~rhanson/extraord.pdf) George Mason University, March 2007.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Extraordinary Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

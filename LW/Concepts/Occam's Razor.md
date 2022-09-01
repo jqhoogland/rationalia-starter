@@ -1,14 +1,14 @@
 ---
 _id: hQiuNkBhn6xxcedTD
 title: Occam's Razor
-href: https://lesswrong.com/tag/occam-s-razor
+href: https://www.lesswrong.com/tag/occam-s-razor
 slug: occam-s-razor
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:16.445Z'
+synchedAt: '2022-09-01T09:42:33.489Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ Occam's razor has been formalized as Minimum Description Length or Minimum Messa
 ## External Links
 
 - [Ockham’s Razor: A New Justification](http://www.andrew.cmu.edu/user/kk3n/ockham/Ockham.htm)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Occam's Razor**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

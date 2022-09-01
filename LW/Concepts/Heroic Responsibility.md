@@ -1,14 +1,14 @@
 ---
 _id: NzSTgAtKwgivkfeYm
 title: Heroic Responsibility
-href: https://lesswrong.com/tag/heroic-responsibility
+href: https://www.lesswrong.com/tag/heroic-responsibility
 slug: heroic-responsibility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.840Z'
+synchedAt: '2022-09-01T09:42:41.026Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ status: todo
 ## External Links
 
 - The discussion at this [Reddit post](http://www.reddit.com/r/HPMOR/comments/yj2kb/ethical_solipsism_chapter_75/) is excellent. *This wiki requires work.*
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Heroic Responsibility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

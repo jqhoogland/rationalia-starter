@@ -1,14 +1,14 @@
 ---
 _id: nGLvnaZCH5mx8h8Mh
 title: Selectorate Theory
-href: https://lesswrong.com/tag/selectorate-theory
+href: https://www.lesswrong.com/tag/selectorate-theory
 slug: selectorate-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.940Z'
+synchedAt: '2022-09-01T09:42:23.891Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ In the dictator's handbook the authors describe 5 rules which every leader must 
 > (1) The smaller the winning coalition the fewer people to satisfy to remain in control. (2) Having a large nominal selectorate gives a pool of potential people to replace dissenters in coalition. (3) Maintain control of revenue flows to redistribute to your friends. (4) But only pay friends enough that they will not consider overthrowing you and at the same time little enough so that they depend on you. (5) Don't take your friends' money and redistribute it to the masses. *(Wikipedia)*
 
 The theory was developed by [Bruce Bueno de Mesquita](https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita), Alastair Smith, Randolph M. Siverson, [James D. Morrow](https://en.wikipedia.org/wiki/James_D._Morrow), and introduced in [*The Logic of Political Survival*](https://en.wikipedia.org/wiki/The_Logic_of_Political_Survival) and [*The Dictator's Handbook*](https://en.wikipedia.org/wiki/The_Dictator%27s_Handbook)*.*
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Selectorate Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

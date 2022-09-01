@@ -1,14 +1,14 @@
 ---
 _id: wdLqQnzdgiYpDXEWH
 title: Infra-Bayesianism
-href: https://lesswrong.com/tag/infra-bayesianism
+href: https://www.lesswrong.com/tag/infra-bayesianism
 slug: infra-bayesianism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:11.151Z'
+synchedAt: '2022-09-01T09:42:38.906Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 Infra-Bayesianism also naturally leads to an implementation of [[Updateless Decision Theory|UDT]], and (more speculatively at this stage) has applications to multi-agent theory, [[Embedded Agency|embedded agency]] and reflection.
 
 See the [Infra-Bayesianism Sequence](https://www.lesswrong.com/posts/zB4f7QqKhBHa5b37a/introduction-to-the-infra-bayesianism-sequence).
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Infra-Bayesianism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

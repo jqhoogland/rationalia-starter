@@ -1,14 +1,14 @@
 ---
 _id: 25oxqHiadqM6Hf7Gn
 title: Great Filter
-href: https://lesswrong.com/tag/great-filter
+href: https://www.lesswrong.com/tag/great-filter
 slug: great-filter
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:58.544Z'
+synchedAt: '2022-09-01T09:42:41.732Z'
 status: todo
 ---
 
@@ -56,3 +56,16 @@ The study of [past mass extinctions](http://en.wikipedia.org/wiki/Extinction_eve
 - [Existential risk](https://lessestwrong.com/tag/existential-risk)
 - [Doomsday argument](https://lessestwrong.com/tag/doomsday-argument)
 - [Self Indication Assumption](https://lessestwrong.com/tag/self-indication-assumption)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Great Filter**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

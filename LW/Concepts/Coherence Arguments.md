@@ -1,15 +1,28 @@
 ---
 _id: 6DDtyKtotNehTjmRn
 title: Coherence Arguments
-href: https://lesswrong.com/tag/coherence-arguments
+href: https://www.lesswrong.com/tag/coherence-arguments
 slug: coherence-arguments
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.987Z'
+synchedAt: '2022-09-01T09:42:53.209Z'
 status: todo
 ---
 
 # Coherence Arguments
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Coherence Arguments**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

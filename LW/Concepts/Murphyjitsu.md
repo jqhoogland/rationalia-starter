@@ -1,14 +1,14 @@
 ---
 _id: pJthrJDMw54JFGise
 title: Murphyjitsu
-href: https://lesswrong.com/tag/murphyjitsu
+href: https://www.lesswrong.com/tag/murphyjitsu
 slug: murphyjitsu
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:50.513Z'
+synchedAt: '2022-09-01T09:42:34.591Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ See also
 ========
 
 - [[ Suprise-o-meter|Inner Simulator / Surprise-o-meter]] (`= [[ Suprise-o-meter|Inner Simulator / Surprise-o-meter]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Murphyjitsu**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

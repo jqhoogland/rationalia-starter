@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb216
 title: Superexponential Conceptspace
-href: https://lesswrong.com/tag/superexponential-conceptspace
+href: https://www.lesswrong.com/tag/superexponential-conceptspace
 slug: superexponential-conceptspace
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:32.603Z'
+synchedAt: '2022-09-01T09:42:22.143Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Without an [[Inductive Bias|inductive bias]], restricting attention to only a sm
 - [[Locate The Hypothesis|Locate the hypothesis]] (`= [[Locate The Hypothesis|Locate the hypothesis]].status`)
 - [[Inductive Bias|Inductive bias]] (`= [[Inductive Bias|Inductive bias]].status`)
 - [[Configuration Space|Configuration space]] (`= [[Configuration Space|Configuration space]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Superexponential Conceptspace**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

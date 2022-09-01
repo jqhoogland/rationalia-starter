@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb139
 title: Arguments As Soldiers
-href: https://lesswrong.com/tag/arguments-as-soldiers
+href: https://www.lesswrong.com/tag/arguments-as-soldiers
 slug: arguments-as-soldiers
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:10.795Z'
+synchedAt: '2022-09-01T09:42:56.192Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ Identifying yourself with a [[Blues & Greens (metaphor)|side]] in a political de
 - [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
 - [[Signaling]] (`= [[Signaling]].status`)
 - [[Mind-Killer|Mind-killer]] (`= [[Mind-Killer|Mind-killer]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Arguments As Soldiers**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

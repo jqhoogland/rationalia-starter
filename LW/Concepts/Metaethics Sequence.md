@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1bb
 title: Metaethics Sequence
-href: https://lesswrong.com/tag/metaethics-sequence
+href: https://www.lesswrong.com/tag/metaethics-sequence
 slug: metaethics-sequence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:11.368Z'
+synchedAt: '2022-09-01T09:42:35.395Z'
 status: todo
 ---
 
@@ -62,3 +62,16 @@ Posts directly about metaethics were published primarily from [June 20 2008](htt
 - [You Provably Can't Trust Yourself](http://lesswrong.com/lw/t8/you_provably_cant_trust_yourself/)
 - [No License To Be Human](http://lesswrong.com/lw/t9/no_license_to_be_human/)
 - [Invisible Frameworks](http://lesswrong.com/lw/ta/invisible_frameworks/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Metaethics Sequence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

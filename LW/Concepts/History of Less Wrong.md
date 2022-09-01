@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb331
 title: History of Less Wrong
-href: https://lesswrong.com/tag/history-of-less-wrong
+href: https://www.lesswrong.com/tag/history-of-less-wrong
 slug: history-of-less-wrong
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:14.401Z'
+synchedAt: '2022-09-01T09:42:40.975Z'
 status: todo
 ---
 
@@ -72,3 +72,16 @@ As of 2016 the community is far less active than it once was. The forum stands, 
 
 - [A History of the Rationality Community](https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/dloghua/) from [[Scott Alexander]]
 - [LessWrong analytics (February 2009 to January 2017)](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **History of Less Wrong**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

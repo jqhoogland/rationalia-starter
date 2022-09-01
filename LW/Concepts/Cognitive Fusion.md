@@ -1,14 +1,14 @@
 ---
 _id: 5xyggFN9J64FskhqP
 title: Cognitive Fusion
-href: https://lesswrong.com/tag/cognitive-fusion
+href: https://www.lesswrong.com/tag/cognitive-fusion
 slug: cognitive-fusion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:26.582Z'
+synchedAt: '2022-09-01T09:42:53.537Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ From the latter:
 > Another emotional example might be feelings of shame, where it’s easy to experience yourself as a horrible person and feel that *this is the literal truth*, rather than being just an emotional interpretation.
 >
 > Cognitive fusion isn’t *necessarily* a bad thing. If you suddenly notice a car driving towards you at a high speed, you don’t want to get stuck pondering about how the feeling of danger is actually a mental construct produced by your brain. You *want* to get out of the way as fast as possible, with minimal mental clutter interfering with your actions. Likewise, if you are doing programming or math, you *want* to become at least partially fused together with your understanding of the domain, taking its axioms as objective facts so that you can focus on figuring out how to work with those axioms and get your desired results.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cognitive Fusion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

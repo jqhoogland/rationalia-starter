@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2ac
 title: Economic Consequences of AGI
-href: https://lesswrong.com/tag/economic-consequences-of-agi
+href: https://www.lesswrong.com/tag/economic-consequences-of-agi
 slug: economic-consequences-of-agi
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:39.152Z'
+synchedAt: '2022-09-01T09:42:49.467Z'
 status: todo
 ---
 
@@ -44,3 +44,16 @@ Others predict that growth will blow up even more suddenly (up to the point wher
 - [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff), [Soft takeoff](https://wiki.lesswrong.com/wiki/Soft_takeoff)
 - [[Artificial General Intelligence|Artificial general intelligence]], [[Whole Brain Emulation]]
 - [[Technological Forecasting|Technological forecasting]] (`= [[Technological Forecasting|Technological forecasting]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Economic Consequences of AGI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

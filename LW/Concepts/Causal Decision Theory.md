@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb28e
 title: Causal Decision Theory
-href: https://lesswrong.com/tag/causal-decision-theory
+href: https://www.lesswrong.com/tag/causal-decision-theory
 slug: causal-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:37.659Z'
+synchedAt: '2022-09-01T09:42:54.022Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ The core aspect of CDT is mathematically represented by the fact it uses probabi
 
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
 - [[Evidential Decision Theory]] (`= [[Evidential Decision Theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Causal Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

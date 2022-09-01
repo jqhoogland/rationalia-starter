@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2e8
 title: Self-Indication Assumption
-href: https://lesswrong.com/tag/self-indication-assumption
+href: https://www.lesswrong.com/tag/self-indication-assumption
 slug: self-indication-assumption
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:30.960Z'
+synchedAt: '2022-09-01T09:42:23.888Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Ken Olum has written in defense of the SIA[^3^](#fn3). Nick Bostrom and Milan Ci
 2. Nick Bostrom, Anthropic Bias: Observation Selection Effects in Science and Philosophy (New York: Routledge, 2002).[↩](#fnref2)
 3. Ken Olum, The Doomsday Argument and the Number of Possible Observers, Philosophical Quarterly (2002), Vol. 52, No. 207, pp. 164-184[↩](#fnref3)
 4. Nick Bostrom and Milan Cirkovic, The doomsday argument and the self-indication assumption: reply to Olum, Philosophical Quarterly, (2003), Vol. 53, No. 210, pp. 83-91[↩](#fnref4)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Self-Indication Assumption**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

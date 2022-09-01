@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb104
 title: Paranoid Debating
-href: https://lesswrong.com/tag/paranoid-debating
+href: https://www.lesswrong.com/tag/paranoid-debating
 slug: paranoid-debating
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:12.915Z'
+synchedAt: '2022-09-01T09:42:30.738Z'
 status: todo
 ---
 
@@ -80,3 +80,16 @@ To make this easier there is now a tentative file format for representing a game
 - [[Bayesian Probability|Bayesian probability]] (`= [[Bayesian Probability|Bayesian probability]].status`)
 - [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
 - [[Calibration]] (`= [[Calibration]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Paranoid Debating**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

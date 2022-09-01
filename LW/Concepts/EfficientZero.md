@@ -1,15 +1,28 @@
 ---
 _id: LkShkiJwNL2kBbWbM
 title: EfficientZero
-href: https://lesswrong.com/tag/efficientzero
+href: https://www.lesswrong.com/tag/efficientzero
 slug: efficientzero
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:18.003Z'
+synchedAt: '2022-09-01T09:42:49.125Z'
 status: todo
 ---
 
 # EfficientZero
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **EfficientZero**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb211
 title: Joy In Discovery
-href: https://lesswrong.com/tag/joy-in-discovery
+href: https://www.lesswrong.com/tag/joy-in-discovery
 slug: joy-in-discovery
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:25.805Z'
+synchedAt: '2022-09-01T09:42:37.922Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ status: todo
 
 - [[Reductionism (Sequence)|Reductionism (sequence)]], [[Joy In The Merely Real|Joy in the Merely Real]]
 - [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Joy In Discovery**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

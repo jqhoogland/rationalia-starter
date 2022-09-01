@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0d6
 title: Cached Thoughts
-href: https://lesswrong.com/tag/cached-thoughts
+href: https://www.lesswrong.com/tag/cached-thoughts
 slug: cached-thoughts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:08.101Z'
+synchedAt: '2022-09-01T09:42:54.358Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Cached thoughts can be useful in saving computational resources at the cost of s
 - [The Virtue of Narrowness](http://lesswrong.com/lw/ic/the_virtue_of_narrowness/) and [Original Seeing](http://lesswrong.com/lw/k7/original_seeing/) — One way to fight cached patterns of thought is to focus on precise concepts.
 - [Cached Procrastination](http://lesswrong.com/lw/d2/cached_procrastination/)
 - [Cached Selves](http://lesswrong.com/lw/4e/cached_selves/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cached Thoughts**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

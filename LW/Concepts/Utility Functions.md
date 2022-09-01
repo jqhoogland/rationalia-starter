@@ -1,14 +1,14 @@
 ---
 _id: HAFdXkW4YW4KRe2Gx
 title: Utility Functions
-href: https://lesswrong.com/tag/utility-functions
+href: https://www.lesswrong.com/tag/utility-functions
 slug: utility-functions
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:22.430Z'
+synchedAt: '2022-09-01T09:42:19.282Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Utility Functions do not work very well in practice for individual humans. Human
 However, utility functions can be a useful model for dealing with humans in groups, *e.g.* in economics.
 
 The [[VNM Theorem]] tag is likely to be a strict subtag of the Utility Functions tag, because the VNM theorem establishes when preferences can be represented by a utility function, but a post discussing utility functions may or may not discuss the VNM theorem/axioms.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Utility Functions**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

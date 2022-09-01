@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb1a7
 title: Arguing By Definition
 slug: arguing-by-definition
 href: https://www.lesswrong.com/tag/arguing-by-definition
-synchedAt: '2022-08-30T12:26:17.263Z'
+synchedAt: '2022-09-01T09:42:56.195Z'
 tags:
   - LessWrong
   - Tag
@@ -36,3 +36,16 @@ Sequence
 --------
 
 * [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/Sequences#A_Human's_Guide_to_Words)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Arguing by definition**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

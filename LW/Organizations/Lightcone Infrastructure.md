@@ -1,14 +1,14 @@
 ---
 _id: TDcpBdA8h7xsoWZWe
 title: Lightcone Infrastructure
-href: https://lesswrong.com/tag/lightcone-infrastructure
+href: https://www.lesswrong.com/tag/lightcone-infrastructure
 slug: lightcone-infrastructure
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:19.910Z'
+synchedAt: '2022-09-01T09:42:16.776Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ status: todo
 **Website:** [lightconeinfrastructure.com](https://www.lightconeinfrastructure.com/)
 
 See also: [LW Moderation](lw-moderation), [Site Meta](site-meta)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Lightcone Infrastructure**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

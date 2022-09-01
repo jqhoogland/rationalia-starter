@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2dd
 title: Differential Intellectual Progress
-href: https://lesswrong.com/tag/differential-intellectual-progress
+href: https://www.lesswrong.com/tag/differential-intellectual-progress
 slug: differential-intellectual-progress
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:40.159Z'
+synchedAt: '2022-09-01T09:42:49.923Z'
 status: todo
 ---
 
@@ -57,3 +57,16 @@ There are several areas which, when more developed, will provide a means to prod
 - [Why We Need Friendly AI](http://www.preventingskynet.com/why-we-need-friendly-ai/) by Eliezer Yudkowsky
 - [Safety Engineering for Artificial General Intelligence](http://intelligence.org/files/SafetyEngineering.pdf) by Roman Yampolskiy and Joshua Fox
 - [Leakproofing the Singularity](http://cecs.louisville.edu/ry/LeakproofingtheSingularity.pdf) by Roman Yampolskiy
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Differential Intellectual Progress**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

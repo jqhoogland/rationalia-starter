@@ -1,15 +1,28 @@
 ---
 _id: haiwnEEx3vhrkfmAP
 title: AI Robustness
-href: https://lesswrong.com/tag/ai-robustness
+href: https://www.lesswrong.com/tag/ai-robustness
 slug: ai-robustness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:14.630Z'
+synchedAt: '2022-09-01T09:42:58.945Z'
 status: todo
 ---
 
 # AI Robustness
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AI Robustness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

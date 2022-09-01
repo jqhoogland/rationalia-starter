@@ -1,14 +1,14 @@
 ---
 _id: Zs4nYLkNr7Rbo4mAP
 title: Utilitarianism
-href: https://lesswrong.com/tag/utilitarianism
+href: https://www.lesswrong.com/tag/utilitarianism
 slug: utilitarianism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:12.065Z'
+synchedAt: '2022-09-01T09:42:19.283Z'
 aliases:
   - Utilitarian
 status: todo
@@ -23,3 +23,16 @@ Not to be confused with maximization of [utility](https://www.lessestwrong.com/t
 Utilitarianism comes in different variants. For example, unlike standard [total utilitarianism](https://en.wikipedia.org/wiki/Total_utilitarianism), [average utilitarianism](https://en.wikipedia.org/wiki/Average_utilitarianism) values the *average* utility among a group's members. [Negative utilitarianism](https://en.wikipedia.org/wiki/utilitarianism#Negative_utilitarianism) seeks only to minimize suffering, and is often discussed for its extreme implications.
 
 **Related Pages:** [[Negative Utilitarianism]], [[Consequentialism]], [[Ethics & Morality]], [[Fun Theory]], [[Complexity of Value]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Utilitarianism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

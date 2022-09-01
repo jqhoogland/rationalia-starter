@@ -1,14 +1,14 @@
 ---
 _id: GPhMyXoaHBLyzibxB
 title: Typical Mind Fallacy
-href: https://lesswrong.com/tag/typical-mind-fallacy
+href: https://www.lesswrong.com/tag/typical-mind-fallacy
 slug: typical-mind-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.393Z'
+synchedAt: '2022-09-01T09:42:19.978Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ The typical mind fallacy can usually be found making other fallacies worse. For 
 - [[Human Universal|Human universal]] (`= [[Human Universal|Human universal]].status`)
 - [[Correspondence Bias|Correspondence bias]] (`= [[Correspondence Bias|Correspondence bias]].status`)
 - [What universal human experience are you missing?](https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Typical Mind Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

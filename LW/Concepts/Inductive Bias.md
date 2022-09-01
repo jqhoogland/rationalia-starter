@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb149
 title: Inductive Bias
-href: https://lesswrong.com/tag/inductive-bias
+href: https://www.lesswrong.com/tag/inductive-bias
 slug: inductive-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:12.606Z'
+synchedAt: '2022-09-01T09:42:39.234Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ This sort of bias is not a bad thing - without "inductive bias" you can't draw a
 - [Prior distribution](https://wiki.lesswrong.com/wiki/Prior_distribution)
 - [Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
 - [Cognitive bias](https://wiki.lesswrong.com/wiki/Cognitive_bias)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Inductive Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

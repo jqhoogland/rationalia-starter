@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b0
 title: Fake Simplicity
-href: https://lesswrong.com/tag/fake-simplicity
+href: https://www.lesswrong.com/tag/fake-simplicity
 slug: fake-simplicity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:09.682Z'
+synchedAt: '2022-09-01T09:42:47.214Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ status: todo
 - [[Complexity of Value|Complexity of value]], [[Magical Categories|Magical categories]]
 - [[Occam's Razor|Occam's razor]], [[Detached Lever Fallacy|Detached lever fallacy]]
 - [[Phlogiston]] (`= [[Phlogiston]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fake Simplicity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1aa
 title: Phlogiston
-href: https://lesswrong.com/tag/phlogiston
+href: https://www.lesswrong.com/tag/phlogiston
 slug: phlogiston
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:30.545Z'
+synchedAt: '2022-09-01T09:42:29.753Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ status: todo
 
 - [[Semantic Stopsign|Semantic stopsign]] (`= [[Semantic Stopsign|Semantic stopsign]].status`)
 - [[Reductionism]] (`= [[Reductionism]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Phlogiston**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

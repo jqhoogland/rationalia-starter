@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb22e
 title: Smoking Lesion
-href: https://lesswrong.com/tag/smoking-lesion
+href: https://www.lesswrong.com/tag/smoking-lesion
 slug: smoking-lesion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:14.381Z'
+synchedAt: '2022-09-01T09:42:23.040Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ Naive [causal decision theory](http://en.wikipedia.org/wiki/Causal_decision_theo
 - [[Sleeping Beauty Paradox|Sleeping Beauty problem]] (`= [[Sleeping Beauty Paradox|Sleeping Beauty problem]].status`)
 - [[Prisoner's Dilemma|Prisoner's dilemma]] (`= [[Prisoner's Dilemma|Prisoner's dilemma]].status`)
 - [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Smoking Lesion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

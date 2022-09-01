@@ -1,15 +1,28 @@
 ---
 _id: uRcuHKpKA7xNnZQ2F
 title: Neurodivergence
-href: https://lesswrong.com/tag/neurodivergence
+href: https://www.lesswrong.com/tag/neurodivergence
 slug: neurodivergence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.391Z'
+synchedAt: '2022-09-01T09:42:34.264Z'
 status: todo
 ---
 
 # Neurodivergence
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Neurodivergence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2cf
 title: Evolutionary Argument For Human-Level AI
-href: https://lesswrong.com/tag/evolutionary-argument-for-human-level-ai
+href: https://www.lesswrong.com/tag/evolutionary-argument-for-human-level-ai
 slug: evolutionary-argument-for-human-level-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:40.616Z'
+synchedAt: '2022-09-01T09:42:48.069Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ There are variations of this argument, some argue for the easily feasibility of 
 2. MLODINOW, Leonard. (2008) "The Drunkard's walk : how randomness rules our lives." New York: Pantheon Books.[↩](#fnref2)
 3. POWELL, Russell & BUCHANAN, Allen. (2011) "Breaking Evolution's Chains: The Promise of Enhancement by Design" In: SAVULESCU, J. e MEULEN, Rudd ter (orgs.) "Enhancing Human Capacities". Wiley-Blackwell.[↩](#fnref3)
 4. BOSTROM, Nick & SHULMAN, Carl. (2012) "How Hard is Artificial Intelligence? Evolutionary Arguments and Selection Effects" Forthcoming in the Journal of Consciousness Studies. Available at: [http://www.nickbostrom.com/aievolution.pdf](http://www.nickbostrom.com/aievolution.pdf)[↩](#fnref4)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evolutionary Argument For Human-Level AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

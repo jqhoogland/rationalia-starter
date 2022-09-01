@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb240
 title: Luminosity (Fanfiction)
-href: https://lesswrong.com/tag/luminosity-fanfiction
+href: https://www.lesswrong.com/tag/luminosity-fanfiction
 slug: luminosity-fanfiction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:49.084Z'
+synchedAt: '2022-09-01T09:42:16.754Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ A few thousand words in, the plot is unrecognizeable.
 
 - [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]] (`= [[Methods of Rationality (Fanfiction)|Methods Of Rationality (fanfiction)]].status`)
 - [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Luminosity (Fanfiction)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: bmfs4jiLaF6HiiYkC
 title: Reductionism
-href: https://lesswrong.com/tag/reductionism
+href: https://www.lesswrong.com/tag/reductionism
 slug: reductionism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:59.299Z'
+synchedAt: '2022-09-01T09:42:25.276Z'
 aliases:
   - reductionist
 status: todo
@@ -25,3 +25,16 @@ status: todo
 - [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 - [[How An Algorithm Feels|How an algorithm feels]] (`= [[How An Algorithm Feels|How an algorithm feels]].status`)
 - [[Free Will|Free will]] (`= [[Free Will|Free will]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reductionism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

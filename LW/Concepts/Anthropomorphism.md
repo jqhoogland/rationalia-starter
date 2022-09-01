@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb16d
 title: Anthropomorphism
-href: https://lesswrong.com/tag/anthropomorphism
+href: https://www.lesswrong.com/tag/anthropomorphism
 slug: anthropomorphism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:06.226Z'
+synchedAt: '2022-09-01T09:42:56.629Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ status: todo
 * [[Alien Values|Alien values]], [[Paperclip Maximizer|Paperclip maximizer]]
 
 * [[Mind Design Space|Mind design space]], [[Really Powerful Optimization Process|Really powerful optimization process]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Anthropomorphism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

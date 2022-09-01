@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0d2
 title: Bayesian Probability
-href: https://lesswrong.com/tag/bayesian-probability
+href: https://www.lesswrong.com/tag/bayesian-probability
 slug: bayesian-probability
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:11.021Z'
+synchedAt: '2022-09-01T09:42:55.454Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ The difference is more apparent when discussing ideas. A frequentist will not as
 - [BIPS](http://www.astro.cornell.edu/staff/loredo/bayes/index.html): Bayesian Inference for the Physical Sciences
 - [Maximum entropy thermodynamics](https://en.wikipedia.org/wiki/Maximum_entropy_thermodynamics)
 - [What is Bayesian statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bayesian Probability**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

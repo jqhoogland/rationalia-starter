@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1bd
 title: Singleton
-href: https://lesswrong.com/tag/singleton
+href: https://www.lesswrong.com/tag/singleton
 slug: singleton
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:46.096Z'
+synchedAt: '2022-09-01T09:42:23.327Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Bostrom postulates the **singleton hypothesis**; Earth-originating life will eve
 
 - Nick Bostrom (2006). "[What is a Singleton?](http://www.nickbostrom.com/fut/singleton.html)". *Linguistic and Philosophical Investigations* **5** (2): 48-54.
 - Nick Bostrom (2004). "[The Future of Human Evolution](http://www.nickbostrom.com/fut/evolution.html)". *Death and Anti-Death: Two Hundred Years After Kant, Fifty Years After Turing*: 339-371.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Singleton**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: ZzxvopS4BwLuQy42n
 title: Rationalization
-href: https://lesswrong.com/tag/rationalization
+href: https://www.lesswrong.com/tag/rationalization
 slug: rationalization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:09.272Z'
+synchedAt: '2022-09-01T09:42:25.305Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ Defeating rationalization - or even *discovering* rationalizations - is a lifelo
 - [Litany of Gendlin](https://lessestwrong.com/tag/litany-of-gendlin)
 - [Occam's Imaginary Razor](https://wiki.lesswrong.com/wiki/Occam's_Imaginary_Razor)
 - [Hope](https://lessestwrong.com/tag/hope), [oops](https://lessestwrong.com/tag/oops)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationalization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

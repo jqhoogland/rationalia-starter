@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb231
 title: Methods of Rationality (Fanfiction)
-href: https://lesswrong.com/tag/methods-of-rationality-fanfiction
+href: https://www.lesswrong.com/tag/methods-of-rationality-fanfiction
 slug: methods-of-rationality-fanfiction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:19.062Z'
+synchedAt: '2022-09-01T09:42:16.457Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ Other
 - [YouTube adaptation](https://www.youtube.com/watch?v=PpejSWY0Wa0&list=PLC64C47A407D58AAC)
 
 [Category:Rationalist-adjacent](https://wiki.lesswrong.com/wiki/Category:Rationalist-adjacent)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Methods of Rationality (Fanfiction)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

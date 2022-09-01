@@ -1,14 +1,14 @@
 ---
 _id: EdDGrAxYcrXnKkDca
 title: Distillation & Pedagogy
-href: https://lesswrong.com/tag/distillation-and-pedagogy
+href: https://www.lesswrong.com/tag/distillation-and-pedagogy
 slug: distillation-and-pedagogy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:59.251Z'
+synchedAt: '2022-09-01T09:42:49.872Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ Chris Olah, founder of [distill.pub](https://distill.pub/), writes in his essay 
 > The insidious thing about research debt is that it’s normal. Everyone takes it for granted, and doesn’t realize that things could be different. For example, it’s normal to give very mediocre explanations of research, and people perceive that to be the ceiling of explanation quality. On the rare occasions that truly excellent explanations come along, people see them as one-off miracles rather than a sign that we could systematically be doing better.
 
 See also [[Scholarship & Learning|Scholarship and Learning]], and [[Good Explanations (Advice)|Good Explanations]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Distillation & Pedagogy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: AJDHQ4mFnsNbBzPhT
 title: Gödelian Logic
-href: https://lesswrong.com/tag/goedelian-logic
+href: https://www.lesswrong.com/tag/goedelian-logic
 slug: goedelian-logic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:17.349Z'
+synchedAt: '2022-09-01T09:42:41.406Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ One way you might think to get around Gödel's Incompleteness, is to leave behin
     - [Completeness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     - [First-order logic](https://en.wikipedia.org/wiki/First-order_logic) and [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
     - [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Gödelian Logic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

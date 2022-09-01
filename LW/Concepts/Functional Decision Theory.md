@@ -1,14 +1,14 @@
 ---
 _id: fM6pmeSEncbzxoGpr
 title: Functional Decision Theory
-href: https://lesswrong.com/tag/functional-decision-theory
+href: https://www.lesswrong.com/tag/functional-decision-theory
 slug: functional-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.318Z'
+synchedAt: '2022-09-01T09:42:43.082Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ In Newcomb's Problem, an FDT agent reasons that Omega must have used some kind o
 
 - [[Timeless Decision Theory]] (`= [[Timeless Decision Theory]].status`)
 - [[Updateless Decision Theory]] (`= [[Updateless Decision Theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Functional Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

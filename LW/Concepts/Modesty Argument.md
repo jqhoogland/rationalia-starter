@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0f9
 title: Modesty Argument
-href: https://lesswrong.com/tag/modesty-argument
+href: https://www.lesswrong.com/tag/modesty-argument
 slug: modesty-argument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:38.820Z'
+synchedAt: '2022-09-01T09:42:35.163Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ The Modesty Argument is inspired by [[Aumann's Agreement Theorem|Aumann's agreem
 - [[Disagreement]] (`= [[Disagreement]].status`)
 - [[Error of Crowds|Error of crowds]] (`= [[Error of Crowds|Error of crowds]].status`)
 - [[Information Cascades|Information cascade]] (`= [[Information Cascades|Information cascade]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Modesty Argument**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

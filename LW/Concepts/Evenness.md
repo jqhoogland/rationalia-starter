@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb35c
 title: Evenness
-href: https://lesswrong.com/tag/evenness
+href: https://www.lesswrong.com/tag/evenness
 slug: evenness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:28.907Z'
+synchedAt: '2022-09-01T09:42:48.310Z'
 status: todo
 ---
 
@@ -22,3 +22,16 @@ From the [[12 Virtues|Twelve Virtues of Rationality]]:
 
 - [[Motivated Skepticism|Motivated skepticism]] (`= [[Motivated Skepticism|Motivated skepticism]].status`)
 - [[Self-Deception|Self-deception]] (`= [[Self-Deception|Self-deception]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evenness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: HXA9WxPpzZCCEwXHT
 title: Alief
-href: https://lesswrong.com/tag/alief
+href: https://www.lesswrong.com/tag/alief
 slug: alief
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:19.893Z'
+synchedAt: '2022-09-01T09:42:57.256Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ Gendler (2008) also introduced a related pun of "cesire vs desire"; a desire ("D
 - [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)
 - [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Alief**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

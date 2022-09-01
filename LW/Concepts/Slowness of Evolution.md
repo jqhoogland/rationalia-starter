@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb16c
 title: Slowness of Evolution
-href: https://lesswrong.com/tag/slowness-of-evolution
+href: https://www.lesswrong.com/tag/slowness-of-evolution
 slug: slowness-of-evolution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:08.000Z'
+synchedAt: '2022-09-01T09:42:23.281Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ The tremendously slow timescale of evolution, especially for creating new comple
 
 - [[Stupidity of Evolution|Stupidity of evolution]] (`= [[Stupidity of Evolution|Stupidity of evolution]].status`)
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Slowness of Evolution**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

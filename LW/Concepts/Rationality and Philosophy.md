@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb258
 title: Rationality and Philosophy
-href: https://lesswrong.com/tag/rationality-and-philosophy
+href: https://www.lesswrong.com/tag/rationality-and-philosophy
 slug: rationality-and-philosophy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:11.360Z'
+synchedAt: '2022-09-01T09:42:25.611Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) by [lukeprog](http://less
 - [Philosophy by Humans, 3: Intuitions Aren't Shared That Way](http://lesswrong.com/lw/foz/philosophy_by_humans_3_intuitions_arent_shared/)
 - [Philosophy Needs to Trust Your Rationality Even Though It Shouldn't](http://lesswrong.com/r/lesswrong/lw/fpe/philosophy_needs_to_trust_your_rationality_even/)
 - [Train Philosophers With Pearl and Kahneman, not Plato and Kant](http://lesswrong.com/lw/frp/train_philosophers_with_pearl_and_kahneman_not/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationality and Philosophy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

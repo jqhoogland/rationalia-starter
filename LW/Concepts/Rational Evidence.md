@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb161
 title: Rational Evidence
-href: https://lesswrong.com/tag/rational-evidence
+href: https://www.lesswrong.com/tag/rational-evidence
 slug: rational-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:14.081Z'
+synchedAt: '2022-09-01T09:42:25.698Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ The [[Science|scientific method]] can be viewed as a special standard of admissi
 - [[Bayes' Theorem|Bayes' theorem]], [[Conservation of Expected Evidence|Conservation of expected evidence]]
 - [[Traditional Rationality|Traditional rationality]], [[Epistemic Hygiene|Epistemic hygiene]]
 - [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rational Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

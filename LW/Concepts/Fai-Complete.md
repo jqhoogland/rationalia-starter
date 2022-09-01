@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2a7
 title: Fai-Complete
-href: https://lesswrong.com/tag/fai-complete
+href: https://www.lesswrong.com/tag/fai-complete
 slug: fai-complete
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:48.380Z'
+synchedAt: '2022-09-01T09:42:47.574Z'
 status: todo
 ---
 
@@ -43,3 +43,16 @@ Goertzel proposed a "Nanny AI"([Should humanity build a global AI nanny to delay
 
 - [FAI](https://wiki.lesswrong.com/wiki/FAI)
 - [[AI-Complete|AI-complete]] (`= [[AI-Complete|AI-complete]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fai-Complete**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: be2Mh2bddQ6ZaBcti
 title: Prisoner's Dilemma
-href: https://lesswrong.com/tag/prisoner-s-dilemma
+href: https://www.lesswrong.com/tag/prisoner-s-dilemma
 slug: prisoner-s-dilemma
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:59.071Z'
+synchedAt: '2022-09-01T09:42:28.001Z'
 status: todo
 ---
 
@@ -53,3 +53,16 @@ A popular variant is the Iterated Prisoner's Dilemma, where two agents play the 
 ## References
 
 - Drescher, Gary (2006). *Good and Real*. Cambridge: The MIT Press. ISBN 0262042339.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Prisoner's Dilemma**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

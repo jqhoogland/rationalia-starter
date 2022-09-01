@@ -7,7 +7,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-30T10:24:20.408Z'
+synchedAt: '2022-09-01T09:42:58.545Z'
 slug: absolute-certainty
 status: todo
 ---
@@ -40,3 +40,16 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 - [[Doubt]] (`= [[Doubt]].status`)
 
 ---
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Absolute Certainty**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

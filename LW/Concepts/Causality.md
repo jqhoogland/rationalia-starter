@@ -1,14 +1,14 @@
 ---
 _id: cq69M9ceLNA35ShTR
 title: Causality
-href: https://lesswrong.com/tag/causality
+href: https://www.lesswrong.com/tag/causality
 slug: causality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.098Z'
+synchedAt: '2022-09-01T09:42:54.021Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ status: todo
 - [If correlation doesn't imply causation, then what does?](http://www.michaelnielsen.org/ddi/if-correlation-doesnt-imply-causation-then-what-does/) by [Michael Nielsen](https://en.wikipedia.org/wiki/Michael_Nielsen)
 - [Correlation is Evidence of Causation](http://oyhus.no/CorrelationAndCausation.html) by Kim Øyhus
 - Judea Pearls's works: [*Causality: Models, Reasoning, and Inference*](http://bayes.cs.ucla.edu/BOOK-2K/)*,* [Book of Why, A Primer on Causality](https://www.goodreads.com/book/show/36204378-the-book-of-why)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Causality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

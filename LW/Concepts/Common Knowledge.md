@@ -1,14 +1,14 @@
 ---
 _id: kCuRQE5Tkv9zeKyzK
 title: Common Knowledge
-href: https://lesswrong.com/tag/common-knowledge
+href: https://www.lesswrong.com/tag/common-knowledge
 slug: common-knowledge
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:17.932Z'
+synchedAt: '2022-09-01T09:42:53.146Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ status: todo
 [The Kolmogorov option](https://www.scottaaronson.com/blog/?p=3376) by Scott Aaronson
 
 [kolmogorov complicity and-the parable of lightning](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/) by Scott Alexander
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Common Knowledge**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

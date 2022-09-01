@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
   - Heuristic
-synchedAt: '2022-08-30T09:13:38.747Z'
+synchedAt: '2022-09-01T09:42:58.504Z'
 status: todo
 ---
 

@@ -1,15 +1,28 @@
 ---
 _id: FkzScn5byCs9PxGsA
 title: Politics
-href: https://lesswrong.com/tag/politics
+href: https://www.lesswrong.com/tag/politics
 slug: politics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:07.030Z'
+synchedAt: '2022-09-01T09:42:28.721Z'
 status: todo
 ---
 
 # Politics
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Politics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

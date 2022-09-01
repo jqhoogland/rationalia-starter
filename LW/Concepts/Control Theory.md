@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb11d
 title: Control Theory
-href: https://lesswrong.com/tag/control-theory
+href: https://www.lesswrong.com/tag/control-theory
 slug: control-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:23.410Z'
+synchedAt: '2022-09-01T09:42:51.950Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ A control system is a device that keeps a variable at a certain value, despite o
 ## See Also
 
 - [[Perceptual Control Theory|Perceptual control theory]] (`= [[Perceptual Control Theory|Perceptual control theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Control Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb154
 title: Scope Insensitivity
-href: https://lesswrong.com/tag/scope-insensitivity
+href: https://www.lesswrong.com/tag/scope-insensitivity
 slug: scope-insensitivity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:00.266Z'
+synchedAt: '2022-09-01T09:42:24.127Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ The human brain can't *emotionally* represent large quantities; an environmental
 - [[Emotions|Emotion]], [[Alief|alief]]
 - [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
 - [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Scope Insensitivity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2d0
 title: Emulation Argument For Human-Level AI
-href: https://lesswrong.com/tag/emulation-argument-for-human-level-ai
+href: https://www.lesswrong.com/tag/emulation-argument-for-human-level-ai
 slug: emulation-argument-for-human-level-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:15.325Z'
+synchedAt: '2022-09-01T09:42:48.723Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ The **Emulation argument for human-level** [**AI**](https://wiki.lesswrong.com/w
 ## References
 
 1. CHALMERS, David. (2010) "The Singularity: A Philosophical Analysis, Journal of Consciousness Studies", 17 (9-10), pp. 7-65.[↩](#fnref1)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Emulation Argument For Human-Level AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb150
 title: Bystander Effect
-href: https://lesswrong.com/tag/bystander-effect
+href: https://www.lesswrong.com/tag/bystander-effect
 slug: bystander-effect
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:01.431Z'
+synchedAt: '2022-09-01T09:42:54.352Z'
 status: todo
 ---
 
@@ -22,3 +22,16 @@ status: todo
 
 - [[Conformity Bias|Conformity bias]] (`= [[Conformity Bias|Conformity bias]].status`)
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bystander Effect**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

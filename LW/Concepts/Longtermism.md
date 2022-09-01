@@ -1,14 +1,14 @@
 ---
 _id: gWEjzxPjitZ2JGZvM
 title: Longtermism
-href: https://lesswrong.com/tag/longtermism
+href: https://www.lesswrong.com/tag/longtermism
 slug: longtermism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.952Z'
+synchedAt: '2022-09-01T09:42:36.727Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ Longtermism is a philosophy that future lives matter and that we have a similar 
     - Response: Many criticisms of consequentialism are baseless \[\[criticisms of consequentialism\]\]
 
 - Future lives don't exist, how could we care about them
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Longtermism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

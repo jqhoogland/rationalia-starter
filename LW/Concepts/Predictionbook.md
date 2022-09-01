@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb224
 title: Predictionbook
-href: https://lesswrong.com/tag/predictionbook
+href: https://www.lesswrong.com/tag/predictionbook
 slug: predictionbook
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:50.152Z'
+synchedAt: '2022-09-01T09:42:28.356Z'
 status: todo
 ---
 
@@ -48,3 +48,16 @@ These Less Wrong users have accounts at PredictionBook:
 ## See Also
 
 - [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools), [[Robot|Debate tools]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Predictionbook**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

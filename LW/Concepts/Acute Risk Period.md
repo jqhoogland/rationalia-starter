@@ -8,7 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T20:32:26.630Z'
+synchedAt: '2022-09-01T09:42:58.213Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ It's an important strategic consideration in the field of [[Existential Risk]] â
 See also [[Existential Risk]], [[AI Risk]], and the [Most Important Century](https://www.lesswrong.com/sequences/yYxggfHYRrqnJXuRx).
 
 *This is a stub wiki post I hope gets fleshed out soon. I thought probably this was already written up on Arbital or something but I can't find it.*
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Acute Risk Period**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

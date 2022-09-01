@@ -1,14 +1,14 @@
 ---
 _id: e6j9tnTfaabjCgK6d
 title: Literature Reviews
-href: https://lesswrong.com/tag/literature-reviews
+href: https://www.lesswrong.com/tag/literature-reviews
 slug: literature-reviews
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.785Z'
+synchedAt: '2022-09-01T09:42:36.784Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Their main purpose is not to present original research, nor serve as teaching ma
 Note the three terms are not synonymous but gather well under the same tag.
 
 See also: [[Book Reviews]], [[Epistemic Review]]. [[Summaries]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Literature Reviews**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a0
 title: Conjunction Fallacy
-href: https://lesswrong.com/tag/conjunction-fallacy
+href: https://www.lesswrong.com/tag/conjunction-fallacy
 slug: conjunction-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:53.899Z'
+synchedAt: '2022-09-01T09:42:52.317Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ The conjunction fallacy suggests that one should be [[Burdensome Details|very ca
 
 - [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
 - [[Burdensome Details|Burdensome details]] (`= [[Burdensome Details|Burdensome details]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Conjunction Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

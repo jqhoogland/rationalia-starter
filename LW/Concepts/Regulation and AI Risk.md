@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2c7
 title: Regulation and AI Risk
-href: https://lesswrong.com/tag/regulation-and-ai-risk
+href: https://www.lesswrong.com/tag/regulation-and-ai-risk
 slug: regulation-and-ai-risk
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:36.377Z'
+synchedAt: '2022-09-01T09:42:25.083Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ Goertzel & Pitt (2012) suggest that for regulation to be enacted, there might ne
 - [[AGI Sputnik Moment|AGI Sputnik moment]] (`= [[AGI Sputnik Moment|AGI Sputnik moment]].status`)
 - [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]] (`= [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Regulation and AI Risk**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

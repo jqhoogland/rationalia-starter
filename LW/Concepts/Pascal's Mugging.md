@@ -1,14 +1,14 @@
 ---
 _id: HNJiR8Jzafsv8cHrC
 title: Pascal's Mugging
-href: https://lesswrong.com/tag/pascal-s-mugging
+href: https://www.lesswrong.com/tag/pascal-s-mugging
 slug: pascal-s-mugging
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:51.264Z'
+synchedAt: '2022-09-01T09:42:31.619Z'
 status: todo
 ---
 
@@ -43,3 +43,16 @@ If an outcome with infinite utility is presented, then it doesn't matter how sma
 
 1. Peter de Blanc (2007). [*Convergence of Expected Utilities with Algorithmic Probability Distributions*](http://arxiv.org/abs/0712.4318).
 2. Nick Bostrom (2009). "Pascal's Mugging". *Analysis* **69** (3): 443-445. ([PDF](http://www.nickbostrom.com/papers/pascal.pdf))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Pascal's Mugging**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

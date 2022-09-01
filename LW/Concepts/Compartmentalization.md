@@ -1,14 +1,14 @@
 ---
 _id: KWFhr6A2dHEb6wmWJ
 title: Compartmentalization
-href: https://lesswrong.com/tag/compartmentalization
+href: https://www.lesswrong.com/tag/compartmentalization
 slug: compartmentalization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:14.910Z'
+synchedAt: '2022-09-01T09:42:52.841Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ One might even have excellent epistemological performance in one domain and terr
 - [[Alief]] (`= [[Alief]].status`)
 - [[Aversion|Ugh field]] (`= [[Aversion|Ugh field]].status`)
 - [[Distinctions]] (`= [[Distinctions]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Compartmentalization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

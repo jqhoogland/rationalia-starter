@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb174
 title: Likelihood Ratio
-href: https://lesswrong.com/tag/likelihood-ratio
+href: https://www.lesswrong.com/tag/likelihood-ratio
 slug: likelihood-ratio
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:11.609Z'
+synchedAt: '2022-09-01T09:42:37.222Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ If the likelihood ratio is known, Bayesian updates are faster and more intuitive
 
 - [[Bayes' Theorem|Bayes' theorem]] (`= [[Bayes' Theorem|Bayes' theorem]].status`)
 - [[Evidence]] (`= [[Evidence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Likelihood Ratio**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

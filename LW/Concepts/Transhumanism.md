@@ -1,14 +1,14 @@
 ---
 _id: jiuackr7B5JAetbF6
 title: Transhumanism
-href: https://lesswrong.com/tag/transhumanism
+href: https://www.lesswrong.com/tag/transhumanism
 slug: transhumanism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:02:43.145Z'
+synchedAt: '2022-09-01T09:42:20.216Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ status: todo
 ## External Links
 
 - [H+Pedia, the transhumanist wiki](https://hpluspedia.org/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Transhumanism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

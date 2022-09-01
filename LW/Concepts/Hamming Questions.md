@@ -1,14 +1,14 @@
 ---
 _id: BhrpjXqGuke5GnF6g
 title: Hamming Questions
-href: https://lesswrong.com/tag/hamming-questions
+href: https://www.lesswrong.com/tag/hamming-questions
 slug: hamming-questions
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:25.967Z'
+synchedAt: '2022-09-01T09:42:41.338Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ status: todo
 > [(Taken from here)](https://www.lesswrong.com/posts/rnFLc3E5Y4FP8TSGC/the-biggest-problem-in-your-life)
 
 See also [[Open Problems]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hamming Questions**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2f2
 title: List of Blogs
-href: https://lesswrong.com/tag/list-of-blogs
+href: https://www.lesswrong.com/tag/list-of-blogs
 slug: list-of-blogs
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:11.748Z'
+synchedAt: '2022-09-01T09:42:16.653Z'
 status: todo
 ---
 
@@ -276,3 +276,16 @@ status: todo
 - [Map of the rationalist community on Slate Star Codex](http://slatestarcodex.com/2014/09/05/mapmaker-mapmaker-make-me-a-map/)
 - [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
 - [[List of Podcasts]] (`= [[List of Podcasts]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **List of Blogs**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

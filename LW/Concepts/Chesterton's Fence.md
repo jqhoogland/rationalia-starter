@@ -1,14 +1,14 @@
 ---
 _id: ntahi2tr7e9DjCYdu
 title: Chesterton's Fence
-href: https://lesswrong.com/tag/chesterton-s-fence
+href: https://www.lesswrong.com/tag/chesterton-s-fence
 slug: chesterton-s-fence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:53.549Z'
+synchedAt: '2022-09-01T09:42:53.627Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ From Chesterton’s 1929 book, The Thing, in the chapter entitled *The Drift fro
 ## See Also
 
 - [Wikipedia: Chesterton's Fence](http://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Chesterton's Fence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

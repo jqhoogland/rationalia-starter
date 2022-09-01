@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb221
 title: Bets Registry
-href: https://lesswrong.com/tag/bets-registry
+href: https://www.lesswrong.com/tag/bets-registry
 slug: bets-registry
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:48.329Z'
+synchedAt: '2022-09-01T09:42:55.076Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ Bets decided eventually
 - [EliezerYudkowsky and Unknown](http://lesswrong.com/lw/wm/disjunctions_antipredictions_etc/#pix): $10 by Unknown (paid in 2008) against $1000 inflation-adjusted paid by Eliezer Yudkowsky in the following event:
     - *"When someone designs a superintelligent AI (it won't be Eliezer), without paying any attention to Friendliness (the first person who does it won't), and the world doesn't end (it won't), it will be interesting to hear Eliezer's excuses."* ([comment](http://lesswrong.com/lw/ece/rationality_quotes_september_2012/7gqw))
 - [Robin Hanson and Joshua Fox](http://lesswrong.com/r/discussion/lw/iaa/bets_on_an_extreme_future): $3000 linked to S&P500 about whether AI's will be ems or de-novo once non-biological general intelligence has most of the computing power. (That's an informal summary. See [LessWrong](http://lesswrong.com/r/discussion/lw/iaa/bets_on_an_extreme_future/) and [Overcoming Bias](http://www.overcomingbias.com/2013/08/em-vs-non-agi-bet.html) for a more precise statement of the bet.)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bets Registry**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

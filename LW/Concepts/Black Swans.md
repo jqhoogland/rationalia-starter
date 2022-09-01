@@ -1,14 +1,14 @@
 ---
 _id: SrW9iP2j6Hi8R5PmT
 title: Black Swans
-href: https://lesswrong.com/tag/black-swans
+href: https://www.lesswrong.com/tag/black-swans
 slug: black-swans
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:12.250Z'
+synchedAt: '2022-09-01T09:42:55.025Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Considering some event a black swan doesn't give a leave to not assign any proba
 - [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
 - [I don't know](https://www.lesswrong.com/tag/i-dont-know)
 - [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Forecast|forecast]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Black Swans**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

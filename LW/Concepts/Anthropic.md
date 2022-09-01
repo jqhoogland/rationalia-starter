@@ -1,14 +1,14 @@
 ---
 _id: aHay2tebonHAYKtac
 title: Anthropic
-href: https://lesswrong.com/tag/anthropic
+href: https://www.lesswrong.com/tag/anthropic
 slug: anthropic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:17.347Z'
+synchedAt: '2022-09-01T09:42:57.121Z'
 status: todo
 ---
 
@@ -17,3 +17,16 @@ status: todo
 **Anthropic** is an AI organization.
 
 Not to be confused with [anthropics](anthropics).
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Anthropic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

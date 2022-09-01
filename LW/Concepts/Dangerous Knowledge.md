@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb146
 title: Dangerous Knowledge
-href: https://lesswrong.com/tag/dangerous-knowledge
+href: https://www.lesswrong.com/tag/dangerous-knowledge
 slug: dangerous-knowledge
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:07.808Z'
+synchedAt: '2022-09-01T09:42:50.895Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ Even simple facts, when learned superficially, can turn against you, for reasons
 1. Schwarz, N., Sanna, L.J., Skurnik, I., & Yoon, C. (2007). "Metacognitive experiences and the intricacies of setting people straight: Implications for debiasing and public information campaigns". Advances in Experimental Social Psychology 39: 127-161.
 
 * * *
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Dangerous Knowledge**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

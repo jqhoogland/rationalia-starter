@@ -1,14 +1,14 @@
 ---
 _id: vH8zJLkhiqdJzK5ej
 title: Bragging Threads
-href: https://lesswrong.com/tag/bragging-threads
+href: https://www.lesswrong.com/tag/bragging-threads
 slug: bragging-threads
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.709Z'
+synchedAt: '2022-09-01T09:42:54.675Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ Your job, should you choose to accept it, is to comment on this thread explainin
 Remember, however, that this **isn't** any kind of progress thread. Nor is it any kind of proposal thread. *This thread is solely for people to talk about the awesome things they have done. Not "will do". Not "are working on"*. **Have already done.** This is to cultivate an environment of object level productivity rather than meta-productivity methods.
 
 So, what's the coolest thing you've done this month?
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bragging Threads**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

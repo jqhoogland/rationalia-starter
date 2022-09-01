@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Posts/0 And 1 Are Not Probabilities.md",
+            "file": "LW/Concepts/AGI Skepticism.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Posts/0 And 1 Are Not Probabilities.md"
+                "file": "LW/Concepts/AGI Skepticism.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Posts/0 And 1 Are Not Probabilities.md",
+                "file": "LW/Concepts/AGI Skepticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,8 @@
   },
   "active": "fb23bf328e71c40b",
   "lastOpenFiles": [
+    "LW/Concepts/Adaptation Executors.md",
+    "LW/Posts/0 And 1 Are Not Probabilities.md",
     "LW/Posts/\"Should\" considered harmful.md",
     "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
     "LW/Posts/\"What Is Wrong With Our Thoughts\".md",
@@ -139,8 +141,6 @@
     "LW/Posts/'An objective defense of Bayesianism'.md",
     "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
     "LW/Posts/37 Ways That Words Can Be Wrong.md",
-    "LW/Posts/A Fable of Science and Politics.md",
-    "LW/Posts/A non-mystical explanation of \"no-self\" (three characteristics series).md",
-    "LW/Posts/A Priori.md"
+    "LW/Posts/A Fable of Science and Politics.md"
   ]
 }

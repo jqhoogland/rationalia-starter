@@ -8,7 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-30T10:41:01.403Z'
+synchedAt: '2022-09-01T09:42:58.209Z'
 aliases:
   - Egan's Law
 status: todo

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb11a
 title: Belief Update
-href: https://lesswrong.com/tag/belief-update
+href: https://www.lesswrong.com/tag/belief-update
 slug: belief-update
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:15.353Z'
+synchedAt: '2022-09-01T09:42:55.411Z'
 aliases:
   - Update
 status: todo
@@ -27,3 +27,16 @@ What you do to your beliefs, opinions and cognitive structure when new [[Evidenc
 - [[Beliefs Require Observations|Beliefs require observations]] (`= [[Beliefs Require Observations|Beliefs require observations]].status`)
 - [[Bayes' Theorem|Bayes' theorem]] (`= [[Bayes' Theorem|Bayes' theorem]].status`)
 - [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Belief Update**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

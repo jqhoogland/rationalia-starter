@@ -1,14 +1,14 @@
 ---
 _id: 8uNFGxejo5hykCEez
 title: Virtues
-href: https://lesswrong.com/tag/virtues
+href: https://www.lesswrong.com/tag/virtues
 slug: virtues
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:08.015Z'
+synchedAt: '2022-09-01T09:42:18.879Z'
 aliases:
   - Virtue ethics
 status: todo
@@ -38,3 +38,16 @@ On LessWrong the focus is often on epistemic virtues, as in Eliezer Yudowsky's e
 **Sequences:**
 
 [Notes On Virtues](https://www.lesswrong.com/s/xqgwpmwDYsn8osoje) by [David_Gross](https://www.lesswrong.com/users/david_gross)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Virtues**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

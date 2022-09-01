@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb29c
 title: Gödel Machine
-href: https://lesswrong.com/tag/gödel-machine
+href: https://www.lesswrong.com/tag/gödel-machine
 slug: gödel-machine
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:45.324Z'
+synchedAt: '2022-09-01T09:42:41.431Z'
 status: todo
 ---
 
@@ -44,3 +44,16 @@ The Gödel machine is often compared with Marcus Hutter's [[AIXI]], another form
 - [[Recursive Self-Improvement|Recursive self-improvement]] (`= [[Recursive Self-Improvement|Recursive self-improvement]].status`)
 - [[Seed AI]] (`= [[Seed AI]].status`)
 - [[AIXI]] (`= [[AIXI]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Gödel Machine**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

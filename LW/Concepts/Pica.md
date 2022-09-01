@@ -1,14 +1,14 @@
 ---
 _id: 5BvRW4FxdD8DFhiew
 title: Pica
-href: https://lesswrong.com/tag/pica
+href: https://www.lesswrong.com/tag/pica
 slug: pica
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:28.154Z'
+synchedAt: '2022-09-01T09:42:29.705Z'
 status: todo
 ---
 
@@ -22,3 +22,16 @@ status: todo
 - Evaluate your relationship by the sheer amount of physical affection? That's Goodhart's Law. Evaluate it by how much misery you put each other through "for love?" That's pica
 
 **Related Pages:** [[Akrasia]], [[Goodhart's Law]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Pica**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

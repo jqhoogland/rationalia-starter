@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb125
 title: Generalization From Fictional Evidence
-href: https://lesswrong.com/tag/generalization-from-fictional-evidence
+href: https://www.lesswrong.com/tag/generalization-from-fictional-evidence
 slug: generalization-from-fictional-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:03.363Z'
+synchedAt: '2022-09-01T09:42:42.428Z'
 status: todo
 ---
 
@@ -22,3 +22,16 @@ It was first coined by Eliezer Yudkowsky in [a talk he gave in 2003](http://www.
 
 - [[Availability Heuristic|Availability heuristic]] (`= [[Availability Heuristic|Availability heuristic]].status`)
 - [[Good-Story Bias|Good-story bias]] (`= [[Good-Story Bias|Good-story bias]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Generalization From Fictional Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

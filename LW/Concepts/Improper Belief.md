@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb195
 title: Improper Belief
-href: https://lesswrong.com/tag/improper-belief
+href: https://www.lesswrong.com/tag/improper-belief
 slug: improper-belief
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:34.847Z'
+synchedAt: '2022-09-01T09:42:39.304Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ Improper belief is one of the subjects of the [Mysterious Answers to Mysterious 
 
 - [[Anti-Epistemology|Anti-epistemology]] (`= [[Anti-Epistemology|Anti-epistemology]].status`)
 - [[Self-Deception|Self-deception]] (`= [[Self-Deception|Self-deception]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Improper Belief**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb26d
 title: Oracle AI
-href: https://lesswrong.com/tag/oracle-ai
+href: https://www.lesswrong.com/tag/oracle-ai
 slug: oracle-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:41.116Z'
+synchedAt: '2022-09-01T09:42:32.566Z'
 status: todo
 ---
 
@@ -59,3 +59,16 @@ Finally, a *Predictor* is seen as a system that takes a corpus of data and produ
 
 - [Dreams of Friendliness](http://lesswrong.com/lw/tj/dreams_of_friendliness/)
 - [Thinking inside the box: using and controlling an Oracle AI](http://www.aleph.se/papers/oracleAI.pdf) by Armstrong, Sandberg and [[Nick Bostrom|Bostrom]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Oracle AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

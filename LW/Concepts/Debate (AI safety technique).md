@@ -1,14 +1,14 @@
 ---
 _id: HqaByfeGvDLKSaK2W
 title: Debate (AI safety technique)
-href: https://lesswrong.com/tag/debate-ai-safety-technique-1
+href: https://www.lesswrong.com/tag/debate-ai-safety-technique-1
 slug: debate-ai-safety-technique-1
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:06.757Z'
+synchedAt: '2022-09-01T09:42:50.591Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ status: todo
 3. ^**[^](#fnrefnwfhnzy6a3e)**^
 
     <https://openai.com/blog/debate/>
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Debate (AI safety technique)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

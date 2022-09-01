@@ -1,14 +1,14 @@
 ---
 _id: vHzreEfefos3Kqt2p
 title: Cognitive Reduction
-href: https://lesswrong.com/tag/cognitive-reduction
+href: https://www.lesswrong.com/tag/cognitive-reduction
 slug: cognitive-reduction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:23.264Z'
+synchedAt: '2022-09-01T09:42:53.533Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ In other cases, we may still think the phenomenon exists in the territory, but n
 ## See Also
 
 - [[How An Algorithm Feels]] (`= [[How An Algorithm Feels]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cognitive Reduction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

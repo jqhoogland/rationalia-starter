@@ -1,14 +1,14 @@
 ---
 _id: rWzGNdjuep56W5u2d
-title: Inside, Outside View
-href: https://lesswrong.com/tag/inside-outside-view
+title: Inside/Outside View
+href: https://www.lesswrong.com/tag/inside-outside-view
 slug: inside-outside-view
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:02:43.866Z'
+synchedAt: '2022-09-01T09:42:38.713Z'
 aliases:
   - Inside View
   - Outside View
@@ -57,3 +57,16 @@ More possible limitations and problems with using the outside view are discussed
 \[1\] Buehler, R., Griffin, D., & Ross, M. 2002. Inside the planning fallacy: The causes and consequences of optimistic time predictions. Heuristics and biases: The psychology of intuitive judgment, 250-270. Cambridge, UK: Cambridge University Press.
 
 \[2\] Buehler, R., Griffin, D. and Ross, M. 1995. It's about time: Optimistic predictions in work and love. European Review of Social Psychology, Volume 6, eds. W. Stroebe and M. Hewstone. Chichester: John Wiley & Sons.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Inside, Outside View**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

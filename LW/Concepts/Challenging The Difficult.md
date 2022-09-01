@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb206
 title: Challenging The Difficult
-href: https://lesswrong.com/tag/challenging-the-difficult
+href: https://www.lesswrong.com/tag/challenging-the-difficult
 slug: challenging-the-difficult
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:22.920Z'
+synchedAt: '2022-09-01T09:42:53.989Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) on how to do things that 
 - [[Egalitarianism]] (`= [[Egalitarianism]].status`)
 - [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
 - [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Challenging The Difficult**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

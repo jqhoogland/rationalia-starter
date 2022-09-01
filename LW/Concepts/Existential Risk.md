@@ -1,14 +1,14 @@
 ---
 _id: Rz5jb3cYHTSRmqNnN
 title: Existential Risk
-href: https://lesswrong.com/tag/existential-risk
+href: https://www.lesswrong.com/tag/existential-risk
 slug: existential-risk
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:06.758Z'
+synchedAt: '2022-09-01T09:42:48.037Z'
 status: todo
 ---
 
@@ -75,3 +75,16 @@ The concept is expanded upon in his 2012 paper [Existential Risk Prevention as G
 5. Milan M. Ćirković (2008). ["Observation Selection Effects and global catastrophic risks"](http://books.google.com/books?id=-Jxc88RuJhgC&lpg=PP1&pg=PA120#v=onepage&q=&f=false). *Global Catastrophic Risks*. Oxford University Press.
 6. Eliezer S. Yudkowsky (2008). ["Cognitive Biases Potentially Affecting Judgment of Global Risks"](http://yudkowsky.net/rational/cognitive-biases). *Global Catastrophic Risks*. Oxford University Press. ([PDF](http://intelligence.org/files/CognitiveBiases.pdf))
 7. Richard A. Posner (2004). [*Catastrophe Risk and Response*](http://books.google.ca/books?id=SDe59lXSrY8C). Oxford University Press. ([DOC](http://www.avturchin.narod.ru/posner.doc))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Existential Risk**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

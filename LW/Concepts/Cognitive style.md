@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb0da
 title: Cognitive Style
 slug: cognitive-style
 href: https://www.lesswrong.com/tag/cognitive-style
-synchedAt: '2022-08-30T12:56:34.833Z'
+synchedAt: '2022-09-01T09:42:53.209Z'
 tags:
   - LessWrong
   - Tag
@@ -42,3 +42,15 @@ Other resources
 *   *Expert Political Judgement*, Tetlock, pp. 68–86
 
 * * *
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cognitive style**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

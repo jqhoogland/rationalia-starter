@@ -1,17 +1,30 @@
 ---
 _id: hNFdS3rRiYgqqD8aM
 title: Humor
-href: https://lesswrong.com/tag/humor
+href: https://www.lesswrong.com/tag/humor
 slug: humor
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:26.473Z'
+synchedAt: '2022-09-01T09:42:40.381Z'
 status: todo
 ---
 
 # Humor
 
 **Humor**. This tag is a joke.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Humor**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb159
 title: Unsupervised Universe
-href: https://lesswrong.com/tag/unsupervised-universe
+href: https://www.lesswrong.com/tag/unsupervised-universe
 slug: unsupervised-universe
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:28.996Z'
+synchedAt: '2022-09-01T09:42:19.644Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Example: Would the twentieth century have gone differently, if Klara Pölzl and 
 
 - [[Human Universal|Human universal]], [[Anthropomorphism]]
 - [[Magic]], [[Reductionism]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Unsupervised Universe**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

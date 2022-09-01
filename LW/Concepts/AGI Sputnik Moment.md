@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb298
 title: AGI Sputnik Moment
-href: https://lesswrong.com/tag/agi-sputnik-moment
+href: https://www.lesswrong.com/tag/agi-sputnik-moment
 slug: agi-sputnik-moment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:45.115Z'
+synchedAt: '2022-09-01T09:42:59.278Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ Goertzel and Pitt have also emphasized the role of an AGI Sputnik moment in AGI 
 
 - [[AGI]] (`= [[AGI]].status`)
 - [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AGI Sputnik Moment**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

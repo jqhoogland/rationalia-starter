@@ -1,14 +1,14 @@
 ---
 _id: io2ExA7GEeTgHFTFW
 title: Center on Long-Term Risk (CLR)
-href: https://lesswrong.com/tag/center-on-long-term-risk-clr
+href: https://www.lesswrong.com/tag/center-on-long-term-risk-clr
 slug: center-on-long-term-risk-clr
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:59.969Z'
+synchedAt: '2022-09-01T09:42:16.975Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ The **Center on Long-Term Risk**, formerly *Foundational Research Institute,* is
 
 - [CLR website](https://longtermrisk.org/)
 - [Effective Altruism Wiki article on FRI](http://archive.is/aZjiv)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Center on Long-Term Risk (CLR)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

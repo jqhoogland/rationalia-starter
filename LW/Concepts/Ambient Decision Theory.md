@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb23f
 title: Ambient Decision Theory
-href: https://lesswrong.com/tag/ambient-decision-theory
+href: https://www.lesswrong.com/tag/ambient-decision-theory
 slug: ambient-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:53.079Z'
+synchedAt: '2022-09-01T09:42:57.132Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ A variant of [[Updateless Decision Theory|updateless decision theory]] that uses
 - [[Newcomb's Problem|Newcomb's problem]], [[Prisoner's Dilemma|Prisoner's dilemma]]
 - [[Timeless Decision Theory|Timeless decision theory]] (`= [[Timeless Decision Theory|Timeless decision theory]].status`)
 - [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Ambient Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

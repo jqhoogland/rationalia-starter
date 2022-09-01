@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2a5
 title: Event Horizon Thesis
-href: https://lesswrong.com/tag/event-horizon-thesis
+href: https://www.lesswrong.com/tag/event-horizon-thesis
 slug: event-horizon-thesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:40.541Z'
+synchedAt: '2022-09-01T09:42:48.301Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ However, this argument does not rule out all predictions. In particular, if we c
 ## See Also
 
 - [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Event Horizon Thesis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

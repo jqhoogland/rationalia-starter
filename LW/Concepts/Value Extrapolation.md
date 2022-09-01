@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2c3
 title: Value Extrapolation
-href: https://lesswrong.com/tag/value-extrapolation
+href: https://www.lesswrong.com/tag/value-extrapolation
 slug: value-extrapolation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:29.426Z'
+synchedAt: '2022-09-01T09:42:19.175Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ Yudkowsky's, through [[Coherent Extrapolated Volition]], has proposed that a ext
 - [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
 - [Fragility of value](https://wiki.lesswrong.com/wiki/Fragility_of_value)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Value Extrapolation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb21b
 title: The Quantum Physics Sequence
-href: https://lesswrong.com/tag/the-quantum-physics-sequence
+href: https://www.lesswrong.com/tag/the-quantum-physics-sequence
 slug: the-quantum-physics-sequence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:12:36.967Z'
+synchedAt: '2022-09-01T09:42:20.841Z'
 status: todo
 ---
 
@@ -97,3 +97,16 @@ A guide to this sequence is available at [The Quantum Physics Sequence (post)](h
 - [[Quantum Mechanics|Quantum mechanics]] (`= [[Quantum Mechanics|Quantum mechanics]].status`)
 - [[Decoherence]] (`= [[Decoherence]].status`)
 - [[Many-Worlds Interpretation|Many-worlds interpretation]] (`= [[Many-Worlds Interpretation|Many-worlds interpretation]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Quantum Physics Sequence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

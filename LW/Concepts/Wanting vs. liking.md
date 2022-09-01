@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb267
 title: Wanting vs Liking
 slug: wanting-vs-liking
 href: https://www.lesswrong.com/tag/wanting-vs-liking
-synchedAt: '2022-08-30T12:59:43.998Z'
+synchedAt: '2022-09-01T09:42:18.843Z'
 tags:
   - LessWrong
   - Tag
@@ -30,3 +30,16 @@ See also
 * [[Akrasia]], [Ugh field](https://www.lesswrong.com/tag/aversion-ugh-fields)
 
 * [Complexity of value](https://www.lesswrong.com/tag/complexity-of-value)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Wanting vs. liking**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2a6
 title: AI-Complete
-href: https://lesswrong.com/tag/ai-complete
+href: https://www.lesswrong.com/tag/ai-complete
 slug: ai-complete
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:57.762Z'
+synchedAt: '2022-09-01T09:42:58.578Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ Roman V. Yampolskiy proposed a [classification in AI-Complete, AI-Hard and AI-Ea
 ## See Also
 
 - [[Fai-Complete|FAI-complete]] (`= [[Fai-Complete|FAI-complete]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AI-Complete**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

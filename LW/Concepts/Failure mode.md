@@ -1,14 +1,14 @@
 ---
 _id: mmfk47obrNKhN6waD
 title: Failure mode
-href: https://lesswrong.com/tag/failure-mode
+href: https://www.lesswrong.com/tag/failure-mode
 slug: failure-mode
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:36.856Z'
+synchedAt: '2022-09-01T09:42:47.228Z'
 status: todo
 ---
 
@@ -87,3 +87,16 @@ Knowing and understanding possible failure modes in what you attempting to do is
 [[Guessing the Teacher's Password]]
 
 [[Expecting Short Inferential Distances]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Failure mode**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

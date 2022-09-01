@@ -80,12 +80,7 @@ export default class Rationalia extends Plugin {
 	onunload() {
 	}
 }
-
-const addFlashcards = (editor: Editor, view: MarkdownView) => {
-	// @ts-ignore titleEl
-	const title = view.titleEl.innerText;
-
-	const cardsString = `
+const getFlashcardTemplate = (title: string) => `
 
 %%
 
@@ -99,6 +94,11 @@ END
 %%
 	
 `
+
+const addFlashcards = (editor: Editor, view: MarkdownView) => {
+	// @ts-ignore titleEl
+	const title = view.titleEl.innerText;
+	const cardsString = getFlashcardTemplate(title)
 
 	editor.replaceRange(
 		cardsString,
@@ -133,13 +133,13 @@ const syncNote = async (title: string, value: string) => {
 
 
 	switch (frontmatter.type) {
-		// case 'tag':
-		// 	return syncTag(title, frontmatter as TagFrontmatter, body)
+		case 'tag':
+		 	return syncTag(title, frontmatter as TagFrontmatter, body)
 		case 'post': 
 			console.log("[Post]: Synching " + title)
 			return syncPost(title, frontmatter as PostFrontmatter, body)
-		// default: 
-		//	return syncMisc(frontmatter, body)
+		default: 
+			return syncMisc(frontmatter, body)
 	}
 	return value;
 }
@@ -264,6 +264,10 @@ const updateTag = async (title: string, frontmatter: TagFrontmatter, body: strin
 	} 
 	if (tag.subTags?.length > 0) {
 		newFrontmatter.children = tag.subTags.map(t => t.name)
+	}
+
+	if (!body.includes("START")) {
+		body += getFlashcardTemplate(title)
 	}
 
 	return combine(

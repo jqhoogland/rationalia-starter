@@ -1,7 +1,7 @@
 ---
 _id: 3uE2pXvbcnS9nnZRE
 title: World Modeling
-href: https://lesswrong.com/tag/world-modeling
+href: https://www.lesswrong.com/tag/world-modeling
 slug: world-modeling
 type: tag
 tags:
@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 core: true
-synchedAt: '2022-08-29T11:04:08.614Z'
+synchedAt: '2022-09-01T09:42:18.286Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ If content warrants a no to all of the above questions, then it is likely to be 
 ## Some More Examples
 
 A study of how people historically exercised is World Modeling. Advice on the optimal way to exercise in the present day is [[World Optimization]]. A study of the Fall of Rome would be World Modeling. A review of current policies being discussed by people who want to cause changes in a present government should be classified as [[World Optimization|Optimization]]. It would be World Modeling too only if it is expected to be of interest to people with no immediate plans to try to alter government, for example a review on the effects of marijuana on productivity, driving, IQ, etc.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **World Modeling**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

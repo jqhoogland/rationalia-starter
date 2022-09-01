@@ -1,14 +1,15 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb366
 title: Do The Math, Then Burn The Math and Go With Your Gut
-href: https://lesswrong.com/tag/do-the-math-then-burn-the-math-and-go-with-your-gut
+href: >-
+  https://www.lesswrong.com/tag/do-the-math-then-burn-the-math-and-go-with-your-gut
 slug: do-the-math-then-burn-the-math-and-go-with-your-gut
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:03.225Z'
+synchedAt: '2022-09-01T09:42:49.534Z'
 status: todo
 ---
 
@@ -52,3 +53,16 @@ In December 2016, [[Anna Salamon]] described the procedure parenthetically at th
 2. Eliezer Yudkowsky. ["When (Not) To Use Probabilities"](https://www.lesswrong.com/posts/AJ9dX59QXokZb35fk/when-not-to-use-probabilities). July 23, 2008. *LessWrong*.[↩](#fnref2)
 3. bentarm. ["bentarm comments on Amanda Knox: post mortem"](https://www.greaterwrong.com/posts/Jx4gGbPi7GuydwvzB/amanda-knox-post-mortem/comment/aFe8RxLnH3JWtNJcD). October 21, 2011. *LessWrong*.[↩](#fnref3)
 4. Anna Salamon. ["'Flinching away from truth' is often about \*protecting\* the epistemology"](https://www.lesswrong.com/posts/EEv9JeuY5xfuDDSgF/flinching-away-from-truth-is-often-about-protecting-the). December 20, 2016. *LessWrong*.[↩](#fnref4)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Do The Math, Then Burn The Math and Go With Your Gut**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

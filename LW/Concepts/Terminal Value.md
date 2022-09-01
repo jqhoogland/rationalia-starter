@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2cb
 title: Terminal Value
-href: https://lesswrong.com/tag/terminal-value
+href: https://www.lesswrong.com/tag/terminal-value
 slug: terminal-value
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:18.258Z'
+synchedAt: '2022-09-01T09:42:21.195Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ For an artificial general intelligence to have a positive and not a negative eff
 ## Links
 
 - Eliezer Yudkowsky, [Terminal Values and Instrumental Values](http://lesswrong.com/lw/l4/terminal_values_and_instrumental_values/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Terminal Value**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb26e
 title: Interview Series On Risks From AI
-href: https://lesswrong.com/tag/interview-series-on-risks-from-ai
+href: https://www.lesswrong.com/tag/interview-series-on-risks-from-ai
 slug: interview-series-on-risks-from-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:12.112Z'
+synchedAt: '2022-09-01T09:42:38.256Z'
 status: todo
 ---
 
@@ -80,3 +80,16 @@ The current set of questions:
 - [Stuart Armstrong: How We’re Predicting AI](http://fora.tv/v/c16838), The Singularity Summit 2012
 - [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.
 - [Machine Intelligence Survey](http://www.fhi.ox.ac.uk/news/2011/?a=21516), Sandberg, A. and Bostrom, N. (2011). Future of Humanity Institute, Oxford University.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Interview Series On Risks From AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

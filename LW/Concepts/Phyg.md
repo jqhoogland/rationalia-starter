@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb343
 title: Phyg
-href: https://lesswrong.com/tag/phyg
+href: https://www.lesswrong.com/tag/phyg
 slug: phyg
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:40.947Z'
+synchedAt: '2022-09-01T09:42:30.453Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ Well maybe [RationalWiki disagrees](http://rationalwiki.org/wiki/LessWrong)
 2. [https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what\_is\_lesswrong\_and\_why\_do\_people\_say\_it\_is\_a/](https://www.reddit.com/r/OutOfTheLoop/comments/3ttw2e/what_is_lesswrong_and_why_do_people_say_it_is_a/)[↩](#fnref2)
 3. [http://lesswrong.com/lw/4d/youre\_calling\_who\_a\_cult_leader/](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/)[↩](#fnref3)
 4. [http://lesswrong.com/lw/atm/cult\_impressions\_of\_less\_wrongsingularity/](http://lesswrong.com/lw/atm/cult_impressions_of_less_wrongsingularity/)[↩](#fnref4)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Phyg**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

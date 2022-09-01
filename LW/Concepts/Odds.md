@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb278
 title: Odds
-href: https://lesswrong.com/tag/odds
+href: https://www.lesswrong.com/tag/odds
 slug: odds
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:17.147Z'
+synchedAt: '2022-09-01T09:42:33.362Z'
 status: todo
 ---
 
@@ -52,3 +52,16 @@ The prior odds of the box containing a diamond are 1:19. The likelihood ratio of
 
 - [[Log odds|Log odds]] (`= [[Log odds|Log odds]].status`)
 - [[Likelihood Ratio|Likelihood ratio]] (`= [[Likelihood Ratio|Likelihood ratio]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Odds**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

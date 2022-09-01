@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e0
 title: Eliezer Yudkowsky
-href: https://lesswrong.com/tag/eliezer-yudkowsky
+href: https://www.lesswrong.com/tag/eliezer-yudkowsky
 slug: eliezer-yudkowsky
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:41.474Z'
+synchedAt: '2022-09-01T09:42:16.212Z'
 aliases:
   - EY
 status: todo
@@ -33,3 +33,16 @@ He has published several articles, including:
 - [Eliezer Yudkowsky's posts](http://lesswrong.com/user/Eliezer_Yudkowsky/submitted/) on [Less Wrong](http://lesswrong.com/)
 - [A list of all of Yudkowsky's posts to Overcoming Bias](https://web.archive.org/web/20140326081311/http://www.cs.auckland.ac.nz/~andwhay/postlist.html), [Dependency graphs for them](https://web.archive.org/web/20130713005256/http://www.cs.auckland.ac.nz/~andwhay/graphlist.html)
 - [Eliezer Yudkowsky Facts](http://lesswrong.com/lw/4g/eliezer_yudkowsky_facts/) by [steven0461](https://wiki.lesswrong.com/wiki/steven0461)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Eliezer Yudkowsky**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

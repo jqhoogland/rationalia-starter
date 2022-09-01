@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb153
 title: Defensibility
-href: https://lesswrong.com/tag/defensibility
+href: https://www.lesswrong.com/tag/defensibility
 slug: defensibility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:00.796Z'
+synchedAt: '2022-09-01T09:42:50.282Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ status: todo
 - [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)
 - [[Arguments As Soldiers|Arguments as soldiers]] (`= [[Arguments As Soldiers|Arguments as soldiers]].status`)
 - [[Not Technically A Lie|Not technically a lie]] (`= [[Not Technically A Lie|Not technically a lie]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Defensibility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

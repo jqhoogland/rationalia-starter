@@ -1,14 +1,14 @@
 ---
 _id: x6evH6MyPK3nxsoff
 title: Identity
-href: https://lesswrong.com/tag/identity
+href: https://www.lesswrong.com/tag/identity
 slug: identity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:04.579Z'
+synchedAt: '2022-09-01T09:42:39.743Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ status: todo
 **External resources:** [Keep Your Identity Small](http://www.paulgraham.com/identity.html#f2n) by Paul Graham
 
 **Related Pages:** [[Personal Identity]], [[Self Improvement]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Identity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

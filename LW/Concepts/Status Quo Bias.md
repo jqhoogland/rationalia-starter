@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb17d
 title: Status Quo Bias
-href: https://lesswrong.com/tag/status-quo-bias
+href: https://www.lesswrong.com/tag/status-quo-bias
 slug: status-quo-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:57.524Z'
+synchedAt: '2022-09-01T09:42:22.646Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ The [[Reversal Test|reversal test]] is a technique for recognizing fallacious co
 - [[Least Convenient Possible World|Least convenient possible world]] (`= [[Least Convenient Possible World|Least convenient possible world]].status`)
 - [[Cached Thoughts|Cached thought]] (`= [[Cached Thoughts|Cached thought]].status`)
 - [[Sunk-Cost Fallacy|Sunk cost fallacy]] (`= [[Sunk-Cost Fallacy|Sunk cost fallacy]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Status Quo Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

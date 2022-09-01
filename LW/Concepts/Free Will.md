@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b8
 title: Free Will
-href: https://lesswrong.com/tag/free-will
+href: https://www.lesswrong.com/tag/free-will
 slug: free-will
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:50.002Z'
+synchedAt: '2022-09-01T09:42:45.789Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ For spoiler posts see [[Free Will (Solution)|free will (solution)]].
 ## See Also
 
 - [[How An Algorithm Feels|How an algorithm feels from the inside]] (`= [[How An Algorithm Feels|How an algorithm feels from the inside]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Free Will**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

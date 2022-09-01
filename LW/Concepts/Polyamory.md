@@ -1,15 +1,28 @@
 ---
 _id: AWz5ryH8SpAgTeydh
 title: Polyamory
-href: https://lesswrong.com/tag/polyamory
+href: https://www.lesswrong.com/tag/polyamory
 slug: polyamory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.393Z'
+synchedAt: '2022-09-01T09:42:28.970Z'
 status: todo
 ---
 
 # Polyamory
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Polyamory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

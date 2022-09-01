@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1be
 title: Intelligence Explosion
-href: https://lesswrong.com/tag/intelligence-explosion
+href: https://www.lesswrong.com/tag/intelligence-explosion
 slug: intelligence-explosion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:49.430Z'
+synchedAt: '2022-09-01T09:42:38.561Z'
 status: todo
 ---
 
@@ -61,3 +61,16 @@ The following is a common example of a possible path for an AI to bring about an
 - Good, Irving John (1965). Franz L. Alt and Morris Rubinoff. ed. "[Speculations concerning the first ultraintelligent machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf)." *Advances in computers* (New York: Academic Press) **6**: 31-88. [doi](https://wiki.lesswrong.com/index.php?title=Digital_object_identifier&action=edit&redlink=1):[10.1016/S0065-2458(08)60418-0](http://dx.doi.org/10.1016%2FS0065-2458%2808%2960418-0).
 - David Chalmers (2010). "[The Singularity: A Philosophical Analysis](http://consc.net/papers/singularity.pdf)." *Journal of Consciousness Studies* **17**: 7-65.
 - Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://commonsenseatheism.com/wp-content/uploads/2012/02/Muehlhauser-Salamon-Intelligence-Explosion-Evidence-and-Import.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Intelligence Explosion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

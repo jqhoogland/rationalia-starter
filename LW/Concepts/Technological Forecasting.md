@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2b0
 title: Technological Forecasting
-href: https://lesswrong.com/tag/technological-forecasting
+href: https://www.lesswrong.com/tag/technological-forecasting
 slug: technological-forecasting
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:38.576Z'
+synchedAt: '2022-09-01T09:42:21.508Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ An important danger in predicting the future is that one might tell complex stor
 - [Acceleration thesis](https://wiki.lesswrong.com/wiki/Acceleration_thesis)
 - [[Good-Story Bias|Good-story bias]] (`= [[Good-Story Bias|Good-story bias]].status`)
 - [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]] (`= [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Technological Forecasting**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

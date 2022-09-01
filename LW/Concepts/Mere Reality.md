@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb319
 title: Mere Reality
-href: https://lesswrong.com/tag/mere-reality
+href: https://www.lesswrong.com/tag/mere-reality
 slug: mere-reality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:12:32.956Z'
+synchedAt: '2022-09-01T09:42:35.396Z'
 status: todo
 ---
 
@@ -183,3 +183,16 @@ R. Physicalism 201
 255\. [Einstein's Superpowers](http://lesswrong.com/lw/qs/einsteins_superpowers/)
 
 256\. [Class Project](http://lesswrong.com/lw/qt/class_project/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mere Reality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

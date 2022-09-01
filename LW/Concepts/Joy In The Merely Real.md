@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb203
 title: Joy In The Merely Real
-href: https://lesswrong.com/tag/joy-in-the-merely-real
+href: https://www.lesswrong.com/tag/joy-in-the-merely-real
 slug: joy-in-the-merely-real
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:59.478Z'
+synchedAt: '2022-09-01T09:42:37.910Z'
 status: todo
 ---
 
@@ -40,3 +40,16 @@ A sub[sequence](https://wiki.lesswrong.com/wiki/sequence) of [[Reductionism (Seq
 - [Think Like Reality](http://lesswrong.com/lw/hs/think_like_reality/) (and [Beware the Unsurprised](http://lesswrong.com/lw/ht/beware_the_unsurprised/))
 - [[Reality Is Normal|Reality is normal]], [Egan's Law](https://wiki.lesswrong.com/wiki/Egan's_Law)
 - [[Joy In Discovery|Joy in discovery]] (`= [[Joy In Discovery|Joy in discovery]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Joy In The Merely Real**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

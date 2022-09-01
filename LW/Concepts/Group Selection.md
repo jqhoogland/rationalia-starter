@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb170
 title: Group Selection
-href: https://lesswrong.com/tag/group-selection
+href: https://www.lesswrong.com/tag/group-selection
 slug: group-selection
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:57.679Z'
+synchedAt: '2022-09-01T09:42:41.703Z'
 status: todo
 ---
 
@@ -50,3 +50,16 @@ The historical fiasco of group selectionism is relied on as a (clear-cut) case i
 ## External Links
 
 - [The False Allure of Group Selection](http://edge.org/conversation/the-false-allure-of-group-selection) by [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Group Selection**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

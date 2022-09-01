@@ -1,14 +1,14 @@
 ---
 _id: Q6P8jLn8hH7kbuXRr
 title: Signaling
-href: https://lesswrong.com/tag/signaling
+href: https://www.lesswrong.com/tag/signaling
 slug: signaling
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:11.982Z'
+synchedAt: '2022-09-01T09:42:23.642Z'
 status: todo
 ---
 
@@ -50,3 +50,16 @@ by others
 ## External Links
 
 - [Robin Hanson on Signaling (Econtalk Podcast)](http://www.econtalk.org/archives/2008/05/hanson_on_signa.html)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Signaling**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

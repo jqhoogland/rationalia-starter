@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b6
 title: Counterfactual Mugging
-href: https://lesswrong.com/tag/counterfactual-mugging
+href: https://www.lesswrong.com/tag/counterfactual-mugging
 slug: counterfactual-mugging
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:50.615Z'
+synchedAt: '2022-09-01T09:42:51.573Z'
 status: todo
 ---
 
@@ -67,3 +67,16 @@ In [Two Types of Updatelessness](https://www.lesswrong.com/posts/pneKTZG9KqnSe2R
 - [[Prisoner's Dilemma|Prisoner's dilemma]] (`= [[Prisoner's Dilemma|Prisoner's dilemma]].status`)
 - [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
 - [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Counterfactual Mugging**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

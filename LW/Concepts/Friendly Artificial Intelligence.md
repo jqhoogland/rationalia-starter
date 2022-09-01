@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e7
 title: Friendly Artificial Intelligence
-href: https://lesswrong.com/tag/friendly-artificial-intelligence
+href: https://www.lesswrong.com/tag/friendly-artificial-intelligence
 slug: friendly-artificial-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:46.653Z'
+synchedAt: '2022-09-01T09:42:42.074Z'
 aliases:
   - Friendly AI
   - FAI
@@ -84,3 +84,16 @@ See also
 
 - Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press.
 - Cindy Mason (2015). "[Engineering Kindness: Building A Machine With Compassionate Intelligence](https://www.academia.edu/15865212/Engineering_Kindness_Building_A_Machine_With_Compassionate_Intelligence)". International Journal of Synthetic Emotion. ([\[2\]](http://www.emotionalmachines.org/papers/engineeringkindnesswebcopy.pdf))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Friendly Artificial Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

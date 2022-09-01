@@ -1,14 +1,14 @@
 ---
 _id: K6oowPZC6kds6LDTg
 title: Future of Humanity Institute (FHI)
-href: https://lesswrong.com/tag/future-of-humanity-institute-fhi
+href: https://www.lesswrong.com/tag/future-of-humanity-institute-fhi
 slug: future-of-humanity-institute-fhi
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:11.211Z'
+synchedAt: '2022-09-01T09:42:42.813Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ The FHI is an affiliate to LessWrong and [Overcoming Bias](http://www.overcoming
 ## External Links
 
 - [FHI website](http://www.fhi.ox.ac.uk/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Future of Humanity Institute (FHI)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

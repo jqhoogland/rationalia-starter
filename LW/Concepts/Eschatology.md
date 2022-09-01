@@ -1,17 +1,30 @@
 ---
 _id: GoxSGTqcd3WRR82i4
 title: Eschatology
-href: https://lesswrong.com/tag/eschatology
+href: https://www.lesswrong.com/tag/eschatology
 slug: eschatology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:12.011Z'
+synchedAt: '2022-09-01T09:42:48.650Z'
 status: todo
 ---
 
 # Eschatology
 
 Discussion of plausible far future conditions
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Eschatology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: mPuSAzJN7CyrMiKrf
 title: Voting Theory
-href: https://lesswrong.com/tag/voting-theory
+href: https://www.lesswrong.com/tag/voting-theory
 slug: voting-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:05.755Z'
+synchedAt: '2022-09-01T09:42:18.871Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ status: todo
 **Resources:** [Electowiki](https://electowiki.org/wiki/Main_Page) \- A wiki focused on voting theory and electoral systems.
 
 **related tags:** [[Game Theory]], [[Decision Theory]], [[ Cooperation]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Voting Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

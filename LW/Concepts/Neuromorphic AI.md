@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb29d
 title: Neuromorphic AI
-href: https://lesswrong.com/tag/neuromorphic-ai
+href: https://www.lesswrong.com/tag/neuromorphic-ai
 slug: neuromorphic-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:39.904Z'
+synchedAt: '2022-09-01T09:42:34.270Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ A **Neuromorphic AI** ('neuron-shaped') is a form of AI where most of the functi
 ## External Links
 
 - Definition from [The Uncertain Future](http://www.theuncertainfuture.com/faq.html#3)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Neuromorphic AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

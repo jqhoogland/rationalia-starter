@@ -1,14 +1,14 @@
 ---
 _id: Jzm2mYuuDBCNWq8hi
 title: Happiness
-href: https://lesswrong.com/tag/happiness-1
+href: https://www.lesswrong.com/tag/happiness-1
 slug: happiness-1
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:52.172Z'
+synchedAt: '2022-09-01T09:42:41.329Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ Posts about **Happiness**. one of the tricky things about Happiness is that some
 > “Happiness is a choice. If you’re so smart, how come you aren’t happy? How come you haven’t figured that out? That’s my challenge to all the people who think they’re so smart and so capable.” - Naval Ravikant
 
 See also: [[Gratitude]], [[Well-being]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Happiness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0f6
 title: Litany of Gendlin
-href: https://lesswrong.com/tag/litany-of-gendlin
+href: https://www.lesswrong.com/tag/litany-of-gendlin
 slug: litany-of-gendlin
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:41.759Z'
+synchedAt: '2022-09-01T09:42:37.225Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ status: todo
 - [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
 - [[Joy In The Merely Real|Joy in the merely real]] (`= [[Joy In The Merely Real|Joy in the merely real]].status`)
 - [[Focusing]] (`= [[Focusing]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Litany of Gendlin**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

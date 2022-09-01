@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb19b
 title: Representativeness Heuristic
-href: https://lesswrong.com/tag/representativeness-heuristic
+href: https://www.lesswrong.com/tag/representativeness-heuristic
 slug: representativeness-heuristic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:57.539Z'
+synchedAt: '2022-09-01T09:42:24.775Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ status: todo
 - [[Conjunction Fallacy|Conjunction fallacy]] (`= [[Conjunction Fallacy|Conjunction fallacy]].status`)
 - [[Availability Heuristic|Availability heuristic]] (`= [[Availability Heuristic|Availability heuristic]].status`)
 - [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Representativeness Heuristic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

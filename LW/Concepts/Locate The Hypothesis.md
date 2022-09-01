@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1f9
 title: Locate The Hypothesis
-href: https://lesswrong.com/tag/locate-the-hypothesis
+href: https://www.lesswrong.com/tag/locate-the-hypothesis
 slug: locate-the-hypothesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:50.603Z'
+synchedAt: '2022-09-01T09:42:36.783Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ In 1919, Sir Arthur Eddington led expeditions to Brazil and to the island of Pri
 - [[Privileging The Hypothesis|Privileging the hypothesis]] (`= [[Privileging The Hypothesis|Privileging the hypothesis]].status`)
 - [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
 - [[Priors]] (`= [[Priors]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Locate The Hypothesis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb124
 title: Conformity Bias
-href: https://lesswrong.com/tag/conformity-bias
+href: https://www.lesswrong.com/tag/conformity-bias
 slug: conformity-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:03.872Z'
+synchedAt: '2022-09-01T09:42:52.323Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ status: todo
 - [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
 - [[Akrasia]] (`= [[Akrasia]].status`)
 - [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]] (`= [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Conformity Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

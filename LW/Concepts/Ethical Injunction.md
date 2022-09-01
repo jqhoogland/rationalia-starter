@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb24f
 title: Ethical Injunction
-href: https://lesswrong.com/tag/ethical-injunction
+href: https://www.lesswrong.com/tag/ethical-injunction
 slug: ethical-injunction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:29.518Z'
+synchedAt: '2022-09-01T09:42:48.634Z'
 status: todo
 ---
 
@@ -83,3 +83,16 @@ This post is not cross listed as a part of the listed main sequences.
 - [[Metaethics]] (`= [[Metaethics]].status`)
 - [[Humility]] and [[Modest Epistemology]]
 - [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Ethical Injunction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

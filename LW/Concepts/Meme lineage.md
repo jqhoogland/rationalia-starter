@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb0f8
 title: Meme Lineage
 slug: meme-lineage
 href: https://www.lesswrong.com/tag/meme-lineage
-synchedAt: '2022-08-30T12:49:37.696Z'
+synchedAt: '2022-09-01T09:42:35.594Z'
 tags:
   - LessWrong
   - Tag
@@ -29,3 +29,16 @@ See also
 * [[Modesty Argument|Modesty argument]]
 
 * [[Free-Floating Belief|Free-floating belief]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Meme lineage**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

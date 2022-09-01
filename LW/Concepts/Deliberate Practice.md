@@ -1,14 +1,14 @@
 ---
 _id: ux2x9RrJsuykQxT79
 title: Deliberate Practice
-href: https://lesswrong.com/tag/deliberate-practice
+href: https://www.lesswrong.com/tag/deliberate-practice
 slug: deliberate-practice
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:29.386Z'
+synchedAt: '2022-09-01T09:42:50.234Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ status: todo
 The authors note that purposeful practice can result in getting stuck if you learn *bad form* (they don't use that term, but what they describe is very close to the concept of "good form" from the [CFAR handbook](https://www.lesswrong.com/posts/Z9cbwuevS9cqaR96h/cfar-participant-handbook-now-available-to-all) (page 19)). Bad form means that practice is ultimately instilling bad habits, even if it creates local improvement. Good form means that practice is taking you down the path to mastery in an efficient manner.
 
 Due to the necessity of having an experienced teacher, deliberate practice requires a highly developed field. However, it is also common to use the term "deliberate practice" for anything which is distinguished from purposeful practice by the presence of a *theory of skill* and *practice guided by that theory*, whether or not that theory is tried-and-true, and whether or not an experienced teacher is involved.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Deliberate Practice**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

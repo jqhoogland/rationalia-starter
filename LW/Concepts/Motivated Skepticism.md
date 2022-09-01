@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb145
 title: Motivated Skepticism
-href: https://lesswrong.com/tag/motivated-skepticism
+href: https://www.lesswrong.com/tag/motivated-skepticism
 slug: motivated-skepticism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:11.951Z'
+synchedAt: '2022-09-01T09:42:34.936Z'
 aliases:
   - Disconfirmation bias
 status: todo
@@ -38,3 +38,16 @@ status: todo
 - [[Confirmation Bias|Positive bias]] (`= [[Confirmation Bias|Positive bias]].status`)
 - [[Rationalization]], [[Oops]]
 - [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Motivated Skepticism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

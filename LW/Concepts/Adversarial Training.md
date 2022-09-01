@@ -1,15 +1,28 @@
 ---
 _id: cawGhjgJmnoLLHXMC
 title: Adversarial Training
-href: https://lesswrong.com/tag/adversarial-training
+href: https://www.lesswrong.com/tag/adversarial-training
 slug: adversarial-training
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:14.685Z'
+synchedAt: '2022-09-01T09:42:58.163Z'
 status: todo
 ---
 
 # Adversarial Training
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Adversarial Training**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

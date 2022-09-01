@@ -1,14 +1,14 @@
 ---
 _id: ipJwbLxhR83ZksN6Z
 title: Mechanism Design
-href: https://lesswrong.com/tag/mechanism-design
+href: https://www.lesswrong.com/tag/mechanism-design
 slug: mechanism-design
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:07.789Z'
+synchedAt: '2022-09-01T09:42:35.599Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ status: todo
 **Related Pages:** [[Game Theory]], [[Incentives]], [[Principal-Agent Problems]], [[Cryptocurrency & Blockchain|Cryptocurrencies and blockchain]], [[Public Discourse|Public discourse]]
 
 **Related Sequences:** [Mechanism Design](https://www.lesswrong.com/s/Yh4YsGDD9WYiZqRnf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mechanism Design**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

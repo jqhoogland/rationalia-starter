@@ -1,14 +1,14 @@
 ---
 _id: chuP2QqQycjD8qakL
 title: Coordination / Cooperation
-href: https://lesswrong.com/tag/coordination-cooperation
+href: https://www.lesswrong.com/tag/coordination-cooperation
 slug: coordination-cooperation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:11.419Z'
+synchedAt: '2022-09-01T09:42:51.621Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ See also: [[Game Theory]], [[Moloch]]
 Another related term in this space is *collective action problem. *
 
 **Related Sequences:** [Kickstarter for Coordinated Action](https://www.lesswrong.com/s/vz9Zrj3oBGsttG3Jh)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Coordination, Cooperation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

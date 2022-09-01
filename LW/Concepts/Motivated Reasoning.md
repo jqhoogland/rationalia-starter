@@ -1,14 +1,14 @@
 ---
 _id: LDTSbmXtokYAsEq8e
 title: Motivated Reasoning
-href: https://lesswrong.com/tag/motivated-reasoning
+href: https://www.lesswrong.com/tag/motivated-reasoning
 slug: motivated-reasoning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:09.274Z'
+synchedAt: '2022-09-01T09:42:34.934Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ status: todo
 - [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)
 - [Positive bias](https://lessestwrong.com/tag/confirmation-bias)
 - [Ugh field](https://lessestwrong.com/tag/aversion-ugh-fields)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Motivated Reasoning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

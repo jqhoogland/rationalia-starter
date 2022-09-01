@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb114
 title: Traditional Rationality
-href: https://lesswrong.com/tag/traditional-rationality
+href: https://www.lesswrong.com/tag/traditional-rationality
 slug: traditional-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:33.689Z'
+synchedAt: '2022-09-01T09:42:20.509Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ There's also some popular tropes of Traditional Rationality that actually seem f
 - [[Scales of Justice Fallacy|Scales of justice fallacy]] (`= [[Scales of Justice Fallacy|Scales of justice fallacy]].status`)
 - [[Epistemic Hygiene|Epistemic hygiene]], [[Absurdity Heuristic|Absurdity heuristic]]
 - [Yudkowsky's coming of age](https://wiki.lesswrong.com/wiki/Yudkowsky's_coming_of_age)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Traditional Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

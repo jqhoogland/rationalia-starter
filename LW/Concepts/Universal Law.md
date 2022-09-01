@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a4
 title: Universal Law
-href: https://lesswrong.com/tag/universal-law
+href: https://www.lesswrong.com/tag/universal-law
 slug: universal-law
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:21.488Z'
+synchedAt: '2022-09-01T09:42:19.652Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 - [[Futility of Chaos|Futility of chaos]] (`= [[Futility of Chaos|Futility of chaos]].status`)
 - [[Reductionism]] (`= [[Reductionism]].status`)
 - [[Magic]] (`= [[Magic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Universal Law**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

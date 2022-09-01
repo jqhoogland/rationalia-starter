@@ -1,14 +1,14 @@
 ---
 _id: d2s5yH2MNwX4pveW7
 title: Humans Consulting HCH
-href: https://lesswrong.com/tag/humans-consulting-hch
+href: https://www.lesswrong.com/tag/humans-consulting-hch
 slug: humans-consulting-hch
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:12.380Z'
+synchedAt: '2022-09-01T09:42:40.545Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ It was first described by Paul Christiano in his post [Humans Consulting HCH](ht
 > That is, Hugh is able to consult a copy of Hugh, who is able to consult a copy of Hugh, who is able to consult a copy of Hugh…
 >
 > Let’s call this process HCH, for “Humans Consulting HCH.”
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Humans Consulting HCH**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

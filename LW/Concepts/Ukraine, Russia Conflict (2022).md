@@ -1,14 +1,14 @@
 ---
 _id: cv2dqCjh5cpkowzSp
 title: Ukraine/Russia Conflict (2022)
-href: https://lesswrong.com/tag/ukraine-russia-conflict-2022
+href: https://www.lesswrong.com/tag/ukraine-russia-conflict-2022
 slug: ukraine-russia-conflict-2022
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:15.509Z'
+synchedAt: '2022-09-01T09:42:19.926Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ See Also:
 - [[War]] (`= [[War]].status`)
 - [[Nuclear War]] (`= [[Nuclear War]].status`)
 - [[Existential Risk]] (`= [[Existential Risk]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Ukraine, Russia Conflict (2022)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

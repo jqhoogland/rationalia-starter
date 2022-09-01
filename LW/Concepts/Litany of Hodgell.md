@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb362
 title: Litany of Hodgell
-href: https://lesswrong.com/tag/litany-of-hodgell
+href: https://www.lesswrong.com/tag/litany-of-hodgell
 slug: litany-of-hodgell
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:19.386Z'
+synchedAt: '2022-09-01T09:42:37.195Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ And [[Feeling Rational|Yudkowsky's extension]]: That which the truth nourishes s
 - [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
 - [[Litany of Gendlin]] (`= [[Litany of Gendlin]].status`)
 - [[Litany of Occam]] (`= [[Litany of Occam]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Litany of Hodgell**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

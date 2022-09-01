@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e5
 title: Forecast
-href: https://lesswrong.com/tag/forecast
+href: https://www.lesswrong.com/tag/forecast
 slug: forecast
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:57.401Z'
+synchedAt: '2022-09-01T09:42:46.938Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ status: todo
 - [Representativeness bias](https://wiki.lesswrong.com/wiki/Representativeness_bias), [[Absurdity Heuristic|Absurdity heuristic]]
 - [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
 - [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Forecast**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: fF9GEdWXKJ3z73TmB
 title: Scholarship & Learning
-href: https://lesswrong.com/tag/scholarship-and-learning
+href: https://www.lesswrong.com/tag/scholarship-and-learning
 slug: scholarship-and-learning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:13.737Z'
+synchedAt: '2022-09-01T09:42:24.133Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ Topics include, but are not limited to: how to research, how to understand mater
 **External Resources**
 
 - [Internet Search Tips](https://www.gwern.net/Search) by Gwern Branwen is a long, extremely detailed practical guide on how to conduct an online search for references, papers, and books that are difficult to find, including 13 case studies.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Scholarship & Learning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

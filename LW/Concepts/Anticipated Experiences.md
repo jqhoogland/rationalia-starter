@@ -1,14 +1,14 @@
 ---
 _id: SJFsFfFhE6m2ThAYJ
 title: Anticipated Experiences
-href: https://lesswrong.com/tag/anticipated-experiences
+href: https://www.lesswrong.com/tag/anticipated-experiences
 slug: anticipated-experiences
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:18.038Z'
+synchedAt: '2022-09-01T09:42:56.607Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ If two people try to get specific about the anticipated experiences driving thei
 > Though the two argue, one saying “No,” and the other saying “Yes,” they do not anticipate any different experiences. The two think they have different models of the world, but they have no difference with respect to what they expect will *happen to* them; their maps of the world do not diverge in any sensory detail.
 
 > \-\- Eliezer Yudkowsky, [[Making Beliefs Pay Rent (in Anticipated Experiences)|Making Beliefs Pay Rent (In Anticipated Experiences)]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Anticipated Experiences**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

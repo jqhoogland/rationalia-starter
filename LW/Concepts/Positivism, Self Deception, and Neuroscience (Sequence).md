@@ -1,14 +1,15 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb251
 title: Positivism, Self Deception, and Neuroscience (Sequence)
-href: https://lesswrong.com/tag/positivism-self-deception-and-neuroscience-sequence
+href: >-
+  https://www.lesswrong.com/tag/positivism-self-deception-and-neuroscience-sequence
 slug: positivism-self-deception-and-neuroscience-sequence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:10.410Z'
+synchedAt: '2022-09-01T09:42:28.429Z'
 status: todo
 ---
 
@@ -36,3 +37,16 @@ A sequence of posts by [Yvain](https://wiki.lesswrong.com/wiki/Yvain).
 - [The Science of Winning at Life](https://www.lesswrong.com/tag/the-science-of-winning-at-life) (sequence)
 - [[Alief]] (`= [[Alief]].status`)
 - [[Connotation]] (`= [[Connotation]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Positivism, Self Deception, and Neuroscience (Sequence)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -2,14 +2,15 @@
 _id: 5f5c37ee1b5cdee568cfb2d8
 title: Extensibility Argument For Greater-Than-Human Intelligence
 href: >-
-  https://lesswrong.com/tag/extensibility-argument-for-greater-than-human-intelligence
+  https://www.lesswrong.com/tag/extensibility-argument-for-greater-than-human-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:41.135Z'
+synchedAt: '2022-09-01T09:42:47.632Z'
 status: todo
+slug: extensibility-argument-for-greater-than-human-intelligence
 ---
 
 # Extensibility Argument For Greater-Than-Human Intelligence
@@ -40,3 +41,16 @@ He says premises I and II follow directly from most definitions of ‘extendible
 4. Omohundro, Stephen M. 2008. The basic AI drives. In Wang, Goertzel, and Franklin 2008, 483–492.[↩](#fnref5)
 5. Omohundro, Stephen M. (Forthcoming) "Rational artificial intelligence for the greater good." In Eden, Søraker, Moor, and Steinhart, forthcoming[↩](#fnref6)
 6. Bostrom, Nick. (2012) "The superintelligent will: Motivation and instrumental rationality in advanced artificial agents." In Theory and philosophy of AI, ed. Vincent C. Müller. Special issue, Minds and Machines 22 (2): 71–85. doi:10.1007/s11023-012-9281-3. [http://www.nickbostrom.com/superintelligentwill.pdf](http://www.nickbostrom.com/superintelligentwill.pdf)[↩](#fnref7)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Extensibility Argument For Greater-Than-Human Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,15 +1,28 @@
 ---
 _id: avSCoKEHCEa5RFCRh
 title: Generativity
-href: https://lesswrong.com/tag/generativity
+href: https://www.lesswrong.com/tag/generativity
 slug: generativity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:17.558Z'
+synchedAt: '2022-09-01T09:42:42.387Z'
 status: todo
 ---
 
 # Generativity
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Generativity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b2
 title: Bite The Bullet
-href: https://lesswrong.com/tag/bite-the-bullet
+href: https://www.lesswrong.com/tag/bite-the-bullet
 slug: bite-the-bullet
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:07.751Z'
+synchedAt: '2022-09-01T09:42:55.029Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ To **bite the bullet** is to accept the consequences of a hard choice, or unintu
 - [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bite The Bullet**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

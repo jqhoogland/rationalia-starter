@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb18e
 title: Free-Floating Belief
-href: https://lesswrong.com/tag/free-floating-belief
+href: https://www.lesswrong.com/tag/free-floating-belief
 slug: free-floating-belief
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:16.305Z'
+synchedAt: '2022-09-01T09:42:43.105Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ A **free-floating belief** is a [[Belief|belief]] that both [[Beliefs Require Ob
 - [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
 - [[Beliefs Require Observations|Beliefs require observations]], [[Making Beliefs Pay Rent|Making beliefs pay rent]]
 - [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Free-Floating Belief**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

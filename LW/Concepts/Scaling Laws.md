@@ -1,14 +1,14 @@
 ---
 _id: AKvmQFvDjxJNetTuk
 title: Scaling Laws
-href: https://lesswrong.com/tag/scaling-laws
+href: https://www.lesswrong.com/tag/scaling-laws
 slug: scaling-laws
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.014Z'
+synchedAt: '2022-09-01T09:42:24.136Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 ![](https://i.imgur.com/7lhHT8n.png)
 
 Scaling laws graph from [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Scaling Laws**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

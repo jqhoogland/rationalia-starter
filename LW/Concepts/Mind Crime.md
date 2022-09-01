@@ -1,14 +1,14 @@
 ---
 _id: mxSBcaTrakvCkgLzL
 title: Mind Crime
-href: https://lesswrong.com/tag/mind-crime
+href: https://www.lesswrong.com/tag/mind-crime
 slug: mind-crime
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:19.048Z'
+synchedAt: '2022-09-01T09:42:35.370Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Mind crime is different from other AI risks in that the AI need not even affect 
 The term was coined by Nick Bostrom in *Superintelligence: Paths, Dangers, Strategies.*
 
 Not the same as [thoughtcrime](https://en.wikipedia.org/wiki/Thoughtcrime), a term for having beliefs considered unacceptable by society.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mind Crime**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

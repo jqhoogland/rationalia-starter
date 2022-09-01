@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb288
 title: Ben Goertzel
-href: https://lesswrong.com/tag/ben-goertzel
+href: https://www.lesswrong.com/tag/ben-goertzel
 slug: ben-goertzel
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:27.294Z'
+synchedAt: '2022-09-01T09:42:16.423Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ Goertzel has responded to [[Eliezer Yudkowsky]]'s [[Coherent Extrapolated Voliti
 
 - [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]] (`= [[Interview Series On Risks From AI|Interview\_series\_on\_risks\_from_AI]].status`)
 - [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Ben Goertzel**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

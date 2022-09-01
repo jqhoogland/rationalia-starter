@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2de
 title: Computation Hazard
-href: https://lesswrong.com/tag/computation-hazard
+href: https://www.lesswrong.com/tag/computation-hazard
 slug: computation-hazard
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:32.037Z'
+synchedAt: '2022-09-01T09:42:52.380Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ There are two main strategies one could follow to avoid these kinds of risk. Fir
 
 - [Alex Altair’s post defining and summarizing the material on Computation Hazards](http://lesswrong.com/lw/d2f/computation_hazards/)
 - Armstrong S., Sandberg A., Bostrom N. (2012). “Thinking inside the box: using and controlling an Oracle AI”. Minds and Machines, forthcoming. Available at: [http://www.aleph.se/papers/oracleAI.pdf](http://www.aleph.se/papers/oracleAI.pdf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Computation Hazard**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

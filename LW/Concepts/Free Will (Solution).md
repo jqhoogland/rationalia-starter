@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b9
 title: Free Will (Solution)
-href: https://lesswrong.com/tag/free-will-solution
+href: https://www.lesswrong.com/tag/free-will-solution
 slug: free-will-solution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:36.358Z'
+synchedAt: '2022-09-01T09:42:43.107Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ These posts **should not be read** until having made a very serious effort on yo
 - [Possibility and Could-ness](http://lesswrong.com/lw/rb/possibility_and_couldness/)
 - [*Causality and Moral Responsibility*](http://lesswrong.com/lw/ra/causality_and_moral_responsibility/)
 - [The Ultimate Source](http://lesswrong.com/lw/rc/the_ultimate_source/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Free Will (Solution)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

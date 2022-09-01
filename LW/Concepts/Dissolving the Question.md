@@ -1,14 +1,14 @@
 ---
 _id: RMtdp6eGNjTZcmwJ6
 title: Dissolving the Question
-href: https://lesswrong.com/tag/dissolving-the-question
+href: https://www.lesswrong.com/tag/dissolving-the-question
 slug: dissolving-the-question
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:23.294Z'
+synchedAt: '2022-09-01T09:42:49.884Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ A [[Failure mode|failure mode]] in this step is giving justifications instead of
 Dissolving a question usually (always?) involves providing a **[[Cognitive Reduction|cognitive reduction]]** of the question.
 
 See also: **[[Deconfusion|deconfusion]]**, **[[Cognitive Reduction|cognitive reduction]]**
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Dissolving the Question**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

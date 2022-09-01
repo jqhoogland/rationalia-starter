@@ -1,14 +1,14 @@
 ---
 _id: hLp77TQsRkooioj86
 title: Probabilistic Reasoning
-href: https://lesswrong.com/tag/probabilistic-reasoning
+href: https://www.lesswrong.com/tag/probabilistic-reasoning
 slug: probabilistic-reasoning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.954Z'
+synchedAt: '2022-09-01T09:42:27.013Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Reasoning probabilistically allows you to change your mind [incrementally](https
 On LessWrong, 'probabilistic reasoning' usually refers to [[Bayes' Theorem|Bayes theorem]], which formally defines the optimal way to change your beliefs when you see evidence. 
 
 *See Also:* [[Bayes' Theorem|Bayes Theorem]], [[Belief Update]], [Expected Value](https://forum.effectivealtruism.org/tag/expected-value), [[Probability & Statistics|Probability and Statistics]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Probabilistic Reasoning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

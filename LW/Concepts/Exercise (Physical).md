@@ -1,14 +1,14 @@
 ---
 _id: 8nAXyYLu8eT72Hwuh
 title: Exercise (Physical)
-href: https://lesswrong.com/tag/exercise-physical
+href: https://www.lesswrong.com/tag/exercise-physical
 slug: exercise-physical
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:17.146Z'
+synchedAt: '2022-09-01T09:42:48.032Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ Can one single intervention make you live around 5 minutes longer for every minu
 The current most comprehensive overview in this topic is [here](https://www.lesswrong.com/posts/bZ2w99pEAeAbKnKqo/optimal-exercise).
 
 See also: [[Sports]], [[Well-being]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Exercise (Physical)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

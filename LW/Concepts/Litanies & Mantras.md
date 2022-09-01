@@ -1,14 +1,14 @@
 ---
 _id: SW3euSNqpozcsxXaX
 title: Litanies & Mantras
-href: https://lesswrong.com/tag/litanies-and-mantras
+href: https://www.lesswrong.com/tag/litanies-and-mantras
 slug: litanies-and-mantras
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:52.809Z'
+synchedAt: '2022-09-01T09:42:37.206Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ status: todo
 - [[Virtues]] (`= [[Virtues]].status`)
 - [[Principles]] (`= [[Principles]].status`)
 - [[Taking Ideas Seriously]] (`= [[Taking Ideas Seriously]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Litanies & Mantras**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

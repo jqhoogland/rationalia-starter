@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2cd
 title: Computronium
-href: https://lesswrong.com/tag/computronium
+href: https://www.lesswrong.com/tag/computronium
 slug: computronium
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:48.347Z'
+synchedAt: '2022-09-01T09:42:52.402Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Theories that valorize intelligence as such (such as that of Hugo de Garis \[200
 ## References
 
 Hugo de Garis, 2005. *The Artilect War: Cosmists vs. Terrans: A Bitter Controversy Concerning Whether Humanity Should Build Godlike Massively Intelligent Machines*. Etc Publications.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Computronium**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

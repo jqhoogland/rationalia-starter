@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2e4
 title: Induction
-href: https://lesswrong.com/tag/induction
+href: https://www.lesswrong.com/tag/induction
 slug: induction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:43.486Z'
+synchedAt: '2022-09-01T09:42:39.521Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ It’s possible to engage in probabilistic inductive reasoning, such as "95% of 
 - [Stanford Encyclopedia entry on the Problem of Induction](http://plato.stanford.edu/entries/induction-problem/)
 - [[Solomonoff Induction|Solomonoff induction]] (`= [[Solomonoff Induction|Solomonoff induction]].status`)
 - [[Rationality]] (`= [[Rationality]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Induction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

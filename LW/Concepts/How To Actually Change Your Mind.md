@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb208
 title: How To Actually Change Your Mind
-href: https://lesswrong.com/tag/how-to-actually-change-your-mind
+href: https://www.lesswrong.com/tag/how-to-actually-change-your-mind
 slug: how-to-actually-change-your-mind
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:52.136Z'
+synchedAt: '2022-09-01T09:42:40.714Z'
 status: todo
 ---
 
@@ -203,3 +203,16 @@ The previous book in the series is *[[Map and Territory|Map and Territory]]*, an
 129\. [Crisis of Faith](http://lesswrong.com/lw/ur/crisis_of_faith/)
 
 130\. [The Ritual](http://lesswrong.com/lw/us/the_ritual/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **How To Actually Change Your Mind**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

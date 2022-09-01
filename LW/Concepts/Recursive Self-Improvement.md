@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2b5
 title: Recursive Self-Improvement
-href: https://lesswrong.com/tag/recursive-self-improvement
+href: https://www.lesswrong.com/tag/recursive-self-improvement
 slug: recursive-self-improvement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:37.279Z'
+synchedAt: '2022-09-01T09:42:25.279Z'
 status: todo
 ---
 
@@ -58,3 +58,16 @@ The human species has made an enormous amount of progress since evolving around 
 - [Risks from Artificial Intelligence](http://intelligence.org/files/AIPosNegFactor.pdf) by Eliezer Yudkowsky.
 - [Advantages of Artificial Intelligence](http://www.xuenay.net/Papers/DigitalAdvantages.pdf) by Kaj Sotala
 - [Speculations Concerning the First Ultraintelligent Machine](http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf) by I.J. Good
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Recursive Self-Improvement**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

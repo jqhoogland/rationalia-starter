@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb222
 title: Infinite Set Atheism
-href: https://lesswrong.com/tag/infinite-set-atheism
+href: https://www.lesswrong.com/tag/infinite-set-atheism
 slug: infinite-set-atheism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:16.940Z'
+synchedAt: '2022-09-01T09:42:38.964Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Mathematicians have well-established, sophisticated theories for reasoning about
 - [0 and 1 are Not Probabilities](http://lesswrong.com/lw/mp/0_and_1_are_not_probabilities/)
 - [Trust in Bayes](http://lesswrong.com/lw/na/trust_in_bayes/)
 - [Yudkowsky Q&A: Video Answers](http://lesswrong.com/lw/1lq/less_wrong_qa_with_eliezer_yudkowsky_video_answers/) (Question #14)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Infinite Set Atheism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

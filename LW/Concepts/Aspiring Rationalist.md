@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb212
 title: Aspiring Rationalist
-href: https://lesswrong.com/tag/aspiring-rationalist
+href: https://www.lesswrong.com/tag/aspiring-rationalist
 slug: aspiring-rationalist
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:16.344Z'
+synchedAt: '2022-09-01T09:42:56.161Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ An **aspiring rationalist** is one who seeks to follow the Way of Bayes, to beli
 ## See Also
 
 - [[Rationality]] (`= [[Rationality]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Aspiring Rationalist**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

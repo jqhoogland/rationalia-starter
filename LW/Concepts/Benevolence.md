@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2cc
 title: Benevolence
-href: https://lesswrong.com/tag/benevolence
+href: https://www.lesswrong.com/tag/benevolence
 slug: benevolence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:19.317Z'
+synchedAt: '2022-09-01T09:42:55.078Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ However, these considerations cannot be relied on to bring about benevolence in 
 
 - [Joshua Fox and Carl Shulman (2010), "Superintelligence does not imply benevolence"](http://intelligence.org/files/SuperintelligenceBenevolence.pdf), Proceedings of the VIII European Conference on Computing and Philosophy, Oct, 2010. Ed. Klaus Mainzer. (Munich: Verlag Dr. Hut), pp. 456-461
 - [S. Omohundro, The basic AI drives](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf). In Artificial general intelligence 2008: Proceedings of the first AGI conference, ed. Pei Wang, Ben Goertzel, and Stan Franklin, 483–492. Frontiers in Artificial Intelligence and Applications 171. Amsterdam: IOS Press.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Benevolence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

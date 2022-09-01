@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb168
 title: Evolution As Alien God
-href: https://lesswrong.com/tag/evolution-as-alien-god
+href: https://www.lesswrong.com/tag/evolution-as-alien-god
 slug: evolution-as-alien-god
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:31.707Z'
+synchedAt: '2022-09-01T09:42:48.293Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ And this is the process responsible for the creation of all biological life on E
 - [[Stupidity of Evolution|Stupidity of evolution]] (`= [[Stupidity of Evolution|Stupidity of evolution]].status`)
 - [[Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
 - [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evolution As Alien God**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

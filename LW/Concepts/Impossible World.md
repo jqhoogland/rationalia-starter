@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0ec
 title: Impossible World
-href: https://lesswrong.com/tag/impossible-world
+href: https://www.lesswrong.com/tag/impossible-world
 slug: impossible-world
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:22.275Z'
+synchedAt: '2022-09-01T09:42:39.308Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ status: todo
 ## See Also
 
 - [[Possible World|Possible world]] (`= [[Possible World|Possible world]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Impossible World**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

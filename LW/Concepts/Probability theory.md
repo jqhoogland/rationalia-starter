@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb2d2
 title: Probability Theory
 slug: probability-theory
 href: https://www.lesswrong.com/tag/probability-theory
-synchedAt: '2022-08-30T12:52:05.926Z'
+synchedAt: '2022-09-01T09:42:26.950Z'
 tags:
   - LessWrong
   - Tag
@@ -52,3 +52,15 @@ Notes and References
 8.  JEFFREY, Richard C. (1965). "The Logic of Decision." New York: McGraw-Hill.[↩](#fnref8)
 9.  LEWIS, David. (1980). “A Subjectivist's Guide to Objective Chance”. In JEFFREY, Richard C. (ed.), Studies in Inductive Logic and Probability. University of California Press. Available at: [http://fitelson.org/probability/Lewis_asgtoc.pdf](http://fitelson.org/probability/Lewis_asgtoc.pdf)[↩](#fnref9)
 10.  COX, R. T. (1946) “Probability, frequency and reasonable expectation,'' American Journal of Physics, vol. 14, no. 1, pp. 1-13[↩](#fnref10)
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Probability theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

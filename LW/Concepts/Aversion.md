@@ -1,14 +1,14 @@
 ---
 _id: EuDw6uxQW2ZBRFhMo
 title: Aversion
-href: https://lesswrong.com/tag/aversion
+href: https://www.lesswrong.com/tag/aversion
 slug: aversion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:14.240Z'
+synchedAt: '2022-09-01T09:42:55.505Z'
 status: todo
 ---
 
@@ -49,3 +49,16 @@ The ugh field forms a self-shadowing blind spot covering an area desperately in 
 - [[Motivations]] (`= [[Motivations]].status`)
 - [[Priming]] (`= [[Priming]].status`)
 - [[Trivial Inconvenience|Trivial inconvenience]] (`= [[Trivial Inconvenience|Trivial inconvenience]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Aversion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

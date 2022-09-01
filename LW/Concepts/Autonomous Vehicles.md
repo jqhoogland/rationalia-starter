@@ -1,14 +1,14 @@
 ---
 _id: Z5A4c4kjTgLSFEr3h
 title: Autonomous Vehicles
-href: https://lesswrong.com/tag/autonomous-vehicles
+href: https://www.lesswrong.com/tag/autonomous-vehicles
 slug: autonomous-vehicles
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:29.301Z'
+synchedAt: '2022-09-01T09:42:55.795Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 In addition, autonomous vehicles present important ethical questions - for example, how much should a self-driving car focus on the safety of passengers, as opposed to people outside of the car? If autonomous vehicles become significantly less accident-prone than (and approximately as cheap as) human-driven ones, should government policies require people to use them for public safety?
 
 Note: posts specifically about autonomous vehicles should be given higher relevance than ones that simply use them as examples.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Autonomous Vehicles**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

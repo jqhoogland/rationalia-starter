@@ -1,15 +1,28 @@
 ---
 _id: SEuoBQeHLYd9dtqpK
 title: Social Skills
-href: https://lesswrong.com/tag/social-skills
+href: https://www.lesswrong.com/tag/social-skills
 slug: social-skills
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:15.539Z'
+synchedAt: '2022-09-01T09:42:23.007Z'
 status: todo
 ---
 
 # Social Skills
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Social Skills**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

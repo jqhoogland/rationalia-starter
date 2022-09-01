@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e9
 title: Fuzzies
-href: https://lesswrong.com/tag/fuzzies
+href: https://www.lesswrong.com/tag/fuzzies
 slug: fuzzies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:07.045Z'
+synchedAt: '2022-09-01T09:42:42.768Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ A **fuzzy** is a hypothetical measurement unit for "warm fuzzy feeling" one gets
 - [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [[Hedon]] (`= [[Hedon]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fuzzies**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: NzpKMYopbkgEPN486
 title: Homunculus Fallacy
-href: https://lesswrong.com/tag/homunculus-fallacy
+href: https://www.lesswrong.com/tag/homunculus-fallacy
 slug: homunculus-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.096Z'
+synchedAt: '2022-09-01T09:42:40.626Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ This is a [[Mysterious Answers to Mysterious Questions|mysterious answer]], but 
 > In a comedy written by Molière, a physician explains the power of a soporific by saying that it contains a “dormitive potency.” Same principle. It is a failure of human psychology that, faced with a mysterious phenomenon, we more readily postulate mysterious inherent substances than complex underlying processes.
 >
 > But the deeper failure is supposing that an *answer* can be mysterious. If a phenomenon feels mysterious, that is a fact about our state of knowledge, not a fact about the phenomenon itself. The vitalists saw a mysterious gap in their knowledge, and postulated a mysterious stuff that plugged the gap. In doing so, they mixed up the map with the territory. All confusion and bewilderment exist in the mind, not in encapsulated substances.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Homunculus Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

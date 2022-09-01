@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb316
 title: Holden Karnofsky
-href: https://lesswrong.com/tag/holden-karnofsky
+href: https://www.lesswrong.com/tag/holden-karnofsky
 slug: holden-karnofsky
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:26.481Z'
+synchedAt: '2022-09-01T09:42:16.137Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ Other discussion:
 ## Related Pages
 
 - [[Tool AI]] (`= [[Tool AI]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Holden Karnofsky**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

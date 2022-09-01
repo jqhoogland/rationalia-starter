@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2ab
 title: Observation Selection Effect
-href: https://lesswrong.com/tag/observation-selection-effect
+href: https://www.lesswrong.com/tag/observation-selection-effect
 slug: observation-selection-effect
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:11.883Z'
+synchedAt: '2022-09-01T09:42:33.381Z'
 status: todo
 ---
 
@@ -47,3 +47,16 @@ One approach to anthropic reasoning that has [sometimes](http://lesswrong.com/lw
 - [[Doomsday Argument|Doomsday argument]] (`= [[Doomsday Argument|Doomsday argument]].status`)
 - [[Great Filter]] (`= [[Great Filter]].status`)
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Observation Selection Effect**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

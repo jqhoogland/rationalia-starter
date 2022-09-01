@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb210
 title: Reversed Stupidity Is Not Intelligence
-href: https://lesswrong.com/tag/reversed-stupidity-is-not-intelligence
+href: https://www.lesswrong.com/tag/reversed-stupidity-is-not-intelligence
 slug: reversed-stupidity-is-not-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:45.615Z'
+synchedAt: '2022-09-01T09:42:24.774Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ It takes a lot of evidence and rationality just to [[Locate The Hypothesis|*loca
 ## Blog Posts
 
 - [Reversed Stupidity is Not Intelligence](http://lesswrong.com/lw/lw/reversed_stupidity_is_not_intelligence/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reversed Stupidity Is Not Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

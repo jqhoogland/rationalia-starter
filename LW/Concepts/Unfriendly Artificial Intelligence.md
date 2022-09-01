@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb119
 title: Unfriendly Artificial Intelligence
-href: https://lesswrong.com/tag/unfriendly-artificial-intelligence
+href: https://www.lesswrong.com/tag/unfriendly-artificial-intelligence
 slug: unfriendly-artificial-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:44.922Z'
+synchedAt: '2022-09-01T09:42:19.667Z'
 aliases:
   - Unfriendly AI
   - UFAI
@@ -32,3 +32,16 @@ An **Unfriendly artificial intelligence** (or **UFAI**) is an [[Artificial Gener
 
 - Eliezer S. Yudkowsky (2008). "[Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://yudkowsky.net/singularity/ai-risk/)". Global Catastrophic Risks. Oxford University Press. ([PDF](http://intelligence.org/files/AIPosNegFactor.pdf))
 - Stephen M. Omohundro (2008). "[The Basic AI Drives](https://selfawaresystems.com/2007/11/30/paper-on-the-basic-ai-drives/)". Frontiers in Artificial Intelligence and Applications (IOS Press). ([PDF](http://selfawaresystems.files.wordpress.com/2008/01/ai_drives_final.pdf))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Unfriendly Artificial Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

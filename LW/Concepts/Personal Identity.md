@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2fa
 title: Personal Identity
-href: https://lesswrong.com/tag/personal-identity
+href: https://www.lesswrong.com/tag/personal-identity
 slug: personal-identity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:35.777Z'
+synchedAt: '2022-09-01T09:42:29.949Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Personal identity may at first sound like just an abstract philosophical issue w
 ## Related Pages
 
 - [[Identity]] (`= [[Identity]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Personal Identity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

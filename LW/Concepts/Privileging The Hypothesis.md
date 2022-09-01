@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1fb
 title: Privileging The Hypothesis
-href: https://lesswrong.com/tag/privileging-the-hypothesis
+href: https://www.lesswrong.com/tag/privileging-the-hypothesis
 slug: privileging-the-hypothesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:49.590Z'
+synchedAt: '2022-09-01T09:42:27.833Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ The anti-work of [[Anti-Epistemology|anti-epistemology]] is to manufacture belie
 - [[Narrative Fallacy|Narrative fallacy]], [[Confirmation Bias|positive bias]]
 - [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias)
 - [[Information Cascades|Information cascade]], [[Epistemic Luck|epistemic luck]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Privileging The Hypothesis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

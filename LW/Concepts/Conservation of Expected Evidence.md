@@ -1,14 +1,14 @@
 ---
 _id: tZsfB6WfpRy6kFb6q
 title: Conservation of Expected Evidence
-href: https://lesswrong.com/tag/conservation-of-expected-evidence
+href: https://www.lesswrong.com/tag/conservation-of-expected-evidence
 slug: conservation-of-expected-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:24.909Z'
+synchedAt: '2022-09-01T09:42:52.009Z'
 status: todo
 ---
 
@@ -50,3 +50,16 @@ If you can *anticipate in advance* updating your belief in a particular directio
 ## See Also
 
 - [Filtered evidence](https://lessestwrong.com/tag/filtered-evidence)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Conservation of Expected Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

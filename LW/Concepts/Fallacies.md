@@ -1,14 +1,14 @@
 ---
 _id: dJ6eJxJrCEget7Wb6
 title: Fallacies
-href: https://lesswrong.com/tag/fallacies
+href: https://www.lesswrong.com/tag/fallacies
 slug: fallacies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:03.987Z'
+synchedAt: '2022-09-01T09:42:47.194Z'
 status: todo
 ---
 
@@ -51,3 +51,16 @@ Recognizing fallacies in everyday arguments can be difficult due to complicated 
 - [Aumann's agreement theorem](https://lessestwrong.com/tag/aumann-s-agreement-theorem)
 - [Disagreement](https://lessestwrong.com/tag/disagreement)
 - [Information cascade](https://lessestwrong.com/tag/information-cascades)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fallacies**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

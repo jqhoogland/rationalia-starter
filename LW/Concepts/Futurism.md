@@ -1,14 +1,14 @@
 ---
 _id: pGqRLe9bFDX2G2kXY
 title: Futurism
-href: https://lesswrong.com/tag/futurism
+href: https://www.lesswrong.com/tag/futurism
 slug: futurism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:04.053Z'
+synchedAt: '2022-09-01T09:42:42.779Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Less Wrong's favorite type of futurism is speculation about [[AI Risk|AI risk]].
 For efforts to predict future trends see [[Forecasting & Prediction]] and [[Forecasts (Specific Predictions)|Forecasts (Lists of)]].
 
 See also: [[Transhumanism]], [[Fun Theory]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Futurism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

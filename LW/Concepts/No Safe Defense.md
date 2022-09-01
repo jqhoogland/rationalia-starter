@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1e8
 title: No Safe Defense
-href: https://lesswrong.com/tag/no-safe-defense
+href: https://www.lesswrong.com/tag/no-safe-defense
 slug: no-safe-defense
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:01.230Z'
+synchedAt: '2022-09-01T09:42:34.092Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ In this crazy world, there's no simple procedure you can follow, no finite check
 - [[Science]], [[Rational Evidence|Rational evidence]]
 - [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
 - [[Modesty Argument|Modesty argument]] (`= [[Modesty Argument|Modesty argument]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **No Safe Defense**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

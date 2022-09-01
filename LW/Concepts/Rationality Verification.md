@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb163
 title: Rationality Verification
-href: https://lesswrong.com/tag/rationality-verification
+href: https://www.lesswrong.com/tag/rationality-verification
 slug: rationality-verification
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:58.942Z'
+synchedAt: '2022-09-01T09:42:25.620Z'
 aliases:
   - Problem of verifying rationality
 status: todo
@@ -33,3 +33,16 @@ status: todo
 - [[Rationality]] (`= [[Rationality]].status`)
 - [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationality Verification**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

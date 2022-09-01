@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb23a
 title: Logical Rudeness
-href: https://lesswrong.com/tag/logical-rudeness
+href: https://www.lesswrong.com/tag/logical-rudeness
 slug: logical-rudeness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:06.119Z'
+synchedAt: '2022-09-01T09:42:36.746Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ In the post [Logical Rudeness](http://lesswrong.com/lw/1p1/logical_rudeness/), Y
 
 - [[Anti-Epistemology|Anti-epistemology]], [[Fully-General Counterargument|Fully general counterargument]]
 - [[Semantic Stopsign|Semantic stopsign]] (`= [[Semantic Stopsign|Semantic stopsign]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Logical Rudeness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

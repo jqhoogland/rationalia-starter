@@ -1,14 +1,14 @@
 ---
 _id: xcBbcAJrvTEkxikW9
 title: Bucket Errors
-href: https://lesswrong.com/tag/bucket-errors
+href: https://www.lesswrong.com/tag/bucket-errors
 slug: bucket-errors
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:25.369Z'
+synchedAt: '2022-09-01T09:42:54.364Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ The term*,* *Bucket Error*, was introduced in ["Flinching away from truth” is
 Bucket Errors are similar to the concepts of [equivocation](https://en.wikipedia.org/wiki/Equivocation), identification in Buddhism, or fusion/defusion in modern psychotherapy. See: [Fusion and Equivocation in Korzybski's General Semantics](https://www.lesswrong.com/posts/RQrWd5jPZQtpH8f4v/fusion-and-equivocation-in-korzybski-s-general-semantics).
 
 **Related Pages:** [[Compartmentalization]], [[Distinctions]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bucket Errors**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

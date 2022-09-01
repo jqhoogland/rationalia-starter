@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb205
 title: Zombies (Sequence)
-href: https://lesswrong.com/tag/zombies-sequence
+href: https://www.lesswrong.com/tag/zombies-sequence
 slug: zombies-sequence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:23.663Z'
+synchedAt: '2022-09-01T09:41:58.683Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ A [[Sequences|subsequence]] of [[Reductionism (Sequence)|Reductionism]] on the p
 
 - [[Zombies]] (`= [[Zombies]].status`)
 - [[Reductionism (Sequence)|Reductionism (sequence)]] (`= [[Reductionism (Sequence)|Reductionism (sequence)]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Zombies (Sequence)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb31a
 title: Becoming Stronger
-href: https://lesswrong.com/tag/becoming-stronger
+href: https://www.lesswrong.com/tag/becoming-stronger
 slug: becoming-stronger
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:14.383Z'
+synchedAt: '2022-09-01T09:42:55.443Z'
 status: todo
 ---
 
@@ -109,3 +109,16 @@ The previous book in the series is *[[Mere Goodness]]*.
 332\. [The Sin of Underconfidence](http://lesswrong.com/lw/c3/the_sin_of_underconfidence/)
 
 333\. [Go Forth and Create the Art!](http://lesswrong.com/lw/c4/go_forth_and_create_the_art/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Becoming Stronger**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

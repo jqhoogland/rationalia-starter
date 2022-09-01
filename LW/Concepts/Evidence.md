@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb160
 title: Evidence
-href: https://lesswrong.com/tag/evidence
+href: https://www.lesswrong.com/tag/evidence
 slug: evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:22.131Z'
+synchedAt: '2022-09-01T09:42:48.298Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ The [[Likelihood Ratio|likelihood ratio]] term \\(\\frac{P(B | A)}{P(B|\\neg A)
 - [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
 - [[Generalization From Fictional Evidence|Generalization from fictional evidence]] (`= [[Generalization From Fictional Evidence|Generalization from fictional evidence]].status`)
 - [[Conservation of Expected Evidence|Conservation of expected evidence]] (`= [[Conservation of Expected Evidence|Conservation of expected evidence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

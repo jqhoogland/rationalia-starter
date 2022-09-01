@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1c9
 title: Many-Worlds Interpretation
-href: https://lesswrong.com/tag/many-worlds-interpretation
+href: https://www.lesswrong.com/tag/many-worlds-interpretation
 slug: many-worlds-interpretation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:49.302Z'
+synchedAt: '2022-09-01T09:42:36.189Z'
 aliases:
   - MWI
 status: todo
@@ -29,3 +29,16 @@ The **many-worlds interpretation** (MWI) [[Occam's Razor|cuts away]] the latter 
 
 - [Decoherence and Ontology](http://users.ox.ac.uk/~mert0130/papers/proc_dec.pdf) (David Wallace)
 - [The Everett FAQ](http://www.hedweb.com/manworld.htm) (Michael Clive Price)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Many-Worlds Interpretation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

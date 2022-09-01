@@ -1,14 +1,14 @@
 ---
 _id: H2q58pKG6xFrv8bPz
 title: Spaced Repetition
-href: https://lesswrong.com/tag/spaced-repetition
+href: https://www.lesswrong.com/tag/spaced-repetition
 slug: spaced-repetition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:18.151Z'
+synchedAt: '2022-09-01T09:42:22.721Z'
 status: todo
 ---
 
@@ -60,3 +60,16 @@ Decks (links, or for Anki, the names of a deck in the Anki collection) relevant 
 ## Other Spaced Repetition Software
 
 - [VocApp.com](https://vocapp.com/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Spaced Repetition**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

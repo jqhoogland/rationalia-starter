@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb14f
 title: Incredulity
-href: https://lesswrong.com/tag/incredulity
+href: https://www.lesswrong.com/tag/incredulity
 slug: incredulity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:25.184Z'
+synchedAt: '2022-09-01T09:42:39.275Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ status: todo
 - [[Curiosity]], [[Surprise]]
 - [[Cached Thoughts|Cached thought]], [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
 - [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Incredulity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

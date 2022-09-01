@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb12c
 title: Crisis of Faith
-href: https://lesswrong.com/tag/crisis-of-faith
+href: https://www.lesswrong.com/tag/crisis-of-faith
 slug: crisis-of-faith
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:57.791Z'
+synchedAt: '2022-09-01T09:42:51.264Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 - [[Doubt]] (`= [[Doubt]].status`)
 - [[Making Beliefs Pay Rent|Making beliefs pay rent]] (`= [[Making Beliefs Pay Rent|Making beliefs pay rent]].status`)
 - [Update](https://wiki.lesswrong.com/wiki/Update)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Crisis of Faith**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

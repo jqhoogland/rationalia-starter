@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb339
 title: Twelfth Virtue (the)
 slug: twelfth-virtue-the
 href: https://www.lesswrong.com/tag/twelfth-virtue-the
-synchedAt: '2022-08-29T19:57:11.866Z'
+synchedAt: '2022-09-01T09:42:19.982Z'
 tags:
   - LessWrong
   - Tag
@@ -32,3 +32,16 @@ The **twelfth virtue** from the essay, [12 Virtues of Rationalilty](https://www.
 > You may try to name the highest principle with names such as “the map that reflects the territory” or “experience of success and failure” or “Bayesian decision theory”. But perhaps you describe incorrectly the nameless virtue. How will you discover your mistake? Not by comparing your description to itself, but by comparing it to that which you did not name.
 >
 > If for many years you practice the techniques and submit yourself to strict constraints, it may be that you will glimpse the center. Then you will see how all techniques are one technique, and you will move correctly without feeling constrained. Musashi wrote: “When you appreciate the power of nature, knowing the rhythm of any situation, you will be able to hit the enemy naturally and strike naturally. All this is the Way of the Void.”
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Twelfth Virtue (The)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

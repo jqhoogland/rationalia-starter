@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb105
 title: Planning Fallacy
-href: https://lesswrong.com/tag/planning-fallacy
+href: https://www.lesswrong.com/tag/planning-fallacy
 slug: planning-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:06.514Z'
+synchedAt: '2022-09-01T09:42:29.102Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ When possible, take the [[Outside View|outside view]]. Avoid estimating the time
 - [[Outside View|Outside view]] (`= [[Outside View|Outside view]].status`)
 - [[Far Thinking|Near/far thinking]] (`= [[Far Thinking|Near/far thinking]].status`)
 - [[Forecast]] (`= [[Forecast]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Planning Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

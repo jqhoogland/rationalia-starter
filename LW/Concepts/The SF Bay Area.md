@@ -1,14 +1,14 @@
 ---
 _id: Zz3HWyByyKF64Sfns
 title: The SF Bay Area
-href: https://lesswrong.com/tag/the-sf-bay-area
+href: https://www.lesswrong.com/tag/the-sf-bay-area
 slug: the-sf-bay-area
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:54.967Z'
+synchedAt: '2022-09-01T09:42:20.843Z'
 status: todo
 ---
 
@@ -87,3 +87,16 @@ Some illustrative quotes for concern about people moving to the Bay Area:
 21. Alyssa Vance. ["'Why is the best place to live in the world so much..."](https://www.facebook.com/alyssamvance/posts/10214122240439702). August 5, 2017. Facebook. Retrieved February 12, 2018.[[The SF Bay Area|↩]]
 22. [https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/#more-6047](https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/#more-6047)[[The SF Bay Area|↩]]
 23. mingyuan. ["What Do We Mean By 'Meetups'?"](https://www.lesswrong.com/posts/bDnFhJBcLQvCY3vJW/what-do-we-mean-by-meetups). February 7, 2018. LessWrong. Retrieved February 12, 2018.[[The SF Bay Area|↩]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The SF Bay Area**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

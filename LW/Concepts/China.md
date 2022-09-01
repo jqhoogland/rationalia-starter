@@ -1,17 +1,30 @@
 ---
 _id: ZWRtQgXucwzAFZqNJ
 title: China
-href: https://lesswrong.com/tag/china
+href: https://www.lesswrong.com/tag/china
 slug: china
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:27.710Z'
+synchedAt: '2022-09-01T09:42:53.589Z'
 status: todo
 ---
 
 # China
 
 **China** is a large country in eastern Asia, the most populous in the world and a significant power in the 21st century.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **China**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

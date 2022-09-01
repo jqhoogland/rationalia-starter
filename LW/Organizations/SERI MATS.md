@@ -1,14 +1,14 @@
 ---
 _id: YYFBmLCzeFsyd27rd
 title: SERI MATS
-href: https://lesswrong.com/tag/seri-mats
+href: https://www.lesswrong.com/tag/seri-mats
 slug: seri-mats
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:14.630Z'
+synchedAt: '2022-09-01T09:42:16.699Z'
 status: todo
 ---
 
@@ -17,3 +17,16 @@ status: todo
 The **Stanford Existential Risks Initiative ML Alignment Theory Scholars** program.
 
 [https://www.serimats.org/](https://www.serimats.org/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **SERI MATS**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

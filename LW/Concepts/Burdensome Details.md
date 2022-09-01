@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1d3
 title: Burdensome Details
-href: https://lesswrong.com/tag/burdensome-details
+href: https://www.lesswrong.com/tag/burdensome-details
 slug: burdensome-details
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:58.526Z'
+synchedAt: '2022-09-01T09:42:54.364Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ The conjunction rule of probability theory states that a conjunction (A and B) i
 - [[Conjunction Fallacy|Conjunction fallacy]] (`= [[Conjunction Fallacy|Conjunction fallacy]].status`)
 - [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
 - [[Occam's Razor|Occam's razor]], [[Epistemic Hygiene|Epistemic hygiene]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Burdensome Details**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 8daMDi9NEShyLqxth
 title: Forecasting & Prediction
-href: https://lesswrong.com/tag/forecasting-and-prediction
+href: https://www.lesswrong.com/tag/forecasting-and-prediction
 slug: forecasting-and-prediction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.276Z'
+synchedAt: '2022-09-01T09:42:43.132Z'
 status: todo
 ---
 
@@ -70,3 +70,16 @@ Meta forecasting orgs 
 - [Forecast](https://lessestwrong.com/tag/forecast)
 - [Calibration](https://lessestwrong.com/tag/calibration)
 - [Black swan](https://lessestwrong.com/tag/black-swans)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Forecasting & Prediction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

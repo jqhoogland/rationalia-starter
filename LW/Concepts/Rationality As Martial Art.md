@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb10b
 title: Rationality As Martial Art
-href: https://lesswrong.com/tag/rationality-as-martial-art
+href: https://www.lesswrong.com/tag/rationality-as-martial-art
 slug: rationality-as-martial-art
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:08.989Z'
+synchedAt: '2022-09-01T09:42:25.665Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ The metaphor is intended to have complex connotations, rather than being strictl
 ## References
 
 - Gillian Russell (2008). Epistemic Viciousness in the Martial Arts. ([PDF](http://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationality As Martial Art**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

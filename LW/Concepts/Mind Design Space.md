@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb196
 title: Mind Design Space
-href: https://lesswrong.com/tag/mind-design-space
+href: https://www.lesswrong.com/tag/mind-design-space
 slug: mind-design-space
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:10.274Z'
+synchedAt: '2022-09-01T09:42:35.192Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ status: todo
 - [[Anthropomorphism]], [[Alien Values|Alien values]]
 - [[Evolution As Alien God|Evolution as alien god]] (`= [[Evolution As Alien God|Evolution as alien god]].status`)
 - [[Paperclip Maximizer|Paperclip maximizer]], [[Magical Categories|Magical categories]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mind Design Space**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

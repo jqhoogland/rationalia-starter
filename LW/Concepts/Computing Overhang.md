@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2bd
 title: Computing Overhang
-href: https://lesswrong.com/tag/computing-overhang
+href: https://www.lesswrong.com/tag/computing-overhang
 slug: computing-overhang
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:37.127Z'
+synchedAt: '2022-09-01T09:42:52.785Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ As Yudkoswky [puts it](http://intelligence.org/files/LOGI.pdf), human intelligen
 
 - [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
 - [[Optimization]] (`= [[Optimization]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Computing Overhang**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

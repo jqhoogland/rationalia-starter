@@ -1,14 +1,14 @@
 ---
 _id: E6qP9r9xxM4LCxaFk
 title: Litany of Tarski
-href: https://lesswrong.com/tag/litany-of-tarski
+href: https://www.lesswrong.com/tag/litany-of-tarski
 slug: litany-of-tarski
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:21.738Z'
+synchedAt: '2022-09-01T09:42:37.184Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ See also: [[Map and Territory]], [[Litanies & Mantras]].
 - [Epistemic hygiene](https://wiki.lesswrong.com/wiki/Epistemic_hygiene)
 - [Rationalization](https://wiki.lesswrong.com/wiki/Rationalization)
 - [Self-deception](https://wiki.lesswrong.com/wiki/Self-deception)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Litany of Tarski**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

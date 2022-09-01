@@ -1,14 +1,14 @@
 ---
 _id: mip7tdAN87Jarkcew
 title: Relationships (Interpersonal)
-href: https://lesswrong.com/tag/relationships-interpersonal
+href: https://www.lesswrong.com/tag/relationships-interpersonal
 slug: relationships-interpersonal
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.276Z'
+synchedAt: '2022-09-01T09:42:25.080Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Related:
 - Communication
 - Communication Cultures
 - Circling
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Relationships (Interpersonal)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

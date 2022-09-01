@@ -1,14 +1,14 @@
 ---
 _id: Q6hq54EXkrw8LQQE7
 title: Gears-Level
-href: https://lesswrong.com/tag/gears-level
+href: https://www.lesswrong.com/tag/gears-level
 slug: gears-level
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:05.927Z'
+synchedAt: '2022-09-01T09:42:42.493Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ The term **gears-level** was first described on LW in the post ["Gears in Unders
 An example from [Gears in Understanding](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding) of a gears-level model is (surprise) a box of gears. If you can see a series of interlocked gears, alternately turning clockwise, then counterclockwise, and so on, then you're able to anticipate the direction of any given, even if you cannot see it. It would be very difficult to imagine all of the gears turning as they are but only one of them changing direction whilst remaining interlocked. And finally, you would be able to rederive the direction of any given gear if you forgot it.
 
 Note that the author of [Gears in Understanding](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding), [Valentine](https://www.lesswrong.com/users/valentine), was careful to point out that these tests do not fully *define* the property 'gears-level', and that "Gears-ness is not the same as goodness"-- there are other things that are valuable in a model, and many things cannot practically be modelled in this fashion. If you intend to use the term it is highly recommended you read the post beforehand, as the concept is not easily defined.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Gears-Level**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

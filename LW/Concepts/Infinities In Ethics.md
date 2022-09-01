@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2aa
 title: Infinities In Ethics
-href: https://lesswrong.com/tag/infinities-in-ethics
+href: https://www.lesswrong.com/tag/infinities-in-ethics
 slug: infinities-in-ethics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:39.344Z'
+synchedAt: '2022-09-01T09:42:38.964Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ The best-known use of infinity in ethics is probably [Pascal's wager](http://en.
 - [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
 - [[Utilitarianism]] (`= [[Utilitarianism]].status`)
 - [[Quick Reference Guide To The Infinite|Quick reference guide to the infinite]] (`= [[Quick Reference Guide To The Infinite|Quick reference guide to the infinite]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Infinities In Ethics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

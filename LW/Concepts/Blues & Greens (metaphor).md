@@ -1,14 +1,14 @@
 ---
 _id: BtQRRKTPxagBH6KrG
 title: Blues & Greens (metaphor)
-href: https://lesswrong.com/tag/blues-and-greens-metaphor
+href: https://www.lesswrong.com/tag/blues-and-greens-metaphor
 slug: blues-and-greens-metaphor
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:11.157Z'
+synchedAt: '2022-09-01T09:42:54.740Z'
 aliases:
   - Color politics
   - Blues & Greens
@@ -37,3 +37,16 @@ For a variety of reasons, Less Wrong tries to avoid political disputes: see [[Mi
 ## Footnotes
 
 1. [Wikipedia:Chariot racing#Byzantine era](https://en.wikipedia.org/wiki/Chariot_racing#Byzantine_era)[[Blues & Greens (metaphor)|↩ ]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Blues & Greens (metaphor)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

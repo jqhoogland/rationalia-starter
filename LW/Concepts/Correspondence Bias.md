@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb157
 title: Correspondence Bias
-href: https://lesswrong.com/tag/correspondence-bias
+href: https://www.lesswrong.com/tag/correspondence-bias
 slug: correspondence-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:00.159Z'
+synchedAt: '2022-09-01T09:42:51.618Z'
 aliases:
   - Fundamental Attribution Error
   - FAE
@@ -27,3 +27,16 @@ status: todo
 ## References
 
 DT Gilbert, PS Malone (1995) The Correspondence Bias ([PDF](https://wjh-www.harvard.edu/~dtg/Gilbert%20&%20Malone%20%28CORRESPONDENCE%20BIAS%29.pdf))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Correspondence Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

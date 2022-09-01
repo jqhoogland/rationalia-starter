@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0dd
 title: Costs of Rationality
-href: https://lesswrong.com/tag/costs-of-rationality
+href: https://www.lesswrong.com/tag/costs-of-rationality
 slug: costs-of-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:51.168Z'
+synchedAt: '2022-09-01T09:42:51.566Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ Becoming more [epistemically rational](https://wiki.lesswrong.com/wiki/Rationali
 - [How Much Thought](http://lesswrong.com/lw/aq/how_much_thought/) by [jimrandomh](https://wiki.lesswrong.com/wiki/jimrandomh)
 - [Theism, Wednesday, and Not Being Adopted](http://lesswrong.com/lw/dg/theism_wednesday_and_not_being_adopted/) by [Alicorn](https://wiki.lesswrong.com/wiki/Alicorn)
 - [Making Beliefs Pay Rent (in Anticipated Experiences)](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Costs of Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

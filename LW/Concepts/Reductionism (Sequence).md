@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb204
 title: Reductionism (Sequence)
-href: https://lesswrong.com/tag/reductionism-sequence
+href: https://www.lesswrong.com/tag/reductionism-sequence
 slug: reductionism-sequence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:42.378Z'
+synchedAt: '2022-09-01T09:42:25.277Z'
 status: todo
 ---
 
@@ -75,3 +75,16 @@ Early posts out of sequence:
 
 - Podcast: [http://castify.co/channels/43-reductionism](http://castify.co/channels/43-reductionism)
 - Readlists: This is a compilation of the sequence Reductionism available as an ebook (mobi, epub) [http://readlists.com/7afaf45e/](http://readlists.com/7afaf45e/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reductionism (Sequence)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: NLwTnsH9RSotqXYLw
 title: Value Learning
-href: https://lesswrong.com/tag/value-learning
+href: https://www.lesswrong.com/tag/value-learning
 slug: value-learning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.097Z'
+synchedAt: '2022-09-01T09:42:18.929Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ To solve all these problems, Dewey proposes a [utility function](https://lessest
 - [Coherent Extrapolated Volition](https://lessestwrong.com/tag/coherent-extrapolated-volition)
 - [Coherent Aggregated Volition](https://lessestwrong.com/tag/coherent-aggregated-volition)
 - [Coherent Blended Volition](https://lessestwrong.com/tag/coherent-blended-volition)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Value Learning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

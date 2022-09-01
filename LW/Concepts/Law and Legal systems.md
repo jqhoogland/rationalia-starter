@@ -1,14 +1,14 @@
 ---
 _id: wGGAjTfXZBatQkft5
 title: Law and Legal systems
-href: https://lesswrong.com/tag/law-and-legal-systems
+href: https://www.lesswrong.com/tag/law-and-legal-systems
 slug: law-and-legal-systems
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:49.187Z'
+synchedAt: '2022-09-01T09:42:37.579Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Courts, juries, lawyers, Law enforcement, justice, but also the legislative proc
 [A Comprehensive Reboot of Law Enforcement](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3)
 
 **Related tags:** [[Government]], [[Mechanism Design]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Law and Legal systems**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb249
 title: Sound Argument
-href: https://lesswrong.com/tag/sound-argument
+href: https://www.lesswrong.com/tag/sound-argument
 slug: sound-argument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:44.490Z'
+synchedAt: '2022-09-01T09:42:22.943Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ For example, consider the following syllogism:
 ## See Also
 
 - [[Valid Argument|Valid argument]] (`= [[Valid Argument|Valid argument]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Sound Argument**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

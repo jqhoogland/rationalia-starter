@@ -1,14 +1,14 @@
 ---
 _id: DdgSyQoZXjj3KnF4N
 title: Tribalism
-href: https://lesswrong.com/tag/tribalism
+href: https://www.lesswrong.com/tag/tribalism
 slug: tribalism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:19.811Z'
+synchedAt: '2022-09-01T09:42:20.275Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ See also: [[Blues & Greens (metaphor)|Blues and Greens]], [[Groupthink]], [[Moti
 > Humans interact in dense social networks, and this poses a problem for bystanders when conflicts arise: which side, if any, to support. Choosing sides is a difficult strategic problem because the outcome of a conflict critically depends on which side other bystanders support. One strategy is siding with the higher status disputant, which can allow bystanders to coordinate with one another to take the same side, reducing fighting costs. However, this strategy carries the cost of empowering high-status individuals to exploit others. A second possible strategy is choosing sides based on preexisting relationships. This strategy balances power but carries another cost: Bystanders choose different sides, and this discoordination causes escalated conflicts and high fighting costs. We propose that moral cognition is designed to manage both of these problems by implementing a dynamic coordination strategy in which bystanders coordinate side-taking based on a public signal derived from disputants’ actions rather than their identities. By focusing on disputants’ actions, bystanders can dynamically change which individuals they support across different disputes, simultaneously solving the problems of coordination and exploitation.
 
 > \-\- Peter DeScioli & Robert Kurzban, "[A Solution to the Mysteries of Morality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.840.3768&rep=rep1&type=pdf)"
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Tribalism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

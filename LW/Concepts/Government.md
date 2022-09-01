@@ -1,14 +1,14 @@
 ---
 _id: Lgy35Xh222bwgeGTL
 title: Government
-href: https://lesswrong.com/tag/government
+href: https://www.lesswrong.com/tag/government
 slug: government
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:53.747Z'
+synchedAt: '2022-09-01T09:42:42.061Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Since then, political philosophers have developed a myriad of different systems 
 Rationalists typically see government as a means to a greater utilitarian end. In a democracy, the government can act as the hand that directly enacts and restricts actions in accordance with popular opinion. Obviously, there are many ways this can go wrong.
 
 **Related Pages:** [[Law and Legal systems]], [[Politics]], [[Mechanism Design]], [[Voting Theory]], [[Selectorate Theory]], [[Futarchy]], [[ Cooperation]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Government**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

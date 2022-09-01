@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb250
 title: Corrupted Hardware
-href: https://lesswrong.com/tag/corrupted-hardware
+href: https://www.lesswrong.com/tag/corrupted-hardware
 slug: corrupted-hardware
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:08.453Z'
+synchedAt: '2022-09-01T09:42:51.592Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ Our brains do not always allow us to act the way we should. **Corrupted hardware
 - [[Ethical Injunction|Ethical injunction]] (`= [[Ethical Injunction|Ethical injunction]].status`)
 - [[Evolutionary Psychology|Evolutionary psychology]], [adaptation executers](https://wiki.lesswrong.com/wiki/adaptation_executers)
 - [[Signaling]] (`= [[Signaling]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Corrupted Hardware**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

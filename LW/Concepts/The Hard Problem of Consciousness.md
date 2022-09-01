@@ -1,14 +1,14 @@
 ---
 _id: KqrZ5sDEyHm6JaaKp
 title: The Hard Problem of Consciousness
-href: https://lesswrong.com/tag/the-hard-problem-of-consciousness
+href: https://www.lesswrong.com/tag/the-hard-problem-of-consciousness
 slug: the-hard-problem-of-consciousness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:49.205Z'
+synchedAt: '2022-09-01T09:42:21.176Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ The **hard problem of consciousness** is the problem of explaining why and how s
 the existence of the Hard Problem of Consciousness [isn't in consensus](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness#Rejection_of_the_problem) among scientists and philosophers.
 
 Related Tags: [[Consciousness]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Hard Problem of Consciousness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

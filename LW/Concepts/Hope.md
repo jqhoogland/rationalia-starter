@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb137
 title: Hope
-href: https://lesswrong.com/tag/hope
+href: https://www.lesswrong.com/tag/hope
 slug: hope
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:01.482Z'
+synchedAt: '2022-09-01T09:42:40.613Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Persisting in clutching to a hope may be disastrous. Be ready to admit you lost,
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [Lotteries](https://wiki.lesswrong.com/wiki/Lotteries)
 - [[Oops]] (`= [[Oops]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hope**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

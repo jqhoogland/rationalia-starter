@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1f5
 title: Doubt
-href: https://lesswrong.com/tag/doubt
+href: https://www.lesswrong.com/tag/doubt
 slug: doubt
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:43.915Z'
+synchedAt: '2022-09-01T09:42:49.503Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ The proper purpose of a doubt is to destroy its target belief [[Litany of Tarski
 - [Update](https://wiki.lesswrong.com/wiki/Update)
 - [[Underconfidence]] (`= [[Underconfidence]].status`)
 - [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Doubt**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: AHK82ypfxF45rqh9D
 title: Distinctions
-href: https://lesswrong.com/tag/distinctions
+href: https://www.lesswrong.com/tag/distinctions
 slug: distinctions
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.940Z'
+synchedAt: '2022-09-01T09:42:49.858Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Thus, making and noticing distinctions is a core skill.
 **External Links:**
 
 [Use–mention distinction](https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Distinctions**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

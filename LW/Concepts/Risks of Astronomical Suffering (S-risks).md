@@ -1,14 +1,14 @@
 ---
 _id: nzvHaqwdXtvWkbonG
 title: Risks of Astronomical Suffering (S-risks)
-href: https://lesswrong.com/tag/risks-of-astronomical-suffering-s-risks
+href: https://www.lesswrong.com/tag/risks-of-astronomical-suffering-s-risks
 slug: risks-of-astronomical-suffering-s-risks
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:20.428Z'
+synchedAt: '2022-09-01T09:42:24.773Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ Another approach to reducing s-risk is to "expand the moral circle"[*together*](
 - [Artificial Intelligence and Its Implications for Future Suffering (FRI)](https://foundational-research.org/artificial-intelligence-and-its-implications-for-future-suffering)
 - [Expanding our moral circle to reduce suffering in the far future (Sentience Politics)](https://sentience-politics.org/expanding-moral-circle-reduce-suffering-far-future/)
 - [The Importance of the Far Future (Sentience Politics)](https://sentience-politics.org/philosophy/the-importance-of-the-future/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Risks of Astronomical Suffering (S-risks)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

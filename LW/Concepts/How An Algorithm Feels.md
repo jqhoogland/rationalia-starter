@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b7
 title: How An Algorithm Feels
-href: https://lesswrong.com/tag/how-an-algorithm-feels
+href: https://www.lesswrong.com/tag/how-an-algorithm-feels
 slug: how-an-algorithm-feels
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:34.487Z'
+synchedAt: '2022-09-01T09:42:40.568Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ Michael Vassar has observed that conventional philosophers seem to be *spectacul
 - [[Magic]], [[Fake Simplicity|Fake simplicity]]
 - [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
 - [[Cognitive Reduction|Cognitive reduction]] (`= [[Cognitive Reduction|Cognitive reduction]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **How An Algorithm Feels**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

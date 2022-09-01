@@ -1,7 +1,7 @@
 ---
 _id: Ng8Gice9KNkncxqcj
 title: Rationality
-href: https://lesswrong.com/tag/rationality
+href: https://www.lesswrong.com/tag/rationality
 slug: rationality
 type: tag
 tags:
@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 core: true
-synchedAt: '2022-08-29T11:04:08.832Z'
+synchedAt: '2022-09-01T09:42:25.631Z'
 status: todo
 ---
 
@@ -64,3 +64,16 @@ In a field like biology, we can draw a distinction between the *science of biolo
 The term *rationalist* as a description of people is used in a couple of ways. It can refer to someone who endeavors to think better and implement as much rationality as they can. Many prefer the term *aspiring rationalist* to convey that the identifier is a claim to the goal of being more rational rather than a claim of having attained it already.
 
 Perhaps more commonly, *rationalist* is used to refer culturally to someone associated with various rationalist communities separate from their efforts to improve their rationality.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: LhX3F2SvGDarZCuh6
 title: Bayes' Theorem
-href: https://lesswrong.com/tag/bayes-theorem
+href: https://www.lesswrong.com/tag/bayes-theorem
 slug: bayes-theorem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:23.105Z'
+synchedAt: '2022-09-01T09:42:55.533Z'
 status: todo
 ---
 
@@ -40,3 +40,16 @@ P(A|B)P(¬A|B)=P(A)P(¬A)⋅P(B|A)P(B|¬A)
 - [Using Venn pies to illustrate Bayes' theorem](http://oracleaide.wordpress.com/2012/12/26/a-venn-pie/) by [oracleaide](https://www.lesswrong.com/users/oracleaide)
 - [A Guide to Bayes’ Theorem – A few links](http://kruel.co/2010/02/27/a-guide-to-bayes-theorem-a-few-links/) by Alexander Kruel
 - [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem), Wikipedia
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bayes' Theorem**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

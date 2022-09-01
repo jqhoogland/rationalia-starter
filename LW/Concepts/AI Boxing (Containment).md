@@ -1,14 +1,14 @@
 ---
 _id: zCYXpx33wq8chGyEz
 title: AI Boxing (Containment)
-href: https://lesswrong.com/tag/ai-boxing-containment
+href: https://www.lesswrong.com/tag/ai-boxing-containment
 slug: ai-boxing-containment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:17.204Z'
+synchedAt: '2022-09-01T09:42:59.245Z'
 status: todo
 ---
 
@@ -70,3 +70,16 @@ References
 - [Cryptographic Boxes for Unfriendly AI](https://www.lesswrong.com/lw/3cz/cryptographic_boxes_for_unfriendly_ai/) by Paul Christiano
 - [The Strangest Thing An AI Could Tell You](https://www.lesswrong.com/r/lesswrong/lw/12s/the_strangest_thing_an_ai_could_tell_you/)
 - [The AI in a box boxes you](https://www.lesswrong.com/lw/1pz/ai_in_box_boxes_you/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AI Boxing (Containment)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

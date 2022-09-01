@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1fa
 title: Amount of Evidence
-href: https://lesswrong.com/tag/amount-of-evidence
+href: https://www.lesswrong.com/tag/amount-of-evidence
 slug: amount-of-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:21.554Z'
+synchedAt: '2022-09-01T09:42:57.134Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ We often find it convenient to express the **amount of evidence** in terms of lo
 ## References
 
 - [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical) by [[Eliezer Yudkowsky]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Amount of Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

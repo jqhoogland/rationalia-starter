@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb1cf
 title: Defying The Data
 slug: defying-the-data
 href: https://www.lesswrong.com/tag/defying-the-data
-synchedAt: '2022-08-30T12:48:15.041Z'
+synchedAt: '2022-09-01T09:42:50.252Z'
 tags:
   - LessWrong
   - Tag
@@ -31,3 +31,16 @@ See also
 * [[Antiprediction]]
 
 * [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper), [[LW/Posts/Rationalization]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Defying the data**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

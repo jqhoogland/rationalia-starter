@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb256
 title: Santa Claus
-href: https://lesswrong.com/tag/santa-claus
+href: https://www.lesswrong.com/tag/santa-claus
 slug: santa-claus
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:28.291Z'
+synchedAt: '2022-09-01T09:42:24.324Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ It is a vexed question as to whether teaching your children about Santa is a goo
 
 - [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)
 - [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Santa Claus**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

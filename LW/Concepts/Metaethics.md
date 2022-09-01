@@ -1,14 +1,14 @@
 ---
 _id: Z8wZZLeLMJ3NSK7kR
 title: Metaethics
-href: https://lesswrong.com/tag/metaethics
+href: https://www.lesswrong.com/tag/metaethics
 slug: metaethics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:12.033Z'
+synchedAt: '2022-09-01T09:42:35.375Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Luke Muehlhauser has written a sequence, [No-Nonsense Metaethics](https://www.le
 
 - [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
 - [Utility](https://lessestwrong.com/tag/utility)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Metaethics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

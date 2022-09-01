@@ -1,14 +1,14 @@
 ---
 _id: CbucWMrhobAmtzpMF
 title: The Problem of the Criterion
-href: https://lesswrong.com/tag/the-problem-of-the-criterion
+href: https://www.lesswrong.com/tag/the-problem-of-the-criterion
 slug: the-problem-of-the-criterion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:18.004Z'
+synchedAt: '2022-09-01T09:42:20.858Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ The implication of the problem of the criterion is that knowledge cannot be well
 
 - [[Epistemology|epistemology]] (`= [[Epistemology|epistemology]].status`)
 - [[Truth, Semantics, & Meaning]] (`= [[Truth, Semantics, & Meaning]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Problem of the Criterion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

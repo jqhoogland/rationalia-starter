@@ -1,14 +1,14 @@
 ---
 _id: vcvfjGJwRmFbMMS3d
 title: Principles
-href: https://lesswrong.com/tag/principles
+href: https://www.lesswrong.com/tag/principles
 slug: principles
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:50.363Z'
+synchedAt: '2022-09-01T09:42:28.031Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Principles, Heuristics, and rules of thumb are generalizations that aim to produ
 Not using generalizations, Rules of thumb and Heuristics isn't possible. precise decision rules such as [[Bayes' Theorem|Bayes Theorem]] are [computationally intractable](https://en.wikipedia.org/wiki/Combinatorial_explosion) even to computers, and surely aren't feasible for humans. the question become whether you have good and effective principles to guide you.
 
 See also: [[Chesterton's Fence]], [[Conservation of Expected Evidence]], [[Occam's Razor|Occam's razor]], [[Goodhart's Law]], [[More Dakka]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Principles**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

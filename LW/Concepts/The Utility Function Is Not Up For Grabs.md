@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb213
 title: The Utility Function Is Not Up For Grabs
-href: https://lesswrong.com/tag/the-utility-function-is-not-up-for-grabs
+href: https://www.lesswrong.com/tag/the-utility-function-is-not-up-for-grabs
 slug: the-utility-function-is-not-up-for-grabs
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:22.817Z'
+synchedAt: '2022-09-01T09:42:20.807Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ The constraints of decision theory are only there to help you win; they don't sp
 
 - [Rationalists should win](https://wiki.lesswrong.com/wiki/Rationalists_should_win)
 - [[Something To Protect|Something to protect]] (`= [[Something To Protect|Something to protect]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Utility Function Is Not Up For Grabs**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

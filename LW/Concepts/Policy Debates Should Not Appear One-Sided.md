@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1ea
 title: Policy Debates Should Not Appear One-Sided
-href: https://lesswrong.com/tag/policy-debates-should-not-appear-one-sided
+href: https://www.lesswrong.com/tag/policy-debates-should-not-appear-one-sided
 slug: policy-debates-should-not-appear-one-sided
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:05.580Z'
+synchedAt: '2022-09-01T09:42:28.829Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ Almost any course of action has both costs and benefits: optimizing for one valu
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [[Game Theory|Game theory]] (`= [[Game Theory|Game theory]].status`)
 - [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Policy Debates Should Not Appear One-Sided**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

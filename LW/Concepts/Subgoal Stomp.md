@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb295
 title: Subgoal Stomp
-href: https://lesswrong.com/tag/subgoal-stomp
+href: https://www.lesswrong.com/tag/subgoal-stomp
 slug: subgoal-stomp
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:19.235Z'
+synchedAt: '2022-09-01T09:42:22.335Z'
 status: todo
 ---
 
@@ -59,3 +59,16 @@ If we consider evolution as an optimization process (though not, of course, as a
 ## References
 
 Tooby, John, and Cosmides, Leda (1992) "The Psychological Foundations of Culture" in Jerome Barkow, Leda Cosmides, and John Tooby. *The Adapted Mind: Evolutionary Psychology and the Generation of Culture.* New York: Oxford.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Subgoal Stomp**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: bFi5fzkCzBWoQSeiB
 title: Technological Unemployment
-href: https://lesswrong.com/tag/technological-unemployment
+href: https://www.lesswrong.com/tag/technological-unemployment
 slug: technological-unemployment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:57.694Z'
+synchedAt: '2022-09-01T09:42:21.506Z'
 status: todo
 ---
 
@@ -17,3 +17,16 @@ status: todo
 **Technological Unemployment** occurs when businesses replace human workers with automated systems, and the displaced workers are unable to find new jobs.
 
 Related to [[Automation]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Technological Unemployment**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

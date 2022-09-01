@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb239
 title: Utilitronium
-href: https://lesswrong.com/tag/utilitronium
+href: https://www.lesswrong.com/tag/utilitronium
 slug: utilitronium
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:19.251Z'
+synchedAt: '2022-09-01T09:42:19.273Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ Utilitronium shockwave is a process of converting all matter in the universe int
 - [[Hedon]], [Utils](https://wiki.lesswrong.com/wiki/Utils)
 - [[Paperclip Maximizer|Paperclip maximizer]], [[Complexity of Value|Complexity of value]]
 - [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium), the hedonistic utilitarian version of utilitronium
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Utilitronium**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: mSTmKrSkFBswHaS3T
 title: Eliciting Latent Knowledge (ELK)
-href: https://lesswrong.com/tag/eliciting-latent-knowledge-elk
+href: https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk
 slug: eliciting-latent-knowledge-elk
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:17.340Z'
+synchedAt: '2022-09-01T09:42:49.073Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ status: todo
 [--ARC report](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit)
 
 See also: [[ Interpretability (ML & AI)|Transparency/Interpretability]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Eliciting Latent Knowledge (ELK)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

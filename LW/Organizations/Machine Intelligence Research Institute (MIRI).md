@@ -1,14 +1,14 @@
 ---
 _id: NrvXXL3iGjjxu5B7d
 title: Machine Intelligence Research Institute (MIRI)
-href: https://lesswrong.com/tag/machine-intelligence-research-institute-miri
+href: https://www.lesswrong.com/tag/machine-intelligence-research-institute-miri
 slug: machine-intelligence-research-institute-miri
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:00.404Z'
+synchedAt: '2022-09-01T09:42:16.754Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ External Links
 - [Existential risk](https://lessestwrong.com/tag/existential-risk)
 - [Intelligence explosion](https://lessestwrong.com/tag/intelligence-explosion)
 - [Friendly artificial intelligence](https://lessestwrong.com/tag/friendly-artificial-intelligence)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Machine Intelligence Research Institute (MIRI)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

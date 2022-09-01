@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0d5
 title: Bias
-href: https://lesswrong.com/tag/bias
+href: https://www.lesswrong.com/tag/bias
 slug: bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:03.926Z'
+synchedAt: '2022-09-01T09:42:55.122Z'
 status: todo
 ---
 
@@ -76,3 +76,16 @@ Therefore, the human brain make operations which solve cognitive tasks through �
 
 1. POHL, Rüdiger (orgs.). (2005) "Cognitive Illusions: A Handbook on Fallacies and Biases in Thinking, Judgement and Memory". Psychology Press. p. 2[↩](#fnref1)
 2. BUSS, David(orgs.). (2005) "The Handbook of Evolutionary Psychology". Wiley, New Jersey. p. 778.[↩](#fnref2)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

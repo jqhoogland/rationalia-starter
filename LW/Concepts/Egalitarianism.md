@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb142
 title: Egalitarianism
-href: https://lesswrong.com/tag/egalitarianism
+href: https://www.lesswrong.com/tag/egalitarianism
 slug: egalitarianism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:33.967Z'
+synchedAt: '2022-09-01T09:42:49.126Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ Dismissing egalitarianism is not opposed to [[Humility|humility]], even though f
 - [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
 - [[Underconfidence]] (`= [[Underconfidence]].status`)
 - [[Tsuyoku Naritai|Tsuyoku naritai]] (`= [[Tsuyoku Naritai|Tsuyoku naritai]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Egalitarianism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

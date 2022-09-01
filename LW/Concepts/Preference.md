@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1c5
 title: Preference
-href: https://lesswrong.com/tag/preference
+href: https://www.lesswrong.com/tag/preference
 slug: preference
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:22.217Z'
+synchedAt: '2022-09-01T09:42:28.058Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ This sequential chain of thought can be particularly useful when dealing with [[
 - [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
 - [[Akrasia]] (`= [[Akrasia]].status`)
 - [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Preference**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

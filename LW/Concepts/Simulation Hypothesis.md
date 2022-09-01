@@ -1,14 +1,14 @@
 ---
 _id: 22z6XpWKqw3bNv4oR
 title: Simulation Hypothesis
-href: https://lesswrong.com/tag/simulation-hypothesis
+href: https://www.lesswrong.com/tag/simulation-hypothesis
 slug: simulation-hypothesis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:59.137Z'
+synchedAt: '2022-09-01T09:42:23.553Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ John Barrow [has suggested](http://www.simulation-argument.com/barrowsim.pdf) th
 ## See Also
 
 - [[Simulation Argument]] (`= [[Simulation Argument]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Simulation Hypothesis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

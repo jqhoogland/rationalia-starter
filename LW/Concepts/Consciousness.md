@@ -1,14 +1,14 @@
 ---
 _id: XSryTypw5Hszpa4TS
 title: Consciousness
-href: https://lesswrong.com/tag/consciousness
+href: https://www.lesswrong.com/tag/consciousness
 slug: consciousness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:01.901Z'
+synchedAt: '2022-09-01T09:42:52.058Z'
 status: todo
 ---
 
@@ -102,3 +102,16 @@ Highlights:
 - [[Animal Welfare|Animal welfare]], [[Suffering]], [[Risks of Astronomical Suffering (S-risks)|Risks of astronomical suffering (s-risks)]]
 - [[Reductionism]], [[Mind Projection Fallacy]]
 - [[Quantum Mechanics|Quantum mechanics]] (`= [[Quantum Mechanics|Quantum mechanics]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Consciousness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

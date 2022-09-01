@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb276
 title: Tapping Out
 slug: tapping-out
 href: https://www.lesswrong.com/tag/tapping-out
-synchedAt: '2022-08-30T12:53:45.255Z'
+synchedAt: '2022-09-01T09:42:21.647Z'
 tags:
   - LessWrong
   - Tag
@@ -26,3 +26,15 @@ See also
 
 *   [[Disagreement]]
 *   [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Tapping Out**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

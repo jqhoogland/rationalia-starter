@@ -1,14 +1,14 @@
 ---
 _id: khReijeucXJTnsyMT
 title: Bounties (closed)
-href: https://lesswrong.com/tag/bounties-closed
+href: https://www.lesswrong.com/tag/bounties-closed
 slug: bounties-closed
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:31.721Z'
+synchedAt: '2022-09-01T09:42:54.675Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ This tag is for bounties that have already been paid out. It has a sister tag fo
 *If you're hosting a bounty, please make sure to change the tags to indicate the status of the bounty. *
 
 See also: [[Bounties & Prizes (active)|Bounties (active)]], [[Grants & Fundraising Opportunities|Grants and Fundraising Opportunities]], [Bountied Rationality Facebook group](https://www.facebook.com/groups/1781724435404945/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bounties (closed)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

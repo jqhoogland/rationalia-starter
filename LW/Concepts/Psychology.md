@@ -1,14 +1,14 @@
 ---
 _id: dBPou4ihoQNY4cquv
 title: Psychology
-href: https://lesswrong.com/tag/psychology
+href: https://www.lesswrong.com/tag/psychology
 slug: psychology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:53.938Z'
+synchedAt: '2022-09-01T09:42:26.544Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Humanistic Psychology, which focuses on theories of self-actualization and self-
 Cognitive Psychology, which uses modern research on brain anatomy and other subjects to create theories about how the brain learns, develops, and makes decisions.
 
 From an academic standpoint, much of the content of Lesswrong can be described as trying to implement the results of Decision Theory to people's daily actions using knowledge of human psychology. Sometimes, this involves overriding our native tendencies. Other times, it involves using them to our advantage.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Psychology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

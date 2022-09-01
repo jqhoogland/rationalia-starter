@@ -1,14 +1,14 @@
 ---
 _id: 4Kcm4etxAJjmeDkHP
 title: Book Reviews
-href: https://lesswrong.com/tag/book-reviews
+href: https://www.lesswrong.com/tag/book-reviews
 slug: book-reviews
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:14.728Z'
+synchedAt: '2022-09-01T09:42:54.738Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Reviews engage with the perspective of the author, someone who has put in the ef
 Good book reviews embody the virtues of [[Scholarship & Learning|scholarship]], [[Curiosity|curiosity]] and perspective-taking.
 
 **Related Pages:** [[Epistemic Review]], [[Summaries]], [[Literature Reviews]], [[LessWrong Review]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Book Reviews**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

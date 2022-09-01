@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2a2
 title: Reflective Decision Theory
-href: https://lesswrong.com/tag/reflective-decision-theory
+href: https://www.lesswrong.com/tag/reflective-decision-theory
 slug: reflective-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:15.640Z'
+synchedAt: '2022-09-01T09:42:25.274Z'
 status: todo
 ---
 
@@ -47,3 +47,16 @@ Eliezer Yudkowsky's has proposed a theoretical solution to the reflective decisi
 - [[Reflective Inconsistency|Reflective inconsistency]] (`= [[Reflective Inconsistency|Reflective inconsistency]].status`)
 - [[Timeless Decision Theory]] (`= [[Timeless Decision Theory]].status`)
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reflective Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

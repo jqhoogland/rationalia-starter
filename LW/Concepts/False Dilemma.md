@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb152
 title: False Dilemma
-href: https://lesswrong.com/tag/false-dilemma
+href: https://www.lesswrong.com/tag/false-dilemma
 slug: false-dilemma
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:46.512Z'
+synchedAt: '2022-09-01T09:42:47.176Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ A **false dilemma** (false dichotomy) occurs when only two options are considere
 ## See Also
 
 - [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **False Dilemma**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: EewHHv3ewvQ3mqbyb
 title: Law-Thinking
-href: https://lesswrong.com/tag/law-thinking
+href: https://www.lesswrong.com/tag/law-thinking
 slug: law-thinking
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:00:00.078Z'
+synchedAt: '2022-09-01T09:42:37.591Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Some concepts which have been used as theoretical criteria in law-thinking:
 - [[Solomonoff Induction]] is a theoretically optimal way of arriving at true beliefs, though impossible to use directly. [[AIXI]] is an AI design based on Solomonoff Induction; it is also impossible to build directly, but some approximations exist.
 
 Note that one can make use of e.g. Bayes Theorem or decision theory without being a law-thinker. Thus, articles covering the above topics do not automatically fall under this tag. A "toolbox-thinker" may use such tools if that seems warranted, *without* considering them normative standards to compare things against. This difference is discussed in [[Toolbox-thinking and Law-thinking]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Law-Thinking**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

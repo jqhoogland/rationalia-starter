@@ -1,14 +1,14 @@
 ---
 _id: vg4LDxjdwHLotCm8w
 title: Replication Crisis
-href: https://lesswrong.com/tag/replication-crisis
+href: https://www.lesswrong.com/tag/replication-crisis
 slug: replication-crisis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.843Z'
+synchedAt: '2022-09-01T09:42:25.069Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ The replication crisis began in the early 2010s when several high-profile irrepr
 [Wikipedia](https://en.wikipedia.org/wiki/Replication_crisis)
 
 **Related Pages:** [[Practice & Philosophy of Science]], [[Psychology]], [[Information Cascades]], [[Falsifiability]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Replication Crisis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

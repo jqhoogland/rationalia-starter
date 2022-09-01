@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb28f
 title: Evidential Decision Theory
-href: https://lesswrong.com/tag/evidential-decision-theory
+href: https://www.lesswrong.com/tag/evidential-decision-theory
 slug: evidential-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:35.529Z'
+synchedAt: '2022-09-01T09:42:48.297Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ CDT uses probabilities of conditionals and contrafactual dependence to calculate
 ## See Also
 
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evidential Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

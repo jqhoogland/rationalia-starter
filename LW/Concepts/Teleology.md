@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb16b
 title: Teleology
-href: https://lesswrong.com/tag/teleology
+href: https://www.lesswrong.com/tag/teleology
 slug: teleology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:38.744Z'
+synchedAt: '2022-09-01T09:42:21.485Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ A non-fallacious interpretation of teleology is as the study of things that happ
 
 - [[Causality]] (`= [[Causality]].status`)
 - [Alienness of evolution](https://wiki.lesswrong.com/wiki/Alienness_of_evolution)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Teleology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

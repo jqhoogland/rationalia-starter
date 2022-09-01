@@ -1,14 +1,14 @@
 ---
 _id: 7mTviCYysGmLqiHai
 title: Writing (communication method)
-href: https://lesswrong.com/tag/writing-communication-method
+href: https://www.lesswrong.com/tag/writing-communication-method
 slug: writing-communication-method
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:17.043Z'
+synchedAt: '2022-09-01T09:42:18.219Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Including posts on: the history of writing, how to write better, comparing and r
 [Nonfiction Writing Advice](https://slatestarcodex.com/2016/02/20/writing-advice/) by Scott Alexander
 
 **Related Pages:** [[Communication Cultures]], [[Philosophy of Language]], [[Inferential Distance]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Writing (communication method)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

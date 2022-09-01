@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1db
 title: Timeless Decision Theory
-href: https://lesswrong.com/tag/timeless-decision-theory
+href: https://www.lesswrong.com/tag/timeless-decision-theory
 slug: timeless-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:48.497Z'
+synchedAt: '2022-09-01T09:42:20.511Z'
 status: todo
 ---
 
@@ -60,3 +60,16 @@ Coming to fully grasp TDT requires an understanding of how the theory is formali
 - [[Causality]] (`= [[Causality]].status`)
 - [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
 - [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Timeless Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

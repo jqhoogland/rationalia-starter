@@ -1,14 +1,14 @@
 ---
 _id: sHbKQDqrSinRPcnBv
 title: Information Cascades
-href: https://lesswrong.com/tag/information-cascades
+href: https://www.lesswrong.com/tag/information-cascades
 slug: information-cascades
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.244Z'
+synchedAt: '2022-09-01T09:42:38.930Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ An **information cascade** occurs when people update on other people's beliefs, 
 - [Groupthink](https://lessestwrong.com/tag/groupthink), [Affective death spiral](https://lessestwrong.com/tag/affective-death-spiral)
 - [Goodhart's law](https://lessestwrong.com/tag/goodhart-s-law)
 - [Religion](https://lessestwrong.com/tag/religion)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Information Cascades**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

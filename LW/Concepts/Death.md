@@ -1,14 +1,14 @@
 ---
 _id: E9ihK6bA9YKkmJs2f
 title: Death
-href: https://lesswrong.com/tag/death
+href: https://www.lesswrong.com/tag/death
 slug: death
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:46.702Z'
+synchedAt: '2022-09-01T09:42:50.613Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ First you're there, and then you're not there, and they can't change you from be
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [[Transhumanism]] (`= [[Transhumanism]].status`)
 - [[Personal Identity|Personal identity]] (`= [[Personal Identity|Personal identity]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Death**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1d1
 title: Decoherence
-href: https://lesswrong.com/tag/decoherence
+href: https://www.lesswrong.com/tag/decoherence
 slug: decoherence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:54.876Z'
+synchedAt: '2022-09-01T09:42:50.564Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ status: todo
 
 - [[Quantum Mechanics|Quantum mechanics]], [[Many-Worlds Interpretation|Many-worlds interpretation]]
 - [Thermodynamics](https://wiki.lesswrong.com/wiki/Thermodynamics)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Decoherence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

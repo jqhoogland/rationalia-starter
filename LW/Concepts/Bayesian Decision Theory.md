@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb294
 title: Bayesian Decision Theory
-href: https://lesswrong.com/tag/bayesian-decision-theory
+href: https://www.lesswrong.com/tag/bayesian-decision-theory
 slug: bayesian-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:40.222Z'
+synchedAt: '2022-09-01T09:42:55.459Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ One definition of [[Rationality|rationality]], used both on Less Wrong and in ec
 
 - [[Bayesian Probability|Bayesian probability]] (`= [[Bayesian Probability|Bayesian probability]].status`)
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bayesian Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

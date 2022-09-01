@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb0ef
 title: Intellectual Roles
 slug: intellectual-roles
 href: https://www.lesswrong.com/tag/intellectual-roles
-synchedAt: '2022-08-30T12:57:05.253Z'
+synchedAt: '2022-09-01T09:42:38.557Z'
 tags:
   - LessWrong
   - Tag
@@ -24,3 +24,15 @@ See also
 --------
 
 *   [[Cognitive style|Cognitive style]]
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Intellectual roles**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

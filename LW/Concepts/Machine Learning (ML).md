@@ -1,14 +1,14 @@
 ---
 _id: fpEBgFE7fgpxTm9BF
 title: Machine Learning  (ML)
-href: https://lesswrong.com/tag/machine-learning-ml
+href: https://www.lesswrong.com/tag/machine-learning-ml
 slug: machine-learning-ml
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.609Z'
+synchedAt: '2022-09-01T09:42:35.935Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ In addition to its practical usefulness, machine learning has also offered insig
 ## See Also
 
 - [[Forecasting & Prediction|Prediction]] (`= [[Forecasting & Prediction|Prediction]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Machine Learning (ML)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

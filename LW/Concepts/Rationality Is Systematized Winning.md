@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1e9
 title: Rationality Is Systematized Winning
-href: https://lesswrong.com/tag/rationality-is-systematized-winning
+href: https://www.lesswrong.com/tag/rationality-is-systematized-winning
 slug: rationality-is-systematized-winning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:53.755Z'
+synchedAt: '2022-09-01T09:42:25.632Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ The point of all this discussion of rationality is to actually achieve truer bel
 - [[Challenging The Difficult|Challenging the Difficult]] (`= [[Challenging The Difficult|Challenging the Difficult]].status`)
 - [[Rationality Verification|Problem of verifying rationality]] (`= [[Rationality Verification|Problem of verifying rationality]].status`)
 - [[Newcomb's Problem|Newcomb's problem]] (`= [[Newcomb's Problem|Newcomb's problem]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationality Is Systematized Winning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

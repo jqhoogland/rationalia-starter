@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb120
 title: Expected Value
-href: https://lesswrong.com/tag/expected-value
+href: https://www.lesswrong.com/tag/expected-value
 slug: expected-value
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:47.756Z'
+synchedAt: '2022-09-01T09:42:47.999Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ The **expected value** or **expectation** is the (weighted) average of all the p
 ## External Links
 
 - [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Expected Value**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

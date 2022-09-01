@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2d4
 title: Reinforcement Learning
-href: https://lesswrong.com/tag/reinforcement-learning
+href: https://www.lesswrong.com/tag/reinforcement-learning
 slug: reinforcement-learning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:36.298Z'
+synchedAt: '2022-09-01T09:42:25.079Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ Parallel with an exploration implementation, it is still necessary to chose the 
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 - [Game theory](game-theory)
 - [Prediction](https://wiki.lesswrong.com/wiki/Prediction)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reinforcement Learning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: nZCb9BSnmXZXSNA2u
 title: Evolution
-href: https://lesswrong.com/tag/evolution
+href: https://www.lesswrong.com/tag/evolution
 slug: evolution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:13.600Z'
+synchedAt: '2022-09-01T09:42:48.085Z'
 status: todo
 ---
 
@@ -60,3 +60,16 @@ Secondly, much of rationality necessarily revolves around the human brain ([[Tra
 - [Fake Optimization Criteria](https://lessestwrong.com/lw/kz/fake_optimization_criteria/) \- Why study evolution? For one thing - it lets us see an alien [optimization process](https://lessestwrong.com/tag/optimization) up close - lets us see the *real* consequence of optimizing *strictly* for an alien optimization criterion like inclusive genetic fitness. Humans, who try to persuade other humans to do things their way, think that this policy criterion ought to require predators to [restrain their breeding](https://lessestwrong.com/tag/group-selection) to live in harmony with prey; the true result is something that humans find less aesthetic.
 - [Beware of Stephen J. Gould](https://lessestwrong.com/lw/kv/beware_of_stephen_j_gould/) \- A lot of people have gotten their grasp of evolutionary theory from Stephen J. Gould, a man who committed the moral equivalent of fraud in a way that is difficult to explain. At any rate, he severely misrepresented what evolutionary biologists believe, in the course of pretending to attack certain beliefs. One needs to clear from memory, as much as possible, not just everything that Gould positively stated but everything he seemed to imply the mainstream theory believed.
 - [Conjuring An Evolution To Serve You](https://lessestwrong.com/lw/l8/conjuring_an_evolution_to_serve_you/) \- If you take the hens who lay the most eggs in each generation, and breed from them, you should get hens who lay more and more eggs. Sounds logical, right? But this selection may actually favor the most *dominant* hen, that pecked its way to the top of the pecking order at the expense of other hens. Such breeding programs produce hens that must be housed in individual cages, or they will peck each other to death. Jeff Skilling of Enron fancied himself an evolution-conjurer - summoning *the awesome power of evolution* to work for him - and so, every year, every Enron employee's performance would be evaluated, and the bottom 10% would get fired, and the top performers would get huge raises and bonuses.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evolution**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

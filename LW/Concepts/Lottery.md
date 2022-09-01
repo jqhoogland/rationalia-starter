@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb14d
 title: Lottery
-href: https://lesswrong.com/tag/lottery
+href: https://www.lesswrong.com/tag/lottery
 slug: lottery
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:51.630Z'
+synchedAt: '2022-09-01T09:42:36.419Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ A tax on people who are bad at math. Also, a waste of [[Hope|hope]]. You [[Antip
 - [[Hope]] (`= [[Hope]].status`)
 - [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
 - [[Antiprediction]] (`= [[Antiprediction]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Lottery**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

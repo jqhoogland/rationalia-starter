@@ -1,14 +1,14 @@
 ---
 _id: PvridmTCj2qsugQCH
 title: Goodhart's Law
-href: https://lesswrong.com/tag/goodhart-s-law
+href: https://www.lesswrong.com/tag/goodhart-s-law
 slug: goodhart-s-law
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:24.908Z'
+synchedAt: '2022-09-01T09:42:42.064Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ In [Goodhart Taxonomy](https://www.lessestwrong.com/posts/EbFABnst8LsidYs5Y/good
 - [Rationalization](https://lessestwrong.com/tag/rationalization), [Dark arts](https://lessestwrong.com/tag/dark-arts)
 - [Epistemic hygiene](https://lessestwrong.com/tag/epistemic-hygiene)
 - [Scoring rule](https://lessestwrong.com/tag/scoring-rule)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Goodhart's Law**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

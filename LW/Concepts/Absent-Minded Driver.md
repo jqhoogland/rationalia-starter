@@ -8,7 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-30T08:37:09.995Z'
+synchedAt: '2022-09-01T09:42:58.544Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 - [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
 
 ---
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Absent-Minded Driver**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

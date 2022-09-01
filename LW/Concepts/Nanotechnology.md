@@ -1,14 +1,14 @@
 ---
 _id: XJjvxWB68GYpts93N
 title: Nanotechnology
-href: https://lesswrong.com/tag/nanotechnology
+href: https://www.lesswrong.com/tag/nanotechnology
 slug: nanotechnology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:58.566Z'
+synchedAt: '2022-09-01T09:42:34.535Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the developm
 
 - [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
 - [[Rational Evidence|Rational evidence]], [[Science]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Nanotechnology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

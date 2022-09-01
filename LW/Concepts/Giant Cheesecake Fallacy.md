@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb183
 title: Giant Cheesecake Fallacy
-href: https://lesswrong.com/tag/giant-cheesecake-fallacy
+href: https://www.lesswrong.com/tag/giant-cheesecake-fallacy
 slug: giant-cheesecake-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:13.080Z'
+synchedAt: '2022-09-01T09:42:42.388Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ giant cheesecakes!” \[…\] The vision leaps directly from *capability* to *ac
 - [The genie knows, but does not care](http://lesswrong.com/lw/igf/the_genie_knows_but_doesnt_care/)
 - [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
 - [[Lawful Intelligence|Lawful intelligence]] (`= [[Lawful Intelligence|Lawful intelligence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Giant Cheesecake Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

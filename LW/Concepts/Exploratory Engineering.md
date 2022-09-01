@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a1
 title: Exploratory Engineering
-href: https://lesswrong.com/tag/exploratory-engineering
+href: https://www.lesswrong.com/tag/exploratory-engineering
 slug: exploratory-engineering
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:53.293Z'
+synchedAt: '2022-09-01T09:42:47.638Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Exploratory engineering allows to show how some capabilities that intuitively se
 - [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
 - [[Future]], [[Forecast]]
 - [[Cryonics]], [[Intelligence Explosion|Intelligence explosion]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Exploratory Engineering**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

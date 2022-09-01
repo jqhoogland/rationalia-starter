@@ -1,14 +1,14 @@
 ---
 _id: 7oXfRFCR7N22MnuY5
 title: Circling
-href: https://lesswrong.com/tag/circling
+href: https://www.lesswrong.com/tag/circling
 slug: circling
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:13.596Z'
+synchedAt: '2022-09-01T09:42:53.556Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 Circling may offer benefits in greater awareness of oneself, others, and the interpersonal dynamics between the two. Since social relations are so key to human wellbeing and at the heart of so many psychological challenges, Circling can be of key interest to anyone trying optimize themselves. It may also foster better relationships and cooperation with others.
 
 However, Circling originated outside the LessWrong community and many feel that the practice does not have sufficient evidence behind it for it to so widely admired within the Rationalist community.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Circling**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

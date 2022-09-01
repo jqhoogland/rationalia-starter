@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb126
 title: Beliefs Require Observations
-href: https://lesswrong.com/tag/beliefs-require-observations
+href: https://www.lesswrong.com/tag/beliefs-require-observations
 slug: beliefs-require-observations
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:09.058Z'
+synchedAt: '2022-09-01T09:42:55.096Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ To form accurate [[Belief|beliefs]] about something, you *really* do have to obs
 - [[Belief Update|Belief update]] (`= [[Belief Update|Belief update]].status`)
 - [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
 - [[Free-Floating Belief|Free-floating belief]] (`= [[Free-Floating Belief|Free-floating belief]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Beliefs Require Observations**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

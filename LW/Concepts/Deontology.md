@@ -1,14 +1,14 @@
 ---
 _id: yeJFqsWrP2pjYfNEr
 title: Deontology
-href: https://lesswrong.com/tag/deontology
+href: https://www.lesswrong.com/tag/deontology
 slug: deontology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:20.578Z'
+synchedAt: '2022-09-01T09:42:50.227Z'
 aliases:
   - Deontological ethics
 status: todo
@@ -17,3 +17,16 @@ status: todo
 # Deontology
 
 **Deontology** is a theory of morality based around obeying moral rules.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Deontology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

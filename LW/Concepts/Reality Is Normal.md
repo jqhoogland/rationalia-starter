@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1da
 title: Reality Is Normal
-href: https://lesswrong.com/tag/reality-is-normal
+href: https://www.lesswrong.com/tag/reality-is-normal
 slug: reality-is-normal
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:02.682Z'
+synchedAt: '2022-09-01T09:42:25.285Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ If at any point some truth should seem shocking or bizarre, [[Mind Projection Fa
 
 - [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
 - [[Joy In The Merely Real|Joy in the merely real]] (`= [[Joy In The Merely Real|Joy in the merely real]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reality Is Normal**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: Qyeqh8wycbSapBNsp
 title: Pomodoro Technique
-href: https://lesswrong.com/tag/pomodoro-technique
+href: https://www.lesswrong.com/tag/pomodoro-technique
 slug: pomodoro-technique
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.014Z'
+synchedAt: '2022-09-01T09:42:28.717Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ The 'full' pomodoro technique consists of 6 steps (from [wikipedia](https://en.w
 Some who use the technique also encourage focussing on a single task for each pomodoro, or reviewing the work of the previous pomodoro for the first few minutes of each (a type of [[Spaced Repetition|spaced repetition]]).
 
 Several tools are available to manage pomodoro timers. [Pomofocus](https://pomofocus.io/) is a good, simple, online option. [Flow](https://flowapp.info/) (Mac/iPhone/iPad) and [Pomodoro Flow](https://www.microsoft.com/en-gb/p/pomodoro-flow/9p4btjxsv5nl?activetab=pivot:overviewtab) (windows) are some examples of downloadable ones.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Pomodoro Technique**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

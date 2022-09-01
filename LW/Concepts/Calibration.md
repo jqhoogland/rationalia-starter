@@ -1,14 +1,14 @@
 ---
 _id: 8hPTCJbwJnLBmfpCX
 title: Calibration
-href: https://lesswrong.com/tag/calibration
+href: https://www.lesswrong.com/tag/calibration
 slug: calibration
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:58.686Z'
+synchedAt: '2022-09-01T09:42:54.346Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Someone is **well-calibrated** if the things they predict with X% chance of happ
 Being well-calibrated has value for rationalists separately from accuracy. Among other things, being well-calibrated lets you make good [[Betting|bets]] / [[Planning & Decision-Making|make good decisions]], communicate information helpfully to others if they know you to be well-calibrated (See [[Group Rationality]]), and helps prioritize [[Value of Information|which information is worth acquiring]].
 
 Note that all expressions of quantified confidence in [[Anticipated Experiences|beliefs]] can be wellor poorlycalibrated. For example, calibration applies to whether a person's 95% confidence intervals captures the true outcome 95% of the time.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Calibration**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: oFpCNzqBd6tzCuxLa
 title: World Modeling Techniques
-href: https://lesswrong.com/tag/world-modeling-techniques
+href: https://www.lesswrong.com/tag/world-modeling-techniques
 slug: world-modeling-techniques
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:06.733Z'
+synchedAt: '2022-09-01T09:42:18.492Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ See also:
 - World Modeling
 - Efficient Market Hypothesis
 - Game Theory
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **World Modeling Techniques**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

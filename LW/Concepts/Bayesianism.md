@@ -1,14 +1,14 @@
 ---
 _id: 4fxcbJ8xSv4SAYkkx
 title: Bayesianism
-href: https://lesswrong.com/tag/bayesianism
+href: https://www.lesswrong.com/tag/bayesianism
 slug: bayesianism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:38.811Z'
+synchedAt: '2022-09-01T09:42:55.451Z'
 aliases:
   - Bayesian
 status: todo
@@ -37,3 +37,16 @@ There is a conceoption of rationality for *bayesian* can be treated as technical
 ## Other Usages
 
 The term "Bayesian" may also refer to an ideal rational agent implementing precise, perfect Bayesian probability theory and decision theory (see, for example, [Aumann's agreement theorem](https://www.lessestwrong.com/tag/aumann-s-agreement-theorem)).
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bayesianism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: m2DsR4r4HRSaLSPW3
 title: Security Mindset
-href: https://lesswrong.com/tag/security-mindset
+href: https://www.lesswrong.com/tag/security-mindset
 slug: security-mindset
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:15.589Z'
+synchedAt: '2022-09-01T09:42:24.109Z'
 status: todo
 ---
 
@@ -44,3 +44,16 @@ Building secure systems requires *coming up with strong positive arguments for t
 3. The conclusion of the argument is a meaningful security guarantee. 
 
 The mindset required to build tight security arguments like this is different from the mindset required to find security holes.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Security Mindset**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

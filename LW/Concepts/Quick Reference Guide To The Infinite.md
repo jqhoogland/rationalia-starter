@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb245
 title: Quick Reference Guide To The Infinite
-href: https://lesswrong.com/tag/quick-reference-guide-to-the-infinite
+href: https://www.lesswrong.com/tag/quick-reference-guide-to-the-infinite
 slug: quick-reference-guide-to-the-infinite
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:46.186Z'
+synchedAt: '2022-09-01T09:42:26.120Z'
 status: todo
 ---
 
@@ -165,3 +165,16 @@ Of course, for sets of density 0, this may not be enough information. Here we ca
 ## …etc…
 
 Of course, the real point of all these examples was simply to demonstrate: Depending on what sort of thing you want to measure, you'll need different tools! So there's many more tools out there, and sometimes you may just need to invent your own…
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Quick Reference Guide To The Infinite**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

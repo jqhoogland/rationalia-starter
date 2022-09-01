@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb28b
 title: Coherent Aggregated Volition
-href: https://lesswrong.com/tag/coherent-aggregated-volition
+href: https://www.lesswrong.com/tag/coherent-aggregated-volition
 slug: coherent-aggregated-volition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:13.648Z'
+synchedAt: '2022-09-01T09:42:53.175Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ Finally, Goertzel feels that it seems like CEV bypasses an essential aspect of b
 ## References
 
 - Goertzel, Ben (2010) [Coherent Aggregated Volition: A Method for Deriving Goal System Content for Advanced, Beneficial AGIs](http://multiverseaccordingtoben.blogspot.com/2010/03/coherent-aggregated-volition-toward.html) [Consistency Measurement](http://www.aquar-system.com/catalog/pulp-consistency-measurement-and-control/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Coherent Aggregated Volition**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

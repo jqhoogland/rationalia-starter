@@ -1,14 +1,14 @@
 ---
 _id: EPTcHwSJxRHXAipT2
 title: Assurance contracts
-href: https://lesswrong.com/tag/assurance-contracts
+href: https://www.lesswrong.com/tag/assurance-contracts
 slug: assurance-contracts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.829Z'
+synchedAt: '2022-09-01T09:42:56.146Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Assurance Contracts, at least in theory, are useful coordination tools for probl
 There's has been much discussion on LessWrong about creating software tools that let people coordinate with assurance contracts. there were already a few similar attempts outside of the community, but it is generally agreed on LW that these tools aren't good enough yet.
 
 **Related pages:** [[Commitment Mechanisms]], [[Pre-Commitment]], [[ Cooperation]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Assurance contracts**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

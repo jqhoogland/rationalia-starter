@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb19c
 title: Availability Heuristic
-href: https://lesswrong.com/tag/availability-heuristic
+href: https://www.lesswrong.com/tag/availability-heuristic
 slug: availability-heuristic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:54.992Z'
+synchedAt: '2022-09-01T09:42:55.776Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ The **availability heuristic** judges the probability of events by the ease with
 - [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
 - [No one knows what science doesn't know](https://wiki.lesswrong.com/wiki/No_one_knows_what_science_doesn't_know)
 - [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Availability Heuristic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

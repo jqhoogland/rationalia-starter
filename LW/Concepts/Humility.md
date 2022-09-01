@@ -1,14 +1,14 @@
 ---
 _id: YPZCAs9Axp9PtrF22
 title: Humility
-href: https://lesswrong.com/tag/humility
+href: https://www.lesswrong.com/tag/humility
 slug: humility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:18.809Z'
+synchedAt: '2022-09-01T09:42:39.788Z'
 status: todo
 ---
 
@@ -76,3 +76,16 @@ Likewise, the lesson isn't "it's bad to ever worry about overconfidence", but ra
 - [[Modest Epistemology]] (`= [[Modest Epistemology]].status`)
 - [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)
 - [[Fallacy of Gray]] (`= [[Fallacy of Gray]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Humility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

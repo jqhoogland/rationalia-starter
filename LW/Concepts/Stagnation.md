@@ -1,14 +1,14 @@
 ---
 _id: bkgy24HML6nLSLqcj
 title: Stagnation
-href: https://lesswrong.com/tag/stagnation
+href: https://www.lesswrong.com/tag/stagnation
 slug: stagnation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:18.914Z'
+synchedAt: '2022-09-01T09:42:22.671Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Quoting Jason Crawford's *Technological Stagnation: Why I came around:*
 Eliezer has posted [a short work of fiction on Reddit](https://www.reddit.com/r/WritingPrompts/comments/3xgqj6/wp_write_a_dystopian_vision_of_the_future_from/cy4zyfd/) which explores related ideas.
 
 **Related Pages:** [[Progress Studies]], [[Bureaucracy]], [[World Modeling]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Stagnation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

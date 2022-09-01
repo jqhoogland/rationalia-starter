@@ -1,14 +1,14 @@
 ---
 _id: NSMKfa8emSbGNXRKD
 title: Religion
-href: https://lesswrong.com/tag/religion
+href: https://www.lesswrong.com/tag/religion
 slug: religion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:12.713Z'
+synchedAt: '2022-09-01T09:42:25.076Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ status: todo
 ## External Links
 
 - [BHTV: Yudkowsky & Adam Frank on "religious experience"](http://bloggingheads.tv/diavlogs/18501)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Religion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb290
 title: Malthusian Scenarios
-href: https://lesswrong.com/tag/malthusian-scenarios
+href: https://www.lesswrong.com/tag/malthusian-scenarios
 slug: malthusian-scenarios
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:45.631Z'
+synchedAt: '2022-09-01T09:42:35.940Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ Whilst food production has expanded in the developed world, its sustainability c
 ## See Also
 
 - [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]] (`= [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Malthusian Scenarios**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

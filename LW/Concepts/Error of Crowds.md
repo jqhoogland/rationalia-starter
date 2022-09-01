@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb144
 title: Error of Crowds
-href: https://lesswrong.com/tag/error-of-crowds
+href: https://www.lesswrong.com/tag/error-of-crowds
 slug: error-of-crowds
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:51.064Z'
+synchedAt: '2022-09-01T09:42:48.655Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ A related idea is that a popular belief is likely to be wrong because the less p
 ## See Also
 
 - [[Modesty Argument|Modesty argument]] (`= [[Modesty Argument|Modesty argument]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Error of Crowds**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

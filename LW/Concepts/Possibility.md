@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb13f
 title: Possibility
-href: https://lesswrong.com/tag/possibility
+href: https://www.lesswrong.com/tag/possibility
 slug: possibility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:23.969Z'
+synchedAt: '2022-09-01T09:42:28.409Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Words in natural language carry [[Connotation|connotations]] that may become mis
 - [[Absolute Certainty|Absolute certainty]], [[Fallacy of Gray|Fallacy of gray]]
 - [[Not Technically A Lie|Not technically a lie]] (`= [[Not Technically A Lie|Not technically a lie]].status`)
 - [[Lottery]], [[Hope]], [[Oops]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Possibility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

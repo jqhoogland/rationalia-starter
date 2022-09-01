@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb193
 title: Not Technically A Lie
-href: https://lesswrong.com/tag/not-technically-a-lie
+href: https://www.lesswrong.com/tag/not-technically-a-lie
 slug: not-technically-a-lie
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:39.219Z'
+synchedAt: '2022-09-01T09:42:34.054Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ A statement that is literally true, but causes the listener to attain false beli
 - [[Dark Arts|Dark arts]], [[Filtered Evidence|Filtered evidence]]
 - [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
 - [[Rationalization]] (`= [[Rationalization]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Not Technically A Lie**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

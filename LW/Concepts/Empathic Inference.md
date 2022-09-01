@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2d6
 title: Empathic Inference
-href: https://lesswrong.com/tag/empathic-inference
+href: https://www.lesswrong.com/tag/empathic-inference
 slug: empathic-inference
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:28.413Z'
+synchedAt: '2022-09-01T09:42:49.026Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ Empathic inference is often wrongly used to predict the behavior of non-human ag
 
 - [[Anthropomorphism]] (`= [[Anthropomorphism]].status`)
 - [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Empathic Inference**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: yTuPAtcPHSpc9r3kA
 title: Impact Measures
-href: https://lesswrong.com/tag/impact-measures
+href: https://www.lesswrong.com/tag/impact-measures
 slug: impact-measures
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:00.441Z'
+synchedAt: '2022-09-01T09:42:40.380Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Sequences on impact measurement:
 - [Subagents and Impact Measures](https://www.lesswrong.com/s/iRwYCpcAXuFD24tHh) explores how subagents can circumvent current impact measure formalizations.
 
 Related tags: [[Instrumental Convergence]], [[Corrigibility]], [[Mild Optimization]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Impact Measures**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

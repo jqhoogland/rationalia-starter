@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0d4
 title: Belief
-href: https://lesswrong.com/tag/belief
+href: https://www.lesswrong.com/tag/belief
 slug: belief
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:25.990Z'
+synchedAt: '2022-09-01T09:42:55.131Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 ## References
 
 - Dennett, Daniel C. (2006). Breaking the Spell. New York: Viking. ISBN 067003472X.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Belief**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

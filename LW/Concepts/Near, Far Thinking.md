@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0fa
 title: Near/Far Thinking
-href: https://lesswrong.com/tag/near-far-thinking
+href: https://www.lesswrong.com/tag/near-far-thinking
 slug: near-far-thinking
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:37.225Z'
+synchedAt: '2022-09-01T09:42:34.287Z'
 status: todo
 ---
 
@@ -48,3 +48,16 @@ Near and far are two modes (or a spectrum of modes) in which we can think about 
 - [[Signaling]] (`= [[Signaling]].status`)
 - [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
 - [[Wireheading]] (`= [[Wireheading]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Near, Far Thinking**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

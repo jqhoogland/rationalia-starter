@@ -1,14 +1,14 @@
 ---
 _id: wBoHTJs9iQzczNtW3
 title: Robust Agents
-href: https://lesswrong.com/tag/robust-agents
+href: https://www.lesswrong.com/tag/robust-agents
 slug: robust-agents
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:23.293Z'
+synchedAt: '2022-09-01T09:42:24.359Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 ## See Also
 
 - [[Agency]] (`= [[Agency]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Robust Agents**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

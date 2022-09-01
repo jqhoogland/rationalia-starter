@@ -1,14 +1,14 @@
 ---
 _id: AADZcNS24mmSfPp2w
 title: Communication Cultures
-href: https://lesswrong.com/tag/communication-cultures
+href: https://www.lesswrong.com/tag/communication-cultures
 slug: communication-cultures
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.811Z'
+synchedAt: '2022-09-01T09:42:52.850Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Notable Communication Cultures (these are usually contrasted along some dimensio
 See also: [[Simulacrum Levels]]
 
 *Tag Status: C-Class*
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Communication Cultures**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

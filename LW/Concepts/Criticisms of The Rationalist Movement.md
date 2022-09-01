@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb345
 title: Criticisms of The Rationalist Movement
-href: https://lesswrong.com/tag/criticisms-of-the-rationalist-movement
+href: https://www.lesswrong.com/tag/criticisms-of-the-rationalist-movement
 slug: criticisms-of-the-rationalist-movement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:33.912Z'
+synchedAt: '2022-09-01T09:42:51.265Z'
 status: todo
 ---
 
@@ -62,3 +62,16 @@ As such, the fringe nature of transhumanist ideas such as [[Cryonics|cryonics]],
 14. [http://idlewords.com/talks/superintelligence.htm](http://idlewords.com/talks/superintelligence.htm)[↩](#fnref14)
 15. [http://rationalwiki.org/wiki/Cybernetic_revolt](http://rationalwiki.org/wiki/Cybernetic_revolt)[↩](#fnref15)
 16. [http://rationalwiki.org/wiki/Transhumanism](http://rationalwiki.org/wiki/Transhumanism)[↩](#fnref16)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Criticisms of The Rationalist Movement**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

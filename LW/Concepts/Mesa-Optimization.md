@@ -1,14 +1,14 @@
 ---
 _id: NZ67PZ8CkeS6xn27h
 title: Mesa-Optimization
-href: https://lesswrong.com/tag/mesa-optimization
+href: https://www.lesswrong.com/tag/mesa-optimization
 slug: mesa-optimization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:13.546Z'
+synchedAt: '2022-09-01T09:42:35.393Z'
 status: todo
 ---
 
@@ -52,3 +52,16 @@ Some posts that reference optimization daemons:
 
 - ["Cause prioritization for downside-focused value systems"](http://effective-altruism.com/ea/1k4/draft_cause_prioritization_for_downsidefocused/): "Alternatively, perhaps goal preservation becomes more difficult the more capable AI systems become, in which case the future might be controlled by unstable goal functions taking turns over the steering wheel"
 - ["Techniques for optimizing worst-case performance"](https://ai-alignment.com/techniques-for-optimizing-worst-case-performance-39eafec74b99): "The difficulty of optimizing worst-case performance is one of the most likely reasons that I think prosaic AI alignment might turn out to be impossible (if combined with an unlucky empirical situation)." (the phrase "unlucky empirical situation" links to the optimization daemons page on [Arbital](https://arbital.com/))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mesa-Optimization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

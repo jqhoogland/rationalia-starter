@@ -1,14 +1,14 @@
 ---
 _id: XYHzLjwYiqpeqaf4c
 title: Dark Arts
-href: https://lesswrong.com/tag/dark-arts
+href: https://www.lesswrong.com/tag/dark-arts
 slug: dark-arts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.915Z'
+synchedAt: '2022-09-01T09:42:50.868Z'
 status: todo
 ---
 
@@ -56,3 +56,16 @@ Many futurists expect that a technological singularity of even a very mild chara
 - [Mind-killer](https://lessestwrong.com/tag/mind-killer)
 - [Not technically a lie](https://lessestwrong.com/tag/not-technically-a-lie)
 - [Inferential distance](https://lessestwrong.com/tag/inferential-distance)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Dark Arts**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 69L5E2XPqdMF2B3gw
 title: Internal Double Crux
-href: https://lesswrong.com/tag/internal-double-crux
+href: https://www.lesswrong.com/tag/internal-double-crux
 slug: internal-double-crux
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:04.604Z'
+synchedAt: '2022-09-01T09:42:38.284Z'
 aliases:
   - IDC
 status: todo
@@ -28,3 +28,16 @@ For those who find formal instructions helpful, these are the four instructions 
 The current best writeups are in [the CFAR Handbook](https://www.lesswrong.com/posts/Z9cbwuevS9cqaR96h/cfar-participant-handbook-now-available-to-all) and in Alkjash's [Hammertime sequence](https://www.lesswrong.com/posts/mQmx4kQQtHeBip9ZC/internal-double-crux).
 
 For a similar technique that IDC is arguably a special case of, see [[Internal Family Systems]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Internal Double Crux**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

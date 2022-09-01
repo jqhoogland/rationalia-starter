@@ -1,14 +1,14 @@
 ---
 _id: dPPATLhRmhdJtJM2t
 title: Decision Theory
-href: https://lesswrong.com/tag/decision-theory
+href: https://www.lesswrong.com/tag/decision-theory
 slug: decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.009Z'
+synchedAt: '2022-09-01T09:42:50.565Z'
 status: todo
 ---
 
@@ -80,3 +80,16 @@ Other decision theories are listed in [A comprehensive list of decision theories
 - [Evidential Decision Theory](https://lessestwrong.com/tag/evidential-decision-theory)
 - [Timeless decision theory](https://lessestwrong.com/tag/timeless-decision-theory), [Updateless decision theory](https://lessestwrong.com/tag/updateless-decision-theory)
 - [AIXI](https://lessestwrong.com/tag/aixi)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

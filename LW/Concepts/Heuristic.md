@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb12f
 title: Heuristic
-href: https://lesswrong.com/tag/heuristic
+href: https://www.lesswrong.com/tag/heuristic
 slug: heuristic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:27.751Z'
+synchedAt: '2022-09-01T09:42:41.020Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ A **heuristic** is a quick, intuitive strategy for reasoning or decision making,
 ## See Also
 
 - [[Bias]] (`= [[Bias]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Heuristic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

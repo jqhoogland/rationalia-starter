@@ -1,14 +1,14 @@
 ---
 _id: KQP7fNjin8Zqg4N2x
 title: Double-Crux
-href: https://lesswrong.com/tag/double-crux
+href: https://www.lesswrong.com/tag/double-crux
 slug: double-crux
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:09.399Z'
+synchedAt: '2022-09-01T09:42:49.506Z'
 aliases:
   - Double Crux
 status: todo
@@ -27,3 +27,16 @@ A version of the technique is described in [Double Crux – A Strategy for Resol
 ## See Also
 
 - [Gleanings from Double Crux on “The Craft is Not The Community”](https://srconstantin.wordpress.com/2017/08/30/gleanings-from-double-crux-on-the-craft-is-not-the-community/) \- a writeup of Double-Crux being used in practice.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Double-Crux**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

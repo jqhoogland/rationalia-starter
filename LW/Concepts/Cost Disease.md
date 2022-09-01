@@ -1,14 +1,14 @@
 ---
 _id: 8XiMxJaWbjNtWLsEj
 title: Cost Disease
-href: https://lesswrong.com/tag/cost-disease
+href: https://www.lesswrong.com/tag/cost-disease
 slug: cost-disease
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:26.474Z'
+synchedAt: '2022-09-01T09:42:51.737Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Often the questions being asked in Cost Disease discussion are why the cost heal
 **External Posts:**
 
 [Book Review: Why Are The Prices So D*mn High?](https://slatestarcodex.com/2019/06/10/book-review-the-prices-are-too-dmn-high/) \- Scott Alexander
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cost Disease**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

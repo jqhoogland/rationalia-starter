@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb31e
 title: Dangling Node
 slug: dangling-node
 href: https://www.lesswrong.com/tag/dangling-node
-synchedAt: '2022-08-30T12:47:57.362Z'
+synchedAt: '2022-09-01T09:42:50.877Z'
 tags:
   - LessWrong
   - Tag
@@ -29,3 +29,16 @@ Blog posts
 ----------
 
 * [[How An Algorithm Feels From Inside]] by [[Eliezer Yudkowsky]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Dangling Node**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

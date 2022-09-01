@@ -1,14 +1,14 @@
 ---
 _id: PJKgSRkXkCqXmCk3M
 title: Mind Projection Fallacy
-href: https://lesswrong.com/tag/mind-projection-fallacy
+href: https://www.lesswrong.com/tag/mind-projection-fallacy
 slug: mind-projection-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:27.388Z'
+synchedAt: '2022-09-01T09:42:35.188Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Physicist and [Bayesian](https://lessestwrong.com/tag/bayesianism) philosopher [
 - [Magic](https://lessestwrong.com/tag/magic)
 - [The map is not the territory](https://lessestwrong.com/tag/the-map-is-not-the-territory)
 - [2-place and 1-place words](https://lessestwrong.com/tag/2-place-and-1-place-words)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mind Projection Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

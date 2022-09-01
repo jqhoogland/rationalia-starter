@@ -1,14 +1,14 @@
 ---
 _id: bTeiZr6YAEaSPQTC8
 title: Solomonoff Induction
-href: https://lesswrong.com/tag/solomonoff-induction
+href: https://www.lesswrong.com/tag/solomonoff-induction
 slug: solomonoff-induction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:27.987Z'
+synchedAt: '2022-09-01T09:42:22.981Z'
 status: todo
 ---
 
@@ -50,3 +50,16 @@ Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability
 ## References
 
 - [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability) on Scholarpedia
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Solomonoff Induction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

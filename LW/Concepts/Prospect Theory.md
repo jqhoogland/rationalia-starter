@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1c3
 title: Prospect Theory
-href: https://lesswrong.com/tag/prospect-theory
+href: https://www.lesswrong.com/tag/prospect-theory
 slug: prospect-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:01.943Z'
+synchedAt: '2022-09-01T09:42:26.567Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ An agent, in prospect theory:
 - [[Loss Aversion|Loss aversion]] (`= [[Loss Aversion|Loss aversion]].status`)
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
 - [[Expected Utility|Expected utility]] (`= [[Expected Utility|Expected utility]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Prospect Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

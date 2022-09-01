@@ -1,14 +1,14 @@
 ---
 _id: ouT6wKhACJRouGokM
 title: Moral Uncertainty
-href: https://lesswrong.com/tag/moral-uncertainty
+href: https://www.lesswrong.com/tag/moral-uncertainty
 slug: moral-uncertainty
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:23.851Z'
+synchedAt: '2022-09-01T09:42:34.961Z'
 status: todo
 ---
 
@@ -43,3 +43,16 @@ Even with a high degree of moral uncertainty and a wide range of possible moral 
 1. Crouch, William. (2010) “Moral Uncertainty and Intertheoretic Comparisons of Value” BPhil Thesis, 2010. p. 6. Available at: [http://oxford.academia.edu/WilliamCrouch/Papers/873903/Moral\_Uncertainty\_and\_Intertheoretic\_Comparisons\_of\_Value](http://oxford.academia.edu/WilliamCrouch/Papers/873903/Moral_Uncertainty_and_Intertheoretic_Comparisons_of_Value)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref1)
 2. Sepielli, Andrew. (2008) “Moral Uncertainty and the Principle of Equity among Moral Theories". ISUS-X, Tenth Conference of the International Society for Utilitarian Studies, Kadish Center for Morality, Law and Public Affairs, UC Berkeley. Available at: [http://escholarship.org/uc/item/7h5852rr.pdf](http://escholarship.org/uc/item/7h5852rr.pdf)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref2)
 3. Bostrom, Nick. (2012) "Existential Risk Reduction as the Most Important Task for Humanity" Global Policy, forthcoming, 2012. p. 22. Available at: [http://www.existential-risk.org/concept.pdf](http://www.existential-risk.org/concept.pdf)[↩](https://www.lesswrong.com/tag/moral-uncertainty#fnref3)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Moral Uncertainty**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

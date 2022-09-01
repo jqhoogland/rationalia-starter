@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b4
 title: Offense
-href: https://lesswrong.com/tag/offense
+href: https://www.lesswrong.com/tag/offense
 slug: offense
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:52.064Z'
+synchedAt: '2022-09-01T09:42:33.834Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ It is hypothesized that the [[Emotions|emotion]] of **offense** appears when one
 ## See Also
 
 - [[Social Status|Status]] (`= [[Social Status|Status]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Offense**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

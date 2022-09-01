@@ -1,14 +1,14 @@
 ---
 _id: W6QZYSNt5FgWgvbdT
 title: Coherent Extrapolated Volition
-href: https://lesswrong.com/tag/coherent-extrapolated-volition
+href: https://www.lesswrong.com/tag/coherent-extrapolated-volition
 slug: coherent-extrapolated-volition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:12.780Z'
+synchedAt: '2022-09-01T09:42:53.158Z'
 status: todo
 ---
 
@@ -52,3 +52,16 @@ The main problems with CEV include, firstly, the great difficulty of implementin
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
 - [[Coherent Aggregated Volition]] (`= [[Coherent Aggregated Volition]].status`)
 - [Roko's basilisk](https://wiki.lesswrong.com/wiki/Roko's_basilisk)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Coherent Extrapolated Volition**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

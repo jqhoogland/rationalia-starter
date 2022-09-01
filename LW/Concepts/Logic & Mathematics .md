@@ -1,14 +1,14 @@
 ---
 _id: 6nS8oYmSMuFMaiowF
 title: 'Logic & Mathematics '
-href: https://lesswrong.com/tag/logic-and-mathematics
+href: https://www.lesswrong.com/tag/logic-and-mathematics
 slug: logic-and-mathematics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:15.277Z'
+synchedAt: '2022-09-01T09:42:36.752Z'
 status: todo
 ---
 
@@ -24,3 +24,16 @@ status: todo
 - [[Logical Uncertainty]] (`= [[Logical Uncertainty]].status`)
 - [[Logical Induction]] (`= [[Logical Induction]].status`)
 - [[Probability & Statistics]] (`= [[Probability & Statistics]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Logic & Mathematics **?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

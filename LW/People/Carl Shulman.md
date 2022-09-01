@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1e5
 title: Carl Shulman
-href: https://lesswrong.com/tag/carl-shulman
+href: https://www.lesswrong.com/tag/carl-shulman
 slug: carl-shulman
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:20.008Z'
+synchedAt: '2022-09-01T09:42:16.408Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Previously, he worked at Clarium Capital Management, a global macro hedge fund, 
 - [Timeline of Carl Shulman publications](http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/)
     - [More up-to-date and comprehensive timeline of publications](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications)
 - [80,000 Hours Carl Shulman’s profile](http://80000hours.org/members/carl-shulman)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Carl Shulman**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5SPDtxJT6y6ZTXHBJ
 title: Simulacrum Levels
-href: https://lesswrong.com/tag/simulacrum-levels
+href: https://www.lesswrong.com/tag/simulacrum-levels
 slug: simulacrum-levels
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.360Z'
+synchedAt: '2022-09-01T09:42:23.321Z'
 status: todo
 ---
 
@@ -57,3 +57,16 @@ Zvi [describes](https://www.lesswrong.com/posts/v6NBpQc2AzWjzxJ4S/the-four-child
 * * *
 
 The origin of this framework is in [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation) by sociologist [Jean Baudrillard](https://en.wikipedia.org/wiki/Jean_Baudrillard).
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Simulacrum Levels**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

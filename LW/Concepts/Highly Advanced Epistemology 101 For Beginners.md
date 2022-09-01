@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2ea
 title: Highly Advanced Epistemology 101 For Beginners
-href: https://lesswrong.com/tag/highly-advanced-epistemology-101-for-beginners
+href: https://www.lesswrong.com/tag/highly-advanced-epistemology-101-for-beginners
 slug: highly-advanced-epistemology-101-for-beginners
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:19.970Z'
+synchedAt: '2022-09-01T09:42:41.001Z'
 status: todo
 ---
 
@@ -43,3 +43,16 @@ status: todo
 
 - [Mixed Reference: The Great Reductionist Project](http://lesswrong.com/lw/frz/mixed_reference_the_great_reductionist_project/)
 - [By Which It May Be Judged](http://lesswrong.com/lw/fv3/by_which_it_may_be_judged/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Highly Advanced Epistemology 101 For Beginners**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

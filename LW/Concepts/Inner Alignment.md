@@ -1,14 +1,14 @@
 ---
 _id: Dw5Z6wtTgk4Fikz9f
 title: Inner Alignment
-href: https://lesswrong.com/tag/inner-alignment
+href: https://www.lesswrong.com/tag/inner-alignment
 slug: inner-alignment
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:13.807Z'
+synchedAt: '2022-09-01T09:42:38.907Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ The term was first given a definition in the Hubinger et al paper *Risk from Lea
 ## External Links:
 
 [Video by Robert Miles](https://www.youtube.com/watch?v=bJLcIBixGj8)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Inner Alignment**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

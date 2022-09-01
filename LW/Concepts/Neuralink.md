@@ -1,14 +1,14 @@
 ---
 _id: u4eLsvP4kY2qxxsr4
 title: Neuralink
-href: https://lesswrong.com/tag/neuralink
+href: https://www.lesswrong.com/tag/neuralink
 slug: neuralink
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:12.012Z'
+synchedAt: '2022-09-01T09:42:34.275Z'
 status: todo
 ---
 
@@ -17,3 +17,16 @@ status: todo
 **Neuralink** is a company founded by Elon Musk that does human-brain interfacing.
 
 See also: [[Neuroscience]], [Brain-Computer Interfaces](brain-computer-interfaces)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Neuralink**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2fc
 title: Luke Muehlhauser
-href: https://lesswrong.com/tag/luke-muehlhauser
+href: https://www.lesswrong.com/tag/luke-muehlhauser
 slug: luke-muehlhauser
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:13.585Z'
+synchedAt: '2022-09-01T09:42:16.140Z'
 status: todo
 ---
 
@@ -22,3 +22,16 @@ status: todo
 - [LW account](http://lesswrong.com/user/lukeprog/)
 - [Twitter](https://twitter.com/lukeprog)
 - [Open Philanthropy website page](https://www.openphilanthropy.org/about/team/luke-muehlhauser)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Luke Muehlhauser**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

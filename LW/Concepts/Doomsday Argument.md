@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2f5
 title: Doomsday Argument
-href: https://lesswrong.com/tag/doomsday-argument
+href: https://www.lesswrong.com/tag/doomsday-argument
 slug: doomsday-argument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:31.012Z'
+synchedAt: '2022-09-01T09:42:49.534Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ The doomsday argument relies on the [[Self-Sampling Assumption|self-sampling ass
 - [[Observation Selection Effect|Observation selection effect]] (`= [[Observation Selection Effect|Observation selection effect]].status`)
 - [[Great Filter]] (`= [[Great Filter]].status`)
 - [How Many People Have Ever Lived on Earth?](https://www.prb.org/howmanypeoplehaveeverlivedonearth/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Doomsday Argument**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: GKffzsk2bKssZGRva
 title: Improving the LessWrong Wiki
-href: https://lesswrong.com/tag/improving-the-lesswrong-wiki
+href: https://www.lesswrong.com/tag/improving-the-lesswrong-wiki
 slug: improving-the-lesswrong-wiki
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:13.847Z'
+synchedAt: '2022-09-01T09:42:39.521Z'
 status: todo
 ---
 
@@ -49,3 +49,16 @@ Some pages I have edited to be the style of what I think should be all pages
     - With a little more work I think it could be the best single page introduction to EA
 - [[Forecasting & Prediction|https://www.lesswrong.com/tag/forecasting-and-prediction]] (`= [[Forecasting & Prediction|https://www.lesswrong.com/tag/forecasting-and-prediction]].status`)
     - A better overview of the topic
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Improving the LessWrong Wiki**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

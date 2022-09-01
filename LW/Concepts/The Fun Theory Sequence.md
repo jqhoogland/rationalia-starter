@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb21c
 title: The Fun Theory Sequence
-href: https://lesswrong.com/tag/the-fun-theory-sequence
+href: https://www.lesswrong.com/tag/the-fun-theory-sequence
 slug: the-fun-theory-sequence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:17.774Z'
+synchedAt: '2022-09-01T09:42:21.194Z'
 status: todo
 ---
 
@@ -48,3 +48,16 @@ A guide to this sequence is available at [The Fun Theory Sequence (post)](http:/
 ## See Also
 
 - [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Fun Theory Sequence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

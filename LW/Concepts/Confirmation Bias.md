@@ -1,14 +1,14 @@
 ---
 _id: 5hpGj9nDLgokfghvR
 title: Confirmation Bias
-href: https://lesswrong.com/tag/confirmation-bias
+href: https://www.lesswrong.com/tag/confirmation-bias
 slug: confirmation-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:27.415Z'
+synchedAt: '2022-09-01T09:42:52.350Z'
 aliases:
   - Positive bias
 status: todo
@@ -26,3 +26,16 @@ status: todo
 - [On the Failure to Eliminate Hypotheses in a Conceptual Task](http://psy2.ucsd.edu/~mckenzie/Wason1960QJEP.pdf) by P.C. Wason
 - [Write Your Hypothetical Apostasy](https://www.overcomingbias.com/2009/02/write-your-hypothetical-apostasy.html) by [[Nick Bostrom]]
 - [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias), Wikipedia
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Confirmation Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

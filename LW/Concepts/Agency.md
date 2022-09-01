@@ -1,14 +1,14 @@
 ---
 _id: GDGYkF29pxEQNWjYc
 title: Agency
-href: https://lesswrong.com/tag/agency
+href: https://www.lesswrong.com/tag/agency
 slug: agency
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:17.559Z'
+synchedAt: '2022-09-01T09:42:57.892Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ One might lack agency for internal reasons, e.g., one is a rock which has no goa
 ## See Also
 
 - [[Robust Agents|Robust Agency]] (`= [[Robust Agents|Robust Agency]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Agency**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

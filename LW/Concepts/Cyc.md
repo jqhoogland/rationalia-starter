@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2bb
 title: Cyc
-href: https://lesswrong.com/tag/cyc
+href: https://www.lesswrong.com/tag/cyc
 slug: cyc
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:35.507Z'
+synchedAt: '2022-09-01T09:42:50.930Z'
 status: todo
 ---
 
@@ -69,3 +69,16 @@ Many AI researchers criticize the Cyc project for its lack of theoretical founda
 - Lenat, Douglas; Guha, R. V. (1990). *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*. Addison-Wesley. ISBN 0-201-51752-3.
 - Lenat, Douglas; Miller, George; Yokoi, Toshio (November 1995). "[CYC, WordNet, and EDR: Critiques and Responses](http://www.cs.uga.edu/~xiong/8351/lenat.pdf)". *Communications of the ACM* **38** (11): 45-48.
 - Jared Friedman (October 2003). "[The Sole Contender for AI](http://www.scribd.com/doc/1814/An-Article-about-the-Cyc-Project)". *Harvard Science Review*.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Cyc**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

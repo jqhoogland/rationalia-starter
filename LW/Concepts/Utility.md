@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb197
 title: Utility
-href: https://lesswrong.com/tag/utility
+href: https://www.lesswrong.com/tag/utility
 slug: utility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:25.073Z'
+synchedAt: '2022-09-01T09:42:19.218Z'
 status: todo
 ---
 
@@ -45,3 +45,16 @@ Some people prefer to keep [a distinction between two types of utility](https://
 - [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]] (`= [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]].status`)
 - [[Preference]] (`= [[Preference]].status`)
 - [[Game Theory|Game theory]] (`= [[Game Theory|Game theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Utility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

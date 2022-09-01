@@ -1,14 +1,14 @@
 ---
 _id: TLrqSmzoGoA3v5tNP
 title: Fact posts
-href: https://lesswrong.com/tag/fact-posts
+href: https://www.lesswrong.com/tag/fact-posts
 slug: fact-posts
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:04.562Z'
+synchedAt: '2022-09-01T09:42:47.599Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ Fact posts were introduced in **[[Fact Posts: How and Why|Fact Posts: How and Wh
 > And then you start letting the data show you things. 
 >
 > You see things that are surprising or odd, and you note that. \[continues\]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fact posts**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

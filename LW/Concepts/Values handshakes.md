@@ -1,14 +1,14 @@
 ---
 _id: zYPQsxiMcTiY4yE3S
 title: Values handshakes
-href: https://lesswrong.com/tag/values-handshakes
+href: https://www.lesswrong.com/tag/values-handshakes
 slug: values-handshakes
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.560Z'
+synchedAt: '2022-09-01T09:42:18.896Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ status: todo
 > Although they would have the usual peace treaty options, like giving half the universe to each of them, superintelligences that trusted each other would have an additional, more attractive option. They could merge into a superintelligence that shared the values of both parent intelligences in proportion to their strength (or chance of military victory, or whatever). So if there’s a 60% chance our AI would win, and a 40% chance their AI would win, and both AIs know and agree on these odds, they might both rewrite their own programming with that of a previously-agreed-upon child superintelligence trying to convert the universe to paperclips and thumbtacks in a 60-40 mix.
 
 > This has a lot of advantages over the half-the-universe-each treaty proposal. For one thing, if some resources were better for making paperclips, and others for making thumbtacks, both AIs could use all their resources maximally efficiently without having to trade. And if they were ever threatened by a third party, they would be able to present a completely unified front.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Values handshakes**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

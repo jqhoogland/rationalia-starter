@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb22c
 title: Parfit's Hitchhiker
-href: https://lesswrong.com/tag/parfits-hitchhiker
+href: https://www.lesswrong.com/tag/parfits-hitchhiker
 slug: parfits-hitchhiker
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:37.882Z'
+synchedAt: '2022-09-01T09:42:30.687Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ MIRI's newest decision theory, [[Functional Decision Theory]] (FDT), notes that,
 - [[Sleeping Beauty Paradox|Sleeping Beauty problem]] (`= [[Sleeping Beauty Paradox|Sleeping Beauty problem]].status`)
 - [[Prisoner's Dilemma|Prisoner's dilemma]] (`= [[Prisoner's Dilemma|Prisoner's dilemma]].status`)
 - [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Parfit's Hitchhiker**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

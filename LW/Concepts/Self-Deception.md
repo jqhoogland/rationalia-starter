@@ -1,14 +1,14 @@
 ---
 _id: YTCrHWYHAsAD74EHo
 title: Self-Deception
-href: https://lesswrong.com/tag/self-deception
+href: https://www.lesswrong.com/tag/self-deception
 slug: self-deception
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:20.579Z'
+synchedAt: '2022-09-01T09:42:23.889Z'
 status: todo
 ---
 
@@ -55,3 +55,16 @@ An example from [No, Really, I've Deceived Myself](https://www.lesswrong.com/pos
 - [Anti-epistemology](https://wiki.lesswrong.com/wiki/Anti-epistemology), [Belief in belief](https://wiki.lesswrong.com/wiki/Belief_in_belief)
 - [Semantic stopsign](https://wiki.lesswrong.com/wiki/Semantic_stopsign), [Compartmentalization](https://wiki.lesswrong.com/wiki/Compartmentalization), [Motivated skepticism](https://wiki.lesswrong.com/wiki/Motivated_skepticism)
 - [Improper belief](https://wiki.lesswrong.com/wiki/Improper_belief), [Truth](https://wiki.lesswrong.com/wiki/Truth)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Self-Deception**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

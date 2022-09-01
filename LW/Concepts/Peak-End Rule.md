@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb199
 title: Peak-End Rule
-href: https://lesswrong.com/tag/peak-end-rule
+href: https://www.lesswrong.com/tag/peak-end-rule
 slug: peak-end-rule
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:21.424Z'
+synchedAt: '2022-09-01T09:42:30.662Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ According to the **peak-end rule**, we judge our past experiences almost entirel
 ## See Also
 
 - [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Peak-End Rule**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

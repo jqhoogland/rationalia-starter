@@ -1,14 +1,14 @@
 ---
 _id: cCK3fDdH9vHjrf2yP
 title: Bounties & Prizes (active)
-href: https://lesswrong.com/tag/bounties-and-prizes-active
+href: https://www.lesswrong.com/tag/bounties-and-prizes-active
 slug: bounties-and-prizes-active
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:16.393Z'
+synchedAt: '2022-09-01T09:42:54.699Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Bounties might be listed in the post itself or in its comments. 
 *If you're hosting a bounty, please make sure to change the tags to indicate the status of the bounty. *
 
 See also: [[Bounties (closed)]], [[Grants & Fundraising Opportunities|Grants and fundraising opportunities]], [Bountied Rationality Facebook group](https://www.facebook.com/groups/1781724435404945/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Bounties & Prizes (active)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

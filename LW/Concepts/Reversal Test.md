@@ -1,14 +1,14 @@
 ---
 _id: DsdbQhWAnPqfzo4Yw
 title: Reversal Test
-href: https://lesswrong.com/tag/reversal-test
+href: https://www.lesswrong.com/tag/reversal-test
 slug: reversal-test
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:14.887Z'
+synchedAt: '2022-09-01T09:42:24.775Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ For example, if it became possible to increase the human lifespan, some would ar
 ## External Links
 
 - ["The Reversal Test and Status Quo Bias"](http://philosophicaldisquisitions.blogspot.com/2012/11/the-reversal-test-and-status-quo-bias.html) (John Danaher)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reversal Test**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

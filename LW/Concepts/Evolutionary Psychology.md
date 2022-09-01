@@ -1,14 +1,14 @@
 ---
 _id: exZi6Bing5AiM4ZQB
 title: Evolutionary Psychology
-href: https://lesswrong.com/tag/evolutionary-psychology
+href: https://www.lesswrong.com/tag/evolutionary-psychology
 slug: evolutionary-psychology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:16.161Z'
+synchedAt: '2022-09-01T09:42:48.037Z'
 status: todo
 ---
 
@@ -48,3 +48,16 @@ Some of the key ideas of evolutionary psychology are these:
 - [[Adaptation Executors|Adaptation executers]] (`= [[Adaptation Executors|Adaptation executers]].status`)
 - [Corrupted hardware](https://wiki.lesswrong.com/wiki/Corrupted_hardware)
 - [[Psychology]] (`= [[Psychology]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Evolutionary Psychology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

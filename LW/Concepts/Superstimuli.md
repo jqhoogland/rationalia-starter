@@ -1,14 +1,14 @@
 ---
 _id: kEX5CzbfiAzGn4q8B
 title: Superstimuli
-href: https://lesswrong.com/tag/superstimuli
+href: https://www.lesswrong.com/tag/superstimuli
 slug: superstimuli
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:17.983Z'
+synchedAt: '2022-09-01T09:42:21.922Z'
 aliases:
   - superstimulus
 status: todo
@@ -38,3 +38,16 @@ Humans evolved various desires that promoted survival and reproductive success i
 - [Akrasia](https://lessestwrong.com/tag/akrasia)
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
 - [Evolutionary psychology](https://lessestwrong.com/tag/evolutionary-psychology)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Superstimuli**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

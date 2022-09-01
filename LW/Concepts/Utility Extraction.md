@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2dc
 title: Utility Extraction
-href: https://lesswrong.com/tag/utility-extraction
+href: https://www.lesswrong.com/tag/utility-extraction
 slug: utility-extraction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:15.051Z'
+synchedAt: '2022-09-01T09:42:19.250Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ Another possibility is described in [The Singularity and Machine Ethics](http://
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
 - [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Utility Extraction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

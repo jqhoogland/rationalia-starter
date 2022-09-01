@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb342
 title: Rationalist Movement
-href: https://lesswrong.com/tag/rationalist-movement
+href: https://www.lesswrong.com/tag/rationalist-movement
 slug: rationalist-movement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:43.546Z'
+synchedAt: '2022-09-01T09:42:25.697Z'
 status: todo
 ---
 
@@ -143,3 +143,16 @@ The culture is often defined by its saying such as those featured in [rationalis
 20. [http://slatestarcodex.com/2013/04/06/polyamory-is-boring/](http://slatestarcodex.com/2013/04/06/polyamory-is-boring/)[↩](#fnref21)
 21. [http://www.jdpressman.com/public/lwsurvey2016/Survey\_554193\_LessWrong\_Diaspora\_2016_Survey(2).pdf](http://www.jdpressman.com/public/lwsurvey2016/Survey_554193_LessWrong_Diaspora_2016_Survey(2).pdf)[↩](#fnref22)
 22. [Note on Terminology: "Rationality", not "Rationalism"](http://lesswrong.com/lw/3rd/note_on_terminology_rationality_not_rationalism/)[↩](#fnref23)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationalist Movement**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

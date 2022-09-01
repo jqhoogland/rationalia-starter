@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb117
 title: Tsuyoku Naritai
-href: https://lesswrong.com/tag/tsuyoku-naritai
+href: https://www.lesswrong.com/tag/tsuyoku-naritai
 slug: tsuyoku-naritai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:04.970Z'
+synchedAt: '2022-09-01T09:42:19.983Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ status: todo
 - [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
 - [[Challenging The Difficult|Challenging the Difficult]] (`= [[Challenging The Difficult|Challenging the Difficult]].status`)
 - [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Tsuyoku Naritai**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

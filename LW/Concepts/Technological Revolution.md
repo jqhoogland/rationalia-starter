@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2db
 title: Technological Revolution
-href: https://lesswrong.com/tag/technological-revolution
+href: https://www.lesswrong.com/tag/technological-revolution
 slug: technological-revolution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:15.244Z'
+synchedAt: '2022-09-01T09:42:21.645Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Many economists and sociologists have dedicated several papers to try to model a
 4. Hanson, Robin. "Economic Growth Given Machine Intelligence"[http://hanson.gmu.edu/aigrow.pdf](http://hanson.gmu.edu/aigrow.pdf)[↩](#fnref4)
 5. Hughes, James (2004). "Citizen Cyborg: Why Democratic Societies Must Respond to the Redesigned Human of the Future." Westview Press[↩](#fnref5)
 6. Caselli, Francesco. (1999) "Technological Revolutions." American Economic Review, 89(1): 78–102. DOI:10.1257/aer.89.1.78.Availabe at: [http://personal.lse.ac.uk/casellif/papers/techrev.pdf](http://personal.lse.ac.uk/casellif/papers/techrev.pdf)[↩](#fnref6)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Technological Revolution**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

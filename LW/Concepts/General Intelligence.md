@@ -1,14 +1,14 @@
 ---
 _id: ac84EpK6mZbPLzmqj
 title: General Intelligence
-href: https://lesswrong.com/tag/general-intelligence
+href: https://www.lesswrong.com/tag/general-intelligence
 slug: general-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:23.134Z'
+synchedAt: '2022-09-01T09:42:42.427Z'
 status: todo
 ---
 
@@ -66,3 +66,16 @@ This definition avoids several problems common in many others definitions, espec
 2. ^**[^](#fnref7hbpdfpe6x3)**^
 
     <http://intelligence.org/files/IE-EI.pdf>
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **General Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

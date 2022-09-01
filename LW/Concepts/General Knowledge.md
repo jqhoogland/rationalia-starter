@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb15b
 title: General Knowledge
-href: https://lesswrong.com/tag/general-knowledge
+href: https://www.lesswrong.com/tag/general-knowledge
 slug: general-knowledge
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:47.527Z'
+synchedAt: '2022-09-01T09:42:42.417Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ Interdisciplinary, generally applicable knowledge is rarely taught explicitly. Y
 - [[Science]] (`= [[Science]].status`)
 - [[Scholarship & Learning|Scholarship]] (`= [[Scholarship & Learning|Scholarship]].status`)
 - [[Understanding]] (`= [[Understanding]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **General Knowledge**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

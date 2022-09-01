@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb277
 title: Configuration Space
-href: https://lesswrong.com/tag/configuration-space
+href: https://www.lesswrong.com/tag/configuration-space
 slug: configuration-space
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:31.039Z'
+synchedAt: '2022-09-01T09:42:52.350Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ A **configuration space** is an isomorphism between the *attributes* of somethin
 - [[Superexponential Conceptspace|Superexponential conceptspace]] (`= [[Superexponential Conceptspace|Superexponential conceptspace]].status`)
 - [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
 - [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Configuration Space**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

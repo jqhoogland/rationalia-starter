@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb13b
 title: Scales of Justice Fallacy
-href: https://lesswrong.com/tag/scales-of-justice-fallacy
+href: https://www.lesswrong.com/tag/scales-of-justice-fallacy
 slug: scales-of-justice-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:47.027Z'
+synchedAt: '2022-09-01T09:42:24.331Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ The **scales of justice fallacy** refers to the error of using a simple polarize
 - [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
 - [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
 - [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Scales of Justice Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

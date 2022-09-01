@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb23b
 title: Epistemic Luck
-href: https://lesswrong.com/tag/epistemic-luck
+href: https://www.lesswrong.com/tag/epistemic-luck
 slug: epistemic-luck
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:44.159Z'
+synchedAt: '2022-09-01T09:42:48.688Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ It has been noted that one's feelings about [Decision Theory](/tag/decision-theo
 ## External Links
 
 - [Epistemic Luck](http://www.iep.utm.edu/epi-luck/), at the Internet Encyclopedia of Philosophy
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Epistemic Luck**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

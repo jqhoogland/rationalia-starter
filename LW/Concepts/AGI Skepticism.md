@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb28d
 title: AGI Skepticism
-href: https://lesswrong.com/tag/agi-skepticism
+href: https://www.lesswrong.com/tag/agi-skepticism
 slug: agi-skepticism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:12.923Z'
+synchedAt: '2022-09-01T09:43:02.815Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ There are also skeptics who think that the prospect of near-term AGI seems remot
 - [[Unfriendly Artificial Intelligence]] (`= [[Unfriendly Artificial Intelligence]].status`)
 - [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
 - [[Economic Consequences of AGI|Economic Consequences of AI]] (`= [[Economic Consequences of AGI|Economic Consequences of AI]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AGI Skepticism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

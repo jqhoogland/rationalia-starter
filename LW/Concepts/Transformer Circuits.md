@@ -1,15 +1,28 @@
 ---
 _id: xi9JLxEtEoPCgRXRj
 title: Transformer Circuits
-href: https://lesswrong.com/tag/transformer-circuits
+href: https://www.lesswrong.com/tag/transformer-circuits
 slug: transformer-circuits
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:17.348Z'
+synchedAt: '2022-09-01T09:42:20.503Z'
 status: todo
 ---
 
 # Transformer Circuits
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Transformer Circuits**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

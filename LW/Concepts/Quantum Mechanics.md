@@ -1,14 +1,14 @@
 ---
 _id: nBCLy89Nqd8ouR6XT
 title: Quantum Mechanics
-href: https://lesswrong.com/tag/quantum-mechanics
+href: https://www.lesswrong.com/tag/quantum-mechanics
 slug: quantum-mechanics
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.615Z'
+synchedAt: '2022-09-01T09:42:26.172Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ In spite of that, quantum mechanics is a mature field, and even if there's some 
 
 - [The Quantum Physics Sequence](https://www.lessestwrong.com/lw/r5/the_quantum_physics_sequence/) – this is really the best place to get started on the topic.
 - Quantum Mechanics thing by Michael Nielsen
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Quantum Mechanics**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

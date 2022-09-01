@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1c8
 title: Loss Aversion
-href: https://lesswrong.com/tag/loss-aversion
+href: https://www.lesswrong.com/tag/loss-aversion
 slug: loss-aversion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:27.053Z'
+synchedAt: '2022-09-01T09:42:36.869Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ status: todo
 - [[Prospect Theory|Prospect theory]] (`= [[Prospect Theory|Prospect theory]].status`)
 - [Risk aversion](https://wiki.lesswrong.com/wiki/Risk_aversion)
 - [[Sunk-Cost Fallacy|Sunk cost fallacy]] (`= [[Sunk-Cost Fallacy|Sunk cost fallacy]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Loss Aversion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

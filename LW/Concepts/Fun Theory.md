@@ -1,14 +1,14 @@
 ---
 _id: sSNtcEQsqHgN8ZmRF
 title: Fun Theory
-href: https://lesswrong.com/tag/fun-theory
+href: https://www.lesswrong.com/tag/fun-theory
 slug: fun-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:49.418Z'
+synchedAt: '2022-09-01T09:42:43.082Z'
 status: todo
 ---
 
@@ -58,3 +58,16 @@ Fun theory thus seeks to let us keep our curiosity and love of learning intact, 
 - [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
 - [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
 - [[Abolitionism]] (`= [[Abolitionism]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fun Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

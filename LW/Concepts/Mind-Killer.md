@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb129
 title: Mind-Killer
-href: https://lesswrong.com/tag/mind-killer
+href: https://www.lesswrong.com/tag/mind-killer
 slug: mind-killer
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:56.468Z'
+synchedAt: '2022-09-01T09:42:35.193Z'
 status: todo
 ---
 
@@ -54,3 +54,16 @@ Another cause of mind-killers is social taboo. Negative [[Connotation|connotatio
 - [[Dark Arts|Dark arts]] (`= [[Dark Arts|Dark arts]].status`)
 - [[Signaling]] (`= [[Signaling]].status`)
 - [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mind-Killer**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

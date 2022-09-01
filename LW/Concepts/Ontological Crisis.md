@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2c2
 title: Ontological Crisis
-href: https://lesswrong.com/tag/ontological-crisis
+href: https://www.lesswrong.com/tag/ontological-crisis
 slug: ontological-crisis
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:36.565Z'
+synchedAt: '2022-09-01T09:42:32.619Z'
 status: todo
 ---
 
@@ -36,3 +36,16 @@ This crisis, in the context of an [AGI](https://wiki.lesswrong.com/wiki/AGI), co
 
 - [[Evolution]] (`= [[Evolution]].status`)
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Ontological Crisis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

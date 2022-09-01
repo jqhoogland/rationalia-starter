@@ -1,14 +1,14 @@
 ---
 _id: LY3xMQMKSXiYr7rgw
 title: Quantilization
-href: https://lesswrong.com/tag/quantilization
+href: https://www.lesswrong.com/tag/quantilization
 slug: quantilization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:24.475Z'
+synchedAt: '2022-09-01T09:42:26.172Z'
 status: todo
 ---
 
@@ -20,3 +20,16 @@ A **Quantilizer** is a proposed AI design which aims to reduce the harms from [[
 
 - [**Rob Miles's Quantilizers: AI That Doesn't Try Too Hard**](https://www.youtube.com/watch?v=gdKMG6kTl6Y)
 - [**Arbital page on Quantilizers**](https://arbital.com/p/soft_optimizer?l=2r8#Quantilizing)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Quantilization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

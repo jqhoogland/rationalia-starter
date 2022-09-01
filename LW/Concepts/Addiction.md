@@ -8,8 +8,21 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-30T10:38:01.752Z'
+synchedAt: '2022-09-01T09:42:58.212Z'
 status: todo
 ---
 
 # Addiction
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Addiction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

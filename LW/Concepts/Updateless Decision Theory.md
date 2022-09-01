@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1dc
 title: Updateless Decision Theory
-href: https://lesswrong.com/tag/updateless-decision-theory
+href: https://www.lesswrong.com/tag/updateless-decision-theory
 slug: updateless-decision-theory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:47.270Z'
+synchedAt: '2022-09-01T09:42:19.624Z'
 status: todo
 ---
 
@@ -81,3 +81,16 @@ In addition to whole posts on UDT, there are also a number of comments which con
 - [Problem Class Dominance in Predictive Dilemmas](http://intelligence.org/files/ProblemClassDominance.pdf), section 3.4. (The best summary to date.)
 - [An introduction to decision theory](https://formalisedthinking.wordpress.com/2010/08/18/an-introduction-to-decision-theory/) (series of posts)
 - [Arbital page on updateless decision theories](https://arbital.com/p/updateless_dt/) by Eliezer Yudkowsky
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Updateless Decision Theory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: YQW2DxpZFTrqrxHBJ
 title: Inferential Distance
-href: https://lesswrong.com/tag/inferential-distance
+href: https://www.lesswrong.com/tag/inferential-distance
 slug: inferential-distance
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:27.962Z'
+synchedAt: '2022-09-01T09:42:38.974Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ There is a short inferential distance between you and the physicist; there is a 
 - [Illusion of transparency](https://lessestwrong.com/tag/illusion-of-transparency)
 - [Absurdity heuristic](https://lessestwrong.com/tag/absurdity-heuristic)
 - [[Common Knowledge]] (`= [[Common Knowledge]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Inferential Distance**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

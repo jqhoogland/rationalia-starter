@@ -1,15 +1,28 @@
 ---
 _id: PAugtjFrmvbepCNej
 title: 'Love '
-href: https://lesswrong.com/tag/love
+href: https://www.lesswrong.com/tag/love
 slug: love
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.709Z'
+synchedAt: '2022-09-01T09:42:36.514Z'
 status: todo
 ---
 
 # Love
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Love **?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

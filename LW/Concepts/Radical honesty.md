@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb272
 title: Radical Honesty
 slug: radical-honesty
 href: https://www.lesswrong.com/tag/radical-honesty
-synchedAt: '2022-08-30T12:58:34.354Z'
+synchedAt: '2022-09-01T09:42:25.697Z'
 tags:
   - LessWrong
   - Tag
@@ -39,3 +39,15 @@ See also
 *   [[Offense]]
 *   [[Corrupted Hardware|Corrupted hardware]]
 *   [[Modesty]]
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Radical honesty**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb138
 title: The Top 1% Fallacy
 slug: the-top-1-fallacy
 href: https://www.lesswrong.com/tag/the-top-1-fallacy
-synchedAt: '2022-08-30T12:34:00.805Z'
+synchedAt: '2022-09-01T09:42:20.808Z'
 tags:
   - LessWrong
   - Tag
@@ -20,3 +20,15 @@ See also
 --------
 
 *   [[Overconfidence]]
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The top 1% fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

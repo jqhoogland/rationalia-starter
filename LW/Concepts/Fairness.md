@@ -1,14 +1,14 @@
 ---
 _id: 5A5ZGTQovxbay6fpr
 title: Fairness
-href: https://lesswrong.com/tag/fairness
+href: https://www.lesswrong.com/tag/fairness
 slug: fairness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.846Z'
+synchedAt: '2022-09-01T09:42:47.220Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ Several posts on LessWrong deal with this topic, and it's also a field of resear
 - [Wikipedia: Fairness](https://en.wikipedia.org/wiki/Fairness) 
 - [Wikipedia: Fair division](https://en.wikipedia.org/wiki/Fair_division) 
 - [Wikipedia: List of unsolved problems in fair division](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_fair_division)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fairness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb314
 title: 'Rationality: From AI To Zombies'
-href: https://lesswrong.com/tag/rationality:-from-ai-to-zombies
+href: https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies
 slug: rationality:-from-ai-to-zombies
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:11:27.888Z'
+synchedAt: '2022-09-01T09:42:16.440Z'
 status: todo
 ---
 
@@ -64,3 +64,16 @@ Each book also comes with an introduction by Rob Bensinger, and a supplemental e
 - [Download page](https://intelligence.org/rationality-ai-zombies).
 - [RAZ Glossary](https://www.lesswrong.com/tag/raz-glossary)
 - [RAZ Errata](https://www.lesswrong.com/tag/raz-errata)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationality— From AI To Zombies**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

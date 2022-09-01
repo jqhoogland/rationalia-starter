@@ -1,14 +1,14 @@
 ---
 _id: dNNwmxdmvtxMGMFgX
 title: Air Quality
-href: https://lesswrong.com/tag/air-quality
+href: https://www.lesswrong.com/tag/air-quality
 slug: air-quality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:14.797Z'
+synchedAt: '2022-09-01T09:42:57.809Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ Mostly when people talk about air quality, they're talking about particulates an
 [^2]: [Alexander Berger on the 80,000 Hours Podcast](https://80000hours.org/podcast/episodes/alexander-berger-improving-global-health-wellbeing-clear-direct-ways/#south-asian-air-quality-021112)
 
 [^4]: [Eight Hundred Slight Poisoned Word Games](https://www.lesswrong.com/posts/kxW6q5YdTGWh5sWby/eight-hundred-slightly-poisoned-word-games) by Scott Alexander
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Air Quality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

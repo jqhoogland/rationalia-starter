@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0f1
 title: Least Convenient Possible World
-href: https://lesswrong.com/tag/least-convenient-possible-world
+href: https://www.lesswrong.com/tag/least-convenient-possible-world
 slug: least-convenient-possible-world
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:13.531Z'
+synchedAt: '2022-09-01T09:42:37.548Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ status: todo
 - [[Rationalist Taboo|Rationalist taboo]] (`= [[Rationalist Taboo|Rationalist taboo]].status`)
 - [[Reversal Test|Reversal test]] (`= [[Reversal Test|Reversal test]].status`)
 - [[How To Actually Change Your Mind]] (`= [[How To Actually Change Your Mind]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Least Convenient Possible World**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb31b
 title: Mere Goodness
-href: https://lesswrong.com/tag/mere-goodness
+href: https://www.lesswrong.com/tag/mere-goodness
 slug: mere-goodness
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:12.528Z'
+synchedAt: '2022-09-01T09:42:35.592Z'
 status: todo
 ---
 
@@ -95,3 +95,16 @@ The previous book in the series is *[[Mere Reality|Mere Reality]]*, and the next
 290\. [When (Not) To Use Probabilities](http://lesswrong.com/lw/sg/when_not_to_use_probabilities/)
 
 291\. [Newcomb’s Problem and Regret of Rationality](http://lesswrong.com/lw/nc/newcombs_problem_and_regret_of_rationality/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Mere Goodness**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

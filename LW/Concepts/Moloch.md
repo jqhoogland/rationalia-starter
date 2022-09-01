@@ -1,14 +1,14 @@
 ---
 _id: o9aQASibdsECTfYF6
 title: Moloch
-href: https://lesswrong.com/tag/moloch
+href: https://www.lesswrong.com/tag/moloch
 slug: moloch
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:07.184Z'
+synchedAt: '2022-09-01T09:42:34.992Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ From Allan Ginsberg's [Howl](https://www.poetryfoundation.org/poems/49303/howl):
 > *Moloch whose love is endless oil and stone! Moloch whose soul is electricity and banks! Moloch whose poverty is the specter of genius! Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!*
 
 See also: [[Eldritch Analogies]], [[Game Theory]], [[Group Rationality]], [[Social Reality]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Moloch**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

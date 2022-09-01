@@ -1,14 +1,14 @@
 ---
 _id: XtnxF4TsAEyWBRJZq
 title: Scoring Rules
-href: https://lesswrong.com/tag/scoring-rules
+href: https://www.lesswrong.com/tag/scoring-rules
 slug: scoring-rules
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.735Z'
+synchedAt: '2022-09-01T09:42:24.116Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 Of special interest are [proper scoring rules](https://en.wikipedia.org/wiki/Scoring_rule#Proper_scoring_rules) \- rules such that the strategy for maximizing the expected score coincides with noting down your true beliefs about the question.
 
 **Related Pages:** [[Calibration]], [[Forecasting & Prediction]], [[ Expertise Assessment]], [[Prediction Markets]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Scoring Rules**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb101
 title: Overconfidence
-href: https://lesswrong.com/tag/overconfidence
+href: https://www.lesswrong.com/tag/overconfidence
 slug: overconfidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:11.846Z'
+synchedAt: '2022-09-01T09:42:32.384Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ status: todo
 - [[Underconfidence]] (`= [[Underconfidence]].status`)
 - [[Social Status|Status]], [[Humility|Modesty]]
 - [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Overconfidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

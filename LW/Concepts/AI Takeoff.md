@@ -1,14 +1,14 @@
 ---
 _id: oiRp4T6u5poc8r9Tj
 title: AI Takeoff
-href: https://lesswrong.com/tag/ai-takeoff
+href: https://www.lesswrong.com/tag/ai-takeoff
 slug: ai-takeoff
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:06.805Z'
+synchedAt: '2022-09-01T09:42:58.935Z'
 status: todo
 ---
 
@@ -54,3 +54,16 @@ External links
 1. [http://www.aleph.se/andart/archives/2010/10/why\_early\_singularities\_are\_softer.html](http://www.aleph.se/andart/archives/2010/10/why_early_singularities_are_softer.html↩)[[AI Takeoff|↩]]
 2. [http://lesswrong.com/lw/63t/requirements\_for\_ai\_to\_go_foom/](http://lesswrong.com/lw/63t/requirements_for_ai_to_go_foom/↩)[[AI Takeoff|↩]]
 3. [http://lesswrong.com/lw/wf/hard_takeoff/](https://www.lesswrong.com/lw/wf/hard_takeoff/)[↩](http://lesswrong.com/lw/wf/hard_takeoff/↩)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AI Takeoff**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

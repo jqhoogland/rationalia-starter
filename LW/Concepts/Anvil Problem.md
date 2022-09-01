@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2ca
 title: Anvil Problem
-href: https://lesswrong.com/tag/anvil-problem
+href: https://www.lesswrong.com/tag/anvil-problem
 slug: anvil-problem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:26.024Z'
+synchedAt: '2022-09-01T09:42:56.604Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ Third, an artificial general intelligence will likely choose to try to enhance i
 ## Blog Comment
 
 [Eliezer Yudkowsky](http://lesswrong.com/lw/om/qualitatively_confused/iqd) on Qualitatively Confused at LessWrong, 15 March 2008.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Anvil Problem**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

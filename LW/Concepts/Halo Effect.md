@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb182
 title: Halo Effect
-href: https://lesswrong.com/tag/halo-effect
+href: https://www.lesswrong.com/tag/halo-effect
 slug: halo-effect
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:56.924Z'
+synchedAt: '2022-09-01T09:42:41.366Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ status: todo
 - [[Priming]], [[Affect Heuristic|Affect heuristic]]
 - [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
 - [[Contagion Heuristic|Contagion heuristic]] (`= [[Contagion Heuristic|Contagion heuristic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Halo Effect**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1bf
 title: Expected Utility
-href: https://lesswrong.com/tag/expected-utility
+href: https://www.lesswrong.com/tag/expected-utility
 slug: expected-utility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:05.027Z'
+synchedAt: '2022-09-01T09:42:48.000Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ A rational decision maker will, when presented with a choice, take the action wi
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
 - [Instrumental rationality](https://wiki.lesswrong.com/wiki/Instrumental_rationality)
 - [[Prospect Theory|Prospect theory]] (`= [[Prospect Theory|Prospect theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Expected Utility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

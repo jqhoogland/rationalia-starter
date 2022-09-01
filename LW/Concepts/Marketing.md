@@ -1,15 +1,28 @@
 ---
 _id: rnvHPB3X2TiD5NMwY
 title: Marketing
-href: https://lesswrong.com/tag/marketing
+href: https://www.lesswrong.com/tag/marketing
 slug: marketing
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.615Z'
+synchedAt: '2022-09-01T09:42:35.885Z'
 status: todo
 ---
 
 # Marketing
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Marketing**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 4R8JYu4QF2FqzJxE5
 title: Heuristics & Biases
-href: https://lesswrong.com/tag/heuristics-and-biases
+href: https://www.lesswrong.com/tag/heuristics-and-biases
 slug: heuristics-and-biases
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:14.299Z'
+synchedAt: '2022-09-01T09:42:41.046Z'
 status: todo
 ---
 
@@ -44,3 +44,16 @@ So if I learn all the biases, I can conquer the world with my superior intellect
 =================================================================================
 
 Well, no. If it were that easy we wouldn't need a community initially dedicated to overcoming bias (the name of [the blog which this website grew out of](https://www.overcomingbias.com/)). Unfortunately, [learning about a bias alone doesn't seem to improve your ability to avoid it in real life](https://www.iejme.com/article/university-students-knowledge-and-biases-in-conditional-probability-reasoning). There's also the (major) issue that [[Knowing About Biases Can Hurt People|knowing about biases can hurt people]]. Instead of being purely focused on removing negative habits, there is now a major focus at LessWrong to implementing [[Techniques|positive habits]]. These are skills such as how to update (change your mind) the correct amount in response to evidence, how to resolve disagreements with others, how to introspect, and many more.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Heuristics & Biases**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

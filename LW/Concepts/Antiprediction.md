@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb147
 title: Antiprediction
-href: https://lesswrong.com/tag/antiprediction
+href: https://www.lesswrong.com/tag/antiprediction
 slug: antiprediction
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:00.287Z'
+synchedAt: '2022-09-01T09:42:56.606Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ Often, it is sufficient to see the privileged possibility as but one among many 
 - [[Status Quo Bias|Status quo bias]] (`= [[Status Quo Bias|Status quo bias]].status`)
 - [[Forecasting & Prediction|Prediction]], [[Possibility]]
 - [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Antiprediction**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

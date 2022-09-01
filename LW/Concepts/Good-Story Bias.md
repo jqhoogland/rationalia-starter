@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1d2
 title: Good-Story Bias
-href: https://lesswrong.com/tag/good-story-bias
+href: https://www.lesswrong.com/tag/good-story-bias
 slug: good-story-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:45.534Z'
+synchedAt: '2022-09-01T09:42:42.061Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Optimizing predictions for sounding good as stories, when nature optimizes for n
 
 - [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
 - [[Generalization From Fictional Evidence|Generalization from fictional evidence]] (`= [[Generalization From Fictional Evidence|Generalization from fictional evidence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Good-Story Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

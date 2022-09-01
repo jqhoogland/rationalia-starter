@@ -1,14 +1,14 @@
 ---
 _id: qAvbtzdG2A2RBn7in
 title: Effective Altruism
-href: https://lesswrong.com/tag/effective-altruism
+href: https://www.lesswrong.com/tag/effective-altruism
 slug: effective-altruism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:00.166Z'
+synchedAt: '2022-09-01T09:42:16.964Z'
 status: todo
 ---
 
@@ -137,3 +137,16 @@ Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism]
 
 
     <https://twitter.com/KerryLVaughan/status/1545063368695898112?s=20&t=xgaSuh22V6y44Wkcebo22Q>
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Effective Altruism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

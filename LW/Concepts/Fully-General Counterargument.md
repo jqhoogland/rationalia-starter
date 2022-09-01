@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e8
 title: Fully-General Counterargument
-href: https://lesswrong.com/tag/fully-general-counterargument
+href: https://www.lesswrong.com/tag/fully-general-counterargument
 slug: fully-general-counterargument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:27.655Z'
+synchedAt: '2022-09-01T09:42:43.083Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Knowledge of cognitive biases can itself allow someone to form fully general cou
 - [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
 - [[Anti-Epistemology|Anti-epistemology]] (`= [[Anti-Epistemology|Anti-epistemology]].status`)
 - [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fully-General Counterargument**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

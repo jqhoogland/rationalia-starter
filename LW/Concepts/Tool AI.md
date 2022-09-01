@@ -1,14 +1,14 @@
 ---
 _id: LXk7bxNkYSjgatdAt
 title: Tool AI
-href: https://lesswrong.com/tag/tool-ai
+href: https://www.lesswrong.com/tag/tool-ai
 slug: tool-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.582Z'
+synchedAt: '2022-09-01T09:42:20.511Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Eliezer Yudkowsky responded to this by enumerating several ways in which tool AI
 ## **External Links**
 
 - [Conversation between Holden Karnofsky and Jaan Tallinn](http://groups.yahoo.com/group/givewell/message/287)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Tool AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

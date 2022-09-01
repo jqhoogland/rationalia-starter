@@ -1,14 +1,14 @@
 ---
 _id: fihKHQuS5WZBJgkRm
 title: Newcomb's Problem
-href: https://lesswrong.com/tag/newcomb-s-problem
+href: https://www.lesswrong.com/tag/newcomb-s-problem
 slug: newcomb-s-problem
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:13.427Z'
+synchedAt: '2022-09-01T09:42:34.092Z'
 status: todo
 ---
 
@@ -64,3 +64,16 @@ Sometimes people dismiss Newcomb's problem because of the physical impossibility
 - [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
 - [Sleeping Beauty problem](https://lessestwrong.com/tag/sleeping-beauty-paradox)
 - [Prisoner's dilemma](https://lessestwrong.com/tag/prisoner-s-dilemma)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Newcomb's Problem**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

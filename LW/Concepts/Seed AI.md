@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb292
 title: Seed AI
-href: https://lesswrong.com/tag/seed-ai
+href: https://www.lesswrong.com/tag/seed-ai
 slug: seed-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:40.736Z'
+synchedAt: '2022-09-01T09:42:23.938Z'
 status: todo
 ---
 
@@ -51,3 +51,16 @@ Currently, there are no known Seed AIs in existence, but it is an active field o
 4. Yudkowsky, Eliezer.[Seed AI Levels of Organization in General Intelligence](http://intelligence.org/upload/LOGI/seedAI.html). Singularity Institute.
 5. [General Intelligence and Seed AI](http://intelligence.org/files/GISAI.html#para_seedAI_advantage). Singularity Institute.
 6. Schmidhuber, Jürgen. [Gödel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements](ftp://ftp.idsia.ch/pub/juergen/gm6.pdf). IDSIA
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Seed AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

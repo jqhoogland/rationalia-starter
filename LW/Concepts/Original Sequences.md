@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb317
 title: Original Sequences
-href: https://lesswrong.com/tag/original-sequences
+href: https://www.lesswrong.com/tag/original-sequences
 slug: original-sequences
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:12:41.682Z'
+synchedAt: '2022-09-01T09:42:32.148Z'
 status: todo
 ---
 
@@ -530,3 +530,16 @@ See also: [Locating the hypothesis](https://wiki.lesswrong.com/wiki/Locating_the
 29. [Practical Advice Backed By Deep Theories](http://lesswrong.com/lw/d4/practical_advice_backed_by_deep_theories/)
 30. [Less Meta](http://lesswrong.com/lw/d3/less_meta/)
 31. [Go Forth and Create the Art!](http://lesswrong.com/lw/c4/go_forth_and_create_the_art/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Original Sequences**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

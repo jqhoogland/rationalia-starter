@@ -1,14 +1,14 @@
 ---
 _id: FdoP2PJhMz6x3gdDh
 title: Nootropics & Other Cognitive Enhancement
-href: https://lesswrong.com/tag/nootropics-and-other-cognitive-enhancement
+href: https://www.lesswrong.com/tag/nootropics-and-other-cognitive-enhancement
 slug: nootropics-and-other-cognitive-enhancement
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.678Z'
+synchedAt: '2022-09-01T09:42:34.091Z'
 status: todo
 ---
 
@@ -85,3 +85,16 @@ Bostrom [^44^](https://www.lessestwrong.com/tag/nootropics-and-other-cognitive-e
 31. [Jump up↑](https://wiki.lesswrong.com/wiki/Biological_Cognitive_Enhancement#cite_ref-31) POHL, Rüdiger (orgs.). (2005) "Cognitive Illusions: A Handbook on Fallacies and Biases in Thinking, Judgement and Memory". Psychology Press. pp. 61-78
 32. [Jump up↑](https://wiki.lesswrong.com/wiki/Biological_Cognitive_Enhancement#cite_ref-32) BUSS, David(orgs.). (2005) "The Handbook of Evolutionary Psychology". Wiley, New Jersey. pp. 739-740.
 33. [Jump up↑](https://wiki.lesswrong.com/wiki/Biological_Cognitive_Enhancement#cite_ref-33) BOSTROM, Nick & ORD, Toby. (2006) "The Reversal Test: Eliminating Status Quo Bias in Applied Ethics". Ethics 116 (Julho 2006): 656-679.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Nootropics & Other Cognitive Enhancement**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb187
 title: Shut Up and Multiply
-href: https://lesswrong.com/tag/shut-up-and-multiply
+href: https://www.lesswrong.com/tag/shut-up-and-multiply
 slug: shut-up-and-multiply
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:55.632Z'
+synchedAt: '2022-09-01T09:42:23.562Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ The specific application of Shut Up and Multiply to the [Torture versus Dust Spe
 - [[Bite The Bullet|Bite the bullet]] (`= [[Bite The Bullet|Bite the bullet]].status`)
 - [[Rationality]] (`= [[Rationality]].status`)
 - [[Utilitarianism]], [[Expected Utility|expected utility]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Shut Up and Multiply**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

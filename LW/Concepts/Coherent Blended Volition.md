@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2e2
 title: Coherent Blended Volition
-href: https://lesswrong.com/tag/coherent-blended-volition
+href: https://www.lesswrong.com/tag/coherent-blended-volition
 slug: coherent-blended-volition
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:09.653Z'
+synchedAt: '2022-09-01T09:42:53.183Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ Another major problem with the original CEV definition is that it assumes that h
 
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 - [[Coherent Extrapolated Volition]] (`= [[Coherent Extrapolated Volition]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Coherent Blended Volition**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb219
 title: The Hanson-Yudkowsky AI-Foom Debate
-href: https://lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate
+href: https://www.lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate
 slug: the-hanson-yudkowsky-ai-foom-debate
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:32.520Z'
+synchedAt: '2022-09-01T09:42:21.196Z'
 status: todo
 ---
 
@@ -121,3 +121,16 @@ Not included in MIRI's 2013 book on the debate:
 - Robin Hanson's 2014 blog post on the subject in response to the publication of "Superintelligence", [I Still Don’t Get Foom](http://www.overcomingbias.com/2014/07/30855.html)
 - [Katja Grace](https://wiki.lesswrong.com/wiki/Katja_Grace)'s 2014 hosted discussion on Less Wrong, [Superintelligence 6: Intelligence explosion kinetics](http://lesswrong.com/r/discussion/lw/l4e/superintelligence_6_intelligence_explosion/)
 - Eliezer's 2017 post, [AlphaGo Zero and the Foom Debate](https://intelligence.org/2017/10/20/alphago/) and Robin Hanson's reply, [What Evidence Is AlphaGo Zero Re AGI Complexity?](https://www.lesserwrong.com/posts/D3NspiH2nhKA6B2PE/what-evidence-is-alphago-zero-re-agi-complexity)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Hanson-Yudkowsky AI-Foom Debate**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb15a
 title: Belief In Belief
-href: https://lesswrong.com/tag/belief-in-belief
+href: https://www.lesswrong.com/tag/belief-in-belief
 slug: belief-in-belief
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:34.093Z'
+synchedAt: '2022-09-01T09:42:55.424Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ status: todo
 - [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
 - [[Bite The Bullet|Bite the bullet]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [[Making Beliefs Pay Rent|Making beliefs pay rent]], [[Free-Floating Belief|Free-floating belief]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Belief In Belief**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: ogWsaHQKwa6ddidRC
 title: Conflict vs Mistake
-href: https://lesswrong.com/tag/conflict-vs-mistake
+href: https://www.lesswrong.com/tag/conflict-vs-mistake
 slug: conflict-vs-mistake
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:10.439Z'
+synchedAt: '2022-09-01T09:42:52.357Z'
 status: todo
 ---
 
@@ -47,3 +47,16 @@ Therefore, some form of *forgiving* tit-for-tat does better. For example, copy c
 In this framing, a conflict theorist thinks people are actually defecting on purpose. They *know what they're doing*, and therefore, *would respond to incentives.* Punishing them is prosocial and helps to encourage more cooperation overall.
 
 A mistake theorist thinks people *are defecting accidentally,* and therefore, *would not respond to incentives*. Punishing them is pointless and counterproductive; it could even result in a continuing feud, making things much worse for everyone.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Conflict vs Mistake**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

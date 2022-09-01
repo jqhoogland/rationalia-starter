@@ -8,7 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T20:05:08.289Z'
+synchedAt: '2022-09-01T09:42:58.579Z'
 status: todo
 ---
 
@@ -64,3 +64,16 @@ AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem
 
 - [[Solomonoff Induction|Solomonoff induction]] (`= [[Solomonoff Induction|Solomonoff induction]].status`)
 - [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **AIXI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

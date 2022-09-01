@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb12d
 title: Anti-Epistemology
-href: https://lesswrong.com/tag/anti-epistemology
+href: https://www.lesswrong.com/tag/anti-epistemology
 slug: anti-epistemology
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:20.433Z'
+synchedAt: '2022-09-01T09:42:56.633Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ An example of anti-epistemology run riot would be New Ageism: The concept of "fa
 - [[Logical Rudeness|Logical rudeness]] (`= [[Logical Rudeness|Logical rudeness]].status`)
 - [[Privileging The Hypothesis|Privileging the hypothesis]], [[Rationalization]]
 - [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Anti-Epistemology**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

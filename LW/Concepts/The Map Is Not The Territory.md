@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb111
 title: The Map Is Not The Territory
-href: https://lesswrong.com/tag/the-map-is-not-the-territory
+href: https://www.lesswrong.com/tag/the-map-is-not-the-territory
 slug: the-map-is-not-the-territory
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:02.640Z'
+synchedAt: '2022-09-01T09:42:21.174Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ The metaphor is useful for illustrating several ideas in a more intuitive way:
 
 - [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 - [[Map and Territory|Map and territory]] (`= [[Map and Territory|Map and territory]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Map Is Not The Territory**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

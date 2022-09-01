@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1f6
 title: Oops
-href: https://lesswrong.com/tag/oops
+href: https://www.lesswrong.com/tag/oops
 slug: oops
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:39.866Z'
+synchedAt: '2022-09-01T09:42:33.174Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ status: todo
 - [[Crisis of Faith|Crisis of faith]] (`= [[Crisis of Faith|Crisis of faith]].status`)
 - [[How To Actually Change Your Mind|How to Actually Change Your Mind]] (`= [[How To Actually Change Your Mind|How to Actually Change Your Mind]].status`)
 - [Yudkowsky's Coming of Age](https://wiki.lesswrong.com/wiki/Yudkowsky's_Coming_of_Age)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Oops**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

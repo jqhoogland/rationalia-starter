@@ -1,14 +1,14 @@
 ---
 _id: 2i3w84KCkqZzpnQ4d
 title: Petrov Day
-href: https://lesswrong.com/tag/petrov-day
+href: https://www.lesswrong.com/tag/petrov-day
 slug: petrov-day
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:17.152Z'
+synchedAt: '2022-09-01T09:42:30.454Z'
 status: todo
 ---
 
@@ -17,3 +17,16 @@ status: todo
 **Petrov Day** is a tradition celebrating Soviet military officer Stanislav Petrov, who played a key role in preventing a nuclear attack during a false alarm incident on September 26, 1983.
 
 See also: [[Existential Risk]], [[Ritual]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Petrov Day**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

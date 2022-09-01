@@ -1,14 +1,14 @@
 ---
 _id: 5oDii8KKW53n4HSx4
 title: Hansonian Pre-Rationality
-href: https://lesswrong.com/tag/hansonian-pre-rationality
+href: https://www.lesswrong.com/tag/hansonian-pre-rationality
 slug: hansonian-pre-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:59.136Z'
+synchedAt: '2022-09-01T09:42:41.333Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ Suppose you are an AI who was designed by a drunk programmer. Your prior contain
 Unfortunately for you, your programmer set the parameter randomly, rather than attempting to figure out which setting was most accurate or useful. You know for a fact they just mashed the num pad randomly.
 
 How should you think about this?
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hansonian Pre-Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

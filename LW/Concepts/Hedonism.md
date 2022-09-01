@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb186
 title: Hedonism
-href: https://lesswrong.com/tag/hedonism
+href: https://www.lesswrong.com/tag/hedonism
 slug: hedonism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:56.325Z'
+synchedAt: '2022-09-01T09:42:41.026Z'
 aliases:
   - Hedonistic
 status: todo
@@ -32,3 +32,16 @@ The term **hedonism** refers to a set of philosophies which hold that the highes
 - [[Wireheading]] (`= [[Wireheading]].status`)
 - [[Abolitionism]] (`= [[Abolitionism]].status`)
 - [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hedonism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

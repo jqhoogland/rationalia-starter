@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb19a
 title: Contagion Heuristic
-href: https://lesswrong.com/tag/contagion-heuristic
+href: https://www.lesswrong.com/tag/contagion-heuristic
 slug: contagion-heuristic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:38.193Z'
+synchedAt: '2022-09-01T09:42:51.975Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ The **contagion heuristic** is a psychological [[Heuristic|heuristic]] leading p
 - [[Social Status|Status]] (`= [[Social Status|Status]].status`)
 - [[Priming]], [[Halo Effect|Halo effect]]
 - [Crackpot](https://wiki.lesswrong.com/wiki/Crackpot)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Contagion Heuristic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

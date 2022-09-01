@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb179
 title: In-Group Bias
-href: https://lesswrong.com/tag/in-group-bias
+href: https://www.lesswrong.com/tag/in-group-bias
 slug: in-group-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:11.372Z'
+synchedAt: '2022-09-01T09:42:39.276Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ status: todo
 - [[Halo Effect|Halo effect]] (`= [[Halo Effect|Halo effect]].status`)
 - [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
 - [[Social Status|Status]], [[Signaling|signaling]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **In-Group Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

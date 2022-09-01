@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb148
 title: Debiasing
-href: https://lesswrong.com/tag/debiasing
+href: https://www.lesswrong.com/tag/debiasing
 slug: debiasing
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:52.367Z'
+synchedAt: '2022-09-01T09:42:50.538Z'
 status: todo
 ---
 
@@ -40,3 +40,16 @@ Simply being told about the biases rarely helps to notice and overcome them. For
 ## References
 
 1. Emily Pronin (2002). "The Bias Blind Spot: Perceptions of Bias in Self Versus Others". Personality and Social Psychology Bulletin 28 (3): 369-381. ([PDF](http://weblamp.princeton.edu/~psych/psychology/research/pronin/pubs/2002BiasBlindSpot.pdf))[↩](#fnref1)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Debiasing**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

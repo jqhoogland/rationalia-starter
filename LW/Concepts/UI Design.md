@@ -1,15 +1,28 @@
 ---
 _id: ZsWDPoXcchbGneaMX
 title: UI Design
-href: https://lesswrong.com/tag/ui-design
+href: https://www.lesswrong.com/tag/ui-design
 slug: ui-design
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:08.561Z'
+synchedAt: '2022-09-01T09:42:19.949Z'
 status: todo
 ---
 
 # UI Design
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **UI Design**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

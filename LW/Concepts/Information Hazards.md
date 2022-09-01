@@ -1,14 +1,14 @@
 ---
 _id: 7w6XkYe5YPx9YL59j
 title: Information Hazards
-href: https://lesswrong.com/tag/information-hazards
+href: https://www.lesswrong.com/tag/information-hazards
 slug: information-hazards
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:13.713Z'
+synchedAt: '2022-09-01T09:42:38.965Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ The following table is reproduced from Bostrom 2011 \[1\].
 ## References
 
 1. Bostrom, N. (2011). "[Information Hazards: A Typology of Potential Harms from Knowledge](http://www.nickbostrom.com/information-hazards.pdf)". *Review of Contemporary Philosophy* **10**: 44-79.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Information Hazards**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

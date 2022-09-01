@@ -1,14 +1,14 @@
 ---
 _id: r7qAjcbfhj2256EHH
 title: Akrasia
-href: https://lesswrong.com/tag/akrasia
+href: https://www.lesswrong.com/tag/akrasia
 slug: akrasia
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:03.650Z'
+synchedAt: '2022-09-01T09:42:57.657Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ Increasing [willpower](https://www.lessestwrong.com/tag/willpower) is seen by so
 - [Akrasia](http://psychology.wikia.com/wiki/Akrasia) at Psychology Wiki
 - [Weakness of Will](http://plato.stanford.edu/entries/weakness-will/), Stanford Encyclopedia of Philosophy
 - [Beeminder](http://beeminder.com/), community-member developed tool for commitment via self-imposed financial penalties
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Akrasia**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

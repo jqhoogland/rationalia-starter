@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb215
 title: Puzzle Game Index
-href: https://lesswrong.com/tag/puzzle-game-index
+href: https://www.lesswrong.com/tag/puzzle-game-index
 slug: puzzle-game-index
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:45.526Z'
+synchedAt: '2022-09-01T09:42:26.321Z'
 status: todo
 ---
 
@@ -228,3 +228,16 @@ Logic-based puzzles
 **Description:** Create portals to solve puzzles and reach the exit. Based on [the original game by Valve](http://en.wikipedia.org/wiki/Portal_(video_game)).
 
 **Skills required:** Advanced platform-puzzle skills. Understanding how portals work and using them effectively.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Puzzle Game Index**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

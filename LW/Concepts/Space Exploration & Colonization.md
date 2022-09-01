@@ -1,14 +1,14 @@
 ---
 _id: 2JdCpTrNgBMNpJiyB
 title: Space Exploration & Colonization
-href: https://lesswrong.com/tag/space-exploration-and-colonization
+href: https://www.lesswrong.com/tag/space-exploration-and-colonization
 slug: space-exploration-and-colonization
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:53.639Z'
+synchedAt: '2022-09-01T09:42:22.702Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Possible techniques include both present or near-future technology and [[Futuris
 For the question of why alien civilizations haven't space-colonized us, see [[Great Filter]].
 
 **Related Sequences:** [So You Want To Colonize The Universe](https://www.lesswrong.com/s/96XzQgTL2HBNkBwL4)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Space Exploration & Colonization**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

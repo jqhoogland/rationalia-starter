@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb127
 title: Hindsight Bias
-href: https://lesswrong.com/tag/hindsight-bias
+href: https://www.lesswrong.com/tag/hindsight-bias
 slug: hindsight-bias
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:03.260Z'
+synchedAt: '2022-09-01T09:42:40.993Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ status: todo
 - [[Confirmation Bias|Positive bias]] (`= [[Confirmation Bias|Positive bias]].status`)
 - [[Debiasing]] (`= [[Debiasing]].status`)
 - [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hindsight Bias**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

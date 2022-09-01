@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb326
 title: Roko's Basilisk
-href: https://lesswrong.com/tag/rokos-basilisk
+href: https://www.lesswrong.com/tag/rokos-basilisk
 slug: rokos-basilisk
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:34.671Z'
+synchedAt: '2022-09-01T09:42:24.414Z'
 status: todo
 ---
 
@@ -188,3 +188,16 @@ In \\"[The Economy of Weirdness](\"https://meteuphoric.wordpress.com/2015/03/08/
 - [Newcomb's problem](\"https://www.lesswrong.com/tag/newcomb-s-problem\")
 - [Parfit's hitchhiker](\"https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker\")
 - [Acausal Trade](\"https://www.lesswrong.com/tag/acausal-trade\")
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Roko's Basilisk**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

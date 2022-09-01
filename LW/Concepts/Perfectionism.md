@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb337
 title: Perfectionism
-href: https://lesswrong.com/tag/perfectionism
+href: https://www.lesswrong.com/tag/perfectionism
 slug: perfectionism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:29.010Z'
+synchedAt: '2022-09-01T09:42:29.814Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ From the [[12 Virtues|Twelve Virtues of Rationality]]:
 > Things are either black or whiteno vaguely defined area of in between or close enough. Things in your life are either right or wrong, good or bad success or failure.
 
 Such a belief system, she argues, interferes, among other things, with forming intimate relationships, causes anxiety and a sense of shame, and leads to ones self evaluation being judged on external achievements rather than who you are.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Perfectionism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: WafcndjLNe4x3uXPL
 title: Center for Human-Compatible AI (CHAI)
-href: https://lesswrong.com/tag/center-for-human-compatible-ai-chai
+href: https://www.lesswrong.com/tag/center-for-human-compatible-ai-chai
 slug: center-for-human-compatible-ai-chai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:11.183Z'
+synchedAt: '2022-09-01T09:42:16.974Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ The **Center for Human-Compatible AI** is a research institute at UC Berkeley le
 External links:
 
 - [Homepage of the Center for Human-Compatible AI](https://humancompatible.ai/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Center for Human-Compatible AI (CHAI)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

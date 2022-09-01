@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb177
 title: Lawful Intelligence
-href: https://lesswrong.com/tag/lawful-intelligence
+href: https://www.lesswrong.com/tag/lawful-intelligence
 slug: lawful-intelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:55.496Z'
+synchedAt: '2022-09-01T09:42:37.574Z'
 status: todo
 ---
 
@@ -51,3 +51,16 @@ While this is a complete heresy according to the standard religion of Silicon Va
 - [[Universal Law|Universal law]] (`= [[Universal Law|Universal law]].status`)
 - [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
 - [[Artificial General Intelligence|Artificial general intelligence]] (`= [[Artificial General Intelligence|Artificial general intelligence]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Lawful Intelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

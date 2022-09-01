@@ -1,14 +1,14 @@
 ---
 _id: HPZzE9XBy99RmbmQe
 title: Kelly Criterion
-href: https://lesswrong.com/tag/kelly-criterion
+href: https://www.lesswrong.com/tag/kelly-criterion
 slug: kelly-criterion
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:28.469Z'
+synchedAt: '2022-09-01T09:42:37.890Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ the **Kelly criterion** (or **Kelly strategy** or **Kelly bet**), also known as 
 **Posts from elsewhere:** [The Kelly Coin-Flipping Game: Exact Solutions](https://www.gwern.net/Coin-flip)
 
 **see also:** [[Betting]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Kelly Criterion**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

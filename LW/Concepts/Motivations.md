@@ -1,14 +1,14 @@
 ---
 _id: iP2X4jQNHMWHRNPne
 title: Motivations
-href: https://lesswrong.com/tag/motivations
+href: https://www.lesswrong.com/tag/motivations
 slug: motivations
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:02.656Z'
+synchedAt: '2022-09-01T09:42:34.905Z'
 status: todo
 ---
 
@@ -70,3 +70,16 @@ Habitual Productivity and Nate's Writing
 Something to Protect
 
 See also Motivated Reasoning
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Motivations**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

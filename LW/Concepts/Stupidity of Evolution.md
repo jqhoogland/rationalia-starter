@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb123
 title: Stupidity of Evolution
-href: https://lesswrong.com/tag/stupidity-of-evolution
+href: https://www.lesswrong.com/tag/stupidity-of-evolution
 slug: stupidity-of-evolution
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:06:07.507Z'
+synchedAt: '2022-09-01T09:42:22.352Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ status: todo
 
 - [[Evolution]], [[Evolution As Alien God|evolution as alien god]]
 - [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Stupidity of Evolution**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

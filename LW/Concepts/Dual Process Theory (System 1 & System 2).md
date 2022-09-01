@@ -1,14 +1,14 @@
 ---
 _id: DLskYNGdAGDFpxBF8
 title: Dual Process Theory (System 1 & System 2)
-href: https://lesswrong.com/tag/dual-process-theory-system-1-and-system-2
+href: https://www.lesswrong.com/tag/dual-process-theory-system-1-and-system-2
 slug: dual-process-theory-system-1-and-system-2
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:20.715Z'
+synchedAt: '2022-09-01T09:42:49.516Z'
 aliases:
   - System 1
   - System 2
@@ -30,3 +30,16 @@ status: todo
 > People sometimes refer to Type 1 reasoning as biased, and to Type 2 reasoning as unbiased. But \[…\] there is nothing that makes one of the two types intrinsically more or less biased than the other. The bias-correction power of Type 2 processing emerges from the fact that *if* Type 1 operations are known to be erroneous *and* a rule-based procedure for correcting them exists, a Type 2 operation can be learned which implements that rule.
 
 > \-\- Kaj Sotala, [Against "System 1" and "System 2"](https://www.lesswrong.com/posts/HbXXd2givHBBLxr3d/against-system-1-and-system-2-subagent-sequence)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Dual Process Theory (System 1 & System 2)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

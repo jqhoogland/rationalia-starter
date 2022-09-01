@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb13c
 title: Third Option
-href: https://lesswrong.com/tag/third-option
+href: https://www.lesswrong.com/tag/third-option
 slug: third-option
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:30.702Z'
+synchedAt: '2022-09-01T09:42:20.777Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ A **third option** is a way to break a [[False Dilemma|false dilemma]], showing 
 - [[Arguments As Soldiers|Arguments as soldiers]] (`= [[Arguments As Soldiers|Arguments as soldiers]].status`)
 - [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
 - [[Challenging The Difficult|Challenging the Difficult]] (`= [[Challenging The Difficult|Challenging the Difficult]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Third Option**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

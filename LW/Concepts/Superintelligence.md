@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb297
 title: Superintelligence
-href: https://lesswrong.com/tag/superintelligence
+href: https://www.lesswrong.com/tag/superintelligence
 slug: superintelligence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:39.933Z'
+synchedAt: '2022-09-01T09:42:21.948Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ The development of superintelligence from humans is another possibility, sometim
 - [[Brain-Computer Interfaces|Brain-computer interfaces]] (`= [[Brain-Computer Interfaces|Brain-computer interfaces]].status`)
 - [[Singularity]] (`= [[Singularity]].status`)
 - [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Superintelligence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

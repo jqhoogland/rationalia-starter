@@ -1,14 +1,14 @@
 ---
 _id: YrLoz567b553YouZ2
 title: Willpower
-href: https://lesswrong.com/tag/willpower
+href: https://www.lesswrong.com/tag/willpower
 slug: willpower
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:03.649Z'
+synchedAt: '2022-09-01T09:42:18.515Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ There is an argument that the use of willpower is undesirable. The use of willpo
 ## Resources
 
 - The writings on [Minding Our Way](http://mindingourway.com/) concerning productivity.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Willpower**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

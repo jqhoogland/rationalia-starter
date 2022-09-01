@@ -1,15 +1,28 @@
 ---
 _id: KkksuGB2yBR6LDFXu
 title: Conservatism (AI)
-href: https://lesswrong.com/tag/conservatism-ai
+href: https://www.lesswrong.com/tag/conservatism-ai
 slug: conservatism-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:16.249Z'
+synchedAt: '2022-09-01T09:42:51.992Z'
 status: todo
 ---
 
 # Conservatism (AI)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Conservatism (AI)**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

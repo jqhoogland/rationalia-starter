@@ -1,14 +1,14 @@
 ---
 _id: EvPPocx6FHcoDfygQ
 title: Consensus
-href: https://lesswrong.com/tag/consensus
+href: https://www.lesswrong.com/tag/consensus
 slug: consensus
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.587Z'
+synchedAt: '2022-09-01T09:42:52.010Z'
 status: todo
 ---
 
@@ -23,3 +23,16 @@ Notable things that *aren't* in consensus on LessWrong include [[ Extortion]], [
 **Related Pages:** [[Common Knowledge]], [[Disagreement]], [[Humility|Modesty]], [[Modesty Argument|Modesty argument]], [[Aumann Agreement|Aumann agreement]], [[Government]] (in the context of democracies), [[Contrarianism]]
 
 **See also:** [consensus on wikipedia](https://en.wikipedia.org/wiki/Consensus_(disambiguation))
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Consensus**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

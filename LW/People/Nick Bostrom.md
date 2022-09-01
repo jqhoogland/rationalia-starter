@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1c7
 title: Nick Bostrom
-href: https://lesswrong.com/tag/nick-bostrom
+href: https://www.lesswrong.com/tag/nick-bostrom
 slug: nick-bostrom
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:40.287Z'
+synchedAt: '2022-09-01T09:42:16.205Z'
 status: todo
 ---
 
@@ -39,3 +39,16 @@ Later, the kind of reasoning developed in his thesis lead to many other insights
 - [Nick Bostrom's CV](http://www.nickbostrom.com/cv.pdf)
 - [Nick Bostrom's site on the Anthropic Principle](http://http://www.anthropic-principle.com/)
 - [Paper on Infinites Ethics](http://www.nickbostrom.com/ethics/infinite.pdf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Nick Bostrom**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

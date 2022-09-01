@@ -1,15 +1,28 @@
 ---
 _id: hMXoyTAKxvCcsQBKf
 title: Libertarianism
-href: https://lesswrong.com/tag/libertarianism
+href: https://www.lesswrong.com/tag/libertarianism
 slug: libertarianism
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:12.064Z'
+synchedAt: '2022-09-01T09:42:37.519Z'
 status: todo
 ---
 
 # Libertarianism
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Libertarianism**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

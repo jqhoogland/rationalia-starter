@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb18f
 title: Making Beliefs Pay Rent
-href: https://lesswrong.com/tag/making-beliefs-pay-rent
+href: https://www.lesswrong.com/tag/making-beliefs-pay-rent
 slug: making-beliefs-pay-rent
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:25.338Z'
+synchedAt: '2022-09-01T09:42:36.531Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ Any [[Belief|belief]] should restrict which experiences to anticipate, to be pot
 - [[Beliefs Require Observations|Beliefs require observations]] (`= [[Beliefs Require Observations|Beliefs require observations]].status`)
 - [[Free-Floating Belief|Free-floating belief]] (`= [[Free-Floating Belief|Free-floating belief]].status`)
 - [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Making Beliefs Pay Rent**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

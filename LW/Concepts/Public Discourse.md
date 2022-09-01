@@ -1,14 +1,14 @@
 ---
 _id: MXcpQvaPGtXpB6vkM
 title: Public Discourse
-href: https://lesswrong.com/tag/public-discourse
+href: https://www.lesswrong.com/tag/public-discourse
 slug: public-discourse
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:16.294Z'
+synchedAt: '2022-09-01T09:42:26.294Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 This tag is for understanding the nature of public discourse (How good is it? What makes it succeed or fail?), and ways of improving it using technology or novel institutions. 
 
 See also: [[Conversation (topic)]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Public Discourse**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: hXTqT62YDTTiqJfxG
 title: Ritual
-href: https://lesswrong.com/tag/ritual
+href: https://www.lesswrong.com/tag/ritual
 slug: ritual
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:10.120Z'
+synchedAt: '2022-09-01T09:42:24.762Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ Two key questions relating to ritual and rationality are:
 - [Rational Ritual](https://www.lesswrong.com/s/3bbvzoRA8n6ZgbiyK) by [Raemon](https://www.lesswrong.com/users/raemon)
 
 **Related Pages:** [[Secular Solstice]], [[Petrov Day]], [[Grieving]], [[Marriage]], [[Religion]], [[Art]], [[Music]], [[Poetry]], [[Meditation]], [[Circling]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Ritual**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

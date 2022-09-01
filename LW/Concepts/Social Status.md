@@ -1,14 +1,14 @@
 ---
 _id: 2EFq8dJbxKNzforjM
 title: Social Status
-href: https://lesswrong.com/tag/social-status
+href: https://www.lesswrong.com/tag/social-status
 slug: social-status
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:04:10.166Z'
+synchedAt: '2022-09-01T09:42:23.019Z'
 status: todo
 ---
 
@@ -33,3 +33,16 @@ status: todo
 - Elephant in the Brain by Simler and Hanson
 - Impro (book on improv covering status relations)
 - Writings by Venkatesh Rao such as Gervais Principle and something, something Psychopath
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Social Status**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

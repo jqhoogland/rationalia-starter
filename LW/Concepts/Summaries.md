@@ -1,14 +1,14 @@
 ---
 _id: 8SfkJYYMe75MwjHzN
 title: Summaries
-href: https://lesswrong.com/tag/summaries
+href: https://www.lesswrong.com/tag/summaries
 slug: summaries
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:58.907Z'
+synchedAt: '2022-09-01T09:42:22.318Z'
 status: todo
 ---
 
@@ -17,3 +17,16 @@ status: todo
 **Summaries** of papers, books, Sequences or anything else.
 
 See also: [[Book Reviews]], [[Literature Reviews]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Summaries**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a5
 title: Conceptual Metaphor
-href: https://lesswrong.com/tag/conceptual-metaphor
+href: https://www.lesswrong.com/tag/conceptual-metaphor
 slug: conceptual-metaphor
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:32.460Z'
+synchedAt: '2022-09-01T09:42:52.371Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Similarly, [George Lakoff](https://en.wikipedia.org/wiki/George_Lakoff) has docu
 - [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 - [[Affect Heuristic|Affect heuristic]] (`= [[Affect Heuristic|Affect heuristic]].status`)
 - [[Mind-Killer|Mind-killer]] (`= [[Mind-Killer|Mind-killer]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Conceptual Metaphor**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: jygEZ8peqh6QRZYry
 title: Autonomous Weapons
-href: https://lesswrong.com/tag/autonomous-weapons
+href: https://www.lesswrong.com/tag/autonomous-weapons
 slug: autonomous-weapons
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:20.604Z'
+synchedAt: '2022-09-01T09:42:55.777Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ status: todo
 ## See Also
 
 - [Wikipedia page on Lethal Autonomous Weapons](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Autonomous Weapons**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

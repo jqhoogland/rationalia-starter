@@ -1,14 +1,14 @@
 ---
 _id: dyoihEbKvGPENjJZ7
-title: Meditation, Koan
-href: https://lesswrong.com/tag/meditation-koan
+title: Meditation / Koan
+href: https://www.lesswrong.com/tag/meditation-koan
 slug: meditation-koan
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:10:14.377Z'
+synchedAt: '2022-09-01T09:42:35.395Z'
 aliases:
   - Meditation
   - Koan
@@ -24,3 +24,16 @@ Noting your prior reaction to the meditation-prompt is particularly important be
 To use the meditation as intended, try to say your own answer to the puzzle or reaction to the prompt - ideally whispering it to yourself, or moving your lips as you pretend to say it, to make sure it's fully explicit and available for memory. After seeing the author's own response, try to consciously note the difference between your reply and the post's reply, including any extra details present or missing, without trying to minimize or maximize the difference. Again, the key idea behind a meditation isn't to get it right on the first try, nor even agree with the post's stated answer after you hear it - the key use is to notice any differences, instead of letting them blur into hindsight.
 
 **Related Pages:** [[ Problem-Sets]], [[Highly Advanced Epistemology 101 For Beginners]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Meditation, Koan**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: CD6DGZJD4ningyzWF
 title: Trigger-Action Planning
-href: https://lesswrong.com/tag/trigger-action-planning
+href: https://www.lesswrong.com/tag/trigger-action-planning
 slug: trigger-action-planning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:08.015Z'
+synchedAt: '2022-09-01T09:42:20.214Z'
 aliases:
   - TAP
   - Trigger-Affect Planning
@@ -30,3 +30,16 @@ After it was clear that TAPs should be heavily applied to cognitive motions/thou
 
 - The CFAR Participant Handbook \[1\] contains a chapter on TAPs.
 - Brienne Yudkowsky's writings on the topic of Noticing, found mostly at her blog \[[1](https://agentyduck.blogspot.com/search?q=noticing)\], are particularly good material related to training TAPs.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Trigger-Action Planning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

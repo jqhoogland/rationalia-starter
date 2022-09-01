@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2b8
 title: Simulation Argument
-href: https://lesswrong.com/tag/simulation-argument
+href: https://www.lesswrong.com/tag/simulation-argument
 slug: simulation-argument
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:21.448Z'
+synchedAt: '2022-09-01T09:42:23.554Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ It follows that the belief that there is a significant chance that we will one d
 
 - Bostrom, Nick (2001,2003) [Are You Living in a Computer Simulation](http://www.simulation-argument.com/simulation.pdf) Philosophical Quarterly (2003) Vol. 53, No. 211, pp. 243‐255.
 - Bostrom, Nick (2011) [A Patch for the Simulation Argument](http://www.simulation-argument.com/patch.pdf) Analysis, Vol. 71, No. 1 (2011): 54-61
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Simulation Argument**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

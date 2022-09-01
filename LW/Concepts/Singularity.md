@@ -1,14 +1,14 @@
 ---
 _id: CztjQPSTuaQcfbyh8
 title: Singularity
-href: https://lesswrong.com/tag/singularity
+href: https://www.lesswrong.com/tag/singularity
 slug: singularity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:14.912Z'
+synchedAt: '2022-09-01T09:42:23.322Z'
 status: todo
 ---
 
@@ -56,3 +56,16 @@ He then proceeds to search for arguments for these 3 premises. Premise 1 seems t
 - [Singularity TED Talk](http://www.youtube.com/watch?v=IfbOyw3CT6A) by Ray Kurzweil (YouTube)
 - [The Singularity Three Major Schools of Thought](http://www.youtube.com/watch?v=mDhdt58ySJA) Singularity Summit Talk by Eliezer Yudkowsky
 - [Centre for the study of Existential Risk](http://cser.org/resources.html) Web site of University of Cambridge
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Singularity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

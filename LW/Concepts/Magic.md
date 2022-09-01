@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb14e
 title: Magic
-href: https://lesswrong.com/tag/magic
+href: https://www.lesswrong.com/tag/magic
 slug: magic
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:13.586Z'
+synchedAt: '2022-09-01T09:42:36.368Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ In our own naturalistic, [[Reductionism|reductionist]] universe, there is always
 - [[Joy In The Merely Real|Joy in the merely real]] (`= [[Joy In The Merely Real|Joy in the merely real]].status`)
 - [[Magical Categories|Magical categories]] (`= [[Magical Categories|Magical categories]].status`)
 - [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Magic**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

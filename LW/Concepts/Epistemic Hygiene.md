@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e2
 title: Epistemic Hygiene
-href: https://lesswrong.com/tag/epistemic-hygiene
+href: https://www.lesswrong.com/tag/epistemic-hygiene
 slug: epistemic-hygiene
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:07.562Z'
+synchedAt: '2022-09-01T09:42:48.709Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ status: todo
 - [[Rational Evidence|Rational evidence]] (`= [[Rational Evidence|Rational evidence]].status`)
 - [[Burdensome Details|Burdensome details]] (`= [[Burdensome Details|Burdensome details]].status`)
 - [[Status Quo Bias|Status quo bias]] (`= [[Status Quo Bias|Status quo bias]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Epistemic Hygiene**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

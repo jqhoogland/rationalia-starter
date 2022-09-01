@@ -4,7 +4,7 @@ _id: 5f5c37ee1b5cdee568cfb2d7
 title: Church-Turing Thesis
 slug: church-turing-thesis
 href: https://www.lesswrong.com/tag/church-turing-thesis
-synchedAt: '2022-08-30T12:43:08.635Z'
+synchedAt: '2022-09-01T09:42:53.569Z'
 tags:
   - LessWrong
   - Tag
@@ -32,3 +32,16 @@ References
 * [Wikipedia article](http://en.wikipedia.org/wiki/Church–Turing_thesis)
 
 * [Stanford Encyclopedia article](http://plato.stanford.edu/entries/church-turing/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Church-Turing thesis**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

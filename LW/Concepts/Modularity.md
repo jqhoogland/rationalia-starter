@@ -1,14 +1,14 @@
 ---
 _id: bt2e3HEcZmuHo3xf7
 title: Modularity
-href: https://lesswrong.com/tag/modularity
+href: https://www.lesswrong.com/tag/modularity
 slug: modularity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:15.429Z'
+synchedAt: '2022-09-01T09:42:34.999Z'
 status: todo
 ---
 
@@ -21,3 +21,16 @@ In **graph theory**, modularity can be measured in terms of a graph's structure.
 In **evolutionary biology**, modularity has been observed at many different levels, from protein structure to organ systems. There is currently no universally accepted explanation for why modularity seems to have been produced by evolution, and less so by genetic algorithms, although there are widely-held theories (most notably the idea of modularly varying goals, as proposed by [Kashtan & Alon](https://www.pnas.org/doi/10.1073/pnas.0503610102)).
 
 Modularity may be highly relevant for alignment research, because the more modular a system is, the greater the chances that we will be able to understand the cognition it is performing in terms of high-level abstractions.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Modularity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

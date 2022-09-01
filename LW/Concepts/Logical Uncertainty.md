@@ -1,14 +1,14 @@
 ---
 _id: JHYaBGQuuKHdwnrAK
 title: Logical Uncertainty
-href: https://lesswrong.com/tag/logical-uncertainty
+href: https://www.lesswrong.com/tag/logical-uncertainty
 slug: logical-uncertainty
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:52.148Z'
+synchedAt: '2022-09-01T09:42:36.727Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Logical uncertainty is closely related to the problem of [counterfactuals](/tag/
 ## References
 
 - [Questions of Reasoning Under Logical Uncertainty](https://intelligence.org/files/QuestionsLogicalUncertainty.pdf) by Nate Soares and Benja Fallenstein.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Logical Uncertainty**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

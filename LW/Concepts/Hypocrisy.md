@@ -1,14 +1,14 @@
 ---
 _id: cpBfacd22cJsm5fuL
 title: Hypocrisy
-href: https://lesswrong.com/tag/hypocrisy
+href: https://www.lesswrong.com/tag/hypocrisy
 slug: hypocrisy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:14.702Z'
+synchedAt: '2022-09-01T09:42:39.743Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ Formally, **hypocrisy** is the act of claiming to motives, morals and standards 
 
 - [Self-deception](https://lessestwrong.com/tag/self-deception)
 - [[Motivated Reasoning]].
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Hypocrisy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

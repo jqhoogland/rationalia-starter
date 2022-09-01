@@ -8,7 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T20:02:23.600Z'
+synchedAt: '2022-09-01T09:42:57.720Z'
 status: todo
 ---
 
@@ -35,3 +35,16 @@ The same process can also occur with negative beliefs instead of positive, leadi
 - [[In-Group Bias|In-group bias]] (`= [[In-Group Bias|In-group bias]].status`)
 - [[Religion]] (`= [[Religion]].status`)
 - [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]] (`= [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Affective Death Spiral**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

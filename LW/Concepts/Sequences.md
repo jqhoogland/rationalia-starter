@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1f8
 title: Sequences
-href: https://lesswrong.com/tag/sequences
+href: https://www.lesswrong.com/tag/sequences
 slug: sequences
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:10.180Z'
+synchedAt: '2022-09-01T09:42:23.569Z'
 status: todo
 ---
 
@@ -140,3 +140,16 @@ And by [**Kaj Sotala**](https://wiki.lesswrong.com/wiki/Kaj_Sotala):
 - [Russian](http://lesswrong.ru)
 - [Bahasa Indonesia](https://sites.google.com/site/makananuntukpikiran/sequences)
 - [Slovak](http://bur.sk/sk/lesswrong)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Sequences**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

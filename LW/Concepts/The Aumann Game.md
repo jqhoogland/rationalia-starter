@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a9
 title: The Aumann Game
-href: https://lesswrong.com/tag/the-aumann-game
+href: https://www.lesswrong.com/tag/the-aumann-game
 slug: the-aumann-game
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:07:20.584Z'
+synchedAt: '2022-09-01T09:42:21.197Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ Scott Garrabrant (seemingly) independently invented a [very similar game](https:
 - [The New Adventures of Aumann](https://web.archive.org/web/20130906125721/http://www.acceleratingfuture.com/steven/?p=102)
 - [Bayes Bayes Revolution, Aumania](https://web.archive.org/web/20080514160909/http://www.acceleratingfuture.com/steven/?p=103)
 - [Aumann Forever](https://web.archive.org/web/20100314215830/http://www.acceleratingfuture.com/steven/?p=106)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **The Aumann Game**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb242
 title: Reflective Inconsistency
-href: https://lesswrong.com/tag/reflective-inconsistency
+href: https://www.lesswrong.com/tag/reflective-inconsistency
 slug: reflective-inconsistency
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:33.495Z'
+synchedAt: '2022-09-01T09:42:25.105Z'
 status: todo
 ---
 
@@ -42,3 +42,16 @@ Non-example:
 ## See Also
 
 - [Dynamic inconsistency](https://wiki.lesswrong.com/wiki/Dynamic_inconsistency)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Reflective Inconsistency**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

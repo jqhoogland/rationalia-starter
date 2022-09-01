@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1b1
 title: Narrative Fallacy
-href: https://lesswrong.com/tag/narrative-fallacy
+href: https://www.lesswrong.com/tag/narrative-fallacy
 slug: narrative-fallacy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:52.575Z'
+synchedAt: '2022-09-01T09:42:34.536Z'
 status: todo
 ---
 
@@ -40,3 +40,16 @@ status: todo
 - [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
 - [[Fake Simplicity|Fake simplicity]] (`= [[Fake Simplicity|Fake simplicity]].status`)
 - [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Narrative Fallacy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

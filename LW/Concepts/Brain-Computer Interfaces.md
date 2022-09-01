@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb28c
 title: Brain-Computer Interfaces
-href: https://lesswrong.com/tag/brain-computer-interfaces
+href: https://www.lesswrong.com/tag/brain-computer-interfaces
 slug: brain-computer-interfaces
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:40.974Z'
+synchedAt: '2022-09-01T09:42:54.661Z'
 status: todo
 ---
 
@@ -58,3 +58,16 @@ Other attractive future application includes the [upload of the whole content of
 - [[Whole Brain Emulation|Whole brain emulation]] (`= [[Whole Brain Emulation|Whole brain emulation]].status`)
 - [[Wireheading]] (`= [[Wireheading]].status`)
 - [[Neuralink]] (`= [[Neuralink]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Brain-Computer Interfaces**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

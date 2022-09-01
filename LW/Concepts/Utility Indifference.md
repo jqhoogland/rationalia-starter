@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb29b
 title: Utility Indifference
-href: https://lesswrong.com/tag/utility-indifference
+href: https://www.lesswrong.com/tag/utility-indifference
 slug: utility-indifference
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:47.764Z'
+synchedAt: '2022-09-01T09:42:19.219Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Researcher Stuart Armstrong, of the [[Future of Humanity Institute (FHI)|Future 
 ## External Links
 
 - [Utility Indifference](http://www.fhi.ox.ac.uk/reports/2010-1.pdf) by Stuart Armstrong
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Utility Indifference**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

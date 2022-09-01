@@ -1,14 +1,14 @@
 ---
 _id: moeYqrcakMgXnQNyF
 title: Curiosity
-href: https://lesswrong.com/tag/curiosity
+href: https://www.lesswrong.com/tag/curiosity
 slug: curiosity
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:03:11.662Z'
+synchedAt: '2022-09-01T09:42:50.952Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ status: todo
 - [What Curiosity Looks Like](https://www.lesswrong.com/lw/96j/what_curiosity_looks_like/)
 - [The Neglected Virtue of Curiosity](https://www.lesswrong.com/lw/9m2/the_neglected_virtue_of_curiosity/)
 - [Get Curious](https://www.lesswrong.com/lw/aa7/get_curious/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Curiosity**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

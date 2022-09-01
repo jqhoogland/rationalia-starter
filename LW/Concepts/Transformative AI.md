@@ -1,14 +1,14 @@
 ---
 _id: KRcsSxBTLGRrSbHsW
 title: Transformative AI
-href: https://lesswrong.com/tag/transformative-ai
+href: https://www.lesswrong.com/tag/transformative-ai
 slug: transformative-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:21.181Z'
+synchedAt: '2022-09-01T09:42:20.509Z'
 status: todo
 ---
 
@@ -27,3 +27,16 @@ Holden Karnofsky gives a more detailed definition in [another OpenPhil 2016 post
 1. ^**[^](#fnrefhy8b4kflu8)**^
 
     As defined by [Open Philanthropy's Holden Karnofsky in 2016](https://www.openphilanthropy.org/research/potential-risks-from-advanced-artificial-intelligence-the-philanthropic-opportunity/), and reused by [the Center for the Governance of AI in 2018](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Transformative AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

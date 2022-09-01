@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1fd
 title: Standard of Evidence
-href: https://lesswrong.com/tag/standard-of-evidence
+href: https://www.lesswrong.com/tag/standard-of-evidence
 slug: standard-of-evidence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:08:29.036Z'
+synchedAt: '2022-09-01T09:42:22.646Z'
 status: todo
 ---
 
@@ -26,3 +26,16 @@ A **standard of evidence** or **standard of admissible evidence** seeks to narro
 - [Scientific Evidence, Legal Evidence, Rational Evidence](http://lesswrong.com/lw/in/scientific_evidence_legal_evidence_rational/)
 - [The Dilemma: Science or Bayes?](http://lesswrong.com/lw/qa/the_dilemma_science_or_bayes/)
 - [Science Doesn't Trust Your Rationality](http://lesswrong.com/lw/qb/science_doesnt_trust_your_rationality/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Standard of Evidence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

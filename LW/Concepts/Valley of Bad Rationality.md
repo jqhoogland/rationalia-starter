@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1f2
 title: Valley of Bad Rationality
-href: https://lesswrong.com/tag/valley-of-bad-rationality
+href: https://www.lesswrong.com/tag/valley-of-bad-rationality
 slug: valley-of-bad-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:46.664Z'
+synchedAt: '2022-09-01T09:42:19.195Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ It has been observed that when someone is just starting to learn rationality, th
 - [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
 - [[Debiasing]] (`= [[Debiasing]].status`)
 - [[Information Hazards]] (`= [[Information Hazards]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Valley of Bad Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

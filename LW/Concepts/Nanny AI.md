@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2b6
 title: Nanny AI
-href: https://lesswrong.com/tag/nanny-ai
+href: https://www.lesswrong.com/tag/nanny-ai
 slug: nanny-ai
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:18.875Z'
+synchedAt: '2022-09-01T09:42:34.557Z'
 status: todo
 ---
 
@@ -34,3 +34,16 @@ In a paper by [Luke Muehlhauser](http://lukeprog.com/) and [[Anna Salamon]] to b
 - [Mitigating the Risks of Artificial Superintelligence](http://hplusmagazine.com/2011/04/20/mitigating-the-risks-of-artificial-superintelligence/)
 - [Does Humanity Need an AI Nanny?](http://hplusmagazine.com/2011/08/17/does-humanity-need-an-ai-nanny/) by Ben Goertzel
 - Muehlhauser, Luke; Salamon, Anna (2012). ["Intelligence Explosion: Evidence and Import"](http://intelligence.org/files/IE-EI.pdf). in Eden, Amnon; Søraker, Johnny; Moor, James H. et al.. *The singularity hypothesis: A scientific and philosophical assessment*. Berlin: Springer.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Nanny AI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

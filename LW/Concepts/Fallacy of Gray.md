@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0e4
 title: Fallacy of Gray
-href: https://lesswrong.com/tag/fallacy-of-gray
+href: https://www.lesswrong.com/tag/fallacy-of-gray
 slug: fallacy-of-gray
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:39.443Z'
+synchedAt: '2022-09-01T09:42:47.191Z'
 aliases:
   - Continuum fallacy
 status: todo
@@ -74,3 +74,16 @@ To say that someone is using the fallacy of gray is to say that despite not sayi
 - [[Humility]] (`= [[Humility]].status`)
 - [[Possibility]] (`= [[Possibility]].status`)
 - [[Absolute Certainty|Absolute certainty]] (`= [[Absolute Certainty|Absolute certainty]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Fallacy of Gray**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

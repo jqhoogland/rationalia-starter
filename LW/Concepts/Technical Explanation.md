@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb110
 title: Technical Explanation
-href: https://lesswrong.com/tag/technical-explanation
+href: https://www.lesswrong.com/tag/technical-explanation
 slug: technical-explanation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:58.980Z'
+synchedAt: '2022-09-01T09:42:21.509Z'
 status: todo
 ---
 
@@ -30,3 +30,16 @@ Technical explanations are contrasted with verbal explanations, which give the i
 ## References
 
 - [A Technical Explanation of Technical Explanation](http://yudkowsky.net/rational/technical)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Technical Explanation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

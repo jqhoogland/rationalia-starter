@@ -1,14 +1,14 @@
 ---
 _id: yEs5Tdwfw5Zw8yGWC
 title: Wireheading
-href: https://lesswrong.com/tag/wireheading
+href: https://www.lesswrong.com/tag/wireheading
 slug: wireheading
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:15.948Z'
+synchedAt: '2022-09-01T09:42:18.513Z'
 status: todo
 ---
 
@@ -37,3 +37,16 @@ Wireheading is also an illustration of the complexities of creating a [Friendly 
 ## External Links
 
 - [Wirehead Hedonism versus paradise engineering](https://www.hedweb.com/wirehead/index.html) by David Pearce
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Wireheading**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

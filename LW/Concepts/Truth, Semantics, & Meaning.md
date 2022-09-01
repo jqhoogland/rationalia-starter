@@ -1,14 +1,14 @@
 ---
 _id: LnEEs8xGooYmQ8iLA
 title: Truth, Semantics, & Meaning
-href: https://lesswrong.com/tag/truth-semantics-and-meaning
+href: https://www.lesswrong.com/tag/truth-semantics-and-meaning
 slug: truth-semantics-and-meaning
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:57.722Z'
+synchedAt: '2022-09-01T09:42:20.036Z'
 aliases:
   - Truth
   - Semantics
@@ -58,3 +58,16 @@ To understand whether a belief is true, we need (only) to understand what possib
 - [[Self-Deception|Self-deception]] (`= [[Self-Deception|Self-deception]].status`)
 - [[Belief]] (`= [[Belief]].status`)
 - [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]] (`= [[Highly Advanced Epistemology 101 For Beginners|Highly Advanced Epistemology 101 for Beginners]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Truth, Semantics, & Meaning**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

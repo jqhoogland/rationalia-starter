@@ -1,15 +1,28 @@
 ---
 _id: Q9ASuEEoJWxT3RLMT
 title: Animal Welfare
-href: https://lesswrong.com/tag/animal-welfare
+href: https://www.lesswrong.com/tag/animal-welfare
 slug: animal-welfare
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:16.008Z'
+synchedAt: '2022-09-01T09:42:57.131Z'
 status: todo
 ---
 
 # Animal Welfare
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Animal Welfare**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

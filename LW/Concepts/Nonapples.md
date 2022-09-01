@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb22b
 title: Nonapples
-href: https://lesswrong.com/tag/nonapples
+href: https://www.lesswrong.com/tag/nonapples
 slug: nonapples
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:50.021Z'
+synchedAt: '2022-09-01T09:42:34.068Z'
 status: todo
 ---
 
@@ -19,3 +19,16 @@ A **nonapple** is a proposed object, tool, technique, or theory which is defined
 *Main article:* [Selling Nonapples](http://lesswrong.com/lw/vs/selling_nonapples/)
 
 *Related Sequence:* [A Human's Guide To Words](https://www.lesswrong.com/s/SGB7Y5WERh4skwtnb)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Nonapples**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

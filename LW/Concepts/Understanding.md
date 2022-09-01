@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1f4
 title: Understanding
-href: https://lesswrong.com/tag/understanding
+href: https://www.lesswrong.com/tag/understanding
 slug: understanding
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:08.469Z'
+synchedAt: '2022-09-01T09:42:19.668Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ status: todo
 - [[Semantic Stopsign|Semantic stopsign]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [[Free-Floating Belief|Free-floating belief]], [[Detached Lever Fallacy|Detached lever fallacy]]
 - [[General Knowledge|General knowledge]] (`= [[General Knowledge|General knowledge]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Understanding**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

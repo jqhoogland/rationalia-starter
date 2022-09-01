@@ -1,7 +1,7 @@
 ---
 _id: izp6eeJJEg9v5zcur
 title: Community
-href: https://lesswrong.com/tag/community
+href: https://www.lesswrong.com/tag/community
 slug: community
 type: tag
 tags:
@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 core: true
-synchedAt: '2022-08-29T11:04:10.323Z'
+synchedAt: '2022-09-01T09:42:52.848Z'
 status: todo
 ---
 
@@ -38,3 +38,16 @@ This tag applies to any post about:
 - Discussions about the LessWrong, Rationalist, and related communities \[[1](http://www.lesswrong.com/posts/2Ee5DPBxowTTXZ6zf), [2](http://www.lesswrong.com/posts/yGycR8tFA3JJbvApp), [3](https://www.lesswrong.com/posts/zAqoj79A7QuhJKKvi)\]
 
 While the [[World Optimization]] core tag is for posts discussing how to do good in general, the Community tag is for the specific, concrete efforts of our community to execute plans.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Community**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

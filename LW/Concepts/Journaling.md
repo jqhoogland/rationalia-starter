@@ -1,14 +1,14 @@
 ---
 _id: sJYvMHBHnR6DbJQcN
 title: Journaling
-href: https://lesswrong.com/tag/journaling
+href: https://www.lesswrong.com/tag/journaling
 slug: journaling
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:18.702Z'
+synchedAt: '2022-09-01T09:42:37.934Z'
 status: todo
 ---
 
@@ -25,3 +25,16 @@ There are various forms of jounraling:
 - Digital / Handwritten / Audio: Classically, of course, journaling was solely handwritten. Today it's also possible to write in a digital format. And it's also possible to keep an audio journal by recording yourself instead of writing.
 
 **Related Pages:** [[Gratitude]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Journaling**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

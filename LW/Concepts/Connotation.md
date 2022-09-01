@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb0dc
 title: Connotation
-href: https://lesswrong.com/tag/connotation
+href: https://www.lesswrong.com/tag/connotation
 slug: connotation
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:09.622Z'
+synchedAt: '2022-09-01T09:42:52.029Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 - [[Inferential Distance|Inferential distance]], [[Scope Insensitivity|scope insensitivity]]
 - [[Alief]] (`= [[Alief]].status`)
 - [A Human's Guide to Words](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Connotation**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: RGPpwYoCHrPNB86TW
 title: Futarchy
-href: https://lesswrong.com/tag/futarchy
+href: https://www.lesswrong.com/tag/futarchy
 slug: futarchy
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:25.182Z'
+synchedAt: '2022-09-01T09:42:45.603Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ And so on.
 A futarchy then sets up betting markets for the effectiveness of various policies. The policies with the best estimated effectiveness get implemented. The consequences are then observed, so bets about the implemented policies can pay out.
 
 **Related Pages:** [[Prediction Markets]], [[Government]], [[Law and Legal systems]], [[Voting Theory]], [[Politics]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Futarchy**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: Xw6pxiicjuv6NJWjf
 title: History of Rationality
-href: https://lesswrong.com/tag/history-of-rationality
+href: https://www.lesswrong.com/tag/history-of-rationality
 slug: history-of-rationality
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:13.907Z'
+synchedAt: '2022-09-01T09:42:40.978Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ Historically relevant organizations, groups, and movements include:
 - [[OpenAI]] (`= [[OpenAI]].status`)
 - [[Ought]] (`= [[Ought]].status`)
 - [[GiveWell]] (`= [[GiveWell]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **History of Rationality**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

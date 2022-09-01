@@ -1,14 +1,14 @@
 ---
 _id: 3JnSXmK9nYxzd5Riy
 title: Asymmetric Weapons
-href: https://lesswrong.com/tag/asymmetric-weapons
+href: https://www.lesswrong.com/tag/asymmetric-weapons
 slug: asymmetric-weapons
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:24.502Z'
+synchedAt: '2022-09-01T09:42:56.110Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ Scott uses this terminology mainly to separate strategies that work especially w
 - [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/)
 
 **Related Pages:** [[Memetics]], [[Public Discourse]]
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Asymmetric Weapons**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

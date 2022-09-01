@@ -1,14 +1,14 @@
 ---
 _id: R6dqPii4cyNpuecLt
 title: Prediction Markets
-href: https://lesswrong.com/tag/prediction-markets
+href: https://www.lesswrong.com/tag/prediction-markets
 slug: prediction-markets
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:29.222Z'
+synchedAt: '2022-09-01T09:42:28.356Z'
 status: todo
 ---
 
@@ -43,3 +43,16 @@ Predictions markets have been used by organizations such as Google, General Elec
 
 - [Comparing face-to-face meetings, nominal groups, Delphi and prediction markets on an estimation task](http://dl.dropbox.com/u/5317066/2011-graefe.pdf)
 - [Video of Robin Hanson's Combinatorial Prediction Markets lecture at the Uncertainty in Artificial Intelligence conference in Helsinki, 2008](http://videolectures.net/uai08_hanson_cpm/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Prediction Markets**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

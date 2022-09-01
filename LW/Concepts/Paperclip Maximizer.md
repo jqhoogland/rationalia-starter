@@ -1,14 +1,14 @@
 ---
 _id: QH4LhvnyR4QkW9MG8
 title: Paperclip Maximizer
-href: https://lesswrong.com/tag/paperclip-maximizer
+href: https://www.lesswrong.com/tag/paperclip-maximizer
 slug: paperclip-maximizer
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:59:45.456Z'
+synchedAt: '2022-09-01T09:42:32.135Z'
 status: todo
 ---
 
@@ -70,3 +70,16 @@ Some goals apparently serve as a proxy or measure of human welfare, so that maxi
 - [Clippy](http://lesswrong.com/user/Clippy) \- LessWrong contributor account that plays the role of a non-[FOOMed](https://wiki.lesswrong.com/wiki/FOOM) paperclip maximizer trying to talk to humans. [Wiki page and FAQ](http://wiki.lesswrong.com/wiki/User:Clippy)
 - [Clippius Maximus](https://www.facebook.com/clippius.maximus/) \- A facebook page which makes clippy-related memes and comments on current events from the perspective of clippy.
 - [A clicker game based on the idea](http://www.decisionproblem.com/paperclips/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Paperclip Maximizer**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

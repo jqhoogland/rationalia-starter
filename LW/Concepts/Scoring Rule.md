@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb121
 title: Scoring Rule
-href: https://lesswrong.com/tag/scoring-rule
+href: https://www.lesswrong.com/tag/scoring-rule
 slug: scoring-rule
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:19.177Z'
+synchedAt: '2022-09-01T09:42:24.126Z'
 status: todo
 ---
 
@@ -41,3 +41,16 @@ where "outcome" is 1 or 0, and "prediction" is the probability on (0, 1) that th
 ## See Also
 
 - [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Scoring Rule**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

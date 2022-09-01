@@ -1,14 +1,14 @@
 ---
 _id: EmaCLRKb4baBFq4ra
 title: dath ilan
-href: https://lesswrong.com/tag/dath-ilan
+href: https://www.lesswrong.com/tag/dath-ilan
 slug: dath-ilan
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:19.075Z'
+synchedAt: '2022-09-01T09:42:18.183Z'
 status: todo
 ---
 
@@ -51,3 +51,16 @@ Some known features of dath ilan:
 **External Posts:**
 
 - [Until we Build dath ilan](https://hivewired.wordpress.com/2017/06/04/until-we-build-dath-ilan/)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **dath ilan**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

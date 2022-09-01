@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb1a2
 title: Science
-href: https://lesswrong.com/tag/science
+href: https://www.lesswrong.com/tag/science
 slug: science
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:09:44.552Z'
+synchedAt: '2022-09-01T09:42:24.127Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ status: todo
 - [[Scholarship & Learning|Scholarship]] (`= [[Scholarship & Learning|Scholarship]].status`)
 - [[Traditional Rationality|Traditional rationality]] (`= [[Traditional Rationality|Traditional rationality]].status`)
 - [No one knows what science doesn't know](https://wiki.lesswrong.com/wiki/No_one_knows_what_science_doesn't_know)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Science**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

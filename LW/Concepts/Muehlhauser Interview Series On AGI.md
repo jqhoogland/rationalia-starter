@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb27f
 title: Muehlhauser Interview Series On AGI
-href: https://lesswrong.com/tag/muehlhauser-interview-series-on-agi
+href: https://www.lesswrong.com/tag/muehlhauser-interview-series-on-agi
 slug: muehlhauser-interview-series-on-agi
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:17.752Z'
+synchedAt: '2022-09-01T09:42:34.634Z'
 status: todo
 ---
 
@@ -29,3 +29,16 @@ A list of all interviews:
 - [Experts on artificial general intelligence provide estimates for the future of AGI.](http://sethbaum.com/ac/2011_AI-Experts.html), Baum, Seth D., Ben Goertzel, and Ted G. Goertzel, 2011.
 - [Machine Intelligence Survey](http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0015/21516/MI_survey.pdf), Sandberg, A. and Bostrom, N. (2011). Future of Humanity Institute, Oxford University.
 - [Interview series on risks from AI](http://wiki.lesswrong.com/wiki/Interview_series_on_risks_from_AI).
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Muehlhauser Interview Series On AGI**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb12a
 title: Rationalist Taboo
-href: https://lesswrong.com/tag/rationalist-taboo
+href: https://www.lesswrong.com/tag/rationalist-taboo
 slug: rationalist-taboo
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:48:02.099Z'
+synchedAt: '2022-09-01T09:42:25.663Z'
 status: todo
 ---
 
@@ -28,3 +28,16 @@ Mainstream philosophy has a parallel procedure called "unpacking". Unpacking has
 - [Disputing Definitions](http://lesswrong.com/lw/np/disputing_definitions/) \- An example of how the technique helps.
 - [Words as Hidden Inferences](http://lesswrong.com/lw/ng/words_as_hidden_inferences/) \- The mere presence of words can influence thinking, sometimes misleading it.
 - [Detached Lever Fallacy](http://lesswrong.com/lw/sp/detached_lever_fallacy/) \- There is a lot of machinery hidden beneath the words, and rationalist's taboo is one way to make a step towards exposing it.
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Rationalist Taboo**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

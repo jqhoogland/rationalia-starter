@@ -1,14 +1,14 @@
 ---
 _id: xHTXnyp65X8YX6ahT
 title: Instrumental Convergence
-href: https://lesswrong.com/tag/instrumental-convergence
+href: https://www.lesswrong.com/tag/instrumental-convergence
 slug: instrumental-convergence
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:05:20.369Z'
+synchedAt: '2022-09-01T09:42:38.646Z'
 status: todo
 ---
 
@@ -65,3 +65,16 @@ In some rarer cases, AIs may not pursue these goals. For instance, if there are 
 - Omohundro, S. (2012). [*Rational Artificial Intelligence for the Greater Good*](http://selfawaresystems.files.wordpress.com/2012/03/rational_ai_greater_good.pdf).
 - Bostrom, N. (2012). "[The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents](http://www.nickbostrom.com/superintelligentwill.pdf)". *Minds and Machines*.
 - Shulman, C. (2010). [*Omohundro's "Basic AI Drives" and Catastrophic Risks*](http://intelligence.org/files/BasicAIDrives.pdf).
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Instrumental Convergence**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb156
 title: Impossibility
-href: https://lesswrong.com/tag/impossibility
+href: https://www.lesswrong.com/tag/impossibility
 slug: impossibility
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T11:13:20.708Z'
+synchedAt: '2022-09-01T09:42:39.710Z'
 status: todo
 ---
 
@@ -31,3 +31,16 @@ It can be tempting to label as *impossible* very difficult problems which you ha
 - [[Antiprediction]] (`= [[Antiprediction]].status`)
 - [[Black Swans|Black swan]] (`= [[Black Swans|Black swan]].status`)
 - [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Impossibility**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	

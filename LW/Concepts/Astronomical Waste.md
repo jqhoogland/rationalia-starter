@@ -1,14 +1,14 @@
 ---
 _id: 5f5c37ee1b5cdee568cfb2a8
 title: Astronomical Waste
-href: https://lesswrong.com/tag/astronomical-waste
+href: https://www.lesswrong.com/tag/astronomical-waste
 slug: astronomical-waste
 type: tag
 tags:
   - LessWrong
   - Concept
   - Tag
-synchedAt: '2022-08-29T10:47:39.830Z'
+synchedAt: '2022-09-01T09:42:56.286Z'
 status: todo
 ---
 
@@ -32,3 +32,16 @@ If so much potential is lost every year, one could conclude that we should start
 
 - [[Utilitarianism]] (`= [[Utilitarianism]].status`)
 - [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+
+
+%%
+
+% START
+Basic (and reversed card)
+What is **Astronomical Waste**?
+Back: {TODO}
+Tags: LessWrong
+END
+
+%%
+	
