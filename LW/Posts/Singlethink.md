@@ -14,8 +14,16 @@ tags:
 href: https://www.lesswrong.com/posts/CahCppKy9HuXe3j2i/singlethink
 sequence: Letting Go
 chapter: null
-synchedAt: '2022-08-30T08:17:37.382Z'
+synchedAt: '2022-09-01T09:10:38.287Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Singlethink
+
+
+# Related
+
+- [[Self-Deception]]
+- [[Rationality]]

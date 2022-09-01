@@ -14,8 +14,16 @@ href: >-
   https://www.lesswrong.com/posts/tcCxPLBrEXdxN5HCQ/shah-and-yudkowsky-on-alignment-failures
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.810Z'
+synchedAt: '2022-09-01T09:11:29.732Z'
 status: todo
 ---
 
 # Shah and Yudkowsky on Alignment Failures
+
+
+# Related
+
+- [[AI]]
+- [[2021 MIRI Conversations]]
+- "[in the Alignment Newsletter](https://www.alignmentforum.org/posts/3vFmQhHBosnjZXuAJ/an-171-disagreements-between-alignment-optimists-and)"
+- [[Late 2021 MIRI Conversations: AMA / Discussion]]

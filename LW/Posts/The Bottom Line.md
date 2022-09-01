@@ -13,11 +13,25 @@ tags:
   - Rationalization
   - Filtered_Evidence
   - Litany_of Tarski
+  - Litany_of_Tarski
 href: https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line
-sequence: Pitfalls of Human Cognition
+sequence: Against Rationalization
 chapter: null
-synchedAt: '2022-08-30T08:17:38.859Z'
+synchedAt: '2022-09-01T09:09:47.162Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # The Bottom Line
+
+
+# Related
+
+- [[Rationality]]
+- [[Rationalization]]
+- [[Filtered Evidence]]
+- [[Litany of Tarski]]
+- "[1](#fn1x27)"
+- "[1](#fn1x27-bk)"
+- "[http://arxiv.org/abs/astro-ph/0302131](http://arxiv.org/abs/astro-ph/0302131)"

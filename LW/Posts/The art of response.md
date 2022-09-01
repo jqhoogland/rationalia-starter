@@ -12,8 +12,14 @@ tags:
 href: https://www.lesswrong.com/posts/ZJHDDM8eWyXvMB924/the-art-of-response
 sequence: Replacing Guilt
 chapter: Fire within
-synchedAt: '2022-08-30T08:16:33.338Z'
+synchedAt: '2022-09-01T09:08:42.529Z'
 status: todo
 ---
 
 # The Art of Response
+
+
+# Related
+
+- "[You aren't obligated to solve every problem placed before you](http://mindingourway.com/half-assing-it-with-everything-youve-got/)"
+- "[reflexively do the obvious things](http://mindingourway.com/obvious-advice/)"

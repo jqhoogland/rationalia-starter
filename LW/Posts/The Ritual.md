@@ -13,10 +13,19 @@ tags:
   - Fiction
   - Rationality
 href: https://www.lesswrong.com/posts/kXAb5riiaJNrfR8v8/the-ritual
-sequence: The Bayesian Conspiracy
+sequence: Letting Go
 chapter: null
-synchedAt: '2022-08-30T08:17:51.239Z'
+synchedAt: '2022-09-01T09:09:04.948Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # The Ritual
+
+
+# Related
+
+- [[Ritual]]
+- [[Fiction]]
+- [[Rationality]]

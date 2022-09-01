@@ -14,7 +14,7 @@ href: >-
   https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist
 sequence: Noticing Confusion
 chapter: null
-synchedAt: '2022-09-01T08:39:31.845Z'
+synchedAt: '2022-09-01T09:07:37.639Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: 'Map and Territory '

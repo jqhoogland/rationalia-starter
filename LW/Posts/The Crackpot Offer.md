@@ -12,11 +12,21 @@ tags:
   - 'Logic_& Mathematics '
   - Sunk-Cost_Fallacy
   - Confirmation_Bias
+  - Logic_&_Mathematics_
 href: https://www.lesswrong.com/posts/qRWfvgJG75ESLRNu9/the-crackpot-offer
 sequence: Letting Go
 chapter: null
-synchedAt: '2022-08-30T08:17:37.451Z'
+synchedAt: '2022-09-01T09:09:44.613Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # The Crackpot Offer
+
+
+# Related
+
+- [[Logic & Mathematics ]]
+- [[Sunk-Cost Fallacy]]
+- [[Confirmation Bias]]

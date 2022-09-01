@@ -20,7 +20,7 @@ href: >-
   https://www.lesswrong.com/posts/vwLxd6hhFvPbvKmBH/yudkowsky-and-christiano-discuss-takeoff-speeds
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-09-01T08:39:34.318Z'
+synchedAt: '2022-09-01T09:07:37.904Z'
 status: todo
 ---
 

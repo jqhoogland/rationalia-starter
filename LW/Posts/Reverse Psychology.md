@@ -14,8 +14,18 @@ tags:
 href: https://www.lesswrong.com/posts/FLnDFnXyWrKr6eiT6/reverse-psychology
 sequence: Probability and Predictions
 chapter: Interlude
-synchedAt: '2022-08-30T08:16:45.226Z'
+synchedAt: '2022-09-01T09:11:46.607Z'
 status: todo
+collection: The Codex
+book: Good and Bad Reasoning
 ---
 
 # Reverse Psychology
+
+
+# Related
+
+- [[Fiction]]
+- [[Psychiatry]]
+- "[paradoxical intention](https://en.wikipedia.org/wiki/Paradoxical_intention)"
+- "[Tophet](http://squid314.livejournal.com/284970.html)"

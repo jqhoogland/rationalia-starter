@@ -11,10 +11,16 @@ tags:
   - Post
   - Introspection
 href: https://www.lesswrong.com/posts/K2JBqDeETX2yEgyyZ/the-limits-of-introspection
-sequence: The Blue-Minimizing Robot
 chapter: null
-synchedAt: '2022-08-30T08:17:52.261Z'
+synchedAt: '2022-09-01T09:08:42.298Z'
 status: todo
 ---
 
 # The Limits of Introspection
+
+
+# Related
+
+- [[Introspection]]
+- "[Inferring Our Desires](/lw/5sk/inferring_our_desires/)"
+- "[Verbal Reports on Mental Processes](http://people.virginia.edu/~tdw/nisbett&wilson.pdf)"

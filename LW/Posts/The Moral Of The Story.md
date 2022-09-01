@@ -14,8 +14,16 @@ tags:
 href: https://www.lesswrong.com/posts/BZMc9Xzqw5WcCMHrr/the-moral-of-the-story
 sequence: Categorisation and Concepts
 chapter: Interlude
-synchedAt: '2022-08-30T08:17:41.440Z'
+synchedAt: '2022-09-01T09:09:37.005Z'
 status: todo
+collection: The Codex
+book: Good and Bad Reasoning
 ---
 
 # The Moral Of The Story
+
+
+# Related
+
+- [[Humor]]
+- [[Fiction]]

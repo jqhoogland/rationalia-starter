@@ -12,7 +12,7 @@ tags:
 href: https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies
 sequence: Physicalism 201
 chapter: null
-synchedAt: '2022-09-01T08:39:31.937Z'
+synchedAt: '2022-09-01T09:07:37.911Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: Mere Reality

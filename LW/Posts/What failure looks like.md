@@ -18,8 +18,22 @@ tags:
 href: https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like
 sequence: Failure
 chapter: null
-synchedAt: '2022-08-30T08:16:34.440Z'
+synchedAt: '2022-09-01T09:08:02.076Z'
 status: todo
+collection: Best of LessWrong
+book: The Engines of Cognition
 ---
 
 # What Failure Looks Like
+
+
+# Related
+
+- [[World Optimization]]
+- [[World Modeling]]
+- [[AI]]
+- [[AI Risk]]
+- [[Threat Models]]
+- [[AI Takeoff]]
+- "[optimization daemons](https://arbital.com/p/daemons/)"
+- "[intent alignment](https://ai-alignment.com/clarifying-ai-alignment-cec47cd69dd6)"

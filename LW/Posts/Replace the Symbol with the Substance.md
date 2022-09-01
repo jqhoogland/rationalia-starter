@@ -7,12 +7,40 @@ tags:
   - LessWrong
   - Concept
   - Post
+  - Philosophy_of_Language
+  - Map_and_Territory
+  - Techniques
+  - Rationalist_Taboo
 href: >-
   https://www.lesswrong.com/posts/GKfPL6LQFgB49FEnv/replace-the-symbol-with-the-substance
 sequence: A Human's Guide to Words
 chapter: null
-synchedAt: '2022-08-30T08:17:55.953Z'
+synchedAt: '2022-09-01T09:12:07.957Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: The Machine in the Ghost
+author: Eliezer_Yudkowsky
 ---
 
 # Replace the Symbol with the Substance
+
+
+# Related
+
+- [[Philosophy of Language]]
+- [[Map and Territory]]
+- [[Techniques]]
+- [[Rationalist Taboo]]
+- [[Original Seeing]]
+- [[Rationality and the English Language]]
+- [[Cached Thoughts]]
+- [[Taboo Your Words]]
+- [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
+- [[Belief in Belief]]
+- [[Hug the Query]]
+- [[Lost Purposes]]
+- [[Leaky Generalizations]]
+- "[The Simple Truth](http://yudkowsky.net/bayes/truth.html)"
+- "[often](http://yudkowsky.net/virtues/)"
+- [[Two Cult Koans]]
+- "[avoid the concept](/lw/nc/newcombs_problem_and_regret_of_rationality/)"

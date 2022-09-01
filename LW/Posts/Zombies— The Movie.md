@@ -16,7 +16,7 @@ tags:
 href: https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie
 sequence: Physicalism 201
 chapter: null
-synchedAt: '2022-09-01T08:39:30.614Z'
+synchedAt: '2022-09-01T09:07:37.909Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: Mere Reality

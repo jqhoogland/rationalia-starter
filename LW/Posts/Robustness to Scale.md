@@ -15,8 +15,17 @@ tags:
 href: https://www.lesswrong.com/posts/bBdfbWfWxHN9Chjcq/robustness-to-scale
 sequence: Alignment
 chapter: null
-synchedAt: '2022-08-30T08:17:54.487Z'
+synchedAt: '2022-09-01T09:12:00.013Z'
 status: todo
+collection: Best of LessWrong
+book: A Map That Reflects the Territory
 ---
 
 # Robustness to Scale
+
+
+# Related
+
+- [[Robust Agents]]
+- [[AI]]
+- [[AI Robustness]]

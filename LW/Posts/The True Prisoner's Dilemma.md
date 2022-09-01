@@ -15,8 +15,23 @@ tags:
 href: https://www.lesswrong.com/posts/HFyWNBnDNEDsDNLrZ/the-true-prisoner-s-dilemma
 sequence: Value Theory
 chapter: null
-synchedAt: '2022-08-30T08:17:33.242Z'
+synchedAt: '2022-09-01T09:08:46.921Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Goodness
 ---
 
 # The True Prisoner's Dilemma
+
+
+# Related
+
+- [[Game Theory]]
+- [[Prisoner's Dilemma]]
+- [[Paperclip Maximizer]]
+- "[Prisoner's Dilemma](http://en.wikipedia.org/wiki/Prisoner%27s_dilemma)"
+- [[Hindsight bias]]
+- "[adapting](/lw/l0/adaptationexecuters_not_fitnessmaximizers/)"
+- [[Anthropomorphic Optimism]]
+- [[Sorting Pebbles Into Correct Heaps]]
+- "[rational](/lw/nc/newcombs_problem_and_regret_of_rationality/)"

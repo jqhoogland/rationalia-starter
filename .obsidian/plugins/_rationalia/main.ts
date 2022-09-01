@@ -9,7 +9,6 @@ export default class Rationalia extends Plugin {
 	settings = {};
 	
 
-
 	async onload() {
 
 		this.addCommand({
@@ -35,9 +34,10 @@ export default class Rationalia extends Plugin {
 				const files = this.app.vault.getMarkdownFiles();
 
 				// Batches of 100
-				for (let i = 0; i < files.length / 100; i++) {
-					console.log("Synching files " + (i * 100) + " to " + ((i + 1) * 100));
-					await Promise.all(files.slice(i * 100, i + 100).map(async (file) => {
+				const batchSize = 50;
+				for (let i = 0; i < files.length / batchSize; i++) {
+					console.log("Synching files " + (i * batchSize) + " to " + ((i + 1) * batchSize));
+					await Promise.all(files.slice(i * batchSize, (i + 1) * batchSize).map(async (file) => {
 						try {
 							console.log(file.basename)
 							this.app.vault.modify(
@@ -343,7 +343,6 @@ const getTitleFromLink = async (href: string) => {
 		).first()
 		
 		if (!page?.title) {
-			console.error(page)
 			throw new Error(id_or_slug)
 		}
 
@@ -506,6 +505,6 @@ export interface PostFrontmatter {
 	status: Status
 }
 
-function timeout(ms) {
+function timeout(ms: number) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }

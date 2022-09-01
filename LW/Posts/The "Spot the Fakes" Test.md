@@ -11,10 +11,19 @@ tags:
   - Post
   - Replication_Crisis
 href: https://www.lesswrong.com/posts/KLjQedNYNEP4tW73W/the-spot-the-fakes-test
-sequence: Positivism and Self Deception
 chapter: null
-synchedAt: '2022-08-30T08:16:38.539Z'
+synchedAt: '2022-09-01T09:10:10.217Z'
 status: todo
 ---
 
 # The "Spot the Fakes" Test
+
+
+# Related
+
+- [[Replication Crisis]]
+- [[Are You a Solar Deity?]]
+- "[The hoax](http://en.wikipedia.org/wiki/Ern_Malley)"
+- "[Sokal Affair](http://en.wikipedia.org/wiki/Sokal_Hoax)"
+- "[some other excellent examples](http://en.wikipedia.org/wiki/Sokal_Hoax#Similar_affairs)"
+- "[Your Strength as a Rationalist](http://www.overcomingbias.com/2007/08/your-strength-a.html)"

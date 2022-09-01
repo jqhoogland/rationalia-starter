@@ -13,10 +13,19 @@ tags:
   - Fiction
 href: >-
   https://www.lesswrong.com/posts/mMBTPTjRbsrqbSkZE/sorting-pebbles-into-correct-heaps
-sequence: Metaethics
+sequence: Value Theory
 chapter: null
-synchedAt: '2022-08-30T08:17:49.143Z'
+synchedAt: '2022-09-01T09:10:44.708Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Goodness
 ---
 
 # Sorting Pebbles Into Correct Heaps
+
+
+# Related
+
+- [[Fiction]]
+- [[Orthogonality Thesis]]
+- "[maybe a Fisherian runaway sexual selection](http://en.wikipedia.org/wiki/Fisherian_runaway)"

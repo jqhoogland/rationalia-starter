@@ -14,8 +14,16 @@ href: >-
   https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-they-work
 sequence: Coordination
 chapter: null
-synchedAt: '2022-08-30T08:16:36.565Z'
+synchedAt: '2022-09-01T09:12:40.076Z'
 status: todo
+collection: Best of LessWrong
+book: A Map That Reflects the Territory
 ---
 
 # Prediction Markets: When Do They Work?
+
+
+# Related
+
+- [[Prediction Markets]]
+- "[The Constanza](https://en.wikipedia.org/wiki/The_Opposite)"

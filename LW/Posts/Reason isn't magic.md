@@ -13,8 +13,17 @@ tags:
 href: https://www.lesswrong.com/posts/TMFNQoRZxM4CuRCY6/reason-isn-t-magic
 sequence: Trust
 chapter: null
-synchedAt: '2022-08-30T08:16:35.383Z'
+synchedAt: '2022-09-01T09:12:32.435Z'
 status: todo
+collection: Best of LessWrong
+book: The Engines of Cognition
 ---
 
 # Reason Isn't Magic
+
+
+# Related
+
+- [[Cultural knowledge]]
+- "[like to tell](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)"
+- "[is bad](https://thezvi.wordpress.com/2017/07/20/change-is-bad/)"

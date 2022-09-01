@@ -15,8 +15,17 @@ tags:
 href: https://www.lesswrong.com/posts/LaM5aTcXvXzwQSC2Q/universal-fire
 sequence: Lawful Truth
 chapter: null
-synchedAt: '2022-08-30T08:17:35.611Z'
+synchedAt: '2022-09-01T09:08:10.473Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Universal Fire
+
+
+# Related
+
+- [[Law-Thinking]]
+- [[Rationality]]
+- [[Fiction (Topic)]]

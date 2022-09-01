@@ -7,11 +7,22 @@ tags:
   - LessWrong
   - Concept
   - Post
+  - Rationality
+  - Heuristics_&_Biases
 href: https://www.lesswrong.com/posts/jnZbHi873v9vcpGpZ/what-s-a-bias
 sequence: Predictably Wrong
 chapter: null
-synchedAt: '2022-08-30T08:17:57.586Z'
+synchedAt: '2022-09-01T09:08:00.087Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
+author: Eliezer Yudkowsky
 ---
 
 # What's a Bias?
+
+
+# Related
+
+- [[Rationality]]
+- [[Heuristics & Biases]]

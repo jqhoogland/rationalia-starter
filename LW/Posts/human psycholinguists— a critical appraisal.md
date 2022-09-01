@@ -17,7 +17,7 @@ href: >-
   https://www.lesswrong.com/posts/ZFtesgbY9XwtqqyZ5/human-psycholinguists-a-critical-appraisal
 sequence: Failure
 chapter: null
-synchedAt: '2022-09-01T08:39:30.636Z'
+synchedAt: '2022-09-01T09:07:37.527Z'
 status: todo
 collection: Best of LessWrong
 book: The Engines of Cognition

@@ -14,11 +14,26 @@ tags:
   - Fiction_(Topic)
   - Absurdity_Heuristic
   - Hindsight_Bias
+  - Heuristics_&_Biases
 href: https://www.lesswrong.com/posts/h3vdnR34ZvohDEFT5/stranger-than-history
 sequence: Seeing with Fresh Eyes
 chapter: null
-synchedAt: '2022-08-30T08:17:38.481Z'
+synchedAt: '2022-09-01T09:10:29.675Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Stranger Than History
+
+
+# Related
+
+- [[History]]
+- [[Heuristics & Biases]]
+- [[Fiction (Topic)]]
+- [[Absurdity Heuristic]]
+- [[Hindsight Bias]]
+- "[1](#fn1x44)"
+- "[1](#fn1x44-bk)"
+- [[Making History Available]]

@@ -13,7 +13,7 @@ tags:
 href: https://www.lesswrong.com/posts/4moMTeCy9EqYxAher/zombie-responses
 sequence: Physicalism 201
 chapter: null
-synchedAt: '2022-09-01T08:39:30.755Z'
+synchedAt: '2022-09-01T09:07:37.627Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: Mere Reality

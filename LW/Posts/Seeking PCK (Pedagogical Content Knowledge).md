@@ -11,12 +11,19 @@ tags:
   - Post
   - Distillation_& Pedagogy
   - Rationality
+  - Distillation_&_Pedagogy
 href: >-
   https://www.lesswrong.com/posts/CsNtMunxsZnvumYLe/seeking-pck-pedagogical-content-knowledge
 sequence: CFAR Handbook
 chapter: Classes
-synchedAt: '2022-08-30T08:16:31.489Z'
+synchedAt: '2022-09-01T09:11:34.863Z'
 status: todo
 ---
 
 # Seeking PCK (Pedagogical Content Knowledge)
+
+
+# Related
+
+- [[Distillation & Pedagogy]]
+- [[Rationality]]

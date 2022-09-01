@@ -15,8 +15,17 @@ tags:
 href: https://www.lesswrong.com/posts/7iTwGquBFZKttpEdE/universal-law
 sequence: Lawful Truth
 chapter: null
-synchedAt: '2022-08-30T08:17:35.648Z'
+synchedAt: '2022-09-01T09:08:04.489Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Universal Law
+
+
+# Related
+
+- [[Law-Thinking]]
+- [[World Modeling]]
+- [[Absurdity Heuristic]]

@@ -16,8 +16,16 @@ href: >-
   https://www.lesswrong.com/posts/sCCdCLPN9E3YvdZhj/shulman-and-yudkowsky-on-ai-progress
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.620Z'
+synchedAt: '2022-09-01T09:11:18.059Z'
 status: todo
 ---
 
 # Shulman and Yudkowsky on AI Progress
+
+
+# Related
+
+- [[AI]]
+- [[AI Timelines]]
+- [[AI Takeoff]]
+- [[Christiano, Cotra, and Yudkowsky on AI progress]]

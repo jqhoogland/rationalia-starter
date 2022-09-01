@@ -14,8 +14,19 @@ tags:
 href: https://www.lesswrong.com/posts/SwCwG9wZcAzQtckwx/that-tiny-note-of-discord
 sequence: Yudkowsky's Coming of Age
 chapter: null
-synchedAt: '2022-08-30T08:17:32.330Z'
+synchedAt: '2022-09-01T09:10:17.188Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Becoming Stronger
 ---
 
 # That Tiny Note of Discord
+
+
+# Related
+
+- [[Noticing]]
+- [[Noticing Confusion]]
+- [[The Bedrock of Fairness]]
+- [[Fake Utility Functions]]
+- [[Artificial Addition]]

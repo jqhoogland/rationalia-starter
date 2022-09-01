@@ -16,8 +16,20 @@ href: >-
   https://www.lesswrong.com/posts/kJiPnaQPiy4p9Eqki/what-evidence-filtered-evidence
 sequence: Against Rationalization
 chapter: null
-synchedAt: '2022-08-30T08:17:38.890Z'
+synchedAt: '2022-09-01T09:08:00.872Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # What Evidence Filtered Evidence?
+
+
+# Related
+
+- [[Filtered Evidence]]
+- [[Rationality]]
+- [[Rationalization]]
+- "[1](#fn1x28)"
+- "[1](#fn1x28-bk)"
+- "[How Much Evidence Does It Take?](http://lesswrong.com/rationality/how-much-evidence-does-it-take)"

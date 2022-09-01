@@ -14,8 +14,17 @@ tags:
 href: https://www.lesswrong.com/posts/PrCmeuBPC4XLDQz8C/unconscious-economics
 sequence: Incentives
 chapter: null
-synchedAt: '2022-08-30T08:16:34.900Z'
+synchedAt: '2022-09-01T09:08:09.844Z'
 status: todo
+collection: Best of LessWrong
+book: The Engines of Cognition
 ---
 
 # Unconscious Economics
+
+
+# Related
+
+- [[Economics]]
+- [[World Modeling]]
+- "[this post](https://www.econlib.org/lets-not-emphasize-behavioral-economics/)"

@@ -12,11 +12,22 @@ tags:
   - Fiction
   - More_Dakka
   - Five_minute timers
+  - Five_minute_timers
 href: https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke
-sequence: Thinking Better on Purpose
+sequence: Challenging the Difficult
 chapter: null
-synchedAt: '2022-08-30T08:17:32.027Z'
+synchedAt: '2022-09-01T09:08:04.859Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Becoming Stronger
 ---
 
 # Use the Try Harder, Luke
+
+
+# Related
+
+- [[Fiction]]
+- [[More Dakka]]
+- [[Five minute timers]]
+- "[whiny teenager](http://www.youtube.com/watch?v=X66jntR0MVE)"

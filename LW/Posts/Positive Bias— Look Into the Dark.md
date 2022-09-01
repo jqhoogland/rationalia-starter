@@ -12,12 +12,19 @@ tags:
   - Confirmation_Bias
 href: >-
   https://www.lesswrong.com/posts/rmAbiEKQDpDnZzcRf/positive-bias-look-into-the-dark
-sequence: Pitfalls of Human Cognition
+sequence: Mysterious Answers
 chapter: null
-synchedAt: '2022-08-30T08:17:40.126Z'
+synchedAt: '2022-09-01T09:12:37.858Z'
 aliases:
   - Positive Bias
 status: todo
+collection: 'Rationality: A-Z'
+book: 'Map and Territory '
 ---
 
 # Positive Bias: Look Into the Dark
+
+
+# Related
+
+- [[Confirmation Bias]]

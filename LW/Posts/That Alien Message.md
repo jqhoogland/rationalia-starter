@@ -7,11 +7,32 @@ tags:
   - LessWrong
   - Concept
   - Post
+  - Fiction
+  - AI_Boxing_(Containment)
+  - AI
+  - Simulation_Hypothesis
+  - Bayesianism
+  - Parables_&_Fables
 href: https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message
-sequence: Quantum Physics
+sequence: Science and Rationality
 chapter: null
-synchedAt: '2022-08-30T08:17:59.654Z'
+synchedAt: '2022-09-01T09:10:18.425Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
+author: Eliezer_Yudkowsky
 ---
 
 # That Alien Message
+
+
+# Related
+
+- [[Fiction]]
+- [[AI Boxing (Containment)]]
+- [[AI]]
+- [[Simulation Hypothesis]]
+- [[Bayesianism]]
+- [[Parables & Fables]]
+- [[Initiation Ceremony]]
+- "[let us out of the box](http://yudkowsky.net/essays/aibox.html)"

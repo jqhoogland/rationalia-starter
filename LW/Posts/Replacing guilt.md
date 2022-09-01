@@ -12,8 +12,13 @@ tags:
 href: https://www.lesswrong.com/posts/C5Qucpm3QXM7fMqMJ/replacing-guilt
 sequence: Replacing Guilt
 chapter: Fighting for something
-synchedAt: '2022-08-30T08:16:32.557Z'
+synchedAt: '2022-09-01T09:12:07.870Z'
 status: todo
 ---
 
 # Replacing Guilt
+
+
+# Related
+
+- "[effective altruists](http://www.effectivealtruism.org/)"

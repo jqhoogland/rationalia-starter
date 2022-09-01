@@ -14,8 +14,19 @@ href: >-
   https://www.lesswrong.com/posts/36Dhz325MZNq3Cs6B/the-amish-and-strategic-norms-around-technology
 sequence: Incentives
 chapter: null
-synchedAt: '2022-08-30T08:16:35.210Z'
+synchedAt: '2022-09-01T09:10:21.787Z'
 status: todo
+collection: Best of LessWrong
+book: The Engines of Cognition
 ---
 
 # The Amish, and Strategic Norms Around Technology
+
+
+# Related
+
+- [[Book Reviews]]
+- "[Legal Systems Very Different](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/LegalSystemsDraft.html)"
+- "[From](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/LegalSystemsDraft.html)"
+- "[Ours](http://www.daviddfriedman.com/Academic/Course_Pages/legal_systems_very_different_12/LegalSystemsDraft.html)"
+- "[MAPLE](https://www.monasticacademy.com/)"

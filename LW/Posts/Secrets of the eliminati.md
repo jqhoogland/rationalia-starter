@@ -12,10 +12,16 @@ tags:
   - Goal_Factoring
   - Motivations
 href: https://www.lesswrong.com/posts/WQWhXzALcrzrJtqRh/secrets-of-the-eliminati
-sequence: The Blue-Minimizing Robot
 chapter: null
-synchedAt: '2022-08-30T08:17:52.365Z'
+synchedAt: '2022-09-01T09:11:30.106Z'
 status: todo
 ---
 
 # Secrets of the Eliminati
+
+
+# Related
+
+- [[Goal Factoring]]
+- [[Motivations]]
+- "[blue-minimizing robot](/lw/6ha/the_blueminimizing_robot/)"

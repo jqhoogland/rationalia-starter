@@ -12,12 +12,28 @@ tags:
   - Writing_(communication method)
   - Philosophy_of Language
   - Rationality
+  - Writing_(communication_method)
+  - Philosophy_of_Language
 href: >-
   https://www.lesswrong.com/posts/Lz64L3yJEtYGkzMzu/rationality-and-the-english-language
-sequence: LessWrong Political Prerequisites
+sequence: Politics and Rationality
 chapter: null
-synchedAt: '2022-08-30T08:17:54.760Z'
+synchedAt: '2022-09-01T09:12:10.572Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Rationality and the English Language
+
+
+# Related
+
+- [[Writing (communication method)]]
+- [[Philosophy of Language]]
+- [[Rationality]]
+- "[^1^](#fn1x22)"
+- "[^2^](#fn2x22)"
+- "[^1^](#fn1x22-bk)"
+- [[Applause Lights]]
+- "[^2^](#fn2x22-bk)"

@@ -14,8 +14,18 @@ tags:
 href: https://www.lesswrong.com/posts/Zstm38omrpeu7iWeS/the-spotlight
 sequence: Living Luminously
 chapter: Living Luminously
-synchedAt: '2022-08-30T08:17:51.656Z'
+synchedAt: '2022-09-01T09:08:54.079Z'
 status: todo
 ---
 
 # The Spotlight
+
+
+# Related
+
+- [[Introspection]]
+- [[Rationality]]
+- [[Living Luminously]]
+- [[Lights, Camera, Action!]]
+- [[Highlights and Shadows]]
+- [[Seven Shiny Stories]]

@@ -19,7 +19,7 @@ href: >-
   https://www.lesswrong.com/posts/8SEvTvYFX2KDRZjti/answer-why-wasn-t-science-invented-in-china
 sequence: Failure
 chapter: null
-synchedAt: '2022-09-01T08:39:34.448Z'
+synchedAt: '2022-09-01T09:07:37.771Z'
 status: todo
 collection: Best of LessWrong
 book: The Engines of Cognition

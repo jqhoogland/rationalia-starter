@@ -16,7 +16,7 @@ tags:
 href: https://www.lesswrong.com/posts/zNcLnqHF5rvrTsQJx/zut-allais
 sequence: Quantified Humanism
 chapter: null
-synchedAt: '2022-09-01T08:39:30.754Z'
+synchedAt: '2022-09-01T09:07:37.908Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: Mere Goodness

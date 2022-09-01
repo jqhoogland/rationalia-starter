@@ -18,8 +18,21 @@ href: >-
   https://www.lesswrong.com/posts/x6hpkYyzMG6Bf8T3W/swiss-political-system-more-than-you-ever-wanted-to-know-i
 sequence: Coordination & Constraint
 chapter: null
-synchedAt: '2022-08-30T08:16:34.112Z'
+synchedAt: '2022-09-01T09:10:22.080Z'
 status: todo
+collection: Best of LessWrong
 ---
 
 # Swiss Political System: More Than You Ever Wanted to Know (I.)
+
+
+# Related
+
+- [[World Optimization]]
+- [[World Modeling]]
+- [[Mechanism Design]]
+- [[Politics]]
+- [[Fact posts]]
+- "[quorum](https://en.wikipedia.org/wiki/Quorum)"
+- "[Overton window](https://en.wikipedia.org/wiki/Overton_window)"
+- "[Next part](https://www.lesswrong.com/posts/KTnJ4w4grttfJmwo9/swiss-political-system-more-than-you-ever-wanted-to-know-ii)"

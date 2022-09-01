@@ -12,10 +12,27 @@ tags:
   - Physics
 href: >-
   https://www.lesswrong.com/posts/eWuuznxeebcjWpdnH/the-so-called-heisenberg-uncertainty-principle
-sequence: Quantum Physics
 chapter: null
-synchedAt: '2022-08-30T08:17:49.596Z'
+synchedAt: '2022-09-01T09:09:00.565Z'
 status: todo
 ---
 
 # The So-Called Heisenberg Uncertainty Principle
+
+
+# Related
+
+- [[Physics]]
+- [[Decoherence]]
+- [[The Quantum Arena]]
+- "[real situation you could find a particle in](http://dresdencodak.com/cartoons/dc_014.htm)"
+- "[wave](https://www.lesswrong.com/lw/iq/guessing_the_teachers_password/)"
+- [[Feynman Paths]]
+- "[Wikipedia](http://en.wikipedia.org/wiki/Uncertainty_principle)"
+- [[Perpetual Motion Beliefs]]
+- [[Mind Projection Fallacy]]
+- [[Where Philosophy Meets Science]]
+- [[Configurations and Amplitude]]
+- [[Joint Configurations]]
+- "[The Quantum Physics Sequence](https://www.lesswrong.com/lw/r5/the_quantum_physics_sequence/)"
+- [[Which Basis Is More Fundamental?]]

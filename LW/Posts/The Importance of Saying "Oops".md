@@ -13,12 +13,23 @@ tags:
   - Self-Deception
   - Epistemology
   - Changing_Your Mind
+  - Changing_Your_Mind
 href: >-
   https://www.lesswrong.com/posts/wCqfCLs8z5Qw4GbKS/the-importance-of-saying-oops
-sequence: Thinking Better on Purpose
+sequence: Letting Go
 chapter: null
-synchedAt: '2022-08-30T08:17:37.407Z'
+synchedAt: '2022-09-01T09:09:21.429Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # The Importance of Saying "Oops"
+
+
+# Related
+
+- [[Honesty]]
+- [[Self-Deception]]
+- [[Epistemology]]
+- [[Changing Your Mind]]

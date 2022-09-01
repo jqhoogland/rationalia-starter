@@ -12,10 +12,18 @@ tags:
   - Rationalization
   - Rationality
 href: https://www.lesswrong.com/posts/SFZoEBpLo9frSJGkc/rationalization
-sequence: Pitfalls of Human Cognition
+sequence: Against Rationalization
 chapter: null
-synchedAt: '2022-08-30T08:17:38.919Z'
+synchedAt: '2022-09-01T09:12:09.618Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Rationalization
+
+
+# Related
+
+- [[Rationalization]]
+- [[Rationality]]

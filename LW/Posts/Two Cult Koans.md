@@ -17,8 +17,19 @@ tags:
 href: https://www.lesswrong.com/posts/Qr4MB9hFRzamuMRHJ/two-cult-koans
 sequence: Death Spirals
 chapter: null
-synchedAt: '2022-08-30T08:17:38.043Z'
+synchedAt: '2022-09-01T09:08:04.489Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Two Cult Koans
+
+
+# Related
+
+- [[Groupthink]]
+- [[Fiction]]
+- [[Humor]]
+- [[Courage]]
+- [[Cults]]

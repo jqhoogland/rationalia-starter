@@ -15,7 +15,7 @@ href: >-
   https://www.lesswrong.com/posts/krarE7WFijAtHf3hm/microcovid-org-a-tool-to-estimate-covid-risk-from-common
 sequence: Coordination & Constraint
 chapter: null
-synchedAt: '2022-09-01T08:39:30.736Z'
+synchedAt: '2022-09-01T09:07:37.538Z'
 status: todo
 collection: Best of LessWrong
 ---

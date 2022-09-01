@@ -16,8 +16,22 @@ href: >-
   https://www.lesswrong.com/posts/fLRPeXihRaiRo5dyX/the-magnitude-of-his-own-folly
 sequence: Yudkowsky's Coming of Age
 chapter: null
-synchedAt: '2022-08-30T08:17:32.438Z'
+synchedAt: '2022-09-01T09:09:14.787Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Becoming Stronger
 ---
 
 # The Magnitude of His Own Folly
+
+
+# Related
+
+- [[AI Risk]]
+- [[Growth Stories]]
+- [[Heroic Responsibility]]
+- "[would-be creator of Artificial General Intelligence (with a funded project) who happened to be a creationist](/lw/uc/aboveaverage_ai_scientists/)"
+- "[self-destructiveness](/lw/hf/debiasing_as_nonselfdestruction/)"
+- [[Raised in Technophilia]]
+- [[My Naturalistic Awakening]]
+- [[No Safe Defense, Not Even Science]]

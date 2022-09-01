@@ -13,11 +13,22 @@ tags:
   - Litanies_& Mantras
   - Rationality
   - Courage
+  - Litanies_&_Mantras
 href: https://www.lesswrong.com/posts/HYWhKXRsMAyvRKRYz/you-can-face-reality
-sequence: Pitfalls of Human Cognition
+sequence: Letting Go
 chapter: null
-synchedAt: '2022-08-30T08:17:37.535Z'
+synchedAt: '2022-09-01T09:07:45.201Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # You Can Face Reality
+
+
+# Related
+
+- [[Poetry]]
+- [[Litanies & Mantras]]
+- [[Rationality]]
+- [[Courage]]

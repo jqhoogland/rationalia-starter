@@ -17,8 +17,19 @@ tags:
 href: https://www.lesswrong.com/posts/erGipespbbzdG5zYb/the-third-alternative
 sequence: Overly Convenient Excuses
 chapter: null
-synchedAt: '2022-08-30T08:17:39.598Z'
+synchedAt: '2022-09-01T09:08:52.164Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # The Third Alternative
+
+
+# Related
+
+- [[Rationality]]
+- [[Self-Deception]]
+- [[Fallacies]]
+- [[Motivations]]
+- [[Defensibility]]

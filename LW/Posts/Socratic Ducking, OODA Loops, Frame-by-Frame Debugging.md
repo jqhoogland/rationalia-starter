@@ -15,8 +15,14 @@ href: >-
   https://www.lesswrong.com/posts/CJGKkTjWLGCwhkjGY/socratic-ducking-ooda-loops-frame-by-frame-debugging
 sequence: CFAR Handbook
 chapter: Flash Classes
-synchedAt: '2022-08-30T08:16:31.950Z'
+synchedAt: '2022-09-01T09:10:38.286Z'
 status: todo
 ---
 
 # Socratic Ducking, OODA Loops, Frame-by-Frame Debugging
+
+
+# Related
+
+- [[Techniques]]
+- [[Rationality]]

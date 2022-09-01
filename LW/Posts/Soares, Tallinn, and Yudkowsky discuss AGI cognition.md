@@ -17,8 +17,18 @@ href: >-
   https://www.lesswrong.com/posts/oKYWbXioKaANATxKY/soares-tallinn-and-yudkowsky-discuss-agi-cognition
 sequence: 2021 MIRI Conversations
 chapter: null
-synchedAt: '2022-08-30T08:17:53.502Z'
+synchedAt: '2022-09-01T09:10:44.832Z'
 status: todo
 ---
 
 # Soares, Tallinn, and Yudkowsky Discuss AGI Cognition
+
+
+# Related
+
+- [[AI]]
+- [[General Intelligence]]
+- [[AI Takeoff]]
+- [[Treacherous Turn]]
+- [[Ngo and Yudkowsky on alignment difficulty]]
+- [[Ngo and Yudkowsky on AI capability gains]]

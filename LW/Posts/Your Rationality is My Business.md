@@ -16,7 +16,7 @@ href: >-
   https://www.lesswrong.com/posts/anCubLdggTWjnEvBS/your-rationality-is-my-business
 sequence: Overly Convenient Excuses
 chapter: null
-synchedAt: '2022-09-01T08:39:34.790Z'
+synchedAt: '2022-09-01T09:07:45.202Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: How to Actually Change Your Mind

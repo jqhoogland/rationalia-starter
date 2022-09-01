@@ -11,11 +11,25 @@ tags:
   - Post
   - Practice_& Philosophy of Science
   - Rationality
+  - Practice_&_Philosophy_of_Science
 href: https://www.lesswrong.com/posts/viPPjojmChxLGPE2v/the-dilemma-science-or-bayes
-sequence: Quantum Physics
+sequence: Science and Rationality
 chapter: null
-synchedAt: '2022-08-30T08:17:50.228Z'
+synchedAt: '2022-09-01T09:09:46.092Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # The Dilemma: Science or Bayes?
+
+
+# Related
+
+- [[Practice & Philosophy of Science]]
+- [[Rationality]]
+- "[Shane Legg](http://www.overcomingbias.com/2008/05/eppur-si-moon.html#comment-113818558)"
+- "[Recovering irrationalist](http://www.overcomingbias.com/2008/05/many-worlds-one.html#comment-114204220)"
+- "[majoritarianism](http://www.overcomingbias.com/2007/03/on_majoritarian.html)"
+- [[On Being Decoherent]]
+- [[Decoherence is Simple]]

@@ -13,10 +13,20 @@ tags:
   - Affect_Heuristic
 href: >-
   https://www.lesswrong.com/posts/XYCEB9roxEBfgjfxs/the-scales-of-justice-the-notebook-of-rationality
-sequence: LessWrong Political Prerequisites
+sequence: Politics and Rationality
 chapter: null
-synchedAt: '2022-08-30T08:17:54.608Z'
+synchedAt: '2022-09-01T09:09:00.341Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # The Scales of Justice, the Notebook of Rationality
+
+
+# Related
+
+- [[Rationality]]
+- [[Affect Heuristic]]
+- "[1](#fn1x16)"
+- "[1](#fn1x16-bk)"

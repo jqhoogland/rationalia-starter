@@ -15,8 +15,16 @@ href: >-
   https://www.lesswrong.com/posts/gWGA8Da539EQmAR9F/tsuyoku-vs-the-egalitarian-instinct
 sequence: Overly Convenient Excuses
 chapter: null
-synchedAt: '2022-08-30T08:17:39.569Z'
+synchedAt: '2022-09-01T09:08:09.844Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Tsuyoku Vs. the Egalitarian Instinct
+
+
+# Related
+
+- [[Ambition]]
+- [[Tsuyoku Naritai]]

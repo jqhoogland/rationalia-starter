@@ -12,10 +12,20 @@ tags:
   - Conversation_(topic)
   - Signaling
 href: https://www.lesswrong.com/posts/9hR2RmpJmxT8dyPo4/when-truth-isn-t-enough
-sequence: Positivism and Self Deception
 chapter: null
-synchedAt: '2022-08-30T08:16:38.627Z'
+synchedAt: '2022-09-01T09:07:56.145Z'
 status: todo
 ---
 
 # When Truth Isn't Enough
+
+
+# Related
+
+- [[Conversation (topic)]]
+- [[Signaling]]
+- [[The Power of Positivist Thinking]]
+- "[dennettations](http://www.philosophicallexicon.com/)"
+- "[saying something very questionable](http://www.overcomingbias.com/2007/03/policy_debates_.html)"
+- "[EDIT: Changed acronym to [better suggestion by badger](/lw/4h/when_truth_isnt_enough/38u#comments)"
+- "[says in the comments](/lw/4h/when_truth_isnt_enough/38p#comments)"

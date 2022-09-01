@@ -14,8 +14,17 @@ tags:
 href: https://www.lesswrong.com/posts/Kdgpm7t9gZvWncZqa/rest-in-motion
 sequence: Replacing Guilt
 chapter: Half monkey, half god
-synchedAt: '2022-08-30T08:16:32.741Z'
+synchedAt: '2022-09-01T09:11:46.314Z'
 status: todo
 ---
 
 # Rest in Motion
+
+
+# Related
+
+- [[Practical]]
+- [[World Optimization]]
+- "[You already dropped your obligations, remember?](http://mindingourway.com/not-because-you-should/)"
+- "[the world isn't going to be in a stable state for a long time](http://mindingourway.com/the-value-of-a-life/)"
+- "[we have things to do](http://mindingourway.com/caring-about-some/)"

@@ -13,8 +13,18 @@ tags:
 href: https://www.lesswrong.com/posts/tWLFWAndSZSYN6rPB/think-like-reality
 sequence: Reductionism 101
 chapter: null
-synchedAt: '2022-08-30T08:17:35.417Z'
+synchedAt: '2022-09-01T09:08:31.432Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Think Like Reality
+
+
+# Related
+
+- [[Rationality]]
+- [[Universal Law]]
+- "[stupid](http://yudkowsky.net/bayes/technical.html)"
+- [[Outside the Laboratory]]

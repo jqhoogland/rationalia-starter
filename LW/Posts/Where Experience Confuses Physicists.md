@@ -13,12 +13,31 @@ tags:
   - Anthropics
   - Fiction
   - Parables_& Fables
+  - Parables_&_Fables
 href: >-
   https://www.lesswrong.com/posts/vGbHKfgFNDeJohfeN/where-experience-confuses-physicists
-sequence: Quantum Physics
 chapter: null
-synchedAt: '2022-08-30T08:17:49.730Z'
+synchedAt: '2022-09-01T09:07:56.897Z'
 status: todo
 ---
 
 # Where Experience Confuses Physicists
+
+
+# Related
+
+- [[Physics]]
+- [[Anthropics]]
+- [[Fiction]]
+- [[Parables & Fables]]
+- [[Where Physics Meets Experience]]
+- [[Fake Explanations]]
+- [[Your Strength as a Rationalist]]
+- [[Fake Causality]]
+- [[Mysterious Answers to Mysterious Questions]]
+- "[Generalized Anti-Zombie Principle](/lw/p9/the_generalized_antizombie_principle/)"
+- "[affirming the consequent](http://en.wikipedia.org/wiki/Affirming_the_consequent)"
+- "[it cracks to pieces and falls apart](http://hanson.gmu.edu/mangledworlds.html)"
+- "[calculations](http://hanson.gmu.edu/worldhit.pdf)"
+- "[_The Quantum Physics Sequence_](/lw/r5/the_quantum_physics_sequence/)"
+- [[On Being Decoherent]]
