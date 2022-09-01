@@ -348,9 +348,7 @@ const getTitleFromLink = async (href: string) => {
 		}
 
 		return page.title
-        
 	} catch (e) {
-		console.log("External:", e)
         return false;
     }
 }
