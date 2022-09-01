@@ -32,8 +32,4 @@ book: How to Actually Change Your Mind
 - [[Writing (communication method)]]
 - [[Philosophy of Language]]
 - [[Rationality]]
-- "[^1^](#fn1x22)"
-- "[^2^](#fn2x22)"
-- "[^1^](#fn1x22-bk)"
-- [[Applause Lights]]
 - "[^2^](#fn2x22-bk)"

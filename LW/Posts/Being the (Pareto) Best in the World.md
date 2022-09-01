@@ -12,12 +12,22 @@ tags:
   - Rationality
   - Efficient_Market Hypothesis
   - Careers
+  - Efficient_Market_Hypothesis
 href: >-
   https://www.lesswrong.com/posts/XvN2QQpKTuEzgkZHY/being-the-pareto-best-in-the-world
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
-synchedAt: '2022-08-30T08:17:53.088Z'
+synchedAt: '2022-09-01T09:33:44.944Z'
 status: todo
+collection: Highlights from the Sequences
+book: null
 ---
 
 # Being the (Pareto) Best in the World
+
+
+# Related
+
+- [[Rationality]]
+- [[Efficient Market Hypothesis]]
+- [[Careers]]

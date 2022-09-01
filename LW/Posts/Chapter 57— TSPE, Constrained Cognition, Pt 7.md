@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/f5hF3hyEoJWfeeduA/chapter-57-tspe-constrained-cognition-pt-7
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
-synchedAt: '2022-08-30T08:17:43.362Z'
+synchedAt: '2022-09-01T09:32:52.907Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 57: TSPE, Constrained Cognition, Pt 7
+
+
+# Related
+
+- [[Fiction]]

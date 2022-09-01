@@ -34,6 +34,3 @@ status: todo
 - "[http://sebastianmarshall.com/barbarian-warlord](http://sebastianmarshall.com/barbarian-warlord)"
 - "[http://tinyhabits.com/](http://tinyhabits.com/)"
 - "[https://goo.gl/Pi7tiR](https://goo.gl/Pi7tiR)"
-- "[^](#fnref9hcoczb9u38)"
-- "[^](#fnrefctizlc3j95g)"
-- "[^](#fnrefndwhq1naiis)"

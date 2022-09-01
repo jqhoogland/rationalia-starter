@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/udB9GNwsrs72YAbsh/chapter-59-tspe-curiosity-pt-9
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
-synchedAt: '2022-08-30T08:17:43.424Z'
+synchedAt: '2022-09-01T09:32:52.902Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 59: TSPE, Curiosity, Pt 9
+
+
+# Related
+
+- [[Fiction]]

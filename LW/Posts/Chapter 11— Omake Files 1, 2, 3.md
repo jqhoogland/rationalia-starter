@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/CSrtbghkgTTpDmWhT/chapter-11-omake-files-1-2-3
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:44.955Z'
+synchedAt: '2022-09-01T09:32:55.309Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 11: Omake Files 1, 2, 3
+
+
+# Related
+
+- [[Fiction]]

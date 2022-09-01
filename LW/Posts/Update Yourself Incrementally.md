@@ -39,6 +39,5 @@ book: How to Actually Change Your Mind
 - "[arguments are soldiers](https://www.lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)"
 - [[Belief in Belief]]
 - "[take a hit or two](https://www.lesswrong.com/lw/ig/i_defy_the_data/)"
-- "[^2^](#fn2x25)"
 - "[it creates cognitive dissonance and has to be argued away](https://www.lesswrong.com/lw/ig/i_defy_the_data/)"
 - "[terrified](https://www.lesswrong.com/lw/i8/religions_claim_to_be_nondisprovable/)"

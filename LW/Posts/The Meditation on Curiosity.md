@@ -31,7 +31,5 @@ book: How to Actually Change Your Mind
 - "[The Twelve Virtues of Rationality](https://www.lesswrong.com/rationality/twelve-virtues-of-rationality)"
 - [[The Third Alternative]]
 - [[Scope Insensitivity]]
-- "[A Fable of Science and Politics](https://www.lesswrong.com/rationality/a-fable-of-science-and-politics)"
-- "[^1^](#fn1x71)"
-- "[Conservation of Expected Evidence](https://www.lesswrong.com/rationality/conservation-of-expected-evidence)"
+- "[A Fable of Science and Politics](https://www.lesswrong.com/rationality/a-fable-of-science-and-politics)"xpected Evidence](https://www.lesswrong.com/rationality/conservation-of-expected-evidence)"
 - "[^1^](#fn1x71-bk)"

@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/L5ighGWYwJv6Jyr6G/come-to-your-terms
 sequence: Replacing Guilt
 chapter: The dark world
-synchedAt: '2022-08-30T08:16:33.116Z'
+synchedAt: '2022-09-01T09:32:40.032Z'
 status: todo
 ---
 
 # Come to Your Terms
+
+
+# Related
+
+- [[World Optimization]]
+- "[buckled, rather than buckling down](http://mindingourway.com/being-unable-to-despair/)"
+- "[changing the world](http://mindingourway.com/on-saving-the-world/)"

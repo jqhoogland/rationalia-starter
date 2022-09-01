@@ -14,10 +14,21 @@ tags:
   - Noticing
 href: >-
   https://www.lesswrong.com/posts/dHQkDNMhj692ayx78/avoiding-your-belief-s-real-weak-points
-sequence: Pitfalls of Human Cognition
+sequence: Against Rationalization
 chapter: null
-synchedAt: '2022-08-30T08:17:38.978Z'
+synchedAt: '2022-09-01T09:33:50.579Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Avoiding Your Belief's Real Weak Points
+
+
+# Related
+
+- [[Religion]]
+- [[Motivated Reasoning]]
+- [[Noticing]]
+- "[1](#fn1x31)"
+- "[1](#fn1x31-bk)"

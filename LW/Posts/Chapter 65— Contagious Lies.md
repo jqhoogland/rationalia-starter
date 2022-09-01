@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/qWC36EKyHQmiziKXJ/chapter-65-contagious-lies
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:41.806Z'
+synchedAt: '2022-09-01T09:32:52.492Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 65: Contagious Lies
+
+
+# Related
+
+- [[Fiction]]

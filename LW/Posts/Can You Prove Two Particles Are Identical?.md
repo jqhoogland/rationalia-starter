@@ -13,10 +13,23 @@ tags:
   - Philosophy
 href: >-
   https://www.lesswrong.com/posts/Bp8vnEciPA5TXSy6f/can-you-prove-two-particles-are-identical
-sequence: Quantum Physics
 chapter: null
-synchedAt: '2022-08-30T08:17:49.362Z'
+synchedAt: '2022-09-01T09:33:11.566Z'
 status: todo
 ---
 
 # Can You Prove Two Particles Are Identical?
+
+
+# Related
+
+- [[Physics]]
+- [[Philosophy]]
+- "[Quantum Physics Sequence](/lw/r5/the_quantum_physics_sequence/)"
+- [[Where Philosophy Meets Science]]
+- [[Joint Configurations]]
+- "[science just doesn't know](/lw/kj/no_one_knows_what_science_doesnt_know/)"
+- [[Absolute Authority]]
+- [[Hindsight Devalues Science]]
+- "[_The Quantum Physics Sequence_](/lw/r5/the_quantum_physics_sequence/)"
+- [[Classical Configuration Spaces]]

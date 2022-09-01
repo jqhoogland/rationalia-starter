@@ -12,10 +12,22 @@ tags:
   - Rationality
   - Cached_Thoughts
 href: https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts
-sequence: Pitfalls of Human Cognition
+sequence: Seeing with Fresh Eyes
 chapter: null
-synchedAt: '2022-08-30T08:17:38.294Z'
+synchedAt: '2022-09-01T09:33:10.781Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Cached Thoughts
+
+
+# Related
+
+- [[Rationality]]
+- [[Cached Thoughts]]
+- "[1](#fn1x41)"
+- "[say](https://lesswrong.com/rationality/feeling-rational)"
+- "[1](#fn1x41-bk)"
+- "[Religion’s Claim to be Non-Disprovable](https://www.lesswrong.com/rationality/religion-s-claim-to-be-non-disprovable)"

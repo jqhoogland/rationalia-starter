@@ -14,8 +14,16 @@ tags:
 href: https://www.lesswrong.com/posts/tffiESEnfSK89GqiM/chapter-87-hedonic-awareness
 sequence: '5: HJPEV and the Last Enemy'
 chapter: HJPEV and the Last Enemy
-synchedAt: '2022-08-30T08:17:42.442Z'
+synchedAt: '2022-09-01T09:32:51.423Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 87: Hedonic Awareness
+
+
+# Related
+
+- [[Fiction]]
+- [[Hedonism]]

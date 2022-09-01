@@ -12,10 +12,15 @@ tags:
   - Modeling_People
 href: >-
   https://www.lesswrong.com/posts/yDRX2fdkm3HqfTpav/approving-reinforces-low-effort-behaviors
-sequence: The Blue-Minimizing Robot
 chapter: null
-synchedAt: '2022-08-30T08:17:52.322Z'
+synchedAt: '2022-09-01T09:33:55.185Z'
 status: todo
 ---
 
 # Approving Reinforces Low-effort Behaviors
+
+
+# Related
+
+- [[Modeling People]]
+- "[stickk](http://www.stickk.com/)"

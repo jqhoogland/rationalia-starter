@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/nfEoTb8J8886irxdr/chapter-38-the-cardinal-sin
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
-synchedAt: '2022-08-30T08:17:42.820Z'
+synchedAt: '2022-09-01T09:32:53.730Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 38: The Cardinal Sin
+
+
+# Related
+
+- [[Fiction]]

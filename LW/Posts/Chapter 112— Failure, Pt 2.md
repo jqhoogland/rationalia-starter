@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/5vCigj2k44F9bumWK/chapter-112-failure-pt-2
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
-synchedAt: '2022-08-30T08:17:44.372Z'
+synchedAt: '2022-09-01T09:32:55.736Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 112: Failure, Pt 2
+
+
+# Related
+
+- [[Fiction]]

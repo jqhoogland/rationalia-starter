@@ -33,5 +33,3 @@ book: How to Actually Change Your Mind
 - [[Heuristics & Biases]]
 - [[Technological Forecasting]]
 - [[Futurism]]
-- "[^1^](#fn1x51)"
-- "[^1^](#fn1x51-bk)"

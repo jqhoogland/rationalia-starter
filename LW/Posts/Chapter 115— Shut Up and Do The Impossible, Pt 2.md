@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/CYnPzFga2nQk9dowy/chapter-115-shut-up-and-do-the-impossible-pt-2
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
-synchedAt: '2022-08-30T08:17:44.454Z'
+synchedAt: '2022-09-01T09:32:55.640Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 115: Shut Up and Do The Impossible, Pt 2
+
+
+# Related
+
+- [[Fiction]]

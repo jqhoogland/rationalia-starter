@@ -15,10 +15,24 @@ tags:
   - Quantum_Mechanics
   - World_Modeling
 href: https://www.lesswrong.com/posts/Atu4teGvob5vKvEAF/decoherence-is-simple
-sequence: Quantum Physics
+sequence: Quantum Physics and Many Worlds
 chapter: null
-synchedAt: '2022-08-30T08:17:49.933Z'
+synchedAt: '2022-09-01T09:32:16.991Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Decoherence is Simple
+
+
+# Related
+
+- [[Physics]]
+- [[Occam's Razor]]
+- [[Solomonoff Induction]]
+- [[Quantum Mechanics]]
+- [[World Modeling]]
+- [[Belief in the Implied Invisible]]
+- "[violate this rule](http://lesswrong.com/lw/ji/conjunction_fallacy/)"
+- [[A Technical Explanation of Technical Explanation]]

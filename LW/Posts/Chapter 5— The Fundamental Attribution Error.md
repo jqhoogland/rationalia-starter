@@ -15,8 +15,16 @@ href: >-
   https://www.lesswrong.com/posts/4HZJPGf2GzC6BSHa6/chapter-5-the-fundamental-attribution-error
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:44.788Z'
+synchedAt: '2022-09-01T09:32:52.889Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 5: The Fundamental Attribution Error
+
+
+# Related
+
+- [[Fiction]]
+- [[Correspondence Bias]]

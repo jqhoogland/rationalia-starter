@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/NLX738bmncXoc94vu/chapter-85-taboo-tradeoffs-aftermath-3-distance-1
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:42.386Z'
+synchedAt: '2022-09-01T09:32:51.579Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 85: Taboo Tradeoffs, Aftermath 3, Distance
+
+
+# Related
+
+- [[Fiction]]

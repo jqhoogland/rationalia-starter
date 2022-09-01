@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/ZfYzvfavHuiwt8ZPb/chapter-89-time-pressure-pt-2
 sequence: '5: HJPEV and the Last Enemy'
 chapter: HJPEV and the Last Enemy
-synchedAt: '2022-08-30T08:17:42.501Z'
+synchedAt: '2022-09-01T09:32:51.358Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 89: Time Pressure, Pt 2
+
+
+# Related
+
+- [[Fiction]]

@@ -45,7 +45,6 @@ status: todo
 - [[Motivated Stopping and Motivated Continuation]]
 - "[semantics](https://twitter.com/robbensinger/status/1515479401034489856)"
 - "[Rodney Brooks' writing](https://www.technologyreview.com/2017/10/06/241837/the-seven-deadly-sins-of-ai-predictions/)"
-- "[^](#fnref45y83giorpd)"
 - "[Russell 2014](https://www.edge.org/conversation/the-myth-of-ai#26015)"
 - "[Urban 2015](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)"
 - "[Muehlhauser 2015](https://lukemuehlhauser.com/a-reply-to-wait-but-why-on-machine-superintelligence/)"
@@ -94,5 +93,4 @@ status: todo
 - "[Miles 2021](https://www.youtube.com/watch?v=pYXy-A4siMw)"
 - "[Turner 2021](https://www.lesswrong.com/s/fSMbebQyR4wheRrvk/p/hzeLSQ9nwDkPc4KNt)"
 - "[Steinhardt 2022](https://bounded-regret.ghost.io/more-is-different-for-ai/)"
-- "[^](#fnrefvdchyaipp9h)"
 - "[*Creating Friendly AI 1.0*](https://intelligence.org/files/CFAI.pdf)"

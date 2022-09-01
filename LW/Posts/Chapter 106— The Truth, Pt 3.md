@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/4aDzgxNLpi5PptNrJ/chapter-106-the-truth-pt-3
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
-synchedAt: '2022-08-30T08:17:44.199Z'
+synchedAt: '2022-09-01T09:32:56.114Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 106: The Truth, Pt 3
+
+
+# Related
+
+- [[Fiction]]

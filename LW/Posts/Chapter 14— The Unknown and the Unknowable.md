@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/MNENGi5ZEm7gMSkWq/chapter-14-the-unknown-and-the-unknowable
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:45.041Z'
+synchedAt: '2022-09-01T09:32:55.271Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 14: The Unknown and the Unknowable
+
+
+# Related
+
+- [[Fiction]]

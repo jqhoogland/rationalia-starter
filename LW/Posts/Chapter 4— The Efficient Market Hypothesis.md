@@ -12,12 +12,22 @@ tags:
   - Financial_Investing
   - Fiction
   - Efficient_Market Hypothesis
+  - Efficient_Market_Hypothesis
 href: >-
   https://www.lesswrong.com/posts/Afwaj6sGfxcQZrmYF/chapter-4-the-efficient-market-hypothesis
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:44.758Z'
+synchedAt: '2022-09-01T09:32:53.305Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 4: The Efficient Market Hypothesis
+
+
+# Related
+
+- [[Financial Investing]]
+- [[Fiction]]
+- [[Efficient Market Hypothesis]]

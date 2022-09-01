@@ -36,5 +36,4 @@ book: The Engines of Cognition
 - "[Qin Shi Huang](https://en.wikipedia.org/wiki/Qin_Shi_Huang)"
 - "[Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)"
 - "[attempt on LW](https://www.lesswrong.com/posts/TmwJ25bkce5KASCYN/rationalist-horoscopes-a-low-hanging-utility-generator)"
-- "[^](#fnrefofr3c3w4x7d)"
 - "[apparently contested](https://www.jstor.org/stable/3773462)"

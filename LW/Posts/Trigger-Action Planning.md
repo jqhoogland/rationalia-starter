@@ -37,4 +37,3 @@ status: todo
 - "[http://goo.gl/ov54yp](http://goo.gl/ov54yp)"
 - "[http://goo.gl/MCV88X](http://goo.gl/MCV88X)"
 - "[http://www.heidigranthalvorson.com/](http://www.heidigranthalvorson.com/)"
-- "[^](#fnref2ejoy67gsat)"

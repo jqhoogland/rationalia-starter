@@ -12,7 +12,7 @@ tags:
 href: >-
   https://www.lesswrong.com/posts/oQoezNCqwHuhJcW3y/an-objective-defense-of-bayesianism
 chapter: null
-synchedAt: '2022-09-01T08:18:29.412Z'
+synchedAt: '2022-09-01T09:35:32.226Z'
 status: todo
 ---
 

@@ -28,9 +28,5 @@ author: Eliezer Yudkowsky
 
 - [[Politics]]
 - [[Libertarianism]]
-- [[Conflict vs Mistake]]
-- "[^1^](#fn1x15)"
-- "[^2^](#fn2x15)"
-- "[^1^](#fn1x15-bk)"
-- "[http://jetpress.org/v16/hanson.pdf](http://jetpress.org/v16/hanson.pdf)"
+- [[Conflict vs Mistake]]rg/v16/hanson.pdf](http://jetpress.org/v16/hanson.pdf)"
 - "[^2^](#fn2x15-bk)"

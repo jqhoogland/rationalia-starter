@@ -11,10 +11,15 @@ tags:
   - Post
   - Fiction
 href: https://www.lesswrong.com/posts/4pov2tL6SEC23wrkq/epilogue-atonement-8-8
-sequence: Three Worlds Collide
 chapter: null
-synchedAt: '2022-08-30T08:17:51.387Z'
+synchedAt: '2022-09-01T09:31:50.318Z'
 status: todo
 ---
 
 # Epilogue: Atonement (8/8)
+
+
+# Related
+
+- [[Fiction]]
+- "[Three Worlds Collide](/lw/y4/three_worlds_collide_08/)"

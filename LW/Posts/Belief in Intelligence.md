@@ -13,8 +13,18 @@ tags:
 href: https://www.lesswrong.com/posts/HktFCy6dgsqJ9WPpX/belief-in-intelligence
 sequence: Fragile Purposes
 chapter: null
-synchedAt: '2022-08-30T08:17:36.691Z'
+synchedAt: '2022-09-01T09:33:41.464Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: The Machine in the Ghost
 ---
 
 # Belief in Intelligence
+
+
+# Related
+
+- [[General Intelligence]]
+- [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
+- [[Your Strength as a Rationalist]]
+- "[a property of both](/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)"

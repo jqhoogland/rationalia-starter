@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/Rm8g7qbzJ7k5WQmSz/chapter-98-roles-final
 sequence: '5: HJPEV and the Last Enemy'
 chapter: HJPEV and the Last Enemy
-synchedAt: '2022-08-30T08:17:42.763Z'
+synchedAt: '2022-09-01T09:32:50.840Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 98: Roles, Final
+
+
+# Related
+
+- [[Fiction]]

@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/PfabLHZxDuvAouqh4/chapter-73-sa-the-sacred-and-the-mundane-pt-8
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:42.040Z'
+synchedAt: '2022-09-01T09:32:52.143Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 73: SA, The Sacred and the Mundane, Pt 8
+
+
+# Related
+
+- [[Fiction]]

@@ -25,7 +25,5 @@ book: 'Map and Territory '
 # Related
 
 - [[Anticipated Experiences]]
-- "[over-explaining](https://lesswrong.com/rationality/correspondence-bias)"
-- "[^1^](#fn1x40-bk)"
-- "[http://lesswrong.com/rationality/a-technical-explanation-of-technical-explanation](http://lesswrong.com/rationality/a-technical-explanation-of-technical-explanation)"
+- "[over-explaining](https://lesswrong.com/rationality/correspondence-bias)"com/rationality/a-technical-explanation-of-technical-explanation](http://lesswrong.com/rationality/a-technical-explanation-of-technical-explanation)"
 - "[^2^](#fn2x40-bk)"

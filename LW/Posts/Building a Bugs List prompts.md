@@ -11,11 +11,18 @@ tags:
   - Post
   - Rationality
   - Center_for Applied Rationality (CFAR)
+  - Center_for_Applied_Rationality_(CFAR)
 href: https://www.lesswrong.com/posts/LaYB3CPMnDNzh2via/building-a-bugs-list-prompts
 sequence: CFAR Handbook
 chapter: Getting Started
-synchedAt: '2022-08-30T08:16:31.476Z'
+synchedAt: '2022-09-01T09:33:17.230Z'
 status: todo
 ---
 
 # Building a Bugs List Prompts
+
+
+# Related
+
+- [[Rationality]]
+- [[Center for Applied Rationality (CFAR)]]

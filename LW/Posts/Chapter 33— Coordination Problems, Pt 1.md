@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/EQ9AKiFDy3wXnhG6L/chapter-33-coordination-problems-pt-1
 sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
-synchedAt: '2022-08-30T08:17:43.857Z'
+synchedAt: '2022-09-01T09:32:54.194Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 33: Coordination Problems, Pt 1
+
+
+# Related
+
+- [[Fiction]]

@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/5jSmYbpx2ToqYBjXS/chapter-71-self-actualization-pt-6
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:41.980Z'
+synchedAt: '2022-09-01T09:32:52.064Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 71: Self Actualization, Pt 6
+
+
+# Related
+
+- [[Fiction]]

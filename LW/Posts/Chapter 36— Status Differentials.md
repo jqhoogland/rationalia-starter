@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/y5Ea8ZejmsgBLWeDp/chapter-36-status-differentials
 sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
-synchedAt: '2022-08-30T08:17:43.931Z'
+synchedAt: '2022-09-01T09:32:53.715Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 36: Status Differentials
+
+
+# Related
+
+- [[Fiction]]

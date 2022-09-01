@@ -13,10 +13,21 @@ tags:
   - World_Modeling
   - Quantum_Mechanics
 href: https://www.lesswrong.com/posts/5vZD32EynD9n94dhr/configurations-and-amplitude
-sequence: Quantum Physics
+sequence: Quantum Physics and Many Worlds
 chapter: null
-synchedAt: '2022-08-30T08:17:49.304Z'
+synchedAt: '2022-09-01T09:32:36.328Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Mere Reality
 ---
 
 # Configurations and Amplitude
+
+
+# Related
+
+- [[Physics]]
+- [[World Modeling]]
+- [[Quantum Mechanics]]
+- [[Probability is in the Mind]]
+- [[Mind Projection Fallacy]]

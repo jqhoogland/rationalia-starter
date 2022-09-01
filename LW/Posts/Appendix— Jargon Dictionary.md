@@ -11,11 +11,18 @@ tags:
   - Post
   - Terminology_/ Jargon (meta)
   - Rationality
+  - Terminology_/_Jargon_(meta)
 href: https://www.lesswrong.com/posts/fbv9FWss6ScDMJiAx/appendix-jargon-dictionary
 sequence: CFAR Handbook
 chapter: Appendices
-synchedAt: '2022-08-30T08:16:32.062Z'
+synchedAt: '2022-09-01T09:33:55.344Z'
 status: todo
 ---
 
 # Appendix: Jargon Dictionary
+
+
+# Related
+
+- [[Terminology / Jargon (meta)]]
+- [[Rationality]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Posts/\"Arbitrary\".md",
+            "file": "LW/Posts/0 And 1 Are Not Probabilities.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Posts/\"Arbitrary\".md"
+                "file": "LW/Posts/0 And 1 Are Not Probabilities.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Posts/\"Arbitrary\".md",
+                "file": "LW/Posts/0 And 1 Are Not Probabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "fb23bf328e71c40b",
   "lastOpenFiles": [
-    "LW/Posts/\"Can you keep this confidential? How do you know?\".md",
-    "LW/Posts/\"Arbitrary\".md",
+    "LW/Posts/\"Should\" considered harmful.md",
+    "LW/Posts/\"Other people are wrong\" vs \"I am right\".md",
+    "LW/Posts/\"What Is Wrong With Our Thoughts\".md",
+    "LW/Posts/[Answer] Why wasn't science invented in China?.md",
     "LW/Posts/'An objective defense of Bayesianism'.md",
     "LW/Posts/…And I Show You How Deep The Rabbit Hole Goes.md",
-    "LW/Posts/There are no \"bad people\".md",
-    "LW/Posts/\"Should\" considered harmful.md",
-    "LW/Posts/Zut Allais!.md",
-    "LW/Posts/Zombies— The Movie.md",
-    "LW/Sequences/Yudkowsky's Coming of Age (Sequence).md",
-    "LW/Sequences/Why We Fight (Sequence).md"
+    "LW/Posts/37 Ways That Words Can Be Wrong.md",
+    "LW/Posts/A Fable of Science and Politics.md",
+    "LW/Posts/A non-mystical explanation of \"no-self\" (three characteristics series).md",
+    "LW/Posts/A Priori.md"
   ]
 }

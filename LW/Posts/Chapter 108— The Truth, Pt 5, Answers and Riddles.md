@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/DAqsG9NxaSyCoN6pJ/chapter-108-the-truth-pt-5-answers-and-riddles
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
-synchedAt: '2022-08-30T08:17:44.257Z'
+synchedAt: '2022-09-01T09:32:56.273Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 108: The Truth, Pt 5, Answers and Riddles
+
+
+# Related
+
+- [[Fiction]]

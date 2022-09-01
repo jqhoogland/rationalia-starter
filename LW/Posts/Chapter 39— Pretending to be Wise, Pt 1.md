@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/csJeZ3xrX6vjYNPFe/chapter-39-pretending-to-be-wise-pt-1
 sequence: '3: HJPEV and the Shadows of Death'
 chapter: Book the Third
-synchedAt: '2022-08-30T08:17:42.844Z'
+synchedAt: '2022-09-01T09:32:53.745Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 39: Pretending to Be Wise, Pt 1
+
+
+# Related
+
+- [[Fiction]]

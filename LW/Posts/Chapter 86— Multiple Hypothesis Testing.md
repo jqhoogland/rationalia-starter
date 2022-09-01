@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/Wx2CKWmKnNnXYpWz6/chapter-86-multiple-hypothesis-testing-1
 sequence: '5: HJPEV and the Last Enemy'
 chapter: HJPEV and the Last Enemy
-synchedAt: '2022-08-30T08:17:42.415Z'
+synchedAt: '2022-09-01T09:32:51.704Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 86: Multiple Hypothesis Testing
+
+
+# Related
+
+- [[Fiction]]

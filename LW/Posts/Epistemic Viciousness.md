@@ -17,8 +17,20 @@ tags:
 href: https://www.lesswrong.com/posts/T8ddXNtmNSHexhQh8/epistemic-viciousness
 sequence: The Craft and the Community
 chapter: null
-synchedAt: '2022-08-30T08:17:31.438Z'
+synchedAt: '2022-09-01T09:31:40.559Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: Becoming Stronger
 ---
 
 # Epistemic Viciousness
+
+
+# Related
+
+- [[Epistemology]]
+- [[Education]]
+- [[Religion]]
+- [[Groupthink]]
+- [[Rationality Verification]]
+- "[Epistemic Viciousness in the Martial Arts](http://www.artsci.wustl.edu/~grussell/epistemicviciousness.pdf )"

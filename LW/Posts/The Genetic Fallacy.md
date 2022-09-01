@@ -28,6 +28,4 @@ book: How to Actually Change Your Mind
 - [[Fallacies]]
 - [[Rationalization]]
 - "[said](http://forums.keenspot.com/viewtopic.php?p=1099965#p1099965)"
-- "[^1^](#fn1x48)"
-- "[^1^](#fn1x48-bk)"
 - [[The Genetic Fallacy]]

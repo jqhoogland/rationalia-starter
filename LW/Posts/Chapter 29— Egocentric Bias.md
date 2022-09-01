@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/8d28r3p65psHRoMpy/chapter-29-egocentric-bias
 sequence: '2: HJPEV and the Professor''s Games'
 chapter: Book the Second
-synchedAt: '2022-08-30T08:17:43.743Z'
+synchedAt: '2022-09-01T09:32:54.411Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 29: Egocentric Bias
+
+
+# Related
+
+- [[Fiction]]

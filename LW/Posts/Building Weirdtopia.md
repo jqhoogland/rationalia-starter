@@ -12,10 +12,21 @@ tags:
   - Futurism
   - Fun_Theory
 href: https://www.lesswrong.com/posts/cWjK3SbRcLkb3gN69/building-weirdtopia
-sequence: Fun Theory
 chapter: null
-synchedAt: '2022-08-30T08:17:50.987Z'
+synchedAt: '2022-09-01T09:33:18.192Z'
 status: todo
 ---
 
 # Building Weirdtopia
+
+
+# Related
+
+- [[Futurism]]
+- [[Fun Theory]]
+- [[Eutopia is Scary]]
+- [[To Spread Science, Keep It Secret]]
+- "[Disclaimer](http://www.overcomingbias.com/2008/06/against-disclai.html)"
+- [[Cached Thoughts]]
+- [[The Fun Theory Sequence]]
+- [[Justified Expectation of Pleasant Surprises]]

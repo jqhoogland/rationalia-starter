@@ -15,8 +15,14 @@ href: >-
   https://www.lesswrong.com/posts/ZCXjmeHNHYiM2uCw4/area-under-the-curve-eat-dirt-broccoli-errors-copernicus-and
 sequence: CFAR Handbook
 chapter: Flash Classes
-synchedAt: '2022-08-30T08:16:32.016Z'
+synchedAt: '2022-09-01T09:33:54.717Z'
 status: todo
 ---
 
 # Area Under the Curve, Eat Dirt, Broccoli Errors, Copernicus & Chaos
+
+
+# Related
+
+- [[Techniques]]
+- [[Rationality]]

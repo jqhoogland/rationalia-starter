@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/jJekxY2D8zBC2yT6M/chapter-81-taboo-tradeoffs-pt-3
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:42.268Z'
+synchedAt: '2022-09-01T09:32:51.465Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 81: Taboo Tradeoffs, Pt 3
+
+
+# Related
+
+- [[Fiction]]

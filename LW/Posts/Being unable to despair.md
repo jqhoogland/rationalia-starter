@@ -14,8 +14,19 @@ tags:
 href: https://www.lesswrong.com/posts/TzpjnLf3oyEegmu9r/being-unable-to-despair
 sequence: Replacing Guilt
 chapter: The dark world
-synchedAt: '2022-08-30T08:16:32.925Z'
+synchedAt: '2022-09-01T09:33:43.660Z'
 status: todo
 ---
 
 # Being Unable to Despair
+
+
+# Related
+
+- [[World Optimization]]
+- [[Practical]]
+- "[failing with abandon](http://mindingourway.com/failing-with-abandon/)"
+- "[equal and opposite advice](http://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/)"
+- "[many people think there is a default "rest state"](http://mindingourway.com/rest-in-motion/)"
+- "[the monkey is going to do](http://mindingourway.com/rest-in-motion/)"
+- "[reside in the mortal realm](http://mindingourway.com/residing-in-the-mortal-realm/)"

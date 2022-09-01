@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/rF6h39aXMyNyvoP2p/chapter-103-tests
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
-synchedAt: '2022-08-30T08:17:44.090Z'
+synchedAt: '2022-09-01T09:32:56.280Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 103: Tests
+
+
+# Related
+
+- [[Fiction]]

@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/5GCoBhagXMDG6XYTj/chapter-64-omake-files-4-alternate-parallels
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:41.790Z'
+synchedAt: '2022-09-01T09:32:52.468Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 64: Omake Files 4, Alternate Parallels
+
+
+# Related
+
+- [[Fiction]]

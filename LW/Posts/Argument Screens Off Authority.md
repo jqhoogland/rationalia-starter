@@ -13,10 +13,19 @@ tags:
   - Social_Status
 href: >-
   https://www.lesswrong.com/posts/5yFRd3cjLpm3Nd6Di/argument-screens-off-authority
-sequence: The Laws Governing Belief
+sequence: Politics and Rationality
 chapter: null
-synchedAt: '2022-08-30T08:17:54.720Z'
+synchedAt: '2022-09-01T09:33:54.486Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Argument Screens Off Authority
+
+
+# Related
+
+- [[Epistemology]]
+- [[Social Status]]
+- "[What Is Evidence?](https://www.lesswrong.com/rationality/what-is-evidence)"

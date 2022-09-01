@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/e3xKda7DPknkGW967/chapter-84-taboo-tradeoffs-aftermath-2
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:42.363Z'
+synchedAt: '2022-09-01T09:32:51.491Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 84: Taboo Tradeoffs, Aftermath 2
+
+
+# Related
+
+- [[Fiction]]

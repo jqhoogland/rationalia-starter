@@ -15,12 +15,23 @@ tags:
   - Community
   - Group_Rationality
   - Virtues
+  - Ethics_&_Morality
 href: >-
   https://www.lesswrong.com/posts/w8g7AkSbyApokD3dH/a-suite-of-pragmatic-considerations-in-favor-of-niceness
 sequence: Living Luminously
 chapter: Bonus Posts
-synchedAt: '2022-08-30T08:17:51.801Z'
+synchedAt: '2022-09-01T09:35:18.837Z'
 status: todo
 ---
 
 # A Suite of Pragmatic Considerations in Favor of Niceness
+
+
+# Related
+
+- [[Emotions]]
+- [[Ethics & Morality]]
+- [[Practical]]
+- [[Community]]
+- [[Group Rationality]]
+- [[Virtues]]

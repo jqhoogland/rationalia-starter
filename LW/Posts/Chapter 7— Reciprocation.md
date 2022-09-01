@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/okdusZkDRsQ6zCRDD/chapter-7-reciprocation
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:44.842Z'
+synchedAt: '2022-09-01T09:32:52.043Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 7: Reciprocation
+
+
+# Related
+
+- [[Fiction]]

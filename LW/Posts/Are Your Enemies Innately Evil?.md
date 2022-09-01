@@ -13,12 +13,23 @@ tags:
   - Motivations
   - Social_& Cultural Dynamics
   - Correspondence_Bias
+  - Social_&_Cultural_Dynamics
 href: >-
   https://www.lesswrong.com/posts/28bAMAxhoX3bwbAKC/are-your-enemies-innately-evil
-sequence: LessWrong Political Prerequisites
+sequence: Politics and Rationality
 chapter: null
-synchedAt: '2022-08-30T08:17:54.660Z'
+synchedAt: '2022-09-01T09:33:54.717Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # Are Your Enemies Innately Evil?
+
+
+# Related
+
+- [[Politics]]
+- [[Motivations]]
+- [[Social & Cultural Dynamics]]
+- [[Correspondence Bias]]

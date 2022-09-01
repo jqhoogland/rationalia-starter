@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/Xx38DAuRfY6ftWPtF/chapter-100-precautionary-measures-pt-1
 sequence: '6: HJPEV and the Philosopher''s Stone'
 chapter: Book the Last
-synchedAt: '2022-08-30T08:17:43.986Z'
+synchedAt: '2022-09-01T09:32:56.405Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 100: Precautionary Measures, Pt 1
+
+
+# Related
+
+- [[Fiction]]

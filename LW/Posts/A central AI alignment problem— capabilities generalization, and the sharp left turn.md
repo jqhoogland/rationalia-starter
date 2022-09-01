@@ -17,8 +17,18 @@ href: >-
   https://www.lesswrong.com/posts/GNhMPAWcfBCASy8e6/a-central-ai-alignment-problem-capabilities-generalization
 sequence: 2022 MIRI Alignment Discussion
 chapter: null
-synchedAt: '2022-08-30T08:17:01.533Z'
+synchedAt: '2022-09-01T09:35:16.180Z'
 status: todo
 ---
 
 # A Central AI Alignment Problem: Capabilities Generalization, and the Sharp Left Turn
+
+
+# Related
+
+- [[AI]]
+- [[Threat Models]]
+- "[strawberry problem](https://www.lesswrong.com/posts/SsCQHjqNT3xQAPQ6b/yudkowsky-on-agi-ethics)"
+- [[Sorting Pebbles Into Correct Heaps]]
+- [[On how various plans miss the hard bits of the alignment challenge]]
+- "[follow Eliezer](https://www.lesswrong.com/posts/mmXEk675etTKpkgTx/agi-ruin-a-poorly-organized-list-of-lethalities)"

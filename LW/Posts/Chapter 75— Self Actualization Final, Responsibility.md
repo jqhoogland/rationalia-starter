@@ -15,8 +15,16 @@ href: >-
   https://www.lesswrong.com/posts/btfnD6vRQqcfMtuoX/chapter-75-self-actualization-final-responsibility
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:42.103Z'
+synchedAt: '2022-09-01T09:32:52.051Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 75: Self Actualization Final, Responsibility
+
+
+# Related
+
+- [[Heroic Responsibility]]
+- [[Fiction]]

@@ -13,8 +13,16 @@ tags:
 href: https://www.lesswrong.com/posts/AfGmsjGPXN97kNp57/arguments-about-fast-takeoff
 sequence: Alignment
 chapter: null
-synchedAt: '2022-08-30T08:17:54.315Z'
+synchedAt: '2022-09-01T09:33:54.366Z'
 status: todo
+collection: Best of LessWrong
+book: A Map That Reflects the Territory
 ---
 
 # Arguments About Fast Takeoff
+
+
+# Related
+
+- [[AI Takeoff]]
+- "[AI impacts on the same topic](https://aiimpacts.org/likelihood-of-discontinuous-progress-around-the-development-of-agi/)"

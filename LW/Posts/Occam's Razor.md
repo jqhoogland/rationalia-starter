@@ -26,7 +26,6 @@ author: Eliezer Yudkowsky
 
 - [[Occam's Razor]]
 - [[Principles]]
-- "[^1^](#fn1x26)"
 - [[Hindsight bias]]
 - "[anchoring](https://www.lesswrong.com/rationality/anchoring-and-adjustment)"
 - "[fake explanations](https://www.lesswrong.com/rationality/fake-explanations)"

@@ -12,10 +12,17 @@ tags:
   - Psychology
 href: >-
   https://www.lesswrong.com/posts/EMJ3egz48BtZS8Pws/basics-of-animal-reinforcement
-sequence: The Blue-Minimizing Robot
 chapter: null
-synchedAt: '2022-08-30T08:17:51.921Z'
+synchedAt: '2022-09-01T09:33:48.994Z'
 status: todo
 ---
 
 # Basics of Animal Reinforcement
+
+
+# Related
+
+- [[Psychology]]
+- "[Plaud and Martini's study](http://bmo.sagepub.com/content/23/2/254.abstract)"
+- "[is completely false](http://www.snopes.com/science/skinner.asp)"
+- "["Heir Conditioner"](http://www.sciencedirect.com/science/article/pii/S108926800200056X)"

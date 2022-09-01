@@ -29,7 +29,3 @@ book: How to Actually Change Your Mind
 - [[Motivated Reasoning]]
 - [[Rationalization]]
 - [[Religion]]
-- "[^1^](#fn1x33)"
-- "[^2^](#fn2x33)"
-- "[^1^](#fn1x33-bk)"
-- "[^2^](#fn2x33-bk)"

@@ -488,7 +488,8 @@ const getLinks = async (body: string) => {
 	
 	return Promise.all(
 		links.map(async (link) => {
-			const [, , href] = link.match(/\[([^\]]+)\]\(([^\)]+)\)/) ?? []
+			// Don't match footnote links
+			const [, , href] = link.match(/\[([^\]\^][^\]]+)\]\(([^\)\#][^\)]+)\)/) ?? []
 			const fixedLink = await getTitleFromLink(href)
 			if (!fixedLink) {
 				return `"${link.slice(1)}"`;

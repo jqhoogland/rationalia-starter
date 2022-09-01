@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/KiXSXTbbaYWLTTL5D/chapter-80-taboo-tradeoffs-pt-2-the-horns-effect
 sequence: '4: HJG and the Phoenix''s Call'
 chapter: null
-synchedAt: '2022-08-30T08:17:42.246Z'
+synchedAt: '2022-09-01T09:32:51.615Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 80: Taboo Tradeoffs, Pt 2, The Horns Effect
+
+
+# Related
+
+- [[Fiction]]

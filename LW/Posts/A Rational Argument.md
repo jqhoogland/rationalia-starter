@@ -15,8 +15,20 @@ tags:
 href: https://www.lesswrong.com/posts/9f5EXt8KNNxTAihtZ/a-rational-argument
 sequence: Against Rationalization
 chapter: null
-synchedAt: '2022-08-30T08:17:38.953Z'
+synchedAt: '2022-09-01T09:35:23.069Z'
 status: todo
+collection: 'Rationality: A-Z'
+book: How to Actually Change Your Mind
 ---
 
 # A Rational Argument
+
+
+# Related
+
+- [[Rationalization]]
+- [[Filtered Evidence]]
+- [[Politics]]
+- "[1](#fn1x30)"
+- "[1](#fn1x30-bk)"
+- "[What Is Evidence?](https://www.lesswrong.com/rationality/what-is-evidence)"

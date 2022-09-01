@@ -31,5 +31,3 @@ author: Eliezer Yudkowsky
 - [[Tribalism]]
 - [[Social & Cultural Dynamics]]
 - "[Blue or Green](https://lesswrong.com/rationality/a-fable-of-science-and-politics)"
-- "[^1^](#fn1x14)"
-- "[^1^](#fn1x14-bk)"

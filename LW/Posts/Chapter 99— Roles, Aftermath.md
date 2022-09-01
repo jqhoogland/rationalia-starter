@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/3z78utvMhGCSdDAwB/chapter-99-roles-aftermath
 sequence: '5: HJPEV and the Last Enemy'
 chapter: HJPEV and the Last Enemy
-synchedAt: '2022-08-30T08:17:42.791Z'
+synchedAt: '2022-09-01T09:32:50.266Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 99: Roles, Aftermath
+
+
+# Related
+
+- [[Fiction]]

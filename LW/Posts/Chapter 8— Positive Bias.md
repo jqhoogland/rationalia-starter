@@ -13,8 +13,15 @@ tags:
 href: https://www.lesswrong.com/posts/i45GMZgheKTheF9nJ/chapter-8-positive-bias
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:44.868Z'
+synchedAt: '2022-09-01T09:32:50.992Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 8: Positive Bias
+
+
+# Related
+
+- [[Fiction]]

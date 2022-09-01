@@ -32,7 +32,5 @@ book: How to Actually Change Your Mind
 - [[Changing Your Mind]]
 - [[Courage]]
 - [[Religion]]
-- "[^1^](#fn1x73)"
 - "[Litany of Gendlin](https://www.lesswrong.com/lw/jy/avoiding_your_beliefs_real_weak_points/)"
 - [[The Meditation on Curiosity]]
-- "[^1^](#fn1x73-bk)"

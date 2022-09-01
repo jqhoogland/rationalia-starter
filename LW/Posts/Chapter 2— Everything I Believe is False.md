@@ -14,8 +14,15 @@ href: >-
   https://www.lesswrong.com/posts/6L523aJDpjm4yWxue/chapter-2-everything-i-believe-is-false
 sequence: The Methods of Rationality
 chapter: Book the First
-synchedAt: '2022-08-30T08:17:44.702Z'
+synchedAt: '2022-09-01T09:32:54.108Z'
 status: todo
+collection: Harry Potter and the Methods of Rationality
+book: null
 ---
 
 # Chapter 2: Everything I Believe is False
+
+
+# Related
+
+- [[Fiction]]

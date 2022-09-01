@@ -13,8 +13,16 @@ tags:
 href: https://www.lesswrong.com/posts/dbDHEQyKqnMDDqq2G/cfar-handbook-introduction
 sequence: CFAR Handbook
 chapter: Getting Started
-synchedAt: '2022-08-30T08:16:31.449Z'
+synchedAt: '2022-09-01T09:33:11.097Z'
 status: todo
 ---
 
 # CFAR Handbook: Introduction
+
+
+# Related
+
+- [[Rationality]]
+- "[Center for Applied Rationality](rationality.org)"
+- "[PDF](https://rationality.org/resources/handbook/)"
+- "[Duncan Sabien](https://www.lesswrong.com/users/duncan_sabien)"

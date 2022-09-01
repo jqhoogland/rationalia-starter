@@ -18,7 +18,7 @@ href: >-
   https://www.lesswrong.com/posts/4QemtxDFaGXyGSrGD/other-people-are-wrong-vs-i-am-right
 sequence: 'Bonus: Best Essays of LessWrong'
 chapter: null
-synchedAt: '2022-09-01T08:17:28.385Z'
+synchedAt: '2022-09-01T09:35:32.345Z'
 status: todo
 collection: Highlights from the Sequences
 book: null
