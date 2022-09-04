@@ -32,7 +32,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/draft-of-a-suggested-rea
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
 - [[What is evidence?]] (`= [[What is evidence?]].status`)
 - [[How to Convince Me That 2 + 2 = 3]] (`= [[How to Convince Me That 2 + 2 = 3]].status`)
-- [[Occam's Razor]] (`= [[Occam's Razor]].status`)
+- [[Occam's Razor (Post)]] (`= [[Occam's Razor]].status`)
 - [[The lens that sees its flaws]] (`= [[The lens that sees its flaws]].status`)
 
 ## Selected Posts From [[Mysterious Answers to Mysterious Questions]]

@@ -31,7 +31,7 @@ book: Mere Reality
 
 - [[Philosophy]]
 - [[Truth, Semantics, & Meaning]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Bayesianism]]
 - [[Priors]]
 - "[if you violate the laws of rationality, the engine doesn't run](/lw/k1/no_one_can_exempt_you_from_rationalitys_laws/)"

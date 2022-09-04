@@ -28,7 +28,7 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Physics]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Solomonoff Induction]]
 - [[Anticipated Experiences]]
 - "[two Bayesian formalizations of Occam's Razor](/lw/jp/occams_razor/)"

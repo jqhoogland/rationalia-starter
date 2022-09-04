@@ -9,12 +9,15 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:42.427Z'
-status: todo
+status: done
+aliases:
+  - Intelligence
+  - Universal intelligence
 ---
 
 # General Intelligence
 
-**General Intelligence** or **Universal Intelligence** is the ability to efficiently achieve goals in a wide range of domains. 
+**General Intelligence** or **Universal Intelligence** is the ability to efficiently achieve goals in a wide range of domains.  ^db4a54
 
 This tag is specifically for discussing intelligence in the broad sense: for discussion of IQ testing and psychometric intelligence, see [[IQ and g-factor|IQ / g-factor]]; for discussion about e.g. specific results in artificial intelligence, see [[AI]]. These tags may overlap with this one to the extent that they discuss the nature of general intelligence.
 
@@ -28,7 +31,7 @@ On the difference between psychometric intelligence (IQ) and general intelligenc
 
 ## Definitions of General Intelligence
 
-After reviewing extensive literature on the subject, Legg and Hutter^[\[1\]](#fnosnb04qur8)^ summarizes the many possible valuable definitions in the informal statement “Intelligence measures an agent’s ability to achieve goals in a wide range of environments.” They then show this definition can be mathematically formalized given reasonable mathematical definitions of its terms. They use [Solomonoff induction](https://lessestwrong.com/tag/solomonoff-induction) \- a formalization of [Occam's razor](https://lessestwrong.com/tag/occam-s-razor) \- to construct an [universal artificial intelligence](https://lessestwrong.com/tag/aixi) with a embedded [utility function](https://lessestwrong.com/tag/utility-functions) which assigns less [utility](https://lessestwrong.com/tag/expected-utility) to those actions based on theories with higher [complexity](https://wiki.lesswrong.com/wiki/Kolmogorov_complexity). They argue this final formalization is a valid, meaningful, informative, general, unbiased, fundamental, objective, universal and practical definition of intelligence.
+After reviewing extensive literature on the subject, [[@legg2007|Legg and Hutter]] summarizes the many possible valuable definitions in the informal statement “Intelligence measures an agent’s ability to achieve goals in a wide range of environments.” They then show this definition can be mathematically formalized given reasonable mathematical definitions of its terms. They use [Solomonoff induction](https://lessestwrong.com/tag/solomonoff-induction) \- a formalization of [Occam's razor](https://lessestwrong.com/tag/occam-s-razor) \- to construct an [universal artificial intelligence](https://lessestwrong.com/tag/aixi) with a embedded [utility function](https://lessestwrong.com/tag/utility-functions) which assigns less [utility](https://lessestwrong.com/tag/expected-utility) to those actions based on theories with higher [complexity](https://wiki.lesswrong.com/wiki/Kolmogorov_complexity). They argue this final formalization is a valid, meaningful, informative, general, unbiased, fundamental, objective, universal and practical definition of intelligence.
 
 We can relate Legg and Hutter's definition with the concept of [optimization](https://lessestwrong.com/tag/optimization). According to [Eliezer Yudkowsky](https://lessestwrong.com/tag/eliezer-yudkowsky) intelligence is [efficient cross-domain optimization](https://lessestwrong.com/lw/vb/efficient_crossdomain_optimization/). It measures an agent's capacity for efficient cross-domain optimization of the world according to the agent’s preferences.^[\[2\]](#fn7hbpdfpe6x3)^ Optimization measures not only the capacity to achieve the desired goal but also is inversely proportional to the amount of resources used. It’s the ability to steer the future so it hits that small target of desired outcomes in the large space of all possible outcomes, using fewer resources as possible. For example, when Deep Blue defeated Kasparov, it was able to hit that small possible outcome where it made the right order of moves given Kasparov’s moves from the very large set of all possible moves. In that domain, it was more optimal than Kasparov. However, Kasparov would have defeated Deep Blue in almost any other relevant domain, and hence, he is considered more intelligent.
 
@@ -57,25 +60,90 @@ This definition avoids several problems common in many others definitions, espec
 - [Optimization process](https://lessestwrong.com/tag/optimization)
 - [Decision theory](https://lessestwrong.com/tag/decision-theory)
 - [Rationality](https://lessestwrong.com/tag/rationality)
-- [Legg and Hutter paper “Universal Intelligence: A Deﬁnition of Machine Intelligence”](http://arxiv.org/pdf/0712.3329.pdf)
-
-1. ^**[^](#fnrefosnb04qur8)**^
-
-    <http://arxiv.org/pdf/0712.3329.pdf>
-
-2. ^**[^](#fnref7hbpdfpe6x3)**^
-
-    <http://intelligence.org/files/IE-EI.pdf>
-
+- [[@legg2007|Legg and Hutter paper “Universal Intelligence: A Deﬁnition of Machine Intelligence"]]
+- <http://intelligence.org/files/IE-EI.pdf>
 
 %%
 
-% START
-Basic (and reversed card)
-What is **General Intelligence**?
-Back: {TODO}
+START
+
+Basic
+
+Informally, what is **General (or Universal) Intelligence** according to Legg & Hutter (2007)?
+
+Back: "Intelligence measures an agent’s ability to achieve goals in a wide range of environments."
+
 Tags: LessWrong
+
+END
+
+START
+
+Basic
+
+Who proposed the following informal definition of (general / universal) intelligence?
+
+"Intelligence measures an agent’s ability to achieve goals in a wide range of environments."
+
+Back: Legg & Hutter (2007)
+
+Tags: LessWrong
+
+END
+
+START
+
+Basic
+
+Informally, what is **intelligence** according to Yudkowsky?
+
+Back: "**[(2)] efficient [(3)] cross-domain [(1)] optimization**", i.e.:
+
+1. the ability to precisely realize one of the members of a small set of possible future worlds that have a higher preference over the vast set of all other possible worlds with lower preference; while
+2. using fewer resources than the other alternatives paths for getting there; and in the
+3. most diverse domains as possible.
+
+Tags: LessWrong
+
+END
+
+START
+
+Basic
+
+Informally, what is **General or Universal Intelligence** according to Yudkowsky?
+
+Back: "**[(2)] efficient [(3)] cross-domain [(1)] optimization**", i.e.:
+
+1. the ability to precisely realize one of the members of a small set of possible future worlds that have a higher preference over the vast set of all other possible worlds with lower preference; while
+2. using fewer resources than the other alternatives paths for getting there; and in the
+3. most diverse domains as possible.
+
+Tags: LessWrong
+
+END
+
+START
+
+Basic
+
+Formally, what is **Universal Intelligence** according to Legg & Hutter (2007)?
+
+Given an agent $\pi$ that produces actions $a_i$ given a history of observations $o_i$, rewards $r_i$, and actions.
+
+Back:
+
+An agent $\pi$'s expected utility $V_\mu^\pi$ over environments $\mu \in E$ weighted by prefix-free Kolmogorov complexity $K(\mu)$:
+
+$$\Upsilon(\pi) := \sum_{\mu\in E} 2^{-K(\mu)}V_{\mu}^\pi,$$
+where the expected utility is defined as:
+
+$$V_\mu^\pi := \mathbb E\left(\sum_{i=1}^\infty r_i\right) \leq 1,$$
+
+and $r_i$ is the reward at timestep $i$.
+
+Tags: LessWrong
+
 END
 
 %%
-	

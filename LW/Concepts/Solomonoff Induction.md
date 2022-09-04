@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:22.981Z'
-status: todo
+status: done
 ---
 
 # Solomonoff Induction
@@ -18,28 +18,30 @@ status: todo
 
 To summarize it very informally, Solomonoff induction works by:
 
-- Starting with all possible hypotheses (sequences) as represented by computer programs (that generate those sequences), weighted by their simplicity (2^-^**^n^**, where **n** is the program length);
+- Starting with all possible hypotheses (sequences) as represented by computer programs (that generate those sequences), weighted by their simplicity ($2^{-n}$, where $n$ is the program length);
 - Discarding those hypotheses that are inconsistent with the data.
 
 Weighting hypotheses by simplicity, the system automatically incorporates a form of [[Occam's Razor|Occam's razor]], which is why it has been playfully referred to as *Solomonoff's lightsaber*.
 
-Solomonoff induction gets off the ground with a solution to the "problem of the priors". Suppose that you stand before a universal [prefix Turing machine](http://www.scholarpedia.org/article/Algorithmic_complexity#Prefix_Turing_machine) *U*. You are interested in a certain finite output string *y*~0~. In particular, you want to know the probability that *U* will produce the output *y*~0~ given a random input tape. This probability is the **Solomonoff** ***a priori*** **probability** of *y*~0~.
+Solomonoff induction gets off the ground with a solution to the "problem of the priors". Suppose that you stand before a universal [prefix Turing machine](http://www.scholarpedia.org/article/Algorithmic_complexity#Prefix_Turing_machine) $\mathcal U$. You are interested in a certain finite output string $y_0$. In particular, you want to know the probability that $\mathcal U$ will produce the output $y_0$ given a random input tape. This probability is the **Solomonoff** ***a priori*** **probability** of $y_0$.
 
-More precisely, suppose that a particular infinite input string *x*~0~ is about to be fed into *U*. However, you know nothing about *x*~0~ other than that each term of the string is either 0 or 1. As far as your state of knowledge is concerned, the *i*th digit of *x*~0~ is as likely to be 0 as it is to be 1, for all *i* = 1, 2, …. You want to find the *a priori* probability *m*(*y*~0~) of the following proposition:
+More precisely, suppose that a particular infinite input string $x_0$ is about to be fed into $\mathcal U$. However, you know nothing about $x_0$ other than that each term of the string is either $0$ or $1$. As far as your state of knowledge is concerned, the $i$th digit of $x_0$ is as likely to be $0$ as it is to be $1$, for all $i = 1,\, 2,\, \dots$. You want to find the *a priori* probability $m(y_0)$ of the following proposition:
 
-(*) If *U* takes in *x*~0~ as input, then *U* will produce output *y*~0~ and then halt.
+(\*) If $\mathcal U$ takes in $x_0$ as input, then $\mathcal U$ will produce output $y_0$ and then halt.
 
-Unfortunately, computing the exact value of *m*(*y*~0~) would require solving the halting problem, which is undecidable. Nonetheless, it is easy to derive an expression for *m*(*y*~0~). If *U* halts on an infinite input string *x*, then *U* must read only a finite initial segment of *x*, after which *U* immediately halts. We call a finite string *p* a *self-delimiting program* if and only if there exists an infinite input string *x* beginning with *p* such that *U* halts on *x* immediately after reading to the end of *p*. The set 𝒫 of self-delimiting programs is the *prefix code* for *U*. It is the determination of the elements of 𝒫 that requires a solution to the halting problem.
+Unfortunately, computing the exact value of $m(y_0)$ would require solving the halting problem, which is undecidable. Nonetheless, it is easy to derive an expression for $m(y_0)$. If $\mathcal U$ halts on an infinite input string $x$, then $\mathcal U$ must read only a finite initial segment of $x$, after which $\mathcal U$ immediately halts. We call a finite string $p$ a *self-delimiting program* if and only if there exists an infinite input string $x$ beginning with $p$ such that $\mathcal U$ halts on $x$ immediately after reading to the end of $p$. The set $\mathcal P$ of self-delimiting programs is the *prefix code* for $\mathcal U$. It is the determination of the elements of $\mathcal P$ that requires a solution to the halting problem.
 
-Given *p* ∈ 𝒫, we write "prog (*x*~0~) = *p*" to express the proposition that *x*~0~ begins with *p*, and we write "*U*(*p*) = *y*~0~" to express the proposition that *U* produces output *y*~0~, and then halts, when fed any input beginning with *p*. Proposition (*) is then equivalent to the exclusive disjunction
+Given $p \in \mathcal P$, we write "$\text{prog} (x_0) = p$" to express the proposition that $x_0$ begins with $p$, and we write "$\mathcal U(p) = y_0$" to express the proposition that $\mathcal U$ produces output $y_0$, and then halts, when fed any input beginning with *p*. Proposition (\*) is then equivalent to the exclusive disjunction
 
-⋁*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~(prog (*x*~0~) = *p*).
+$$\vee_{p \in \mathcal P:\ \mathcal U(p) = y_0}(\text{prog}(x_0) = p)$$
 
-Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability of prog (*x*~0~) = *p* to be 2^ − ℓ(^*^p^*^)^, where ℓ(*p*) is the length of *p* as a bit string. Hence, the probability of (*) is
+Since $x_0$ was chosen at random from $\{0, 1\}^ω$, we take the probability of $\text{prog} (x_0) = p$ to be $2^{-l(p)}$, where $l(p)$ is the length of $p$ as a bit string. Hence, the probability of (\*) is
 
-*m*(*y*~0~) := ∑*~p~*~ ∈ 𝒫: ~*~U~*~(~*~p~*~) = ~*~y~*~0~2^ − ℓ(^*^p^*^)^.
+$$
 
- 
+m(y_0) := \sum_{p \in \mathcal P:\ U(p) = y_0}\, 2^{-l(p)}
+
+$$
 
 ## See Also
 
@@ -51,15 +53,18 @@ Since *x*~0~ was chosen at random from ${0, 1}$*^ω^*, we take the probability
 
 - [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability) on Scholarpedia
 
-
 %%
 
-% START
+START
+
 Basic (and reversed card)
+
 What is **Solomonoff Induction**?
-Back: {TODO}
+
+Back: Using prefix-free Kolmogorov complexity to weight your hypotheses (which are expressed as computer programs that run on a universal Turing machine).
+
 Tags: LessWrong
+
 END
 
 %%
-	

@@ -29,7 +29,7 @@ book: Mere Reality
 # Related
 
 - [[Physics]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Solomonoff Induction]]
 - [[Quantum Mechanics]]
 - [[World Modeling]]

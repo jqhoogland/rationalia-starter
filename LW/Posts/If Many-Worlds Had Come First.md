@@ -35,7 +35,7 @@ book: Mere Reality
 - [[Physics]]
 - [[Fiction]]
 - [[Humor]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Quantum Mechanics]]
 - [[Many-Worlds Interpretation]]
 - [[Parables & Fables]]

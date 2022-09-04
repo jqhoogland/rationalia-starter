@@ -31,7 +31,7 @@ book: Mere Goodness
 # Related
 
 - [[Epistemology]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Philosophy]]
 - [[Reflective Reasoning]]
 - [[The Problem of the Criterion]]

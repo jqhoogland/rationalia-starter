@@ -28,7 +28,7 @@ href: https://www.lesswrong.com/posts/zEm5B4t3Sonj8PySN/rewriting-the-sequences?
 - [[You're Entitled to Arguments, But Not (That Particular) Proof]] (`= [[You're Entitled to Arguments, But Not (That Particular) Proof]].status`)
 - [[Efficient Charity— Do Unto Others...]] (`= [[Efficient Charity— Do Unto Others...]].status`)
 - [[Newcomb's Problem and Regret of Rationality]] (`= [[Newcomb's Problem and Regret of Rationality]].status`)
-- [[Occam's Razor]] (`= [[Occam's Razor]].status`)
+- [[Occam's Razor (Post)]] (`= [[Occam's Razor]].status`)
 - [[Confidence levels inside and outside an argument]] (`= [[Confidence levels inside and outside an argument]].status`)
 
 ## Education

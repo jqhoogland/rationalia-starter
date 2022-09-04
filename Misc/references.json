@@ -1,0 +1,27 @@
+[
+	{
+		"id": "legg2007",
+		"type": "article-journal",
+		"DOI": "10.48550/ARXIV.0712.3329",
+		"note": "publisher: arXiv\ntex.copyright: Assumed arXiv.org perpetual, non-exclusive license to distribute this article for submissions made before January 2004",
+		"title": "Universal intelligence: A definition of machine intelligence",
+		"URL": "https://arxiv.org/abs/0712.3329",
+		"author": [
+			{
+				"family": "Legg",
+				"given": "Shane"
+			},
+			{
+				"family": "Hutter",
+				"given": "Marcus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	}
+]

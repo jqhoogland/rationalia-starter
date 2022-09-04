@@ -193,7 +193,7 @@ status: todo
 - [[Nonapples]] (`= [[Nonapples]].status`)
 - [[The noncentral fallacy - the worst argument in the world?|Noncentral fallacy]] (`= [[The noncentral fallacy - the worst argument in the world?|Noncentral fallacy]].status`)
 - [[Not technically a lie]] (`= [[Not technically a lie]].status`)
-- [[Occam's razor]] (`= [[Occam's razor]].status`)
+- [[Occam's Razor (Post)]] (`= [[Occam's razor]].status`)
 - [[Odds|Odds ratio]] (`= [[Odds|Odds ratio]].status`)
 - [[Omega]] (`= [[Omega]].status`)
 - [[Oops]] (`= [[Oops]].status`)

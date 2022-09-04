@@ -25,7 +25,7 @@ book: Mere Reality
 
 # Related
 
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Reductionism]]
 - "[commented](http://www.overcomingbias.com/2008/09/excluding-the-s.html#comment-130388082)"
 - [[Detached Lever Fallacy]]

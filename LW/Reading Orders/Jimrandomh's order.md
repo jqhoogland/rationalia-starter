@@ -86,7 +86,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/a-suggested-reading-orde
 - [[Guilt— Another Gift Nobody Wants]] (`= [[Guilt— Another Gift Nobody Wants]].status`)
 - [[How to Beat Procrastination]] (`= [[How to Beat Procrastination]].status`)
 - [[Evaporative Cooling of Group Beliefs]] (`= [[Evaporative Cooling of Group Beliefs]].status`)
-- [[Occam's Razor]] (`= [[Occam's Razor]].status`)
+- [[Occam's Razor (Post)]] (`= [[Occam's Razor]].status`)
 - [[Anchoring and Adjustment]] (`= [[Anchoring and Adjustment]].status`)
 - [[The Least Convenient Possible World]] (`= [[The Least Convenient Possible World]].status`)
 - [[Scarcity]] (`= [[Scarcity]].status`)

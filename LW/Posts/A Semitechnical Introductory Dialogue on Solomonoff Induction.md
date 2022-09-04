@@ -28,7 +28,7 @@ status: todo
 # Related
 
 - [[Solomonoff Induction]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[AI]]
 - [[World Modeling]]
 - [[Rationality]]

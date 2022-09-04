@@ -15,7 +15,6 @@ author: Richard_Ngo
 status: todo
 ---
 
-
 # Related
 
 - [[AI]]

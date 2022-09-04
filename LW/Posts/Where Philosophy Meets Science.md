@@ -36,6 +36,6 @@ book: Mere Reality
 - [[Reductive Reference]]
 - "[The future is always absurd](http://lesswrong.com/lw/j6/why_is_the_future_so_absurd/)"
 - [[An Alien God]]
-- [[Occam's Razor]]
+- [[Occam's Razor (Post)]]
 - [[Tsuyoku Naritai! (I Want To Become Stronger)]]
 - "[like ethics](https://www.lesswrong.com/posts/LRKXuxLrnxx3nSESv/should-ethicists-be-inside-or-outside-a-profession)"

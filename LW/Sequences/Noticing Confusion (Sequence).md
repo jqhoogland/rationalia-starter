@@ -23,7 +23,7 @@ status: todo
 - [[Scientific Evidence, Legal Evidence, Rational Evidence]] (`= [[Scientific Evidence, Legal Evidence, Rational Evidence]].status`)
 - [[How Much Evidence Does It Take?]] (`= [[How Much Evidence Does It Take?]].status`)
 - [[Einstein's Arrogance]] (`= [[Einstein's Arrogance]].status`)
-- [[Occam's Razor]] (`= [[Occam's Razor]].status`)
+- [[Occam's Razor (Post)]] (`= [[Occam's Razor]].status`)
 - [[Your Strength as a Rationalist]] (`= [[Your Strength as a Rationalist]].status`)
 - [[Absence of Evidence Is Evidence of Absence]] (`= [[Absence of Evidence Is Evidence of Absence]].status`)
 - [[Conservation of Expected Evidence]] (`= [[Conservation of Expected Evidence]].status`)
