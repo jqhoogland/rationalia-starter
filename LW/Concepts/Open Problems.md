@@ -18,15 +18,8 @@ status: todo
 
 See also [[Hamming Questions]]
 
+---
 
-%%
+![[Some conceptual alignment research projects]]
 
-% START
-Basic (and reversed card)
-What is **Open Problems**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	
+---

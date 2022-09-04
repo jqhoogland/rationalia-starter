@@ -223,16 +223,22 @@ I want to note that what we are doing here *isn’t hard*. Courses at universiti
 - [list of resources](https://workflowy.com/s/D0Q9.oyUe39KbLp)
 - [facebook group](https://www.facebook.com/groups/1421511671230776/)
 - [Announcement post on LessWrong](http://lesswrong.com/r/discussion/lw/p5e/announcing_aasaa_accelerating_ai_safety_adoption/)
-
+- [Course on Grasple](https://app.grasple.com/#/course/141?access_token=3HCK4oRipeFY2ghyYMqDJKYX57KUnzNL)
 
 %%
 
 % START
+
 Basic (and reversed card)
+
 What is **Road To AI Safety Excellence**?
+
 Back: {TODO}
+
 Tags: LessWrong
+
 END
 
 %%
-	
+
+

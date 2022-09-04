@@ -18,15 +18,3 @@ Taking notes is writing that's primarily for yourself -- whether for memory, or 
 
 **Related Pages:** [[Zettelkasten]], [[Scholarship & Learning]], [[Spaced Repetition]]
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Note-Taking**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

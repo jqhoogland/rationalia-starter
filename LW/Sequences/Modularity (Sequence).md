@@ -36,7 +36,7 @@ This book will explore modularized systems through topics such as biology, machi
 - [[Evolution of Modularity]] (`= [[Evolution of Modularity]].status`)
 - [[You Get About Five Words]] (`= [[You Get About Five Words]].status`)
 - [[Coherent decisions imply consistent utilities]] (`= [[Coherent decisions imply consistent utilities]].status`)
-- [[Alignment Research Field Guide]] (`= [[Alignment Research Field Guide]].status`)
+- [[LW/Posts/Alignment Research Field Guide]] (`= [[Alignment Research Field Guide]].status`)
 - [[Forum participation as a research strategy]] (`= [[Forum participation as a research strategy]].status`)
 - [[The Credit Assignment Problem]] (`= [[The Credit Assignment Problem]].status`)
 - [[Selection vs Control]] (`= [[Selection vs Control]].status`)

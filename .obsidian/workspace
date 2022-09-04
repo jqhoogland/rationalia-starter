@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "68ddbb1c2329213f",
+        "id": "c236242f81eef946",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Canon.md",
-            "mode": "source",
+            "file": "AF/Other Resources/ML Safety.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -63,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Canon.md"
+                "file": "AF/Other Resources/ML Safety.md"
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Canon.md",
+                "file": "AF/Other Resources/ML Safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "68ddbb1c2329213f",
+  "active": "c236242f81eef946",
   "lastOpenFiles": [
-    "LW/Concepts/Giant Cheesecake Fallacy.md",
-    "LW/Canon.md",
-    "LW/Jargon (meta).md",
-    "LW/Collections.md",
-    "LW/LessWrong.md",
-    "LW/Jargon/PC.md",
-    "LW/Concepts/Terminology, Jargon (meta).md",
-    "LW/Posts/Appendix— Jargon Dictionary.md",
-    "Jargon (meta).md",
-    "README.md"
+    "AF/Orders/Marius Hobbhan's Starterpack.md",
+    "LW/Other Resources/AI Safety Ideas.md",
+    "LW/Organizations/80,000 Hours.md",
+    "EA/Other Resources/80,000 Hours Podcast.md",
+    "AF/Other Resources/ML Safety.md",
+    "90 - Ajeya Cotra on worldview diversification and how big the future could be.md",
+    "AF/Other Resources/AXRP.md",
+    "AF/Orders/Getting started independently in AI Safety.md",
+    "AF/Other Resources/AI Safety Support.md",
+    "AF/Orders/Alignment Research Field Guide.md"
   ]
 }
