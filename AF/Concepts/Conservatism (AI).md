@@ -15,14 +15,4 @@ status: todo
 # Conservatism (AI)
 
 
-%%
 
-% START
-Basic (and reversed card)
-What is **Conservatism (AI)**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

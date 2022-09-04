@@ -29,7 +29,7 @@ book: The Engines of Cognition
 # Related
 
 - [[Noticing]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Disagreement]]
 - [[Distinctions]]
 - [[Frames]]

@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:37.935Z'
-status: todo
+status: in progress
 ---
 
 # Iterated Amplification
@@ -18,15 +18,20 @@ status: todo
 
 See also: [[Factored Cognition|Factored cognition]].
 
+See: [[Iterated Amplification (Sequence)]]
 
 %%
 
 % START
+
 Basic (and reversed card)
-What is **Iterated Amplification **?
+
+What is **Iterated Amplification**?
+
 Back: {TODO}
+
 Tags: LessWrong
+
 END
 
 %%
-	

@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:59.296Z'
-status: todo
+status: done
 ---
 
 # 12 Virtues

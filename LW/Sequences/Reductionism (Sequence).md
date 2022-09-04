@@ -57,7 +57,7 @@ Early posts out of sequence:
 - [**Explaining vs. Explaining Away**](http://lesswrong.com/lw/oo/explaining_vs_explaining_away/)
 - [Fake Reductionism](http://lesswrong.com/lw/op/fake_reductionism/)
 - [Savanna Poets](http://lesswrong.com/lw/oq/savanna_poets/)
-- The subsequence [[Joy In The Merely Real|Joy in the Merely Real]] (main post [here](http://lesswrong.com/lw/or/joy_in_the_merely_real/))
+- The subsequence [[LW/Concepts/Joy In The Merely Real|Joy in the Merely Real]] (main post [here](http://lesswrong.com/lw/or/joy_in_the_merely_real/))
 - [Hand vs. Fingers](http://lesswrong.com/lw/p2/hand_vs_fingers/)
 - [**Angry Atoms**](http://lesswrong.com/lw/p3/angry_atoms/)
 - [Heat vs. Motion](http://lesswrong.com/lw/p4/heat_vs_motion/)

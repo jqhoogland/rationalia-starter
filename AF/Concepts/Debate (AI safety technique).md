@@ -10,6 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:50.591Z'
 status: todo
+aliases:
+  - Debate
 ---
 
 # Debate (AI Safety technique)

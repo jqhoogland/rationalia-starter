@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "16970af10e0d8af7",
+        "id": "a21eb7939ee5f7eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AF/Posts/AGI safety from first principles/AGI safety from first principles— Goals and Agency.md",
+            "file": "LW/Concepts/Absurdity Heuristic.md",
             "mode": "source",
             "source": false
           }
@@ -28,20 +28,12 @@
         "dimension": 83.97435897435898,
         "children": [
           {
-            "id": "66ed81a64e92146c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "92830efe01fd330c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Risks from Learned Optimization— Introduction",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +41,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "66ed81a64e92146c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "402f879634acba83",
@@ -63,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AF/Posts/AGI safety from first principles/AGI safety from first principles— Goals and Agency.md"
+                "file": "LW/Concepts/Absurdity Heuristic.md"
               }
             }
           }
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AF/Posts/AGI safety from first principles/AGI safety from first principles— Goals and Agency.md",
+                "file": "LW/Concepts/Absurdity Heuristic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +97,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "5ec34430eec4cf92",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -122,24 +115,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
-  "active": "16970af10e0d8af7",
+  "active": "a21eb7939ee5f7eb",
   "lastOpenFiles": [
-    "AF/Posts/AGI safety from first principles/AGI safety from first principles— Superintelligence.md",
-    "AF/Posts/Plenty of Room Above Us.md",
-    "LW/Jargon/Environment of Evolutionary Adaptedness.md",
-    "Notes/@legg2007.md",
-    "LW/Concepts/General Intelligence.md",
-    "LW/Concepts/Solomonoff Induction.md",
-    "AF/Posts/AGI safety from first principles/AGI safety from first principles— Introduction.md",
-    "AF/Concepts/No-Free-Lunch Theorem.md",
-    "LW/Concepts/Church-Turing thesis.md",
-    "LW/Posts/Occam's Razor (Post).md"
+    "LW/Concepts/Abstraction.md",
+    "LW/Concepts/Absolute Certainty.md",
+    "LW/Concepts/Absent-Minded Driver.md",
+    "LW/Concepts/12 Virtues.md",
+    "LW/Concepts/Abolitionism.md",
+    "AF/Concepts/Extensibility Argument For Greater-Than-Human Intelligence.md",
+    "LW/Concepts/The Signaling Trilemma.md",
+    "AF/Concepts/Transparency, Interpretability (ML & AI).md",
+    "AF/Concepts/Whole Brain Emulation.md",
+    "AF/Concepts/Wireheading.md"
   ]
 }

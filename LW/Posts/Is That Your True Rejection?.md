@@ -32,7 +32,7 @@ book: How to Actually Change Your Mind
 - [[Rationality]]
 - [[Motivated Reasoning]]
 - [[Motivations]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - "[1](#fn1x34)"
 - "[2](#fn2x34)"
 - "[1](#fn1x34-bk)"

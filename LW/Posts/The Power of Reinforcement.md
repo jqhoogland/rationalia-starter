@@ -26,7 +26,7 @@ status: todo
 
 - [[Mechanism Design]]
 - [[Emotions]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Neuroscience]]
 - "[The Science of Winning at Life](http://wiki.lesswrong.com/wiki/The_Science_of_Winning_at_Life)"
 - [[Basics of Animal Reinforcement]]

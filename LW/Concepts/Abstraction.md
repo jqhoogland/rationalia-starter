@@ -17,16 +17,3 @@ status: todo
 An **abstraction** is a high-level concept that groups things together while not considering some of their differences.
 
 (This is a stub, please rewrite if you have a better tag description).
-
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Abstraction**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

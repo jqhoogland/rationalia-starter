@@ -1,6 +1,6 @@
 ---
 _id: FkgsxrGf3QxhfLWHG
-title: 'Risks from Learned Optimization: Introduction'
+title: 'Risks from Learned Optimization— Introduction'
 author: evhub
 url: null
 slug: risks-from-learned-optimization-introduction
@@ -25,7 +25,7 @@ collection: Best of LessWrong
 book: The Engines of Cognition
 ---
 
-# Risks From Learned Optimization: Introduction
+# Risks from Learned Optimization— Introduction
 
 
 # Related

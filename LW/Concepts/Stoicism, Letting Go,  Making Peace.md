@@ -9,22 +9,14 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:22.374Z'
-status: todo
+status: done
+aliases:
+  - Stoicism
+  - Letting go
+  - Making peace
 ---
 
 # Stoicism / Letting Go / Making Peace
 
 \[note: this tag is meant to refer to the general concept of making peace with reality / letting go. Not sure if it's a good cluster. Related to [grieving](https://www.lessestwrong.com/tag/grieving)\].
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Stoicism, Letting Go ,  Making Peace**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

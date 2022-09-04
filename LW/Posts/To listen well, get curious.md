@@ -30,7 +30,7 @@ collection: Best of LessWrong
 - [[Communication Cultures]]
 - [[Practical]]
 - [[World Optimization]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Curiosity]]
 - "[source](https://twitter.com/thecassiecao/status/1276506378388017155/photo/1)"
 - "[Active Listening](active-listening.pdf)"

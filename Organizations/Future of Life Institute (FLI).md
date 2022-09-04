@@ -14,7 +14,7 @@ status: todo
 
 # Future of Life Institute (FLI)
 
-The **Future of Life Institute**, or **FLI,** is a nonprofit organization whose mission is to mitigate [existential risks](existential-risk). Its most prominent activities are issuing grants to x-risk researchers and organizing conferences on [AI](ai) and existential risk.
+The **Future of Life Institute**, or **FLI,** is a nonprofit organization whose mission is to mitigate [existential risks](existential-risk). Its most prominent activities are issuing grants to x-risk researchers and organizing conferences on [AI](AI.md) and existential risk.
 
 Website: [futureoflife.org](https://futureoflife.org)
 

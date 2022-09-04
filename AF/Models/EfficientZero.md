@@ -14,13 +14,14 @@ status: todo
 
 # EfficientZero
 
+The [[Reinforcement Learning|RL agent]] that beat all the Atari games.
 
 %%
 
 % START
 Basic (and reversed card)
 What is **EfficientZero**?
-Back: {TODO}
+Back: The RL agent that beat all the Atari games.
 Tags: LessWrong
 END
 

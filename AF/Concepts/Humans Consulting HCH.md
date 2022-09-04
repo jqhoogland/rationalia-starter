@@ -10,6 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:40.545Z'
 status: todo
+aliases:
+  - HCH
 ---
 
 # Humans Consulting HCH
@@ -24,15 +26,20 @@ It was first described by Paul Christiano in his post [Humans Consulting HCH](ht
 >
 > Let’s call this process HCH, for “Humans Consulting HCH.”
 
-
 %%
 
 % START
+
 Basic (and reversed card)
+
 What is **Humans Consulting HCH**?
+
 Back: {TODO}
+
 Tags: LessWrong
+
 END
 
 %%
-	
+
+

@@ -9,7 +9,9 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:56.174Z'
-status: todo
+status: done
+aliases:
+  - AGI
 ---
 
 # Artificial General Intelligence
@@ -55,16 +57,3 @@ Reasons for expecting an AGI's creation in the near future include the continuat
 - [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
 - [[Singleton]] (`= [[Singleton]].status`)
 - [[Anthropomorphism]], [[Giant Cheesecake Fallacy|giant cheesecake fallacy]]
-
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Artificial General Intelligence**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:51.621Z'
-status: todo
+status: done
+aliases:
+  - Coordination
+  - Cooperation
 ---
 
 # Coordination / Cooperation
@@ -20,19 +23,21 @@ Coordination and cooperation are fundamental concepts in [[Game Theory]]. LessWr
 
 See also: [[Game Theory]], [[Moloch]]
 
-Another related term in this space is *collective action problem. *
+Another related term in this space is *collective action problem.*
 
 **Related Sequences:** [Kickstarter for Coordinated Action](https://www.lesswrong.com/s/vz9Zrj3oBGsttG3Jh)
 
-
 %%
 
-% START
-Basic (and reversed card)
-What is **Coordination, Cooperation**?
-Back: {TODO}
+START
+Basic
+Contrast **Coordination** and **Cooperation**
+Back:
+- **Coordination** is jointly choosing actions to achieve favorable outcomes.
+- **Cooperation** is individually choosing actions that maximize collective value despite temptation to defect
 Tags: LessWrong
 END
 
 %%
-	
+
+

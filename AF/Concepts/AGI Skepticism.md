@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:43:02.815Z'
-status: todo
+status: done
 ---
 
 # AGI Skepticism
@@ -37,16 +37,3 @@ There are also skeptics who think that the prospect of near-term AGI seems remot
 - [[Unfriendly Artificial Intelligence]] (`= [[Unfriendly Artificial Intelligence]].status`)
 - [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
 - [[Economic Consequences of AGI|Economic Consequences of AI]] (`= [[Economic Consequences of AGI|Economic Consequences of AI]].status`)
-
-
-%%
-
-% START
-Basic (and reversed card)
-What is **AGI Skepticism**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

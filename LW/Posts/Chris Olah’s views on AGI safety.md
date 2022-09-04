@@ -25,6 +25,9 @@ book: The Engines of Cognition
 
 # Chris Olah’s Views on AGI Safety
 
+1.  Train a predictive model on some set of data that you want to understand while using transparency tools to verify that the model isn’t performing any optimization.
+2.  Use transparency tools to understand what the model learned about the data and use that understanding to guide human decision-making.
+
 
 # Related
 

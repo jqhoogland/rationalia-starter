@@ -18,7 +18,7 @@ status: todo
 
 This tag is for understanding the nature of public discourse (How good is it? What makes it succeed or fail?), and ways of improving it using technology or novel institutions. 
 
-See also: [[Conversation (topic)]]
+See also: [[Conversation (Topic)]]
 
 
 %%

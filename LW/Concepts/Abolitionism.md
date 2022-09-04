@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:58.544Z'
-status: todo
+status: done 
 ---
 
 # Abolitionism
@@ -40,7 +40,7 @@ Addressing this type of objection to “paradise engineering”, Pearce [writes]
 
 %%
 
-% START
+START
 
 Basic (and reversed card)
 

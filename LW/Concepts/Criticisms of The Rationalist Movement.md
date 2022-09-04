@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:51.265Z'
-status: todo
+status: done
 ---
 
 # Criticisms of The Rationalist Movement
@@ -63,15 +63,20 @@ As such, the fringe nature of transhumanist ideas such as [[Cryonics|cryonics]],
 15. [http://rationalwiki.org/wiki/Cybernetic_revolt](http://rationalwiki.org/wiki/Cybernetic_revolt)[↩](#fnref15)
 16. [http://rationalwiki.org/wiki/Transhumanism](http://rationalwiki.org/wiki/Transhumanism)[↩](#fnref16)
 
-
 %%
 
 % START
+
 Basic (and reversed card)
+
 What is **Criticisms of The Rationalist Movement**?
+
 Back: {TODO}
+
 Tags: LessWrong
+
 END
 
 %%
-	
+
+

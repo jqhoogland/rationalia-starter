@@ -10,6 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:25.079Z'
 status: todo
+aliases:
+  - RL
 ---
 
 # Reinforcement Learning

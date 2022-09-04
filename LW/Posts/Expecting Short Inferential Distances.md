@@ -34,7 +34,7 @@ book: 'Map and Territory '
 - [[Inferential Distance]]
 - [[Rationality]]
 - [[Evolutionary Psychology]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Public Discourse]]
 - [[Illusion of Transparency]]
 - "[200 people](https://en.wikipedia.org/wiki/Dunbar%27s_number)"

@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:43.107Z'
-status: todo
+status: done
 ---
 
 # Free Will (Solution)
@@ -32,16 +32,3 @@ These posts **should not be read** until having made a very serious effort on yo
 - [Possibility and Could-ness](http://lesswrong.com/lw/rb/possibility_and_couldness/)
 - [*Causality and Moral Responsibility*](http://lesswrong.com/lw/ra/causality_and_moral_responsibility/)
 - [The Ultimate Source](http://lesswrong.com/lw/rc/the_ultimate_source/)
-
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Free Will (Solution)**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

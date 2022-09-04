@@ -42,14 +42,3 @@ The impossibility of justified absolute certainty is sometimes used as a [[Ratio
 ---
 
 
-%%
-
-% START
-Basic (and reversed card)
-What is **Absolute Certainty**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

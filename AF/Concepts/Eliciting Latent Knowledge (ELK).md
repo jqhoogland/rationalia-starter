@@ -14,7 +14,7 @@ status: todo
 
 # Eliciting Latent Knowledge (ELK)
 
-**Eliciting Latent Knowledge** is an open problem in [AI](ai) safety.
+**Eliciting Latent Knowledge** is an open problem in [AI](AI.md) safety.
 
 > Suppose we train a model to predict what the future will look like according to cameras and other sensors. We then use planning algorithms to find a sequence of actions that lead to predicted futures that look good to us.
 >

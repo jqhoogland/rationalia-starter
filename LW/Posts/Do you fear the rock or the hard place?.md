@@ -29,7 +29,7 @@ book: The Engines of Cognition
 
 - [[Tribalism]]
 - [[Disagreement]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - "[double crux](https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)"
 - [[Policy Debates Should Not Appear One-Sided]]
 - [[Do you fear the rock or the hard place?]]

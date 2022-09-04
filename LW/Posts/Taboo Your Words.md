@@ -30,7 +30,7 @@ author: Eliezer_Yudkowsky
 
 - [[World Modeling]]
 - [[Disagreement]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Techniques]]
 - [[Philosophy of Language]]
 - [[Rationalist Taboo]]

@@ -30,7 +30,7 @@ book: Good and Bad Reasoning
 # Related
 
 - [[Rationality]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Fallacies]]
 - [[Motivational Intro Posts]]
 - [[Leaky Generalizations]]

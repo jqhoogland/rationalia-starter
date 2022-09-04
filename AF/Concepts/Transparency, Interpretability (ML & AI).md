@@ -10,6 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:20.216Z'
 status: todo
+aliases:
+  - Transparency
+  - Interpretability
+  - Transparency tools
 ---
 
 # Transparency, Interpretability (ML & AI)

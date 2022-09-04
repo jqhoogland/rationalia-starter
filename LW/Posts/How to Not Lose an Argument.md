@@ -23,7 +23,7 @@ author: null
 # Related
 
 - [[Disagreement]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Tribalism]]
 - "[Leave a Line of Retreat](http://www.overcomingbias.com/2008/02/leave-retreat.html)"
 - [[Talking Snakes: A Cautionary Tale]]

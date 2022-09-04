@@ -9,22 +9,22 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:51.591Z'
-status: todo
+status: done
 ---
 
 # Corrigibility
 
 A **corrigible** agent is one that doesn't interfere with what we would intuitively see as attempts to 'correct' the agent, or 'correct' our mistakes in building it; and permits these 'corrections' despite the apparent instrumentally convergent reasoning saying otherwise.
 
-
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Corrigibility**?
-Back: {TODO}
+Back: A property of agents that don't interfere in attempts to "correct" (or "stop") it.
 Tags: LessWrong
 END
 
 %%
-	
+
+

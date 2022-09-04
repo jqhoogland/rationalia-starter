@@ -136,8 +136,9 @@ const syncNote = async (title: string, value: string) => {
 		case 'tag':
 		 	return syncTag(title, frontmatter as TagFrontmatter, body)
 		case 'post': 
-			console.log("[Post]: Synching " + title)
 			return syncPost(title, frontmatter as PostFrontmatter, body)
+		case 'sequence':
+			return syncSequence(title, frontmatter as SequenceFrontmatter, body)
 		default: 
 			return syncMisc(frontmatter, body)
 	}
@@ -290,7 +291,10 @@ async function replaceAsync(str: string, regex: RegExp, replacer: (match: string
 	return Promise.all(fns).then(replacements => {
 		return str.replace(regex, () => replacements.shift())
 	})
-	}
+} 
+	
+
+const fixTitle = (title: string) => title.replaceAll(":", "—")
 
 
 export const fixLinks = async (md: string) => {
@@ -300,7 +304,7 @@ export const fixLinks = async (md: string) => {
 		}
 
 		if (href.includes('lesswrong.com')) {
-			const title = await getTitleFromLink(href); // TODO: check aliases
+			const title = fixTitle(await getTitleFromLink(href)); // TODO: check aliases
 
 			if (!title) {
 				if (href[0] === "/") {
@@ -518,4 +522,127 @@ export interface PostFrontmatter {
 	synchedAt: string;
 	author: string;
 	status: Status
+}
+
+type SequenceFrontmatter = {
+	_id: string;
+	title: string;
+	type: "sequence";
+	tags: string[];
+	href: string;
+	curatedOrder: null | number;
+	aliases?: string[];
+	synchedAt: string;
+	status: Status
+} & {[key: string]: any}
+
+export interface Sequence {
+    _id: string;
+    title: string;
+    curatedOrder: number;
+    contents: {
+        markdown: string
+    }
+    chapters: {
+        _id: string;
+        title: string;
+        subtitle: string;
+        number: number;
+        contents: {
+            markdown: string
+        }
+        posts: Omit<Post, 'content' | 'tableOfContents'>[]
+    }[]
+}
+
+const syncSequence = async (title: string, frontmatter: Partial<SequenceFrontmatter>, body: string) => {
+	return getSequence(title, frontmatter).then(sequence => 
+		updateSequence(title, frontmatter, body, sequence)
+	)	
+}
+
+const getSequence = async (title: string, frontmatter: Partial<SequenceFrontmatter>) => {
+	const selector = getGQLSelector(frontmatter, title)
+
+	const query = gql`{
+		sequence(input: { 
+			selector: {
+				${selector}	
+			}
+		}) {
+		  result {
+			_id
+			title
+			curatedOrder
+			contents {
+				markdown
+			}
+			chapters{
+				_id
+				title 
+				subtitle
+				number
+				contents {
+					markdown
+				}
+				posts {
+					_id
+					url
+					title
+					slug
+					author
+					question
+					tags {
+						name
+					}
+					voteCount
+				}
+			}
+		  }
+		}
+	}`
+
+	return request('https://www.lesswrong.com/graphql', query, {}, { Host: "www.lesswrong.com" })
+		.then(({ sequence }: { sequence: { result: Sequence } }) => {
+			return sequence.result;
+		})
+}
+
+const updateSequence = async (title: string, frontmatter: Partial<SequenceFrontmatter>, body: string, sequence: Sequence) => {
+	const newFrontmatter: SequenceFrontmatter = {
+		...frontmatter,
+		_id: sequence._id,
+		title: sequence.title,
+		curatedOrder: sequence.curatedOrder,
+		href: `https://www.lesswrong.com/s/${sequence._id}`,
+		synchedAt: new Date().toISOString(),
+		type: 'sequence',
+		tags: 
+			[...new Set([
+				...(frontmatter?.tags ?? []),
+				"LessWrong",
+				"Sequence",
+			]).values()],
+		status: frontmatter?.status ?? "todo",
+	}
+
+	if (body.trim() === "") {
+		body += `# ${sequence.title}\n\n`
+		body += await fixLinks(sequence.contents.markdown);
+		body += "\n\n";
+
+		body += (await Promise.all(sequence.chapters.map(async chapter => {
+			return (
+				`# ${chapter?.title ?? sequence.title}\n\n`
+				+ await fixLinks(chapter?.contents?.markdown ?? "")
+				+ '\n\n'
+				+ chapter.posts.map(post => `- [[${fixTitle(post.title)}]]`).join("\n")
+			)
+		}))).join('\n\n')
+	}
+
+	return combine(
+		newFrontmatter,
+		body
+	)	
 }

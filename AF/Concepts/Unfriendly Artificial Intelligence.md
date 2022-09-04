@@ -21,7 +21,7 @@ An **Unfriendly artificial intelligence** (or **UFAI**) is an [[Artificial Gener
 
 ## See Also
 
-- [[Mind Design Space|Mind design space]], [[Magical Categories|magical categories]]
+- [[Mind Design Space|Mind design space]], [[LW/Concepts/Magical Categories|magical categories]]
 - [[Really Powerful Optimization Process|Really powerful optimization process]] (`= [[Really Powerful Optimization Process|Really powerful optimization process]].status`)
 - [[Instrumental Convergence|Basic AI drives]] (`= [[Instrumental Convergence|Basic AI drives]].status`)
 - [[Paperclip Maximizer|Paperclip maximizer]] (`= [[Paperclip Maximizer|Paperclip maximizer]].status`)

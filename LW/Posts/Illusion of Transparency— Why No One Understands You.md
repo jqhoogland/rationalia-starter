@@ -29,7 +29,7 @@ book: 'Map and Territory '
 
 # Related
 
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Inferential Distance]]
 - [[Calibration]]
 - [[Illusion of Transparency]]

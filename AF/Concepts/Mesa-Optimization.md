@@ -9,7 +9,13 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:35.393Z'
-status: todo
+status: done
+aliases: 
+  - Inner Optimization
+  - mesa-optimizer
+  - inner optimizer
+  - optimization daemon
+  - optimization daemons
 ---
 
 # Mesa-Optimization
@@ -18,7 +24,7 @@ status: todo
 
 Example: Natural selection is an optimization process that optimizes for reproductive fitness. Natural selection produced humans, who are themselves optimizers. Humans are therefore mesa-optimizers of natural selection.
 
-In the context of AI alignment, the concern is that a base optimizer (e.g., a gradient descent process) may produce a learned model that is itself an optimizer, and that has unexpected and undesirable properties. Even if the gradient descent process is in some sense "trying" to do exactly what human developers want, the resultant mesa-optimizer will not typically be trying to do the exact same thing.[^1^](https://lessestwrong.com/tag/mesa-optimization?revision=0.0.3#fn1)
+In the context of AI alignment, the concern is that a base optimizer (e.g., a gradient descent process) may produce a learned model that is itself an optimizer, and that has unexpected and undesirable properties. Even if the gradient descent process is in some sense "trying" to do exactly what human developers want, the resultant mesa-optimizer will not typically be trying to do the exact same thing.
 
 ## History
 
@@ -53,15 +59,18 @@ Some posts that reference optimization daemons:
 - ["Cause prioritization for downside-focused value systems"](http://effective-altruism.com/ea/1k4/draft_cause_prioritization_for_downsidefocused/): "Alternatively, perhaps goal preservation becomes more difficult the more capable AI systems become, in which case the future might be controlled by unstable goal functions taking turns over the steering wheel"
 - ["Techniques for optimizing worst-case performance"](https://ai-alignment.com/techniques-for-optimizing-worst-case-performance-39eafec74b99): "The difficulty of optimizing worst-case performance is one of the most likely reasons that I think prosaic AI alignment might turn out to be impossible (if combined with an unlucky empirical situation)." (the phrase "unlucky empirical situation" links to the optimization daemons page on [Arbital](https://arbital.com/))
 
-
 %%
 
-% START
+START
+
 Basic (and reversed card)
+
 What is **Mesa-Optimization**?
-Back: {TODO}
+
+Back: A learned model (trained by some base optimizer) that is itself an optimizer
+
 Tags: LessWrong
+
 END
 
 %%
-	

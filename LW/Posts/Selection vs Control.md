@@ -32,7 +32,7 @@ book: The Engines of Cognition
 - [[Adaptation Executors]]
 - [[Distinctions]]
 - [[Selection vs Control]]
-- [[Risks from Learned Optimization: Introduction]]
+- [[Risks from Learned Optimization— Introduction]]
 - "[Eliezer's notion in the sequences](https://www.lesswrong.com/posts/Q4hLMDrFd8fbteeZ8/measuring-optimization-power)"
 - "[other problems](https://www.lesswrong.com/posts/iJNK7rE5jphMSJJCa/thoughts-and-problems-with-eliezer-s-measure-of-optimization)"
 - "[quantified optimization power](https://www.lesswrong.com/posts/Q4hLMDrFd8fbteeZ8/measuring-optimization-power)"

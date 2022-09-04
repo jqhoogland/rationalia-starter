@@ -25,7 +25,7 @@ status: todo
 # Related
 
 - [[AI]]
-- [[Iterated Amplification ]]
+- [[AF/Concepts/Iterated Amplification ]]
 - "[ALBA](https://ai-alignment.com/alba-an-explicit-proposal-for-aligned-ai-17a55f60bbcf)"
 - "[Iterated Distillation and Amplification](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616)"
 - "[ITT](http://econlog.econlib.org/archives/2011/06/the_ideological.html)"

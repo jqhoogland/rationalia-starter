@@ -95,7 +95,7 @@ A guide to this sequence is available at [The Quantum Physics Sequence (post)](h
 ## See Also
 
 - [[Quantum Mechanics|Quantum mechanics]] (`= [[Quantum Mechanics|Quantum mechanics]].status`)
-- [[Decoherence]] (`= [[Decoherence]].status`)
+- [[LW/Concepts/Decoherence]] (`= [[Decoherence]].status`)
 - [[Many-Worlds Interpretation|Many-worlds interpretation]] (`= [[Many-Worlds Interpretation|Many-worlds interpretation]].status`)
 
 

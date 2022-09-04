@@ -30,7 +30,7 @@ book: A Map That Reflects the Territory
 # Related
 
 - [[Research Agendas]]
-- [[Iterated Amplification ]]
+- [[AF/Concepts/Iterated Amplification ]]
 - [[Humans Consulting HCH]]
 - [[Q&A (format)]]
 - "[Ajeya Cotra’s summary](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616)"

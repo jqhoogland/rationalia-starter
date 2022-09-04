@@ -28,5 +28,5 @@ book: The Engines of Cognition
 # Related
 
 - [[Inferential Distance]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Social & Cultural Dynamics]]

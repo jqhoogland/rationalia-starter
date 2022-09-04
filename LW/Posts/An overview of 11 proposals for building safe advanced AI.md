@@ -26,20 +26,67 @@ href: >-
 sequence: Alignment & Agency
 chapter: null
 synchedAt: '2022-09-01T09:33:57.845Z'
-status: todo
+status: in progress
 collection: Best of LessWrong
 ---
 
 # An Overview of 11 Proposals for Building Safe Advanced AI
 
+*This is the blog post version of [the paper by the same name](https://arxiv.org/abs/2012.07532).*
+
+# Components
+
+- [[Inner Alignment]]
+- [[Outer Alignment]]
+- **Training Competitiveness**: whether training procedure is affordable without throwing away a lead.
+- **Performance Competitiveness**: whether running the model is affordable without throwing away a lead.
+
+# Proposals
+
+1. [[Reinforcement Learning|RL]] + [[Transparency, Interpretability (ML & AI)|Transparency tools]]
+	- RL in an environment where [[Corrigibility]], [[Honesty]], and [[Coordination, Cooperation|Multi-agent Cooperation]] are incentivized.
+	- Mimic [[Evolution|evolutionary pressures]] that led to our cooperativeness.
+	- ==Will theses agents cooperate only with each other?==
+	- ==Will corrigibility be stable? Or will agents learn to follow instructions only so far as it benefits them instrumentally?==
+	- [[Chris Olah’s views on AGI safety|Transparency checking so you throw out models and start over when necessary]]
+	- ==How strong are inductive biases towards true alignment & away from [[Pseudo-alignment]]?==
+	- ==How robust are these tools to [[Deceptive Alignment]]?==
+	- ==To what extent is RL necessary to train advanced AIs?==
+	- ==To what extent is it necessary to explicitly train agents?== => ==[[Instrumental Convergence|Is agency really emergent?]]==
+	- ==How expensive would these environments be to simulate?==
+2. ![[Imitative amplification#Imitative amplification & Intermittent oversight]]
+	- Red arrows indicate oversight
+     - The limiting case is [[Humans Consulting HCH|HCH]], so [[outer alignment]] depends on your choice of humans.
+     - [[Inner alignment]] depends on your oversight mechanism.
+     - ==In which domains is pure imitation a strong enough reward signal for efficient learning?==
+	     - In NLP, it may be enough; In fine-motor control, maybe not.
+	 - ==How difficult is it to pass the intermittent oversight step?==
+	 - ==How universal is [[Humans Consulting HCH|HCH]] at solving hard problems?==
+3. ![[Imitative amplification#Imitative amplification relaxed adversarial training]]
+	- Like the previous, but we train directly on the intermittent oversight signal
+	- Has the potential to *prevent* deception rather than detect it after the fact (which leaves room for obfuscation).
+	- ==Will adversarial training increase or decrease model transparency?==
+	- ==How hard is it to find a model that is non-catastrophic under the two different oversight regimes?==
+4. ![[Approval-based amplification#Approval-based amplification Relaxed adversarial training]]
+	- Instead of an imitation signal, we use a [[myopia|myopic]] approval signal.
+	- ==Is approval or imitation distance a more informative signal?==  [[P vs. NP|Verification is easier than generation]]
+	- ==Does approval incentivize the model to obfuscate its internals so we can't figure out how it's gaming it?==
+5. [[Chris Olah’s views on AGI safety|Microscope AI]]: Avoid building agents
+	- [[The Solomonoff Prior is Malign|There may be deceptive optimization in the limit of perfect prediction]] ==but would it actually occur in practice (away from the uncomputable limit)?==
+	- ==Can we distinguish optimization & modeling? I.e.: is it possible to avoid mesa-optimizers altogether?==
+	- ==If it is possible, can we do it in practice?==
+6. STEM AI: Avoid modeling humans. Train only on STEM problems & use transparency tools.
+	- ==How limited in potential would this be?==
+	- ==Could we avoid [[instrumental convergence]]?==
+1. Narrow reward modeling + [[Transparency, Interpretability (ML & AI)|Transparency tools]]
+2. Recursive reward modeling + [[Relaxed adversarial training]]
+3. AI safety via [[Debate (AI safety technique)|Debate]] with [[Transparency, Interpretability (ML & AI)|Transparency tools]]
+4. [[Iterated Amplification|Amplification]] with auxiliary RL objective + [[Relaxed adversarial training]]
+5. [[Iterated Amplification|Amplification]] alongside [[Reinforcement Learning|RL]] + [[Relaxed adversarial training]]
 
 # Related
 
 - [[AI]]
-- [[Iterated Amplification ]]
-- [[Debate (AI safety technique)]]
-- [[Inner Alignment]]
-- [[Outer Alignment]]
 - [[Myopia]]
 - [[AI Risk]]
 - [[AI Success Models]]
@@ -60,7 +107,7 @@ collection: Best of LessWrong
 - "[deceptive](https://www.alignmentforum.org/posts/zthDPAjh9w6Ytbeks/deceptive-alignment)"
 - "[catastrophic](https://ai-alignment.com/learning-with-catastrophes-59387b55cc30)"
 - [[Chris Olah’s views on AGI safety]]
-- [[Risks from Learned Optimization: Introduction]]
+- [[Risks from Learned Optimization— Introduction]]
 - "[proxy pseudo-alignment](https://www.alignmentforum.org/posts/pL56xPoniLvtMDQ4J/the-inner-alignment-problem)"
 - "[deceptive pseudo-alignment](https://www.alignmentforum.org/posts/zthDPAjh9w6Ytbeks/deceptive-alignment)"
 - "[iterated amplification](https://www.alignmentforum.org/s/EmDuGeRw749sD3GKd)"
@@ -106,5 +153,5 @@ collection: Best of LessWrong
 - "[StarCraft](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)"
 - "[It has been proven](https://www.alignmentforum.org/posts/Br4xDbYu4Frwrb64a/writeup-progress-on-ai-safety-via-debate-1)"
 - "[NEXP](https://en.wikipedia.org/wiki/NEXPTIME)"
-- "[NP](https://en.wikipedia.org/wiki/NP_(complexity)"
+- "[NP](<https://en.wikipedia.org/wiki/NP_(complexity)>"
 - "[Synthesizing amplification and debate](https://www.alignmentforum.org/posts/dJSD5RK6Qoidb3QY5/synthesizing-amplification-and-debate)"

@@ -34,7 +34,7 @@ book: A Map That Reflects the Territory
 - [[Rationality]]
 - [[World Modeling]]
 - [[Practical]]
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Anticipated Experiences]]
 - [[Modest Epistemology]]
 - [[Underconfidence]]

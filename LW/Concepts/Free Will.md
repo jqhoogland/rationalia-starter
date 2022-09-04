@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:45.789Z'
-status: todo
+status: done
 ---
 
 # Free Will
@@ -30,16 +30,3 @@ For spoiler posts see [[Free Will (Solution)|free will (solution)]].
 ## See Also
 
 - [[How An Algorithm Feels|How an algorithm feels from the inside]] (`= [[How An Algorithm Feels|How an algorithm feels from the inside]].status`)
-
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Free Will**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

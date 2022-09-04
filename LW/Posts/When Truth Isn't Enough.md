@@ -22,7 +22,7 @@ status: todo
 
 # Related
 
-- [[Conversation (topic)]]
+- [[Conversation (Topic)]]
 - [[Signaling]]
 - [[The Power of Positivist Thinking]]
 - "[dennettations](http://www.philosophicallexicon.com/)"
