@@ -80,7 +80,7 @@ export default class Rationalia extends Plugin {
 	onunload() {
 	}
 }
-const getFlashcardTemplate = (title: string) => `
+const getFlashcardTemplate = (title: string, tags = "LessWrong") => `
 
 %%
 
@@ -88,7 +88,7 @@ const getFlashcardTemplate = (title: string) => `
 Basic (and reversed card)
 What is **${title}**?
 Back: {TODO}
-Tags: LessWrong
+Tags: ${tags}
 END
 
 %%
@@ -187,6 +187,13 @@ export interface Tag {
 
 export type TagFrontmatter = { type: 'tag', _id?: string, slug?: string  } & { [key: string]: any}
 
+const getBaseURL = (frontmatter: Partial<TagFrontmatter | SequenceFrontmatter | PostFrontmatter>) => {
+	if (frontmatter.tags.includes("EA")) {
+		return "forum.effectivealtruism.org"
+	}
+	return "www.lesswrong.com"
+}
+
 const getTag = (title: string, frontmatter: TagFrontmatter) => {
 	const selector = getGQLSelector(frontmatter, title)
 
@@ -215,7 +222,7 @@ const getTag = (title: string, frontmatter: TagFrontmatter) => {
         }
     }`
 
-	return request('https://www.lesswrong.com/graphql', query, {}, { Host: "www.lesswrong.com"})
+	return request(`https://${getBaseURL(frontmatter)}/graphql`, query, {}, { Host: getBaseURL(frontmatter)})
 		.then(({ tag }: { tag: { result: Tag } }) => {
 			return tag.result;
 		})		
@@ -247,13 +254,12 @@ const updateTag = async (title: string, frontmatter: TagFrontmatter, body: strin
 		_id: tag._id,
 		title: tag.name,
 		slug: tag.slug,
-		href: `https://www.lesswrong.com/tag/${tag.slug}`,
+		href: `https://${getBaseURL(frontmatter)}/tag/${tag.slug}`,
 		synchedAt: new Date().toISOString(),
 		type: 'tag',
 		tags: 
 			[...new Set([
 				...(frontmatter?.tags ?? []),
-				"LessWrong",
 				"Tag",
 				"Concept",
 			]).values()],
@@ -294,7 +300,7 @@ async function replaceAsync(str: string, regex: RegExp, replacer: (match: string
 } 
 	
 
-const fixTitle = (title: string) => title.replaceAll(":", "—")
+const fixTitle = (title: string) => title ? title?.replaceAll(":", "—") : ""
 
 
 export const fixLinks = async (md: string) => {
@@ -303,12 +309,14 @@ export const fixLinks = async (md: string) => {
 			return match
 		}
 
-		if (href.includes('lesswrong.com')) {
+		if (href.includes('lesswrong.com') || href.includes('effectivealtruism.org')) {
+			const baseURL = href.includes('lesswrong.com') ? "www.lesswrong.com" : "forum.effectivealtruism.org";
+
 			const title = fixTitle(await getTitleFromLink(href)); // TODO: check aliases
 
 			if (!title) {
 				if (href[0] === "/") {
-					href = "https://lesswrong.com" + href;
+					href = `https://${baseURL}${href}`;
 				}
 				return `[${alias}](${href})`;
 			}
@@ -318,7 +326,9 @@ export const fixLinks = async (md: string) => {
 			}
 
 			return `[[${title}|${alias}]]`
-		} 
+		}
+
+
 		return match;
 	})  
 }
@@ -353,6 +363,12 @@ const getTitleFromLink = async (href: string) => {
 		}
 		
 		const page = api!.pages('#LessWrong').where(p =>
+			p.type === type_ && (
+				p._id === id_or_slug
+				|| p.slug === id_or_slug
+				|| p.slug === id_or_slug
+			)
+		).first() || api!.pages('#EA').where(p =>
 			p.type === type_ && (
 				p._id === id_or_slug
 				|| p.slug === id_or_slug
@@ -435,7 +451,7 @@ const getPost = async (title: string, frontmatter: Partial<PostFrontmatter>) => 
         }
     }`
 
-	return request('https://www.lesswrong.com/graphql', query, {}, { Host: "www.lesswrong.com"})
+	return request(`https://${getBaseURL(frontmatter)}/graphql`, query, {}, { Host: getBaseURL(frontmatter)})
 		.then(({ post }: { post: { result: Post } }) => {
 			return post.result;
 		})		
@@ -463,7 +479,6 @@ const updatePost = async (title: string, frontmatter: Partial<PostFrontmatter>, 
 		tags: 
 			[...new Set([
 				...(frontmatter?.tags ?? []),
-				"LessWrong",
 				"Post",
 				...post.tags.map(tag => makeTag(tag.name)),
 			]).values()],
@@ -602,7 +617,7 @@ const getSequence = async (title: string, frontmatter: Partial<SequenceFrontmatt
 		}
 	}`
 
-	return request('https://www.lesswrong.com/graphql', query, {}, { Host: "www.lesswrong.com" })
+	return request(`https://${getBaseURL(frontmatter)}/graphql`, query, {}, { Host: getBaseURL(frontmatter) })
 		.then(({ sequence }: { sequence: { result: Sequence } }) => {
 			return sequence.result;
 		})
@@ -614,13 +629,12 @@ const updateSequence = async (title: string, frontmatter: Partial<SequenceFrontm
 		_id: sequence._id,
 		title: sequence.title,
 		curatedOrder: sequence.curatedOrder,
-		href: `https://www.lesswrong.com/s/${sequence._id}`,
+		href: `https://${getBaseURL(frontmatter)}/s/${sequence._id}`,
 		synchedAt: new Date().toISOString(),
 		type: 'sequence',
 		tags: 
 			[...new Set([
 				...(frontmatter?.tags ?? []),
-				"LessWrong",
 				"Sequence",
 			]).values()],
 		status: frontmatter?.status ?? "todo",

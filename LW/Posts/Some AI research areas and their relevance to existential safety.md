@@ -29,7 +29,7 @@ collection: Best of LessWrong
 # Related
 
 - [[AI]]
-- [[Existential Risk]]
+- [[EA/Topics/Existential risk]]
 - [[Academic Papers]]
 - [[World Optimization]]
 - [[Agent Foundations]]

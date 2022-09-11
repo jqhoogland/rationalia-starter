@@ -17,5 +17,5 @@ status: todo
 # Sequences
 
 - [[Predictably Wrong (Sequence)]] (`= [[Predictably Wrong (Sequence)]].status`)
-- [[Replacing Guilt (Sequence)]] (`= [[Replacing Guilt (Sequence)]].status`)
+- [[LW/Sequences/Replacing Guilt (Sequence)]] (`= [[Replacing Guilt (Sequence)]].status`)
 - [[CFAR Handbook (Sequence)]] (`= [[CFAR Handbook (Sequence)]].status`)

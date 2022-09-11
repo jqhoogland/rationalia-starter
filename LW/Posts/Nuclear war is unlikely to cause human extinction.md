@@ -28,7 +28,7 @@ collection: Best of LessWrong
 
 # Related
 
-- [[Existential Risk]]
+- [[EA/Topics/Existential risk]]
 - [[War]]
 - [[World Optimization]]
 - [[World Modeling]]

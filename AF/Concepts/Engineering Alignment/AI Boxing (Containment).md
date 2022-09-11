@@ -26,7 +26,7 @@ Escaping the box
 It is not regarded as likely that an AGI can be boxed in the long term. Since the AGI might be a [[Superintelligence|superintelligence]], it could persuade someone (the human liaison, most likely) to free it from its box and thus, human control. Some practical ways of achieving this goal include:
 
 - Offering enormous wealth, power and intelligence to its liberator
-- Claiming that only it can prevent an [[Existential Risk|existential risk]]
+- Claiming that only it can prevent an [[EA/Topics/Existential risk|existential risk]]
 - Claiming it needs outside resources to cure all diseases
 - Predicting a real-world disaster (which then occurs), then claiming it could have been prevented had it been let out
 

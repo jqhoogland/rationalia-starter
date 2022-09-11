@@ -17,7 +17,7 @@ status: todo
 
 # Unfriendly Artificial Intelligence
 
-An **Unfriendly artificial intelligence** (or **UFAI**) is an [[Artificial General Intelligence|artificial general intelligence]] capable of causing [[Existential Risk|great harm]] to humanity, and having goals that [make it useful](https://wiki.lesswrong.com/wiki/Instrumental_values) for the AI to do so. The AI's goals don't need to be antagonistic to humanity's goals for it to be Unfriendly; there are [[Instrumental Convergence|strong reasons]] to expect that almost any powerful AGI not explicitly programmed to be benevolent to humans is lethal. A [[Paperclip Maximizer|paperclip maximizer]] is often imagined as an illustrative example of an unFriendly AI indifferent to humanity. An AGI specifically designed to have a positive effect on humanity is called a [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI).
+An **Unfriendly artificial intelligence** (or **UFAI**) is an [[Artificial General Intelligence|artificial general intelligence]] capable of causing [[EA/Topics/Existential risk|great harm]] to humanity, and having goals that [make it useful](https://wiki.lesswrong.com/wiki/Instrumental_values) for the AI to do so. The AI's goals don't need to be antagonistic to humanity's goals for it to be Unfriendly; there are [[Instrumental Convergence|strong reasons]] to expect that almost any powerful AGI not explicitly programmed to be benevolent to humans is lethal. A [[Paperclip Maximizer|paperclip maximizer]] is often imagined as an illustrative example of an unFriendly AI indifferent to humanity. An AGI specifically designed to have a positive effect on humanity is called a [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI).
 
 ## See Also
 
@@ -25,7 +25,7 @@ An **Unfriendly artificial intelligence** (or **UFAI**) is an [[Artificial Gener
 - [[Really Powerful Optimization Process|Really powerful optimization process]] (`= [[Really Powerful Optimization Process|Really powerful optimization process]].status`)
 - [[Instrumental Convergence|Basic AI drives]] (`= [[Instrumental Convergence|Basic AI drives]].status`)
 - [[Paperclip Maximizer|Paperclip maximizer]] (`= [[Paperclip Maximizer|Paperclip maximizer]].status`)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[EA/Topics/Existential risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
 
 ## References

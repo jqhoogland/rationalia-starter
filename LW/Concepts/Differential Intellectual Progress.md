@@ -22,7 +22,7 @@ Muehlhauser and Salamon also note that [differential technological development](
 
 ## Risk-increasing Progress
 
-Technological advances — without corresponding development of safety mechanisms — simultaneously increase the capacity for both [friendly](https://wiki.lesswrong.com/wiki/Friendly_AI) and [unfriendly](https://wiki.lesswrong.com/wiki/Unfriendly_AI) AGI development. Presently, most AGI research is concerned with increasing its *capacity* rather than its *safety* and thus, most progress increases the risk for a [[Existential Risk|widespread negative effect]].
+Technological advances — without corresponding development of safety mechanisms — simultaneously increase the capacity for both [friendly](https://wiki.lesswrong.com/wiki/Friendly_AI) and [unfriendly](https://wiki.lesswrong.com/wiki/Unfriendly_AI) AGI development. Presently, most AGI research is concerned with increasing its *capacity* rather than its *safety* and thus, most progress increases the risk for a [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|widespread negative effect]].
 
 - *Increased computing power.* Computing power continues to rise in step with [Moore's Law](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html), providing the raw capacity for smarter AGIs. This allows for more ['brute-force'](http://dictionary.reference.com/browse/brute+force) programming, increasing the probability of someone creating an AGI without properly understanding it. Such an AGI would also be harder to control.
 

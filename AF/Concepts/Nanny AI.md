@@ -14,7 +14,7 @@ status: todo
 
 # Nanny AI
 
-**Nanny AI** is a form of [[Artificial General Intelligence]] proposed by [[Ben Goertzel]] to delay the [[Singularity]] while protecting and nurturing humanity. Nanny AI was proposed as a means of reducing the [[Existential Risk|risks]] associated with the [[Singularity]] by delaying it until a predetermined time has passed, predetermined conditions are met, or permanently. Delaying the Singularity would allow for further research and reflection about our [[Complexity of Value|values]] and time to built a [[Friendly Artificial Intelligence|friendly artificial intelligence]].
+**Nanny AI** is a form of [[Artificial General Intelligence]] proposed by [[Ben Goertzel]] to delay the [[Singularity]] while protecting and nurturing humanity. Nanny AI was proposed as a means of reducing the [[EA/Topics/Existential risk|risks]] associated with the [[Singularity]] by delaying it until a predetermined time has passed, predetermined conditions are met, or permanently. Delaying the Singularity would allow for further research and reflection about our [[Complexity of Value|values]] and time to built a [[Friendly Artificial Intelligence|friendly artificial intelligence]].
 
 Ben Goertzel has suggested a number of preliminary components for building a Nanny AI:
 

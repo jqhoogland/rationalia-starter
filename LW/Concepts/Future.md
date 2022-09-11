@@ -26,7 +26,7 @@ If it hasn't happened yet but is going to, then it's part of the [[Future|future
 - [[Far Thinking|Near, Far Thinking]] (`= [[Far Thinking|Near, Far Thinking]].status`)
 - [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
 - [[Intelligence Explosion|Intelligence explosion]], [technological singularity](https://wiki.lesswrong.com/wiki/technological_singularity)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Black Swans|Black swan]], [[Narrative Fallacy|narrative fallacy]]
 - [[Forecasting & Prediction|Prediction]] (`= [[Forecasting & Prediction|Prediction]].status`)
 

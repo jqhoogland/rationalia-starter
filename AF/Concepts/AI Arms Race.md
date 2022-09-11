@@ -16,7 +16,7 @@ status: todo
 
 An **AI arms race** is a situation where multiple parties are trying to be the first to develop machine intelligence technology.
 
-*See also*: [[AI Governance]], [[Intelligence Explosion|Intelligence explosion]], [[Existential Risk]], [[Artificial General Intelligence]]
+*See also*: [[AI Governance]], [[Intelligence Explosion|Intelligence explosion]], [[EA/Topics/Existential risk]], [[Artificial General Intelligence]]
 
 Humanity has some historical experience with arms races involving nuclear weapons technology. However, [Arms races and intelligence explosions](http://singularityhypothesis.blogspot.com/2011/04/arms-races-and-intelligence-explosions.html) names a few important differences between nuclear weapons and AI technology, which may create dynamics in AI arms races that we have not seen elsewhere.
 

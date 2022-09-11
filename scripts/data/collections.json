@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "MobebwWs2o86cS9Rd",
+    "title": "The effective altruism handbook",
+    "slug": "handbook",
+    "gridImageId": "Banner/crgpej5m8ssd77xbpi8t",
+    "contents": {
+      "markdown": "Effective altruism (EA) is an ongoing project to find the best ways to do good, and put them into practice. \n\nThis series of articles will introduce you to some of the core thinking tools behind effective altruism, share some of the arguments about which global problems are most pressing, and help you to reflect on how you personally can contribute."
+    },
+    "user": {
+      "username": "Centre for Effective Altruism"
+    },
+    "books": [
+      {
+        "_id": "hpSLY3CaKpDzGtRRL",
+        "title": "Introduction to Effective Altruism"
+      }
+    ]
+  }
+]

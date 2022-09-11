@@ -24,7 +24,7 @@ An **Artificial general intelligence**, or **AGI**, is a machine capable of beha
 
 Directly comparing the performance of AI to human performance is often an instance of [[Anthropomorphism|anthropomorphism]]. The internal workings of an AI [[Mind Design Space|need not resemble]] those of a human; an AGI could have a radically different set of capabilities than those we are used to seeing in our fellow humans. A powerful AGI capable of operating across many domains could achieve competency in any domain that exceeds that of any human.
 
-The [[Utility Functions|values]] of an AGI could also be [[Alien Values|distinctly alien]] to those of humans, in which case it won't see many human activities as worthwhile and would have [[Giant Cheesecake Fallacy|no intention]] of exceeding human performance (according to the human valuation of performance). Comparing an AGI's preferences to those of humans, AGI are classified as [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]]. An Unfriendly AGI would pose a large [[Existential Risk|existential risk]].
+The [[Utility Functions|values]] of an AGI could also be [[Alien Values|distinctly alien]] to those of humans, in which case it won't see many human activities as worthwhile and would have [[Giant Cheesecake Fallacy|no intention]] of exceeding human performance (according to the human valuation of performance). Comparing an AGI's preferences to those of humans, AGI are classified as [[Friendly Artificial Intelligence|Friendly]] and [[Unfriendly Artificial Intelligence|Unfriendly]]. An Unfriendly AGI would pose a large [[EA/Topics/Existential risk|existential risk]].
 
 ## "AGI" As a Design Paradigm
 

@@ -18,7 +18,7 @@ The **Future of Humanity Institute** is part of the Faculty of Philosophy and th
 
 FHI puts together a wide range of researches, prominent on their original fields, which decided to focus on global questions about the progress and future of humanity, e.g.:
 
-- [[Nick Bostrom]] : Director, philosopher, has more than 200 publications on subjects such as: [[Artificial General Intelligence]] (AGI) Risks, [[Existential Risk|Existential risk]], [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]] and [[Whole Brain Emulation|Whole brain emulation]]
+- [[Nick Bostrom]] : Director, philosopher, has more than 200 publications on subjects such as: [[Artificial General Intelligence]] (AGI) Risks, [[EA/Topics/Existential risk|Existential risk]], [[Nootropics & Other Cognitive Enhancement|Biological Cognitive Enhancement]] and [[Whole Brain Emulation|Whole brain emulation]]
 - [Anders Sandberg](http://en.wikipedia.org/wiki/Anders_Sandberg): Research Fellow, computational neuroscientist, researches human enhancement and ethics of new technologies
 - [Robin Hanson](http://en.wikipedia.org/wiki/Robin_Hanson): Research Associate, economist, interested in prediction market given the future of technology and many other questions involving [bayesianism](http://wiki.lesswrong.com/wiki/Bayesian), [cognitive biases](http://wiki.lesswrong.com/wiki/Bias), technology, policies and the [Fermi Paradox](http://en.wikipedia.org/wiki/Fermi_paradox).
 - [Toby Ord](http://en.wikipedia.org/wiki/Toby_Ord): Research Associate, philosopher, researches decision making and theoretical and pratical ethics. Founder of [Giving What We Can](http://www.givingwhatwecan.org/), an international society dedicated to the elimination of poverty;
@@ -29,7 +29,7 @@ The FHI is an affiliate to LessWrong and [Overcoming Bias](http://www.overcoming
 ## See Also
 
 - [[Nick Bostrom]] (`= [[Nick Bostrom]].status`)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[EA/Topics/Existential risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] (`= [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]].status`)
 
 ## External Links

@@ -14,7 +14,7 @@ status: todo
 
 # AI Safety Camp
 
-**AI Safety Camp** (**AISC**) is a non-profit initiative to run programs for diversely skilled researchers who want to try collaborate on an open problem for reducing AI [[Existential Risk|existential risk]].
+**AI Safety Camp** (**AISC**) is a non-profit initiative to run programs for diversely skilled researchers who want to try collaborate on an open problem for reducing AI [[EA/Topics/Existential risk|existential risk]].
 
 [Official Website](https://aisafety.camp/)
 

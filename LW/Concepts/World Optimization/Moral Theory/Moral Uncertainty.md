@@ -22,7 +22,7 @@ One approach is to follow only the most probable theory. This has its own proble
 
 [[Nick Bostrom]] and [Toby Ord](https://en.wikipedia.org/wiki/Toby_Ord) have proposed a [parliamentary model](http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html). In this model, each theory sends a number of delegates to a parliament in proportion to its probability. The theories then bargain for support as if the probability of each action were proportional to its votes. However, the actual output is always the action with the most votes. Bostrom and Ord's proposal lets probable theories determine most actions, but still gives less probable theories influence on issues they consider unusually important.
 
-Even with a high degree of moral uncertainty and a wide range of possible moral theories, there are still certain actions that seem highly valuable in any theory. Bostrom argues that [[Existential Risk|Existential risk]] reduction is among them, showing that it is not only the most important task given most versions of consequentialism but highly recommended by many of the other widely acceptable moral theories[^3^](https://www.lesswrong.com/tag/moral-uncertainty#fn3).
+Even with a high degree of moral uncertainty and a wide range of possible moral theories, there are still certain actions that seem highly valuable in any theory. Bostrom argues that [[EA/Topics/Existential risk|Existential risk]] reduction is among them, showing that it is not only the most important task given most versions of consequentialism but highly recommended by many of the other widely acceptable moral theories[^3^](https://www.lesswrong.com/tag/moral-uncertainty#fn3).
 
 ## External Links
 

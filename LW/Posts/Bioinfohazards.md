@@ -28,7 +28,7 @@ book: The Engines of Cognition
 
 - [[Biology]]
 - [[Information Hazards]]
-- [[Existential Risk]]
+- [[EA/Topics/Existential risk]]
 - "[Bostrom’s paper on Information Hazards](https://nickbostrom.com/information-hazards.pdf)"
 - "[this LessWrong overview](https://wiki.lesswrong.com/wiki/Information_hazard)"
 - "[Unilateralist’s Curse](https://concepts.effectivealtruism.org/concepts/unilateralists-curse/)"

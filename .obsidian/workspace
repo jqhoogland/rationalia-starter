@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe958409ad21234",
+        "id": "eabadff7be0e1729",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Collections.md",
+            "file": "EA/Sequences/Our Final Century?.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "78310523c0247c7f",
         "type": "tabs",
-        "dimension": 42.01451905626135,
+        "dimension": 81.81818181818183,
         "children": [
           {
             "id": "92830efe01fd330c",
@@ -56,7 +56,7 @@
       {
         "id": "402f879634acba83",
         "type": "tabs",
-        "dimension": 57.98548094373865,
+        "dimension": 18.181818181818183,
         "children": [
           {
             "id": "fdb757c5f7b55ec6",
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Collections.md"
+                "file": "EA/Sequences/Our Final Century?.md"
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Collections.md",
+                "file": "EA/Sequences/Our Final Century?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "66ed81a64e92146c",
+  "active": "eabadff7be0e1729",
   "lastOpenFiles": [
-    "LW/Collections/The Codex.md",
-    "LW/Collections.md",
-    "LW/Books/Good and Bad Reasoning.md",
-    "Plan.md",
-    "AF/Books/Cracking the Coding Interview.md",
-    "EA/Other Resources/Deep Learning @ VU.md",
-    "AF/Courses/Practical Deep Learning for Coders.md",
-    "AF/Courses/OpenAI's Spinning Up.md",
-    "AF/Concepts/Other/Reinforcement Learning.md",
-    "AF/Courses/Intro to ML Safety.md"
+    "EA/Sequences/What could the future hold? And why care?.md",
+    "EA/Sequences/Smarter than us.md",
+    "EA/Sequences/What do you think?.md",
+    "EA/Sequences/Putting it into practice.md",
+    "EA/Sequences/Our Final Century?.md",
+    "EA/Sequences/Differences in Impact.md",
+    "EA/Sequences/Radical Empathy.md",
+    "EA/Sequences/The Effectiveness Mindset.md",
+    "EA/Sequences/Part 8— Putting it into Practice (Sequence).md",
+    "EA/Sequences/Replacing Guilt (Sequence).md"
   ]
 }

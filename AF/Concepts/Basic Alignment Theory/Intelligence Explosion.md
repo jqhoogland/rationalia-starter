@@ -46,7 +46,7 @@ The following is a common example of a possible path for an AI to bring about an
 ## See Also
 
 - [Technological singularity](https://wiki.lesswrong.com/wiki/Technological_singularity), [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[EA/Topics/Existential risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Artificial General Intelligence]] (`= [[Artificial General Intelligence]].status`)
 - [[Lawful Intelligence|Lawful intelligence]] (`= [[Lawful Intelligence|Lawful intelligence]].status`)
 - [[The Hanson-Yudkowsky AI-Foom Debate]] (`= [[The Hanson-Yudkowsky AI-Foom Debate]].status`)

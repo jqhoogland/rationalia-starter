@@ -25,7 +25,7 @@ status: todo
 - [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Possibility|possibility]]
 - [Representativeness bias](https://wiki.lesswrong.com/wiki/Representativeness_bias), [[Absurdity Heuristic|Absurdity heuristic]]
 - [[Hindsight Bias|Hindsight bias]] (`= [[Hindsight Bias|Hindsight bias]].status`)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 
 
 %%

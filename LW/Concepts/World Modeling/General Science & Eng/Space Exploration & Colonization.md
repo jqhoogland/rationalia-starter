@@ -16,7 +16,7 @@ status: todo
 
 **Space Exploration & Colonization** involves humans or human-built machines traveling to other planets, star systems, or galaxies.
 
-Possible motivations include curiosity, reducing the chance of [[Existential Risk|existential risks]], and expanding human civilization.
+Possible motivations include curiosity, reducing the chance of [[EA/Topics/Existential risk|existential risks]], and expanding human civilization.
 
 Possible techniques include both present or near-future technology and [[Futurism|speculative future technology]].
 

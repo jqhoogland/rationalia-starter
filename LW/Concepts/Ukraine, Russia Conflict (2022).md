@@ -22,7 +22,7 @@ See Also:
 
 - [[War]] (`= [[War]].status`)
 - [[Nuclear War]] (`= [[Nuclear War]].status`)
-- [[Existential Risk]] (`= [[Existential Risk]].status`)
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk]] (`= [[Existential Risk]].status`)
 
 
 %%

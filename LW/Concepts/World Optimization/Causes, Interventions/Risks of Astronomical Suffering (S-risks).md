@@ -18,7 +18,7 @@ aliases:
 
 **(Astronomical) suffering risks**, also known as **s-risks**, are risks of the creation of intense suffering in the far future on an astronomical scale, vastly exceeding all suffering that has existed on Earth so far.
 
-S-risks are an example of [[Existential Risk|existential risk]] (also known as *x-risks*) according to Nick Bostrom's original definition, as they threaten to "permanently and drastically curtail \[Earth-originating intelligent life's\] potential". Most existential risks are of the form "event E happens which drastically reduces the number of conscious experiences in the future". S-risks therefore serve as a useful reminder that some x-risks are scary because they cause *bad* experiences, and not just because they prevent good ones.
+S-risks are an example of [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|existential risk]] (also known as *x-risks*) according to Nick Bostrom's original definition, as they threaten to "permanently and drastically curtail \[Earth-originating intelligent life's\] potential". Most existential risks are of the form "event E happens which drastically reduces the number of conscious experiences in the future". S-risks therefore serve as a useful reminder that some x-risks are scary because they cause *bad* experiences, and not just because they prevent good ones.
 
 Within the space of x-risks, we can distinguish x-risks that are s-risks, x-risks involving human extinction, x-risks that involve immense suffering *and* human extinction, and x-risks that involve neither. For example:
 
@@ -33,7 +33,7 @@ Another approach to reducing s-risk is to "expand the moral circle"[*together*](
 ## See Also
 
 - [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]] (`= [[Center on Long-Term Risk (CLR)|Center on Long-Term Risk]].status`)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Abolitionism]] (`= [[Abolitionism]].status`)
 - [Mind crime](https://wiki.lesswrong.com/wiki/Mind_crime)
 - [[Utilitarianism]], [[Hedonism]]

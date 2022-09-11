@@ -36,7 +36,7 @@ Goertzel & Pitt (2012) suggest that for regulation to be enacted, there might ne
 
 - [[AI Arms Race|AI arms race]] (`= [[AI Arms Race|AI arms race]].status`)
 - [[AGI Sputnik Moment|AGI Sputnik moment]] (`= [[AGI Sputnik Moment|AGI Sputnik moment]].status`)
-- [[Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[EA/Topics/Existential risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
 - [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]] (`= [[Unfriendly Artificial Intelligence|Unfriendly artificial intelligence]].status`)
 
 

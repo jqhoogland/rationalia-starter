@@ -153,7 +153,7 @@ status: todo
 - [[Evolution as alien god]] (`= [[Evolution as alien god]].status`)
 - [[Evolutionary argument for human-level AI]] (`= [[Evolutionary argument for human-level AI]].status`)
 - [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]] (`= [[Evolutionary psychology]].status`)
-- [[Existential Risk]] (`= [[Existential risk]].status`)
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk]] (`= [[Existential risk]].status`)
 - [[Expected value]] (`= [[Expected value]].status`)
 - [[Extensibility Argument For Greater-Than-Human Intelligence]] (`= [[Extensibility argument for greater-than-human intelligence]].status`)
 - [[Extraordinary evidence]] (`= [[Extraordinary evidence]].status`)
