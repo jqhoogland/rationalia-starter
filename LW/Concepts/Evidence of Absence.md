@@ -28,10 +28,10 @@ status: todo
 
 ## See Also
 
-- [[Bayes' Theorem|Bayes' theorem]] (`= [[Bayes' Theorem|Bayes' theorem]].status`)
-- [[Evidence]] (`= [[Evidence]].status`)
-- [[Fallacy of Gray|Fallacy of gray]] (`= [[Fallacy of Gray|Fallacy of gray]].status`)
-- [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
+- [[Bayes' Theorem|Bayes' theorem]]
+- [[Evidence]]
+- [[Fallacy of Gray|Fallacy of gray]]
+- [[Motivated Reasoning|Motivated cognition]]
 
 
 %%

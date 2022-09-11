@@ -18,9 +18,9 @@ What kind of world do we live in? What is our place in that world? Building on t
 
 # Sequences
 
-- [[Lawful Truth (Sequence)]] (`= [[Lawful Truth (Sequence)]].status`)
-- [[Reductionism 101 (Sequence)]] (`= [[Reductionism 101 (Sequence)]].status`)
-- [[Joy in the Merely Real (Sequence)]] (`= [[Joy in the Merely Real (Sequence)]].status`)
-- [[Physicalism 201 (Sequence)]] (`= [[Physicalism 201 (Sequence)]].status`)
-- [[Quantum Physics and Many Worlds (Sequence)]] (`= [[Quantum Physics and Many Worlds (Sequence)]].status`)
-- [[Science and Rationality (Sequence)]] (`= [[Science and Rationality (Sequence)]].status`)
+- [[Lawful Truth (Sequence)]]
+- [[Reductionism 101 (Sequence)]]
+- [[Joy in the Merely Real (Sequence)]]
+- [[Physicalism 201 (Sequence)]]
+- [[Quantum Physics and Many Worlds (Sequence)]]
+- [[Science and Rationality (Sequence)]]

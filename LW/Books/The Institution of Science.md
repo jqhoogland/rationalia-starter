@@ -18,6 +18,6 @@ The institution of Science is the greatest producer of knowledge humanity has ev
 
 # Sequences
 
-- [[Studies and Statistics (Sequence)]] (`= [[Studies and Statistics (Sequence)]].status`)
-- [[Research and Reviews (Sequence)]] (`= [[Research and Reviews (Sequence)]].status`)
-- [[Hypotheses and Hunches (Sequence)]] (`= [[Hypotheses and Hunches (Sequence)]].status`)
+- [[Studies and Statistics (Sequence)]]
+- [[Research and Reviews (Sequence)]]
+- [[Hypotheses and Hunches (Sequence)]]

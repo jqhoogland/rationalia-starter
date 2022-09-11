@@ -22,7 +22,7 @@ According to the **peak-end rule**, we judge our past experiences almost entirel
 
 ## See Also
 
-- [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
+- [[Representativeness Heuristic|Representativeness heuristic]]
 
 
 %%

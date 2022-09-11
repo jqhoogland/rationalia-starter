@@ -33,9 +33,9 @@ One way to think mathematically about optimization, like [[Amount of Evidence|ev
 
 ## See Also
 
-- [[Preference]] (`= [[Preference]].status`)
-- [[Really Powerful Optimization Process|Really powerful optimization process]] (`= [[Really Powerful Optimization Process|Really powerful optimization process]].status`)
-- [[Control Theory|Control theory]] (`= [[Control Theory|Control theory]].status`)
+- [[Preference]]
+- [[Really Powerful Optimization Process|Really powerful optimization process]]
+- [[Control Theory|Control theory]]
 
 
 %%

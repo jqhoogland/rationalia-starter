@@ -2,26 +2,26 @@
 
 ## [[Best of LessWrong]]
 
-- [[A Map That Reflects the Territory]] (`= [[A Map That Reflects The Territory]].status`)
-- [[The Carving of Reality]] (`= [[The Carving of Reality]].status`)
-- [[The Engines of Cognition]] (`= [[The Engines of Cognition]].status`)
+- [[A Map That Reflects the Territory]]
+- [[The Carving of Reality]]
+- [[The Engines of Cognition]]
 
 ## [[Highlights from the Sequences (Collection)]]
 
-- [[Highlights from the Sequences (Book)]] (`= [[Highlights from the Sequences (Book)]].status`)
-- [[Further Reading (Highlights)]] (`= [[Further Reading (Highlights)]].status`)
+- [[Highlights from the Sequences (Book)]]
+- [[Further Reading (Highlights)]]
 
 ## [[Rationality— A-Z]]
 
-- [[LW/Books/Map and Territory]] (`= [[Map and Territory]].status`)
-- [[How to Actually Change Your Mind]] (`= [[How to Actually Change Your Mind]].status`)
-- [[The Machine in the Ghost]] (`= [[The Machine in the Ghost]].status`)
-- [[Mere Reality]] (`= [[Mere Reality]].status`)
-- [[Mere Goodness]] (`= [[Mere Goodness]].status`)
-- [[Becoming Stronger]] (`= [[Becoming Stronger]].status`)
+- [[LW/Books/Map and Territory]]
+- [[How to Actually Change Your Mind]]
+- [[The Machine in the Ghost]]
+- [[Mere Reality]]
+- [[Mere Goodness]]
+- [[Becoming Stronger]]
 
 ## [[The Codex]]
 
-- [[Designing the World]] (`= [[Designing the World]].status`)
-- [[Good and Bad Reasoning]] (`= [[Good and Bad Reasoning]].status`)
-- [[The Institution of Science]] (`= [[The Institution of Science]].status`)
+- [[Designing the World]]
+- [[Good and Bad Reasoning]]
+- [[The Institution of Science]]

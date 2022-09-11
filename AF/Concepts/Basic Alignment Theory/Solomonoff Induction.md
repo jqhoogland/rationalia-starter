@@ -47,8 +47,8 @@ $$
 
 ## See Also
 
-- [[Kolmogorov Complexity|Kolmogorov complexity]] (`= [[Kolmogorov Complexity|Kolmogorov complexity]].status`)
-- [[AIXI]] (`= [[AIXI]].status`)
+- [[Kolmogorov Complexity|Kolmogorov complexity]]
+- [[AIXI]]
 - [[Occam's Razor|Occam's razor]] 
 
 ## References

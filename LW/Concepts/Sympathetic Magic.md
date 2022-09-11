@@ -18,8 +18,8 @@ Humans seem to naturally generate a series of concepts known as **sympathetic ma
 
 ## Related Concepts
 
-- [[Magic]] (`= [[Magic]].status`)
-- [[Priming]] (`= [[Priming]].status`)
+- [[Magic]]
+- [[Priming]]
 
 ## Blog Posts
 

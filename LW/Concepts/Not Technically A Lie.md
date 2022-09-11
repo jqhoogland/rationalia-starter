@@ -28,7 +28,7 @@ A statement that is literally true, but causes the listener to attain false beli
 - [Epistemic rationality](https://wiki.lesswrong.com/wiki/Epistemic_rationality)
 - [[Dark Arts|Dark arts]], [[Filtered Evidence|Filtered evidence]]
 - [Belief as attire](https://wiki.lesswrong.com/wiki/Belief_as_attire)
-- [[Rationalization]] (`= [[Rationalization]].status`)
+- [[Rationalization]]
 
 
 %%

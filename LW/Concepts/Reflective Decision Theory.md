@@ -43,10 +43,10 @@ Eliezer Yudkowsky's has proposed a theoretical solution to the reflective decisi
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
-- [[Reflective Inconsistency|Reflective inconsistency]] (`= [[Reflective Inconsistency|Reflective inconsistency]].status`)
-- [[Timeless Decision Theory]] (`= [[Timeless Decision Theory]].status`)
-- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Decision Theory|Decision theory]]
+- [[Reflective Inconsistency|Reflective inconsistency]]
+- [[Timeless Decision Theory]]
+- [[Complexity of Value|Complexity of value]]
 
 
 %%

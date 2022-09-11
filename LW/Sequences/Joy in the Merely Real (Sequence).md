@@ -30,15 +30,15 @@ In the dull catalogue of common things.
 
 ### Joy in the Merely Real
 
-- [[Joy in the Merely Real]] (`= [[Joy in the Merely Real]].status`)
-- [[Joy in Discovery]] (`= [[Joy in Discovery]].status`)
-- [[Bind Yourself to Reality]] (`= [[Bind Yourself to Reality]].status`)
-- [[If You Demand Magic, Magic Won't Help]] (`= [[If You Demand Magic, Magic Won't Help]].status`)
-- [[Mundane Magic]] (`= [[Mundane Magic]].status`)
-- [[The Beauty of Settled Science]] (`= [[The Beauty of Settled Science]].status`)
-- [[Amazing Breakthrough Day— April 1st]] (`= [[Amazing Breakthrough Day— April 1st]].status`)
-- [[Is Humanism A Religion-Substitute?]] (`= [[Is Humanism A Religion-Substitute?]].status`)
-- [[Scarcity]] (`= [[Scarcity]].status`)
-- [[The Sacred Mundane]] (`= [[The Sacred Mundane]].status`)
-- [[To Spread Science, Keep It Secret]] (`= [[To Spread Science, Keep It Secret]].status`)
-- [[Initiation Ceremony]] (`= [[Initiation Ceremony]].status`)
+- [[Joy in the Merely Real]]
+- [[Joy in Discovery]]
+- [[Bind Yourself to Reality]]
+- [[If You Demand Magic, Magic Won't Help]]
+- [[Mundane Magic]]
+- [[The Beauty of Settled Science]]
+- [[Amazing Breakthrough Day— April 1st]]
+- [[Is Humanism A Religion-Substitute?]]
+- [[Scarcity]]
+- [[The Sacred Mundane]]
+- [[To Spread Science, Keep It Secret]]
+- [[Initiation Ceremony]]

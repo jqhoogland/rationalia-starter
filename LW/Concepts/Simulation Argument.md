@@ -26,8 +26,8 @@ It follows that the belief that there is a significant chance that we will one d
 
 ## See Also
 
-- [[Simulation Hypothesis|Simulation hypothesis]] (`= [[Simulation Hypothesis|Simulation hypothesis]].status`)
-- [[Nonperson Predicate|Nonperson predicate]] (`= [[Nonperson Predicate|Nonperson predicate]].status`)
+- [[Simulation Hypothesis|Simulation hypothesis]]
+- [[Nonperson Predicate|Nonperson predicate]]
 
 ## External Links
 

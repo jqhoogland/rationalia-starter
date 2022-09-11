@@ -20,9 +20,9 @@ It is quite good, you should read it.
 
 ### This is a New Sequence
 
-- [['An objective defense of Bayesianism']] (`= [['An objective defense of Bayesianism']].status`)
+- [['An objective defense of Bayesianism']]
 
 ### This is a Chapter
 
-- [[Bayes' Theorem Illustrated (My Way)]] (`= [[Bayes' Theorem Illustrated (My Way)]].status`)
-- [[Schelling fences on slippery slopes]] (`= [[Schelling fences on slippery slopes]].status`)
+- [[Bayes' Theorem Illustrated (My Way)]]
+- [[Schelling fences on slippery slopes]]

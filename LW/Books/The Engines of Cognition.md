@@ -16,7 +16,7 @@ status: todo
 
 ## Sequences
 
-- [[Trust (Sequence)]] (`= [[Trust (Sequence)]].status`)
-- [[Modularity (Sequence)]] (`= [[Modularity (Sequence)]].status`)
-- [[Incentives (Sequence)]] (`= [[Incentives (Sequence)]].status`)
-- [[Failure (Sequence)]] (`= [[Failure (Sequence)]].status`)
+- [[Trust (Sequence)]]
+- [[Modularity (Sequence)]]
+- [[Incentives (Sequence)]]
+- [[Failure (Sequence)]]

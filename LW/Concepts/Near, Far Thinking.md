@@ -45,9 +45,9 @@ Near and far are two modes (or a spectrum of modes) in which we can think about 
 ## See Also
 
 - [[Planning Fallacy|Planning fallacy]], [[Outside View|Outside view]]
-- [[Signaling]] (`= [[Signaling]].status`)
-- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
-- [[Wireheading]] (`= [[Wireheading]].status`)
+- [[Signaling]]
+- [[Narrative Fallacy|Narrative fallacy]]
+- [[Wireheading]]
 
 
 %%

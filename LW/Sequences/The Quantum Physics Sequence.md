@@ -21,7 +21,7 @@ A guide to this sequence is available at [The Quantum Physics Sequence (post)](h
 ## Preliminaries
 
 - [Probability is in the Mind](http://lesswrong.com/lw/oj/probability_is_in_the_mind/)
-- [[Reductionism]] (`= [[Reductionism]].status`)
+- [[Reductionism]]
 - [Zombies! Zombies?](http://lesswrong.com/lw/p7/zombies_zombies/)
 - [Belief in the Implied Invisible](http://lesswrong.com/lw/pb/belief_in_the_implied_invisible/)
 
@@ -94,9 +94,9 @@ A guide to this sequence is available at [The Quantum Physics Sequence (post)](h
 
 ## See Also
 
-- [[Quantum Mechanics|Quantum mechanics]] (`= [[Quantum Mechanics|Quantum mechanics]].status`)
-- [[LW/Concepts/Decoherence]] (`= [[Decoherence]].status`)
-- [[Many-Worlds Interpretation|Many-worlds interpretation]] (`= [[Many-Worlds Interpretation|Many-worlds interpretation]].status`)
+- [[Quantum Mechanics|Quantum mechanics]]
+- [[LW/Concepts/Decoherence]]
+- [[Many-Worlds Interpretation|Many-worlds interpretation]]
 
 
 %%

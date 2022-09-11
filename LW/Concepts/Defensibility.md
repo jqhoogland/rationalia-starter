@@ -24,9 +24,9 @@ status: todo
 
 ## See Also
 
-- [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)
-- [[Arguments As Soldiers|Arguments as soldiers]] (`= [[Arguments As Soldiers|Arguments as soldiers]].status`)
-- [[Not Technically A Lie|Not technically a lie]] (`= [[Not Technically A Lie|Not technically a lie]].status`)
+- [[Third Option|Third option]]
+- [[Arguments As Soldiers|Arguments as soldiers]]
+- [[Not Technically A Lie|Not technically a lie]]
 
 
 %%

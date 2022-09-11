@@ -23,9 +23,9 @@ A **free-floating belief** is a [[Belief|belief]] that both [[Beliefs Require Ob
 
 ## See Also
 
-- [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
+- [[Belief In Belief|Belief in belief]]
 - [[Beliefs Require Observations|Beliefs require observations]], [[Making Beliefs Pay Rent|Making beliefs pay rent]]
-- [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
+- [[Improper Belief|Improper belief]]
 
 
 %%

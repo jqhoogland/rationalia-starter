@@ -24,7 +24,7 @@ For example, consider the following syllogism:
 
 ## See Also
 
-- [[Valid Argument|Valid argument]] (`= [[Valid Argument|Valid argument]].status`)
+- [[Valid Argument|Valid argument]]
 
 
 %%

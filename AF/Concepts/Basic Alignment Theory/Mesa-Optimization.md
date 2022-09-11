@@ -41,7 +41,7 @@ The optimization daemons article on [Arbital](https://arbital.com/) was publishe
 
 ## See Also
 
-- [[Inner Alignment]] (`= [[Inner Alignment]].status`)
+- [[Inner Alignment]]
 - [Complexity of value](https://lessestwrong.com/tag/complexity-of-value)
 - [Thou Art Godshatter](https://lessestwrong.com/lw/l3/thou_art_godshatter/)
 

@@ -23,7 +23,7 @@ The **contagion heuristic** is a psychological [[Heuristic|heuristic]] leading p
 ## See Also
 
 - [[Connotation]], [[Sympathetic Magic|Sympathetic magic]]
-- [[Social Status|Status]] (`= [[Social Status|Status]].status`)
+- [[Social Status|Status]]
 - [[Priming]], [[Halo Effect|Halo effect]]
 - [Crackpot](https://wiki.lesswrong.com/wiki/Crackpot)
 

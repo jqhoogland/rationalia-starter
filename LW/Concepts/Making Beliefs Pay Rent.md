@@ -26,9 +26,9 @@ Any [[Belief|belief]] should restrict which experiences to anticipate, to be pot
 ## See Also
 
 - [[Belief]], [[Alief]]
-- [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
-- [[Beliefs Require Observations|Beliefs require observations]] (`= [[Beliefs Require Observations|Beliefs require observations]].status`)
-- [[Free-Floating Belief|Free-floating belief]] (`= [[Free-Floating Belief|Free-floating belief]].status`)
+- [[Technical Explanation|Technical explanation]]
+- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Free-Floating Belief|Free-floating belief]]
 - [P-zombie](https://wiki.lesswrong.com/wiki/P-zombie)
 
 

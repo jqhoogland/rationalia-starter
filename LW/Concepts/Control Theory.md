@@ -24,7 +24,7 @@ A control system is a device that keeps a variable at a certain value, despite o
 
 ## See Also
 
-- [[Perceptual Control Theory|Perceptual control theory]] (`= [[Perceptual Control Theory|Perceptual control theory]].status`)
+- [[Perceptual Control Theory|Perceptual control theory]]
 
 
 %%

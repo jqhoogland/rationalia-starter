@@ -26,8 +26,8 @@ status: todo
 ## See Also
 
 - [Seeing with Fresh Eyes](https://www.lesswrong.com/tag/seeing-with-fresh-eyes) (sequence)
-- [[Affect Heuristic|Affect heuristic]] (`= [[Affect Heuristic|Affect heuristic]].status`)
-- [[Aversion|Ugh field]] (`= [[Aversion|Ugh field]].status`)
+- [[Affect Heuristic|Affect heuristic]]
+- [[Aversion|Ugh field]]
 
 
 %%

@@ -18,8 +18,8 @@ The **Center on Long-Term Risk**, formerly *Foundational Research Institute,* is
 
 ## **See also**
 
-- [[Risks of Astronomical Suffering (S-risks)|Suffering risk]] (`= [[Risks of Astronomical Suffering (S-risks)|Suffering risk]].status`)
-- [[Abolitionism]] (`= [[Abolitionism]].status`)
+- [[Risks of Astronomical Suffering (S-risks)|Suffering risk]]
+- [[Abolitionism]]
 
 ## **External links**
 

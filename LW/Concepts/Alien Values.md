@@ -25,8 +25,8 @@ There are no rules requiring minds to value life, liberty or the pursuit of happ
 
 ## See Also
 
-- [[Giant Cheesecake Fallacy|Giant cheesecake fallacy]] (`= [[Giant Cheesecake Fallacy|Giant cheesecake fallacy]].status`)
-- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Giant Cheesecake Fallacy|Giant cheesecake fallacy]]
+- [[Complexity of Value|Complexity of value]]
 - [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip maximizer]]
 - [[Anthropomorphism]], [[Human Universal|Human universal]]
 

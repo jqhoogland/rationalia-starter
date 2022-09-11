@@ -27,10 +27,10 @@ status: todo
 
 ## See Also
 
-- [[Rational Evidence|Rational evidence]] (`= [[Rational Evidence|Rational evidence]].status`)
-- [[General Knowledge|General knowledge]] (`= [[General Knowledge|General knowledge]].status`)
-- [[Scholarship & Learning|Scholarship]] (`= [[Scholarship & Learning|Scholarship]].status`)
-- [[Traditional Rationality|Traditional rationality]] (`= [[Traditional Rationality|Traditional rationality]].status`)
+- [[Rational Evidence|Rational evidence]]
+- [[General Knowledge|General knowledge]]
+- [[Scholarship & Learning|Scholarship]]
+- [[Traditional Rationality|Traditional rationality]]
 - [No one knows what science doesn't know](https://wiki.lesswrong.com/wiki/No_one_knows_what_science_doesn't_know)
 
 

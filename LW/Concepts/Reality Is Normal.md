@@ -24,7 +24,7 @@ If at any point some truth should seem shocking or bizarre, [[LW/Concepts/Mind P
 ## See Also
 
 - [Egan's law](https://wiki.lesswrong.com/wiki/Egan's_law)
-- [[Joy In The Merely Real|Joy in the merely real]] (`= [[Joy In The Merely Real|Joy in the merely real]].status`)
+- [[Joy In The Merely Real|Joy in the merely real]]
 
 
 %%

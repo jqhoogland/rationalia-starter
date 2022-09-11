@@ -29,9 +29,9 @@ A rational decision maker will, when presented with a choice, take the action wi
 ## See Also
 
 - [Allais paradox](https://wiki.lesswrong.com/wiki/Allais_paradox)
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Decision Theory|Decision theory]]
 - [Instrumental rationality](https://wiki.lesswrong.com/wiki/Instrumental_rationality)
-- [[Prospect Theory|Prospect theory]] (`= [[Prospect Theory|Prospect theory]].status`)
+- [[Prospect Theory|Prospect theory]]
 
 
 %%

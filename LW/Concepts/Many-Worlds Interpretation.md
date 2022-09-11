@@ -22,8 +22,8 @@ The **many-worlds interpretation** (MWI) [[Occam's Razor|cuts away]] the latter 
 
 ## See Also
 
-- [[Quantum Mechanics|Quantum mechanics]] (`= [[Quantum Mechanics|Quantum mechanics]].status`)
-- [[Decoherence]] (`= [[Decoherence]].status`)
+- [[Quantum Mechanics|Quantum mechanics]]
+- [[Decoherence]]
 
 ## External Links
 

@@ -26,10 +26,10 @@ The **availability heuristic** judges the probability of events by the ease with
 
 ## See Also
 
-- [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
-- [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Filtered Evidence|Filtered evidence]]
 - [No one knows what science doesn't know](https://wiki.lesswrong.com/wiki/No_one_knows_what_science_doesn't_know)
-- [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+- [[Absurdity Heuristic|Absurdity heuristic]]
 
 
 %%

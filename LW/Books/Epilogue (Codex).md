@@ -16,4 +16,4 @@ status: todo
 
 ## Sequences
 
- - [[Parables and Prayers (Sequence)]] (`= [[Parables and Prayers (Sequence)]].status`)
+ - [[Parables and Prayers (Sequence)]]

@@ -29,8 +29,8 @@ Gendler (2008) also introduced a related pun of "cesire vs desire"; a desire ("D
 
 ## See Also
 
-- [[Hollywood Rationality|Hollywood rationality]] (`= [[Hollywood Rationality|Hollywood rationality]].status`)
-- [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)
+- [[Hollywood Rationality|Hollywood rationality]]
+- [[Corrupted Hardware|Corrupted hardware]]
 - [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [Living Luminously (sequence)](https://wiki.lesswrong.com/wiki/Living_Luminously_(sequence))
 

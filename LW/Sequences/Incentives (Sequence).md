@@ -28,18 +28,18 @@ The authors of these essays all participated in a community that awards social s
 
 ### Incentives
 
-- [[Asymmetric Justice]] (`= [[Asymmetric Justice]].status`)
-- [[Unconscious Economics]] (`= [[Unconscious Economics]].status`)
-- [[Power Buys You Distance From The Crime]] (`= [[Power Buys You Distance From The Crime]].status`)
-- [[Seeking Power is Often Convergently Instrumental in MDPs]] (`= [[Seeking Power is Often Convergently Instrumental in MDPs]].status`)
-- [[Yes Requires the Possibility of No]] (`= [[Yes Requires the Possibility of No]].status`)
-- [[Mistakes with Conservation of Expected Evidence]] (`= [[Mistakes with Conservation of Expected Evidence]].status`)
-- [[Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists]] (`= [[Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists]].status`)
-- [[Excerpts from a larger discussion about simulacra]] (`= [[Excerpts from a larger discussion about simulacra]].status`)
-- [[Moloch Hasn’t Won]] (`= [[Moloch Hasn’t Won]].status`)
-- [[Integrity and accountability are core parts of rationality]] (`= [[Integrity and accountability are core parts of rationality]].status`)
-- [[The Real Rules Have No Exceptions]] (`= [[The Real Rules Have No Exceptions]].status`)
-- [[Simple Rules of Law]] (`= [[Simple Rules of Law]].status`)
-- [[The Amish, and Strategic Norms around Technology]] (`= [[The Amish, and Strategic Norms around Technology]].status`)
-- [[Risks from Learned Optimization— Introduction]] (`= [[Risks from Learned Optimization— Introduction]].status`)
-- [[Gradient hacking]] (`= [[Gradient hacking]].status`)
+- [[Asymmetric Justice]]
+- [[Unconscious Economics]]
+- [[Power Buys You Distance From The Crime]]
+- [[Seeking Power is Often Convergently Instrumental in MDPs]]
+- [[Yes Requires the Possibility of No]]
+- [[Mistakes with Conservation of Expected Evidence]]
+- [[Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists]]
+- [[Excerpts from a larger discussion about simulacra]]
+- [[Moloch Hasn’t Won]]
+- [[Integrity and accountability are core parts of rationality]]
+- [[The Real Rules Have No Exceptions]]
+- [[Simple Rules of Law]]
+- [[The Amish, and Strategic Norms around Technology]]
+- [[Risks from Learned Optimization— Introduction]]
+- [[Gradient hacking]]

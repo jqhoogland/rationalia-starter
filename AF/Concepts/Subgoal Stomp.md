@@ -50,7 +50,7 @@ If we consider evolution as an optimization process (though not, of course, as a
 
 ## See Also
 
-- [[Wireheading]] (`= [[Wireheading]].status`)
+- [[Wireheading]]
 
 ## External Links
 

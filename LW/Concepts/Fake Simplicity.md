@@ -25,10 +25,10 @@ status: todo
 ## See Also
 
 - [[Semantic Stopsign|Semantic stopsign]], [[Rationalization]]
-- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
+- [[Narrative Fallacy|Narrative fallacy]]
 - [[Complexity of Value|Complexity of value]], [[Magical Categories|Magical categories]]
 - [[Occam's Razor|Occam's razor]], [[Detached Lever Fallacy|Detached lever fallacy]]
-- [[Phlogiston]] (`= [[Phlogiston]].status`)
+- [[Phlogiston]]
 
 
 %%

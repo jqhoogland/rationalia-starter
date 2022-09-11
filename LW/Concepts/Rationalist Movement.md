@@ -92,7 +92,7 @@ Adjacent ideas include:[^12^](#fn12)
 
 > There are people who agree on few to no rationalist positions but still like going to our parties and reading our blog posts. I coined the term “**rationalist-adjacent**” for this group before I got the idea that the names of all subdivisions of the rationalist community should begin with the letter C…A lot of Less Wrong references a lot of nerd culture, such as catgirls, anime, fanfiction, [[Methods of Rationality (Fanfiction)|Harry Potter]], My Little Pony, etc
 
-- [[Effective Altruism|Effective altruism]] (`= [[Effective Altruism|Effective altruism]].status`)
+- [[Effective Altruism|Effective altruism]]
 - [Neoreaction movement](http://rationalwiki.org/wiki/Neoreactionary_movement),[^13^](#fn13) \- A notoriously adjacent idea whist being explicitly refuted by figures such as Eliezer[^14^](#fn14)[^15^](#fn15) and Scott,[^16^](#fn16) is often actively related by [[Criticisms of The Rationalist Movement|critics]].[^17^](#fn17)[^18^](#fn18)[^19^](#fn19)
 - [Polyamory](https://en.wikipedia.org/wiki/Polyamory)[^20^](#fn20)[^21^](#fn21)[^22^](#fn22)
 - The [Facebook](https://wiki.lesswrong.com/wiki/Facebook) [group](https://www.facebook.com/groups/144017955332/) formally known as 'LessWrong' now 'Brain Debugging Discussion'
@@ -113,9 +113,9 @@ The culture is often defined by its saying such as those featured in [rationalis
 
 ## See Also
 
-- [[Criticisms of The Rationalist Movement|Criticisms of the rationalist movement]] (`= [[Criticisms of The Rationalist Movement|Criticisms of the rationalist movement]].status`)
+- [[Criticisms of The Rationalist Movement|Criticisms of the rationalist movement]]
 - [Diaspora](https://wiki.lesswrong.com/wiki/Diaspora)
-- [[History of Less Wrong]] (`= [[History of Less Wrong]].status`)
+- [[History of Less Wrong]]
 - [Reddit](https://www.lesswrong.com/tag/reddit)
 - [Twitter](https://www.lesswrong.com/tag/twitter)
 

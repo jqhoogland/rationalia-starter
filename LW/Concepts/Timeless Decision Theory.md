@@ -55,11 +55,11 @@ Coming to fully grasp TDT requires an understanding of how the theory is formali
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
-- [[Newcomb's Problem|Newcomb's problem]] (`= [[Newcomb's Problem|Newcomb's problem]].status`)
-- [[Causality]] (`= [[Causality]].status`)
-- [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
-- [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [[Causality]]
+- [[Updateless Decision Theory|Updateless decision theory]]
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]]
 
 
 %%

@@ -38,8 +38,8 @@ The development of superintelligence from humans is another possibility, sometim
 
 ## See Also
 
-- [[Brain-Computer Interfaces|Brain-computer interfaces]] (`= [[Brain-Computer Interfaces|Brain-computer interfaces]].status`)
-- [[Singularity]] (`= [[Singularity]].status`)
+- [[Brain-Computer Interfaces|Brain-computer interfaces]]
+- [[Singularity]]
 - [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
 
 

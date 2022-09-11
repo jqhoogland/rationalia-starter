@@ -16,6 +16,6 @@ status: todo
 
 # Sequences
 
-- [[Argument and Analysis (Sequence)]] (`= [[Argument and Analysis (Sequence)]].status`)
-- [[Categorisation and Concepts (Sequence)]] (`= [[Categorisation and Concepts (Sequence)]].status`)
-- [[Probability and Predictions (Sequence)]] (`= [[Probability and Predictions (Sequence)]].status`)
+- [[Argument and Analysis (Sequence)]]
+- [[Categorisation and Concepts (Sequence)]]
+- [[Probability and Predictions (Sequence)]]

@@ -29,14 +29,14 @@ status: todo
 
 ## See Also
 
-- [[Least Convenient Possible World|Least convenient possible world]] (`= [[Least Convenient Possible World|Least convenient possible world]].status`)
-- [[Improper Belief|Improper belief]] (`= [[Improper Belief|Improper belief]].status`)
-- [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
-- [[Mind-Killer|Mind-killer]] (`= [[Mind-Killer|Mind-killer]].status`)
+- [[Least Convenient Possible World|Least convenient possible world]]
+- [[Improper Belief|Improper belief]]
+- [[Group Rationality|Group rationality]]
+- [[Mind-Killer|Mind-killer]]
 - [[Filtered Evidence|Filtered evidence]], [[Absurdity Heuristic|absurdity heuristic]]
-- [[Rational Evidence|Rational evidence]] (`= [[Rational Evidence|Rational evidence]].status`)
-- [[Burdensome Details|Burdensome details]] (`= [[Burdensome Details|Burdensome details]].status`)
-- [[Status Quo Bias|Status quo bias]] (`= [[Status Quo Bias|Status quo bias]].status`)
+- [[Rational Evidence|Rational evidence]]
+- [[Burdensome Details|Burdensome details]]
+- [[Status Quo Bias|Status quo bias]]
 
 
 %%

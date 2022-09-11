@@ -18,11 +18,11 @@ It is more probable that A, than that A and B.
 
 ## See Also
 
-- [[Occam's Razor|Occam's razor]] (`= [[Occam's Razor|Occam's razor]].status`)
-- [[Conjunction Fallacy|Conjunction fallacy]] (`= [[Conjunction Fallacy|Conjunction fallacy]].status`)
-- [[Burdensome Details|Burdensome details]] (`= [[Burdensome Details|Burdensome details]].status`)
-- [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
-- [[Litany of Gendlin]] (`= [[Litany of Gendlin]].status`)
+- [[Occam's Razor|Occam's razor]]
+- [[Conjunction Fallacy|Conjunction fallacy]]
+- [[Burdensome Details|Burdensome details]]
+- [[Litany of Tarski]]
+- [[Litany of Gendlin]]
 
 
 %%

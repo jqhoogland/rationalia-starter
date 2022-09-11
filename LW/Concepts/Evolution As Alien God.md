@@ -37,10 +37,10 @@ And this is the process responsible for the creation of all biological life on E
 
 ## See Also
 
-- [[Evolution]] (`= [[Evolution]].status`)
-- [[Stupidity of Evolution|Stupidity of evolution]] (`= [[Stupidity of Evolution|Stupidity of evolution]].status`)
-- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
-- [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+- [[Evolution]]
+- [[Stupidity of Evolution|Stupidity of evolution]]
+- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]]
+- [[Optimization|Optimization process]]
 
 
 %%

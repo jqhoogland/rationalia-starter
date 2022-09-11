@@ -16,11 +16,11 @@ status: todo
 
 # Sequences
 
-- [[Thinking Better on Purpose (Sequence)]] (`= [[Thinking Better on Purpose (Sequence)]].status`)
-- [[Pitfalls of Human Cognition (Sequence)]] (`= [[Pitfalls of Human Cognition (Sequence)]].status`)
-- [[The Laws Governing Belief (Sequence)]] (`= [[The Laws Governing Belief (Sequence)]].status`)
-- [[Science Isn't Enough (Sequence)]] (`= [[Science Isn't Enough (Sequence)]].status`)
-- [[Connecting Words to Reality (Sequence)]] (`= [[Connecting Words to Reality (Sequence)]].status`)
-- [[Why We Fight (Sequence)]] (`= [[Why We Fight (Sequence)]].status`)
+- [[Thinking Better on Purpose (Sequence)]]
+- [[Pitfalls of Human Cognition (Sequence)]]
+- [[The Laws Governing Belief (Sequence)]]
+- [[Science Isn't Enough (Sequence)]]
+- [[Connecting Words to Reality (Sequence)]]
+- [[Why We Fight (Sequence)]]
 
 See also: [[Further Reading (Highlights)]]

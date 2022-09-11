@@ -35,11 +35,11 @@ Donald E. Brown has compiled a list of [over a hundred human universals](http://
 
 ## See Also
 
-- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
-- [[Typical Mind Fallacy|Typical mind fallacy]] (`= [[Typical Mind Fallacy|Typical mind fallacy]].status`)
-- [[Anthropomorphism]] (`= [[Anthropomorphism]].status`)
+- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]]
+- [[Typical Mind Fallacy|Typical mind fallacy]]
+- [[Anthropomorphism]]
 - [[Complexity of Value|Complexity of value]], [[Fake Simplicity|fake simplicity]]
-- [[Alien Values|Alien values]] (`= [[Alien Values|Alien values]].status`)
+- [[Alien Values|Alien values]]
 - [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|paperclip maximizer]]
 
 

@@ -34,7 +34,7 @@ Roman V. Yampolskiy proposed a [classification in AI-Complete, AI-Hard and AI-Ea
 
 ## See Also
 
-- [[Fai-Complete|FAI-complete]] (`= [[Fai-Complete|FAI-complete]].status`)
+- [[Fai-Complete|FAI-complete]]
 
 
 %%

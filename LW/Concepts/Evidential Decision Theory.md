@@ -38,7 +38,7 @@ CDT uses probabilities of conditionals and contrafactual dependence to calculate
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Decision Theory|Decision theory]]
 
 
 %%

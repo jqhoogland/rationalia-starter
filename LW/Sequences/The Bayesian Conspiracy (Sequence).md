@@ -22,8 +22,8 @@ Derived from "beisu", a Japanese transliteration of Bayes (though more accurate 
 
 ### The Bayesian Conspiracy
 
-- [[Initiation Ceremony]] (`= [[Initiation Ceremony]].status`)
-- [[The Failures of Eld Science]] (`= [[The Failures of Eld Science]].status`)
-- [[Class Project]] (`= [[Class Project]].status`)
-- [[The Ritual]] (`= [[The Ritual]].status`)
-- [[Final Words]] (`= [[Final Words]].status`)
+- [[Initiation Ceremony]]
+- [[The Failures of Eld Science]]
+- [[Class Project]]
+- [[The Ritual]]
+- [[Final Words]]

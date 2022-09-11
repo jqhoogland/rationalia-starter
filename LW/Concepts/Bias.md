@@ -65,12 +65,12 @@ Therefore, the human brain make operations which solve cognitive tasks through â
 
 - [[Heuristics & Biases|Heuristics and biases]], [[Heuristic]]
 - [[Debiasing]], [[Dangerous Knowledge|Dangerous knowledge]]
-- [[No Safe Defense|No safe defense]] (`= [[No Safe Defense|No safe defense]].status`)
+- [[No Safe Defense|No safe defense]]
 
 ## Not to Be Confused with
 
 - [Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
-- [[Inductive Bias|Inductive bias]] (`= [[Inductive Bias|Inductive bias]].status`)
+- [[Inductive Bias|Inductive bias]]
 
 * * *
 

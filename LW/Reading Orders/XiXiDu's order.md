@@ -15,21 +15,21 @@ href: https://www.lesswrong.com/posts/zEm5B4t3Sonj8PySN/rewriting-the-sequences?
 
 ## Introduction
 
-- [[Twelve Virtues of Rationality]] (`= [[Twelve Virtues of Rationality]].status`)
+- [[Twelve Virtues of Rationality]]
 - [Interview with Eliezer Yudkowsky (Part 1)](http://johncarlosbaez.wordpress.com/2011/03/07/this-weeks-finds-week-311/)
 - [Interview with Eliezer Yudkowsky (Part 2)](http://johncarlosbaez.wordpress.com/2011/03/14/this-weeks-finds-week-312/)
 - [Interview with Eliezer Yudkowsky (Part 3)](http://johncarlosbaez.wordpress.com/2011/03/25/this-weeks-finds-week-313/)
 
 ## Wisdom & Insight
 
-- [[Diseased thinking— dissolving questions about disease]] (`= [[Diseased thinking— dissolving questions about disease]].status`)
-- [[Self-fulfilling correlations]] (`= [[Self-fulfilling correlations]].status`)
-- [[Probability is in the Mind]] (`= [[Probability is in the Mind]].status`)
-- [[You're Entitled to Arguments, But Not (That Particular) Proof]] (`= [[You're Entitled to Arguments, But Not (That Particular) Proof]].status`)
-- [[Efficient Charity— Do Unto Others...]] (`= [[Efficient Charity— Do Unto Others...]].status`)
-- [[Newcomb's Problem and Regret of Rationality]] (`= [[Newcomb's Problem and Regret of Rationality]].status`)
-- [[Occam's Razor (Post)]] (`= [[Occam's Razor]].status`)
-- [[Confidence levels inside and outside an argument]] (`= [[Confidence levels inside and outside an argument]].status`)
+- [[Diseased thinking— dissolving questions about disease]]
+- [[Self-fulfilling correlations]]
+- [[Probability is in the Mind]]
+- [[You're Entitled to Arguments, But Not (That Particular) Proof]]
+- [[Efficient Charity— Do Unto Others...]]
+- [[Newcomb's Problem and Regret of Rationality]]
+- [[Occam's Razor (Post)]]
+- [[Confidence levels inside and outside an argument]]
 
 ## Education
 
@@ -37,11 +37,11 @@ href: https://www.lesswrong.com/posts/zEm5B4t3Sonj8PySN/rewriting-the-sequences?
 
 ## Excitement, Novelty, Fun
 
-- [[The Apologist and the Revolutionary]] (`= [[The Apologist and the Revolutionary]].status`)
-- [[Beyond the Reach of God]] (`= [[Beyond the Reach of God]].status`)
-- [[The mathematical universe— the map that is the territory]] (`= [[The mathematical universe— the map that is the territory]].status`)
-- [[That Alien Message]] (`= [[That Alien Message]].status`)
-- [[A Much Better Life?]] (`= [[A Much Better Life?]].status`)
+- [[The Apologist and the Revolutionary]]
+- [[Beyond the Reach of God]]
+- [[The mathematical universe— the map that is the territory]]
+- [[That Alien Message]]
+- [[A Much Better Life?]]
 
 ## Other
 

@@ -18,8 +18,8 @@ A **standard of evidence** or **standard of admissible evidence** seeks to narro
 
 ## See Also
 
-- [[Rational Evidence|Rational evidence]] (`= [[Rational Evidence|Rational evidence]].status`)
-- [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
+- [[Rational Evidence|Rational evidence]]
+- [[Filtered Evidence|Filtered evidence]]
 
 ## Blog Posts
 

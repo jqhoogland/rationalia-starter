@@ -35,11 +35,11 @@ Physical brains are not powerful enough to search all possibilities; we have to 
 
 ## See Also
 
-- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
+- [[Complexity of Value|Complexity of value]]
 - [[Fake Simplicity|Fake simplicity]], [[Detached Lever Fallacy|Detached lever fallacy]]
 - [[Mind Design Space|Mind design space]], [[Paperclip Maximizer|Paperclip maximizer]]
-- [[Friendly Artificial Intelligence|Friendly artificial intelligence]] (`= [[Friendly Artificial Intelligence|Friendly artificial intelligence]].status`)
-- [[Magic]] (`= [[Magic]].status`)
+- [[Friendly Artificial Intelligence|Friendly artificial intelligence]]
+- [[Magic]]
 
 
 %%

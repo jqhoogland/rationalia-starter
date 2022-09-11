@@ -20,8 +20,8 @@ From the [[12 Virtues|Twelve Virtues of Rationality]]:
 
 ## See Also
 
-- [[Motivated Skepticism|Motivated skepticism]] (`= [[Motivated Skepticism|Motivated skepticism]].status`)
-- [[Self-Deception|Self-deception]] (`= [[Self-Deception|Self-deception]].status`)
+- [[Motivated Skepticism|Motivated skepticism]]
+- [[Self-Deception|Self-deception]]
 
 
 %%

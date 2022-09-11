@@ -16,7 +16,7 @@ The Codex is a collection of essays written by Scott Alexander that discuss how 
 
 # Books
 
-- [[Good and Bad Reasoning]] (`= [[Good and Bad Reasoning]].status`)
-- [[The Institution of Science]] (`= [[The Institution of Science]].status`)
-- [[Designing the World]] (`= [[Designing the World]].status`)
-- [[Epilogue (Codex)]] (`= [[Epilogue (Codex)]].status`)
+- [[Good and Bad Reasoning]]
+- [[The Institution of Science]]
+- [[Designing the World]]
+- [[Epilogue (Codex)]]

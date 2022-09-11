@@ -20,11 +20,11 @@ A collection of MIRI write-ups and conversations about alignment released in 202
 
 ### 2022 MIRI Alignment Discussion
 
-- [[Six Dimensions of Operational Adequacy in AGI Projects]] (`= [[Six Dimensions of Operational Adequacy in AGI Projects]].status`)
-- [[AGI Ruin— A List of Lethalities]] (`= [[AGI Ruin— A List of Lethalities]].status`)
-- [[A central AI alignment problem— capabilities generalization, and the sharp left turn]] (`= [[A central AI alignment problem— capabilities generalization, and the sharp left turn]].status`)
-- [[On how various plans miss the hard bits of the alignment challenge]] (`= [[On how various plans miss the hard bits of the alignment challenge]].status`)
-- [[The inordinately slow spread of good AGI conversations in ML]] (`= [[The inordinately slow spread of good AGI conversations in ML]].status`)
-- [[A note about differential technological development]] (`= [[A note about differential technological development]].status`)
-- [[Brainstorm of things that could force an AI team to burn their lead]] (`= [[Brainstorm of things that could force an AI team to burn their lead]].status`)
-- [[AGI ruin scenarios are likely (and disjunctive)]] (`= [[AGI ruin scenarios are likely (and disjunctive)]].status`)
+- [[Six Dimensions of Operational Adequacy in AGI Projects]]
+- [[AGI Ruin— A List of Lethalities]]
+- [[A central AI alignment problem— capabilities generalization, and the sharp left turn]]
+- [[On how various plans miss the hard bits of the alignment challenge]]
+- [[The inordinately slow spread of good AGI conversations in ML]]
+- [[A note about differential technological development]]
+- [[Brainstorm of things that could force an AI team to burn their lead]]
+- [[AGI ruin scenarios are likely (and disjunctive)]]

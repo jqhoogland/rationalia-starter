@@ -29,8 +29,8 @@ There's also some popular tropes of Traditional Rationality that actually seem f
 ## See Also
 
 - [[Science]], [[Scholarship & Learning|scholarship]]
-- [[Rational Evidence|Rational evidence]] (`= [[Rational Evidence|Rational evidence]].status`)
-- [[Scales of Justice Fallacy|Scales of justice fallacy]] (`= [[Scales of Justice Fallacy|Scales of justice fallacy]].status`)
+- [[Rational Evidence|Rational evidence]]
+- [[Scales of Justice Fallacy|Scales of justice fallacy]]
 - [[Epistemic Hygiene|Epistemic hygiene]], [[Absurdity Heuristic|Absurdity heuristic]]
 - [Yudkowsky's coming of age](https://wiki.lesswrong.com/wiki/Yudkowsky's_coming_of_age)
 

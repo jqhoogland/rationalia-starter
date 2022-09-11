@@ -27,9 +27,9 @@ status: todo
 ## See Also
 
 - [Quote from _Superintelligence_](https://www.goodreads.com/quotes/1413237-consider-an-ai-that-has-hedonism-as-its-final-goal)
-- [[Fun Theory]] (`= [[Fun theory]].status`)
-- [[Complexity of Value]] (`= [[Complexity of value]].status`)
-- [[Utilitronium]] (`= [[Utilitronium]].status`)
+- [[Fun Theory]]
+- [[Complexity of Value]]
+- [[Utilitronium]]
 
 
 %%

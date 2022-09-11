@@ -21,7 +21,7 @@ status: todo
 
 ## See Also
 
-- [[Availability Heuristic|Availability heuristic]] (`= [[Availability Heuristic|Availability heuristic]].status`)
+- [[Availability Heuristic|Availability heuristic]]
 - [[Human Universal|Human universal]], [[Typical Mind Fallacy|Typical mind fallacy]]
 
 ## References

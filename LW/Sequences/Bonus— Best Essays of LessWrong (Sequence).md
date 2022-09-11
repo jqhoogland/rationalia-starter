@@ -20,21 +20,21 @@ If you've enjoyed the [Sequence Highlights](https://www.lesswrong.com/highlights
 
 ### Bonus— Best Essays of LessWrong
 
-- [[Babble]] (`= [[Babble]].status`)
-- [[Being the (Pareto) Best in the World]] (`= [[Being the (Pareto) Best in the World]].status`)
-- [["Other people are wrong" vs "I am right"]] (`= [["Other people are wrong" vs "I am right"]].status`)
-- [[Yes Requires the Possibility of No]] (`= [[Yes Requires the Possibility of No]].status`)
-- [[Schelling fences on slippery slopes]] (`= [[Schelling fences on slippery slopes]].status`)
-- [[The Best Textbooks on Every Subject]] (`= [[The Best Textbooks on Every Subject]].status`)
-- [[The Costly Coordination Mechanism of Common Knowledge]] (`= [[The Costly Coordination Mechanism of Common Knowledge]].status`)
-- [[LW/Concepts/Practical/Domains of Well-being/Slack]] (`= [[Slack]].status`)
-- [[Lies, Damn Lies, and Fabricated Options]] (`= [[Lies, Damn Lies, and Fabricated Options]].status`)
-- [[When Money Is Abundant, Knowledge Is The Real Wealth]] (`= [[When Money Is Abundant, Knowledge Is The Real Wealth]].status`)
-- [[What Money Cannot Buy]] (`= [[What Money Cannot Buy]].status`)
-- [[Bets, Bonds, and Kindergarteners]] (`= [[Bets, Bonds, and Kindergarteners]].status`)
-- [[How to Ignore Your Emotions (while also thinking you're awesome at emotions)]] (`= [[How to Ignore Your Emotions (while also thinking you're awesome at emotions)]].status`)
-- [[Pain is not the unit of Effort]] (`= [[Pain is not the unit of Effort]].status`)
-- [[Fact Posts— How and Why]] (`= [[Fact Posts— How and Why]].status`)
-- [[The correct response to uncertainty is *not* half-speed]] (`= [[The correct response to uncertainty is *not* half-speed]].status`)
-- [[On learning difficult things]] (`= [[On learning difficult things]].status`)
-- [[Diseased thinking— dissolving questions about disease]] (`= [[Diseased thinking— dissolving questions about disease]].status`)
+- [[Babble]]
+- [[Being the (Pareto) Best in the World]]
+- [["Other people are wrong" vs "I am right"]]
+- [[Yes Requires the Possibility of No]]
+- [[Schelling fences on slippery slopes]]
+- [[The Best Textbooks on Every Subject]]
+- [[The Costly Coordination Mechanism of Common Knowledge]]
+- [[LW/Concepts/Practical/Domains of Well-being/Slack]]
+- [[Lies, Damn Lies, and Fabricated Options]]
+- [[When Money Is Abundant, Knowledge Is The Real Wealth]]
+- [[What Money Cannot Buy]]
+- [[Bets, Bonds, and Kindergarteners]]
+- [[How to Ignore Your Emotions (while also thinking you're awesome at emotions)]]
+- [[Pain is not the unit of Effort]]
+- [[Fact Posts— How and Why]]
+- [[The correct response to uncertainty is *not* half-speed]]
+- [[On learning difficult things]]
+- [[Diseased thinking— dissolving questions about disease]]

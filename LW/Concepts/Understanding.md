@@ -27,7 +27,7 @@ status: todo
 - [[Memorization]], [Teacher's password](https://wiki.lesswrong.com/wiki/Teacher's_password)
 - [[Semantic Stopsign|Semantic stopsign]], [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
 - [[Free-Floating Belief|Free-floating belief]], [[Detached Lever Fallacy|Detached lever fallacy]]
-- [[General Knowledge|General knowledge]] (`= [[General Knowledge|General knowledge]].status`)
+- [[General Knowledge|General knowledge]]
 
 
 %%

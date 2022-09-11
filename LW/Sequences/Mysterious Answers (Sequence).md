@@ -20,23 +20,23 @@ This sequence asks whether science resolves the problems raised so far. Scientis
 
 ### Mysterious Answers
 
-- [[Fake Explanations]] (`= [[Fake Explanations]].status`)
-- [[Guessing the Teacher's Password]] (`= [[Guessing the Teacher's Password]].status`)
-- [[Science as Attire]] (`= [[Science as Attire]].status`)
-- [[Fake Causality]] (`= [[Fake Causality]].status`)
-- [[Semantic Stopsigns]] (`= [[Semantic Stopsigns]].status`)
-- [[Mysterious Answers to Mysterious Questions]] (`= [[Mysterious Answers to Mysterious Questions]].status`)
-- [[The Futility of Emergence]] (`= [[The Futility of Emergence]].status`)
-- [[Say Not "Complexity"]] (`= [[Say Not "Complexity"]].status`)
-- [[Positive Bias— Look Into the Dark]] (`= [[Positive Bias— Look Into the Dark]].status`)
-- [[Lawful Uncertainty]] (`= [[Lawful Uncertainty]].status`)
-- [[My Wild and Reckless Youth]] (`= [[My Wild and Reckless Youth]].status`)
-- [[Failing to Learn from History]] (`= [[Failing to Learn from History]].status`)
-- [[Making History Available]] (`= [[Making History Available]].status`)
-- [[Explain, Worship, Ignore?]] (`= [[Explain, Worship, Ignore?]].status`)
-- [["Science" as Curiosity-Stopper]] (`= [["Science" as Curiosity-Stopper]].status`)
-- [[Truly Part Of You]] (`= [[Truly Part Of You]].status`)
+- [[Fake Explanations]]
+- [[Guessing the Teacher's Password]]
+- [[Science as Attire]]
+- [[Fake Causality]]
+- [[Semantic Stopsigns]]
+- [[Mysterious Answers to Mysterious Questions]]
+- [[The Futility of Emergence]]
+- [[Say Not "Complexity"]]
+- [[Positive Bias— Look Into the Dark]]
+- [[Lawful Uncertainty]]
+- [[My Wild and Reckless Youth]]
+- [[Failing to Learn from History]]
+- [[Making History Available]]
+- [[Explain, Worship, Ignore?]]
+- [["Science" as Curiosity-Stopper]]
+- [[Truly Part Of You]]
 
 ### Interlude
 
-- [[The Simple Truth]] (`= [[The Simple Truth]].status`)
+- [[The Simple Truth]]

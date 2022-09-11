@@ -40,7 +40,7 @@ where "outcome" is 1 or 0, and "prediction" is the probability on (0, 1) that th
 
 ## See Also
 
-- [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
+- [[Technical Explanation|Technical explanation]]
 
 
 %%

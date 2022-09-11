@@ -25,8 +25,8 @@ giant cheesecakes!” \[…\] The vision leaps directly from *capability* to *ac
 ## See Also
 
 - [The genie knows, but does not care](http://lesswrong.com/lw/igf/the_genie_knows_but_doesnt_care/)
-- [[Mind Design Space|Mind design space]] (`= [[Mind Design Space|Mind design space]].status`)
-- [[Lawful Intelligence|Lawful intelligence]] (`= [[Lawful Intelligence|Lawful intelligence]].status`)
+- [[Mind Design Space|Mind design space]]
+- [[Lawful Intelligence|Lawful intelligence]]
 
 
 %%

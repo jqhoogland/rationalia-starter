@@ -20,11 +20,11 @@ An account of irrationality would be incomplete if it provided no theory about h
 
 ### Fake Beliefs
 
-- [[Making Beliefs Pay Rent (in Anticipated Experiences)]] (`= [[Making Beliefs Pay Rent (in Anticipated Experiences)]].status`)
-- [[A Fable of Science and Politics]] (`= [[A Fable of Science and Politics]].status`)
-- [[Belief in Belief]] (`= [[Belief in Belief]].status`)
-- [[Religion's Claim to be Non-Disprovable]] (`= [[Religion's Claim to be Non-Disprovable]].status`)
-- [[Professing and Cheering]] (`= [[Professing and Cheering]].status`)
-- [[Belief as Attire]] (`= [[Belief as Attire]].status`)
-- [[Pretending to be Wise]] (`= [[Pretending to be Wise]].status`)
-- [[Applause Lights]] (`= [[Applause Lights]].status`)
+- [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
+- [[A Fable of Science and Politics]]
+- [[Belief in Belief]]
+- [[Religion's Claim to be Non-Disprovable]]
+- [[Professing and Cheering]]
+- [[Belief as Attire]]
+- [[Pretending to be Wise]]
+- [[Applause Lights]]

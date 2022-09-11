@@ -28,9 +28,9 @@ Scott Garrabrant (seemingly) independently invented a [very similar game](https:
 
 ## See Also
 
-- [[Aumann's Agreement Theorem|Aumann's agreement theorem]] (`= [[Aumann's Agreement Theorem|Aumann's agreement theorem]].status`)
+- [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
 - [Proper scoring rules](https://wiki.lesswrong.com/wiki/Proper_scoring_rules)
-- [[Paranoid Debating|Paranoid debating]] (`= [[Paranoid Debating|Paranoid debating]].status`)
+- [[Paranoid Debating|Paranoid debating]]
 
 ## External Links
 

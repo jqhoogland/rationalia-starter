@@ -28,16 +28,16 @@ The worst failures of all are the kind that you can neither recover nor learn fr
 
 ### Failure
 
-- [[The Parable of Predict-O-Matic]] (`= [[The Parable of Predict-O-Matic]].status`)
-- [[Blackmail (Post)]] (`= [[Blackmail]].status`)
-- [[Bioinfohazards]] (`= [[Bioinfohazards]].status`)
-- [[What failure looks like]] (`= [[What failure looks like]].status`)
-- [[AI Safety "Success Stories"]] (`= [[AI Safety "Success Stories"]].status`)
-- [[Reframing Impact]] (`= [[Reframing Impact]].status`)
-- [[The strategy-stealing assumption]] (`= [[The strategy-stealing assumption]].status`)
-- [[Is Rationalist Self-Improvement Real?]] (`= [[Is Rationalist Self-Improvement Real?]].status`)
-- [[The Curse Of The Counterfactual]] (`= [[The Curse Of The Counterfactual]].status`)
-- [[human psycholinguists— a critical appraisal]] (`= [[human psycholinguists— a critical appraisal]].status`)
+- [[The Parable of Predict-O-Matic]]
+- [[Blackmail (Post)]]
+- [[Bioinfohazards]]
+- [[What failure looks like]]
+- [[AI Safety "Success Stories"]]
+- [[Reframing Impact]]
+- [[The strategy-stealing assumption]]
+- [[Is Rationalist Self-Improvement Real?]]
+- [[The Curse Of The Counterfactual]]
+- [[human psycholinguists— a critical appraisal]]
 - [[[Answer] Why wasn't science invented in China?]]
-- [[Make more land]] (`= [[Make more land]].status`)
-- [[Rest Days vs Recovery Days]] (`= [[Rest Days vs Recovery Days]].status`)
+- [[Make more land]]
+- [[Rest Days vs Recovery Days]]

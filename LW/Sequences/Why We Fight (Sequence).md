@@ -22,8 +22,8 @@ The pursuit of rationality and that of doing better on purpose, can in fact be r
 
 ### Why We Fight
 
-- [[Something to Protect (Post)]] (`= [[Something to Protect (Post)]].status`)
-- [[The Gift We Give To Tomorrow]] (`= [[The Gift We Give To Tomorrow]].status`)
-- [[On Caring]] (`= [[On Caring]].status`)
-- [[Tsuyoku Naritai! (I Want To Become Stronger)]] (`= [[Tsuyoku Naritai! (I Want To Become Stronger)]].status`)
-- [[A Sense That More Is Possible]] (`= [[A Sense That More Is Possible]].status`)
+- [[Something to Protect (Post)]]
+- [[The Gift We Give To Tomorrow]]
+- [[On Caring]]
+- [[Tsuyoku Naritai! (I Want To Become Stronger)]]
+- [[A Sense That More Is Possible]]

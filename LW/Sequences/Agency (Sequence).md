@@ -34,9 +34,9 @@ This book will explore some of these challenges.
 
 ### Agency
 
-- [[Noticing the Taste of Lotus]] (`= [[Noticing the Taste of Lotus]].status`)
-- [[The Tails Coming Apart As Metaphor For Life]] (`= [[The Tails Coming Apart As Metaphor For Life]].status`)
-- [[Meta-Honesty— Firming Up Honesty Around Its Edge-Cases]] (`= [[Meta-Honesty— Firming Up Honesty Around Its Edge-Cases]].status`)
-- [[My attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms]] (`= [[My attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms]].status`)
-- [[Being a Robust Agent]] (`= [[Being a Robust Agent]].status`)
-- [[Anti-social Punishment]] (`= [[Anti-social Punishment]].status`)
+- [[Noticing the Taste of Lotus]]
+- [[The Tails Coming Apart As Metaphor For Life]]
+- [[Meta-Honesty— Firming Up Honesty Around Its Edge-Cases]]
+- [[My attempt to explain Looking, insight meditation, and enlightenment in non-mysterious terms]]
+- [[Being a Robust Agent]]
+- [[Anti-social Punishment]]

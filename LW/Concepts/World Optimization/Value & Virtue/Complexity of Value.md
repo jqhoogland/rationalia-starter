@@ -58,15 +58,15 @@ Complexity of value poses a problem for [[AI|AI alignment]]. If you can't easily
 # See Also
 
 - [Complex Value Systems are Required to Realize Valuable Futures](http://intelligence.org/files/ComplexValues.pdf)
-- [[Human Universal|Human universal]] (`= [[Human Universal|Human universal]].status`)
+- [[Human Universal|Human universal]]
 - [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
-- [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
+- [[Metaethics Sequence|Metaethics sequence]]
 - [Fun theory](https://www.lesswrong.com/tag/fun-theory)
-- [[LW/Concepts/Magical Categories|Magical categories]] (`= [[Magical Categories|Magical categories]].status`)
+- [[LW/Concepts/Magical Categories|Magical categories]]
 - [Friendly Artificial Intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)
-- [[Preference|Preference]] (`= [[Preference|Preference]].status`)
+- [[Preference|Preference]]
 - [Wireheading](https://www.lesswrong.com/tag/wireheading)
-- [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]] (`= [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]].status`)
+- [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]
 
 
 %%

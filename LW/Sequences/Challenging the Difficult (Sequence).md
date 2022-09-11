@@ -20,9 +20,9 @@ This sequences asks what it takes to solve a truly difficult problem—including
 
 ### Challenging the Difficult
 
-- [[Trying to Try]] (`= [[Trying to Try]].status`)
-- [[Use the Try Harder, Luke]] (`= [[Use the Try Harder, Luke]].status`)
-- [[On Doing the Impossible]] (`= [[On Doing the Impossible]].status`)
-- [[Make an Extraordinary Effort]] (`= [[Make an Extraordinary Effort]].status`)
-- [[Shut up and do the impossible!]] (`= [[Shut up and do the impossible!]].status`)
-- [[Final Words]] (`= [[Final Words]].status`)
+- [[Trying to Try]]
+- [[Use the Try Harder, Luke]]
+- [[On Doing the Impossible]]
+- [[Make an Extraordinary Effort]]
+- [[Shut up and do the impossible!]]
+- [[Final Words]]

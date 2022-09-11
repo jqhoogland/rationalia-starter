@@ -29,10 +29,10 @@ A variant of [[Updateless Decision Theory|updateless decision theory]] that uses
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Decision Theory|Decision theory]]
 - [[Newcomb's Problem|Newcomb's problem]], [[Prisoner's Dilemma|Prisoner's dilemma]]
-- [[Timeless Decision Theory|Timeless decision theory]] (`= [[Timeless Decision Theory|Timeless decision theory]].status`)
-- [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
+- [[Timeless Decision Theory|Timeless decision theory]]
+- [[Updateless Decision Theory|Updateless decision theory]]
 
 
 %%

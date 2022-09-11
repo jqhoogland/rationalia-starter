@@ -25,9 +25,9 @@ status: todo
 
 ## See Also
 
-- [[Conjunction Fallacy|Conjunction fallacy]] (`= [[Conjunction Fallacy|Conjunction fallacy]].status`)
-- [[Availability Heuristic|Availability heuristic]] (`= [[Availability Heuristic|Availability heuristic]].status`)
-- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
+- [[Conjunction Fallacy|Conjunction fallacy]]
+- [[Availability Heuristic|Availability heuristic]]
+- [[Narrative Fallacy|Narrative fallacy]]
 
 
 %%

@@ -28,9 +28,9 @@ The FHI is an affiliate to LessWrong and [Overcoming Bias](http://www.overcoming
 
 ## See Also
 
-- [[Nick Bostrom]] (`= [[Nick Bostrom]].status`)
-- [[EA/Topics/Existential risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
-- [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]] (`= [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]].status`)
+- [[Nick Bostrom]]
+- [[EA/Topics/Existential risk|Existential risk]]
+- [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Research Institute]]
 
 ## External Links
 

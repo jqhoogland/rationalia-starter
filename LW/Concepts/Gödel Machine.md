@@ -40,10 +40,10 @@ The Gödel machine is often compared with Marcus Hutter's [[AIXI]], another form
 
 ## See Also
 
-- [[Artificial General Intelligence]] (`= [[Artificial General Intelligence]].status`)
-- [[Recursive Self-Improvement|Recursive self-improvement]] (`= [[Recursive Self-Improvement|Recursive self-improvement]].status`)
-- [[Seed AI]] (`= [[Seed AI]].status`)
-- [[AIXI]] (`= [[AIXI]].status`)
+- [[Artificial General Intelligence]]
+- [[Recursive Self-Improvement|Recursive self-improvement]]
+- [[Seed AI]]
+- [[AIXI]]
 
 
 %%

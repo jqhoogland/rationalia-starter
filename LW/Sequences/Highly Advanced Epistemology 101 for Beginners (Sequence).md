@@ -20,28 +20,28 @@ These essays include a discussion of truth, formal logic, causality, and metaeth
 
 ### Introduction
 
-- [[The Useful Idea of Truth]] (`= [[The Useful Idea of Truth]].status`)
-- [[Skill— The Map is Not the Territory]] (`= [[Skill— The Map is Not the Territory]].status`)
-- [[Rationality— Appreciating Cognitive Algorithms]] (`= [[Rationality— Appreciating Cognitive Algorithms]].status`)
-- [[Firewalling the Optimal from the Rational]] (`= [[Firewalling the Optimal from the Rational]].status`)
+- [[The Useful Idea of Truth]]
+- [[Skill— The Map is Not the Territory]]
+- [[Rationality— Appreciating Cognitive Algorithms]]
+- [[Firewalling the Optimal from the Rational]]
 
 ### Physics and Causality
 
-- [[The Fabric of Real Things]] (`= [[The Fabric of Real Things]].status`)
-- [[Causal Diagrams and Causal Models]] (`= [[Causal Diagrams and Causal Models]].status`)
-- [[Stuff That Makes Stuff Happen]] (`= [[Stuff That Makes Stuff Happen]].status`)
-- [[Causal Reference]] (`= [[Causal Reference]].status`)
-- [[Causal Universes]] (`= [[Causal Universes]].status`)
+- [[The Fabric of Real Things]]
+- [[Causal Diagrams and Causal Models]]
+- [[Stuff That Makes Stuff Happen]]
+- [[Causal Reference]]
+- [[Causal Universes]]
 
 ### Mathematics and Logic
 
-- [[Proofs, Implications, and Models]] (`= [[Proofs, Implications, and Models]].status`)
-- [[Logical Pinpointing]] (`= [[Logical Pinpointing]].status`)
-- [[Standard and Nonstandard Numbers]] (`= [[Standard and Nonstandard Numbers]].status`)
-- [[Godel's Completeness and Incompleteness Theorems]] (`= [[Godel's Completeness and Incompleteness Theorems]].status`)
-- [[Second-Order Logic— The Controversy]] (`= [[Second-Order Logic— The Controversy]].status`)
+- [[Proofs, Implications, and Models]]
+- [[Logical Pinpointing]]
+- [[Standard and Nonstandard Numbers]]
+- [[Godel's Completeness and Incompleteness Theorems]]
+- [[Second-Order Logic— The Controversy]]
 
 ### Mixed Reference
 
-- [[Mixed Reference— The Great Reductionist Project]] (`= [[Mixed Reference— The Great Reductionist Project]].status`)
-- [[By Which It May Be Judged]] (`= [[By Which It May Be Judged]].status`)
+- [[Mixed Reference— The Great Reductionist Project]]
+- [[By Which It May Be Judged]]

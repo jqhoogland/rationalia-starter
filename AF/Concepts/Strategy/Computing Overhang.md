@@ -34,8 +34,8 @@ As Yudkoswky [puts it](http://intelligence.org/files/LOGI.pdf), human intelligen
 
 ## See Also
 
-- [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
-- [[Optimization]] (`= [[Optimization]].status`)
+- [[Optimization|Optimization process]]
+- [[Optimization]]
 
 
 %%

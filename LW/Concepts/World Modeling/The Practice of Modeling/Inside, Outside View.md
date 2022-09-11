@@ -48,7 +48,7 @@ More possible limitations and problems with using the outside view are discussed
 ## See Also
 
 - [[LW/Concepts/Planning Fallacy]]
-- [[Modest Epistemology]] (`= [[Modest Epistemology]].status`)
+- [[Modest Epistemology]]
 - [[Near, Far Thinking]]
 - [[Connotation]], [[Absurdity heuristic]]
 - [[Arguing by analogy]]

@@ -24,34 +24,34 @@ Sequence by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsk
 
 ### Fun Theory
 
-- [[The Fun Theory Sequence]] (`= [[The Fun Theory Sequence]].status`)
-- [[Prolegomena to a Theory of Fun]] (`= [[Prolegomena to a Theory of Fun]].status`)
-- [[High Challenge]] (`= [[High Challenge]].status`)
-- [[Complex Novelty]] (`= [[Complex Novelty]].status`)
-- [[Continuous Improvement]] (`= [[Continuous Improvement]].status`)
-- [[Sensual Experience]] (`= [[Sensual Experience]].status`)
-- [[Living By Your Own Strength]] (`= [[Living By Your Own Strength]].status`)
-- [[Free to Optimize]] (`= [[Free to Optimize]].status`)
-- [[Harmful Options]] (`= [[Harmful Options]].status`)
-- [[Devil's Offers]] (`= [[Devil's Offers]].status`)
-- [[Nonperson Predicates]] (`= [[Nonperson Predicates]].status`)
-- [[Amputation of Destiny]] (`= [[Amputation of Destiny]].status`)
-- [[Nonsentient Optimizers]] (`= [[Nonsentient Optimizers]].status`)
-- [[Can't Unbirth a Child]] (`= [[Can't Unbirth a Child]].status`)
-- [[Dunbar's Function]] (`= [[Dunbar's Function]].status`)
-- [[In Praise of Boredom]] (`= [[In Praise of Boredom]].status`)
-- [[Sympathetic Minds]] (`= [[Sympathetic Minds]].status`)
-- [[Interpersonal Entanglement]] (`= [[Interpersonal Entanglement]].status`)
-- [[Failed Utopia #4-2]] (`= [[Failed Utopia #4-2]].status`)
-- [[Growing Up is Hard]] (`= [[Growing Up is Hard]].status`)
-- [[Changing Emotions]] (`= [[Changing Emotions]].status`)
-- [[Emotional Involvement]] (`= [[Emotional Involvement]].status`)
-- [[Serious Stories]] (`= [[Serious Stories]].status`)
-- [[Eutopia is Scary]] (`= [[Eutopia is Scary]].status`)
-- [[Building Weirdtopia]] (`= [[Building Weirdtopia]].status`)
-- [[Justified Expectation of Pleasant Surprises]] (`= [[Justified Expectation of Pleasant Surprises]].status`)
-- [[Seduced by Imagination]] (`= [[Seduced by Imagination]].status`)
-- [[Justified Expectation of Pleasant Surprises]] (`= [[Justified Expectation of Pleasant Surprises]].status`)
-- [[Seduced by Imagination]] (`= [[Seduced by Imagination]].status`)
-- [[The Uses of Fun (Theory)]] (`= [[The Uses of Fun (Theory)]].status`)
-- [[Higher Purpose]] (`= [[Higher Purpose]].status`)
+- [[The Fun Theory Sequence]]
+- [[Prolegomena to a Theory of Fun]]
+- [[High Challenge]]
+- [[Complex Novelty]]
+- [[Continuous Improvement]]
+- [[Sensual Experience]]
+- [[Living By Your Own Strength]]
+- [[Free to Optimize]]
+- [[Harmful Options]]
+- [[Devil's Offers]]
+- [[Nonperson Predicates]]
+- [[Amputation of Destiny]]
+- [[Nonsentient Optimizers]]
+- [[Can't Unbirth a Child]]
+- [[Dunbar's Function]]
+- [[In Praise of Boredom]]
+- [[Sympathetic Minds]]
+- [[Interpersonal Entanglement]]
+- [[Failed Utopia #4-2]]
+- [[Growing Up is Hard]]
+- [[Changing Emotions]]
+- [[Emotional Involvement]]
+- [[Serious Stories]]
+- [[Eutopia is Scary]]
+- [[Building Weirdtopia]]
+- [[Justified Expectation of Pleasant Surprises]]
+- [[Seduced by Imagination]]
+- [[Justified Expectation of Pleasant Surprises]]
+- [[Seduced by Imagination]]
+- [[The Uses of Fun (Theory)]]
+- [[Higher Purpose]]

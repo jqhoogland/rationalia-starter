@@ -31,8 +31,8 @@ Goertzel and Pitt have also emphasized the role of an AGI Sputnik moment in AGI 
 
 ## See Also
 
-- [[AGI]] (`= [[AGI]].status`)
-- [[Friendly Artificial Intelligence]] (`= [[Friendly Artificial Intelligence]].status`)
+- [[AGI]]
+- [[Friendly Artificial Intelligence]]
 
 
 %%

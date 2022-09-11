@@ -20,8 +20,8 @@ status: todo
 
 ## See Also
 
-- [[Conformity Bias|Conformity bias]] (`= [[Conformity Bias|Conformity bias]].status`)
-- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Conformity Bias|Conformity bias]]
+- [[Shut Up and Multiply|Shut up and multiply]]
 
 
 %%

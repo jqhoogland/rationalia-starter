@@ -25,9 +25,9 @@ It has been noted that one's feelings about [Decision Theory](/tag/decision-theo
 
 ## See Also
 
-- [[Information Cascades|Information cascade]] (`= [[Information Cascades|Information cascade]].status`)
+- [[Information Cascades|Information cascade]]
 - [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias)
-- [[Privileging The Hypothesis|Privileging the hypothesis]] (`= [[Privileging The Hypothesis|Privileging the hypothesis]].status`)
+- [[Privileging The Hypothesis|Privileging the hypothesis]]
 
 ## External Links
 

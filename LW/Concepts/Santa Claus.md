@@ -31,8 +31,8 @@ It is a vexed question as to whether teaching your children about Santa is a goo
 
 ## See Also
 
-- [[Third Option|Third option]] (`= [[Third Option|Third option]].status`)
-- [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
+- [[Third Option|Third option]]
+- [[Belief In Belief|Belief in belief]]
 
 
 %%

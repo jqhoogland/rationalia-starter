@@ -28,9 +28,9 @@ Several posts on LessWrong deal with this topic, and it's also a field of resear
 
 **Related pages:**
 
-- [[Game Theory]] (`= [[Game Theory]].status`)
-- [[Voting Theory]] (`= [[Voting Theory]].status`)
-- [[Economics]] (`= [[Economics]].status`)
+- [[Game Theory]]
+- [[Voting Theory]]
+- [[Economics]]
 
 **External links:**
 

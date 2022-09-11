@@ -40,7 +40,7 @@ The tremendously slow timescale of evolution, especially for creating new comple
 
 ## See Also
 
-- [[Stupidity of Evolution|Stupidity of evolution]] (`= [[Stupidity of Evolution|Stupidity of evolution]].status`)
+- [[Stupidity of Evolution|Stupidity of evolution]]
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
 
 

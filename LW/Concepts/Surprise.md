@@ -24,10 +24,10 @@ Recognizing a fact that disagrees with your [[Intuition|intuition]] as **surpris
 
 ## See Also
 
-- [[Curiosity]] (`= [[Curiosity]].status`)
-- [[Bite The Bullet|Bite the bullet]] (`= [[Bite The Bullet|Bite the bullet]].status`)
+- [[Curiosity]]
+- [[Bite The Bullet|Bite the bullet]]
 - [Beliefs pay rent](https://wiki.lesswrong.com/wiki/Beliefs_pay_rent)
-- [[Incredulity]] (`= [[Incredulity]].status`)
+- [[Incredulity]]
 
 
 %%

@@ -29,7 +29,7 @@ See also: [[Seeing with Fresh Eyes]], [Affect Heuristic](https://wiki.lesswrong.
 
 ### Priming
 
-- [[Never Leave Your Room]] (`= [[Never Leave Your Room]].status`)
-- [[Bogus Pipeline, Bona Fide Pipeline]] (`= [[Bogus Pipeline, Bona Fide Pipeline]].status`)
-- [[The Implicit Association Test]] (`= [[The Implicit Association Test]].status`)
-- [[Fight Biases, or Route Around Them?]] (`= [[Fight Biases, or Route Around Them?]].status`)
+- [[Never Leave Your Room]]
+- [[Bogus Pipeline, Bona Fide Pipeline]]
+- [[The Implicit Association Test]]
+- [[Fight Biases, or Route Around Them?]]

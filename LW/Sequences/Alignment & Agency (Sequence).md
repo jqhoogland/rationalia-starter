@@ -18,12 +18,12 @@ status: todo
 
 ### Alignment & Agency
 
-- [[An Orthodox Case Against Utility Functions]] (`= [[An Orthodox Case Against Utility Functions]].status`)
-- [[The Pointers Problem— Human Values Are A Function Of Humans' Latent Variables]] (`= [[The Pointers Problem— Human Values Are A Function Of Humans' Latent Variables]].status`)
-- [[Alignment By Default]] (`= [[Alignment By Default]].status`)
-- [[An overview of 11 proposals for building safe advanced AI]] (`= [[An overview of 11 proposals for building safe advanced AI]].status`)
-- [[The ground of optimization]] (`= [[The ground of optimization]].status`)
-- [[Search versus design]] (`= [[Search versus design]].status`)
-- [[Inner Alignment— Explain like I'm 12 Edition]] (`= [[Inner Alignment— Explain like I'm 12 Edition]].status`)
-- [[Inaccessible information]] (`= [[Inaccessible information]].status`)
-- [[AGI safety from first principles— Introduction]] (`= [[AGI safety from first principles— Introduction]].status`)
+- [[An Orthodox Case Against Utility Functions]]
+- [[The Pointers Problem— Human Values Are A Function Of Humans' Latent Variables]]
+- [[Alignment By Default]]
+- [[An overview of 11 proposals for building safe advanced AI]]
+- [[The ground of optimization]]
+- [[Search versus design]]
+- [[Inner Alignment— Explain like I'm 12 Edition]]
+- [[Inaccessible information]]
+- [[AGI safety from first principles— Introduction]]

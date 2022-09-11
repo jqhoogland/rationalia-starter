@@ -20,16 +20,16 @@ These are posts that feel important to me for coordinating in the real world. It
 
 ### Ray's Coordination Sequence
 
-- [[Why Our Kind Can't Cooperate]] (`= [[Why Our Kind Can't Cooperate]].status`)
-- [[Your Price for Joining]] (`= [[Your Price for Joining]].status`)
-- [[Schelling fences on slippery slopes]] (`= [[Schelling fences on slippery slopes]].status`)
-- [[Schelling Categories, and Simple Membership Tests]] (`= [[Schelling Categories, and Simple Membership Tests]].status`)
-- [[The Schelling Choice is "Rabbit", not "Stag"]] (`= [[The Schelling Choice is "Rabbit", not "Stag"]].status`)
-- [[Classifying games like the Prisoner's Dilemma]] (`= [[Classifying games like the Prisoner's Dilemma]].status`)
-- [[The Pavlov Strategy]] (`= [[The Pavlov Strategy]].status`)
-- [[Pavlov Generalizes]] (`= [[Pavlov Generalizes]].status`)
-- [[Most Prisoner's Dilemmas are Stag Hunts; Most Stag Hunts are Schelling Problems]] (`= [[Most Prisoner's Dilemmas are Stag Hunts; Most Stag Hunts are Schelling Problems]].status`)
-- [[Bayesians vs. Barbarians]] (`= [[Bayesians vs. Barbarians]].status`)
-- [[Noticing Frame Differences]] (`= [[Noticing Frame Differences]].status`)
-- [[Propagating Facts into Aesthetics]] (`= [[Propagating Facts into Aesthetics]].status`)
-- [[Keep Your Beliefs Cruxy]] (`= [[Keep Your Beliefs Cruxy]].status`)
+- [[Why Our Kind Can't Cooperate]]
+- [[Your Price for Joining]]
+- [[Schelling fences on slippery slopes]]
+- [[Schelling Categories, and Simple Membership Tests]]
+- [[The Schelling Choice is "Rabbit", not "Stag"]]
+- [[Classifying games like the Prisoner's Dilemma]]
+- [[The Pavlov Strategy]]
+- [[Pavlov Generalizes]]
+- [[Most Prisoner's Dilemmas are Stag Hunts; Most Stag Hunts are Schelling Problems]]
+- [[Bayesians vs. Barbarians]]
+- [[Noticing Frame Differences]]
+- [[Propagating Facts into Aesthetics]]
+- [[Keep Your Beliefs Cruxy]]

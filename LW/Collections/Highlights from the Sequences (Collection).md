@@ -21,5 +21,5 @@ To provide a quick and accessible introduction to [[Rationality— A-Z|The Seque
 
 # Books
 
-- [[Highlights from the Sequences (Book)]] (`= [[Highlights from the Sequences (Book)]].status`)
-- [[Further Reading (Highlights)]] (`= [[Further Reading (Highlights)]].status`)
+- [[Highlights from the Sequences (Book)]]
+- [[Further Reading (Highlights)]]

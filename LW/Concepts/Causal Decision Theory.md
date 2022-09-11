@@ -28,8 +28,8 @@ The core aspect of CDT is mathematically represented by the fact it uses probabi
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
-- [[Evidential Decision Theory]] (`= [[Evidential Decision Theory]].status`)
+- [[Decision Theory|Decision theory]]
+- [[Evidential Decision Theory]]
 
 
 %%

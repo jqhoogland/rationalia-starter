@@ -28,8 +28,8 @@ The implication of the problem of the criterion is that knowledge cannot be well
 
 **Related Pages:**
 
-- [[Epistemology|epistemology]] (`= [[Epistemology|epistemology]].status`)
-- [[Truth, Semantics, & Meaning]] (`= [[Truth, Semantics, & Meaning]].status`)
+- [[Epistemology|epistemology]]
+- [[Truth, Semantics, & Meaning]]
 
 
 %%

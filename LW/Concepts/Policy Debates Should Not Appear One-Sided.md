@@ -22,10 +22,10 @@ Almost any course of action has both costs and benefits: optimizing for one valu
 
 ## See Also
 
-- [[Preference]] (`= [[Preference]].status`)
-- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
-- [[Game Theory|Game theory]] (`= [[Game Theory|Game theory]].status`)
-- [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
+- [[Preference]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Game Theory|Game theory]]
+- [[Blues & Greens (metaphor)|Color politics]]
 
 
 %%

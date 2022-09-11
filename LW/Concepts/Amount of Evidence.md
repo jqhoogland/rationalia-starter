@@ -29,9 +29,9 @@ We often find it convenient to express the **amount of evidence** in terms of lo
 ## See Also
 
 - [Bayes' theorem](/tag/bayes-theorem)
-- [[Evidence]] (`= [[Evidence]].status`)
-- [[Locate The Hypothesis|Locate the hypothesis]] (`= [[Locate The Hypothesis|Locate the hypothesis]].status`)
-- [[Bayesian Probability|Bayesian probability]] (`= [[Bayesian Probability|Bayesian probability]].status`)
+- [[Evidence]]
+- [[Locate The Hypothesis|Locate the hypothesis]]
+- [[Bayesian Probability|Bayesian probability]]
 
 ## References
 

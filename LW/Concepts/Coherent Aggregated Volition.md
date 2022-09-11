@@ -39,8 +39,8 @@ Finally, Goertzel feels that it seems like CEV bypasses an essential aspect of b
 ## See Also
 
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-- [[Coherent Extrapolated Volition]] (`= [[Coherent Extrapolated Volition]].status`)
-- [[Utility Functions]] (`= [[Utility Functions]].status`)
+- [[Coherent Extrapolated Volition]]
+- [[Utility Functions]]
 
 ## References
 

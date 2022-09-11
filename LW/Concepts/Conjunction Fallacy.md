@@ -27,8 +27,8 @@ The conjunction fallacy suggests that one should be [[Burdensome Details|very ca
 
 ## See Also
 
-- [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
-- [[Burdensome Details|Burdensome details]] (`= [[Burdensome Details|Burdensome details]].status`)
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Burdensome Details|Burdensome details]]
 
 
 %%

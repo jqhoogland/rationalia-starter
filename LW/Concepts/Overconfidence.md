@@ -27,9 +27,9 @@ status: todo
 
 ## See Also
 
-- [[Underconfidence]] (`= [[Underconfidence]].status`)
+- [[Underconfidence]]
 - [[Social Status|Status]], [[Humility|Modesty]]
-- [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
+- [[Dangerous Knowledge|Dangerous knowledge]]
 
 
 %%

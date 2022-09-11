@@ -55,9 +55,9 @@ Some overlap with the [[Politics Is The Mind-Killer|Politics is the Mind-Killer]
 
 ## See Also
 
-- [[Groupthink]] (`= [[Groupthink]].status`)
-- [[Halo Effect|Halo effect]] (`= [[Halo Effect|Halo effect]].status`)
-- [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
-- [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
-- [[Politics Is The Mind-Killer|Politics is the Mind-Killer]] (`= [[Politics Is The Mind-Killer|Politics is the Mind-Killer]].status`)
+- [[Groupthink]]
+- [[Halo Effect|Halo effect]]
+- [[Affective Death Spiral|Affective death spiral]]
+- [[Group Rationality|Group rationality]]
+- [[Politics Is The Mind-Killer|Politics is the Mind-Killer]]
 - [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)

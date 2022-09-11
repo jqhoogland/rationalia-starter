@@ -24,7 +24,7 @@ In almost anything, individuals are inferior to groups. Several articles address
 
 ## See Also
 
-- [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
-- [[Rationality Verification|Problem of verifying rationality]] (`= [[Rationality Verification|Problem of verifying rationality]].status`)
+- [[Rationality As Martial Art|Rationality as martial art]]
+- [[Rationality Verification|Problem of verifying rationality]]
 - [Less Wrong meetup groups](/community)
 - [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)

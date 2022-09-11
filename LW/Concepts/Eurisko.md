@@ -40,8 +40,8 @@ The status of the source code for EURISKO is unknown. Since Lenat originally sta
 
 ## See Also
 
-- [[Cyc]] (`= [[Cyc]].status`)
-- [[Heuristic]] (`= [[Heuristic]].status`)
+- [[Cyc]]
+- [[Heuristic]]
 
 ## References
 

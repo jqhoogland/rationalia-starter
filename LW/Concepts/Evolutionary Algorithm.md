@@ -40,9 +40,9 @@ It seems possible that with enough computer power we would be able to produce a 
 
 ## See Also
 
-- [[Evolution]] (`= [[Evolution]].status`)
-- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
-- [[Optimization|Optimization process]] (`= [[Optimization|Optimization process]].status`)
+- [[Evolution]]
+- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]]
+- [[Optimization|Optimization process]]
 
 
 %%

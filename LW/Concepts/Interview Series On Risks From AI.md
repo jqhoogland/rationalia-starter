@@ -74,7 +74,7 @@ The current set of questions:
 
 ## See Also
 
-- [[Muehlhauser Interview Series On AGI|Muehlhauser interview series on AGI]] (`= [[Muehlhauser Interview Series On AGI|Muehlhauser interview series on AGI]].status`)
+- [[Muehlhauser Interview Series On AGI|Muehlhauser interview series on AGI]]
 - [When Will AI Be Created?](http://intelligence.org/2013/05/15/when-will-ai-be-created/)
 - [AI timeline predictions: are we getting better?](http://lesswrong.com/lw/e36/ai_timeline_predictions_are_we_getting_better/)
 - [Stuart Armstrong: How We’re Predicting AI](http://fora.tv/v/c16838), The Singularity Summit 2012

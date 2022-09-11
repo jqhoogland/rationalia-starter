@@ -24,7 +24,7 @@ status: todo
 - [Availability bias](https://wiki.lesswrong.com/wiki/Availability_bias), [Dangerous knowledge](https://lessestwrong.com/tag/dangerous-knowledge)
 - [Dark arts](https://lessestwrong.com/tag/dark-arts), [Arguments as soldiers](https://lessestwrong.com/tag/arguments-as-soldiers), [Rationalization](https://lessestwrong.com/tag/rationalization)
 - [Not technically a lie](https://lessestwrong.com/tag/not-technically-a-lie)
-- [[Anthropics]] (`= [[Anthropics]].status`)
+- [[Anthropics]]
 
 
 %%

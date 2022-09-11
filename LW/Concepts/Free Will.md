@@ -29,4 +29,4 @@ For spoiler posts see [[Free Will (Solution)|free will (solution)]].
 
 ## See Also
 
-- [[How An Algorithm Feels|How an algorithm feels from the inside]] (`= [[How An Algorithm Feels|How an algorithm feels from the inside]].status`)
+- [[How An Algorithm Feels|How an algorithm feels from the inside]]

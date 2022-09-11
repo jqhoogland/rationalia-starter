@@ -71,9 +71,9 @@ To say that someone is using the fallacy of gray is to say that despite not sayi
 ## See Also
 
 - [I don't know](https://wiki.lesswrong.com/wiki/I_don't_know)
-- [[Humility]] (`= [[Humility]].status`)
-- [[Possibility]] (`= [[Possibility]].status`)
-- [[Absolute Certainty|Absolute certainty]] (`= [[Absolute Certainty|Absolute certainty]].status`)
+- [[Humility]]
+- [[Possibility]]
+- [[Absolute Certainty|Absolute certainty]]
 
 
 %%

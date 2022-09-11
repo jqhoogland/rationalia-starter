@@ -16,7 +16,7 @@ status: todo
 
 ## Sequences
 
-- [[Reality & Reason (Sequence)]] (`= [[Reality & Reason (Sequence)]].status`)
-- [[Coordination & Constraint (Sequence)]] (`= [[Coordination & Constraint (Sequence)]].status`)
-- [[Takeoff & Takeover (Sequence)]] (`= [[Takeoff & Takeover (Sequence)]].status`)
-- [[Alignment & Agency (Sequence)]] (`= [[Alignment & Agency (Sequence)]].status`)
+- [[Reality & Reason (Sequence)]]
+- [[Coordination & Constraint (Sequence)]]
+- [[Takeoff & Takeover (Sequence)]]
+- [[Alignment & Agency (Sequence)]]

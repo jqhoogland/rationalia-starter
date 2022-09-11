@@ -30,13 +30,13 @@ book set, these are the most wide-ranging in nature.
 
 ### Curiosity
 
-- [[Is Science Slowing Down?]] (`= [[Is Science Slowing Down?]].status`)
-- [[Research— Rescuers during the Holocaust]] (`= [[Research— Rescuers during the Holocaust]].status`)
-- [[An Untrollable Mathematician]] (`= [[An Untrollable Mathematician]].status`)
-- [[Why did everything take so long?]] (`= [[Why did everything take so long?]].status`)
-- [[Is Clickbait Destroying Our General Intelligence?]] (`= [[Is Clickbait Destroying Our General Intelligence?]].status`)
-- [[What makes people intellectually active?]] (`= [[What makes people intellectually active?]].status`)
-- [[Open question— are minimal circuits daemon-free?]] (`= [[Open question— are minimal circuits daemon-free?]].status`)
-- [[Beyond Astronomical Waste]] (`= [[Beyond Astronomical Waste]].status`)
-- [[Historical mathematicians exhibit a birth order effect too]] (`= [[Historical mathematicians exhibit a birth order effect too]].status`)
-- [[Birth order effect found in Nobel Laureates in Physics]] (`= [[Birth order effect found in Nobel Laureates in Physics]].status`)
+- [[Is Science Slowing Down?]]
+- [[Research— Rescuers during the Holocaust]]
+- [[An Untrollable Mathematician]]
+- [[Why did everything take so long?]]
+- [[Is Clickbait Destroying Our General Intelligence?]]
+- [[What makes people intellectually active?]]
+- [[Open question— are minimal circuits daemon-free?]]
+- [[Beyond Astronomical Waste]]
+- [[Historical mathematicians exhibit a birth order effect too]]
+- [[Birth order effect found in Nobel Laureates in Physics]]

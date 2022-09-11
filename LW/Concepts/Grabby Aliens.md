@@ -25,8 +25,8 @@ status: todo
 
 **Related Pages:**
 
-- [[Great Filter]] (`= [[Great Filter]].status`)
-- [[Anthropics]] (`= [[Anthropics]].status`)
+- [[Great Filter]]
+- [[Anthropics]]
 
 
 %%

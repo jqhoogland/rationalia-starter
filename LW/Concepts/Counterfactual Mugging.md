@@ -57,16 +57,16 @@ In [Two Types of Updatelessness](https://www.lesswrong.com/posts/pneKTZG9KqnSe2R
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
-- [[Acausal Trade|Acausal trade]] (`= [[Acausal Trade|Acausal trade]].status`)
-- [[Newcomb's Problem|Newcomb's problem]] (`= [[Newcomb's Problem|Newcomb's problem]].status`)
+- [[Decision Theory|Decision theory]]
+- [[Acausal Trade|Acausal trade]]
+- [[Newcomb's Problem|Newcomb's problem]]
 - [Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit's_hitchhiker)
 - [Smoker's lesion](https://wiki.lesswrong.com/wiki/Smoker's_lesion)
 - [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
-- [[Sleeping Beauty Paradox|Sleeping Beauty problem]] (`= [[Sleeping Beauty Paradox|Sleeping Beauty problem]].status`)
-- [[Prisoner's Dilemma|Prisoner's dilemma]] (`= [[Prisoner's Dilemma|Prisoner's dilemma]].status`)
-- [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
-- [[Updateless Decision Theory|Updateless decision theory]] (`= [[Updateless Decision Theory|Updateless decision theory]].status`)
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+- [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Pascal's Mugging|Pascal's mugging]]
+- [[Updateless Decision Theory|Updateless decision theory]]
 
 
 %%

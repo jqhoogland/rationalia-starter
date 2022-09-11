@@ -25,7 +25,7 @@ A related idea is that a popular belief is likely to be wrong because the less p
 
 ## See Also
 
-- [[Modesty Argument|Modesty argument]] (`= [[Modesty Argument|Modesty argument]].status`)
+- [[Modesty Argument|Modesty argument]]
 
 
 %%

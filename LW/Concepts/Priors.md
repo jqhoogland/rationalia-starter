@@ -43,9 +43,9 @@ In informal discussion, people often talk about "updating" their priors. This is
 
 ## See Also
 
-- [[Evidence]] (`= [[Evidence]].status`)
-- [[Inductive Bias|Inductive bias]] (`= [[Inductive Bias|Inductive bias]].status`)
-- [[Belief Update|Belief update]] (`= [[Belief Update|Belief update]].status`)
+- [[Evidence]]
+- [[Inductive Bias|Inductive bias]]
+- [[Belief Update|Belief update]]
 
 ## References
 

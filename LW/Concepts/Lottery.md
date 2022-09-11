@@ -23,9 +23,9 @@ A tax on people who are bad at math. Also, a waste of [[Hope|hope]]. You [[Antip
 
 ## See Also
 
-- [[Hope]] (`= [[Hope]].status`)
-- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
-- [[Antiprediction]] (`= [[Antiprediction]].status`)
+- [[Hope]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Antiprediction]]
 
 
 %%

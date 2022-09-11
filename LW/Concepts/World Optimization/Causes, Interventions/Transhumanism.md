@@ -29,12 +29,12 @@ status: todo
 ## See Also
 
 - [H+Pedia](https://wiki.lesswrong.com/wiki/H+Pedia)
-- [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)
-- [[Metaethics Sequence|Metaethics sequence]] (`= [[Metaethics Sequence|Metaethics sequence]].status`)
+- [[Fun Theory|Fun theory]]
+- [[Metaethics Sequence|Metaethics sequence]]
 - [Mind uploading](https://www.lesswrong.com/tag/mind-uploading)
-- [[Cryonics]] (`= [[Cryonics]].status`)
+- [[Cryonics]]
 - [Friendly AI](https://wiki.lesswrong.com/wiki/Friendly_AI)
-- [[Abolitionism]] (`= [[Abolitionism]].status`)
+- [[Abolitionism]]
 
 ## External Links
 

@@ -34,14 +34,14 @@ MIRI's newest decision theory, [[Functional Decision Theory]] (FDT), notes that,
 
 ## See Also
 
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
-- [[Newcomb's Problem|Newcomb's problem]] (`= [[Newcomb's Problem|Newcomb's problem]].status`)
-- [[Counterfactual Mugging|Counterfactual mugging]] (`= [[Counterfactual Mugging|Counterfactual mugging]].status`)
-- [[Smoking Lesion|Smoking lesion]] (`= [[Smoking Lesion|Smoking lesion]].status`)
-- [[Absent-Minded Driver|Absent-minded driver]] (`= [[Absent-Minded Driver|Absent-minded driver]].status`)
-- [[Sleeping Beauty Paradox|Sleeping Beauty problem]] (`= [[Sleeping Beauty Paradox|Sleeping Beauty problem]].status`)
-- [[Prisoner's Dilemma|Prisoner's dilemma]] (`= [[Prisoner's Dilemma|Prisoner's dilemma]].status`)
-- [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
+- [[Decision Theory|Decision theory]]
+- [[Newcomb's Problem|Newcomb's problem]]
+- [[Counterfactual Mugging|Counterfactual mugging]]
+- [[Smoking Lesion|Smoking lesion]]
+- [[Absent-Minded Driver|Absent-minded driver]]
+- [[Sleeping Beauty Paradox|Sleeping Beauty problem]]
+- [[Prisoner's Dilemma|Prisoner's dilemma]]
+- [[Pascal's Mugging|Pascal's mugging]]
 
 %%
 

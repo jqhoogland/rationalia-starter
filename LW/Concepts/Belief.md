@@ -23,11 +23,11 @@ status: todo
 
 ## See Also
 
-- [[Alief]] (`= [[Alief]].status`)
-- [[Belief Update|Belief update]] (`= [[Belief Update|Belief update]].status`)
-- [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
-- [[Beliefs Require Observations|Beliefs require observations]] (`= [[Beliefs Require Observations|Beliefs require observations]].status`)
-- [[Making Beliefs Pay Rent|Making beliefs pay rent]] (`= [[Making Beliefs Pay Rent|Making beliefs pay rent]].status`)
+- [[Alief]]
+- [[Belief Update|Belief update]]
+- [[Belief In Belief|Belief in belief]]
+- [[Beliefs Require Observations|Beliefs require observations]]
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
 
 ## References
 

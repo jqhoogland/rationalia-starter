@@ -33,10 +33,10 @@ A sequence of posts by [Yvain](https://wiki.lesswrong.com/wiki/Yvain).
 
 ## See Also
 
-- [[Priming]] (`= [[Priming]].status`)
+- [[Priming]]
 - [The Science of Winning at Life](https://www.lesswrong.com/tag/the-science-of-winning-at-life) (sequence)
-- [[Alief]] (`= [[Alief]].status`)
-- [[Connotation]] (`= [[Connotation]].status`)
+- [[Alief]]
+- [[Connotation]]
 
 
 %%

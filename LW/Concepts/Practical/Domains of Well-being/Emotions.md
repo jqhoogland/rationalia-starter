@@ -23,10 +23,10 @@ Contrary to the stereotype, [[Rationality|rationality]] doesn't mean denying **e
 
 ## See Also
 
-- [[Alief]] (`= [[Alief]].status`)
+- [[Alief]]
 - [[Truth, Semantics, & Meaning|Truth]], [[Rationality]]
-- [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
-- [[Hollywood Rationality|Hollywood rationality]] (`= [[Hollywood Rationality|Hollywood rationality]].status`)
+- [[Litany of Tarski]]
+- [[Hollywood Rationality|Hollywood rationality]]
 
 %%
 

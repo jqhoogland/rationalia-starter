@@ -25,7 +25,7 @@ The constraints of decision theory are only there to help you win; they don't sp
 ## See Also
 
 - [Rationalists should win](https://wiki.lesswrong.com/wiki/Rationalists_should_win)
-- [[Something To Protect|Something to protect]] (`= [[Something To Protect|Something to protect]].status`)
+- [[Something To Protect|Something to protect]]
 
 
 %%

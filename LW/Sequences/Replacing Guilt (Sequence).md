@@ -28,67 +28,67 @@ Originally posted on [Minding Our Way](https://mindingourway.com/guilt/). There'
 
 ### Preliminaries
 
-- [[Half-assing it with everything you've got]] (`= [[Half-assing it with everything you've got]].status`)
-- [[Failing with abandon]] (`= [[Failing with abandon]].status`)
+- [[Half-assing it with everything you've got]]
+- [[Failing with abandon]]
 
 ### Fighting for Something
 
-- [[Replacing guilt]] (`= [[Replacing guilt]].status`)
-- [[The Stamp Collector]] (`= [[The Stamp Collector]].status`)
-- [[You're allowed to fight for something]] (`= [[You're allowed to fight for something]].status`)
-- [[Caring about something larger than yourself]] (`= [[Caring about something larger than yourself]].status`)
-- [[You don't get to know what you're fighting for]] (`= [[You don't get to know what you're fighting for]].status`)
+- [[Replacing guilt]]
+- [[The Stamp Collector]]
+- [[You're allowed to fight for something]]
+- [[Caring about something larger than yourself]]
+- [[You don't get to know what you're fighting for]]
 
 ### Drop Your Obligations
 
-- [["Should" considered harmful]] (`= [["Should" considered harmful]].status`)
-- [[Not because you "should"]] (`= [[Not because you "should"]].status`)
-- [[Your "shoulds" are not a duty]] (`= [[Your "shoulds" are not a duty]].status`)
+- [["Should" considered harmful]]
+- [[Not because you "should"]]
+- [[Your "shoulds" are not a duty]]
 
 ### Half Monkey, Half God
 
-- [[Working yourself ragged is not a virtue]] (`= [[Working yourself ragged is not a virtue]].status`)
-- [[Rest in motion]] (`= [[Rest in motion]].status`)
-- [[Shifting guilt]] (`= [[Shifting guilt]].status`)
-- [[Don't steer with guilt]] (`= [[Don't steer with guilt]].status`)
-- [[Update from the suckerpunch]] (`= [[Update from the suckerpunch]].status`)
-- [[Be a new homunculus]] (`= [[Be a new homunculus]].status`)
-- [[Not yet gods]] (`= [[Not yet gods]].status`)
-- [[Where coulds go]] (`= [[Where coulds go]].status`)
-- [[Self compassion]] (`= [[Self compassion]].status`)
-- [[There are no "bad people"]] (`= [[There are no "bad people"]].status`)
-- [[Residing in the mortal realm]] (`= [[Residing in the mortal realm]].status`)
+- [[Working yourself ragged is not a virtue]]
+- [[Rest in motion]]
+- [[Shifting guilt]]
+- [[Don't steer with guilt]]
+- [[Update from the suckerpunch]]
+- [[Be a new homunculus]]
+- [[Not yet gods]]
+- [[Where coulds go]]
+- [[Self compassion]]
+- [[There are no "bad people"]]
+- [[Residing in the mortal realm]]
 
 ### The Dark World
 
-- [[Being unable to despair]] (`= [[Being unable to despair]].status`)
-- [[See the dark world]] (`= [[See the dark world]].status`)
-- [[Choose without suffering]] (`= [[Choose without suffering]].status`)
-- [[Detach the grim-o-meter]] (`= [[Detach the grim-o-meter]].status`)
-- [[Simply locate yourself]] (`= [[Simply locate yourself]].status`)
-- [[Have no excuses]] (`= [[Have no excuses]].status`)
-- [[Come to your terms]] (`= [[Come to your terms]].status`)
-- [[Transmute guilt into resolve]] (`= [[Transmute guilt into resolve]].status`)
-- [[The best you can]] (`= [[The best you can]].status`)
-- [[Dark, not colorless]] (`= [[Dark, not colorless]].status`)
+- [[Being unable to despair]]
+- [[See the dark world]]
+- [[Choose without suffering]]
+- [[Detach the grim-o-meter]]
+- [[Simply locate yourself]]
+- [[Have no excuses]]
+- [[Come to your terms]]
+- [[Transmute guilt into resolve]]
+- [[The best you can]]
+- [[Dark, not colorless]]
 
 ### Fire Within
 
-- [[Stop trying to try and try]] (`= [[Stop trying to try and try]].status`)
-- [[There is no try]] (`= [[There is no try]].status`)
-- [[Obvious advice]] (`= [[Obvious advice]].status`)
-- [[The art of response]] (`= [[The art of response]].status`)
-- [[Confidence all the way up]] (`= [[Confidence all the way up]].status`)
-- [[Desperation]] (`= [[Desperation]].status`)
-- [[Recklessness]] (`= [[Recklessness]].status`)
-- [[Defiance]] (`= [[Defiance]].status`)
-- [[How we will be measured]] (`= [[How we will be measured]].status`)
+- [[Stop trying to try and try]]
+- [[There is no try]]
+- [[Obvious advice]]
+- [[The art of response]]
+- [[Confidence all the way up]]
+- [[Desperation]]
+- [[Recklessness]]
+- [[Defiance]]
+- [[How we will be measured]]
 
 ### Related
 
-- [[On Caring]] (`= [[On Caring]].status`)
-- [[The Value of a Life]] (`= [[The Value of a Life]].status`)
-- [[Moving towards the goal]] (`= [[Moving towards the goal]].status`)
-- [[Self-signaling the ability to do what you want]] (`= [[Self-signaling the ability to do what you want]].status`)
-- [[Productivity through self-loyalty]] (`= [[Productivity through self-loyalty]].status`)
-- [[Conclusion of the Replacing Guilt series]] (`= [[Conclusion of the Replacing Guilt series]].status`)
+- [[On Caring]]
+- [[The Value of a Life]]
+- [[Moving towards the goal]]
+- [[Self-signaling the ability to do what you want]]
+- [[Productivity through self-loyalty]]
+- [[Conclusion of the Replacing Guilt series]]

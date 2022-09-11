@@ -48,7 +48,7 @@ A popular variant is the Iterated Prisoner's Dilemma, where two agents play the 
 - [Smoking lesion](https://wiki.lesswrong.com/wiki/Smoking_lesion)
 - [Absentminded driver](https://wiki.lesswrong.com/wiki/Absentminded_driver)
 - [Pascal's mugging](https://wiki.lesswrong.com/wiki/Pascal%27s_mugging)
-- [[ Cooperation|Coordination/Cooperation]] (`= [[ Cooperation|Coordination/Cooperation]].status`)
+- [[ Cooperation|Coordination/Cooperation]]
 
 ## References
 

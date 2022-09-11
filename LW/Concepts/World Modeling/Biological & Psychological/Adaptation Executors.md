@@ -27,11 +27,11 @@ Evolution is ultimately just a historical-statistical macrofact about which ance
 ## See Also
 
 - [[Evolution]], [[Stupidity of Evolution|stupidity of evolution]]
-- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
-- [[Superstimuli|Superstimulus]] (`= [[Superstimuli|Superstimulus]].status`)
-- [[Goodhart's Law|Goodhart's law]] (`= [[Goodhart's Law|Goodhart's law]].status`)
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology|Evolutionary psychology]]
+- [[Superstimuli|Superstimulus]]
+- [[Goodhart's Law|Goodhart's law]]
 - [[Signaling]], [[Social Status|status]]
-- [[Corrupted Hardware|Corrupted hardware]] (`= [[Corrupted Hardware|Corrupted hardware]].status`)
+- [[Corrupted Hardware|Corrupted hardware]]
 
 %%
 

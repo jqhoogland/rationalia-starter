@@ -25,14 +25,14 @@ Politics is a hard subject to discuss rationally. Correspondingly, LessWrong has
 
 ### LessWrong Political Prerequisites
 
-- [[Politics is the Mind-Killer]] (`= [[Politics is the Mind-Killer]].status`)
-- [[Policy Debates Should Not Appear One-Sided]] (`= [[Policy Debates Should Not Appear One-Sided]].status`)
-- [[The Scales of Justice, the Notebook of Rationality]] (`= [[The Scales of Justice, the Notebook of Rationality]].status`)
-- [[Correspondence Bias]] (`= [[Correspondence Bias]].status`)
-- [[Are Your Enemies Innately Evil?]] (`= [[Are Your Enemies Innately Evil?]].status`)
-- [[Reversed Stupidity Is Not Intelligence]] (`= [[Reversed Stupidity Is Not Intelligence]].status`)
-- [[Argument Screens Off Authority]] (`= [[Argument Screens Off Authority]].status`)
-- [[Hug the Query]] (`= [[Hug the Query]].status`)
-- [[Rationality and the English Language]] (`= [[Rationality and the English Language]].status`)
-- [[Human Evil and Muddled Thinking]] (`= [[Human Evil and Muddled Thinking]].status`)
-- [[Politics is hard mode]] (`= [[Politics is hard mode]].status`)
+- [[Politics is the Mind-Killer]]
+- [[Policy Debates Should Not Appear One-Sided]]
+- [[The Scales of Justice, the Notebook of Rationality]]
+- [[Correspondence Bias]]
+- [[Are Your Enemies Innately Evil?]]
+- [[Reversed Stupidity Is Not Intelligence]]
+- [[Argument Screens Off Authority]]
+- [[Hug the Query]]
+- [[Rationality and the English Language]]
+- [[Human Evil and Muddled Thinking]]
+- [[Politics is hard mode]]

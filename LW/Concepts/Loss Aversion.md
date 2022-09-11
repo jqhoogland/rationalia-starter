@@ -22,9 +22,9 @@ status: todo
 
 ## See Also
 
-- [[Prospect Theory|Prospect theory]] (`= [[Prospect Theory|Prospect theory]].status`)
+- [[Prospect Theory|Prospect theory]]
 - [Risk aversion](https://wiki.lesswrong.com/wiki/Risk_aversion)
-- [[Sunk-Cost Fallacy|Sunk cost fallacy]] (`= [[Sunk-Cost Fallacy|Sunk cost fallacy]].status`)
+- [[Sunk-Cost Fallacy|Sunk cost fallacy]]
 
 
 %%

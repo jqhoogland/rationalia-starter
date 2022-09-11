@@ -28,11 +28,11 @@ The Modesty Argument is inspired by [[Aumann's Agreement Theorem|Aumann's agreem
 
 ## See Also
 
-- [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)
-- [[Aumann's Agreement Theorem|Aumann's agreement theorem]] (`= [[Aumann's Agreement Theorem|Aumann's agreement theorem]].status`)
-- [[Disagreement]] (`= [[Disagreement]].status`)
-- [[Error of Crowds|Error of crowds]] (`= [[Error of Crowds|Error of crowds]].status`)
-- [[Information Cascades|Information cascade]] (`= [[Information Cascades|Information cascade]].status`)
+- [[Humility|Modesty]]
+- [[Aumann's Agreement Theorem|Aumann's agreement theorem]]
+- [[Disagreement]]
+- [[Error of Crowds|Error of crowds]]
+- [[Information Cascades|Information cascade]]
 
 
 %%

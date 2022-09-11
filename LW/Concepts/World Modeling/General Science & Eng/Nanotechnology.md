@@ -33,7 +33,7 @@ When [discussing](http://intelligence.org/files/AIPosNegFactor.pdf) the developm
 
 ## See Also
 
-- [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
+- [[Exploratory Engineering|Exploratory engineering]]
 - [[Rational Evidence|Rational evidence]], [[Science]]
 
 

@@ -18,8 +18,8 @@ A precondition of Aumann's agreement theorem and its numerous generalizations is
 
 ## See Also
 
-- [[Aumann's Agreement Theorem]] (`= [[Aumann's Agreement Theorem]].status`)
-- [[Bayes' Theorem]] (`= [[Bayes' Theorem]].status`)
+- [[Aumann's Agreement Theorem]]
+- [[Bayes' Theorem]]
 
 ## External References
 

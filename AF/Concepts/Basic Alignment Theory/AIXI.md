@@ -62,8 +62,8 @@ AIXI has limitations as a model for future AGI, for example, the [[Anvil Problem
 
 ## **See also**
 
-- [[Solomonoff Induction|Solomonoff induction]] (`= [[Solomonoff Induction|Solomonoff induction]].status`)
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Solomonoff Induction|Solomonoff induction]]
+- [[Decision Theory|Decision theory]]
 
 
 %%

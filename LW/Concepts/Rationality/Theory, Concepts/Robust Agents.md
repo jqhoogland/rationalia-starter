@@ -18,4 +18,4 @@ status: done
 
 ## See Also
 
-- [[Agency]] (`= [[Agency]].status`)
+- [[Agency]]

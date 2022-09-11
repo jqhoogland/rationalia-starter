@@ -18,8 +18,8 @@ status: todo
 
 ## Sequences
 
-- [[Epistemology (Sequence)]] (`= [[Epistemology (Sequence)]].status`)
-- [[Agency (Sequence)]] (`= [[Agency (Sequence)]].status`)
-- [[Coordination (Sequence)]] (`= [[Coordination (Sequence)]].status`)
-- [[Curiosity (Sequence)]] (`= [[Curiosity (Sequence)]].status`)
-- [[Alignment (Sequence)]] (`= [[Alignment (Sequence)]].status`)
+- [[Epistemology (Sequence)]]
+- [[Agency (Sequence)]]
+- [[Coordination (Sequence)]]
+- [[Curiosity (Sequence)]]
+- [[Alignment (Sequence)]]

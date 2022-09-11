@@ -23,13 +23,13 @@ One might even have excellent epistemological performance in one domain and terr
 ## See Also
 
 - [[Semantic Stopsign|Semantic stopsign]], [[Anti-Epistemology|Anti-epistemology]]
-- [[Cached Thoughts|Cached thought]] (`= [[Cached Thoughts|Cached thought]].status`)
+- [[Cached Thoughts|Cached thought]]
 - [[Shut Up and Multiply|Shut up and multiply]], [[Bite The Bullet|Bite the bullet]], [[Absurdity Heuristic|Absurdity heuristic]]
-- [[Dangerous Knowledge|Dangerous knowledge]] (`= [[Dangerous Knowledge|Dangerous knowledge]].status`)
+- [[Dangerous Knowledge|Dangerous knowledge]]
 - [[General Knowledge|General knowledge]], [[Understanding]]
-- [[Alief]] (`= [[Alief]].status`)
-- [[Aversion|Ugh field]] (`= [[Aversion|Ugh field]].status`)
-- [[Distinctions]] (`= [[Distinctions]].status`)
+- [[Alief]]
+- [[Aversion|Ugh field]]
+- [[Distinctions]]
 
 
 %%

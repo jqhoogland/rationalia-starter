@@ -18,10 +18,10 @@ Becoming more [epistemically rational](https://wiki.lesswrong.com/wiki/Rationali
 
 ## See Also
 
-- [[Value of Rationality]] (`= [[Value of Rationality]].status`)
-- [[Valley of Bad Rationality|Valley of bad rationality]] (`= [[Valley of Bad Rationality|Valley of bad rationality]].status`)
+- [[Value of Rationality]]
+- [[Valley of Bad Rationality|Valley of bad rationality]]
 - [[Debiasing]], [[Dangerous Knowledge|Dangerous knowledge]]
-- [[Bounded Rationality|Bounded rationality]] (`= [[Bounded Rationality|Bounded rationality]].status`)
+- [[Bounded Rationality|Bounded rationality]]
 - [[Rationality]], [[Truth, Semantics, & Meaning|Truth]]
 
 ## Blog Posts

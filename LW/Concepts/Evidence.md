@@ -31,9 +31,9 @@ The [[Likelihood Ratio|likelihood ratio]] term \\(\\frac{P(B | A)}{P(B|\\neg A)
 ## See Also
 
 - [[Rational Evidence|Rational evidence]], [[Evidence of Absence|Evidence of absence]], [[Extraordinary Evidence|Extraordinary evidence]]
-- [[Filtered Evidence|Filtered evidence]] (`= [[Filtered Evidence|Filtered evidence]].status`)
-- [[Generalization From Fictional Evidence|Generalization from fictional evidence]] (`= [[Generalization From Fictional Evidence|Generalization from fictional evidence]].status`)
-- [[Conservation of Expected Evidence|Conservation of expected evidence]] (`= [[Conservation of Expected Evidence|Conservation of expected evidence]].status`)
+- [[Filtered Evidence|Filtered evidence]]
+- [[Generalization From Fictional Evidence|Generalization from fictional evidence]]
+- [[Conservation of Expected Evidence|Conservation of expected evidence]]
 
 
 %%

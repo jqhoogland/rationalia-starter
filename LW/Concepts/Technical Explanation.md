@@ -24,8 +24,8 @@ Technical explanations are contrasted with verbal explanations, which give the i
 
 ## See Also
 
-- [[Making Beliefs Pay Rent|Making beliefs pay rent]] (`= [[Making Beliefs Pay Rent|Making beliefs pay rent]].status`)
-- [[Beliefs Require Observations|Beliefs require observations]] (`= [[Beliefs Require Observations|Beliefs require observations]].status`)
+- [[Making Beliefs Pay Rent|Making beliefs pay rent]]
+- [[Beliefs Require Observations|Beliefs require observations]]
 
 ## References
 

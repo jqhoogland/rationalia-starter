@@ -22,7 +22,7 @@ In other cases, we may still think the phenomenon exists in the territory, but n
 
 ## See Also
 
-- [[How An Algorithm Feels]] (`= [[How An Algorithm Feels]].status`)
+- [[How An Algorithm Feels]]
 
 
 %%

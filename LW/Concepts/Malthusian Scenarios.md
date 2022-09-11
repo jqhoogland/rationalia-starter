@@ -40,7 +40,7 @@ Whilst food production has expanded in the developed world, its sustainability c
 
 ## See Also
 
-- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]] (`= [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]].status`)
+- [[Economic Consequences of AGI|Economic consequences of AI and whole brain emulation]]
 
 
 %%

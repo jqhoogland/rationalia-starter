@@ -23,10 +23,10 @@ In this crazy world, there's no simple procedure you can follow, no finite check
 
 ## See Also
 
-- [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]]
 - [[Science]], [[Rational Evidence|Rational evidence]]
-- [[Motivated Reasoning|Motivated cognition]] (`= [[Motivated Reasoning|Motivated cognition]].status`)
-- [[Modesty Argument|Modesty argument]] (`= [[Modesty Argument|Modesty argument]].status`)
+- [[Motivated Reasoning|Motivated cognition]]
+- [[Modesty Argument|Modesty argument]]
 
 
 %%

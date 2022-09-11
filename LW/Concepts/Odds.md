@@ -50,8 +50,8 @@ The prior odds of the box containing a diamond are 1:19. The likelihood ratio of
 
 ## See Also
 
-- [[Log odds|Log odds]] (`= [[Log odds|Log odds]].status`)
-- [[Likelihood Ratio|Likelihood ratio]] (`= [[Likelihood Ratio|Likelihood ratio]].status`)
+- [[Log odds|Log odds]]
+- [[Likelihood Ratio|Likelihood ratio]]
 
 
 %%

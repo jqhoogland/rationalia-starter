@@ -26,8 +26,8 @@ If the likelihood ratio is known, Bayesian updates are faster and more intuitive
 
 ## See Also
 
-- [[Bayes' Theorem|Bayes' theorem]] (`= [[Bayes' Theorem|Bayes' theorem]].status`)
-- [[Evidence]] (`= [[Evidence]].status`)
+- [[Bayes' Theorem|Bayes' theorem]]
+- [[Evidence]]
 
 
 %%

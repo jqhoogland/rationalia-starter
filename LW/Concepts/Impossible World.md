@@ -20,7 +20,7 @@ status: todo
 
 ## See Also
 
-- [[Possible World|Possible world]] (`= [[Possible World|Possible world]].status`)
+- [[Possible World|Possible world]]
 
 
 %%

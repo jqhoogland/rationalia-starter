@@ -24,7 +24,7 @@ Empathic inference is often wrongly used to predict the behavior of non-human ag
 
 ## See Also
 
-- [[Anthropomorphism]] (`= [[Anthropomorphism]].status`)
+- [[Anthropomorphism]]
 - [Theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind)
 
 

@@ -22,25 +22,25 @@ status: todo
 
 ### Background Material
 
-- [[Sorting Out Sticky Brains]] (`= [[Sorting Out Sticky Brains]].status`)
-- [[Mental Crystallography]] (`= [[Mental Crystallography]].status`)
-- [[Generalizing From One Example]] (`= [[Generalizing From One Example]].status`)
+- [[Sorting Out Sticky Brains]]
+- [[Mental Crystallography]]
+- [[Generalizing From One Example]]
 
 ### Living Luminously
 
-- [[Living Luminously]] (`= [[Living Luminously]].status`)
-- [[You Are Likely To Be Eaten By A Grue]] (`= [[You Are Likely To Be Eaten By A Grue]].status`)
-- [[Let There Be Light]] (`= [[Let There Be Light]].status`)
-- [[The ABC's of Luminosity]] (`= [[The ABC's of Luminosity]].status`)
-- [[Lights, Camera, Action!]] (`= [[Lights, Camera, Action!]].status`)
-- [[The Spotlight]] (`= [[The Spotlight]].status`)
-- [[Highlights and Shadows]] (`= [[Highlights and Shadows]].status`)
-- [[City of Lights]] (`= [[City of Lights]].status`)
-- [[Lampshading]] (`= [[Lampshading]].status`)
+- [[Living Luminously]]
+- [[You Are Likely To Be Eaten By A Grue]]
+- [[Let There Be Light]]
+- [[The ABC's of Luminosity]]
+- [[Lights, Camera, Action!]]
+- [[The Spotlight]]
+- [[Highlights and Shadows]]
+- [[City of Lights]]
+- [[Lampshading]]
 
 ### Bonus Posts
 
-- [[Ureshiku Naritai]] (`= [[Ureshiku Naritai]].status`)
-- [[A Suite of Pragmatic Considerations in Favor of Niceness]] (`= [[A Suite of Pragmatic Considerations in Favor of Niceness]].status`)
-- [[On Enjoying Disagreeable Company]] (`= [[On Enjoying Disagreeable Company]].status`)
-- [[Seven Shiny Stories]] (`= [[Seven Shiny Stories]].status`)
+- [[Ureshiku Naritai]]
+- [[A Suite of Pragmatic Considerations in Favor of Niceness]]
+- [[On Enjoying Disagreeable Company]]
+- [[Seven Shiny Stories]]

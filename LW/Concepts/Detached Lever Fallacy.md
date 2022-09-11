@@ -32,7 +32,7 @@ But if that machinery isn't there - if you're writing "apple" as five ASCII lett
 
 ## See Also
 
-- [[Fake Simplicity|Fake simplicity]] (`= [[Fake Simplicity|Fake simplicity]].status`)
+- [[Fake Simplicity|Fake simplicity]]
 - [[Semantic Stopsign|Semantic stopsign]], [[Cached Thoughts|Cached thought]]
 - [Guessing the teacher's password](https://wiki.lesswrong.com/wiki/Guessing_the_teacher's_password)
 

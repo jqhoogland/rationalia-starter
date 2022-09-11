@@ -24,10 +24,10 @@ To form accurate [[Belief|beliefs]] about something, you *really* do have to obs
 
 ## See Also
 
-- [[Evidence]] (`= [[Evidence]].status`)
-- [[Belief Update|Belief update]] (`= [[Belief Update|Belief update]].status`)
-- [[Belief In Belief|Belief in belief]] (`= [[Belief In Belief|Belief in belief]].status`)
-- [[Free-Floating Belief|Free-floating belief]] (`= [[Free-Floating Belief|Free-floating belief]].status`)
+- [[Evidence]]
+- [[Belief Update|Belief update]]
+- [[Belief In Belief|Belief in belief]]
+- [[Free-Floating Belief|Free-floating belief]]
 
 
 %%

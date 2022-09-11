@@ -19,9 +19,9 @@ The first two books, [Map and Territory](https://smile.amazon.com/Map-Territory-
 
 # Books
 
-- [[LW/Books/Map and Territory]] (`= [[Map and Territory]].status`)
-- [[How to Actually Change Your Mind]] (`= [[How to Actually Change Your Mind]].status`)
-- [[The Machine in the Ghost]] (`= [[The Machine in the Ghost]].status`)
-- [[Mere Reality]] (`= [[Mere Reality]].status`)
-- [[Mere Goodness]] (`= [[Mere Goodness]].status`)
-- [[Becoming Stronger]] (`= [[Becoming Stronger]].status`)
+- [[LW/Books/Map and Territory]]
+- [[How to Actually Change Your Mind]]
+- [[The Machine in the Ghost]]
+- [[Mere Reality]]
+- [[Mere Goodness]]
+- [[Becoming Stronger]]

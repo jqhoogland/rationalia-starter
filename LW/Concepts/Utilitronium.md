@@ -20,7 +20,7 @@ Utilitronium shockwave is a process of converting all matter in the universe int
 
 ## See Also
 
-- [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
+- [[Utility Functions|Utility function]]
 - [[Hedon]], [Utils](https://wiki.lesswrong.com/wiki/Utils)
 - [[Paperclip Maximizer|Paperclip maximizer]], [[Complexity of Value|Complexity of value]]
 - [Hedonium](https://wiki.lesswrong.com/wiki/Hedonium), the hedonistic utilitarian version of utilitronium

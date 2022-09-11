@@ -28,7 +28,7 @@ This sort of bias is not a bad thing - without "inductive bias" you can't draw a
 
 ## See Also
 
-- [[Superexponential Conceptspace|Superexponential conceptspace]] (`= [[Superexponential Conceptspace|Superexponential conceptspace]].status`)
+- [[Superexponential Conceptspace|Superexponential conceptspace]]
 - [Prior distribution](https://wiki.lesswrong.com/wiki/Prior_distribution)
 - [Statistical bias](https://www.lesswrong.com/tag/statistical-bias)
 - [Cognitive bias](https://wiki.lesswrong.com/wiki/Cognitive_bias)

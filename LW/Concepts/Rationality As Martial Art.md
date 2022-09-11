@@ -32,11 +32,11 @@ The metaphor is intended to have complex connotations, rather than being strictl
 
 ## See Also
 
-- [[Rationality Verification|Problem of verifying rationality]] (`= [[Rationality Verification|Problem of verifying rationality]].status`)
-- [[Rationality]] (`= [[Rationality]].status`)
-- [[Group Rationality|Group rationality]] (`= [[Group Rationality|Group rationality]].status`)
-- [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
-- [[No Safe Defense|No safe defense]] (`= [[No Safe Defense|No safe defense]].status`)
+- [[Rationality Verification|Problem of verifying rationality]]
+- [[Rationality]]
+- [[Group Rationality|Group rationality]]
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]]
+- [[No Safe Defense|No safe defense]]
 
 ## References
 

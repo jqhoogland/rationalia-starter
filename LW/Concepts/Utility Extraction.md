@@ -39,9 +39,9 @@ Another possibility is described in [The Singularity and Machine Ethics](http://
 
 ## See Also
 
-- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
-- [[Utility Functions|Utility function]] (`= [[Utility Functions|Utility function]].status`)
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Complexity of Value|Complexity of value]]
+- [[Utility Functions|Utility function]]
+- [[Decision Theory|Decision theory]]
 
 
 %%

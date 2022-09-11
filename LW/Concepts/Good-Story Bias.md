@@ -26,8 +26,8 @@ Optimizing predictions for sounding good as stories, when nature optimizes for n
 
 ## See Also
 
-- [[Narrative Fallacy|Narrative fallacy]] (`= [[Narrative Fallacy|Narrative fallacy]].status`)
-- [[Generalization From Fictional Evidence|Generalization from fictional evidence]] (`= [[Generalization From Fictional Evidence|Generalization from fictional evidence]].status`)
+- [[Narrative Fallacy|Narrative fallacy]]
+- [[Generalization From Fictional Evidence|Generalization from fictional evidence]]
 
 
 %%

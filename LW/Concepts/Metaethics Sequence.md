@@ -18,9 +18,9 @@ Posts directly about metaethics were published primarily from [June 20 2008](htt
 
 ## See Also
 
-- [[Complexity of Value|Complexity of value]] (`= [[Complexity of Value|Complexity of value]].status`)
-- [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)
-- [[No-Nonsense Metaethics]] (`= [[No-Nonsense Metaethics]].status`)
+- [[Complexity of Value|Complexity of value]]
+- [[Fun Theory|Fun theory]]
+- [[No-Nonsense Metaethics]]
 
 ## Blog Posts (in Primary sequence)
 

@@ -45,12 +45,12 @@ Some other prominent ideas to grow out of the lesswrong community (by members of
 - [Beeminder](https://www.beeminder.com/)
 - [Complice](https://complice.co/)
 - [Mealsquares](http://www.mealsquares.com/)
-- [[Effective Altruism|Effective altruism]] (`= [[Effective Altruism|Effective altruism]].status`)
-- [[Slate Star Codex]] (`= [[Slate Star Codex]].status`)
+- [[Effective Altruism|Effective altruism]]
+- [[Slate Star Codex]]
 
 Lesswrong is still active and activity can also be found in the diaspora communities:
 
-- [[List of Blogs]] (`= [[List of Blogs]].status`)
+- [[List of Blogs]]
 - [Less Wrong meetup groups](https://www.lesswrong.com/about_meetup_groups)
 - [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
 - [Less Wrong users on twitter](http://lesswrong.com/r/discussion/lw/d92/less_wrong_on_twitter/)
@@ -61,7 +61,7 @@ Lesswrong is still active and activity can also be found in the diaspora communi
 
 - [Discord](https://wiki.lesswrong.com/wiki/Discord)
 - [Less Wrong IRC Chatroom](https://www.lesswrong.com/about_IRC_Chatroom)
-- [[LW/Concepts/Slack]] (`= [[Slack]].status`)
+- [[LW/Concepts/Slack]]
 - [Study Hall](https://wiki.lesswrong.com/wiki/Study_Hall)
 
 ## The View From 2016

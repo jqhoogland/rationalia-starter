@@ -22,18 +22,18 @@ We certainly shouldn’t reject it just because it sounds strange or feels vague
 
 ### Physicalism 201
 
-- [[Hand vs. Fingers]] (`= [[Hand vs. Fingers]].status`)
-- [[Angry Atoms]] (`= [[Angry Atoms]].status`)
-- [[Heat vs. Motion]] (`= [[Heat vs. Motion]].status`)
-- [[Brain Breakthrough! It's Made of Neurons!]] (`= [[Brain Breakthrough! It's Made of Neurons!]].status`)
-- [[When Anthropomorphism Became Stupid]] (`= [[When Anthropomorphism Became Stupid]].status`)
-- [[A Priori]] (`= [[A Priori]].status`)
-- [[Reductive Reference]] (`= [[Reductive Reference]].status`)
-- [[Zombies! Zombies?]] (`= [[Zombies! Zombies?]].status`)
-- [[Zombie Responses]] (`= [[Zombie Responses]].status`)
-- [[The Generalized Anti-Zombie Principle]] (`= [[The Generalized Anti-Zombie Principle]].status`)
-- [[GAZP vs. GLUT]] (`= [[GAZP vs. GLUT]].status`)
-- [[Belief in the Implied Invisible]] (`= [[Belief in the Implied Invisible]].status`)
-- [[Zombies— The Movie]] (`= [[Zombies— The Movie]].status`)
-- [[Excluding the Supernatural]] (`= [[Excluding the Supernatural]].status`)
-- [[Psychic Powers]] (`= [[Psychic Powers]].status`)
+- [[Hand vs. Fingers]]
+- [[Angry Atoms]]
+- [[Heat vs. Motion]]
+- [[Brain Breakthrough! It's Made of Neurons!]]
+- [[When Anthropomorphism Became Stupid]]
+- [[A Priori]]
+- [[Reductive Reference]]
+- [[Zombies! Zombies?]]
+- [[Zombie Responses]]
+- [[The Generalized Anti-Zombie Principle]]
+- [[GAZP vs. GLUT]]
+- [[Belief in the Implied Invisible]]
+- [[Zombies— The Movie]]
+- [[Excluding the Supernatural]]
+- [[Psychic Powers]]

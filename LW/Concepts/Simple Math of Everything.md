@@ -79,8 +79,8 @@ Blog Posts
 See Also
 ========
 
-- [[General Knowledge|General knowledge]] (`= [[General Knowledge|General knowledge]].status`)
-- [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
+- [[General Knowledge|General knowledge]]
+- [[Technical Explanation|Technical explanation]]
 
 
 %%

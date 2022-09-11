@@ -34,10 +34,10 @@ status: todo
 
 ## See Also
 
-- [[Truth, Semantics, & Meaning|Truth]] (`= [[Truth, Semantics, & Meaning|Truth]].status`)
-- [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
-- [[Joy In The Merely Real|Joy in the merely real]] (`= [[Joy In The Merely Real|Joy in the merely real]].status`)
-- [[Focusing]] (`= [[Focusing]].status`)
+- [[Truth, Semantics, & Meaning|Truth]]
+- [[Litany of Tarski]]
+- [[Joy In The Merely Real|Joy in the merely real]]
+- [[Focusing]]
 
 
 %%

@@ -38,10 +38,10 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) on how to do things that 
 
 ## See Also
 
-- [[Tsuyoku Naritai|Tsuyoku naritai]] (`= [[Tsuyoku Naritai|Tsuyoku naritai]].status`)
-- [[Egalitarianism]] (`= [[Egalitarianism]].status`)
-- [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
-- [[Rationality Is Systematized Winning|Rationality is systematized winning]] (`= [[Rationality Is Systematized Winning|Rationality is systematized winning]].status`)
+- [[Tsuyoku Naritai|Tsuyoku naritai]]
+- [[Egalitarianism]]
+- [[Rationality As Martial Art|Rationality as martial art]]
+- [[Rationality Is Systematized Winning|Rationality is systematized winning]]
 
 
 %%

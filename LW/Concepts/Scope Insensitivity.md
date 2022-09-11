@@ -25,12 +25,12 @@ The human brain can't *emotionally* represent large quantities; an environmental
 
 ## See Also
 
-- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Shut Up and Multiply|Shut up and multiply]]
 - [[Expected Utility|Expected utility]], [[Utilitarianism]]
-- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
+- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]]
 - [[Emotions|Emotion]], [[Alief|alief]]
-- [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
-- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[Pascal's Mugging|Pascal's mugging]]
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]]
 
 
 %%

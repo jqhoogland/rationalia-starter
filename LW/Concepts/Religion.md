@@ -20,11 +20,11 @@ status: todo
 
 - [[Groupthink]], [[Affective Death Spiral|Affective death spiral]]
 - [[Belief In Belief|Belief in belief]], [[Improper Belief|improper belief]]
-- [[Epistemic Hygiene|Epistemic hygiene]] (`= [[Epistemic Hygiene|Epistemic hygiene]].status`)
-- [[Truth, Semantics, & Meaning|Truth]] (`= [[Truth, Semantics, & Meaning|Truth]].status`)
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Truth, Semantics, & Meaning|Truth]]
 - [[Rationalization]], [[Self-Deception|self-deception]]
 - [[Magic]], [[Fake Simplicity|fake simplicity]]
-- [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+- [[Absurdity Heuristic|Absurdity heuristic]]
 - [Third alternative](https://wiki.lesswrong.com/wiki/Third_alternative)
 - [Mysterious Answers to Mysterious Questions](https://www.lesswrong.com/tag/mysterious-answers-to-mysterious-questions)
 

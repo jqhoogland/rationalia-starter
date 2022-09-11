@@ -32,9 +32,9 @@ The same process can also occur with negative beliefs instead of positive, leadi
 
 - [[Affect Heuristic|Affect heuristic]], [[Halo Effect|Halo effect]], [[Motivated Skepticism|Motivated skepticism]]
 - [[Information Cascades|Information cascade]], [[Groupthink]]
-- [[In-Group Bias|In-group bias]] (`= [[In-Group Bias|In-group bias]].status`)
-- [[Religion]] (`= [[Religion]].status`)
-- [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]] (`= [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]].status`)
+- [[In-Group Bias|In-group bias]]
+- [[Religion]]
+- [[Death Spirals and The Cult Attractor|Death Spirals and the Cult Attractor]]
 
 
 %%

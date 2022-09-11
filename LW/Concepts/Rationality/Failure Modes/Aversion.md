@@ -43,12 +43,12 @@ The ugh field forms a self-shadowing blind spot covering an area desperately in 
 ## Related Pages
 
 - Non-tags: [Semantic stopsign](https://wiki.lesswrong.com/wiki/Curiosity_stopper)
-- [[Akrasia]] (`= [[Akrasia]].status`)
-- [[Compartmentalization]] (`= [[Compartmentalization]].status`)
-- [[Motivated Reasoning|Motivated reasoning]] (`= [[Motivated Reasoning|Motivated reasoning]].status`)
-- [[Motivations]] (`= [[Motivations]].status`)
-- [[Priming]] (`= [[Priming]].status`)
-- [[Trivial Inconvenience|Trivial inconvenience]] (`= [[Trivial Inconvenience|Trivial inconvenience]].status`)
+- [[Akrasia]]
+- [[Compartmentalization]]
+- [[Motivated Reasoning|Motivated reasoning]]
+- [[Motivations]]
+- [[Priming]]
+- [[Trivial Inconvenience|Trivial inconvenience]]
 
 
 %%

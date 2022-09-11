@@ -30,8 +30,8 @@ If so much potential is lost every year, one could conclude that we should start
 
 ## See Also
 
-- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
-- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]] (`= [[Existential Risk|Existential risk]].status`)
+- [[Utilitarianism]]
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]]
 
 
 %%

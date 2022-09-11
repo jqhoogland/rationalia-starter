@@ -29,7 +29,7 @@ status: todo
 See also
 ========
 
-- [[ Suprise-o-meter|Inner Simulator / Surprise-o-meter]] (`= [[ Suprise-o-meter|Inner Simulator / Surprise-o-meter]].status`)
+- [[ Suprise-o-meter|Inner Simulator / Surprise-o-meter]]
 
 
 %%

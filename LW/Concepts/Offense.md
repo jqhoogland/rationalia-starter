@@ -22,7 +22,7 @@ It is hypothesized that the [[Emotions|emotion]] of **offense** appears when one
 
 ## See Also
 
-- [[Social Status|Status]] (`= [[Social Status|Status]].status`)
+- [[Social Status|Status]]
 
 
 %%

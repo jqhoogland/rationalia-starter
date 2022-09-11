@@ -24,10 +24,10 @@ Persisting in clutching to a hope may be disastrous. Be ready to admit you lost,
 
 ## See Also
 
-- [[Fuzzies]] (`= [[Fuzzies]].status`)
-- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
+- [[Fuzzies]]
+- [[Shut Up and Multiply|Shut up and multiply]]
 - [Lotteries](https://wiki.lesswrong.com/wiki/Lotteries)
-- [[Oops]] (`= [[Oops]].status`)
+- [[Oops]]
 
 
 %%

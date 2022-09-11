@@ -18,6 +18,6 @@ Why haven’t we evolved to be more rational? Even taking into account resource 
 
 # Sequences
 
-- [[The Simple Math of Evolution (Sequence)]] (`= [[The Simple Math of Evolution (Sequence)]].status`)
-- [[Fragile Purposes (Sequence)]] (`= [[Fragile Purposes (Sequence)]].status`)
-- [[A Human's Guide to Words (Sequence)]] (`= [[A Human's Guide to Words (Sequence)]].status`)
+- [[The Simple Math of Evolution (Sequence)]]
+- [[Fragile Purposes (Sequence)]]
+- [[A Human's Guide to Words (Sequence)]]

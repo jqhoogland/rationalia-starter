@@ -21,12 +21,12 @@ There are a number of situations in which the absurdity heuristic is wrong. A de
 
 ## See Also
 
-- [[Representativeness Heuristic|Representativeness heuristic]] (`= [[Representativeness Heuristic|Representativeness heuristic]].status`)
-- [[Shut Up and Multiply|Shut up and multiply]] (`= [[Shut Up and Multiply|Shut up and multiply]].status`)
-- [[Antiprediction]] (`= [[Antiprediction]].status`)
-- [[Epistemic Hygiene|Epistemic hygiene]] (`= [[Epistemic Hygiene|Epistemic hygiene]].status`)
-- [[Exploratory Engineering|Exploratory engineering]] (`= [[Exploratory Engineering|Exploratory engineering]].status`)
-- [[Illusion of Transparency|Illusion of transparency]] (`= [[Illusion of Transparency|Illusion of transparency]].status`)
+- [[Representativeness Heuristic|Representativeness heuristic]]
+- [[Shut Up and Multiply|Shut up and multiply]]
+- [[Antiprediction]]
+- [[Epistemic Hygiene|Epistemic hygiene]]
+- [[Exploratory Engineering|Exploratory engineering]]
+- [[Illusion of Transparency|Illusion of transparency]]
 - [[Status Quo Bias|Status quo bias]], [[Reversal Test|Reversal test]]
 
 ## External References

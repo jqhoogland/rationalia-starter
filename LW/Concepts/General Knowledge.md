@@ -32,11 +32,11 @@ Interdisciplinary, generally applicable knowledge is rarely taught explicitly. Y
 
 ## See Also
 
-- [[Simple Math of Everything|Simple math of everything]] (`= [[Simple Math of Everything|Simple math of everything]].status`)
+- [[Simple Math of Everything|Simple math of everything]]
 - [Separate magisteria](https://wiki.lesswrong.com/wiki/Separate_magisteria)
-- [[Science]] (`= [[Science]].status`)
-- [[Scholarship & Learning|Scholarship]] (`= [[Scholarship & Learning|Scholarship]].status`)
-- [[Understanding]] (`= [[Understanding]].status`)
+- [[Science]]
+- [[Scholarship & Learning|Scholarship]]
+- [[Understanding]]
 
 
 %%

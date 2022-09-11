@@ -20,9 +20,9 @@ This is relevant to LessWrong both because it seems to be generally an important
 
 See Also:
 
-- [[War]] (`= [[War]].status`)
-- [[Nuclear War]] (`= [[Nuclear War]].status`)
-- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk]] (`= [[Existential Risk]].status`)
+- [[War]]
+- [[Nuclear War]]
+- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk]]
 
 
 %%

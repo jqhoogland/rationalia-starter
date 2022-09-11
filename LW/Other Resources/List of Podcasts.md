@@ -42,9 +42,9 @@ List of podcasts from the [diaspora](https://wiki.lesswrong.com/wiki/diaspora) a
 ## See Also
 
 - [Grognor's podcast and other audio recommendations](http://grognor.stacky.net/index.php?title=Audio_Content)
-- [[List of Blogs]] (`= [[List of Blogs]].status`)
+- [[List of Blogs]]
 - [List of communities](https://wiki.lesswrong.com/wiki/List_of_communities)
-- [[Audio]] (`= [[Audio]].status`)
+- [[Audio]]
 
 
 %%

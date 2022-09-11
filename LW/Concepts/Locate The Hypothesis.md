@@ -32,10 +32,10 @@ In 1919, Sir Arthur Eddington led expeditions to Brazil and to the island of Pri
 
 ## See Also
 
-- [[Amount of Evidence|Amount of evidence]] (`= [[Amount of Evidence|Amount of evidence]].status`)
-- [[Privileging The Hypothesis|Privileging the hypothesis]] (`= [[Privileging The Hypothesis|Privileging the hypothesis]].status`)
-- [[Technical Explanation|Technical explanation]] (`= [[Technical Explanation|Technical explanation]].status`)
-- [[Priors]] (`= [[Priors]].status`)
+- [[Amount of Evidence|Amount of evidence]]
+- [[Privileging The Hypothesis|Privileging the hypothesis]]
+- [[Technical Explanation|Technical explanation]]
+- [[Priors]]
 
 
 %%

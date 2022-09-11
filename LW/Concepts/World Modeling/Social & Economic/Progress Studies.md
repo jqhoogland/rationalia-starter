@@ -21,7 +21,7 @@ status: todo
 
 ## See Also:
 
-- [[History]] (`= [[History]].status`)
+- [[History]]
 
 ## Origin of the Name
 

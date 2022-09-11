@@ -102,7 +102,7 @@ Yudkowsky has also written a more recent sequence:
 
 Sequences of essays by [**Scott Alexander**](https://wiki.lesswrong.com/wiki/Yvain) include:
 
-- [[Positivism, Self Deception, and Neuroscience (Sequence)|Positivism, Self Deception, and Neuroscience]] (`= [[Positivism, Self Deception, and Neuroscience (Sequence)|Positivism, Self Deception, and Neuroscience]].status`)
+- [[Positivism, Self Deception, and Neuroscience (Sequence)|Positivism, Self Deception, and Neuroscience]]
 - [Priming and Implicit Association](https://wiki.lesswrong.com/wiki/Priming_and_Implicit_Association_(sequence)). Priming may be described as the capability of any random stimulus to commandeer your thinking and judgement for the next several minutes. Scared? Don't be. There exist ways to defend yourself against these kinds of intrusions, and there are even methods to harness them into useful testing mechanisms.
 - [The Blue-Minimizing Robot](https://wiki.lesswrong.com/wiki/The_Blue-Minimizing_Robot_(sequence))
 - [Introduction to Game Theory](http://lesswrong.com/lw/dbe/introduction_to_game_theory_sequence_guide)

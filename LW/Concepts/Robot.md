@@ -251,8 +251,8 @@ See also
 ========
 
 - [Rationality power tools](https://wiki.lesswrong.com/wiki/Rationality_power_tools)
-- [[Prediction Markets|Prediction market]] (`= [[Prediction Markets|Prediction market]].status`)
-- [[Predictionbook|PredictionBook]] (`= [[Predictionbook|PredictionBook]].status`)
+- [[Prediction Markets|Prediction market]]
+- [[Predictionbook|PredictionBook]]
 
 
 %%

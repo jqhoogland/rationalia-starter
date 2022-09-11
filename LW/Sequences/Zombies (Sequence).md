@@ -28,8 +28,8 @@ A [[Sequences|subsequence]] of [[Reductionism (Sequence)|Reductionism]] on the p
 
 ## See Also
 
-- [[Zombies]] (`= [[Zombies]].status`)
-- [[Reductionism (Sequence)|Reductionism (sequence)]] (`= [[Reductionism (Sequence)|Reductionism (sequence)]].status`)
+- [[Zombies]]
+- [[Reductionism (Sequence)|Reductionism (sequence)]]
 
 
 %%

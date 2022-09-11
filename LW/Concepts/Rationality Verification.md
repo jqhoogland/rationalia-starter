@@ -28,11 +28,11 @@ status: todo
 
 ## See Also
 
-- [[ Problem-Sets]] (`= [[ Problem-Sets]].status`)
+- [[ Problem-Sets]]
 - [The Craft and the Community](https://www.lesswrong.com/tag/the-craft-and-the-community)
-- [[Rationality]] (`= [[Rationality]].status`)
-- [[Rationality As Martial Art|Rationality as martial art]] (`= [[Rationality As Martial Art|Rationality as martial art]].status`)
-- [[Decision Theory|Decision theory]] (`= [[Decision Theory|Decision theory]].status`)
+- [[Rationality]]
+- [[Rationality As Martial Art|Rationality as martial art]]
+- [[Decision Theory|Decision theory]]
 
 
 %%

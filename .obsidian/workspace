@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EA/Sequences/Our Final Century?.md",
+            "file": "LW/Books/Highlights from the Sequences (Book).md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EA/Sequences/Our Final Century?.md"
+                "file": "LW/Books/Highlights from the Sequences (Book).md"
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EA/Sequences/Our Final Century?.md",
+                "file": "LW/Books/Highlights from the Sequences (Book).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "eabadff7be0e1729",
   "lastOpenFiles": [
+    "LW/Collections/Best of LessWrong.md",
+    "LW/Books/Highlights from the Sequences (Book).md",
+    "LW/Collections/The Codex.md",
+    "EA/Books/Introduction to Effective Altruism.md",
+    "EA/Collections/The effective altruism handbook.md",
+    "EA/Sequences/Our Final Century?.md",
     "EA/Sequences/What could the future hold? And why care?.md",
     "EA/Sequences/Smarter than us.md",
     "EA/Sequences/What do you think?.md",
-    "EA/Sequences/Putting it into practice.md",
-    "EA/Sequences/Our Final Century?.md",
-    "EA/Sequences/Differences in Impact.md",
-    "EA/Sequences/Radical Empathy.md",
-    "EA/Sequences/The Effectiveness Mindset.md",
-    "EA/Sequences/Part 8— Putting it into Practice (Sequence).md",
-    "EA/Sequences/Replacing Guilt (Sequence).md"
+    "EA/Sequences/Putting it into practice.md"
   ]
 }

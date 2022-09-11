@@ -20,10 +20,10 @@ And [[Feeling Rational|Yudkowsky's extension]]: That which the truth nourishes s
 
 ## See Also
 
-- [[12 Virtues|Virtues of Rationality]] (`= [[12 Virtues|Virtues of Rationality]].status`)
-- [[Litany of Tarski]] (`= [[Litany of Tarski]].status`)
-- [[Litany of Gendlin]] (`= [[Litany of Gendlin]].status`)
-- [[Litany of Occam]] (`= [[Litany of Occam]].status`)
+- [[12 Virtues|Virtues of Rationality]]
+- [[Litany of Tarski]]
+- [[Litany of Gendlin]]
+- [[Litany of Occam]]
 
 
 %%

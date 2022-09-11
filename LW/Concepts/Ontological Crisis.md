@@ -34,7 +34,7 @@ This crisis, in the context of an [AGI](https://wiki.lesswrong.com/wiki/AGI), co
 
 ## See Also
 
-- [[Evolution]] (`= [[Evolution]].status`)
+- [[Evolution]]
 - [Adaptation executers](https://wiki.lesswrong.com/wiki/Adaptation_executers)
 
 

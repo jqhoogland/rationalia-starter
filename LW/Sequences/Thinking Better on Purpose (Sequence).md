@@ -22,12 +22,12 @@ Humans can not only think, but think about our own thinking. This makes it possi
 
 ### Thinking Better on Purpose
 
-- [[The Lens That Sees Its Flaws]] (`= [[The Lens That Sees Its Flaws]].status`)
-- [[What Do We Mean By "Rationality"?]] (`= [[What Do We Mean By "Rationality"?]].status`)
-- [[Humans are not automatically strategic]] (`= [[Humans are not automatically strategic]].status`)
-- [[Use the Try Harder, Luke]] (`= [[Use the Try Harder, Luke]].status`)
-- [[Your Strength as a Rationalist]] (`= [[Your Strength as a Rationalist]].status`)
-- [[The Meditation on Curiosity]] (`= [[The Meditation on Curiosity]].status`)
-- [[The Importance of Saying "Oops"]] (`= [[The Importance of Saying "Oops"]].status`)
-- [[The Martial Art of Rationality]] (`= [[The Martial Art of Rationality]].status`)
-- [[Twelve Virtues of Rationality]] (`= [[Twelve Virtues of Rationality]].status`)
+- [[The Lens That Sees Its Flaws]]
+- [[What Do We Mean By "Rationality"?]]
+- [[Humans are not automatically strategic]]
+- [[Use the Try Harder, Luke]]
+- [[Your Strength as a Rationalist]]
+- [[The Meditation on Curiosity]]
+- [[The Importance of Saying "Oops"]]
+- [[The Martial Art of Rationality]]
+- [[Twelve Virtues of Rationality]]

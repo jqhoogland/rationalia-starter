@@ -30,10 +30,10 @@ Often, it is sufficient to see the privileged possibility as but one among many 
 ## See Also
 
 - [[Privileging The Hypothesis|Privileging the hypothesis]], [[Burdensome Details|Burdensome details]]
-- [[Fallacy of Gray|Fallacy of gray]] (`= [[Fallacy of Gray|Fallacy of gray]].status`)
-- [[Status Quo Bias|Status quo bias]] (`= [[Status Quo Bias|Status quo bias]].status`)
+- [[Fallacy of Gray|Fallacy of gray]]
+- [[Status Quo Bias|Status quo bias]]
 - [[Forecasting & Prediction|Prediction]], [[Possibility]]
-- [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
+- [[Absurdity Heuristic|Absurdity heuristic]]
 
 
 %%

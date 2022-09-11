@@ -23,7 +23,7 @@ status: todo
 ## See Also
 
 - [[Reductionism (Sequence)|Reductionism (sequence)]], [[Joy In The Merely Real|Joy in the Merely Real]]
-- [[Fun Theory|Fun theory]] (`= [[Fun Theory|Fun theory]].status`)
+- [[Fun Theory|Fun theory]]
 
 
 %%

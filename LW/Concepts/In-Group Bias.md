@@ -23,10 +23,10 @@ status: todo
 
 ## See Also
 
-- [[Conformity Bias|Conformity bias]] (`= [[Conformity Bias|Conformity bias]].status`)
-- [[Blues & Greens (metaphor)|Color politics]] (`= [[Blues & Greens (metaphor)|Color politics]].status`)
-- [[Halo Effect|Halo effect]] (`= [[Halo Effect|Halo effect]].status`)
-- [[Affective Death Spiral|Affective death spiral]] (`= [[Affective Death Spiral|Affective death spiral]].status`)
+- [[Conformity Bias|Conformity bias]]
+- [[Blues & Greens (metaphor)|Color politics]]
+- [[Halo Effect|Halo effect]]
+- [[Affective Death Spiral|Affective death spiral]]
 - [[Social Status|Status]], [[Signaling|signaling]]
 
 

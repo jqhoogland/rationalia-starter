@@ -22,17 +22,17 @@ Yudkowsky uses this scientific controversy as a proving ground for some central 
 
 ### Quantum Physics and Many Worlds
 
-- [[Quantum Explanations]] (`= [[Quantum Explanations]].status`)
-- [[Configurations and Amplitude]] (`= [[Configurations and Amplitude]].status`)
-- [[Joint Configurations]] (`= [[Joint Configurations]].status`)
-- [[Distinct Configurations]] (`= [[Distinct Configurations]].status`)
-- [[Collapse Postulates]] (`= [[Collapse Postulates]].status`)
-- [[Decoherence is Simple]] (`= [[Decoherence is Simple]].status`)
-- [[Decoherence is Falsifiable and Testable]] (`= [[Decoherence is Falsifiable and Testable]].status`)
-- [[Privileging the Hypothesis]] (`= [[Privileging the Hypothesis]].status`)
-- [[Living in Many Worlds]] (`= [[Living in Many Worlds]].status`)
-- [[Quantum Non-Realism]] (`= [[Quantum Non-Realism]].status`)
-- [[If Many-Worlds Had Come First]] (`= [[If Many-Worlds Had Come First]].status`)
-- [[Where Philosophy Meets Science]] (`= [[Where Philosophy Meets Science]].status`)
-- [[Thou Art Physics]] (`= [[Thou Art Physics]].status`)
-- [[Many Worlds, One Best Guess]] (`= [[Many Worlds, One Best Guess]].status`)
+- [[Quantum Explanations]]
+- [[Configurations and Amplitude]]
+- [[Joint Configurations]]
+- [[Distinct Configurations]]
+- [[Collapse Postulates]]
+- [[Decoherence is Simple]]
+- [[Decoherence is Falsifiable and Testable]]
+- [[Privileging the Hypothesis]]
+- [[Living in Many Worlds]]
+- [[Quantum Non-Realism]]
+- [[If Many-Worlds Had Come First]]
+- [[Where Philosophy Meets Science]]
+- [[Thou Art Physics]]
+- [[Many Worlds, One Best Guess]]

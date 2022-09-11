@@ -35,9 +35,9 @@ The best-known use of infinity in ethics is probably [Pascal's wager](http://en.
 
 ## See Also
 
-- [[Pascal's Mugging|Pascal's mugging]] (`= [[Pascal's Mugging|Pascal's mugging]].status`)
-- [[Utilitarianism]] (`= [[Utilitarianism]].status`)
-- [[Quick Reference Guide To The Infinite|Quick reference guide to the infinite]] (`= [[Quick Reference Guide To The Infinite|Quick reference guide to the infinite]].status`)
+- [[Pascal's Mugging|Pascal's mugging]]
+- [[Utilitarianism]]
+- [[Quick Reference Guide To The Infinite|Quick reference guide to the infinite]]
 
 
 %%

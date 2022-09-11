@@ -22,9 +22,9 @@ status: todo
 
 ## See Also
 
-- [[Artificial General Intelligence|Artificial general intelligence]] (`= [[Artificial General Intelligence|Artificial general intelligence]].status`)
+- [[Artificial General Intelligence|Artificial general intelligence]]
 - [[Anthropomorphism]], [[Alien Values|Alien values]]
-- [[Evolution As Alien God|Evolution as alien god]] (`= [[Evolution As Alien God|Evolution as alien god]].status`)
+- [[Evolution As Alien God|Evolution as alien god]]
 - [[Paperclip Maximizer|Paperclip maximizer]], [[Magical Categories|Magical categories]]
 
 

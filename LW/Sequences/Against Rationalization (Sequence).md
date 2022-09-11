@@ -20,17 +20,17 @@ The last sequence focused in on how feeling tribal often distorts our ability to
 
 ### Against Rationalization
 
-- [[Knowing About Biases Can Hurt People]] (`= [[Knowing About Biases Can Hurt People]].status`)
-- [[Update Yourself Incrementally]] (`= [[Update Yourself Incrementally]].status`)
-- [[One Argument Against An Army]] (`= [[One Argument Against An Army]].status`)
-- [[The Bottom Line]] (`= [[The Bottom Line]].status`)
-- [[What Evidence Filtered Evidence?]] (`= [[What Evidence Filtered Evidence?]].status`)
-- [[Rationalization (Post)]] (`= [[Rationalization]].status`)
-- [[A Rational Argument]] (`= [[A Rational Argument]].status`)
-- [[Avoiding Your Belief's Real Weak Points]] (`= [[Avoiding Your Belief's Real Weak Points]].status`)
-- [[Motivated Stopping and Motivated Continuation]] (`= [[Motivated Stopping and Motivated Continuation]].status`)
-- [[Fake Justification]] (`= [[Fake Justification]].status`)
-- [[Is That Your True Rejection?]] (`= [[Is That Your True Rejection?]].status`)
-- [[Entangled Truths, Contagious Lies]] (`= [[Entangled Truths, Contagious Lies]].status`)
-- [[Of Lies and Black Swan Blowups]] (`= [[Of Lies and Black Swan Blowups]].status`)
-- [[Dark Side Epistemology]] (`= [[Dark Side Epistemology]].status`)
+- [[Knowing About Biases Can Hurt People]]
+- [[Update Yourself Incrementally]]
+- [[One Argument Against An Army]]
+- [[The Bottom Line]]
+- [[What Evidence Filtered Evidence?]]
+- [[Rationalization (Post)]]
+- [[A Rational Argument]]
+- [[Avoiding Your Belief's Real Weak Points]]
+- [[Motivated Stopping and Motivated Continuation]]
+- [[Fake Justification]]
+- [[Is That Your True Rejection?]]
+- [[Entangled Truths, Contagious Lies]]
+- [[Of Lies and Black Swan Blowups]]
+- [[Dark Side Epistemology]]
