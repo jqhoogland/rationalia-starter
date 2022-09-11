@@ -30,7 +30,7 @@ status: todo
 - "[histogram of Ultima Online guild sizes](http://www.lifewithalacrity.com/2005/08/dunbar_world_of.html)"
 - "[Yee and Ducheneaut](http://blogs.parc.com/playon/archives/2005/10/guilds_max_subg.html)"
 - "[Life With Alacrity](http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[saith Tooby and Cosmides](http://www.psych.ucsb.edu/research/cep/primer.html)"
 - [[Existential Angst Factory]]
 - "[EEA](http://en.wikipedia.org/wiki/Environment_of_evolutionary_adaptedness#Environment_of_evolutionary_adaptedness)"

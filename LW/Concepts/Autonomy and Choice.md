@@ -15,14 +15,4 @@ status: todo
 # Autonomy and Choice
 
 
-%%
 
-% START
-Basic (and reversed card)
-What is **Autonomy and Choice**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

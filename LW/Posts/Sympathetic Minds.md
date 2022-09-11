@@ -27,7 +27,7 @@ book: Mere Goodness
 # Related
 
 - [[Complexity of Value]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Humans in Funny Suits]]
 - "[inference](/lw/sr/the_comedy_of_behaviorism/)"
 - [[The Gift We Give To Tomorrow]]

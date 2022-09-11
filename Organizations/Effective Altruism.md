@@ -33,7 +33,7 @@ A fourth semi-area is:
 
 From this, we can see a vast number of charities do not meet all or indeed any of these criteria. A major issue with EA is that some areas are much easier to track progress in than others (think tracking the cost per life saved of malaria nets vs existential [[AI]] risk, for instance). What is clear, however, is that some of the more effective charities (of those which *are* easy to track) have [far more benefit over the average charity than people think](https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/)\-\- perhaps as much as 10,000% as effective.
 
-A large portion of the EA community are by and large, **longtermist**. This refers to the idea that, if there are many future generations (100s, 1000s or more), and their lives are as valuable as ours, then even very small impacts on all of their lives-- or things like moving good changes forwards in time or bad ones back-- far outweigh impacts on people who are currently alive. Because this concept is less broadly-accepted than charity for currently-alive people, longtermist solutions are also generally considered to be neglected. Longtermist interventions generally focus on [[Risks of Astronomical Suffering (S-risks)|S-risks]] or [[LW/Concepts/Existential Risk|X-risks]].
+A large portion of the EA community are by and large, **longtermist**. This refers to the idea that, if there are many future generations (100s, 1000s or more), and their lives are as valuable as ours, then even very small impacts on all of their lives-- or things like moving good changes forwards in time or bad ones back-- far outweigh impacts on people who are currently alive. Because this concept is less broadly-accepted than charity for currently-alive people, longtermist solutions are also generally considered to be neglected. Longtermist interventions generally focus on [[Risks of Astronomical Suffering (S-risks)|S-risks]] or [[Existential Risk|X-risks]].
 
 Examples of longtermist interventions include [[AI]] safety, pandemic preparedness, and [[Nanotechnology|nanotechnology]] security. Examples of other popular EA interventions include global poverty alleviation, malaria treatments, and vitamin supplementation in sub-saharan Africa.
  
@@ -123,7 +123,7 @@ Zhang, Linchuan (2021) [The motivated reasoning critique of effective altruism]
 - [[Cause Prioritization]] (`= [[Cause Prioritization]].status`)
 - [Utilitarianism](https://lessestwrong.com/tag/utilitarianism)
 - [[Risks of Astronomical Suffering (S-risks)|S-risk]] (`= [[Risks of Astronomical Suffering (S-risks)|S-risk]].status`)
-- [[LW/Concepts/Existential Risk|X-risk]] (`= [[LW/Concepts/Existential Risk|X-risk]].status`)
+- [[Existential Risk|X-risk]] (`= [[LW/Concepts/Existential Risk|X-risk]].status`)
 
 ## External Resources
 

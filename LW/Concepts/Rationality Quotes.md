@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:25.620Z'
-status: todo
+status: done
 ---
 
 # Rationality Quotes
@@ -20,17 +20,4 @@ It started as a series of posts by Eliezer Yudkowsky on Overcoming Bias, posting
 
 Rationality Quotes threads got fewer and fewer comments during the [2015-2017 Less Wrong decline](https://www.lesswrong.com/posts/S69ogAGXcc9EQjpcZ/a-brief-history-of-lesswrong), and the last thread was for April-June 2017.
 
-See also: [[Open Threads]], [[History of Rationality]], [[Humor]]
-
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Rationality Quotes**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	
+See also: [[History of Rationality]], [[Humor]]

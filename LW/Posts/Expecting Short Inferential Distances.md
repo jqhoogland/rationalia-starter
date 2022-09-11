@@ -33,7 +33,7 @@ book: 'Map and Territory '
 
 - [[Inferential Distance]]
 - [[Rationality]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Conversation (Topic)]]
 - [[Public Discourse]]
 - [[Illusion of Transparency]]

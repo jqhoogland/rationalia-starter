@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a21eb7939ee5f7eb",
+        "id": "5fe958409ad21234",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Concepts/Absurdity Heuristic.md",
+            "file": "LW/Collections.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "78310523c0247c7f",
         "type": "tabs",
-        "dimension": 83.97435897435898,
+        "dimension": 42.01451905626135,
         "children": [
           {
             "id": "92830efe01fd330c",
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Risks from Learned Optimization— Introduction",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,7 @@
       {
         "id": "402f879634acba83",
         "type": "tabs",
-        "dimension": 16.025641025641026,
+        "dimension": 57.98548094373865,
         "children": [
           {
             "id": "fdb757c5f7b55ec6",
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Concepts/Absurdity Heuristic.md"
+                "file": "LW/Collections.md"
               }
             }
           }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5036315917969
+    "width": 421.5036315917969
   },
   "right": {
     "id": "5d9113a947b0f31a",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Concepts/Absurdity Heuristic.md",
+                "file": "LW/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "a21eb7939ee5f7eb",
+  "active": "66ed81a64e92146c",
   "lastOpenFiles": [
-    "LW/Concepts/Abstraction.md",
-    "LW/Concepts/Absolute Certainty.md",
-    "LW/Concepts/Absent-Minded Driver.md",
-    "LW/Concepts/12 Virtues.md",
-    "LW/Concepts/Abolitionism.md",
-    "AF/Concepts/Extensibility Argument For Greater-Than-Human Intelligence.md",
-    "LW/Concepts/The Signaling Trilemma.md",
-    "AF/Concepts/Transparency, Interpretability (ML & AI).md",
-    "AF/Concepts/Whole Brain Emulation.md",
-    "AF/Concepts/Wireheading.md"
+    "LW/Collections/The Codex.md",
+    "LW/Collections.md",
+    "LW/Books/Good and Bad Reasoning.md",
+    "Plan.md",
+    "AF/Books/Cracking the Coding Interview.md",
+    "EA/Other Resources/Deep Learning @ VU.md",
+    "AF/Courses/Practical Deep Learning for Coders.md",
+    "AF/Courses/OpenAI's Spinning Up.md",
+    "AF/Concepts/Other/Reinforcement Learning.md",
+    "AF/Courses/Intro to ML Safety.md"
   ]
 }

@@ -24,7 +24,7 @@ status: todo
 # Related
 
 - [[Self-Deception]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Signaling]]
 - "[theory of consciousness](http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBgQFjAA&url=http%3A%2F%2Fanthro.rutgers.edu%2Fcomponent%2Fdocman%2Fdoc_download%2F245-trivers2000&rct=j&q=The%20Elements%20of%20a%20Scientific%20Theory%20of%20Self-Deception&ei=FrYcTsqTOoyRgQfT1vXLCQ&usg=AFQjCNHRtGfuRT67Slb8pJ1MjhITFnAPFA&sig2=FTk_Slncxn-lL0QfM-aHQQ&cad=rja)"
 - "[Truth Wizards](http://en.wikipedia.org/wiki/Wizards_Project)"

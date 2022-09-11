@@ -30,7 +30,7 @@ book: The Machine in the Ghost
 - [[Evolution]]
 - [[Human Universal]]
 - [[An Alien God]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - "[In every known culture, humans seem to experience joy, sadness, fear, disgust, anger, and surprise. In every known culture, these emotions are indicated by the same facial expressions.](/lw/rl/the_psychological_unity_of_humankind/)"
 - "[that goes with being a sexually reproducing species](/lw/rl/the_psychological_unity_of_humankind/)"
 - [[Changing Your Metaethics]]

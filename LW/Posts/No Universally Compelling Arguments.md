@@ -31,7 +31,7 @@ book: Mere Goodness
 - "[Yesterday](/lw/rm/the_design_space_of_mindsingeneral/)"
 - [[Ghosts in the Machine]]
 - "[map](/lw/rj/surface_analogies_and_deep_causes/)"
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[A Priori]]
 - "[priors](/lw/hk/priors_as_mathematical_objects/)"
 - "[another mind](/lw/hk/priors_as_mathematical_objects/)"

@@ -31,11 +31,11 @@ book: The Machine in the Ghost
 - [[Your Strength as a Rationalist]]
 - [[Focus Your Uncertainty]]
 - [[Absence of Evidence Is Evidence of Absence]]
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
 - [[Belief in Belief]]
 - [[What Evidence Filtered Evidence?]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Professing and Cheering]]
 - [[Belief as Attire]]
 - "[beliefs](https://www.lesswrong.com/lw/i8/religions_claim_to_be_nondisprovable/)"

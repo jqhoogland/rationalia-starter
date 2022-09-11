@@ -17,14 +17,5 @@ status: todo
 See also [[Physics]], [[Astrobiology]], [[Great Filter]]
 
 
-%%
 
-% START
-Basic (and reversed card)
-What is **Astronomy**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
 	

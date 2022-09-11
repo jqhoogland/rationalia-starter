@@ -29,4 +29,4 @@ book: Mere Goodness
 - [[Ethics & Morality]]
 - "[replied](/lw/q5/quantum_nonrealism/)"
 - [[How to Convince Me That 2 + 2 = 3]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]

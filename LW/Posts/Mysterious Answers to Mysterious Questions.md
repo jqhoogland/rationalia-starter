@@ -28,7 +28,7 @@ author: Eliezer Yudkowsky
 # Related
 
 - [[Reductionism]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Rationality]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - "[relinquish their ignorance](https://www.lesswrong.com/rationality/twelve-virtues-of-rationality)"

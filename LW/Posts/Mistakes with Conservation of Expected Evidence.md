@@ -33,10 +33,10 @@ book: The Engines of Cognition
 
 # Related
 
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[Hansonian Pre-Rationality]]
 - [[Pitfalls of Rationality]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Inside/Outside View]]
 - [[Humility]]
 - [[Anthropics]]

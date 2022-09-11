@@ -22,6 +22,6 @@ status: todo
 
 # Related
 
-- [[Goal Factoring]]
+- [[LW/Concepts/Rationality/Techniques/Goal Factoring]]
 - [[Motivations]]
 - "[blue-minimizing robot](/lw/6ha/the_blueminimizing_robot/)"

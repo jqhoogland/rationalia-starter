@@ -20,7 +20,7 @@ A common [[Failure mode]] is failing to notice a **Distinction** between two or 
 
 Thus, making and noticing distinctions is a core skill.
 
-**See also:** [[Decoupling vs Contextualizing]], [[Conflict vs Mistake]], [[Compartmentalization]], [[Bucket Errors]], [[Map and Territory]], [[Fallacy of Gray]], [Wanting and liking](https://www.lesswrong.com/tag/wanting-and-liking)
+**See also:** [[Decoupling vs Contextualizing]], [[Conflict vs Mistake]], [[Compartmentalization]], [[Bucket Errors]], [[LW/Rationality/Theory, Concepts/Map and Territory]], [[Fallacy of Gray]], [Wanting and liking](https://www.lesswrong.com/tag/wanting-and-liking)
 
 **External Links:**
 

@@ -42,5 +42,5 @@ book: The Machine in the Ghost
 - "[Kolmogorov complexity / message length](/lw/jp/occams_razor/)"
 - [[Thou Art Godshatter]]
 - [[Not for the Sake of Happiness (Alone)]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Leaky Generalizations]]

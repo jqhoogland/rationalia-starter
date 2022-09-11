@@ -36,7 +36,7 @@ book: Mere Reality
 - [[Uncritical Supercriticality]]
 - [[Mutual Information, and Density in Thingspace]]
 - [[Superexponential Conceptspace, and Simple Words]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Reversed Stupidity Is Not Intelligence]]
 - [[Feeling Rational]]
 - "[no more worth believing in than the postman](/lw/ou/if_you_demand_magic_magic_wont_help/)"

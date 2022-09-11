@@ -12,9 +12,33 @@ tags:
   - AI
 sequence: AGI safety from first principles
 author: Richard_Ngo
-status: todo
+status: done
 ---
 
+# AGI Safety From First Principles: Control
+
+[[Takeoff & Takeover (Sequence)|Takeover]] is not guaranteed. But it seems likely.
+
+- More intelligence = greater ability to acquire power (in coordination & technology)
+- If humans + aligned AGIs are less capable than misaligned AGIs, the misaligned AGIs will gain more power.
+
+Disaster scenarios
+
+- [[What failure looks like#Out with a whimper]]. See also [[The Age of Em]]
+- [[What failure looks like#Out with a bang]] ([[Singularity]], [[Intelligence Explosion]])
+
+[[AI Timelines]]
+
+- [[Takeoff & Takeover (Sequence)|Takeoff]]. Ngo expects fast growth but no discontinuous jump.
+	- Competition in AGI likely trims low-hanging fruit
+	- Compute availability grows continuously
+	- Continuous technological progress is more common than discontinuous progress %% I have a hard time evaluating this claim %%
+
+[[Relaxed adversarial training for inner alignment|Broad approaches]]
+
+- [[Transparency, Interpretability (ML & AI)|Interpretability tools]]
+- Incentives towards transparency
+- More interpretable algorithms & architectures (model-based systems)
 
 # Related
 

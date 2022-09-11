@@ -33,7 +33,7 @@ book: How to Actually Change Your Mind
 - [[The Proper Use of Doubt]]
 - [[We Change Our Minds Less Often Than We Think]]
 - [[One Argument Against An Army]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Original Seeing]]
 - [[The Genetic Fallacy]]
 - "[sunk costs](http://en.wikipedia.org/wiki/Sunk_cost)"

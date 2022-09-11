@@ -12,8 +12,50 @@ tags:
   - AI
 sequence: AGI safety from first principles
 author: Richard_Ngo
-status: todo
+status: done
 ---
+
+# AGI safety from first principles: Goals and Agency
+
+==Why might AIs end up with power over humans?==
+- **Influence-seeking**
+	  ![[Influence-seeking#^2510b5]]
+- Power by accident 
+
+[[Instrumental Convergence|Instrumentally convergent goals are dangerous]] if:
+- The AGI exhibits [[Goal-Directedness|goal-directed agency]]
+- The AGI's goals are sufficiently "large-scale"
+	- Ngo clarifies in the comments that he means "large-scale goals as goals that have a mental "ignore context" tag attached"
+
+Many expect [[Goal-Directedness]] to be the standard outcome, but we aren't sure (maybe we can build [[Tool AI|Tool AIs]]). 
+
+Goals are either:
+- Explicitly selected for ("Design objectives")
+- The agent's own goals
+
+Ngo points out three frameworks for thinking about [[Agency]]:
+- [[VNM Theorem|Expected Utility Maximization]] (Von Neumann & Morgenstern)
+- [[Intentionality#Intentional Stance]] (Daniel Dennett)
+- [[Mesa-Optimization]] (Hubinger et al.)
+
+Ngo isn't quite happy with any of these. 
+- VNM is elegant theory but perhaps *too* broad & not-helpful to constraining our expectations.
+- Dennett's framework has valuable insights but not adequately tractable or simplifying: ![[Intentionality#^d3319f]]
+- The first two don't account for [[Bounded rationality|agents not necessarily being able to take optimal actions for their goals]]
+
+Ngo points out a few more abilities we expected of goal-directed systems:
+- Self-awareness ==Could it be possible for LLMs trained on third-person data to have no theory of self?==
+- Planning (see: [[Myopia|Myopic training]])
+- Consequentialism (weighing plans by value of outcomes)
+- Scale ==How might agents trained on small-scale environments generalize to large-scale goals? (We did it)==
+- Coherence ==Much of the community seems to view coherence as a nasty side-effect of internal conflict & faulty evolution? Could it be a necessary [[superrationality|superrationalist prerequisite]] to developing AGI?==
+- Flexibility
+
+He emphasizes this is neither binary nor exhaustive.
+
+> My underlying argument is that agency is not just an emergent property of highly intelligent systems, but rather a set of capabilities which need to be developed during training, and which won’t arise without selection for it
+
+==To add on, are these capabilities that are attractive? I.e.: do slight selection effects lead to feedback loops?==
 
 # Related
 

@@ -25,12 +25,12 @@ A major theme of the Sequences is the ways in which human reasoning goes astray.
 ### Pitfalls of Human Cognition
 
 - [[The Bottom Line]] (`= [[The Bottom Line]].status`)
-- [[Rationalization]] (`= [[Rationalization]].status`)
+- [[Rationalization (Post)]] (`= [[Rationalization]].status`)
 - [[You Can Face Reality]] (`= [[You Can Face Reality]].status`)
 - [[Is That Your True Rejection?]] (`= [[Is That Your True Rejection?]].status`)
 - [[Avoiding Your Belief's Real Weak Points]] (`= [[Avoiding Your Belief's Real Weak Points]].status`)
 - [[Belief as Attire]] (`= [[Belief as Attire]].status`)
-- [[Cached Thoughts]] (`= [[Cached Thoughts]].status`)
+- [[Cached Thoughts (Post)]] (`= [[Cached Thoughts]].status`)
 - [[The Fallacy of Gray]] (`= [[The Fallacy of Gray]].status`)
 - [[Lonely Dissent]] (`= [[Lonely Dissent]].status`)
 - [[Positive Bias— Look Into the Dark]] (`= [[Positive Bias— Look Into the Dark]].status`)

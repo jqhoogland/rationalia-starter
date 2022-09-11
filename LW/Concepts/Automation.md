@@ -19,14 +19,4 @@ status: todo
 \[1\]: New Oxford American Dictionary
 
 
-%%
-
-% START
-Basic (and reversed card)
-What is **Automation**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
 	

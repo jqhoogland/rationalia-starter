@@ -32,9 +32,9 @@ book: How to Actually Change Your Mind
 # Related
 
 - [[Rationality]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Changing Your Mind]]
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[Probabilistic Reasoning]]
 - "[arguments are soldiers](https://www.lesswrong.com/lw/gz/policy_debates_should_not_appear_onesided/)"
 - [[Belief in Belief]]

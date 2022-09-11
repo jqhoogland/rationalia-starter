@@ -32,7 +32,7 @@ book: Mere Goodness
 - [[Sorting Pebbles Into Correct Heaps]]
 - [[Inseparably Right; or, Joy in the Merely Good]]
 - [[Anthropomorphic Optimism]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - "[notice that its utility function was wrong](/lw/rd/passing_the_recursive_buck/)"
 - "[free will](/lw/rc/the_ultimate_source/)"
 - [[No Universally Compelling Arguments]]
@@ -40,7 +40,7 @@ book: Mere Goodness
 - [[Evolutions Are Stupid (But Work Anyway)]]
 - [[An Alien God]]
 - "[executing adaptations versus maximizing fitness](/lw/l0/adaptationexecuters_not_fitnessmaximizers/)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[Lawful Creativity](/lw/vm/lawful_creativity/)"
 - [[Invisible Frameworks]]
 - [[The Fun Theory Sequence]]

@@ -26,6 +26,6 @@ book: How to Actually Change Your Mind
 # Related
 
 - [[Fallacies]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - "[said](http://forums.keenspot.com/viewtopic.php?p=1099965#p1099965)"
 - [[The Genetic Fallacy]]

@@ -32,7 +32,7 @@ status: todo
 - [[Not for the Sake of Happiness (Alone)]]
 - [[Free to Optimize]]
 - "[congenitally biased to underestimate the complexity of things that involve human intelligence](/lw/jp/occams_razor/)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[looks like it](http://news.softpedia.com/news/Gay-and-Lesbian-Families-Are-Happier-than-Heterosexual-Ones-77094.shtml)"
 - [[The Fun Theory Sequence]]
 - "[Failed Utopia #4-2](/lw/xu/failed_utopia_42/)"

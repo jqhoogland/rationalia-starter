@@ -20,7 +20,7 @@ status: todo
 
 [Antimemetics](https://www.lesswrong.com/s/3xKXGh9RXaYTYZYgZ) by Isusr
 
-**Related Pages:** [[Evolution]], [[Evolutionary Psychology]], [[Information Cascades]], [[Information Hazards]], [[Belief]], [[Religion]], [[Social & Cultural Dynamics]], [[Writing (communication method)]], [[Censorship]], [[Cultural knowledge]], [[Simulacrum Levels]], [[Social Media]]
+**Related Pages:** [[Evolution]], [[LW/Concepts/Evolutionary Psychology]], [[Information Cascades]], [[Information Hazards]], [[Belief]], [[Religion]], [[Social & Cultural Dynamics]], [[Writing (communication method)]], [[Censorship]], [[Cultural knowledge]], [[Simulacrum Levels]], [[Social Media]]
 
 **See also:** [Wikipedia page](https://en.wikipedia.org/wiki/Memetics)
 

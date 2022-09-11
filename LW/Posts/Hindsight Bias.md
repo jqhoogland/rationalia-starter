@@ -27,5 +27,5 @@ author: null
 - "[write down your predictions in advance](http://www.overcomingbias.com/2007/08/conservation-of.html)"
 - "[_Mysterious Answers to Mysterious Questions_](http://wiki.lesswrong.com/wiki/Mysterious_Answers_to_Mysterious_Questions)"
 - [[Hindsight Devalues Science]]
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - "[Ex Post ≠ Ex Ante: Determining Liability in Hindsight](http://www.jstor.org/view/01477307/ap050075/05a00120/0)"

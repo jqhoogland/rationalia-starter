@@ -29,7 +29,7 @@ book: How to Actually Change Your Mind
 
 - [[Filtered Evidence]]
 - [[Rationality]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - "[1](#fn1x28)"
 - "[1](#fn1x28-bk)"
 - "[How Much Evidence Does It Take?](http://lesswrong.com/rationality/how-much-evidence-does-it-take)"

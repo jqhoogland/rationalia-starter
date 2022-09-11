@@ -23,7 +23,7 @@ status: todo
 
 # Related
 
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Ethics & Morality]]
 - [[Entangled Truths, Contagious Lies]]
 - [[Evolving to Extinction]]

@@ -29,7 +29,7 @@ The worst failures of all are the kind that you can neither recover nor learn fr
 ### Failure
 
 - [[The Parable of Predict-O-Matic]] (`= [[The Parable of Predict-O-Matic]].status`)
-- [[Blackmail]] (`= [[Blackmail]].status`)
+- [[Blackmail (Post)]] (`= [[Blackmail]].status`)
 - [[Bioinfohazards]] (`= [[Bioinfohazards]].status`)
 - [[What failure looks like]] (`= [[What failure looks like]].status`)
 - [[AI Safety "Success Stories"]] (`= [[AI Safety "Success Stories"]].status`)

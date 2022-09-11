@@ -27,7 +27,7 @@ This is (probably) not just a case of "the other side is being silly": there doe
 
 In other words, answering the question doesn't fully address the confusion that the question represents!
 
-A [[Failure mode|failure mode]] in this step is giving justifications instead of explaining the process itself. Arguing that the reason we have an illusion of free will was that it was [[Evolutionary Psychology|evolutionarily adaptive]] falls into this failure mode, as it doesn't explain the cognitive algorithm which produces the feeling of free will, and so doesn't dissolve the question. This can also be thought of as answering the "Why" instead of the "How", or as failing to provide a [[Gears-Level|gears level model]].
+A [[Failure mode|failure mode]] in this step is giving justifications instead of explaining the process itself. Arguing that the reason we have an illusion of free will was that it was [[LW/Concepts/Evolutionary Psychology|evolutionarily adaptive]] falls into this failure mode, as it doesn't explain the cognitive algorithm which produces the feeling of free will, and so doesn't dissolve the question. This can also be thought of as answering the "Why" instead of the "How", or as failing to provide a [[Gears-Level|gears level model]].
 
 Dissolving a question usually (always?) involves providing a **[[Cognitive Reduction|cognitive reduction]]** of the question.
 

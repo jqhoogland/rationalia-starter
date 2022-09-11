@@ -27,7 +27,7 @@ To understand reality, especially on confusing topics, it's important to underst
 - [[Diseased thinking— dissolving questions about disease]] (`= [[Diseased thinking— dissolving questions about disease]].status`)
 - [[Hug the Query]] (`= [[Hug the Query]].status`)
 - [[Say Not "Complexity"]] (`= [[Say Not "Complexity"]].status`)
-- [[Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
 - [[How An Algorithm Feels From Inside]] (`= [[How An Algorithm Feels From Inside]].status`)
 - [[Expecting Short Inferential Distances]] (`= [[Expecting Short Inferential Distances]].status`)
 - [[Illusion of Transparency— Why No One Understands You]] (`= [[Illusion of Transparency— Why No One Understands You]].status`)

@@ -29,7 +29,7 @@ collection: Best of LessWrong
 
 - [[Rationality]]
 - [[Evolution]]
-- [[Slack]]
+- [[LW/Concepts/Practical/Domains of Well-being/Slack]]
 - [[Moloch]]
 - [[World Modeling]]
 - "[its own benefits](https://books.google.com/books?id=1bUoIpTQbLYC&pg=PA153&lpg=PA153&dq=evolve+half+an+eye&source=bl&ots=dp1DlhtdUO&sig=ACfU3U09G7Jq2xitoELZglQykIGJBzBBDw&hl=en&sa=X&ved=2ahUKEwjsi5HngbDpAhUuGDQIHRRjCv44ChDoATAHegQICBAB#v=onepage&q=evolve%20half%20an%20eye&f=false)"

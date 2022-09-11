@@ -64,7 +64,7 @@ status: todo
 - "[anticipation](/lw/iq/guessing_the_teachers_password/)"
 - "[Fake Utility Functions sequence](/lw/lp/fake_fake_utility_functions/)"
 - [[37 Ways That Words Can Be Wrong]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Taboo Your Words]]
 - [[Replace the Symbol with the Substance]]
 - "[sequence on quantum physics](/lw/r5/the_quantum_physics_sequence/)"

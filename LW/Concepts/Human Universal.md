@@ -35,7 +35,7 @@ Donald E. Brown has compiled a list of [over a hundred human universals](http://
 
 ## See Also
 
-- [[Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
+- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]] (`= [[Evolutionary Psychology|Evolutionary psychology]].status`)
 - [[Typical Mind Fallacy|Typical mind fallacy]] (`= [[Typical Mind Fallacy|Typical mind fallacy]].status`)
 - [[Anthropomorphism]] (`= [[Anthropomorphism]].status`)
 - [[Complexity of Value|Complexity of value]], [[Fake Simplicity|fake simplicity]]

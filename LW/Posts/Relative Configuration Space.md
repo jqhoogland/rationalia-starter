@@ -41,7 +41,7 @@ status: todo
 - "[![Jbarbourtriangleseries](/static/imported/2008/05/23/jbarbourtriangleseries.png "Jbarbourtriangleseries")"
 - "[![Jbarbourshapepath](/static/imported/2008/05/23/jbarbourshapepath.png "Jbarbourshapepath")"
 - [[How An Algorithm Feels From Inside]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - "[position basis invokes an arbitrary space of simultaneity](/lw/q2/spooky_action_at_a_distance_the_nocommunication/)"
 - "[suggested before](/lw/q2/spooky_action_at_a_distance_the_nocommunication/)"
 - "[![Jbarbourtrianglecloud](/static/imported/2008/05/26/jbarbourtrianglecloud.png "Jbarbourtrianglecloud")"

@@ -31,7 +31,7 @@ author: Eliezer Yudkowsky
 
 # Related
 
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Rationality]]
 - [[Information Hazards]]
 - [[Pitfalls of Rationality]]

@@ -21,14 +21,3 @@ status: todo
 - [Wikipedia page on Lethal Autonomous Weapons](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)
 
 
-%%
-
-% START
-Basic (and reversed card)
-What is **Autonomous Weapons**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

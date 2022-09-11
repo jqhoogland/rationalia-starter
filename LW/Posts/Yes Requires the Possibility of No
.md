@@ -32,8 +32,8 @@ book: null
 
 # Related
 
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[Filtered Evidence]]
 - [[Rationality]]
-- [[Internal Double Crux]]
+- [[Internal Double Crux (Post)]]
 - [[Principles]]

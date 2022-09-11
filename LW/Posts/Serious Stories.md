@@ -32,7 +32,7 @@ book: Mere Goodness
 - [[Reversed Stupidity Is Not Intelligence]]
 - "[Luddism](/lw/k8/how_to_seem_and_be_deep/)"
 - [[Beyond the Reach of God]]
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[Sensual Experience]]
 - "[George Orwell's hypothesis for why Utopia is impossible](http://www.k-1.com/Orwell/site/work/essays/fun.html)"
 - [[The Third Alternative]]

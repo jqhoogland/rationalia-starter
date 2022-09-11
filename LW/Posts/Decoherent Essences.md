@@ -31,7 +31,7 @@ status: todo
 - "[David Wallace](http://arxiv.org/abs/quant-ph/0312157)"
 - [[Universal Law]]
 - "[actually exist](/lw/oy/is_humanism_a_religionsubstitute/)"
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
 - [[Lost Purposes]]
 - [[The Bottom Line]]

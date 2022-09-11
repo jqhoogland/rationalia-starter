@@ -28,9 +28,9 @@ book: Mere Goodness
 
 # Related
 
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[AI]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Rationalist Taboo]]
 - [[Truly Part Of You]]
 - [[Words as Mental Paintbrush Handles]]

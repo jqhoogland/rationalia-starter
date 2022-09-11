@@ -29,7 +29,7 @@ While beliefs are subjective, that doesn't mean that one gets to choose their be
 - [[Scientific Evidence, Legal Evidence, Rational Evidence]] (`= [[Scientific Evidence, Legal Evidence, Rational Evidence]].status`)
 - [[How Much Evidence Does It Take?]] (`= [[How Much Evidence Does It Take?]].status`)
 - [[Absence of Evidence Is Evidence of Absence]] (`= [[Absence of Evidence Is Evidence of Absence]].status`)
-- [[Conservation of Expected Evidence]] (`= [[Conservation of Expected Evidence]].status`)
+- [[Conservation of Expected Evidence (Post)]] (`= [[Conservation of Expected Evidence]].status`)
 - [[Argument Screens Off Authority]] (`= [[Argument Screens Off Authority]].status`)
 - [[An Intuitive Explanation of Bayes's Theorem]] (`= [[An Intuitive Explanation of Bayes's Theorem]].status`)
 - [[The Second Law of Thermodynamics, and Engines of Cognition]] (`= [[The Second Law of Thermodynamics, and Engines of Cognition]].status`)

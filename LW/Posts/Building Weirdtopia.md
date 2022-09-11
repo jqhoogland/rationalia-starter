@@ -27,6 +27,6 @@ status: todo
 - [[Eutopia is Scary]]
 - [[To Spread Science, Keep It Secret]]
 - "[Disclaimer](http://www.overcomingbias.com/2008/06/against-disclai.html)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[The Fun Theory Sequence]]
 - [[Justified Expectation of Pleasant Surprises]]

@@ -9,7 +9,7 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:31.166Z'
-status: todo
+status: todo 
 ---
 
 # Past and Future Selves

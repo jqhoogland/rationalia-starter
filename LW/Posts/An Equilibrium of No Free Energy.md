@@ -49,7 +49,7 @@ book: null
 - [[Moloch's Toolbox (1/2)]]
 - "[equilibriabook.com](https://equilibriabook.com)"
 - "[↩](#footnote-1-return)"
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - "[↩](#footnote-2-return)"
 - "[↩](#footnote-3-return)"
 - "[↩](#footnote-4-return)"

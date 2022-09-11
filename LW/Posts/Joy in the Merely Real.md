@@ -32,6 +32,6 @@ author: Eliezer_Yudkowsky
 - "[told that someone else knew](/lw/j3/science_as_curiositystopper/)"
 - [[Mysterious Answers to Mysterious Questions]]
 - [[Probability is in the Mind]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - "[worship](/lw/j2/explainworshipignore/)"
 - [[Doublethink (Choosing to be Biased)]]

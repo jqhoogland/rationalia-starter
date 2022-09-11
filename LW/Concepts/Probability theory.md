@@ -16,7 +16,7 @@ status: todo
 
 **Probability theory** is a field of mathematics that studies random variables and processes.  
   
-*See Also:* [[Priors]], [[Bayes' Theorem]], [[LW/Posts/Mind Projection Fallacy]]
+*See Also:* [[Priors]], [[Bayes' Theorem]], [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 
 Bayesian vs Frequentist Interpretations of Probability
 ------------------------------------------------------

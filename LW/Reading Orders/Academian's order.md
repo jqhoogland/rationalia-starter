@@ -15,12 +15,12 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/draft-of-a-suggested-rea
 
 ## Basic Concepts
 
-- [[Map and territory]] (`= [[Map and territory]].status`)
+- [[LW/Books/Map and Territory]] (`= [[Map and territory]].status`)
 - [[Rationality]] (`= [[Rationality]].status`)
 - [[Truth, Semantics, & Meaning]] (`= [[Truth, Semantics, & Meaning]].status`)
 - [[Improper belief]] (`= [[Improper belief]].status`)
 - [[Evidence]] (`= [[Evidence]].status`)
-- [[Bayes' theorem]] (`= [[Bayes' theorem]].status`)
+- [[Bayes' Theorem]] (`= [[Bayes' theorem]].status`)
 - [[Priors]] (`= [[Priors]].status`)
 - [[Belief in belief]] (`= [[Belief in belief]].status`)
 

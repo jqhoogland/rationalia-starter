@@ -14,15 +14,3 @@ status: todo
 
 # Addiction
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Addiction**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

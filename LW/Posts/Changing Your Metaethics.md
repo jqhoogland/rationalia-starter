@@ -51,7 +51,7 @@ book: Mere Goodness
 - [[The Gift We Give To Tomorrow]]
 - [[The Genetic Fallacy]]
 - [[Rebelling Within Nature]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Does Your Morality Care What You Think?]]
 - [[Math is Subjunctively Objective]]
 - [[Probability is Subjectively Objective]]

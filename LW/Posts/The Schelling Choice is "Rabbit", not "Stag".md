@@ -34,7 +34,7 @@ book: The Engines of Cognition
 - "[Open Problems in Group Rationality](https://medium.com/@ThingMaker/open-problems-in-group-rationality-5636440a2cd1)"
 - "[Circling with a capital “C”](https://www.authrev.com/)"
 - [[The Costly Coordination Mechanism of Common Knowledge]]
-- [[Slack]]
+- [[LW/Concepts/Practical/Domains of Well-being/Slack]]
 - "[curiosity](https://www.lesswrong.com/posts/bGtdeqbgTzuLvZ5zn/get-curious)"
 - "[empathy](http://agentyduck.blogspot.com/2015/05/tortoise-report-3-empathy_16.html)"
 - "[Relationship Between the Village and Mission](https://www.lesswrong.com/posts/yGycR8tFA3JJbvApp/the-relationship-between-the-village-and-the-mission)"

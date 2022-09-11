@@ -9,7 +9,10 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:39.788Z'
-status: todo
+status: done
+aliases:
+  - Epistemic humility
+  - Scientific humility
 ---
 
 # Humility
@@ -77,15 +80,18 @@ Likewise, the lesson isn't "it's bad to ever worry about overconfidence", but ra
 - [[Humility|Modesty]] (`= [[Humility|Modesty]].status`)
 - [[Fallacy of Gray]] (`= [[Fallacy of Gray]].status`)
 
-
 %%
 
 % START
+
 Basic (and reversed card)
-What is **Humility**?
-Back: {TODO}
+
+What is **Scientific Humility**?
+
+Back: As contrasted with **social modesty**, this is is the art of combating overconfidence recognizing and improving on your weaknesses, anticipating and preparing for likely errors you'll make, etc.
+
 Tags: LessWrong
+
 END
 
 %%
-	

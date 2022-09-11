@@ -21,7 +21,7 @@ The **illusion of transparency** is the misleading impression that your words co
 - [[Inferential Distance|Inferential distance]] (`= [[Inferential Distance|Inferential distance]].status`)
 - [[Detached Lever Fallacy|Detached lever fallacy]] (`= [[Detached Lever Fallacy|Detached lever fallacy]].status`)
 - [[Absurdity Heuristic|Absurdity heuristic]] (`= [[Absurdity Heuristic|Absurdity heuristic]].status`)
-- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
+- [[LW/Concepts/Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 
 ## External Links
 

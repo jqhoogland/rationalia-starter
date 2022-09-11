@@ -21,7 +21,7 @@ status: todo
 - [[Dissolving the Question]] (`= [[Dissolving the Question]].status`)
 - [[Wrong Questions]] (`= [[Wrong Questions]].status`)
 - [[Righting a Wrong Question]] (`= [[Righting a Wrong Question]].status`)
-- [[Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
 - [[Probability is in the Mind]] (`= [[Probability is in the Mind]].status`)
 - [[The Quotation is not the Referent]] (`= [[The Quotation is not the Referent]].status`)
 - [[Qualitatively Confused]] (`= [[Qualitatively Confused]].status`)

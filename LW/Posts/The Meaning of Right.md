@@ -50,7 +50,7 @@ status: todo
 - [[Replace the Symbol with the Substance]]
 - "[Possibility and Could-ness](/lw/rb/possibility_and_couldness/)"
 - [[Evolutions Are Stupid (But Work Anyway)]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Can Counterfactuals Be True?]]
 - [[Thou Art Godshatter]]
 - "[the ideal morality that I would have if I heard all the arguments, to whatever extent such an extrapolation is coherent](http://www.google.com/url?sa=t&ct=res&cd=9&url=http%3A%2F%2Fwww.singinst.org%2Fupload%2FCEV.html&ei=RlmOSPCCCZH0sAP7so3bDw&usg=AFQjCNH0bNh-QaQ4J5Rufo18U54420x7tA&sig2=EHQy6Q0c9cdq9qTp2kRqow)"

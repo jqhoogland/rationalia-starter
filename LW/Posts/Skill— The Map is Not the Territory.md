@@ -26,7 +26,7 @@ status: todo
 
 # Related
 
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Rationality]]
 - [[Distinctions]]
 - [[The Useful Idea of Truth]]

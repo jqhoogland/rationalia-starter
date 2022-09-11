@@ -26,5 +26,5 @@ book: 'Map and Territory '
 
 # Related
 
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - "[*Rationality: From AI to Zombies*](https://lesswrong.com/rationality)"

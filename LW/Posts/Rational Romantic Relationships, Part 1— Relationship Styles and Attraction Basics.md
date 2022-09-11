@@ -36,7 +36,7 @@ status: todo
 - "[polyamory](http://en.wikipedia.org/wiki/Polyamory)"
 - "[compartmentalize by default](/lw/1zu/compartmentalization_as_a_passive_phenomenon/)"
 - "[belief propagation](http://en.wikipedia.org/wiki/Belief_propagation)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Cached Selves]]
 - "[core sequences](http://wiki.lesswrong.com/wiki/Sequences#Core_Sequences)"
 - "[disease](/lw/2as/diseased_thinking_dissolving_questions_about/)"

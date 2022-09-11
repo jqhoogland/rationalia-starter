@@ -26,7 +26,7 @@ book: How to Actually Change Your Mind
 
 # Related
 
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Filtered Evidence]]
 - [[Politics]]
 - "[1](#fn1x30)"

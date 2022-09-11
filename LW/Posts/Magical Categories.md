@@ -37,7 +37,7 @@ book: Mere Goodness
 - [[Planning Fallacy]]
 - "[firsthand](http://www.mail-archive.com/agi@v2.listbox.com/)"
 - [[Superexponential Conceptspace, and Simple Words]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Abstracted Idealized Dynamics]]
 - [[The Meaning of Right]]
 - "[unnatural category](/lw/tc/unnatural_categories/)"

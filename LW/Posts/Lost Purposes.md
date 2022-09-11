@@ -49,4 +49,4 @@ book: The Machine in the Ghost
 - [[The Tragedy of Group Selectionism]]
 - [[Fake Optimization Criteria]]
 - [[Not for the Sake of Happiness (Alone)]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]

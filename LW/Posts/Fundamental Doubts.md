@@ -26,7 +26,7 @@ status: todo
 - [[Epistemology]]
 - [[The Genetic Fallacy]]
 - [[Where Recursive Justification Hits Bottom]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[One Argument Against An Army]]
 - "[that warning sign of which I have spoken](/lw/r3/against_devils_advocacy/)"
 - "[peer pressure](/lw/m9/aschs_conformity_experiment/)"

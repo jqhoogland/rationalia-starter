@@ -8,8 +8,9 @@ tags:
   - LessWrong
   - Concept
   - Tag
+  - Model
 synchedAt: '2022-09-01T09:42:50.917Z'
-status: todo
+status: done
 ---
 
 # DALL-E
@@ -18,15 +19,20 @@ status: todo
 
 [DALL-E 2 official website](https://openai.com/dall-e-2/)
 
-
 %%
 
 % START
+
 Basic (and reversed card)
+
 What is **DALL-E**?
+
 Back: {TODO}
+
 Tags: LessWrong
+
 END
 
 %%
-	
+
+

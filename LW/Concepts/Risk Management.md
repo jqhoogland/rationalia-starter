@@ -10,6 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:24.762Z'
 status: todo
+aliases:
+  - Risk aversion
 ---
 
 # Risk Management

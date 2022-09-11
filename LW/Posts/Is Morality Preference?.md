@@ -27,7 +27,7 @@ status: todo
 - [[Dialogue (format)]]
 - [[Moral Complexities]]
 - [[The Bedrock of Fairness]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Superhero Bias]]
 - [[Terminal Values and Instrumental Values]]
 - "[Logical fallacy:  Appeal to consequences.](http://www.nizkor.org/features/fallacies/appeal-to-consequences.html)"

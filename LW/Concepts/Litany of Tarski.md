@@ -26,7 +26,7 @@ Quoting [[The Meditation on Curiosity]]:
 
 The name refers to [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski), who sought to define [what, exactly, "truth" means](https://plato.stanford.edu/entries/tarski-truth/).
 
-See also: [[Map and Territory]], [[Litanies & Mantras]].
+See also: [[LW/Rationality/Theory, Concepts/Map and Territory]], [[Litanies & Mantras]].
 
 ## Blog Posts
 

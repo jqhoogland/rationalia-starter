@@ -21,7 +21,7 @@ author: null
 # Related
 
 - [[Identity]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - "[Beware identity](http://www.overcomingbias.com/2008/05/beware-identity.html)"
 - [[Never Leave Your Room]]
 - "[your own](http://www.overcomingbias.com/2007/04/knowing_about_b.html)"

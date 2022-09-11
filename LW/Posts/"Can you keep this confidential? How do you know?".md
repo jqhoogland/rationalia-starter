@@ -34,4 +34,4 @@ collection: Best of LessWrong
 - [[Circling]]
 - "[one instance](https://www.lesswrong.com/posts/aFyWFwGWBsP5DZbHF/circling?commentId=2uE7benA255i9XjZu#comments)"
 - [[Being a Robust Agent]]
-- [[Trigger-Action Planning]]
+- [[Trigger-Action Planning (Post)]]

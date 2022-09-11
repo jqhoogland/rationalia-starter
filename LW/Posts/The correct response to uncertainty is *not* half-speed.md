@@ -30,7 +30,7 @@ book: null
 
 - [[Planning & Decision-Making]]
 - [[Decision Theory]]
-- [[Goal Factoring]]
+- [[LW/Concepts/Rationality/Techniques/Goal Factoring]]
 - "[Half-assing it with everything you've got](http://mindingourway.com/half-assing-it-with-everything-youve-got/)"
 - "[Wasted motion](https://www.facebook.com/yudkowsky/posts/10151706498254228)"
 - "[Say it Loud](/lw/u3/say_it_loud/)"

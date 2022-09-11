@@ -30,7 +30,7 @@ The ebook can be downloaded on a "pay-what-you-want" basis from [intelligence.or
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-- Book I: ***[[Map and Territory|Map and Territory]]***. An introduction to the Bayesian concept of rational belief.
+- Book I: ***[[LW/Rationality/Theory, Concepts/Map and Territory|Map and Territory]]***. An introduction to the Bayesian concept of rational belief.
     - A. Predictably Wrong
     - B. Fake Beliefs
     - C. Noticing Confusion

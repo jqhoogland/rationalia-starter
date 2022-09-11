@@ -23,7 +23,7 @@ status: todo
 
 # Related
 
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Metaethics]]
 - [[Emotions]]
 - [[The Moral Void]]

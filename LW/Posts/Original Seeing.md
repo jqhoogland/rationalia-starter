@@ -29,4 +29,4 @@ book: How to Actually Change Your Mind
 
 - [[Writing (communication method)]]
 - [[Practical]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]

@@ -28,12 +28,12 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Philosophy of Language]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Techniques]]
 - [[Rationalist Taboo]]
 - [[Original Seeing]]
 - [[Rationality and the English Language]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Taboo Your Words]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
 - [[Belief in Belief]]

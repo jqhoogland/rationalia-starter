@@ -14,7 +14,7 @@ status: todo
 
 # Music
 
-**Music** is a form of [art](art) based on placing notes in a rhythmic order. Most of LW's articles on music so far have been written by jefftk.
+**Music** is a form of [Art](Art.md) based on placing notes in a rhythmic order. Most of LW's articles on music so far have been written by jefftk.
 
 
 %%

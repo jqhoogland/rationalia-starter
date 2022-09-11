@@ -30,7 +30,7 @@ book: Mere Reality
 - "[many more ways to worship a thing](/lw/j2/explainworshipignore/)"
 - [[Superhero Bias]]
 - [[Correspondence Bias]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Affective Death Spirals]]
 - "[humanly impossible](http://yudkowsky.net/singularity/aibox)"
 - [[Something to Protect]]

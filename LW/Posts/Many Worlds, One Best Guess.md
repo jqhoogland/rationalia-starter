@@ -45,7 +45,7 @@ book: Mere Reality
 - [["Science" as Curiosity-Stopper]]
 - [[Decoherence is Falsifiable and Testable]]
 - [[We Change Our Minds Less Often Than We Think]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - "[violate Special Relativity](http://lesswrong.com/lw/q2/spooky_action_at_a_distance_the_nocommunication/)"
 - "[Bell’s Theorem](http://lesswrong.com/lw/q1/bells_theorem_no_epr_reality/)"
 - "[collapse theories](https://www.lesswrong.com/rationality/collapse-postulates)"

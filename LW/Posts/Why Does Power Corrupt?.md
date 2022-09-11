@@ -24,7 +24,7 @@ status: todo
 
 - [[Motivations]]
 - [[Rationality]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[just-so story](/lw/mj/rational_vs_scientific_evpsych/)"
 - [[An Alien God]]
 - "[think as if "purpose" is an inherent property of things](/lw/te/three_fallacies_of_teleology/)"

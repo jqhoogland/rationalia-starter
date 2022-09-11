@@ -57,7 +57,7 @@ status: todo
 - "[transhumanism as simplified humanism](http://intelligence.org/blog/2007/06/16/transhumanism-as-simplified-humanism/)"
 - "[the meaning that immortality gives to life](http://intelligence.org/blog/2007/10/14/the-meaning-that-immortality-gives-to-life/)"
 - "[deeply wise](/lw/k8/how_to_seem_and_be_deep/)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Lonely Dissent]]
 - [[Lotteries: A Waste of Hope]]
 - [[The Allais Paradox]]

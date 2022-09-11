@@ -39,7 +39,7 @@ book: The Machine in the Ghost
 - "[observed](http://books.google.com/books?id=b924ifrqfosC&printsec=frontcover#PPA14,M1)"
 - "[suggests](http://books.google.com/books?id=b924ifrqfosC&printsec=frontcover#PPA231,M1)"
 - [[Fake Justification]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[The Bottom Line]]
 - "[locating their prediction in hypothesis-space](https://www.lesswrong.com/lw/jo/einsteins_arrogance/)"
 - "[Azathoth](http://en.wikipedia.org/wiki/Azathoth)"

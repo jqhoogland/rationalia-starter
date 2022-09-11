@@ -41,12 +41,12 @@ book: The Engines of Cognition
 - [[Subagents]]
 - [[Emotions]]
 - [[Neuroscience]]
-- [[Internal Double Crux]]
+- [[Internal Double Crux (Post)]]
 - [[Alief]]
 - [[Motivations]]
 - [[Summaries]]
 - [[Memory Reconsolidation]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Therapy]]
 - [[Internal Family Systems]]
 - "[Unlocking the Emotional Brain](https://smile.amazon.com/Unlocking-Emotional-Brain-Eliminating-Reconsolidation/dp/0415897173/)"
@@ -57,7 +57,7 @@ book: The Engines of Cognition
 - "[Focusing](https://medium.com/@ThingMaker/focusing-for-skeptics-6b949ef33a4f)"
 - [[Building up to an Internal Family Systems model]]
 - "[seem to be a requirement](https://www.lesswrong.com/posts/KaByYSRwSLdscGYB6/actually-updating)"
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[A Sketch of Good Communication]]
 - "[too little training data as the basis of the schema](https://en.wikipedia.org/wiki/Underfitting)"
 - "[this transformation may produce adverse effects](https://www.lesswrong.com/posts/hnLutdvjC8kPScPAj/integrating-disagreeing-subagents#Resisting_belief_integration)"

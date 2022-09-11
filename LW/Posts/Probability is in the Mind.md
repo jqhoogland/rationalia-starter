@@ -28,8 +28,8 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Rationality]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Bayes' Theorem]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Bayesianism]]
 - "[certain way](http://www.overcomingbias.com/2008/01/something-to-pr.html)"

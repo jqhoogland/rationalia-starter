@@ -22,7 +22,7 @@ Similarly, [George Lakoff](https://en.wikipedia.org/wiki/George_Lakoff) has docu
 
 ## Related Concepts
 
-- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
+- [[LW/Concepts/Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 - [[Affect Heuristic|Affect heuristic]] (`= [[Affect Heuristic|Affect heuristic]].status`)
 - [[Mind-Killer|Mind-killer]] (`= [[Mind-Killer|Mind-killer]].status`)
 

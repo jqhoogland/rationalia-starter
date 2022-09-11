@@ -32,7 +32,7 @@ status: todo
 - [[Interpersonal Morality]]
 - [[The Gift We Give To Tomorrow]]
 - [[Thou Art Godshatter]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - "[Since no single value defines goodness, this can make it seem like all of them together couldn't define goodness](/lw/rc/the_ultimate_source/)"
 - "[possible minds that implement any utility function](/lw/rm/the_design_space_of_mindsingeneral/)"
 - [[Whither Moral Progress?]]

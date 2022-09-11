@@ -26,7 +26,7 @@ status: todo
 - [[Occam's Razor (Post)]] (`= [[Occam's Razor]].status`)
 - [[Your Strength as a Rationalist]] (`= [[Your Strength as a Rationalist]].status`)
 - [[Absence of Evidence Is Evidence of Absence]] (`= [[Absence of Evidence Is Evidence of Absence]].status`)
-- [[Conservation of Expected Evidence]] (`= [[Conservation of Expected Evidence]].status`)
+- [[Conservation of Expected Evidence (Post)]] (`= [[Conservation of Expected Evidence]].status`)
 - [[Hindsight Devalues Science]] (`= [[Hindsight Devalues Science]].status`)
 - [[Illusion of Transparency— Why No One Understands You]] (`= [[Illusion of Transparency— Why No One Understands You]].status`)
 - [[Expecting Short Inferential Distances]] (`= [[Expecting Short Inferential Distances]].status`)

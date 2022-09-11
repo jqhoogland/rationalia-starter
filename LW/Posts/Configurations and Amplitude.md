@@ -30,4 +30,4 @@ book: Mere Reality
 - [[World Modeling]]
 - [[Quantum Mechanics]]
 - [[Probability is in the Mind]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]

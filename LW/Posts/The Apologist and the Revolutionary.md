@@ -23,7 +23,7 @@ author: null
 
 # Related
 
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Rationality]]
 - [[Psychiatry]]
 - "[make excuses](http://www.overcomingbias.com/2007/10/fake-justificat.html)"

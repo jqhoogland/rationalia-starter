@@ -30,7 +30,7 @@ The first sequence of *The Machine in the Ghost* aims to communicate the dissona
 - [[The Tragedy of Group Selectionism]] (`= [[The Tragedy of Group Selectionism]].status`)
 - [[Fake Optimization Criteria]] (`= [[Fake Optimization Criteria]].status`)
 - [[Adaptation-Executers, not Fitness-Maximizers]] (`= [[Adaptation-Executers, not Fitness-Maximizers]].status`)
-- [[Evolutionary Psychology]] (`= [[Evolutionary Psychology]].status`)
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]] (`= [[Evolutionary Psychology]].status`)
 - [[An Especially Elegant Evpsych Experiment]] (`= [[An Especially Elegant Evpsych Experiment]].status`)
 - [[Superstimuli and the Collapse of Western Civilization]] (`= [[Superstimuli and the Collapse of Western Civilization]].status`)
 - [[Thou Art Godshatter]] (`= [[Thou Art Godshatter]].status`)

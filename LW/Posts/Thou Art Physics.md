@@ -33,6 +33,6 @@ book: Mere Reality
 - [[Reductionism]]
 - [[Wrong Questions]]
 - [[Angry Atoms]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Where Philosophy Meets Science]]
 - [[Explaining vs. Explaining Away]]

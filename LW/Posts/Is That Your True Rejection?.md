@@ -28,7 +28,7 @@ book: How to Actually Change Your Mind
 
 # Related
 
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Rationality]]
 - [[Motivated Reasoning]]
 - [[Motivations]]

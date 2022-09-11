@@ -42,7 +42,7 @@ book: Mere Goodness
 - "[drawing red and white balls from an urn](/lw/hk/priors_as_mathematical_objects/)"
 - "[possible minds in mind design space](/lw/rm/the_design_space_of_mindsingeneral/)"
 - [[Decoherence is Simple]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[An Alien God]]
 - "[declaring a sudden halt](/lw/j2/explainworshipignore/)"
 - [[Reversed Stupidity Is Not Intelligence]]

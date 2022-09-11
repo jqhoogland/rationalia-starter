@@ -29,7 +29,7 @@ author: Eliezer Yudkowsky
 - [[Rationality]]
 - [[Gears-Level]]
 - [[Epistemology]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Mysterious Answers to Mysterious Questions]]
 - "[marvel](https://www.lesswrong.com/lw/j3/science_as_curiositystopper/)"
 - "[seemingly bizarre image](http://www.richrock.com/gifs/optical-illusion-wheels-circles-rotating.png)"

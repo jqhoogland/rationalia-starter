@@ -14,15 +14,3 @@ status: todo
 
 # Autism
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Autism**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
-	

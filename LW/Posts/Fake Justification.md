@@ -27,5 +27,5 @@ book: How to Actually Change Your Mind
 # Related
 
 - [[Motivated Reasoning]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Religion]]

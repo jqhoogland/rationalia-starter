@@ -30,7 +30,7 @@ status: todo
 - [[Bayesianism]]
 - [[Probability is in the Mind]]
 - [[Fallacies of Compression]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Feel the Meaning]]
 - [[A Priori]]
 - [[The Quotation is not the Referent]]

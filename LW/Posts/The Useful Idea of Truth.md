@@ -29,11 +29,11 @@ status: todo
 
 # Related
 
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Causality]]
 - [[Definitions]]
 - [[Truth, Semantics, & Meaning]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Belief in Belief]]
 - "[exceptions](/lw/s/belief_in_selfdeception/)"
 - [[Hindsight Devalues Science]]

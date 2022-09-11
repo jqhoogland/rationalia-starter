@@ -30,7 +30,7 @@ See also
 
 * [[Antiprediction]]
 
-* [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper), [[LW/Posts/Rationalization]]
+* [Curiosity stopper](https://wiki.lesswrong.com/wiki/Curiosity_stopper), [[Rationalization (Post)]]
 
 
 %%

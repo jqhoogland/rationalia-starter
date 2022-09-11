@@ -32,7 +32,7 @@ book: Mere Reality
 - [[Aesthetics]]
 - [[Poetry]]
 - "[human universals](http://condor.depaul.edu/~mfiddler/hyphen/humunivers.htm)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Fake Reductionism]]
 - [[Explaining vs. Explaining Away]]
 - "[Goodbye](http://yudkowsky.net/yehuda.html)"

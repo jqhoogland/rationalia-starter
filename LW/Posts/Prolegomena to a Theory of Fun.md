@@ -27,7 +27,7 @@ status: todo
 - [[Happiness]]
 - [[Inseparably Right; or, Joy in the Merely Good]]
 - "[actually answer the question](http://intelligence.org/blog/2007/10/14/the-meaning-that-immortality-gives-to-life/)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Reversed Stupidity Is Not Intelligence]]
 - "[more clueless sort of sermon](/lw/wu/visualizing_eutopia/)"
 - [[Applause Lights]]

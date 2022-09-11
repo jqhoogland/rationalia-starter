@@ -51,7 +51,7 @@ book: The Engines of Cognition
 - [[A Fable of Science and Politics]]
 - "[the is/ought distinction](https://plato.stanford.edu/entries/hume-moral/#io)"
 - [[The Bottom Line]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[effects of kin-recognition mechanisms on child abuse by stepparents](https://en.wikipedia.org/wiki/Cinderella_effect)"
 - [[The Intelligent Social Web]]
 - "[Platonic solid](https://en.wikipedia.org/wiki/Platonic_solid)"

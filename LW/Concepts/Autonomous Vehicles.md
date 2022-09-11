@@ -21,14 +21,4 @@ In addition, autonomous vehicles present important ethical questions - for examp
 Note: posts specifically about autonomous vehicles should be given higher relevance than ones that simply use them as examples.
 
 
-%%
-
-% START
-Basic (and reversed card)
-What is **Autonomous Vehicles**?
-Back: {TODO}
-Tags: LessWrong
-END
-
-%%
 	

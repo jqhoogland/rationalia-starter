@@ -14,7 +14,7 @@ status: todo
 
 # Reality Is Normal
 
-If at any point some truth should seem shocking or bizarre, [[Mind Projection Fallacy|it's your brain that labels it as such]]; reality simply is what it is. [[Surprise]] is the measure of a poor hypothesis; a good model puts probability mass on outcomes that are more likely to actually occur. If your model of reality consistently makes bad predictions — if the the real world seems utterly strange or surreal to your intuitions — then it's your intuitions that need to change; the world isn't going to. **Reality is normal**.
+If at any point some truth should seem shocking or bizarre, [[LW/Concepts/Mind Projection Fallacy|it's your brain that labels it as such]]; reality simply is what it is. [[Surprise]] is the measure of a poor hypothesis; a good model puts probability mass on outcomes that are more likely to actually occur. If your model of reality consistently makes bad predictions — if the the real world seems utterly strange or surreal to your intuitions — then it's your intuitions that need to change; the world isn't going to. **Reality is normal**.
 
 ## Blog Posts
 

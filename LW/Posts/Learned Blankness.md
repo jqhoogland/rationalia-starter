@@ -25,7 +25,7 @@ author: null
 - [[Identity]]
 - [[Rationality]]
 - [[Motivations]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Semantic Stopsigns]]
 - [[Truly Part Of You]]
 - "[learned helplessness](http://en.wikipedia.org/wiki/Learned_helplessness)"

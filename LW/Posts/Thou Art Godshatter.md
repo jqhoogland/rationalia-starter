@@ -28,7 +28,7 @@ book: The Machine in the Ghost
 
 - [[Evolution]]
 - [[World Modeling]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[An Alien God]]
 - [[Fake Optimization Criteria]]
 - "[it's hard to build a powerful enough consequentialist](https://www.lesswrong.com/lw/l2/protein_reinforcement_and_dna_consequentialism/)"

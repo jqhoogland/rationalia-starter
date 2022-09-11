@@ -16,7 +16,7 @@ status: todo
 
 **Anthropomorphism** is the error of attributing distinctly human characteristics to nonhuman processes. As creatures who evolved in a social context, we all have adaptations for making predictions about other humans by [[Empathic Inference|empathic inference]]. When trying to understand the behavior of other humans, it oftentimes is a helpful (and [[Correspondence Bias|bias-correcting]] heuristic to ask, "Well, what would *I* do in such a situation?" and let that be your prediction. This mode of prediction simply won't do, however, for things (and in this wide universe there are many) that don't share the detailed structure bequeathed on the human brain by evolution, although it is oftentimes tempting.
 
-*Related tags:* [[Mind Projection Fallacy]], [[Typical Mind Fallacy]], [[Alien Values|Alien values]], [[Paperclip Maximizer|Paperclip maximizer]]
+*Related tags:* [[LW/Concepts/Mind Projection Fallacy]], [[Typical Mind Fallacy]], [[Alien Values|Alien values]], [[Paperclip Maximizer|Paperclip maximizer]]
 
 ## Blog Posts
 

@@ -30,7 +30,7 @@ book: Mere Reality
 - "[should never have been assigned non-negligible probability in the first place](/lw/q7/if_manyworlds_had_come_first/)"
 - "[trust themselves](/lw/qb/science_doesnt_trust_your_rationality/)"
 - "[refuse to trust themselves](/lw/qb/science_doesnt_trust_your_rationality/)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[Zombie Feynman](http://xkcd.com/397/)"
 - "[Einstein's Arrogance](/lw/jo/einsteins_arrogance/)"
 - "[Bayesian-thermodynamic sense of "work"](/lw/o5/the_second_law_of_thermodynamics_and_engines_of/)"

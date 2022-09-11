@@ -12,9 +12,18 @@ tags:
   - AI
 sequence: AGI safety from first principles
 author: Richard_Ngo
-status: todo
+status: done
 ---
 
+# AGI Safety From First Principles: Conclusion
+
+1. We'll build AIs much more [[General Intelligence|intelligent]] than humans. 
+2. Those AGIs will likely have [[agency]] — they will pursue goals because this is reinforced during training.
+	1. Those goals are likely to be "long-term" and "large-scale" because we expect goals to generalize (as capabilities do)
+3. These goals will by default be misaligned. Desires are complex & our existing tools for shaping goals are inadequate.
+4. Autonomous, misaligned AGIs will gain control of humanity's future due to their intelligence.
+
+Ngo questions his reliance on [[Anthropomorphism]].
 
 # Related
 

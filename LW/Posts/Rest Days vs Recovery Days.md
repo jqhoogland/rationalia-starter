@@ -29,7 +29,7 @@ book: The Engines of Cognition
 
 - [[Well-being]]
 - [[Sabbath]]
-- [[Slack]]
+- [[LW/Concepts/Practical/Domains of Well-being/Slack]]
 - [[Distinctions]]
 - "[EA Forum Post on Burnout](https://forum.effectivealtruism.org/posts/NDszJWMsdLCB4MNoy/burnout-what-is-it-and-how-to-treat-it)"
 - "[Sabbath hard and go home](http://benjaminrosshoffman.com/sabbath-hard-and-go-home/)"

@@ -30,7 +30,7 @@ status: todo
 - "[The Death of Common Sense](http://www.amazon.com/Death-Common-Sense-Suffocating-America/dp/0446672289)"
 - "[sound wise](/lw/k8/how_to_seem_and_be_deep/)"
 - [[No Evolutions for Corporations or Nanodevices]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[The Tragedy of Group Selectionism]]
 - [[Evolving to Extinction]]
 - "[the psychological unity of humankind](/lw/rl/the_psychological_unity_of_humankind/)"

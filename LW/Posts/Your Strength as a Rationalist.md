@@ -26,7 +26,7 @@ author: Eliezer Yudkowsky
 
 # Related
 
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Noticing]]
 - [[Rationality]]
 - "[http://www.overcomingbias.com/2007/08/truth-bias.html](http://www.overcomingbias.com/2007/08/truth-bias.html)"

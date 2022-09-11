@@ -26,9 +26,9 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Truth, Semantics, & Meaning]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Reductionism]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[The Argument from Common Usage]]
 - "[to perdition with any past civilizations that disagreed](/lw/lz/guardians_of_the_truth/)"
 - [[How An Algorithm Feels From Inside]]

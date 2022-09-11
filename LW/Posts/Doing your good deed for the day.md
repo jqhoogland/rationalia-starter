@@ -23,7 +23,7 @@ author: null
 # Related
 
 - [[Academic Papers]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Heuristics & Biases]]
 - "[study](http://www.google.ie/url?sa=t&source=web&ct=res&cd=6&ved=0CBoQFjAF&url=http%3A%2F%2Fwww.rotman.utoronto.ca%2Fnewthinking%2Fgreenproducts.pdf&ei=WkHmSqbdPMOMjAfGmtyhBA&usg=AFQjCNEmQvSQvbVgEJOzxl4oZw7Z8zaq4w&sig2=iOMp6AtL_6QF0IzQsvf67g)"
 - "[Dictator Game](http://en.wikipedia.org/wiki/Dictator_Game)"

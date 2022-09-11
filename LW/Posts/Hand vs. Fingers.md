@@ -27,6 +27,6 @@ book: Mere Reality
 
 - [[Reductionism]]
 - [[Rationality]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Joy in the Merely Real]]
 - [[Qualitatively Confused]]

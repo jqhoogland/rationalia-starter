@@ -17,7 +17,7 @@ status: todo
 
 # Meditation, Koan
 
-A "**meditation**" **\[koan\]** (not to be confused with typical [Meditation](Meditation)) is a puzzle that the reader should attempt to solve, or a prompt that the reader should try to state their own reaction to, before continuing. Research shows that you're much more likely to remember useful info if you try to solve the problem yourself before reading the solution. Succeed or fail, the important thing is to have **tried first**.
+A "**meditation**" **\[koan\]** (not to be confused with typical [Meditation](Meditation.md)) is a puzzle that the reader should attempt to solve, or a prompt that the reader should try to state their own reaction to, before continuing. Research shows that you're much more likely to remember useful info if you try to solve the problem yourself before reading the solution. Succeed or fail, the important thing is to have **tried first**.
 
 Noting your prior reaction to the meditation-prompt is particularly important because conclusions about rationality often sound [[Hindsight Devalues Science|obvious in retrospect]], making it hard for people to visualize the diff between "what I thought before" and "what I thought afterward". Explicitly knowing this difference is important to learning and memory formation.
 

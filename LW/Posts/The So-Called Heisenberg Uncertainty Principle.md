@@ -30,7 +30,7 @@ status: todo
 - [[Feynman Paths]]
 - "[Wikipedia](http://en.wikipedia.org/wiki/Uncertainty_principle)"
 - [[Perpetual Motion Beliefs]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Where Philosophy Meets Science]]
 - [[Configurations and Amplitude]]
 - [[Joint Configurations]]

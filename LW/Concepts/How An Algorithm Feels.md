@@ -29,7 +29,7 @@ Michael Vassar has observed that conventional philosophers seem to be *spectacul
 
 ## See Also
 
-- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
+- [[LW/Concepts/Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
 - [[Free Will|Free will]] (`= [[Free Will|Free will]].status`)
 - [[Reductionism (Sequence)|Reductionism (sequence)]] (`= [[Reductionism (Sequence)|Reductionism (sequence)]].status`)
 - [[Magic]], [[Fake Simplicity|Fake simplicity]]

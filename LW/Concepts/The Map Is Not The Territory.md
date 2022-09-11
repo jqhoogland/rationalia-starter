@@ -23,8 +23,8 @@ The metaphor is useful for illustrating several ideas in a more intuitive way:
 
 ## See Also
 
-- [[Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
-- [[Map and Territory|Map and territory]] (`= [[Map and Territory|Map and territory]].status`)
+- [[LW/Concepts/Mind Projection Fallacy|Mind projection fallacy]] (`= [[Mind Projection Fallacy|Mind projection fallacy]].status`)
+- [[LW/Rationality/Theory, Concepts/Map and Territory|Map and territory]] (`= [[Map and Territory|Map and territory]].status`)
 
 
 %%

@@ -38,10 +38,10 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/a-suggested-reading-orde
 - [[A Fable of Science and Politics]] (`= [[A Fable of Science and Politics]].status`)
 - [[Taboo Your Words]] (`= [[Taboo Your Words]].status`)
 - [[The Fallacy of Gray]] (`= [[The Fallacy of Gray]].status`)
-- [[Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]] (`= [[Mind Projection Fallacy]].status`)
 - [[Reductionism (Post)]] (`= [[Reductionism (Post)]].status`)
 - [[Privileging the Hypothesis]] (`= [[Privileging the Hypothesis]].status`)
-- [[Conservation of Expected Evidence]] (`= [[Conservation of Expected Evidence]].status`)
+- [[Conservation of Expected Evidence (Post)]] (`= [[Conservation of Expected Evidence]].status`)
 - [[The Apologist and the Revolutionary]] (`= [[The Apologist and the Revolutionary]].status`)
 
 ## Top-50

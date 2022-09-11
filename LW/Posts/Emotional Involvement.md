@@ -22,7 +22,7 @@ status: todo
 # Related
 
 - [[Fun Theory]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Thou Art Godshatter]]
 - [[Existential Angst Factory]]
 - "[Utopia](http://www.k-1.com/Orwell/site/work/essays/fun.html)"

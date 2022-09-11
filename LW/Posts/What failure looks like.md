@@ -26,6 +26,9 @@ book: The Engines of Cognition
 
 # What Failure Looks Like
 
+## Out with a whimper
+
+## Out with a bang
 
 # Related
 

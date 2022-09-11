@@ -56,8 +56,8 @@ collection: Best of LessWrong
 	- ==How expensive would these environments be to simulate?==
 2. ![[Imitative amplification#Imitative amplification & Intermittent oversight]]
 	- Red arrows indicate oversight
-     - The limiting case is [[Humans Consulting HCH|HCH]], so [[outer alignment]] depends on your choice of humans.
-     - [[Inner alignment]] depends on your oversight mechanism.
+     - The limiting case is [[Humans Consulting HCH|HCH]], so [[Outer Alignment]] depends on your choice of humans.
+     - [[Inner Alignment]] depends on your oversight mechanism.
      - ==In which domains is pure imitation a strong enough reward signal for efficient learning?==
 	     - In NLP, it may be enough; In fine-motor control, maybe not.
 	 - ==How difficult is it to pass the intermittent oversight step?==
@@ -68,7 +68,7 @@ collection: Best of LessWrong
 	- ==Will adversarial training increase or decrease model transparency?==
 	- ==How hard is it to find a model that is non-catastrophic under the two different oversight regimes?==
 4. ![[Approval-based amplification#Approval-based amplification Relaxed adversarial training]]
-	- Instead of an imitation signal, we use a [[myopia|myopic]] approval signal.
+	- Instead of an imitation signal, we use a [[Myopia|myopic]] approval signal.
 	- ==Is approval or imitation distance a more informative signal?==  [[P vs. NP|Verification is easier than generation]]
 	- ==Does approval incentivize the model to obfuscate its internals so we can't figure out how it's gaming it?==
 5. [[Chris Olah’s views on AGI safety|Microscope AI]]: Avoid building agents
@@ -77,7 +77,7 @@ collection: Best of LessWrong
 	- ==If it is possible, can we do it in practice?==
 6. STEM AI: Avoid modeling humans. Train only on STEM problems & use transparency tools.
 	- ==How limited in potential would this be?==
-	- ==Could we avoid [[instrumental convergence]]?==
+	- ==Could we avoid [[Instrumental Convergence]]?==
 1. Narrow reward modeling + [[Transparency, Interpretability (ML & AI)|Transparency tools]]
 2. Recursive reward modeling + [[Relaxed adversarial training]]
 3. AI safety via [[Debate (AI safety technique)|Debate]] with [[Transparency, Interpretability (ML & AI)|Transparency tools]]

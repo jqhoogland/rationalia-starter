@@ -25,7 +25,7 @@ book: The Machine in the Ghost
 
 # Related
 
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[Gated version [here](https://www.sciencedirect.com/science/article/abs/pii/016230958990006X)"
 - "[no one knows what science doesn't know](http://www.overcomingbias.com/2007/10/no-one-knows-wh.html)"
 - "[executing adaptation](http://www.overcomingbias.com/2007/11/adaptation-exec.html)"

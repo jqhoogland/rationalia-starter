@@ -28,7 +28,7 @@ Our brains do not always allow us to act the way we should. **Corrupted hardware
 
 - [[Akrasia]] (`= [[Akrasia]].status`)
 - [[Ethical Injunction|Ethical injunction]] (`= [[Ethical Injunction|Ethical injunction]].status`)
-- [[Evolutionary Psychology|Evolutionary psychology]], [adaptation executers](https://wiki.lesswrong.com/wiki/adaptation_executers)
+- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]], [adaptation executers](https://wiki.lesswrong.com/wiki/adaptation_executers)
 - [[Signaling]] (`= [[Signaling]].status`)
 
 

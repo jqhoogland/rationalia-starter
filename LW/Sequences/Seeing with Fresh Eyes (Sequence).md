@@ -23,7 +23,7 @@ On the challenge of recognizing evidence that doesn’t fit our expectations and
 - [[Anchoring and Adjustment]] (`= [[Anchoring and Adjustment]].status`)
 - [[Priming and Contamination]] (`= [[Priming and Contamination]].status`)
 - [[Do We Believe Everything We're Told?]] (`= [[Do We Believe Everything We're Told?]].status`)
-- [[Cached Thoughts]] (`= [[Cached Thoughts]].status`)
+- [[Cached Thoughts (Post)]] (`= [[Cached Thoughts]].status`)
 - [[Original Seeing]] (`= [[Original Seeing]].status`)
 - [[The Virtue of Narrowness]] (`= [[The Virtue of Narrowness]].status`)
 - [[Stranger Than History]] (`= [[Stranger Than History]].status`)

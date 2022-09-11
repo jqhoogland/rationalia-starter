@@ -27,7 +27,7 @@ book: Mere Goodness
 
 # Related
 
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Complexity of Value]]
 - [[Human Values]]
 - [[An Alien God]]

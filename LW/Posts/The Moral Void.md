@@ -28,7 +28,7 @@ status: todo
 - [[What Would You Do Without Morality?]]
 - [[Something to Protect]]
 - "[horrible job interview questions](http://www.youtube.com/watch?v=1dWMIuipn_c)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - "[presented](http://books.google.com/books?id=igN6Q9weoYQC&pg=PA39&lpg=PA39&dq=tamarin+joshua&source=web&ots=UU-Z3a1IWn&sig=INNgmxQHyvvdF_00Z4W3zH0O_sY&hl=en&sa=X&oi=book_result&resnum=3&ct=result#PPA39,M1)"
 - [[Semantic Stopsigns]]
 - [[Affective Death Spirals]]

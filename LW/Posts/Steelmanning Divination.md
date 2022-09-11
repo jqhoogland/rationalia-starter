@@ -27,7 +27,7 @@ book: The Engines of Cognition
 
 - [[Steelmanning]]
 - [[Cultural knowledge]]
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - "[some arguments](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.1957.59.1.02a00060)"
 - "[Xunzi](http://en.wikipedia.org/wiki/Xunzi_(book)"
 - "[Xunzi](http://en.wikipedia.org/wiki/Xun_Kuang)"

@@ -27,7 +27,7 @@ If you've enjoyed the [Sequence Highlights](https://www.lesswrong.com/highlights
 - [[Schelling fences on slippery slopes]] (`= [[Schelling fences on slippery slopes]].status`)
 - [[The Best Textbooks on Every Subject]] (`= [[The Best Textbooks on Every Subject]].status`)
 - [[The Costly Coordination Mechanism of Common Knowledge]] (`= [[The Costly Coordination Mechanism of Common Knowledge]].status`)
-- [[Slack]] (`= [[Slack]].status`)
+- [[LW/Concepts/Practical/Domains of Well-being/Slack]] (`= [[Slack]].status`)
 - [[Lies, Damn Lies, and Fabricated Options]] (`= [[Lies, Damn Lies, and Fabricated Options]].status`)
 - [[When Money Is Abundant, Knowledge Is The Real Wealth]] (`= [[When Money Is Abundant, Knowledge Is The Real Wealth]].status`)
 - [[What Money Cannot Buy]] (`= [[What Money Cannot Buy]].status`)

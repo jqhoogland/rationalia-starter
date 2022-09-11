@@ -34,7 +34,7 @@ status: todo
 - [[Consciousness]]
 - [[Decoherence]]
 - [[Where Philosophy Meets Science]]
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - "[_The Quantum Physics Sequence_](/lw/r5/the_quantum_physics_sequence/)"
 - [[Where Experience Confuses Physicists]]
 - [[Which Basis Is More Fundamental?]]

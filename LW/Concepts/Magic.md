@@ -29,7 +29,7 @@ In our own naturalistic, [[Reductionism|reductionist]] universe, there is always
 ## See Also
 
 - [[Sympathetic Magic|Sympathetic magic]] (`= [[Sympathetic Magic|Sympathetic magic]].status`)
-- [[Mind Projection Fallacy|Mind projection fallacy]], [[Detached Lever Fallacy|Detached lever fallacy]]
+- [[LW/Concepts/Mind Projection Fallacy|Mind projection fallacy]], [[Detached Lever Fallacy|Detached lever fallacy]]
 - [[Occam's Razor|Occam's razor]], [[Fake Simplicity|Fake simplicity]]
 - [[Unsupervised Universe|Unsupervised universe]] (`= [[Unsupervised Universe|Unsupervised universe]].status`)
 - [[Joy In The Merely Real|Joy in the merely real]] (`= [[Joy In The Merely Real|Joy in the merely real]].status`)

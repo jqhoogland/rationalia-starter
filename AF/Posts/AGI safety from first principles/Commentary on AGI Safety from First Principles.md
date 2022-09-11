@@ -12,8 +12,22 @@ tags:
   - AI
 sequence: AGI safety from first principles
 author: Richard_Ngo
-status: todo
+status: in progress
 ---
+
+# Commentary
+
+[[Will McAskill]] identifies two claims:
+
+**Claim 1** ("uncontroversial")
+
+> At some point in the future, assuming continued tech progress, history will have primarily become the story of AI systems doing things. The goals of those AI systems, or the emergent path that results from interactions among these systems, will probably not be what you reading this document want to happen.
+
+**Claim 2** ("controversial")
+
+> Claim 1 is true, and the point in time at which the transition from a human-driven world to an AI-driven world is in our lifetime, and the transition will be fast, and we can meaningfully affect how this transition goes with very long-lasting impacts, and (on the classic formulations at least) the transition will be to a single AI agent with more power than all other agents combined, and what we should try to do in response to all this is ensure that the AI systems that get built have goals that are the same as the goals of those who design the AI systems.
+
+==A sufficiently high-dimensional utility function is impossible for the agent to grasp in full. This seems to put explicit pressure towards reversible outcomes that prevent the agent from constraining probability space too tightly. Would this manifest as not-caring (too much) about goals?==
 
 # Related
 

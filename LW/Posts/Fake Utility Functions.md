@@ -35,7 +35,7 @@ book: Mere Goodness
 - "[meant](/lw/ke/illusion_of_transparency_why_no_one_understands/)"
 - [[Affective Death Spirals]]
 - "[Kolmogorov complexity](/lw/jp/occams_razor/)"
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Expecting Short Inferential Distances]]
 - "[opposite](/lw/l0/adaptationexecuters_not_fitnessmaximizers/)"
 - "[descriptive](http://atheism.about.com/library/FAQs/phil/blfaq_phileth_cat.htm)"

@@ -61,7 +61,7 @@ Lesswrong is still active and activity can also be found in the diaspora communi
 
 - [Discord](https://wiki.lesswrong.com/wiki/Discord)
 - [Less Wrong IRC Chatroom](https://www.lesswrong.com/about_IRC_Chatroom)
-- [[Slack]] (`= [[Slack]].status`)
+- [[LW/Concepts/Slack]] (`= [[Slack]].status`)
 - [Study Hall](https://wiki.lesswrong.com/wiki/Study_Hall)
 
 ## The View From 2016

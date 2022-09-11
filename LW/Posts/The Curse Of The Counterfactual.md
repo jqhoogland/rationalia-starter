@@ -34,10 +34,10 @@ book: The Engines of Cognition
 # Related
 
 - [[Akrasia]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Sunk-Cost Fallacy]]
 - [[Emotions]]
-- [[Map and Territory]]
+- [[LW/Books/Map and Territory]]
 - [[Counterfactuals]]
 - [[Memory Reconsolidation]]
 - "[is-ought distinctions](https://www.lesswrong.com/posts/SCEi8uxS25bCDzHRj/mental-representation-and-the-is-ought-distinction)"

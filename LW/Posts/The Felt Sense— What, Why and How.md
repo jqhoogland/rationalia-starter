@@ -52,12 +52,12 @@ collection: Best of LessWrong
 - "[3](https://www.lesswrong.com/posts/JTzxg7y5HFYBBWfBj/identities-are-subconscious-strategies)"
 - "[Gendlin's original book](https://www.amazon.com/Focusing-Open-Deeper-Feelings-Intuition/dp/184413220X/)"
 - "[Focusing-Oriented Psychotherapy](https://www.focusingtherapy.org/)"
-- [[Internal Double Crux]]
+- [[Internal Double Crux (Post)]]
 - [[Building up to an Internal Family Systems model]]
 - [[Book summary: Unlocking the Emotional Brain]]
 - "[craving for specific outcomes](https://www.lesswrong.com/posts/gvXFBaThWrMsSjicD/craving-suffering-and-predictive-processing-three)"
 - "[seems like absolute truth to me](https://www.lesswrong.com/posts/5g7oFiePGEY3h4bqX/prereq-cognitive-fusion)"
-- [[Trigger-Action Planning]]
+- [[Trigger-Action Planning (Post)]]
 - "[Duncan Sabien](https://www.lesswrong.com/posts/PXqQhYEdbdAYCp88m/focusing-for-skeptics)"
 - "[alkjash](https://www.lesswrong.com/posts/noXTkjP45BAZqKJxM/focusing)"
 - "[Mark Xu](https://www.lesswrong.com/posts/vHXe2f59bJHihvcBt/training-regime-day-12-focusing)"

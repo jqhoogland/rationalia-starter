@@ -27,7 +27,7 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Productivity]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Akrasia]]
 - [[Willpower]]
 - [[On Doing the Impossible]]

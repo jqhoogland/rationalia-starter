@@ -26,7 +26,7 @@ status: todo
 
 - [[Rationality]]
 - [[Ethics & Morality]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Fundamental Doubts]]
 - [[Where Recursive Justification Hits Bottom]]
 - [[No Universally Compelling Arguments]]

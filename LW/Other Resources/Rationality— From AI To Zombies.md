@@ -24,7 +24,7 @@ Ebook cover image.
 
 The ebook's contents are organized into six books, containing a total of 333 essays from the Sequences. The 333 essays are further divided into twenty-six sequences, lettered A through Z:
 
-- Book I: *[[LW/Concepts/Map and Territory|Map and Territory]]*
+- Book I: *[[LW/Rationality/Theory, Concepts/Map and Territory|Map and Territory]]*
     - A. Predictably Wrong
     - B. Fake Beliefs
     - C. Noticing Confusion

@@ -28,7 +28,7 @@ book: The Machine in the Ghost
 
 - [[Bounded Rationality]]
 - [[Embedded Agency]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[The Martial Art of Rationality]]
 - "[“Cognitive biases potentially affecting judgement of global risks”](https://intelligence.org/files/CognitiveBiases.pdf)"
 - "[“Artificial intelligence as a positive and negative factor in global risk,”](https://intelligence.org/files/AIPosNegFactor.pdf)"

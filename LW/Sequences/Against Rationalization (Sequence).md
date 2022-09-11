@@ -25,7 +25,7 @@ The last sequence focused in on how feeling tribal often distorts our ability to
 - [[One Argument Against An Army]] (`= [[One Argument Against An Army]].status`)
 - [[The Bottom Line]] (`= [[The Bottom Line]].status`)
 - [[What Evidence Filtered Evidence?]] (`= [[What Evidence Filtered Evidence?]].status`)
-- [[Rationalization]] (`= [[Rationalization]].status`)
+- [[Rationalization (Post)]] (`= [[Rationalization]].status`)
 - [[A Rational Argument]] (`= [[A Rational Argument]].status`)
 - [[Avoiding Your Belief's Real Weak Points]] (`= [[Avoiding Your Belief's Real Weak Points]].status`)
 - [[Motivated Stopping and Motivated Continuation]] (`= [[Motivated Stopping and Motivated Continuation]].status`)

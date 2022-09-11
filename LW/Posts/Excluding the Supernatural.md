@@ -34,7 +34,7 @@ author: Eliezer_Yudkowsky
 - "[Richard Carrier](http://richardcarrier.blogspot.com/2007/01/defining-supernatural.html)"
 - [[When Anthropomorphism Became Stupid]]
 - [[Joy in the Merely Real]]
-- [[Mind Projection Fallacy]]
+- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[An Alien God]]
 - [[Professing and Cheering]]
 - "[supernatural explanations sound much simpler than they really are](/lw/jp/occams_razor/)"

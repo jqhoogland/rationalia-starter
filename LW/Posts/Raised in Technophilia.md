@@ -26,13 +26,13 @@ book: Becoming Stronger
 
 - [[Growth Stories]]
 - "[Deep Wisdom](/lw/k8/how_to_seem_and_be_deep/)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - [[Applause Lights]]
 - "[slow FDA approval of drugs approved in other countries](http://www.overcomingbias.com/2008/09/deafening-silen.html)"
 - "[pointed out](http://www.overcomingbias.com/2008/09/deafening-silen.html#comment-130860808)"
 - "[this source](http://www.fdareview.org/harm.shtml)"
 - [[Are Your Enemies Innately Evil?]]
 - "[testable](/lw/qd/science_isnt_strict_enough/)"
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Taboo Your Words]]
 - [[Mysterious Answers to Mysterious Questions]]

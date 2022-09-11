@@ -25,7 +25,7 @@ author: null
 
 - [[Emotions]]
 - [[Signaling]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Guilt & Shame]]
 - "[many posts](http://wiki.lesswrong.com/wiki/Evolutionary_psychology)"
 - "[theorize that](http://www.psych.ucsb.edu/research/cep/emotion.html)"

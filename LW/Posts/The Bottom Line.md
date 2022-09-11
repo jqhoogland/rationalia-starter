@@ -29,7 +29,7 @@ book: How to Actually Change Your Mind
 # Related
 
 - [[Rationality]]
-- [[Rationalization]]
+- [[Rationalization (Post)]]
 - [[Filtered Evidence]]
 - [[Litany of Tarski]]
 - "[1](#fn1x27)"

@@ -35,7 +35,7 @@ book: Mere Goodness
 - [[Deontology]]
 - [[Consequentialism]]
 - [[Ethics & Morality]]
-- [[Evolutionary Psychology]]
+- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[Decision Theory]]
 - [[Beyond the Reach of God]]
 - [[Humans in Funny Suits]]

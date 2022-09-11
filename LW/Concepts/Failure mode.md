@@ -46,7 +46,7 @@ Knowing and understanding possible failure modes in what you attempting to do is
 
 [[Heuristics & Biases]]
 
-[[Mind Projection Fallacy]]
+[[LW/Concepts/Mind Projection Fallacy]]
 
 [[Motivated Reasoning]]
 

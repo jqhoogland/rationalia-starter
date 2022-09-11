@@ -10,6 +10,10 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:20.275Z'
 status: todo
+aliases:
+  - Coalitional Instincts
+  - tribe
+  - coalition
 ---
 
 # Tribalism
@@ -28,15 +32,18 @@ See also: [[Blues & Greens (metaphor)|Blues and Greens]], [[Groupthink]], [[Moti
 
 > \-\- Peter DeScioli & Robert Kurzban, "[A Solution to the Mysteries of Morality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.840.3768&rep=rep1&type=pdf)"
 
-
 %%
 
 % START
+
 Basic (and reversed card)
+
 What is **Tribalism**?
+
 Back: {TODO}
+
 Tags: LessWrong
+
 END
 
 %%
-	

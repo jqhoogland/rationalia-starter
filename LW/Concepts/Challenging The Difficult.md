@@ -20,7 +20,7 @@ A [sequence](https://wiki.lesswrong.com/wiki/sequence) on how to do things that 
 
 - [The Proper Use of Humility](http://lesswrong.com/lw/gq/the_proper_use_of_humility/)
 - [Tsuyoku Naritai (I Want To Become Stronger)](http://lesswrong.com/lw/h8/tsuyoku_naritai_i_want_to_become_stronger/)
-- [Tsuyoku vs. the Egalitarian Instinct](http://lesswrong.com/lw/h9/tsuyoku_vs_the_egalitarian_instinct/) \- There may be [[Evolutionary Psychology|evolutionary psychological]] factors that encourage [[Humility|modesty]] and mediocrity, at least in [[Signaling|appearance]]; while some of that may still apply today, you should mentally plan and strive to pull ahead, if you are doing things right.
+- [Tsuyoku vs. the Egalitarian Instinct](http://lesswrong.com/lw/h9/tsuyoku_vs_the_egalitarian_instinct/) \- There may be [[LW/Concepts/Evolutionary Psychology|evolutionary psychological]] factors that encourage [[Humility|modesty]] and mediocrity, at least in [[Signaling|appearance]]; while some of that may still apply today, you should mentally plan and strive to pull ahead, if you are doing things right.
 - [Guardians of the Truth](http://lesswrong.com/lw/lz/guardians_of_the_truth/) and [Guardians of Ayn Rand](http://lesswrong.com/lw/m1/guardians_of_ayn_rand/)
 - [*Lotteries: A Waste of Hope*](http://lesswrong.com/lw/hl/lotteries_a_waste_of_hope/) and [*New Improved Lottery*](http://lesswrong.com/lw/hm/new_improved_lottery/)
 - [*The Failures of Eld Science*](http://lesswrong.com/lw/q9/the_failures_of_eld_science/) (prerequisite: [Quantum Physics](http://lesswrong.com/lw/r5/the_quantum_physics_sequence/))

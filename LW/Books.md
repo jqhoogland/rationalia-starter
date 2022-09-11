@@ -13,7 +13,7 @@
 
 ## [[Rationality— A-Z]]
 
-- [[Map and Territory]] (`= [[Map and Territory]].status`)
+- [[LW/Books/Map and Territory]] (`= [[Map and Territory]].status`)
 - [[How to Actually Change Your Mind]] (`= [[How to Actually Change Your Mind]].status`)
 - [[The Machine in the Ghost]] (`= [[The Machine in the Ghost]].status`)
 - [[Mere Reality]] (`= [[Mere Reality]].status`)

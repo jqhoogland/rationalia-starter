@@ -34,5 +34,5 @@ author: Eliezer_Yudkowsky
 - [[Semantic Stopsigns]]
 - [[Science as Attire]]
 - "[password](/lw/iq/guessing_the_teachers_password/)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - "[boring](/lw/j3/science_as_curiositystopper/)"

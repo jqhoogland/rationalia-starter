@@ -50,7 +50,7 @@ author: AnnaSalamon
 - "[overconfident](http://en.wikipedia.org/wiki/Overconfidence_effect)"
 - "[overestimate the probability of conjunctions](http://en.wikipedia.org/wiki/Conjunction_fallacy)"
 - "[search preferentially for evidence that we’re right](http://en.wikipedia.org/wiki/Confirmation_bias)"
-- [[Conservation of Expected Evidence]]
+- [[Conservation of Expected Evidence (Post)]]
 - [[The Mystery of the Haunted Rationalist]]
 - "[feeling](http://www.sciencemag.org/cgi/content/abstract/275/5304/1293)"
 - "[visualizing your evidence concretely](/lw/1r/striving_to_accept/)"

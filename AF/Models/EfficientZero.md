@@ -8,6 +8,7 @@ tags:
   - LessWrong
   - Concept
   - Tag
+  - Model
 synchedAt: '2022-09-01T09:42:49.125Z'
 status: todo
 ---
@@ -19,11 +20,17 @@ The [[Reinforcement Learning|RL agent]] that beat all the Atari games.
 %%
 
 % START
+
 Basic (and reversed card)
+
 What is **EfficientZero**?
+
 Back: The RL agent that beat all the Atari games.
+
 Tags: LessWrong
+
 END
 
 %%
-	
+
+

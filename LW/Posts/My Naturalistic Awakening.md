@@ -29,7 +29,7 @@ book: Becoming Stronger
 - [[Rationality]]
 - "[the notion of an optimization process](/lw/tx/optimization/)"
 - "[dichotomy](/lw/mg/the_twoparty_swindle/)"
-- [[Cached Thoughts]]
+- [[Cached Thoughts (Post)]]
 - "[structural essence](/lw/o7/searching_for_bayesstructure/)"
 - [[Dreams of AI Design]]
 - "[analogy](/lw/rj/surface_analogies_and_deep_causes/)"

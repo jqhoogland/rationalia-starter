@@ -48,7 +48,7 @@ book: A Map That Reflects the Territory
 - "[pumping intuition](https://en.wikipedia.org/wiki/Intuition_pump)"
 - "[coherent relationship](https://en.wikipedia.org/wiki/Karpman_drama_triangle)"
 - "[gaslighting](https://en.wikipedia.org/wiki/Gaslighting)"
-- [[Slack]]
+- [[LW/Concepts/Practical/Domains of Well-being/Slack]]
 - "[privilege](https://everydayfeminism.com/2014/09/what-is-privilege/)"
 - "[white](https://en.wikipedia.org/wiki/White_privilege)"
 - "[man](https://en.wikipedia.org/wiki/Male_privilege)"
@@ -79,4 +79,4 @@ book: A Map That Reflects the Territory
 - "[see for yourself](https://www.lesswrong.com/posts/tMhEv28KJYWsu6Wdo/kensh)"
 - "[Looking](https://www.lesserwrong.com/posts/tMhEv28KJYWsu6Wdo/kensh)"
 - "[The Emperor’s New Clothes](http://www.online-literature.com/hans_christian_andersen/967/)"
-- [[Rationalization]]
+- [[Rationalization (Post)]]
