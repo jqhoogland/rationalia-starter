@@ -30,7 +30,7 @@ book: Mere Reality
 
 # Related
 
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Logic & Mathematics ]]
 - [[References (Language)]]
 - [[Distinctions]]

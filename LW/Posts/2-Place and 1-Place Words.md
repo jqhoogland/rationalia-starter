@@ -31,7 +31,7 @@ book: Mere Goodness
 
 - [[Philosophy of Language]]
 - [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - "[0, ∞)
 
 As though it were a function of 1 argument ("1-place function"):

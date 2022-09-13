@@ -30,7 +30,7 @@ status: todo
 
 - [[Truth, Semantics, & Meaning]]
 - [[Epistemology]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Reductionism]]
 - [[Logical Pinpointing]]
 - [[Causal Reference]]

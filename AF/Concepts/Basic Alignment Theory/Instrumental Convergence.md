@@ -80,6 +80,7 @@ What are **Omohundro's basic drives**?
 - {{c3::**(Resource) Acquisition**}}
 - {c4::**Creativity**}}
 Tags: LessWrong
+ID: 1662927705569
 END
 
 START
@@ -91,6 +92,7 @@ What are **Boström's basic drives**?
 - {{c4::**Technological perfection**}}
 - {{c5::**Resource acquisition**}}
 Tags: LessWrong
+ID: 1662927705589
 END
 
 %%

@@ -26,7 +26,7 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Truth, Semantics, & Meaning]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Reductionism]]
 - [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[The Argument from Common Usage]]

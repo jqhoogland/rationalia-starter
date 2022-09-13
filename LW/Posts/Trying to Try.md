@@ -33,7 +33,7 @@ book: Becoming Stronger
 - [[Heroic Responsibility]]
 - [[Heuristics & Biases]]
 - [[Planning & Decision-Making]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - "[Yoda](http://www.youtube.com/watch?v=PcjnbIF1yAA)"
 - "[Deep Wisdom](/lw/k8/how_to_seem_and_be_deep/)"
 - [[Infinite Certainty]]

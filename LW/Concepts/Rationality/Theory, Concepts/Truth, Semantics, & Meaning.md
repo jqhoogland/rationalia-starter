@@ -18,7 +18,7 @@ status: done
 
 # Truth, Semantics, & Meaning
 
-**Truth, Semantics, and Meaning**: What does it mean to assert that something is true? A very popular answer is [[LW/Books/Map and Territory|map-territory correspondence theory]]. But the details of this theory are not clear, and there are other contenders.
+**Truth, Semantics, and Meaning**: What does it mean to assert that something is true? A very popular answer is [[Map and Territory (Book)|map-territory correspondence theory]]. But the details of this theory are not clear, and there are other contenders.
 
 ## Truth as Correspondence
 

@@ -127,7 +127,6 @@ What is **Acausal Trade**?
 Back: When two agents each benefit by predicting what the other wants and doing it, even though they might have no way of communicating or affecting each other, nor even any direct evidence that the other exists.
 
 Tags: LessWrong
-
 ID: 1661855607972
 
 END

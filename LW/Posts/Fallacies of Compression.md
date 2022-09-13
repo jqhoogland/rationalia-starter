@@ -32,7 +32,7 @@ book: The Machine in the Ghost
 # Related
 
 - [[Bucket Errors]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Philosophy of Language]]
 - [[Fallacy of Gray]]
 - [[Distinctions]]

@@ -29,7 +29,7 @@ book: How to Actually Change Your Mind
 
 # Related
 
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Physics]]
 - [[Rationality]]
 - [[Bayesianism]]

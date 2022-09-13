@@ -26,7 +26,7 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Physics]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Reductionism]]
 - "[too obvious](http://www.overcomingbias.com/2007/08/failing-to-lear.html)"
 - "[hindsight](http://www.overcomingbias.com/2007/08/hindsight-deval.html)"

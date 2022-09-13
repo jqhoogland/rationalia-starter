@@ -42,6 +42,7 @@ What are the four VNM axioms?
 3. {{c3::**Continuity.** If $A \leq{} B \leq{} C$, then there exists a probability $p \in{} [0,1]$ such that  $pA+(1-p)C \sim{} B$. In other words, there is a probability which hits any point between two gambles.}}
 4. {{c4::**Independence.** For any $C$ and $p \in{} [0,1]$, we have $A \leq{} B$ if and only if $pA + (1-p)C \leq{} pB + (1-p)C$. In other words, substituting $A$ for $B$ in any gamble can't make that gamble worth less.}}
 Tags: LessWrong
+ID: 1662927705003
 END
 
 START

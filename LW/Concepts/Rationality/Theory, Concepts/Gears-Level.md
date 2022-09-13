@@ -16,7 +16,7 @@ status: todo
 
 A **gears-level** model is 'well-constrained' in the sense that there is a strong connection between each of the things you observe-- it would be hard for you to imagine that one of the variables could be different while all of the others remained the same.
 
-*Related Tags: [[Anticipated Experiences]], [[Anticipated Experiences|Double Crux]], [[Empiricism]], [[Falsifiability]], [[LW/Books/Map and Territory]]*
+*Related Tags: [[Anticipated Experiences]], [[Anticipated Experiences|Double Crux]], [[Empiricism]], [[Falsifiability]], [[Map and Territory (Book)]]*
 
 The term **gears-level** was first described on LW in the post ["Gears in Understanding"](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding):
 

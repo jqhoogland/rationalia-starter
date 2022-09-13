@@ -37,7 +37,7 @@ book: The Engines of Cognition
 - [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Sunk-Cost Fallacy]]
 - [[Emotions]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Counterfactuals]]
 - [[Memory Reconsolidation]]
 - "[is-ought distinctions](https://www.lesswrong.com/posts/SCEi8uxS25bCDzHRj/mental-representation-and-the-is-ought-distinction)"

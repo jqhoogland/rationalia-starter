@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Books/Highlights from the Sequences (Book).md",
-            "mode": "source",
+            "file": "LW/Books/Epilogue (Codex).md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "78310523c0247c7f",
         "type": "tabs",
-        "dimension": 81.81818181818183,
+        "dimension": 81.81818181818181,
         "children": [
           {
             "id": "92830efe01fd330c",
@@ -56,7 +56,7 @@
       {
         "id": "402f879634acba83",
         "type": "tabs",
-        "dimension": 18.181818181818183,
+        "dimension": 18.18181818181818,
         "children": [
           {
             "id": "fdb757c5f7b55ec6",
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Books/Highlights from the Sequences (Book).md"
+                "file": "LW/Books/Epilogue (Codex).md"
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Books/Highlights from the Sequences (Book).md",
+                "file": "LW/Books/Epilogue (Codex).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "eabadff7be0e1729",
   "lastOpenFiles": [
-    "LW/Collections/Best of LessWrong.md",
-    "LW/Books/Highlights from the Sequences (Book).md",
     "LW/Collections/The Codex.md",
-    "EA/Books/Introduction to Effective Altruism.md",
-    "EA/Collections/The effective altruism handbook.md",
-    "EA/Sequences/Our Final Century?.md",
-    "EA/Sequences/What could the future hold? And why care?.md",
-    "EA/Sequences/Smarter than us.md",
-    "EA/Sequences/What do you think?.md",
-    "EA/Sequences/Putting it into practice.md"
+    "LW/Books/Designing the World.md",
+    "LW/Books/The Institution of Science.md",
+    "LW/Books/Good and Bad Reasoning.md",
+    "LW/Concepts/Sequences.md",
+    "LW/Books/Becoming Stronger.md",
+    "LW/Collections/Rationality— A-Z.md",
+    "LW/Books/Mere Goodness.md",
+    "LW/Books/Mere Reality.md",
+    "LW/Books/The Machine in the Ghost.md"
   ]
 }

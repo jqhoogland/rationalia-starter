@@ -15,7 +15,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/draft-of-a-suggested-rea
 
 ## Basic Concepts
 
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Rationality]]
 - [[Truth, Semantics, & Meaning]]
 - [[Improper belief]]

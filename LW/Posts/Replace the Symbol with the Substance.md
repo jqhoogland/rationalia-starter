@@ -28,7 +28,7 @@ author: Eliezer_Yudkowsky
 # Related
 
 - [[Philosophy of Language]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Techniques]]
 - [[Rationalist Taboo]]
 - [[Original Seeing]]

@@ -30,7 +30,7 @@ status: todo
 
 # Related
 
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Truth, Semantics, & Meaning]]
 - [[Ethics & Morality]]
 - [[Epistemology]]

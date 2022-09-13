@@ -33,7 +33,7 @@ status: todo
 - [[Causality]]
 - [[Definitions]]
 - [[Truth, Semantics, & Meaning]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Belief in Belief]]
 - "[exceptions](/lw/s/belief_in_selfdeception/)"
 - [[Hindsight Devalues Science]]

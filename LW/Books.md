@@ -13,7 +13,7 @@
 
 ## [[Rationality— A-Z]]
 
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[How to Actually Change Your Mind]]
 - [[The Machine in the Ghost]]
 - [[Mere Reality]]

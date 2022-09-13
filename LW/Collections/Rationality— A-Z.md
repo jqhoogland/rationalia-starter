@@ -19,7 +19,7 @@ The first two books, [Map and Territory](https://smile.amazon.com/Map-Territory-
 
 # Books
 
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[How to Actually Change Your Mind]]
 - [[The Machine in the Ghost]]
 - [[Mere Reality]]

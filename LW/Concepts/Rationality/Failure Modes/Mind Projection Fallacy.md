@@ -29,7 +29,7 @@ author: Eliezer_Yudkowsky
 - [[Rationality]]
 - [[Fallacies]]
 - [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
 - [[How An Algorithm Feels From Inside]]
 - "[Mind Projection Fallacy](http://citeseer.ist.psu.edu/6330.html)"

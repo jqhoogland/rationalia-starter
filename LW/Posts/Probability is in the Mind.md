@@ -30,6 +30,6 @@ author: Eliezer_Yudkowsky
 - [[Rationality]]
 - [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
 - [[Bayes' Theorem]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Bayesianism]]
 - "[certain way](http://www.overcomingbias.com/2008/01/something-to-pr.html)"

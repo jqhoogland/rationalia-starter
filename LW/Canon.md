@@ -182,7 +182,7 @@ status: todo
 - [[Magical categories]]
 - [[Making Beliefs Pay Rent]]
 - [[Many-worlds interpretation]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - [[Meme lineage]]
 - [[Memorization]]
 - [[Modesty]]

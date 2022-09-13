@@ -36,5 +36,5 @@ book: 'Map and Territory '
 - [[Anticipated Experiences]]
 - [[Causality]]
 - [[Truth, Semantics, & Meaning]]
-- [[LW/Books/Map and Territory]]
+- [[Map and Territory (Book)]]
 - "[journalist](http://www.3ammagazine.com/litarchives/2003/jan/interview_catherine_camus.html)"
