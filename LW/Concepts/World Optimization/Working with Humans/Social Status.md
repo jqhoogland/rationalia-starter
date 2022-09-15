@@ -43,6 +43,8 @@ Basic (and reversed card)
 What is **Social Status**?
 
 Back: {TODO}
+<!--ID: 1663156951603-->
+
 
 Tags: LessWrong
 

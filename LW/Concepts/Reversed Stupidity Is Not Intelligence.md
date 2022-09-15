@@ -29,6 +29,8 @@ What is **Reversed Stupidity Is Not Intelligence**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156971765-->
+
 
 %%
 	

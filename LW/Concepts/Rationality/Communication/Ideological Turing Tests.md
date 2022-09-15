@@ -37,6 +37,8 @@ What is **Ideological Turing Tests**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156977414-->
+
 
 %%
 	

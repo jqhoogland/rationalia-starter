@@ -11,7 +11,7 @@ synchedAt: '2022-09-11T14:34:20.362Z'
 ---
 # Cognitive bias
 
-A **cognitive bias** is a systematic deviation from ideal reasoning.
+A **cognitive bias** is a systematic deviation from ideal reasoning. ^f75004
 
 Further reading
 ---------------

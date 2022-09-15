@@ -1,9 +1,8 @@
 ---
-title: null
+href: 
 type: jargon
 tags:
   - LessWrong
   - Concept
   - Jargon
-status: todo
 ---

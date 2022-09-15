@@ -11,3 +11,18 @@ href: https://course.fast.ai/
 - [7: Collaborative filtering](https://course.fast.ai/Lessons/lesson7.html)
 - [8: Convolutions (CNNs)](https://course.fast.ai/Lessons/lesson8.html)
 - [9: Data ethics](https://course.fast.ai/Lessons/lesson9.html)
+
+---
+
+# Introduction
+
+1943: Warren McCulloch & Walter Pitts develop the first model of an artificial neuron
+Frank Rosenblatt  developed the Perceptron with a learning ability
+Marvin Minsky showed with Rosenblatt how to implement XOR. They anticipated the value of multiple layers but this was largely missed by the community.
+
+1980's: started introducing more layers
+
+David Perkens' advice on teaching: *teach the whole game*
+
+TODO: read [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+

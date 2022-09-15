@@ -20,10 +20,15 @@ synchedAt: '2022-09-01T09:11:50.044Z'
 status: todo
 collection: Highlights from the Sequences
 book: null
+aliases:
+  - Schelling Fence
 ---
 
 # Schelling Fences on Slippery Slopes
 
+If we incentivized [[Murder-Gandhi|Gandhi with $1 million per 1% decrease in pacifism]], he should precommit to some acceptable threshold of decrease (say, 5%), that less-than balance out the payments.
+
+This "Schelling Fence" would balance out the "slippery slope."
 
 # Related
 

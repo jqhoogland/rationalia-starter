@@ -39,6 +39,8 @@ What is **Kolmogorov Complexity**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156995249-->
+
 
 %%
 	

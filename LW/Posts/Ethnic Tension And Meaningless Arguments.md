@@ -25,10 +25,12 @@ book: Good and Bad Reasoning
 ---
 
 # Ethnic Tension And Meaningless Arguments
-
+Imagine if [[Disguised Queries]] and the [[Affect Heuristic]] had a baby. Boom, there you have the Israel-Palestine conflict (in particular the labels "Pro-Israel" and "Pro-Palestine") and all the other major debates. A special case is the [[The noncentral fallacy]].
 
 # Related
-
+- [[Bravery Debates]]
+- [[Emotivism]]
+- [[Motte and Bailey]]
 - [[World Modeling]]
 - [[Social & Cultural Dynamics]]
 - [[Anticipated Experiences]]

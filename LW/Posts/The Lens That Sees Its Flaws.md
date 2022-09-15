@@ -23,6 +23,7 @@ author: Eliezer Yudkowsky
 
 # The Lens That Sees Its Flaws
 
+> The whole idea of [[Science]] is, simply, reflective reasoning about a more reliable process for making the contents of your mind mirror the contents of the world. It is the sort of thing mice would never invent.
 
 # Related
 

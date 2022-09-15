@@ -30,4 +30,4 @@ book: null
 
 - [[Planning & Decision-Making]]
 - [[Fiction]]
-- [[Planning Fallacy]]
+- [[Planning Fallacy (Post)]]

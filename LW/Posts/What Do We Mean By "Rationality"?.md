@@ -24,6 +24,12 @@ author: Eliezer Yudkowsky
 
 # What Do We Mean by "Rationality"?
 
+**[[Rationality|Two definitions]]:**
+
+1. **Epistemic rationality**: systematically improving the accuracy of your beliefs.
+2. **Instrumental rationality**: systematically achieving your values.
+
+This isn't the devoid-of-emotion sense of "rationality" that is often displayed in the media.
 
 # Related
 

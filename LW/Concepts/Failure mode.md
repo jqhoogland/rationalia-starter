@@ -24,7 +24,7 @@ Knowing and understanding possible failure modes in what you attempting to do is
 
 [[Bias]]
 
-[[Planning Fallacy]] 
+[[1 Projects/Rationalia/LW/Concepts/Planning Fallacy]] 
 
 [[Status Quo Bias]]
 
@@ -97,6 +97,8 @@ What is **Failure mode**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157004608-->
+
 
 %%
 	

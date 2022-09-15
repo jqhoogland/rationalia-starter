@@ -22,9 +22,19 @@ status: todo
 collection: The Codex
 book: Good and Bad Reasoning
 author: Scott Alexander
+aliases:
+  - uneducated, contrarian, meta-contrarian
 ---
 
 # Intellectual Hipsters and Meta-Contrarianism
+
+Many debates fall into a triad of **uneducated, contrarian, and meta-contrarian**. E.g.:
+- Death is bad (5-year-old) / Death has benefits (most people) / Death is bad (rationalists)
+- Conservatism / Liberalism / Libertarianism
+- KKK-style racist / PC liberal / "but there are scientifically proven differences"
+- Alternative medicine / Conventional medicine / Robin Hanson
+
+> _the fact that those beliefs are in an order does not mean some of them are good and others are bad_
 
 
 # Related

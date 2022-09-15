@@ -18,7 +18,7 @@ The **availability heuristic** judges the probability of events by the ease with
 
 ## Blog Posts
 
-- [Availability](http://lesswrong.com/lw/j5/availability/)
+- [[Availability]]
 
 ## External Links
 
@@ -34,12 +34,13 @@ The **availability heuristic** judges the probability of events by the ease with
 
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Availability Heuristic**?
-Back: {TODO}
+Back: Judging the probability of events by the ease with which examples come to mind.
 Tags: LessWrong
 END
+
 
 %%
 	

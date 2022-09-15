@@ -44,7 +44,7 @@ Near and far are two modes (or a spectrum of modes) in which we can think about 
 
 ## See Also
 
-- [[Planning Fallacy|Planning fallacy]], [[Outside View|Outside view]]
+- [[1 Projects/Rationalia/LW/Concepts/Planning Fallacy|Planning fallacy]], [[Outside View|Outside view]]
 - [[Signaling]]
 - [[Narrative Fallacy|Narrative fallacy]]
 - [[Wireheading]]
@@ -58,6 +58,8 @@ What is **Near, Far Thinking**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156987811-->
+
 
 %%
 	

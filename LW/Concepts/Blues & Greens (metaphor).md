@@ -47,6 +47,8 @@ What is **Blues & Greens (metaphor)**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157017854-->
+
 
 %%
 	

@@ -18,10 +18,12 @@ synchedAt: '2022-09-01T09:09:34.517Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: How to Actually Change Your Mind
+aliases:
+  - Fallacy of Origins
+  - Fallacy of Virtue
 ---
 
 # The Genetic Fallacy
-
 
 # Related
 

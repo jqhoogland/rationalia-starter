@@ -33,12 +33,14 @@ The conjunction fallacy suggests that one should be [[Burdensome Details|very ca
 
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Conjunction Fallacy**?
-Back: {TODO}
+Back: When we assign more probability to "A & B" than just "A". 
 Tags: LessWrong
 END
+
+
 
 %%
 	

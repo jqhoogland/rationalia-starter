@@ -27,20 +27,20 @@ The human brain can't *emotionally* represent large quantities; an environmental
 
 - [[Shut Up and Multiply|Shut up and multiply]]
 - [[Expected Utility|Expected utility]], [[Utilitarianism]]
-- [[LW/Concepts/Evolutionary Psychology|Evolutionary psychology]]
+- [[Evolutionary Psychology|Evolutionary psychology]]
 - [[Emotions|Emotion]], [[Alief|alief]]
 - [[Pascal's Mugging|Pascal's mugging]]
-- [[LW/Concepts/World Optimization/Causes, Interventions/Existential Risk|Existential risk]]
-
+- [[Existential Risk|Existential risk]]
 
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Scope Insensitivity**?
-Back: {TODO}
+Back: E.g.: "an environmental measure that will save 200,000 birds doesn't conjure anywhere near a hundred times the emotional impact and willingness-to-pay of a measure that would save 2,000 birds"
 Tags: LessWrong
 END
 
 %%
-	
+
+

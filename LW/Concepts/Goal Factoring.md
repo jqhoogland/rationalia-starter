@@ -27,6 +27,8 @@ What is **Goal Factoring**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157001257-->
+
 
 %%
 	

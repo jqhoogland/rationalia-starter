@@ -36,3 +36,4 @@ aliases:
 - "[one of them](http://en.wikipedia.org/wiki/Robert_Aumann)"
 - "[p = 2/3](http://www.wolframalpha.com/input/?i=max+{p^2%2B4+%281-p%29+p})"
 - "[UDT1](/lw/15m/towards_a_new_decision_theory/)"
+<!--ID: 1663156946218-->

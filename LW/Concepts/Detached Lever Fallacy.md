@@ -45,6 +45,8 @@ What is **Detached Lever Fallacy**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157009004-->
+
 
 %%
 	

@@ -10,6 +10,9 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:42.768Z'
 status: todo
+aliases:
+  - warm glow
+  - warm fuzzy feeling
 ---
 
 # Fuzzies
@@ -37,6 +40,8 @@ What is **Fuzzies**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157002156-->
+
 
 %%
 	

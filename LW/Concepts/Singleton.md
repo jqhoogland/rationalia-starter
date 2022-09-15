@@ -41,6 +41,8 @@ What is **Singleton**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156968759-->
+
 
 %%
 	

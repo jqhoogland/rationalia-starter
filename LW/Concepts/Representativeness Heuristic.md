@@ -38,6 +38,8 @@ What is **Representativeness Heuristic**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156972250-->
+
 
 %%
 	

@@ -28,6 +28,8 @@ What is **Inner Simulator, Suprise-o-meter**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156996959-->
+
 
 %%
 	

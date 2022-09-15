@@ -20,7 +20,7 @@ status: todo
 
 ## See Also
 
-- [[Planning Fallacy|Planning fallacy]]
+- [[1 Projects/Rationalia/LW/Concepts/Planning Fallacy|Planning fallacy]]
 - [[Exploratory Engineering|Exploratory engineering]]
 - [[Forecasting & Prediction|Prediction]], [[Prediction Markets|prediction market]], [[Possibility|possibility]]
 - [Representativeness bias](https://wiki.lesswrong.com/wiki/Representativeness_bias), [[Absurdity Heuristic|Absurdity heuristic]]
@@ -36,6 +36,8 @@ What is **Forecast**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157003208-->
+
 
 %%
 	

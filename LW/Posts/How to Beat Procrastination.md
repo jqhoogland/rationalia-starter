@@ -49,7 +49,7 @@ author: null
 - "[watching inspirational movies](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060616/COMMENTARY/60616003)"
 - "[reading inspirational biographies](http://www.biographyonline.net/people/inspirational/index.html)"
 - "[listening to motivational speakers](http://www.motivational-well-being.com/motivational-speakers.html)"
-- [[Planning Fallacy]]
+- [[Planning Fallacy (Post)]]
 - "[*The Secret*](http://www.amazon.com/Secret-Rhonda-Byrne/dp/1582701709/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0131103628&linkCode=as2&tag=lesswrong-20)"
 - "[Myrtle Young](http://www.youtube.com/watch?v=EY3Lw_-bj5U)"
 - "[modafinil](http://www.gwern.net/Modafinil)"

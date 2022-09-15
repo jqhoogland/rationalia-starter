@@ -51,6 +51,8 @@ What is **Cognitive style**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157014899-->
+
 
 %%
 	

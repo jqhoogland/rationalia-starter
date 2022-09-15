@@ -73,7 +73,7 @@ status: todo
 - [[Motivated skepticism]]
 - [[Narrative fallacy]]
 - [[Overconfidence]]
-- [[Planning fallacy]]
+- [[Planning Fallacy (Post)]]
 - [[Politics is the Mind-Killer]]
 - [[Confirmation Bias|Positive Bias]]
 - [[Priming]]

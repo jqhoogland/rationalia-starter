@@ -27,5 +27,5 @@ book: Good and Bad Reasoning
 
 - [[Fiction]]
 - [[Psychiatry]]
-- "[paradoxical intention](https://en.wikipedia.org/wiki/Paradoxical_intention)"
+- [[Paradoxical Intention]]
 - "[Tophet](http://squid314.livejournal.com/284970.html)"

@@ -15,7 +15,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/a-suggested-reading-orde
 
 ## Top-5
 
-- [[What Do We Mean By "Rationality"]]
+- [[What Do We Mean By "Rationality"?]]
 - [[Scientific Self-Help— The State of Our Knowledge]]
 - [[Cached Selves]]
 - [[Efficient Charity— Do Unto Others...]]

@@ -225,22 +225,40 @@ status: todo
 ## Currently Inactive Blogs
 
 [Bill McGrath Music](http://billmcgrathmusic.wordpress.com/) Bill McGrath {01-2016}
+<!--ID: 1663156950062-->
+
 
 [Effective Differentials](http://effectivereaction.wordpress.com/) Dale/Dias *(Economics, Rationality, Effective Altruism)* {10-2015}
+<!--ID: 1663156950204-->
+
 
 [Kevin Reid's Blog](http://kpreid.livejournal.com/) kpreid *(programming, often game development; miscellany)* {03-2016~ 3 posts in 2015}
+<!--ID: 1663156950308-->
+
 
 [lalaithion](https://lalaithion.wordpress.com/) *Random things, social justice, and science* {07-2015}
+<!--ID: 1663156950409-->
+
 
 [Ordinary Ideas](http://ordinaryideas.wordpress.com/) Paul Christiano {11-2016~ one post in 2016}
+<!--ID: 1663156950511-->
+
 
 [The Art and Science of Cognitive Engineering](http://cognitiveengineer.blogspot.ca/) jimmy {04-2016~ 4 posts in 2015, 3 in 2015}
+<!--ID: 1663156950612-->
+
 
 [The Cafes](http://cafe.elharo.com/) Elliotte Rusty Harold {02-2016~ Sparse since 2012}
+<!--ID: 1663156950715-->
+
 
 [The Last Conformer](http://last-conformer.net/) Gilbert *(Catholic blog, occasional well-informed criticisms of LessWrong)* {08-2015}
+<!--ID: 1663156950809-->
+
 
 [The Orphan Wilde](http://orphanwilde.blogspot.com/) OrphanWilde *(libertarianism)* {07-2015}
+<!--ID: 1663156950866-->
+
 
 ## Gone But Not Forgotten
 
@@ -259,6 +277,8 @@ status: todo
 [Measure of Doubt](http://measureofdoubt.com/author/measureofdoubt/), [measureofdoubt on Youtube](http://www.youtube.com/user/measureofdoubt) Julia Galef
 
 [Rational Altruist](http://rationalaltruist.com/) Paul Christiano {11-2014}
+<!--ID: 1663156950955-->
+
 
 [Reflective Disequilibrium](http://reflectivedisequilibrium.blogspot.com/) Carl Shulman
 
@@ -286,6 +306,8 @@ What is **List of Blogs**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156951014-->
+
 
 %%
 	

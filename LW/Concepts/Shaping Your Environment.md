@@ -25,6 +25,8 @@ What is **Shaping Your Environment**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156969162-->
+
 
 %%
 	

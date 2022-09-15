@@ -23,6 +23,8 @@ What is **Guild of the Rose**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157000362-->
+
 
 %%
 	

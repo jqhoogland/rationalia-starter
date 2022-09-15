@@ -19,10 +19,21 @@ synchedAt: '2022-09-01T09:33:07.763Z'
 status: todo
 collection: The Codex
 book: Good and Bad Reasoning
+aliases:
+  - Chinese robber fallacy
 ---
 
 # Cardiologists and Chinese Robbers
 
+From [Alyssa Vance](http://rationalconspiracy.com/2015/03/08/the-chinese-robber-fallacy/):
+
+> where you use a generic problem to attack a specific person or group, even though other groups have the problem just as much (or even more so).
+
+It's not just about stereotyping. It's about the fact that when a group is large enough, you are guaranteed to find corroborating evidence.
+
+If 1/1,000 Chinese people is a robber, then you can find *one million* examples of the false stereotype.
+
+%% E.g.: "Florida man" %%
 
 # Related
 

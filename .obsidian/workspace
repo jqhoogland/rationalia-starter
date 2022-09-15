@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eabadff7be0e1729",
+        "id": "805227f68a9cd467",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LW/Books/Epilogue (Codex).md",
-            "mode": "preview",
+            "file": "LW/Posts/Availability.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -33,7 +33,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#A",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LW/Books/Epilogue (Codex).md"
+                "file": "LW/Posts/Availability.md"
               }
             }
           }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5036315917969
+    "width": 264.5036315917969
   },
   "right": {
     "id": "5d9113a947b0f31a",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LW/Books/Epilogue (Codex).md",
+                "file": "LW/Posts/Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 334.5,
     "collapsed": true
   },
-  "active": "eabadff7be0e1729",
+  "active": "805227f68a9cd467",
   "lastOpenFiles": [
-    "LW/Collections/The Codex.md",
-    "LW/Books/Designing the World.md",
-    "LW/Books/The Institution of Science.md",
-    "LW/Books/Good and Bad Reasoning.md",
-    "LW/Concepts/Sequences.md",
-    "LW/Books/Becoming Stronger.md",
-    "LW/Collections/Rationality— A-Z.md",
-    "LW/Books/Mere Goodness.md",
-    "LW/Books/Mere Reality.md",
-    "LW/Books/The Machine in the Ghost.md"
+    "LW/Concepts/Rationality/Failure Modes/Absurdity Heuristic.md",
+    "LW/Posts/Availability.md",
+    "LW/Concepts/Availability Heuristic.md",
+    "LW/Posts/The Martial Art of Rationality.md",
+    "AGI.md",
+    "LW/Concepts/Evolutionary Psychology.md",
+    "LW/Posts/Scope Insensitivity (Post).md",
+    "Weber's Law.md",
+    "Untitled.md",
+    "LW/Concepts/Fuzzies.md"
   ]
 }

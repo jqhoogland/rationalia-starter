@@ -52,6 +52,8 @@ What is **Shut Up and Multiply**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156969100-->
+
 
 %%
 	

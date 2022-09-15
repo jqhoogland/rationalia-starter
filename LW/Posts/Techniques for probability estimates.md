@@ -24,7 +24,14 @@ book: Good and Bad Reasoning
 ---
 
 # Techniques for Probability Estimates
-
+- **Prepare for Revelation**: What would you expect if you expect the answer to shortly be revealed. See [[Belief in Belief]].
+- **Bet on it**.
+	- Note: this only works when utility is linear in winnings
+- **Convert to a Frequency** (Sun rising tomorrow)
+	- Watch out with atypical & time-varying cases.
+- **Find a Reference Class** (Big Foot?)
+- **Make Multiple Statements** (France > Italy in area?)
+- **Imagine Hypothetical Evidence** (God exists on million sided die)
 
 # Related
 
@@ -33,6 +40,5 @@ book: Good and Bad Reasoning
 - [[Introspection]]
 - [[Probability is Subjectively Objective]]
 - "[without immediate consequences](http://wiki.lesswrong.com/wiki/Near/far_thinking)"
-- [[Belief in Belief]]
 - "[Eliezer wants to say](/lw/u6/horrible_lhc_inconsistency/)"
 - "[Komponisto thinks](/lw/1mw/advancing_certainty/)"

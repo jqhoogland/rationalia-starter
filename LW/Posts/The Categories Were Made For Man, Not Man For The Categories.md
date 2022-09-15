@@ -26,6 +26,11 @@ book: Good and Bad Reasoning
 
 # The Categories Were Made For Man, Not Man For The Categories
 
+Ancient Hebrews were perfectly correct in calling whales fish.
+
+> If I’m willing to accept an unexpected chunk of Turkey deep inside Syrian territory to honor some random dead guy – and I better, or else a platoon of Turkish special forces will want to have a word with me – then I ought to accept an unexpected man or two deep inside the conceptual boundaries of what would normally be considered female if it’ll save someone’s life. There’s no rule of rationality saying that I shouldn’t, and there are plenty of rules of human decency saying that I should.
+
+Example of an OCD patient who worried about having left the hair dryer on at home. One guy proposed bringing the hair dryer with her, and it worked.
 
 # Related
 

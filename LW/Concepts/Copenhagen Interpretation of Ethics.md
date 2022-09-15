@@ -29,6 +29,8 @@ What is **Copenhagen Interpretation of Ethics**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157012210-->
+
 
 %%
 	

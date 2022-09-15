@@ -36,6 +36,8 @@ What is **Typical Mind Fallacy**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156961412-->
+
 
 %%
 	

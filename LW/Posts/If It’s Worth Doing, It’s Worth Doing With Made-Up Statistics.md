@@ -26,7 +26,9 @@ book: Good and Bad Reasoning
 ---
 
 # If It’s Worth Doing, It’s Worth Doing With Made-Up Statistics
+> “It’s easy to lie with statistics, but it’s easier to lie without them.”
 
+> **“Sometimes pulling numbers out of your arse and using them to make a decision is better than pulling a decision out of your arse.”** — ciphergoth
 
 # Related
 

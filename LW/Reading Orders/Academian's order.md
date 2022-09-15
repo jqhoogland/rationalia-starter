@@ -28,7 +28,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/draft-of-a-suggested-rea
 
 ## Selected Posts From [[Map and Territory (sequence)]]
 
-- [[What do we mean by "Rationality"?]]
+- [[What Do We Mean By "Rationality"?]]
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
 - [[What is evidence?]]
 - [[How to Convince Me That 2 + 2 = 3]]

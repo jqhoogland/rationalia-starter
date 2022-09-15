@@ -26,6 +26,11 @@ author: null
 
 # Confidence Levels Inside and Outside an Argument
 
+If your model is crazily confident, your "true confidence" will be dominated by your confidence in the model.
+
+E.g.: 
+- Argument that claims the LHC causing apocalypse has probability ~ $1/10^20$
+- "The probability that God created the living cell is 10 to the 4,478,296 power to 1."
 
 # Related
 

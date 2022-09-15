@@ -32,6 +32,8 @@ What is **Luminosity**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156992302-->
+
 
 %%
 	

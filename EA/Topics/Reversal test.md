@@ -9,9 +9,10 @@ tags:
   - Tag
 synchedAt: '2022-09-11T14:34:49.427Z'
 ---
-# Reversal test
 
-The **reversal test** is a debiasing heuristic for reducing [[Status quo bias|status quo bias]]. The test was introduced by [[Nick Bostrom]] and [[Toby Ord]] in a 2006 article.^[\[1\]](#fn3y3j6wkjp39)^ Although the authors proposed it as a tool for reducing status quo bias specifically in the field of applied ethics, the test is applicable much more generally, to the evaluation of any decision involving a potential deviation from the status quo along some continuous dimension.
+# Reversal Test
+
+The **reversal test** is a debiasing heuristic for reducing [[Status quo bias|status quo bias]]. The test was introduced by [[Nick Bostrom]] and [[Toby Ord]] in a [2006 article](http://www.nickbostrom.com/ethics/statusquo.pdf)". Although the authors proposed it as a tool for reducing status quo bias specifically in the field of applied ethics, the test is applicable much more generally, to the evaluation of any decision involving a potential deviation from the status quo along some continuous dimension.
 
 The reversal test
 -----------------
@@ -54,54 +55,79 @@ Related entries
 
 [[Status quo bias|status quo bias]]
 
-1.  ^**[^](#fnref3y3j6wkjp39)**^
-    
+1. ^**[^](#fnref3y3j6wkjp39)**^
+
+
     Bostrom, Nick & Toby Ord (2006) [The reversal test: eliminating status quo bias in applied ethics](http://doi.org/10.1086/505233), *Ethics*, vol. 116, pp. 656–679.
-    
-2.  ^**[^](#fnrefecey4743k5)**^
-    
+
+
+2. ^**[^](#fnrefecey4743k5)**^
+
+
     Bostrom & Ord, [The reversal test](http://doi.org/10.1086/505233), pp. 664-665.
-    
-3.  ^**[^](#fnrefjpu2xxmg93h)**^
-    
+
+
+3. ^**[^](#fnrefjpu2xxmg93h)**^
+
+
     Bostrom & Ord, [The reversal test](http://doi.org/10.1086/505233), p. 664.
-    
-4.  ^**[^](#fnrefnidl4uhcneq)**^
-    
+
+
+4. ^**[^](#fnrefnidl4uhcneq)**^
+
+
     Kolber, Adam J. (2006) [Therapeutic forgetting: the legal and ethical implications of memory dampening](https://scholarship.law.vanderbilt.edu/vlr/vol59/iss5/2), *Vanderbilt Law Review*, vol. 59, pp. 1559–1626, pp. 1610-1611.
-    
-5.  ^**[^](#fnref8y969qqn66o)**^
-    
+
+
+5. ^**[^](#fnref8y969qqn66o)**^
+
+
     The President’s Council on Bioethics (2003) [*Beyond Therapy: Biotechnology and the Pursuit of Happiness*](https://biotech.law.lsu.edu/research/pbc/reports/beyondtherapy/beyond_therapy_final_report_pcbe.pdf), Washington, D.C., p. 196.
-    
-6.  ^**[^](#fnrefgu53qi46lx4)**^
-    
+
+
+6. ^**[^](#fnrefgu53qi46lx4)**^
+
+
     Bostrom & Ord, [The reversal test](http://doi.org/10.1086/505233), p. 673.
-    
-7.  ^**[^](#fnrefro9qu4q4fqq)**^
-    
+
+
+7. ^**[^](#fnrefro9qu4q4fqq)**^
+
+
     Weijers, Dan (2011) [Intuitive biases in judgments about thought experiments: the experience machine revisited](https://philpapers.org/rec/WEIIBI), *Philosophical Writings*, vol. 50, pp. 1–18, p. 10.
-    
-8.  ^**[^](#fnrefcwozu5q7nfr)**^
-    
+
+
+8. ^**[^](#fnrefcwozu5q7nfr)**^
+
+
     Salamon, Anna (2012) [Checklist of rationality habits](https://www.lesswrong.com/posts/ttGbpJQ8shBi8hDhh/checklist-of-rationality-habits), *LessWrong*, November 7, 3.2.
-    
-9.  ^**[^](#fnrefxjx2zzoxrwf)**^
-    
+
+
+9. ^**[^](#fnrefxjx2zzoxrwf)**^
+
+
     Dan Weijers lists 30 separate publications expressing this opinion.^[\[12\]](#fnu5w47irwnei)^
-    
-10.  ^**[^](#fnrefqnxbzcrgcfs)**^
-    
+
+
+10. ^**[^](#fnrefqnxbzcrgcfs)**^
+
+
     Kolber, Adam J. (1994) [Mental statism and the experience machine](https://ssrn.com/abstract=1322059), *Bard Journal of Social Sciences*, vol. 3, pp. 10–17.
-    
-11.  ^**[^](#fnref3t16a4x2r7k)**^
-    
+
+
+11. ^**[^](#fnref3t16a4x2r7k)**^
+
+
     Greene, Joshua D. (2001) 'A psychological perspective on Nozick’s experience machine and Parfit’s repugnant conclusion', Society for Philosophy and Psychology Annual Meeting, Cincinnati, Ohio.
-    
-12.  ^**[^](#fnrefu5w47irwnei)**^
-    
+
+
+12. ^**[^](#fnrefu5w47irwnei)**^
+
+
     Weijers, Dan (2014) [Nozick’s experience machine is dead, long live the experience machine!](http://doi.org/10.1080/09515089.2012.757889), *Philosophical Psychology*, vol. 27, pp. 513–535.
-    
-13.  ^**[^](#fnrefvcsq3oxegh)**^
-    
+
+
+13. ^**[^](#fnrefvcsq3oxegh)**^
+
+
     de Brigard, Felipe (2010) [If you like it, does it matter if it’s real?](http://doi.org/10.1080/09515080903532290), *Philosophical Psychology*, vol. 23, pp. 43–57.

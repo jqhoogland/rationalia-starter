@@ -24,6 +24,7 @@ book: Good and Bad Reasoning
 
 # Beware Isolated Demands For Rigor
 
+- [[Motivated Skepticism]] & [[Motivated Reasoning]]
 
 # Related
 

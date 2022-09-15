@@ -23,6 +23,8 @@ What is **Indexical Information**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156997457-->
+
 
 %%
 	

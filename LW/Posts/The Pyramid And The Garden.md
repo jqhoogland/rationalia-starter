@@ -11,7 +11,6 @@ tags:
   - Post
   - Epistemology
   - Replication_Crisis
-  - Probability_& Statistics
   - Probability_&_Statistics
 href: https://www.lesswrong.com/posts/9HSwh2mE3tX6xvZ2W/the-pyramid-and-the-garden
 sequence: Probability and Predictions
@@ -23,6 +22,12 @@ book: Good and Bad Reasoning
 ---
 
 # The Pyramid And The Garden
+
+The Pyramid of Giza's latitude matches the speed of light in m/s up to 9 sig figs (alright — 6 if you account for the fact that all three of the last digits match the pyramid's location).
+
+Even then, it's a 1 in a million chance! Well, when you have so many variables to choose from (longitude or latitude, choice of units, distance from equator, Pyramid vs. Sphinx, etc.), it's not really a 1 in a million chance, is it?
+
+So too, worry about $p < 0.05$ as "statistically significant" doesn't always have to mean "statistically significant".
 
 
 # Related

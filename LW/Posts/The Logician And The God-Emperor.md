@@ -9,7 +9,6 @@ tags:
   - LessWrong
   - Concept
   - Post
-  - Parables_& Fables
   - Parables_&_Fables
 href: >-
   https://www.lesswrong.com/posts/2gWs8SScqeDFidqyv/the-logician-and-the-god-emperor
@@ -22,7 +21,7 @@ book: Good and Bad Reasoning
 ---
 
 # The Logician And The God-Emperor
-
+Moral: don't mess up your ors and xors, ifs and iffs. But more than that, don't take advantage of loopholes when the intention is clear enough.
 
 # Related
 

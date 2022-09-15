@@ -27,6 +27,8 @@ What is **Satisficer**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156970960-->
+
 
 %%
 	

@@ -25,6 +25,8 @@ What is **Efficient Market Hypothesis**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156956017-->
+
 
 %%
 	

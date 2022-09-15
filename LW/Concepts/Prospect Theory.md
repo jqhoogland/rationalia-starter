@@ -47,6 +47,8 @@ What is **Prospect Theory**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156979804-->
+
 
 %%
 	

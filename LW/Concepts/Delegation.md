@@ -27,6 +27,8 @@ What is **Delegation**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157009861-->
+
 
 %%
 	

@@ -25,14 +25,25 @@ book: 'Map and Territory '
 
 # Burdensome Details
 
+[[Conjunction Fallacy]]
+- Adding detail can make a scenario sound more plausible, even though the event necessarily becomes less probable.
+
+This is because we [“substitute judgment of representativeness for judgment of probability.”](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down).
+
+E.g.:
+- USSR invades Poland and USSR stops diplomatic relations with US rated as more likely than USSR stops diplomatic relations with US.
+
+## How to remedy?
+- > They would need to be wary of [the word, "and"]—not just wary, but leap back from it. . . . And they would need to penalize the probability _substantially_—a factor of four, at least, according to the experimental details.
+- When presented with the single case, imagine concrete scenarios.
+- Increase the emotional salience of [[Occam's Razor]]
+
 
 # Related
 
 - [[Heuristics & Biases]]
 - [[Fallacies]]
 - [[Rationality]]
-- [[Conjunction Fallacy]]
-- "[A long series of cleverly designed experiments](http://lesswrong.com/lw/jj/conjunction_controversy_or_how_they_nail_it_down/)"
 - "[1982 experiment](http://lesswrong.com/lw/ji/conjunction_fallacy/)"
 - "[package](http://en.wikipedia.org/wiki/Package-deal_fallacy)"
 - "[“Extensional Versus Intuitive Reasoning.”](#cite.0.Tversky.1983)"

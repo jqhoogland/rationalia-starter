@@ -20,6 +20,11 @@ author: Eliezer Yudkowsky
 ---
 
 # What's a Bias?
+![[Cognitive bias#^f75004]]
+
+These are faults induced by our own mental machinery — not some outside factor like limited compute, cost of information, etc. (errors from cognitive content).
+
+Biases are not intrinsically evil. We try to overcome them because they are obstacles in our way of obtaining truth.
 
 
 # Related

@@ -30,7 +30,7 @@ It is cognitive bias, however, that provides the clearest and most direct glimps
 - [[What's a Bias?]]
 - [[Burdensome Details]]
 - [[What Do We Mean By "Rationality"?]]
-- [[Planning Fallacy]]
+- [[3 Resources/Principles/Laws/Planning fallacy]]
 - [[Why Truth?]]
 - [[Feeling Rational]]
 - [[The Lens That Sees Its Flaws]]

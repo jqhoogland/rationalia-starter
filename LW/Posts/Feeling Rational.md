@@ -23,7 +23,9 @@ book: 'Map and Territory '
 ---
 
 # Feeling Rational
+![[Emotions#^35057d]] 
 
+When people dichotomize emotion & rationality, they may really be thinking of [[Dual Process Theory (System 1 & System 2)|System 1 & System 2]].
 
 # Related
 

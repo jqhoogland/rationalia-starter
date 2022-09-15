@@ -40,6 +40,8 @@ What is **Dual Process Theory (System 1 & System 2)**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156975502-->
+
 
 %%
 	

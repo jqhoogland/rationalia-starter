@@ -22,7 +22,9 @@ book: Good and Bad Reasoning
 ---
 
 # The Virtue of Silence
+A doctor asks a NYT columnist whether she should tell the police her client is suffering from stress-related complaints after sending an innocent man to prison.
 
+The real question is whether this should be debated in a public NYT column.
 
 # Related
 

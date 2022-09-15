@@ -34,6 +34,8 @@ What is **Sympathetic Magic**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156966009-->
+
 
 %%
 	

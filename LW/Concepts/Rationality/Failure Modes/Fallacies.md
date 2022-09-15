@@ -10,6 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:47.194Z'
 status: todo
+aliases:
+  - fallacy
 ---
 
 # Fallacies
@@ -61,6 +63,8 @@ What is **Fallacies**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156976450-->
+
 
 %%
 	

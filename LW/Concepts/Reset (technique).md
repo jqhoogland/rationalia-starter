@@ -25,6 +25,8 @@ What is **Reset (technique)**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663156971914-->
+
 
 %%
 	

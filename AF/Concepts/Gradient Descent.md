@@ -25,6 +25,8 @@ What is **Gradient Descent**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157028913-->
+
 
 %%
 	

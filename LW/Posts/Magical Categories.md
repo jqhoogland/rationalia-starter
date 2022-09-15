@@ -34,7 +34,7 @@ book: Mere Goodness
 - "[mentioned](https://intelligence.org/files/AIPosNegFactor.pdf)"
 - "[indignant reply](http://www.sl4.org/archive/0606/15138.html)"
 - "[wrote](http://www.ssec.wisc.edu/%7Ebillh/g/AIRisk_Reply.html)"
-- [[Planning Fallacy]]
+- [[Planning Fallacy (Post)]]
 - "[firsthand](http://www.mail-archive.com/agi@v2.listbox.com/)"
 - [[Superexponential Conceptspace, and Simple Words]]
 - [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]

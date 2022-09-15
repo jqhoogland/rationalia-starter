@@ -10,6 +10,9 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:50.952Z'
 status: todo
+aliases:
+  - curious
+  - 
 ---
 
 # Curiosity
@@ -44,6 +47,8 @@ What is **Curiosity**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157011113-->
+
 
 %%
 	

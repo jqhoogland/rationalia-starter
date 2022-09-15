@@ -11,6 +11,8 @@ tags:
   - Heuristic
 synchedAt: '2022-09-01T09:42:58.504Z'
 status: todo
+aliases:
+  - Absurdity bias
 ---
 
 # Absurdity Heuristic

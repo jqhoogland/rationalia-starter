@@ -22,6 +22,13 @@ author: Eliezer Yudkowsky
 
 # Why Truth?
 
+**Several views**
+- **Moral**: Pursuing truth is inherently noble, important, and worthwhile.
+- **Instrumental**: Truth has an instrumental value in and of itself. 
+- **Curiosity**: "you might care about whats true because, damn it, you're _[[Curiosity|curious]]_."
+
+For Yudkowsky, [[curiosity]] is most foundational. It is more "pure" as a motivation than the instrumental view, and it leads to less tribal failure modes than the moral view.
+
 
 # Related
 

@@ -16,6 +16,7 @@ I'm approaching this content in parallel, so when I get sick of one thing, I can
 - [[Programming]]
 	- [[OpenAI's Spinning Up]]
 	- [[Practical Deep Learning for Coders]]
+	- [[Deep Learning from the Foundations]]
 	- [[Deep Learning @ VU]]
 	- [[Cracking the Coding Interview]]
 - [[Articles]]

@@ -38,6 +38,8 @@ What is **Functional Decision Theory**?
 Back: {TODO}
 Tags: LessWrong
 END
+<!--ID: 1663157002610-->
+
 
 %%
 	

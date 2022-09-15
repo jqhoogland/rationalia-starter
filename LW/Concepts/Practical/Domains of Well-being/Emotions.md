@@ -10,11 +10,16 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:49.026Z'
 status: todo
+aliases:
+  - Emotion
+  - emotion
+  - emotions
+  - Emotionality
 ---
 
 # Emotions
 
-Contrary to the stereotype, [[Rationality|rationality]] doesn't mean denying **emotion**. When emotion is appropriate to the reality of the situation, it should be embraced; only when emotion isn't appropriate should it be suppressed.
+Contrary to the stereotype, [[Rationality|rationality]] doesn't mean denying **emotion**. When emotion is appropriate to the reality of the situation, it should be embraced; only when emotion isn't appropriate should it be suppressed. ^35057d
 
 ## External Links
 
