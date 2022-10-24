@@ -21,9 +21,14 @@ status: todo
 collection: 'Rationality: A-Z'
 book: 'Map and Territory '
 author: Eliezer Yudkowsky
+aliases:
+  - The dragon in the garage
 ---
 
 # Belief in Belief
+Coined by Daniel Dennett: "belief in belief" is when it is easier to believe you *ought* to believe something, then to believe the thing itself.
+
+But this level of meta awareness is usually unattainable for people.
 
 
 # Related

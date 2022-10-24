@@ -32,7 +32,9 @@ author: Richard Ngo
 ## Exercises
 
 1. What are the main similarities and differences between the process of fitting a linear regression to some data, and the process of training a neural network on the same data?
+   - Linear regression is "global" & one-time (ok some matrix solvers use iterative procedures) BP/SGD is "local" & iterative. Linear regression is "linear". SGD embraces nonlinearities.
 2. Explain why the “nonlinearity” in an artificial neuron (e.g. the sigmoid or RELU function) is so important. What would happen if we removed all the nonlinearities in a deep neural network? (Hint: try writing out explicit equations for a neural network with only one hidden layer between the input and output layers, and see what happens if you remove the nonlinearity.)
+   - If you removed the non-linearities you'd get a linear transformation which you can model with a *single* (!) matrix multiplication.
 
 ## Live Session:
 
@@ -64,16 +66,30 @@ author: Richard Ngo
 ## Exercises
 
 1. As discussed in Ngo (2020), Legg and Hutter define intelligence as “an agent’s ability to achieve goals in a wide range of environments”: a definition of intelligence in terms of the outcomes it leads to. An alternative approach is to define intelligence in terms of the cognitive skills (memory, planning, etc) which intelligent agents used to achieve their desired outcomes. What are the key cognitive skills which should feature in such a definition of intelligence?
+	- From language: displacement, negation, recursion.
+	- Not needed (likely): consciousness, agency, 
+
 2. A crucial feature of AGI is that it will possess cognitive skills which are useful across a range of tasks, rather than just the tasks it was trained to perform. Which cognitive skills did humans evolve because they were useful in our ancestral environments, which have remained useful in our modern environment? Which have become less useful?
+    - Modeling other humans
+    - 
+      
 3. Some have argued that [“no free lunch” theorems](https://en.wikipedia.org/wiki/No_free_lunch_theorem) make the concept of general intelligence a meaningless one. However, we should interpret the concept of "general intelligence" not as requiring strong performance on all possible problems, but only strong performance on problems which are plausible in a universe like ours. Identify three ways in which the latter category of problems is more restrictive than the former.
+   - Our universe enforces a prior over environments that is not uniform.
+   - Even within our universe, we're interested only in subset of environments (at a particular scale of magnitude because statistical physics simplifies matters a lot more — we're at or near equilibria). 
+   - "Natural" goals or rewards are unlikely to be high entropy configurations of matter, rather low entropy ones. 
+
 
 ## Discussion Prompts
 
 1. Here’s yet another way of defining general intelligence: whatever mental skills humans have that allow us to build technology and civilization (in contrast to other animals). What do you think about this definition?
+   - It's nice because it's more empirical. You can use this and others don't have as much room to complain.
 2. One intuition for how to think about very smart AIs: imagine speeding up human intellectual development by a factor of X. If an AI could do the same quality of research as a top scientist, but 10 or 100 times faster, and with the ability to make thousands of copies, how would you use it?
+   - To do alignment research, obviously.
 3. How frequently do humans build technologies where some of the details of why they work aren’t understood by anyone? What, if anything, makes AI different from other domains? Would it be very surprising if we built AGI without understanding very much about how its thinking process works?
+   - All the time. Think of planes, we didn't really figure out the complex aerodynamics until the '50s (IFRC). Think of perturbation theory & path integrals in physics, still. Think of the engineering of aqueducts & coliseums. This may actually be the standard operating procedure.
 4. Consider the following argument: if aliens with far more advanced technology than ours arrived on earth, we’d expect that the outcome of that meeting would be primarily determined by what their goals were, rather than what ours are. This is analogous to AGI in the sense that AGI will be very alien, and very powerful; but it’s disanalogous because we can try to shape the goals of AGIs to make them more compatible with ours. Therefore it’s very important to ensure that we have techniques for effectively doing so. How persuasive do you find this argument?
 5. What are the most plausible ways for the hypothesis “we will eventually build AGIs which have transformative impacts on the world” to be false? How likely are they?
+	- That scientific progress is curtailed. Either by catastrophes like nuclear war or religious revivals & witch hunts / Butlerian jihads. If progress continues, AGI is inevitable — the existence proof being humans.
 
 # Week 2: Goals and Misalignment
 
@@ -99,12 +115,16 @@ author: Richard Ngo
 ## Exercises
 
 1. Why is it not appropriate to describe the agents discussed by Krakovna et al. as displaying goal misgeneralization? Describe a toy experiment similar to those from Langosco et al. which you expect could demonstrate goal misgeneralization.
+	- Goal misgeneralization is about doing the wrong things off-distribution. Specification gaming is about doing things correctly by the rulebook but incorrectly by the "spirit" of the rules. In specification gaming, the agents' behavior is perfectly free to generalize off-distribution, but the interpretation is wrong from the start. 
 2. Goal misgeneralization is most easily described in the context of reinforcement learning, but it could also arise in (self-)supervised learning or imitation learning contexts. Describe what it might look like for a large language model like GPT-3 to have learned a goal which then generalizes in undesirable ways in novel environments. How might you test whether that has happened?
+	- LLMs are trained to predict the next token. We've already see that this can generalize in undesirable ways: Copilot copying protected, licensed code, GPT-3 producing hateful language, LLMs sharing personal details they came across in the training set. his is less misgeneralization and more misspecification, since it's solving the "correct" problem. 
+	- A better example of misgeneralization could be in the case of a captioning agent like CLIP. If it's only been trained on captioned images, it'll continue to produce captions for images where the better thing to do would be to leave the caption blank (say, a picture that's all black, or white noise). This is reminiscent of LLMs hallucinating plausible answers when they don't know the truth.
 3. [Guez et al. (2019)](https://arxiv.org/abs/1901.03559) devised a test for whether a recurrent network is doing planning: by seeing whether its performance improves when given more time to “think” before it can act. Think of some other test that we could run that would give us evidence about the extent to which a neural network is internally doing planning.
+	- Measure how performance declines with longer-timescale tasks (normalized for complexity). If the performance declines sublinearly with time, it's likely implementing some kind of planning. 
 
 ## Discussion Prompts
 
-1. Christiano (2018) defined alignment as follows: “an AI A is aligned with an operator H if A is trying to do what H wants it to do”. Some questions about this:
+Christiano (2018) defined alignment as follows: “an AI A is aligned with an operator H if A is trying to do what H wants it to do”. Some questions about this:
 1. What’s the most natural way to interpret “what the human wants” - what they say, or what they think, or what they would think if they thought about it for much longer?
 2. How should we define an AI being aligned to a group of humans, rather than an individual?
 3. Did Bostrom miss any important convergent instrumental goals? (His current list: self-preservation, goal-content integrity, cognitive enhancement, technological perfection, resource acquisition.) One way of thinking about this might be to consider which goals humans regularly pursue and why.
@@ -139,9 +159,17 @@ author: Richard Ngo
 ## Exercises
 
 1. The possibility of deceptive alignment, as discussed by Steinhardt (2022), is an example of goal misgeneralization where a policy learns a goal that generalizes beyond the bounds of any given training episode. What factors might make this type of misgeneralization likely or unlikely?
+   - 
 2. Christiano’s “influence-seeking systems” threat model in What Failure Looks Like is in some ways analogous to profit-seeking companies. What are the most important mechanisms preventing companies from catastrophic misbehavior? Which of those would and wouldn’t apply to influence-seeking AIs?
+   - Regulation: for collective action problems, we set the rules one level about the corporation. E.g.: fishing limits.
+   - Human common sense (within the company): although very weak (e.g., Nazis, hazardous waste mismanagement), most of us have some intuitions that prevent blatant moral trespasses. In practice, this is not unhackable, it just requires a more gradual assault to circumvent.
+   - Consumer demand / boycotting. Similar to the preceding claim. This ties into external auditors / certifications. This is easily hackable (e.g., greenwashing)
+   - As it applies to AI: Regulation may have some role in a slow-takeoff scenario. Human common sense definitely plays a role, and fortunately the forerunners all seem to have safety teams. Consumer demand seems unlikely to help as the advances may be too rapid.
 3. Ask the [OpenAI API](https://openai.com/api/) what steps it would perform to achieve some large-scale goal. Then recursively ask it how it’d perform each of those steps, until it reaches a point where its answers don’t make sense. What’s the hardest task you can find for which the API can not only generate a plan, but also perform each of the steps in that plan?
+	- It tends to revolve around physically attending places (it answers from the perspective of a human)
 4. What are the individual tasks involved in machine learning research (or some other type of research important for technological progress)? Identify the parts of the process which have already been automated, the parts of the process which seem like they could plausibly soon be automated, and the parts of the process which seem hardest to automate.
+	- Easy: hyperparameter optimization, data collection & cleaning, training (is already largely automated)
+	- Harder: theoretical research (on mechanisms like attention)
 
 ## Discussion Prompts
 
@@ -178,10 +206,19 @@ author: Richard Ngo
 ## Exercises
 
 1. Autoregressive language modeling involves training a network to predict the next word in a sentence, given the previous words. (Since the correct answer for each prediction can be generated automatically from existing training data, this is known as [self-supervised learning](https://amitness.com/2020/05/self-supervised-learning-nlp/), and is the key technique for training cutting-edge language models.) In what ways is this the same as, or different from, behavioral cloning?
+	- Instead of sequences of text tokens in an NLP context, behavioral cloning works with sequences of actions in an RL context. Beyond that the basic ideas are the same. Copy what's already been done. 
+	- I'd say the key important differences is that it's much easier to create big datasets for text, less for RL. 
 2. Imagine using RHLF, as described in the middle three core readings for this week, to train an AI to perform a complex task like building a castle in Minecraft. What sort of problems would you encounter?
+   - The timescales are super long. It's one thing if you're teaching a somersault (which is quick). Another thing if you're teaching a "castle."
+   - The process is less continuous. Hop precedes jump precedes somersault. I guess a square precedes scaffold precedes castle, but the branching factor at each stage is substantially higher.
+   - Ties in to the former two: there are far more instrumental goals that might be relevant (e.g., get a diamond pick)
 3. In the first further reading, Stiennon et al. (2020) note that “​​optimizing our reward model eventually leads to sample quality degradation”. Look at the corresponding graph, and explain why the curves are shaped that way. How could we prevent performance from decreasing so much?
+    - Regularizing with the Kolmogorov Complexity between the new prediction and the old prediction!
 4. If you’re familiar with CIRL (discussed in the last further reading): does it help us address the problems discussed in Christiano (2015)? Why or why not?
-5. Read the further reading by Armstrong about how humans can be assigned any values, then explain: why does reward learning ever work in practice?
+   - No it doesn't help. Christiano poses the easy goal inference problem: "Given no algorithmic limitations and access to the complete human policy — a lookup table of what a human would do after making any sequence of observations — find any reasonable representation of any reasonable approximation to what that human wants." That's an easier situation than CIRL is in where we're both computationally limited & have no perfect lookup table. 
+   - CIRL is a way to get closer to a lookup table of human wants. It doesn't solve the rest. 
+5. Read the further reading by Armstrong about how humans can be assigned any values, then explain: why does reward learning ever work in practice? 
+   - I continue to be confused by this example. It seems trite and not helpful. Reward learning works in practice because we provide a huge number of examples.
 
 ## Discussion Prompts
 
@@ -211,9 +248,20 @@ author: Richard Ngo
 ## Exercises
 
 1. Identify another mechanism which could be added to the debate protocol and might improve its performance. (It may be helpful to think about ways in which AI debaters are disanalogous to humans.)
+	- Sampling several paths down the debate tree seems like an obvious way to improve accuracy. Note: this isn't a solution to the obfuscated arguments problem. At best you shrink the probability of obfuscated arguments with power of the number of paths (a random walk, so... a square root?), but you can't eliminate those measure-0 obfuscations.
+	- Several debaters. Similar function to former. If the probability of a misaligned agent is independent, this'll shrink your likelihood of misaligned answers exponentially in the number of debaters.
+	- Amplified judges. Though this feels like you're just pushing the alignment problem around and onto yet another system. If the probability of misalignment is correlated, then introducing more points of failure makes bad outcomes *likelier*. 
 2. Think of a complex question which you know a lot about. How would you argue for the dishonest side if doing a debate on that question? How would you rebut that line of argument if you were the honest debater?
+   - Let's talk about AI safety. The case for not taking it seriously: almost all of the fear of the AI safety community revolves around hyper-optimizers gone rogue. Thing is, our ML algorithms are not actually selecting for optimizers. Coherence theorems don't imply what people think they do. Response: first, that's definitely not the only source of concern. Christiano's death with a whimper sketches a picture of how we could simply slowly be displaced, without any appeals to relentless optimizers. Second, who cares about "perfect" optimization. It's enough that a model has learned planning and goes after goals in a somewhat consistent way, and we have plenty of evidence of that happening in practice.
 3. A complex task like running a factory can be broken down into subtasks in a fairly straightforward way, allowing a large team of workers to perform much better than even an exceptionally talented individual. Describe a task where teams have much less of an advantage over the best individuals. Why doesn’t your task benefit as much from being broken down into subtasks? How might we change that?
+   - Scientific breakthroughs (moreso historically than contemporarily). One Newton, one Darwin, one Einstein, etc. can make substantial, discrete progress on incredibly impactful questions. Even here though, the rampant evidence of multiple independent discovery (e.g., calculus, natural selection, internal combustion engines, quantum electrodynamics, etc.) suggests that there might be more room for parallelism in historical discovery than these isolated cases suggest.
+   - Maybe the relevant factor is "chunkiness." If your process involves a first-order phase transition, then you'll encounter a sudden, discrete change for a continuous change in effort. 
+   - The same seems to be true for arts such as writing. Joint creative works occur, but are comparatively rare. Maybe that's just a quirk of our limited bandwidth. Maybe it reflects that the averaging effect of working with a group suppresses the kinds of outlier events needed for creative breakthroughs. 
 4. Read Christiano’s posts on HCH from the further readings. Why might even an ideal implementation of HCH not be aligned? What assumptions could change that?
+   - Let's take ideal to mean your starting model is aligned and the amplification & distillation processes preserves alignment.
+   - If ideal just means perfect fidelity representation of the initial human, you're way more screwed. Aligned with a single person does not mean aligned with humanity as a whole. So we have assume we've chosen the right person.
+   - But even if all constituent models are aligned, the system as a whole might not be. Most people aren't trying to be actively evil, yet the Nazis existed. I'm sure the people working at oil & gas companies don't think of themselves poorly, and yet the organizations are directly responsible for destroying a large fraction of our biosphere.   
+
 
 ## Discussion Prompts
 
@@ -392,3 +440,4 @@ See also [this longer list of project ideas](https://docs.google.com/spreadsheet
 ## Other
 
 - [GB Hamming, "You and Your Research" (June 6, 1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+~~

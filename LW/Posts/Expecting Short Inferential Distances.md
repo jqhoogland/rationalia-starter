@@ -27,7 +27,7 @@ book: 'Map and Territory '
 ---
 
 # Expecting Short Inferential Distances
-
+> In the ancestral environment there were no abstract disciplines with vast bodies of carefully gathered evidence generalized into elegant theories transmitted by written books whose conclusions are _a hundred inferential steps removed_ from universally shared background premises.	
 
 # Related
 

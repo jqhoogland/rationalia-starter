@@ -24,7 +24,11 @@ author: Eliezer Yudkowsky
 ---
 
 # Tsuyoku Naritai! (I Want To Become Stronger)
+> “Torah loses knowledge in every generation. Science gains knowledge with every generation. No matter where they started out, sooner or later science must surpass Torah.”
 
+By the information inequality, orthodox Jews believe that "The previous generation is to the next one as angels are to men; the next generation is to the previous one as donkeys are to men.”
+
+> Take no pride in your confession that you too are biased; do not glory in your self-awareness of your flaws. This is akin to the principle of not taking pride in confessing your ignorance; for if your ignorance is a source of pride to you, you may become loath to relinquish your ignorance when evidence comes knocking. Likewise with our flaws—we should not gloat over how self-aware we are for confessing them; the occasion for rejoicing is when we have a little less to confess.
 
 # Related
 

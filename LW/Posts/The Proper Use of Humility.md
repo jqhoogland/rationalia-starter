@@ -21,7 +21,13 @@ author: Eliezer_Yudkowsky
 ---
 
 # The Proper Use of Humility
+Our default association to "humility" is "social modesty," which "has to do with regulating status in the tribe, rather than scientific process."
 
+The aim is "scientific humility," which is a more recent and not inherently social invention.
+
+> But because physicists have this arrogant idea that their models should work _all_ the time, not just _most_ of the time, they follow up on small flaws.
+
+> But think of the social audacity of trying to be right _all_ the time!
 
 # Related
 

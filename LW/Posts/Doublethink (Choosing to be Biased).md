@@ -29,6 +29,6 @@ book: How to Actually Change Your Mind
 - [[Rationality]]
 - [[Self-Deception]]
 - [[Human Evil and Muddled Thinking]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[neglect of probability](http://en.wikipedia.org/wiki/Neglect_of_probability)"
 - [[Availability]]

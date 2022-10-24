@@ -24,7 +24,7 @@ book: Good and Bad Reasoning
 ---
 
 # Techniques for Probability Estimates
-- **Prepare for Revelation**: What would you expect if you expect the answer to shortly be revealed. See [[Belief in Belief]].
+- **Prepare for Revelation**: What would you expect if you expect the answer to shortly be revealed. See [[Belief in Belief (Post)]].
 - **Bet on it**.
 	- Note: this only works when utility is linear in winnings
 - **Convert to a Frequency** (Sun rising tomorrow)

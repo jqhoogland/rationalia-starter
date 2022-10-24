@@ -25,7 +25,7 @@ Politics is a hard subject to discuss rationally. Correspondingly, LessWrong has
 
 ### LessWrong Political Prerequisites
 
-- [[Politics is the Mind-Killer]]
+- [[Politics is the Mind-Killer (Post)]]
 - [[Policy Debates Should Not Appear One-Sided]]
 - [[The Scales of Justice, the Notebook of Rationality]]
 - [[Correspondence Bias]]

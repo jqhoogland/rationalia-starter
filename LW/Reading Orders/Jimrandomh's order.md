@@ -69,7 +69,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/a-suggested-reading-orde
 - [[Talking Snakes— A Cautionary Tale]]
 - [[Reversed Stupidity Is Not Intelligence]]
 - [Cognitive Biases Potentially Affecting Judgment of Global Risks](https://intelligence.org/files/CognitiveBiases.pdf)
-- [[Politics is the Mind-Killer]]
+- [[Politics is the Mind-Killer (Post)]]
 - [[Newcomb's Problem and Regret of Rationality]]
 
 ## Top-75
@@ -98,7 +98,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/a-suggested-reading-orde
 - [[The Lens That Sees Its Flaws]]
 - [[The Virtue of Narrowness]]
 - [[Generalizing From One Example]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 
 ## Top-100
 

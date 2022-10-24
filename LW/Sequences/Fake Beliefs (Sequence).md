@@ -22,7 +22,7 @@ An account of irrationality would be incomplete if it provided no theory about h
 
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
 - [[A Fable of Science and Politics]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[Religion's Claim to be Non-Disprovable]]
 - [[Professing and Cheering]]
 - [[Belief as Attire]]

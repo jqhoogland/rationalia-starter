@@ -21,7 +21,13 @@ book: 'Map and Territory '
 ---
 
 # "Science" As Curiosity-Stopper
-
+> Besides, consider the consequences if you permit “Someone else knows the answer” to function as a curiosity-stopper. One day you walk into your living room and see a giant green elephant, seemingly hovering in midair, surrounded by an aura of silver light.
+>
+> “What the heck?” you say.
+>
+> And a voice comes from above the elephant, saying,
+>
+> Somebody already knows why this elephant is here.
 
 # Related
 

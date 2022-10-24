@@ -42,4 +42,4 @@ The authors of these essays all participated in a community that awards social s
 - [[Simple Rules of Law]]
 - [[The Amish, and Strategic Norms around Technology]]
 - [[Risks from Learned Optimization— Introduction]]
-- [[Gradient hacking]]
+- [[Gradient hacking (Post)]]

@@ -34,7 +34,7 @@ status: todo
 - [[Definitions]]
 - [[Truth, Semantics, & Meaning]]
 - [[Map and Territory (Book)]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[exceptions](/lw/s/belief_in_selfdeception/)"
 - [[Hindsight Devalues Science]]
 - [[Belief in the Implied Invisible]]

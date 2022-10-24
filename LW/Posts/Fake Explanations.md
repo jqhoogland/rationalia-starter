@@ -20,7 +20,7 @@ author: Eliezer Yudkowsky
 ---
 
 # Fake Explanations
-
+Example of physics teacher who turns hot plate around before students walk into class.
 
 # Related
 

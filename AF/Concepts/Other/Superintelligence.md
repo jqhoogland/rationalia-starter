@@ -24,7 +24,7 @@ The [[Machine Intelligence Research Institute (MIRI)|Machine Intelligence Resear
 
 An [[Artificial General Intelligence]] will have a number of advantages aiding it in becoming a superintelligence. It can improve the hardware it runs on and obtain better hardware. It will be capable of directly editing its own code. Depending on how easy its code is to modify, it might carry out software improvements that [[Recursive Self-Improvement|spark further improvements]]. Where a task can be accomplished in a repetitive way, a module preforming the task far more efficiently might be developed. Its motivations and preferences can be edited to be more consistent with each other. It will have an indefinite life span, be capable of reproducing, and transfer knowledge, skills, and code among its copies as well as cooperating and communicating with them better than humans do with each other.
 
-The development of superintelligence from humans is another possibility, sometimes termed a weak superintelligence. It may come in the form of [[Whole Brain Emulation|whole brain emulation]], where a human brain is scanned and simulated on a computer. Many of the advantages a AGI has in developing superintelligence apply here as well. The development of [[Brain-Computer Interfaces|Brain-computer interfaces]] may also lead to the creation of superintelligence. Biological enhancements such as genetic engineering and the use of nootropics could lead to superintelligence as well.
+The development of superintelligence from humans is another possibility, sometimes termed a weak superintelligence. It may come in the form of [[Whole Brain Emulation|whole brain emulation]], where a human brain is scanned and simulated on a computer. Many of the advantages a AGI has in developing superintelligence apply here as well. The development of [[1 Projects/Rationalia/EA/Topics/Brain-computer interfaces|Brain-computer interfaces]] may also lead to the creation of superintelligence. Biological enhancements such as genetic engineering and the use of nootropics could lead to superintelligence as well.
 
 ## Blog Posts
 
@@ -38,7 +38,7 @@ The development of superintelligence from humans is another possibility, sometim
 
 ## See Also
 
-- [[Brain-Computer Interfaces|Brain-computer interfaces]]
+- [[1 Projects/Rationalia/EA/Topics/Brain-computer interfaces|Brain-computer interfaces]]
 - [[Singularity]]
 - [Hard takeoff](https://wiki.lesswrong.com/wiki/Hard_takeoff)
 

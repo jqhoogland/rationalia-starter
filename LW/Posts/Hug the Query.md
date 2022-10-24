@@ -17,10 +17,15 @@ synchedAt: '2022-09-01T09:27:56.417Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: How to Actually Change Your Mind
+aliases:
+ - Closeness-to-the-issue
 ---
 
 # Hug the Query
+**Closeness-to-the-issue**:
+> trying to observe evidence that is as near to the original question as possible, so that it screens off as many other arguments as possible.
 
+In the causal graph picture: you can never get more information from more distal nodes than more proximal nodes.
 
 # Related
 

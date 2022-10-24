@@ -17,6 +17,35 @@ author: evhub
 status: todo
 ---
 
+# Conditions for Mesa-Optimization
+
+%%
+
+"Humans as mesaoptimizers selected for by the evolution base optimizer" misses an important point. Humans aren't actually optimizers. Or, at least, [[Coherence arguments do not entail goal-directed behavior|not optimizers in any useful sense]].
+
+%%
+
+**Optimization Power**
+> measured in terms of the number of times the optimizer is able to divide the search space in half—that is, the number of bits of information provided.
+
+**Optimization** = search in policy space
+
+ **Algorithmic range** = the size of the set of algorithms that the base optimizer can find.
+
+**Inductive biases**
+- **Simplicity bias** may result from explicit regularization, model architecture, model size.
+- **Information funnels** (e.g.: DNA compressing brain structure) may favor compressed policies such as mesa-optimizers.
+
+> The more a base optimizer is biased towards simple solutions, the more it will be incentivized to find a compressed policy such as a mesa-optimizer.
+
+The authors speculate:
+> neither a minimal-depth nor minimal-size boolean circuit that solves a problem can be a mesa-optimizer
+
+**Statefulness** "could make it easier for a learned algorithm to implement a complex optimization process."
+- It "decreas[es] the implicit penalty on time complexity imposed by enforcing all computations to end when the learned algorithm produces its output"
+
+
+
 
 # Related
 

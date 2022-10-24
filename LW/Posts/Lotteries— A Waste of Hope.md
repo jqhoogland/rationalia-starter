@@ -23,7 +23,9 @@ book: How to Actually Change Your Mind
 ---
 
 # Lotteries: A Waste of Hope
+> Some lottery advocates ... defend lottery-ticket buying as a _rational purchase of fantasy_—paying a dollar for a day’s worth of pleasant anticipation, imagining yourself as a millionaire.
 
+But lotteries are not just sinks of money — they are sinks of emotional energy.
 
 # Related
 

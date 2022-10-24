@@ -24,7 +24,23 @@ book: How to Actually Change Your Mind
 ---
 
 # Rationality: An Introduction
+> When something we value is threatened—our world-view, our in-group, our social standing, or something else we care about—our thoughts and perceptions rally to their defense
 
+Example: Dartmouth-Princeton football game.
+
+> Rather than trusting explanations in proportion to their predictive power, we tend to trust _stories_ in proportion to their psychological appeal.
+
+A better way is possible.
+
+>  We can also formalize _rational belief in general_, using probability theory to pick out features held in common by all successful forms of inference. We can even formalize _rational behavior in general_ by drawing upon decision theory.
+
+Robin Hanson:
+
+> You are never entitled to your opinion. Ever! You are not even entitled to “I don’t know.” You are entitled to your desires, and sometimes to your choices. You might own a choice, and if you can choose your preferences, you may have the right to do so. But your beliefs are not about you; beliefs are about the world. Your beliefs should be your best available estimate of the way things are; anything else is a lie. [ . . . ]
+> 
+> [I]n any information situation, there _is_ always a best estimate. You are only entitled to your best honest effort to find that best estimate; anything else is a lie.
+
+It's a question of acquiring more evidence and using our limited evidence more effectively.
 
 # Related
 

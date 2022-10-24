@@ -22,7 +22,7 @@ author: Eliezer Yudkowsky
 ---
 
 # Your Strength as a Rationalist
-
+> Your strength as a rationalist is your ability to be more confused by fiction than by reality. If you are equally good at explaining any outcome, you have zero knowledge.
 
 # Related
 

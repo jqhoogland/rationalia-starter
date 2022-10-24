@@ -22,7 +22,13 @@ author: Eliezer Yudkowsky
 ---
 
 # Guessing the Teacher's Password
+> Words do not have intrinsic definitions.
 
+> Suppose the teacher asks you why the far side of a metal plate feels warmer than the side next to the radiator. If you say “I don’t know,” you have _no_ chance of getting a gold star—it won’t even count as class participation. But, during the current semester, this teacher has used the phrases “because of heat convection,” “because of heat conduction,” and “because of radiant heat.” One of these is probably what the teacher wants. You say, “Eh, maybe because of heat conduction?”
+
+> This is not a hypothesis _about_ the metal plate. This is not even a proper belief. It is an attempt to _guess the teacher’s password._
+
+> _This happens by default: it happened to the whole human species for thousands of years._
 
 # Related
 

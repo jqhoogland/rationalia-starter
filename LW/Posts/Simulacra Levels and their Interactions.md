@@ -35,7 +35,7 @@ collection: Best of LessWrong
 - "[in her post](https://www.lesswrong.com/posts/Z5wF8mdonsM2AuGgt/negative-feedback-and-simulacra)"
 - "[Ben Hoffman](http://benjaminrosshoffman.com/)"
 - "[command language](http://benjaminrosshoffman.com/actors-and-scribes-words-and-deeds/)"
-- [[Politics is the Mind-Killer]]
+- [[Politics is the Mind-Killer (Post)]]
 - "[comment](https://www.lesswrong.com/posts/fEX7G2N7CtmZQ3eB5/simulacra-and-subjectivity?commentId=FgajiMrSpY9MxTS8b)"
 - "[then eat at Arby’s](https://www.youtube.com/watch?v=6vxQqdFOeoM)"
 - "[glomarization](https://en.wikipedia.org/wiki/Glomar_response)"

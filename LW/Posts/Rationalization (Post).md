@@ -22,6 +22,12 @@ book: How to Actually Change Your Mind
 
 # Rationalization
 
+> “Rationalization.” What a curious term. I would call it a _wrong word._ You cannot “rationalize” what is not already rational. It is as if “lying” were called “truthization.”
+
+> "Rationality" is the *forward* flow that gathers evidence, weights it, and outputs a conclusion
+
+> "Rationalization" is a *backward* flow from conclusion to selected evidence
+
 
 # Related
 

@@ -18,17 +18,3 @@ status: todo
 
 **<https://www.lesswrong.com/posts/mv6nuN7nhnNpj9MLr/announcing-squiggle-early-access**>
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Squiggle**?
-Back: {TODO}
-Tags: LessWrong
-END
-<!--ID: 1663156967606-->
-
-
-%%
-	

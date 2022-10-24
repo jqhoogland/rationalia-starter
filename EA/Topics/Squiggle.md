@@ -9,6 +9,7 @@ tags:
   - Tag
 synchedAt: '2022-09-11T14:33:29.484Z'
 ---
+
 # Squiggle
 
 **Squiggle** is a special-purpose programming language for probabilistic estimation, developed by the [[Quantified Uncertainty Research Institute]].
@@ -17,3 +18,7 @@ External links
 --------------
 
 [Squiggle](https://www.squiggle-language.com/). Official website.
+
+```run-squiggle
+10 to 100
+```

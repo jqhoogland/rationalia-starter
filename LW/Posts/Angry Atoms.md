@@ -35,7 +35,7 @@ author: Eliezer_Yudkowsky
 - "[minimax](http://en.wikipedia.org/wiki/Minimax)"
 - "[The Simple Truth](http://yudkowsky.net/bayes/truth.html)"
 - [[Fake Reductionism]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[Science as Attire]]
 - [[How An Algorithm Feels From Inside]]
 - [[Wrong Questions]]

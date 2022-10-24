@@ -30,13 +30,12 @@ The **illusion of transparency** is the misleading impression that your words co
 
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Illusion of Transparency**?
-Back: {TODO}
+Back: The misleading impression that your words convey more to others than they really do.
 Tags: LessWrong
 END
-<!--ID: 1663156998251-->
 
 
 %%

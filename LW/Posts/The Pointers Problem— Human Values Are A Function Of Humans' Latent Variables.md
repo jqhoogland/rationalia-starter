@@ -30,7 +30,7 @@ collection: Best of LessWrong
 
 - [[Rationality]]
 - [[AI]]
-- [[Value Learning]]
+- [[AF/Concepts/Engineering Alignment/Value Learning]]
 - [[The Pointers Problem]]
 - "[some of Abram’s posts](https://www.lesswrong.com/s/SBfqYgHf2zvxyKDtB)"
 - [[Embedded Agency]]

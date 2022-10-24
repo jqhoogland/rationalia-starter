@@ -24,6 +24,7 @@ book: How to Actually Change Your Mind
 ---
 
 # The Bottom Line
+Two boxes. One diamond. Starting your analysis with "Therefore box A includes the diamond" isn't a promising strategy.
 
 
 # Related

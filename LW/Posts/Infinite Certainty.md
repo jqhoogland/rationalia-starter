@@ -21,7 +21,9 @@ book: How to Actually Change Your Mind
 ---
 
 # Infinite Certainty
+There's a difference between statements that can be abstractly and absolutely true (lightspeed as a hard limit, 2+2=4) & absolute confidence in these statements.
 
+Whenever you get to statements that are posited to hold absolutely, the bottleneck is our confidence in them.
 
 # Related
 

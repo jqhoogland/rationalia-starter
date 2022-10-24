@@ -24,7 +24,7 @@ status: todo
 - [[Fun Theory]]
 - [[You Only Live Twice]]
 - [[Affective Death Spirals]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[Excluding the Supernatural]]
 - [[Beyond the Reach of God]]
 - "[Epicurus's argument](http://i20.photobucket.com/albums/b217/luke1889/Epicurus.jpg)"

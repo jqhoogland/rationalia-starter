@@ -78,13 +78,12 @@ To say that someone is using the fallacy of gray is to say that despite not sayi
 
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Fallacy of Gray**?
-Back: {TODO}
+Back: Fallacy that claims, roughly, that because nothing is certain, everything is equally uncertain.  
 Tags: LessWrong
 END
-<!--ID: 1663157004262-->
 
 
 %%

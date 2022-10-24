@@ -25,7 +25,9 @@ book: How to Actually Change Your Mind
 ---
 
 # Are Your Enemies Innately Evil?
+The [[Correspondence Bias]] is doubled when the actions offend us.
 
+> When you accurately estimate the Enemy’s psychology—when you know what is really in the Enemy’s mind—that knowledge won’t feel like landing a delicious punch on the opposing side. It won’t give you a warm feeling of righteous indignation. It won’t make you feel good about yourself. If your estimate makes you feel unbearably sad, you may be seeing the world as it really is. More rarely, an accurate estimate may send shivers of serious horror down your spine, as when dealing with true psychopaths, or neurologically intact people with beliefs that have utterly destroyed their sanity (Scientologists or Jesus Campers).
 
 # Related
 

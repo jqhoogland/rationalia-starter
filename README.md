@@ -8,7 +8,7 @@ This repository is a starting point to take notes on the concepts, terms, jargon
 
 ## Motivation
 
-LessWrong and its compatriots have accumulated a lot of content over the years. This is daunting for newcomers. Sure you can grind through [The Sequences](https://www.lesswrong.com/rationality), but it's going to take more work to actually keep the information in long-term memory.
+LessWrong and its compatriots have accumulated a lot of content over the years. This is daunting for newcomers. Simply reading through [The Sequences](https://www.lesswrong.com/rationality) is great, but really internalizing the knowledge & putting it to work will require extra effort.
 
 In particular, the aim of this repository is:
 

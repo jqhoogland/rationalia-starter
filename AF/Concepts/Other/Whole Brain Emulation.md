@@ -27,7 +27,7 @@ The exact level of detail required for an accurate simulation of a brain's mind 
 Several approaches for WBE have been suggested:
 
 - A brain could be cut into small slices, which would then be scanned into a computer.[^1^](#fn1)
-- [[Brain-Computer Interfaces|Brain-computer interfaces]] could slowly replace portions of the brain with computers and allow the mind to grow onto a computing substrate.[^2^](#fn2)[^3^](#fn3)
+- [[1 Projects/Rationalia/EA/Topics/Brain-computer interfaces|Brain-computer interfaces]] could slowly replace portions of the brain with computers and allow the mind to grow onto a computing substrate.[^2^](#fn2)[^3^](#fn3)
 - Resources such as personality tests and a person's writings could be used to construct a model of the person.[^4^](#fn4)
 
 A digitally emulated brain could have several advantages over a biological one[^5^](#fn5). It might be able to run faster than biological brains, copy itself, and take advantage of backups while experimenting with self-modification.

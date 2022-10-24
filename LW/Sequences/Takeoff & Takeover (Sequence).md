@@ -33,3 +33,11 @@ status: todo
 - [[Against GDP as a metric for timelines and takeoff speeds]]
 - [[The date of AI Takeover is not the day the AI takes over]]
 - [[Some AI research areas and their relevance to existential safety]]
+
+---
+
+# Homogeneity
+Do we expect a **homogeneous takeoff** (one or more powerful AIs with similar alignment)? Or **inhomogeneous takeoff** (multiplie powerful AIs with different alignments)?
+
+[Evan Hubinger](https://www.youtube.com/watch?v=uQN0wqzy164) argues in favor of a homogeneous takeoff because:
+- Training is so much more expensive than deployment

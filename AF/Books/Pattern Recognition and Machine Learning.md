@@ -1,6 +1,8 @@
 ---
 type: book
 href: https://cds.cern.ch/record/998831/files/9780387310732_TOC.pdf
+aliases:
+  - PRML
 ---
 
 Christopher M. Bishop Pattern Recognition and Machine Learning Springer Mathematical notation Ni Contents xiii 

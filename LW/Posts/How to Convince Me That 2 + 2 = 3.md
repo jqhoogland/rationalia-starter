@@ -24,8 +24,8 @@ book: How to Actually Change Your Mind
 ---
 
 # How to Convince Me That 2 + 2 = 3
-
-
+> What would convince me that 2 + 2 = 3, in other words, is exactly the same kind of evidence that currently convinces me that 2 + 2 = 4: The evidential crossfire of physical observation, mental visualization, and social agreement.
+	
 # Related
 
 - [[Rationality]]

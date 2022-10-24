@@ -27,7 +27,7 @@ status: todo
 - [[Pitfalls of Rationality]]
 - [[Justified Expectation of Pleasant Surprises]]
 - [[The Virtue of Narrowness]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[weak](/lw/vz/the_weak_inside_view/)"
 - "[no one can seem to write about a Utopia where anyone would want to live](http://www.orwell.ru/library/articles/socialists/english/e_fun)"
 - [[Eutopia is Scary]]

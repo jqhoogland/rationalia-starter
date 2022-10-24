@@ -23,6 +23,7 @@ book: How to Actually Change Your Mind
 
 # Entangled Truths, Contagious Lies
 
+> Physically, each event is in some sense the sum of its whole past light cone, without borders or boundaries. But the list of _noticeable_ entanglements is much shorter, and it gives you something like a network. This high-level regularity is what I refer to when I talk about the Great Web of Causality.
 
 # Related
 

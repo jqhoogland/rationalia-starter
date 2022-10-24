@@ -24,7 +24,9 @@ author: Eliezer Yudkowsky
 ---
 
 # Scientific Evidence, Legal Evidence, Rational Evidence
+> All legal evidence should ideally be rational evidence, but not the other way around. We impose special, strong, additional standards before we anoint rational evidence as “legal evidence.”
 
+> Science is the _publicly reproducible_ knowledge of humankind.
 
 # Related
 

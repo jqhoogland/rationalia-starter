@@ -14,16 +14,22 @@ tags:
   - AI_Risk
 href: >-
   https://www.lesswrong.com/posts/AanbbjYr5zckMKde7/specification-gaming-examples-in-ai-1
+  - https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity
 sequence: Alignment
 chapter: null
 synchedAt: '2022-09-01T09:10:31.340Z'
 status: todo
 collection: Best of LessWrong
 book: A Map That Reflects the Territory
+aliases:
+ - Specification Gaming
 ---
 
 # Specification Gaming Examples in AI
-
+Three grand challenges in solving specification gaming:
+-   How do we faithfully capture the human concept of a given task in a reward function?
+-   How do we avoid making mistakes in our implicit assumptions about the domain, or design agents that correct mistaken assumptions instead of gaming them?
+-   How do we avoid reward tampering?
 
 # Related
 

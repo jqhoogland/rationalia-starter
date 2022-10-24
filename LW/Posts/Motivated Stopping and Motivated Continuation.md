@@ -18,10 +18,14 @@ synchedAt: '2022-09-01T09:26:35.674Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: How to Actually Change Your Mind
+aliases:
+  - Motivated Stopping
+  - Motivated Continuation
 ---
 
 # Motivated Stopping and Motivated Continuation
 
+> The moral is that the decision to terminate a search procedure (temporarily or permanently) is, like the search procedure itself, subject to bias and hidden motives. You should suspect motivated stopping when you close off search, after coming to a comfortable conclusion, and yet there’s a lot of fast cheap evidence you haven’t gathered yet—there are websites you could visit, there are counter-counter arguments you could consider, or you haven’t closed your eyes for five minutes by the clock trying to think of a better option. You should suspect motivated continuation when some evidence is leaning in a way you don’t like, but you decide that more evidence is needed—_expensive_ evidence that you know you can’t gather anytime soon, as opposed to something you’re going to look up on Google in thirty minutes—before you’ll have to do anything uncomfortable.
 
 # Related
 

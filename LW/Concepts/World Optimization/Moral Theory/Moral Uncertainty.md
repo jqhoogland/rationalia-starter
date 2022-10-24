@@ -35,7 +35,7 @@ Even with a high degree of moral uncertainty and a wide range of possible moral 
 ## See Also
 
 - [[Expected Utility|Expected utility]]
-- [[Value Learning|Value learning]]
+- [[AF/Concepts/Engineering Alignment/Value Learning|Value learning]]
 - [[Metaethics]]
 
 ## References

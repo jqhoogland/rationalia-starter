@@ -24,7 +24,29 @@ author: Eliezer Yudkowsky
 ---
 
 # Applause Lights
+> I think it means that you have said the word “democracy,” so the audience is supposed to cheer. It’s not so much a propositional statement or belief, as the equivalent of the “Applause” light that tells a studio audience when to clap.
 
+## How to identify?
+If reversing the statement sounds abnormal, the unreversed statement probably doesn't convey any new information. 
+
+This can still be valuable (e.g., as introduction to a discussion topic), but if no specifics follow, it is probably an applause light.
+
+E.g.:
+
+> We need to balance the risks and opportunities of AI.
+
+and
+
+> We shouldn’t balance the risks and opportunities of AI.
+
+%%
+START
+type: Basic
+How to identify **applause lights**?
+Back: If reversing the statement yields an abnormal statement & it is not accompanied by specifics.
+Tags: LessWrong
+END
+%%
 
 # Related
 

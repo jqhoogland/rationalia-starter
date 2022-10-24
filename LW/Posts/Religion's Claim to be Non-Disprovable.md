@@ -22,8 +22,15 @@ book: 'Map and Territory '
 ---
 
 # Religion's Claim to Be Non-Disprovable
+> Back in the old days, people actually _believed_ their religions instead of just _believing in_ them.
 
+> The orthogonality of religion and factual questions is a _recent_ and strictly _Western_ concept. The people who wrote the original scriptures didn’t even know the difference.
 
+> The modern concept of religion as purely _ethical_ derives from every other area’s having been taken over by better institutions. Ethics is what’s _left_.
+>
+> Or rather, people _think_ ethics is what’s left.
+
+> The idea that religion is a separate magisterium that _cannot be proven or disproven_ is a Big Lie—a lie which is repeated over and over again, so that people will say it without thinking; yet which is, on critical examination, simply false.
 # Related
 
 - [[Religion]]

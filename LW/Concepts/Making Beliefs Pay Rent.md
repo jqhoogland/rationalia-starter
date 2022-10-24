@@ -10,6 +10,8 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:36.531Z'
 status: todo
+aliases:
+  - Anticipation Controller
 ---
 
 # Making Beliefs Pay Rent

@@ -118,7 +118,7 @@ collection: Best of LessWrong
 - "[Efficient feedback](https://ai-alignment.com/efficient-feedback-a347748b1557)"
 - "[relaxed adversarial training setup](https://www.alignmentforum.org/posts/9Dy5YRaoCxH9zuJqa/relaxed-adversarial-training-for-inner-alignment)"
 - "[myopia](https://www.alignmentforum.org/posts/BKM8uQS6QdJPZLqCr/towards-a-mechanistic-understanding-of-corrigibility)"
-- [[Gradient hacking]]
+- [[Gradient hacking (Post)]]
 - "[Relaxed adversarial training for inner alignment](https://www.alignmentforum.org/posts/9Dy5YRaoCxH9zuJqa/relaxed-adversarial-training-for-inner-alignment)"
 - "[some](https://arxiv.org/abs/1709.10163)"
 - "[sort](https://arxiv.org/abs/1902.04257)"

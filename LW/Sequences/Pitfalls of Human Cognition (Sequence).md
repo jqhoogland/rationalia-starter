@@ -35,4 +35,4 @@ A major theme of the Sequences is the ways in which human reasoning goes astray.
 - [[Lonely Dissent]]
 - [[Positive Bias— Look Into the Dark]]
 - [[Knowing About Biases Can Hurt People]]
-- [[Politics is the Mind-Killer]]
+- [[Politics is the Mind-Killer (Post)]]

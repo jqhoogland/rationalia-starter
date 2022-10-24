@@ -14,17 +14,10 @@ status: todo
 
 # Gradient Hacking
 
-
 %%
 
-% START
-Basic (and reversed card)
-What is **Gradient Hacking**?
-Back: {TODO}
-Tags: LessWrong
-END
-<!--ID: 1663157000759-->
+My intuition is that gradient hacking is unlikely. That it requires global knowledge of the loss landscape, which is unlikely to be accessible to the embedded model. (Cf. we can't simulate a universe in our universe with more computational resources than our universe). Unfortunately, this also makes it less likely that we can understand the loss landscape. 
 
+My main crux is probably the path-dependence of training.]]
 
 %%
-	

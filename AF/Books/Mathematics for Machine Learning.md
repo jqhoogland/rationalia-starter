@@ -1,6 +1,8 @@
 ---
 type: book
 href: https://mml-book.github.io/
+aliases:
+  - MML
 ---
 
 # Part I: Mathematical Foundations

@@ -22,6 +22,8 @@ author: Eliezer Yudkowsky
 ---
 
 # Politics is the Mind-Killer
+> Politics is an extension of war by other means. Arguments are soldiers. Once you know which side you’re on, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side; otherwise it’s like stabbing your soldiers in the back—providing aid and comfort to the enemy.
+
 
 
 # Related

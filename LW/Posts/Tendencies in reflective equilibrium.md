@@ -28,7 +28,7 @@ status: todo
 - [[Utility Functions]]
 - "[really hungry](http://blogs.discovermagazine.com/notrocketscience/2011/04/11/justice-is-served-but-more-so-after-lunch-how-food-breaks-sway-the-decisions-of-judges/)"
 - "[whether his local sports team won the pennant recently](http://www.thedailybeast.com/articles/2009/01/09/dirty-secrets-of-college-admissions.html)"
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[Pascal's Mugging](/lw/kd/pascals_mugging_tiny_probabilities_of_vast/)"
 - [[The Lens That Sees Its Flaws]]
 - "[part one](http://www.raikoth.net/consequentialism.html#metaethics)"

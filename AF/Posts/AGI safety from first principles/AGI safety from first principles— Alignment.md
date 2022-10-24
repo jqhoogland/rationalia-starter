@@ -68,4 +68,4 @@ Ngo is pessimistic about how well mathematics can make high-level claims about t
 - "[deceptive alignment](https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB/p/zthDPAjh9w6Ytbeks)"
 - [[Open question: are minimal circuits daemon-free?]]
 - "[Risks from Learned Optimisation in Advanced Machine Learning Systems](https://arxiv.org/abs/1906.01820)"
-- [[Gradient hacking]]
+- [[Gradient hacking (Post)]]

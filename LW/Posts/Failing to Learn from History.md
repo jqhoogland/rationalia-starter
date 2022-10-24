@@ -22,7 +22,7 @@ book: 'Map and Territory '
 ---
 
 # Failing to Learn From History
-
+> We learn about astronomy and chemistry and biology in school, and it seems to us that these matters have _always been_ the proper realm of science, that they have _never been_ mysterious. When science dares to challenge a new Great Puzzle, the children of that generation are skeptical, for they have never seen science explain something that _feels_ mysterious to them. Science is only good for explaining _scientific_ subjects, like stars and matter and life
 
 # Related
 

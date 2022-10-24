@@ -31,7 +31,7 @@ status: todo
 - [[Reversed Stupidity Is Not Intelligence]]
 - "[more clueless sort of sermon](/lw/wu/visualizing_eutopia/)"
 - [[Applause Lights]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[Golden streets and diamond walls](/lw/wu/visualizing_eutopia/)"
 - [[Scarcity]]
 - "[David Pearce](http://en.wikipedia.org/wiki/David_Pearce_%28philosopher%29)"

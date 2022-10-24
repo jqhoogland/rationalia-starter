@@ -64,6 +64,32 @@ This definition avoids several problems common in many others definitions, espec
 - [[@legg2007|Legg and Hutter paper “Universal Intelligence: A Deﬁnition of Machine Intelligence"]]
 - <http://intelligence.org/files/IE-EI.pdf>
 
+---
+
+## [Arbital](https://arbital.com/p/general_intelligence/)
+> A bee is born with the ability to construct hives; a beaver is born with an instinct for building dams; a human looks at both and imagines a gigantic dam with a honeycomb structure of internal reinforcement.
+
+### AGI != human-level AI
+Our intelligence comes from an iterative (inefficient) evolutionary process.
+
+> We might at some point consistently see an infrahuman general intelligence that is not like a disabled human, but rather like some previously unobserved and unimagined form of weaker but still highly general intelligence.
+
+### IQ does not matter for AGI
+
+> That is: If you're trying to build the first mechanical heavier-than-air flying machine, you ought to be thinking "How do birds fly? How do they stay up in the air, at all?" Rather than, "Is there a central Fly-Q factor that can be inferred from the variation in many different measures of how well individual pigeons fly, which lets us predict the individual variation in a pigeon's speed or turning radius better than any single observation about one factor of that pigeon's flying ability?"
+
+That said, g may constitute evidence in favor of "general intelligence".
+
+We probably underestimate the commonality of cognitive tasks across superficially different tasks.
+
+Two extreme straw positions:
+- "I see no reason why ability at driving blue cars has to be so strongly correlated with driving red cars; they look pretty different to me"
+- Maybe Tic Tac Toe isn't possible without full-blown AGI
+
+> It seems like in practice, different beliefs about 'general intelligence' may account for a lot of the disagreement about "Can we have an AI that X-es without that AI being 30 seconds away from being capable of Y-ing?" In particular, different beliefs about:
+> -   To what degree most interesting/relevant domain problems, decompose well into a similar class of deep cognitive subproblems;
+> -   To what degree whacking on an interesting/relevant problem with general intelligence is a good or natural way to solve it, compared to developing specialized algorithms (that can't just be developed _by_ a general intelligence (without that AGI paying pragmatically very-difficult-to-pay costs in computation or sample complexity)).
+
 %%
 
 START

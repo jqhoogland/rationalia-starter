@@ -20,7 +20,15 @@ author: Eliezer Yudkowsky
 ---
 
 # Semantic Stopsigns
+Consider the paradox of the First Cause.
 
+Many resolve with the semantic stopsign "God!" — a signal to not think past this point.
+
+Other examples include:
+- "Liberal Democracy" when the question is any thorny transhumanist policy issue
+- "Corporations"
+
+> No word is a stopsign of itself; the question is whether a word has that effect on a particular person. Having strong emotions about something doesn’t qualify it as a stopsign. ... What distinguishes a semantic stopsign is _failure to consider the obvious next question_.
 
 # Related
 

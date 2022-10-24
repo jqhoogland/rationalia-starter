@@ -33,7 +33,7 @@ book: The Machine in the Ghost
 - [[Absence of Evidence Is Evidence of Absence]]
 - [[Conservation of Expected Evidence (Post)]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[What Evidence Filtered Evidence?]]
 - [[Rationalization (Post)]]
 - [[Professing and Cheering]]

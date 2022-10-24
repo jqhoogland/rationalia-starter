@@ -9,22 +9,11 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:49.046Z'
-status: todo
+aliases:
+- Emergence
+
 ---
 
 # Emergent Behavior
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Emergent Behavior**?
-Back: {TODO}
-Tags: LessWrong
-END
-<!--ID: 1663157007714-->
-
-
-%%
 	

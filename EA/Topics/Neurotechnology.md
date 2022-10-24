@@ -13,4 +13,4 @@ synchedAt: '2022-09-11T14:33:29.654Z'
 
 **Neurotechnology** is any tool that directly, exogenously observes or manipulates the state of biological nervous systems, especially the human brain.
 
-Familiar examples include electrode-based [[Brain-computer interfaces|brain-computer interfaces]] (BCIs), antidepressant drugs, or magnetic resonance imaging (MRI).
+Familiar examples include electrode-based [[1 Projects/Rationalia/EA/Topics/Brain-computer interfaces|brain-computer interfaces]] (BCIs), antidepressant drugs, or magnetic resonance imaging (MRI).

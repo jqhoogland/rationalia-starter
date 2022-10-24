@@ -43,7 +43,7 @@ book: The Engines of Cognition
 - "[proxy alignment](https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB/p/pL56xPoniLvtMDQ4J)"
 - "[informed oversight](https://ai-alignment.com/informed-oversight-18fcb5d3d1e1)"
 - "[relaxed adversarial training](https://www.alignmentforum.org/posts/9Dy5YRaoCxH9zuJqa/relaxed-adversarial-training-for-inner-alignment)"
-- [[Gradient hacking]]
+- [[Gradient hacking (Post)]]
 - "[Why Tool AIs Want to Be Agent AIs](https://www.gwern.net/Tool-AI)"
 - "[mesa-optimization](https://arxiv.org/abs/1906.01820)"
 - "[Reframing Superintelligence: Comprehensive AI Services as General Intelligence](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)"

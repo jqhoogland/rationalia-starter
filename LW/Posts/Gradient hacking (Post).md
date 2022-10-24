@@ -33,7 +33,7 @@ book: The Engines of Cognition
 - [[Inner Alignment]]
 - [[Transparency / Interpretability (ML & AI)]]
 - [[AI]]
-- [[Gradient Hacking]]
+- [[Gradient hacking (Post)]]
 - "[deceptively aligned](https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB/p/zthDPAjh9w6Ytbeks)"
 - "[Risks from Learned Optimization](https://arxiv.org/abs/1906.01820)"
 - "[the following footnote](https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB/p/zthDPAjh9w6Ytbeks#fn-xsRHpadWKiBheq9EK-12)"

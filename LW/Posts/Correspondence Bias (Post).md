@@ -23,7 +23,20 @@ book: How to Actually Change Your Mind
 ---
 
 # Correspondence Bias
+> The correspondence bias is the tendency to draw inferences about a person’s unique and enduring dispositions from behaviors that can be entirely explained by the situations in which they occur.
 
+—Gilbert and Malone[1](https://www.lesswrong.com/s/3ELrPerFTSo75WnrH/p/DB6wbyrMugYMK5o6a#fn1x17)
+
+E.g.:
+- Vending machine
+- > When subjects are told that a pro-abortion or anti-abortion speaker was _randomly assigned_ to give a speech on that position, subjects still think the speakers harbor leanings in the direction randomly assigned.
+
+> _To understand why people act the way they do, we must first realize that everyone sees themselves as behaving normally_
+
+### Discussion
+> The less you know less about someone's personality, the more you should infer about their personality from their behavior. So it is reasonable to infer more from behavior about others than yourself. The problem instead seems to be overconfidence - we infer far more than is reasonable given only a small behavior sample.
+
+— Robin Hanson
 
 # Related
 

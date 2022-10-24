@@ -59,7 +59,7 @@ status: todo
 - [[My Kind of Reflection]]
 - [[Righting a Wrong Question]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[Your Strength as a Rationalist]]
 - "[anticipation](/lw/iq/guessing_the_teachers_password/)"
 - "[Fake Utility Functions sequence](/lw/lp/fake_fake_utility_functions/)"

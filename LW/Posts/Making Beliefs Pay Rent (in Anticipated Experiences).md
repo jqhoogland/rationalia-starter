@@ -25,6 +25,11 @@ author: Eliezer Yudkowsky
 
 # Making Beliefs Pay Rent (in Anticipated Experiences)
 
+The "tree falls in the forest and no one is around to hear it" hypothetical doesn't involve any meaningful predictions.
+
+Lots of humanities is driven is this kind of web of pointers where none of the pointers have any actual content.
+
+
 
 # Related
 

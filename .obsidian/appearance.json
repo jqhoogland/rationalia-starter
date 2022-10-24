@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 12,
   "theme": "obsidian",
   "cssTheme": "Atom",
   "enabledCssSnippets": [
@@ -8,5 +8,6 @@
     "flip-card",
     "supercharged-links-gen"
   ],
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }

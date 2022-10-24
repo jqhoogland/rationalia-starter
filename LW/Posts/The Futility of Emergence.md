@@ -22,7 +22,11 @@ author: Eliezer Yudkowsky
 ---
 
 # The Futility of Emergence
+"[[Emergent Behavior|Emergence]]" as a [[Semantic Stopsign]].
 
+> The phrase “emerges from” is acceptable, just like “arises from” or “is caused by” are acceptable, if the phrase precedes some specific model to be judged on its own merits.
+
+> However, this is _not_ the way “emergence” is commonly used. “Emergence” is commonly used as an explanation in its own right.
 
 # Related
 

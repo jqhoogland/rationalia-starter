@@ -32,7 +32,7 @@ status: todo
 - [[An Alien God]]
 - [[Abstracted Idealized Dynamics]]
 - [[Evolutions Are Stupid (But Work Anyway)]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [["Arbitrary"]]
 - [[Could Anything Be Right?]]
 - [[The Gift We Give To Tomorrow]]

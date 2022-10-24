@@ -24,7 +24,7 @@ book: 'Map and Territory '
 ---
 
 # Belief as Attire
-
+> Identifying with a tribe is a very strong emotional force. People will die for it. And once you get people to identify with a tribe, the beliefs which are the attire of that tribe will be spoken with the full passion of belonging to that tribe.
 
 # Related
 
@@ -34,7 +34,7 @@ book: 'Map and Territory '
 - [[Motivated Reasoning]]
 - [[Tribalism]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[Professing and Cheering]]
 - [[Are Your Enemies Innately Evil?]]
 - [[A Fable of Science and Politics]]

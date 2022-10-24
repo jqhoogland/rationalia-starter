@@ -19,10 +19,11 @@ synchedAt: '2022-09-01T09:08:05.077Z'
 status: todo
 collection: 'Rationality: A-Z'
 book: Mere Goodness
+aliases:
+  - Fragility of Value
 ---
 
 # Value is Fragile
-
 
 # Related
 
@@ -32,7 +33,7 @@ book: Mere Goodness
 - [[Sorting Pebbles Into Correct Heaps]]
 - [[Inseparably Right; or, Joy in the Merely Good]]
 - [[Anthropomorphic Optimism]]
-- [[LW/Concepts/Rationality/Failure Modes/Mind Projection Fallacy]]
+- [[Mind Projection Fallacy]]
 - "[notice that its utility function was wrong](/lw/rd/passing_the_recursive_buck/)"
 - "[free will](/lw/rc/the_ultimate_source/)"
 - [[No Universally Compelling Arguments]]
@@ -40,10 +41,23 @@ book: Mere Goodness
 - [[Evolutions Are Stupid (But Work Anyway)]]
 - [[An Alien God]]
 - "[executing adaptations versus maximizing fitness](/lw/l0/adaptationexecuters_not_fitnessmaximizers/)"
-- [[LW/Concepts/World Modeling/Biological & Psychological/Evolutionary Psychology]]
+- [[Evolutionary Psychology]]
 - "[Lawful Creativity](/lw/vm/lawful_creativity/)"
 - [[Invisible Frameworks]]
 - [[The Fun Theory Sequence]]
 - [[The Hidden Complexity of Wishes]]
 - [[Magical Categories]]
 - [[The Gift We Give To Tomorrow]]
+
+
+%%
+
+START
+Basic (and reversed card)
+What is **Value is Fragile**?
+Back: the thesis that losing even a small part of the rules that make up our values could lead to results that most of us would now consider as unacceptable 
+Tags: LessWrong
+END
+
+%%
+	

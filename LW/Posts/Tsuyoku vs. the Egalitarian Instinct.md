@@ -23,6 +23,9 @@ book: How to Actually Change Your Mind
 
 # Tsuyoku Vs. the Egalitarian Instinct
 
+Doing better *may be* an unhealthy motivation.
+
+> But in any case, surely it isn’t healthy to be _ashamed_ of doing better.
 
 # Related
 

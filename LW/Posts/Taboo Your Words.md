@@ -38,4 +38,4 @@ author: Eliezer_Yudkowsky
 - "[wave](/lw/iq/guessing_the_teachers_password/)"
 - "[that other term](http://intelligence.org/blog/2007/09/30/three-major-singularity-schools/)"
 - "[71 definitions of "intelligence"](http://arxiv.org/abs/0706.3639)"
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]

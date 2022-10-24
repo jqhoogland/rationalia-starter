@@ -9,7 +9,8 @@ tags:
   - Concept
   - Tag
 synchedAt: '2022-09-01T09:42:54.661Z'
-status: todo
+aliases:
+   - BCI
 ---
 
 # Brain-Computer Interfaces
@@ -25,6 +26,11 @@ Of all the different means avaliable, the registering of the [electroencephalogr
 The field of BCIs has followed closely the developments in signal processing and classification, along with the increasing computational power available. It was firstly researched as a communication means (for people unable to move, for instance) through the detection of ERPs – event related potentials, small variations of amplitude associated to the presentation of certain stimuli - as well as a way of automatically detecting epileptic seizures. Also, much owing to the first and major financers of such research, the [DARPA](http://en.wikipedia.org/wiki/DARPA), the use of BCIs has been always closed associated to the military field. This has allowed insights regarding the detection of mental states of fatigue and attention variations, which has led to the development of informatics systems capable of adapting to the mental state of the user.
 
 Currently we have available a considerable range of both research and commercial applications of EEG based BCI systems with a wide list of applications. It has shown to be a field due to receive increased attention in the next years, especially through the developing of increasingly efficient classification algorithms and computer power, and the fascination with the cognitive augmentation it might bring.
+
+Examples:
+- Muse
+- OpenBCI
+- Kernels
 
 ## Potential Applications
 
@@ -59,17 +65,4 @@ Other attractive future application includes the [upload of the whole content of
 - [[Wireheading]]
 - [[Neuralink]]
 
-
-%%
-
-% START
-Basic (and reversed card)
-What is **Brain-Computer Interfaces**?
-Back: {TODO}
-Tags: LessWrong
-END
-<!--ID: 1663157017507-->
-
-
-%%
 	

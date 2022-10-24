@@ -23,6 +23,12 @@ book: How to Actually Change Your Mind
 ---
 
 # Your Rationality is My Business
+Why care about others' rationality?
+
+> So here then is my answer: I believe that it is right and proper for me, as a human being, to have an interest in the future, and what human civilization becomes in the future. One of those interests is the human pursuit of truth, which has strengthened slowly over the generations (for there was not always Science). I wish to strengthen that pursuit further, in _this_ generation.
+
+So... "let's argue against bad ideas but *not* set their bearers on fire."
+
 
 
 # Related

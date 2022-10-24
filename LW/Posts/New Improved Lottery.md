@@ -24,6 +24,10 @@ book: How to Actually Change Your Mind
 
 # New Improved Lottery
 
+Response to: “There is a big difference between zero chance of becoming wealthy, and epsilon. Buying a ticket allows your dream of riches to bridge that gap.”
+
+> Anyway, if we pretend that the lottery sells epsilon hope, this suggests a design for a New Improved Lottery. The New Improved Lottery pays out every five years on average, at a random time—determined, say, by the decay of a not-very-radioactive element. You buy in once, for a single dollar, and get not just a few days of epsilon chance of becoming rich, but a few _years_ of epsilon.
+
 
 # Related
 

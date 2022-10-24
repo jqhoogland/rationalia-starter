@@ -174,7 +174,7 @@ export interface Tag {
     name: string,
     core: boolean,
     slug: string,
-    oldSlugs: string,
+    oldSlugs: string,``
     postCount: number,
     parentTag?: null | {
         name: string
@@ -188,7 +188,7 @@ export interface Tag {
 export type TagFrontmatter = { type: 'tag', _id?: string, slug?: string  } & { [key: string]: any}
 
 const getBaseURL = (frontmatter: Partial<TagFrontmatter | SequenceFrontmatter | PostFrontmatter>) => {
-	if (frontmatter.tags.includes("EA")) {
+	if ((frontmatter.tags ?? []).includes("EA")) {
 		return "forum.effectivealtruism.org"
 	}
 	return "www.lesswrong.com"

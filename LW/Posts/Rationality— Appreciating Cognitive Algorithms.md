@@ -33,7 +33,7 @@ status: todo
 - "[boring](http://wiki.lesswrong.com/wiki/Joy_in_the_Merely_Real)"
 - "[mundane](http://hpmor.com/chapter/73)"
 - "[rationalist taboo](http://wiki.lesswrong.com/wiki/Rationalist_taboo)"
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[sunk costs](http://en.wikipedia.org/wiki/Sunk_costs)"
 - "[Mars effect](http://en.wikipedia.org/wiki/Mars_effect)"
 - "[Mainstream status here](#7kyw)"

@@ -26,7 +26,9 @@ author: Eliezer Yudkowsky
 ---
 
 # A Fable of Science and Politics
+Blue & Greens are cast away into an Emberian subterranean city. The debate hinges on the question of whether the sky is green or blue.
 
+When you finally discover the truth, you have two options: to go back and spread the word, or to go on and continue exploring.
 
 # Related
 

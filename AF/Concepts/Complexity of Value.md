@@ -12,7 +12,7 @@ slug: complexity-of-value
 synchedAt: '2022-09-01T09:42:52.875Z'
 ---
 
-**Complexity of value** is the thesis that human values have high [Kolmogorov complexity](https://wiki.lesswrong.com/wiki/Kolmogorov_complexity); that our [preferences](https://wiki.lesswrong.com/wiki/preferences), the things we care about, cannot be summed by a few simple rules, or compressed. **[Fragility of value](https://www.lesswrong.com/lw/y3/value_is_fragile/)** is the thesis that losing even a small part of the rules that make up our values could lead to results that most of us would now consider as unacceptable (just like dialing nine out of ten phone digits correctly does not connect you to a person 90% similar to your friend). For example, all of our values *except* novelty might yield a future full of individuals replaying only one optimal experience through all eternity.
+**Complexity of value** is the thesis that human values have high [[Kolmogorov complexity]]; that our [[preference|preferences]], the things we care about, cannot be summed by a few simple rules, or compressed. **[[Value is fragile|Fragility of value]]** is the thesis that losing even a small part of the rules that make up our values could lead to results that most of us would now consider as unacceptable (just like dialing nine out of ten phone digits correctly does not connect you to a person 90% similar to your friend). For example, all of our values *except* novelty might yield a future full of individuals replaying only one optimal experience through all eternity.
 
 Related: [Ethics & Metaethics](https://www.lesswrong.com/tag/metaethics), [[Fun Theory|Fun Theory]], [Preference](https://www.lesswrong.com/tag/preference), [[Wireheading|Wireheading]]
 
@@ -32,7 +32,7 @@ Because the human brain very often fails to grasp all these difficulties involvi
 
 As values are orthogonal with intelligence, they can freely vary no matter how intelligent and efficient an AGI is \[[1](http://www.nickbostrom.com/superintelligentwill.pdf)\]. Since human / humane values have high Kolmogorov complexity, a random AGI is highly unlikely to maximize human / humane values. The fragility of value thesis implies that a poorly constructed AGI might e.g. turn us into blobs of perpetual orgasm. Because of this relevance the complexity and fragility of value is a major theme of [Eliezer Yudkowsky](https://www.lesswrong.com/tag/eliezer-yudkowsky)'s writings.
 
-Wrongly designing the future because we wrongly encoded human values is a serious and difficult to assess type of [[EA/Topics/Existential risk|Existential risk]]. "Touch too hard in the wrong dimension, and the physical representation of those values will shatter - *and not come back, for there will be nothing left to want to bring it back*. And the referent of those values - a worthwhile universe - would no longer have any physical reason to come into being. Let go of the steering wheel, and the Future crashes." \[[2](https://www.lesswrong.com/lw/y3/value_is_fragile/)\]
+Wrongly designing the future because we wrongly encoded human values is a serious and difficult to assess type of [[Existential risk|Existential risk]]. "Touch too hard in the wrong dimension, and the physical representation of those values will shatter - *and not come back, for there will be nothing left to want to bring it back*. And the referent of those values - a worthwhile universe - would no longer have any physical reason to come into being. Let go of the steering wheel, and the Future crashes." \[[2](https://www.lesswrong.com/lw/y3/value_is_fragile/)\]
 
 # Complexity of Value and AI
 
@@ -41,7 +41,7 @@ Complexity of value poses a problem for [[AI|AI alignment]]. If you can't easily
 # Major Posts
 
 - [The Fun Theory Sequence](https://www.lesswrong.com/lw/xy/the_fun_theory_sequence/) describes some of the many complex considerations that determine *what sort of happiness* we most prefer to have - given that many of us would decline to just have an electrode planted in our pleasure centers.
-- [Thou Art Godshatter](https://www.lesswrong.com/lw/l3/thou_art_godshatter/) describes the [[LW/Concepts/Evolutionary Psychology|evolutionary psychology]] behind the complexity of human values - how they got to be complex, and why, given that origin, there is no reason in hindsight to expect them to be simple. We certainly are not built to [maximize genetic fitness](https://wiki.lesswrong.com/wiki/adaptation_executers).
+- [Thou Art Godshatter](https://www.lesswrong.com/lw/l3/thou_art_godshatter/) describes the [[Evolutionary Psychology|evolutionary psychology]] behind the complexity of human values - how they got to be complex, and why, given that origin, there is no reason in hindsight to expect them to be simple. We certainly are not built to [maximize genetic fitness](https://wiki.lesswrong.com/wiki/adaptation_executers).
 - [Not for the Sake of Happiness (Alone)](https://www.lesswrong.com/lw/lb/not_for_the_sake_of_happiness_alone/) tackles the [Hollywood Rationality](https://www.lesswrong.com/tag/hollywood-rationality) trope that "rational" preferences must reduce to selfish hedonism - caring strictly about personally experienced pleasure. An ideal Bayesian agent - implementing strict Bayesian decision theory - can have a utility function that [ranges over anything, not just internal subjective experiences](https://www.lesswrong.com/lw/l4/terminal_values_and_instrumental_values/).
 - [Fake Utility Functions](https://www.lesswrong.com/lw/lq/fake_utility_functions/) describes the seeming fascination that many have with trying to compress morality down to a single principle. The [sequence leading up](https://www.lesswrong.com/lw/lp/fake_fake_utility_functions/) to this post tries to explain the cognitive twists whereby people [smuggle](https://www.lesswrong.com/lw/ld/the_hidden_complexity_of_wishes/) all of their complicated *other* preferences into their choice of *exactly* which acts they try to *[justify using](https://www.lesswrong.com/lw/kq/fake_justification/)* their single principle; but if they were *really* following *only* that single principle, they would [choose other acts to justify](https://www.lesswrong.com/lw/kz/fake_optimization_criteria/).
 
@@ -62,23 +62,19 @@ Complexity of value poses a problem for [[AI|AI alignment]]. If you can't easily
 - [Fake simplicity](https://www.lesswrong.com/tag/fake-simplicity)
 - [[Metaethics Sequence|Metaethics sequence]]
 - [Fun theory](https://www.lesswrong.com/tag/fun-theory)
-- [[LW/Concepts/Magical Categories|Magical categories]]
+- [[Magical Categories|Magical categories]]
 - [Friendly Artificial Intelligence](https://www.lesswrong.com/tag/friendly-artificial-intelligence)
 - [[Preference|Preference]]
 - [Wireheading](https://www.lesswrong.com/tag/wireheading)
 - [[The Utility Function Is Not Up For Grabs|The utility function is not up for grabs]]
 
-
 %%
 
-% START
+START
 Basic (and reversed card)
 What is **Complexity of Value**?
-Back: {TODO}
+Back: The thesis that human values have high Kolmogorov complexity; that our preferences, the things we care about, cannot be summed by a few simple rules, or compressed.
 Tags: LessWrong
 END
-<!--ID: 1663156952360-->
-
 
 %%
-	

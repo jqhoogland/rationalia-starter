@@ -10,6 +10,9 @@ tags:
   - Tag
 synchedAt: '2022-09-01T09:42:52.009Z'
 status: todo
+aliases:
+ - Law of total expectations
+ - Law of iterated expectations
 ---
 
 # Conservation of Expected Evidence

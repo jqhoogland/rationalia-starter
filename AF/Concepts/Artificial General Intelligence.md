@@ -57,3 +57,4 @@ Reasons for expecting an AGI's creation in the near future include the continuat
 - [[Mind Design Space|Mind design space]]
 - [[Singleton]]
 - [[Anthropomorphism]], [[Giant Cheesecake Fallacy|giant cheesecake fallacy]]
+- [[General Intelligence]]

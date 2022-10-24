@@ -24,16 +24,16 @@ But there are also about 5 studies that find that the drug is very good, and 5 s
 
 ### Studies and Statistics
 
-- [Beware The Man Of One Study](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/ythFNoiAotjvuEGkg)
-- [Debunked And Well-Refuted](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/kdmCm5NQTpqhJmGm6)
-- [Noisy Poll Results And Reptilian Muslim Climatologists from Mars](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/CsKrQdQJJCFPjfKjF)
-- [Two Dark Side Statistics Papers](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/SQAfPKZBAAKYMjx25)
-- [The Control Group Is Out Of Control](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/bXuAXCbzw9hsJSuEN)
-- [The Cowpox of Doubt](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/ckuuDa8DmJ4pdFeD8)
-- [How Common Are Science Failures?](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/Sd2r7H8bCmd9ChGbX)
-- [Learning To Love Scientific Consensus](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/ERPL3v2Y976W7XG3j)
+- [[Beware The Man Of One Study]]
+- [[Debunked And Well-Refuted]]
+- [[Noisy Poll Results And Reptilian Muslim Climatologists from Mars]]
+- [[Two Dark Side Statistics Papers]]
+- [[The Control Group Is Out Of Control]]
+- [[The Cowpox of Doubt]]
+- [[How Common Are Science Failures?]]
+- [[Learning To Love Scientific Consensus]]
 
 ### Interlude
 
-- [My IRB Nightmare](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/gBChm3THPGFcrq5eH)
-- [The Study of Anglophysics](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/hMQPyLDbg3bA7P6aN)
+- [[My IRB Nightmare]]
+- [[The Study of Anglophysics]]

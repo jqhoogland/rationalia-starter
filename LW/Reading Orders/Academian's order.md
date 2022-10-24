@@ -22,7 +22,7 @@ href: https://www.lesswrong.com/posts/JKnLHkKtfpJxPXArd/draft-of-a-suggested-rea
 - [[Evidence]]
 - [[Bayes' Theorem]]
 - [[Priors]]
-- [[Belief in belief]]
+- [[Belief in Belief (Post)]]
 
 ## Table of Contents of [[How to Actually Change Your Mind]]
 

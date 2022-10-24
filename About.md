@@ -6,7 +6,7 @@ This repository is a starting point to take notes on the concepts, terms, jargon
 
 ## Motivation
 
-LessWrong and its compatriots have accumulated a lot of posts over the years. This can be daunting for newcomers. Sure you can grind through [[Rationality A-Z|The Sequences]], but it's going to take a lot more work to actually keep the information in long-term memory.
+LessWrong and its compatriots have accumulated a lot of posts over the years. This can be daunting for newcomers. Simply reading through [[Rationality— A-Z|The Sequences]] is great, but really internalizing the knowledge & putting it to work will require extra effort.
 
 In particular, the aim of this repository is:
 

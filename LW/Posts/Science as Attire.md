@@ -23,7 +23,10 @@ book: 'Map and Territory '
 ---
 
 # Science as Attire
+> The _X-Men_ comics use terms like “evolution,” “mutation,” and “genetic code,” purely to place themselves in what they conceive to be the _literary genre_ of science. The part that scares me is wondering how many people, especially in the media, understand science _only_ as a literary genre.
 
+
+> Is there any idea in science that you are _proud_ of believing, though you do not use the belief professionally?
 
 # Related
 

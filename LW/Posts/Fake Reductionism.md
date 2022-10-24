@@ -29,7 +29,7 @@ author: Eliezer_Yudkowsky
 - [[Emotions]]
 - [[Distinctions]]
 - [[Fake Explanations]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[recordings to recite back in the classroom](/lw/iq/guessing_the_teachers_password/)"
 - [[Semantic Stopsigns]]
 - [[Science as Attire]]

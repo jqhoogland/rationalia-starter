@@ -28,5 +28,5 @@ status: todo
 - [[Logic & Mathematics ]]
 - [[Gödelian Logic]]
 - "[Godel's Completeness and Incompleteness Theorems](https://www.lesswrong.com/lw/g1y/godels_completeness_and_incompleteness_theorems/)"
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - "[Highly Advanced Epistemology 101 for Beginners](http://wiki.lesswrong.com/wiki/Highly_Advanced_Epistemology_101_for_Beginners)"

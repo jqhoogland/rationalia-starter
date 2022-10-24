@@ -22,7 +22,7 @@ book: How to Actually Change Your Mind
 ---
 
 # The Scales of Justice, the Notebook of Rationality
-
+> But studies such as [“The Affect Heuristic in Judgments of Risks and Benefits”] show that people tend to judge technologies—and many other problems—by an overall good or bad feeling. If you tell people a reactor design produces less waste, they rate its probability of meltdown as lower. This means getting the _wrong answer_ to physical questions with definite factual answers, because you have mixed up logically distinct questions
 
 # Related
 

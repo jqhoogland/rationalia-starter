@@ -25,6 +25,12 @@ author: Eliezer Yudkowsky
 ---
 
 # Reversed Stupidity Is Not Intelligence
+$P(\text{cults}|\text{aliens})$ isn’t less than $P(\text{cults}|\lnot\text{aliens})$.
+
+> “The world’s greatest fool may say the Sun is shining, but that doesn’t make it dark out.”
+
+— Robert Pirsig
+
 
 
 # Related

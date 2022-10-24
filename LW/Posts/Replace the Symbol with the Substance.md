@@ -36,7 +36,7 @@ author: Eliezer_Yudkowsky
 - [[Cached Thoughts (Post)]]
 - [[Taboo Your Words]]
 - [[Making Beliefs Pay Rent (in Anticipated Experiences)]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]
 - [[Hug the Query]]
 - [[Lost Purposes]]
 - [[Leaky Generalizations]]

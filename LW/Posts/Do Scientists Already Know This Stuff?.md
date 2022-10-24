@@ -41,4 +41,4 @@ book: Mere Reality
 - "[summarized](/lw/qd/science_isnt_strict_enough/k35)"
 - "[pragmatic-distrust-based-libertarianism](/lw/qb/science_doesnt_trust_your_rationality/)"
 - [[Outside the Laboratory]]
-- [[Belief in Belief]]
+- [[Belief in Belief (Post)]]

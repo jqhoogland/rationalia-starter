@@ -28,7 +28,7 @@ External links
 Related entries
 ---------------
 
-[[Aging research|aging research]] | [[Atomically precise manufacturing|atomically precise manufacturing]] | [[Brain-computer interfaces|brain-computer interfaces]] | [[Eric Drexler]] | [[Space colonization|space colonization]] | [[Transhumanism|transhumanism]]
+[[Aging research|aging research]] | [[Atomically precise manufacturing|atomically precise manufacturing]] | [[1 Projects/Rationalia/EA/Topics/Brain-computer interfaces|brain-computer interfaces]] | [[Eric Drexler]] | [[Space colonization|space colonization]] | [[Transhumanism|transhumanism]]
 
 1.  ^**[^](#fnreftojvnocprwc)**^
     

@@ -20,7 +20,7 @@ book: 'Map and Territory '
 ---
 
 # Focus Your Uncertainty
-
+> No, your only course is to _allocate_ your _limited supply_ of anticipation as best you can.
 
 # Related
 

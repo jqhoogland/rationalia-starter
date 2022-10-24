@@ -15,6 +15,13 @@ The **instrumental convergence thesis** is the alleged overlap in instrumental g
 
 Commonly expected instrumental goals towards which all intelligent agents would converge are self-preservation, goal preservation, and resource acquisition.
 
+From [[Superintelligence (book)]]
+> Several instrumental values can be identified which are convergent in the sense
+that their attainment would increase the chances of the agent’s goal being realized
+for a wide range of final goals and a wide range of situations, implying that these instrumental values are likely to be pursued by a broad spectrum of situated intel-
+ligent agents.
+
+
 Further reading
 ---------------
 
