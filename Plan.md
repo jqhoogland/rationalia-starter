@@ -4,21 +4,27 @@ I'm approaching this content in parallel, so when I get sick of one thing, I can
 
 # Tracks
 
+The checkboxes are what I'm working on right now. The rest I haven't started yet (and may never).
+
 - [[The AI Alignment Forum|AF]]
-	- [[AXRP]]
-	- [[Alignment Newsletter]]
+	- [ ] [[AXRP]]
+	- [ ] [[Alignment Newsletter]]
+	- [ ] Various sequences
 - AIS Courses
-	- [[AGI Safety Fundamentals]]
+	- [ ] [[AGI Safety Fundamentals]]
 	- [[Intro to ML Safety]]
-- [[Machine Learning (ML)]]
-	- [[Mathematics for Machine Learning]]
-	- [[Pattern Recognition and Machine Learning]]
+- [[Machine Learning (ML)]] 
+	- [ ] [[Mathematics for Machine Learning]] (MML)
+	- [ ] [[Pattern Recognition and Machine Learning]] (PRML)
+    - Reinforcement Learning (Sutton & Barto)
+    - AI (Russell & Norvig)
 - [[Programming]]
+    - [ ] [[ARENA virtual]]
 	- [[OpenAI's Spinning Up]]
 	- [[Practical Deep Learning for Coders]]
 	- [[Deep Learning from the Foundations]]
 	- [[Deep Learning @ VU]]
-	- [[Cracking the Coding Interview]]
+	- [ ] [[Cracking the Coding Interview]]
 - [[Articles]]
 	- [[AI Models]]
 
